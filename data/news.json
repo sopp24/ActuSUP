@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T15:36:14.967025+00:00",
-  "last_attempt": "2026-10-20T15:36:14.967025+00:00",
+  "last_updated": "2026-10-20T15:45:00.338730+00:00",
+  "last_attempt": "2026-10-20T15:45:00.338730+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 160,
   "sources_configured": 9,
@@ -8,8 +8,8 @@
     "Les Échos"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Les Échos. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-13T15:36:14.967025+00:00",
-  "featured_window_end": "2026-10-20T15:36:14.967025+00:00",
+  "featured_window_start": "2026-10-13T15:45:00.338730+00:00",
+  "featured_window_end": "2026-10-20T15:45:00.338730+00:00",
   "featured_pool_count": 173,
   "featured_sources_count": 8,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 7 jours",
@@ -19,7 +19,7 @@
       "title": "Après les violences du 17 octobre, le gouvernement fait un début de mea culpa devant l’Assemblée et charge encore LFI",
       "summary": "Sommé de répondre aux critiques des députés de tous bords après les violences survenues samedi, le gouvernement a tenté de se justifier devant l’Assemblée nationale ce mardi 20 octobre, tout en chargeant une nouvelle fois La France insoumise (LFI) d’avoir instrumentalisé le mouvement. Mais sans apporter de nouvelles décisions susceptibles de calmer la…",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/societe/manifestation/apres-les-violences-du-17-octobre-le-gouvernement-fait-un-debut-de-mea-culpa-et-charge-encore-la-france-insoumise-20f77db8-cc83-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-20T15:23:52+00:00",
       "category": "Politique",
@@ -35,9 +35,9 @@
         "Public Sénat"
       ],
       "coverage_count": 8,
-      "mention_count": 21,
-      "importance_score": 22.895,
-      "latest_coverage_at": "2026-10-20T15:30:08+00:00"
+      "mention_count": 20,
+      "importance_score": 22.82,
+      "latest_coverage_at": "2026-10-20T15:33:22+00:00"
     },
     {
       "id": "178aa523a09a",
@@ -57,8 +57,8 @@
         "Public Sénat"
       ],
       "coverage_count": 5,
-      "mention_count": 20,
-      "importance_score": 20.103,
+      "mention_count": 21,
+      "importance_score": 20.189,
       "latest_coverage_at": "2026-10-20T15:00:55+00:00"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.097,
+      "importance_score": 16.096,
       "latest_coverage_at": "2026-10-20T14:30:11+00:00"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.471,
+      "importance_score": 14.469,
       "latest_coverage_at": "2026-10-20T14:56:09+00:00"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.437,
+      "importance_score": 14.42,
       "latest_coverage_at": "2026-10-20T14:36:56+00:00"
     },
     {
@@ -138,34 +138,15 @@
       ],
       "coverage_count": 2,
       "mention_count": 2,
-      "importance_score": 12.092,
+      "importance_score": 12.091,
       "latest_coverage_at": "2026-10-20T15:12:30+00:00"
-    },
-    {
-      "id": "d24c5d6eb8a1",
-      "title": "Luca Niculescu, «l’homme de la France» nommé Premier ministre pour sortir la Roumanie de l’impasse",
-      "summary": "Ancien journaliste, notamment pour «Libération», et ambassadeur à Paris, le nouveau chef du gouvernement prend la tête d’une coalition minoritaire dominée par les sociaux-démocrates. Son soutien parlementaire reste fragile.",
-      "source": "Libération",
-      "feed_rank": 8,
-      "url": "https://www.liberation.fr/international/europe/luca-niculescu-lhomme-de-la-france-nomme-premier-ministre-pour-sortir-la-roumanie-de-limpasse-20261020_2OITX4DF6FHBRACA5O664OR3PQ/",
-      "published_at": "2026-10-20T14:27:30+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Luca Niculescu, «l’homme de la France» nommé Premier ministre pour sortir la Roumanie de l’impasse ».",
-      "coverage_sources": [
-        "RFI",
-        "Libération"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2,
-      "importance_score": 11.946,
-      "latest_coverage_at": "2026-10-20T14:27:30+00:00"
     },
     {
       "id": "bf797943ff3e",
       "title": "France: Macron sécurise des livraisons supplémentaires de 200 000 tonnes de diesel par mois dans le Golfe",
       "summary": "Le président français Emmanuel Macron, en tournée dans le Golfe, a sécurisé la livraison de 200 000 tonnes supplémentaires de diesel par mois auprès des Émirats arabes unis et de Bahreïn, a annoncé mardi 20 octobre l'Élysée.",
       "source": "RFI",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261020-france-macron-s%C3%A9curise-des-livraisons-suppl%C3%A9mentaires-de-200-000-tonnes-de-diesel-par-mois-dans-le-golfe",
       "published_at": "2026-10-20T10:07:32+00:00",
       "category": "Politique",
@@ -176,7 +157,7 @@
       ],
       "coverage_count": 2,
       "mention_count": 2,
-      "importance_score": 11.917,
+      "importance_score": 11.893,
       "latest_coverage_at": "2026-10-20T10:07:32+00:00"
     },
     {
@@ -195,7 +176,7 @@
       ],
       "coverage_count": 2,
       "mention_count": 2,
-      "importance_score": 11.858,
+      "importance_score": 11.856,
       "latest_coverage_at": "2026-10-20T10:54:46+00:00"
     },
     {
@@ -214,7 +195,7 @@
       ],
       "coverage_count": 2,
       "mention_count": 2,
-      "importance_score": 11.585,
+      "importance_score": 11.583,
       "latest_coverage_at": "2026-10-20T07:14:20+00:00"
     },
     {
@@ -232,7 +213,7 @@
       ],
       "coverage_count": 1,
       "mention_count": 2,
-      "importance_score": 9.648,
+      "importance_score": 9.646,
       "latest_coverage_at": "2026-10-20T13:40:26+00:00"
     },
     {
@@ -250,7 +231,7 @@
       ],
       "coverage_count": 1,
       "mention_count": 2,
-      "importance_score": 9.43,
+      "importance_score": 9.428,
       "latest_coverage_at": "2026-10-20T14:37:12+00:00"
     },
     {
@@ -268,7 +249,7 @@
       ],
       "coverage_count": 1,
       "mention_count": 2,
-      "importance_score": 9.286,
+      "importance_score": 9.284,
       "latest_coverage_at": "2026-10-20T14:01:44+00:00"
     },
     {
@@ -286,7 +267,7 @@
       ],
       "coverage_count": 1,
       "mention_count": 2,
-      "importance_score": 9.145,
+      "importance_score": 9.143,
       "latest_coverage_at": "2026-10-20T13:46:00+00:00"
     },
     {
@@ -304,7 +285,7 @@
       ],
       "coverage_count": 1,
       "mention_count": 2,
-      "importance_score": 9.137,
+      "importance_score": 9.136,
       "latest_coverage_at": "2026-10-20T13:08:09+00:00"
     },
     {
@@ -322,44 +303,26 @@
       ],
       "coverage_count": 1,
       "mention_count": 2,
-      "importance_score": 9.081,
+      "importance_score": 9.079,
       "latest_coverage_at": "2026-10-20T14:10:39+00:00"
     },
     {
-      "id": "a2915e575ce0",
-      "title": "Un commerce peut-il faire envoyer à la fourrière un véhicule garé sur son parking ?",
-      "summary": "« Réservé à la clientèle » : cette indication que l’on retrouve souvent sur les parkings de commerces peut-elle justifier la mise en fourrière d’un véhicule garé sur un emplacement ? Un commerce peut-il par ailleurs interdire le stationnement à ses abords ? Le Courrier de l’Ouest vous répond.",
+      "id": "1f22843bd777",
+      "title": "« Ma vie s’est comme éteinte » : sept ans après le viol de sa fille, Marlène « veut rester forte » avant le procès",
+      "summary": "La Cour d’assises des mineurs des Deux-Sèvres jugera une affaire de viol courant novembre 2026. Partie civile et mère de la victime âgée de 15 ans à l’époque des faits, Marlène attend ce procès depuis près de sept ans.",
       "source": "Ouest-France",
       "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/economie/commerce/un-commerce-peut-il-faire-envoyer-a-la-fourriere-un-vehicule-gare-sur-son-parking-65a18a04-a51d-11f1-94d9-ff4da0548a19?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T15:35:35+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Un commerce peut-il faire envoyer à la fourrière un véhicule garé sur son parking ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/ma-vie-sest-comme-eteinte-sept-ans-apres-le-viol-de-sa-fille-mineure-cest-lheure-du-proces-aux-assises-fa819e1c-c95c-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:41:26+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Ma vie s’est comme éteinte » : sept ans après le viol de sa fille, Marlène « veut rester forte » avant le procès ».",
       "coverage_sources": [
         "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1,
-      "importance_score": 8.95,
-      "latest_coverage_at": "2026-10-20T15:35:35+00:00"
-    },
-    {
-      "id": "585ea1154247",
-      "title": "Ferrero, Danone, Mars… Ces géants de l’agroalimentaire qui refusent tout ou partie du Nutri-Score",
-      "summary": "Si plus de 60 % des produits alimentaires vendus en France affichent le code couleur apportant une information nutritionnelle, de très gros acteurs du secteur demeurent rétifs à ce dispositif. Un amendement transpartisan doit être examiné ces jours-ci par les députés visant à le rendre obligatoire.",
-      "source": "Libération",
-      "feed_rank": 1,
-      "url": "https://www.liberation.fr/economie/conso/ferrero-danone-mars-ces-geants-de-lagroalimentaire-qui-refusent-tout-ou-partie-du-nutri-score-20261020_FQTBDNZOTRHTZJCDZ2SEF4HXK4/",
-      "published_at": "2026-10-20T15:31:01+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Ferrero, Danone, Mars… Ces géants de l’agroalimentaire qui refusent tout ou partie du Nutri-Score ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1,
       "importance_score": 8.949,
-      "latest_coverage_at": "2026-10-20T15:31:01+00:00"
+      "latest_coverage_at": "2026-10-20T15:41:26+00:00"
     },
     {
       "id": "31e8c22293ab",
@@ -376,7 +339,7 @@
       ],
       "coverage_count": 1,
       "mention_count": 1,
-      "importance_score": 8.948,
+      "importance_score": 8.947,
       "latest_coverage_at": "2026-10-20T15:28:37+00:00"
     },
     {
@@ -394,28 +357,130 @@
       ],
       "coverage_count": 1,
       "mention_count": 1,
-      "importance_score": 8.947,
+      "importance_score": 8.946,
       "latest_coverage_at": "2026-10-20T15:22:54+00:00"
-    }
-  ],
-  "articles": [
+    },
     {
-      "id": "a2915e575ce0",
-      "title": "Un commerce peut-il faire envoyer à la fourrière un véhicule garé sur son parking ?",
-      "summary": "« Réservé à la clientèle » : cette indication que l’on retrouve souvent sur les parkings de commerces peut-elle justifier la mise en fourrière d’un véhicule garé sur un emplacement ? Un commerce peut-il par ailleurs interdire le stationnement à ses abords ? Le Courrier de l’Ouest vous répond.",
+      "id": "76451919c992",
+      "title": "Cyclisme. Paul Seixas et Decathlon - CMA CGM au pied du podium du classement UCI",
+      "summary": "La saison 2026 vient de rendre son verdict et la publication du dernier classement UCI offre une remarquable quatrième place à Paul Seixas dans le classement individuel, derrière Tadej Pogacar, Remco Evenepoel et Isaac Del Toro mais devant Jonas Vingegaard. Par équipes, même 4e place pour Decathlon - CMA CGM, comme une preuve de la progression de la…",
       "source": "Ouest-France",
-      "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/economie/commerce/un-commerce-peut-il-faire-envoyer-a-la-fourriere-un-vehicule-gare-sur-son-parking-65a18a04-a51d-11f1-94d9-ff4da0548a19?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T15:35:35+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Un commerce peut-il faire envoyer à la fourrière un véhicule garé sur son parking ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/sport/cyclisme/paul-seixas/cyclisme-paul-seixas-et-decathlon-cma-cgm-au-pied-du-podium-du-classement-uci-c59656f2-cba0-11f1-ad87-e24a1a2986e9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:40:48+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Cyclisme. Paul Seixas et Decathlon - CMA CGM au pied du podium du classement UCI » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1,
+      "importance_score": 8.903,
+      "latest_coverage_at": "2026-10-20T15:40:48+00:00"
     },
     {
       "id": "585ea1154247",
       "title": "Ferrero, Danone, Mars… Ces géants de l’agroalimentaire qui refusent tout ou partie du Nutri-Score",
       "summary": "Si plus de 60 % des produits alimentaires vendus en France affichent le code couleur apportant une information nutritionnelle, de très gros acteurs du secteur demeurent rétifs à ce dispositif. Un amendement transpartisan doit être examiné ces jours-ci par les députés visant à le rendre obligatoire.",
       "source": "Libération",
+      "feed_rank": 2,
+      "url": "https://www.liberation.fr/economie/conso/ferrero-danone-mars-ces-geants-de-lagroalimentaire-qui-refusent-tout-ou-partie-du-nutri-score-20261020_FQTBDNZOTRHTZJCDZ2SEF4HXK4/",
+      "published_at": "2026-10-20T15:31:01+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Ferrero, Danone, Mars… Ces géants de l’agroalimentaire qui refusent tout ou partie du Nutri-Score ».",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1,
+      "importance_score": 8.901,
+      "latest_coverage_at": "2026-10-20T15:31:01+00:00"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1f22843bd777",
+      "title": "« Ma vie s’est comme éteinte » : sept ans après le viol de sa fille, Marlène « veut rester forte » avant le procès",
+      "summary": "La Cour d’assises des mineurs des Deux-Sèvres jugera une affaire de viol courant novembre 2026. Partie civile et mère de la victime âgée de 15 ans à l’époque des faits, Marlène attend ce procès depuis près de sept ans.",
+      "source": "Ouest-France",
       "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/ma-vie-sest-comme-eteinte-sept-ans-apres-le-viol-de-sa-fille-mineure-cest-lheure-du-proces-aux-assises-fa819e1c-c95c-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:41:26+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Ma vie s’est comme éteinte » : sept ans après le viol de sa fille, Marlène « veut rester forte » avant le procès »."
+    },
+    {
+      "id": "76451919c992",
+      "title": "Cyclisme. Paul Seixas et Decathlon - CMA CGM au pied du podium du classement UCI",
+      "summary": "La saison 2026 vient de rendre son verdict et la publication du dernier classement UCI offre une remarquable quatrième place à Paul Seixas dans le classement individuel, derrière Tadej Pogacar, Remco Evenepoel et Isaac Del Toro mais devant Jonas Vingegaard. Par équipes, même 4e place pour Decathlon - CMA CGM, comme une preuve de la progression de la…",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/sport/cyclisme/paul-seixas/cyclisme-paul-seixas-et-decathlon-cma-cgm-au-pied-du-podium-du-classement-uci-c59656f2-cba0-11f1-ad87-e24a1a2986e9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:40:48+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Cyclisme. Paul Seixas et Decathlon - CMA CGM au pied du podium du classement UCI » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
+      "id": "466b75cf86b0",
+      "title": "ENTRETIEN. « J’attends des réponses sur le pouvoir d’achat », dit Marylise Léon, secrétaire générale de la CFDT",
+      "summary": "Le Premier ministre Sébastien Lecornu a invité les organisations syndicales ce mercredi 21 octobre. Le but : échanger sur la journée du 17 octobre qui a viré au chaos, et sur la suite de la mobilisation sociale. Marylise Léon, secrétaire générale de la CFDT, a accordé une interview à Ouest-France pour détailler ses demandes.",
+      "source": "Ouest-France",
+      "feed_rank": 3,
+      "url": "https://www.ouest-france.fr/economie/syndicats/cfdt/entretien-n-attend-des-reponses-sur-le-pouvoir-dachat-dit-marylise-leon-secretaire-generale-de-la-cfdt-bb209490-cc80-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:40:09+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « ENTRETIEN. « J’attends des réponses sur le pouvoir d’achat », dit Marylise Léon, secrétaire générale de la CFDT »."
+    },
+    {
+      "id": "26fc42bef40c",
+      "title": "F1. Un logo spécial pour célébrer la 500e course de Honda, ce week-end, aux États-Unis",
+      "summary": "Honda va vivre un moment un peu spécial lors du Grand Prix des États-Unis à Austin (Texas), du 23 au 25 octobre 2026. Le constructeur japonais participera à sa 500e course en F1. À cette occasion, un logo spécial Honda500 figurera sur les voitures AMR26 de l’écurie Aston Martin et sur les uniformes des ingénieurs de course HRC.",
+      "source": "Ouest-France",
+      "feed_rank": 4,
+      "url": "https://www.ouest-france.fr/sport/formule-1/f1-un-logo-special-pour-celebrer-la-500e-course-de-honda-ce-week-end-aux-etats-unis-a91741ba-cc8d-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:38:24+00:00",
+      "category": "Économie",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « F1. Un logo spécial pour célébrer la 500e course de Honda, ce week-end, aux États-Unis »."
+    },
+    {
+      "id": "0815bdbaad71",
+      "title": "Le Parlement roumain approuve un gouvernement pro-UE après des mois d'impasse",
+      "summary": "Le Parlement roumain a approuvé, mardi 20 octobre, le gouvernement du Premier ministre pro-européen Luca Niculescu, mettant fin à plusieurs mois d'impasse politique.",
+      "source": "RFI",
+      "feed_rank": 4,
+      "url": "https://www.rfi.fr/fr/europe/20261020-le-parlement-roumain-approuve-un-gouvernement-pro-ue-apr%C3%A8s-des-mois-d-impasse",
+      "published_at": "2026-10-20T15:36:46+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Le Parlement roumain approuve un gouvernement pro-UE après des mois d'impasse » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
+      "id": "a2915e575ce0",
+      "title": "Un commerce peut-il faire envoyer à la fourrière un véhicule garé sur son parking ?",
+      "summary": "« Réservé à la clientèle » : cette indication que l’on retrouve souvent sur les parkings de commerces peut-elle justifier la mise en fourrière d’un véhicule garé sur un emplacement ? Un commerce peut-il par ailleurs interdire le stationnement à ses abords ? Le Courrier de l’Ouest vous répond.",
+      "source": "Ouest-France",
+      "feed_rank": 5,
+      "url": "https://www.ouest-france.fr/economie/commerce/un-commerce-peut-il-faire-envoyer-a-la-fourriere-un-vehicule-gare-sur-son-parking-65a18a04-a51d-11f1-94d9-ff4da0548a19?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T15:35:35+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Un commerce peut-il faire envoyer à la fourrière un véhicule garé sur son parking ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
+      "id": "93a479efe310",
+      "title": "EN DIRECT – Violences du 17 octobre : nouveau couvre-feu à Paris à partir de mardi 23 heures jusqu’à mercredi 6 heures dans certains quartiers",
+      "summary": "Le préfet du Rhône a également reconduit ce mardi le dispositif dans l’hypercentre de Lyon, à partir de 21 heures jusqu’à 6 heures mercredi, estimant que cette mesure ciblée avait «contribué au calme».",
+      "source": "Libération",
+      "feed_rank": 1,
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-violences-la-nuit-a-ete-calme-dans-les-villes-qui-ont-instaure-un-couvre-feu-partiel-20261020_VKFVMZ23E5FPDAHO7X7FO6BG74/",
+      "published_at": "2026-10-20T15:33:22+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « EN DIRECT – Violences du 17 octobre : nouveau couvre-feu à Paris à partir de mardi 23 heures jusqu’à mercredi 6 heures dans certains quartiers » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
+      "id": "585ea1154247",
+      "title": "Ferrero, Danone, Mars… Ces géants de l’agroalimentaire qui refusent tout ou partie du Nutri-Score",
+      "summary": "Si plus de 60 % des produits alimentaires vendus en France affichent le code couleur apportant une information nutritionnelle, de très gros acteurs du secteur demeurent rétifs à ce dispositif. Un amendement transpartisan doit être examiné ces jours-ci par les députés visant à le rendre obligatoire.",
+      "source": "Libération",
+      "feed_rank": 2,
       "url": "https://www.liberation.fr/economie/conso/ferrero-danone-mars-ces-geants-de-lagroalimentaire-qui-refusent-tout-ou-partie-du-nutri-score-20261020_FQTBDNZOTRHTZJCDZ2SEF4HXK4/",
       "published_at": "2026-10-20T15:31:01+00:00",
       "category": "Politique",
@@ -426,7 +491,7 @@
       "title": "Le Parlement abroge symboliquement le « Code noir », qui encadrait l’esclavage en France",
       "summary": "Le « Code noir » a officiellement été abrogé ce mardi 20 octobre. Il réduisait notamment les personnes esclavagisées au rang de « biens meubles », pouvant être achetées ou vendues par un maître. Cette décision est avant tout symbolique.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/culture/histoire/le-parlement-abroge-symboliquement-le-code-noir-qui-encadrait-lesclavage-en-france-6d911a2c-cc69-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-20T15:30:33+00:00",
       "category": "Politique",
@@ -437,7 +502,7 @@
       "title": "« Tout beau, tout n9uf » : deux jours après le 17 octobre, Cyril Hanouna replonge tête la première dans la politique",
       "summary": "Ce lundi 19 octobre 2026, l’animateur, désormais sur W9, a consacré l’intégralité de son émission quotidienne aux débordements qui ont suivi les manifestations du 17 octobre. Plus tôt dans la journée, il avait déjà annoncé une « émission spéciale ».",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 7,
       "url": "https://programmetv.ouest-france.fr/personnalites/cyril-hanouna/tout-beau-tout-n9uf-deux-jours-apres-le-17-octobre-cyril-hanouna-replonge-tete-la-premiere-dans-la-politique-2b842fc8-cc61-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-20T15:30:17+00:00",
       "category": "Politique",
@@ -459,7 +524,7 @@
       "title": "CARTE. Violences du 17 octobre : Paris, Lyon, Marseille, Bordeaux… Des couvre-feux ce mardi dans plusieurs villes",
       "summary": "Paris, Lyon, Marseille… Plusieurs villes françaises ont annoncé ce mardi 20 octobre la reconduction ou la mise en place de couvre-feux partiels. Certains concernent exclusivement les mineurs.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/societe/manifestation/carte-violences-du-17-octobre-paris-lyon-marseille-bordeaux-des-couvre-feux-ce-mardi-dans-plusieurs-villes-959c2e62-cc8c-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-20T15:30:08+00:00",
       "category": "Société",
@@ -492,7 +557,7 @@
       "title": "Après les violences du 17 octobre, le gouvernement fait un début de mea culpa devant l’Assemblée et charge encore LFI",
       "summary": "Sommé de répondre aux critiques des députés de tous bords après les violences survenues samedi, le gouvernement a tenté de se justifier devant l’Assemblée nationale ce mardi 20 octobre, tout en chargeant une nouvelle fois La France insoumise (LFI) d’avoir instrumentalisé le mouvement. Mais sans apporter de nouvelles décisions susceptibles de calmer la…",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/societe/manifestation/apres-les-violences-du-17-octobre-le-gouvernement-fait-un-debut-de-mea-culpa-et-charge-encore-la-france-insoumise-20f77db8-cc83-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-20T15:23:52+00:00",
       "category": "Politique",
@@ -514,7 +579,7 @@
       "title": "LFI menacé d'interdiction: «Une instrumentalisation malhonnête pour discréditer un concurrent», dénonce le parti",
       "summary": "Après les émeutes du week-end du 17-18 octobre, l'’ensemble de la classe politique pointe du doigt la responsabilité du parti de Jean-Luc Mélenchon, La France insoumise (LFI), accusée « d'attiser le désordre ». Après plusieurs ténors de droite et du centre, le patron du Sénat, Gérard Larcher (Les Républicains), estime à son tour que la question de «…",
       "source": "RFI",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261020-lfi-menac%C3%A9-d-interdiction-une-instrumentalisation-malhonn%C3%AAte-pour-discr%C3%A9diter-un-concurrent-d%C3%A9nonce-le-parti",
       "published_at": "2026-10-20T15:19:53+00:00",
       "category": "Politique",
@@ -525,7 +590,7 @@
       "title": "Yémen : le bilan grimpe à 73 morts dans des bombardements houthis sur un camp des forces armées",
       "summary": "Des attaques sur un centre d’instruction yéménite, située dans la province de Shabwa, ont eu lieu dans la matinée ce lundi 19 octobre. Le bilan, encore incertain, annonce 20 nouveaux morts alors que les hôpitaux sont débordés.",
       "source": "Libération",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.liberation.fr/international/moyen-orient/yemen-au-moins-50-morts-dans-des-bombardements-houthis-sur-un-camp-des-forces-armees-20261019_Z4WWL4UCWBF5PGIG5PXZABLNM4/",
       "published_at": "2026-10-20T15:18:49+00:00",
       "category": "Société",
@@ -543,17 +608,6 @@
       "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Réunion de crise suite au 17 octobre : les députés questionnent Sébastien Lecornu et Laurent Nuñez »."
     },
     {
-      "id": "93a479efe310",
-      "title": "EN DIRECT – Violences du 17 octobre : nouveau couvre-feu à Paris à partir de mardi 23 heures jusqu’à mercredi 6 heures dans certains quartiers",
-      "summary": "Le préfet du Rhône a également reconduit ce mardi le dispositif dans l’hypercentre de Lyon, à partir de 21 heures jusqu’à 6 heures mercredi, estimant que cette mesure ciblée avait «contribué au calme».",
-      "source": "Libération",
-      "feed_rank": 3,
-      "url": "https://www.liberation.fr/societe/police-justice/en-direct-violences-la-nuit-a-ete-calme-dans-les-villes-qui-ont-instaure-un-couvre-feu-partiel-20261020_VKFVMZ23E5FPDAHO7X7FO6BG74/",
-      "published_at": "2026-10-20T15:15:55+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « EN DIRECT – Violences du 17 octobre : nouveau couvre-feu à Paris à partir de mardi 23 heures jusqu’à mercredi 6 heures dans certains quartiers » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
-    },
-    {
       "id": "1b5b3129f171",
       "title": "Ligue des champions : la rencontre PSG-FC Barcelone sur fond de tensions sociales en France",
       "summary": "Les joueurs du PSG, double tenant du titre, et du FC Barcelone, l'équipe invincible du moment, sont attendus mardi 20 octobre au Parc des princes lors de la troisième journée de la Ligue des champions. Un match qui prend place au cœur du contexte tendu des violences survenues en marge de la mobilisation du 17 octobre. Les précisions de Cédric Ferreira,…",
@@ -569,7 +623,7 @@
       "title": "Ligue 3. Vers un changement de jour et d’horaire du multiplex ?",
       "summary": "Après dix journées de championnat, la Fédération française de football et Ligue 1 +, le diffuseur, pourraient modifier l’horaire et le jour des rencontres du multiplex de Ligue 3. Selon les informations du Parisien, il serait maintenant programmé le jeudi soir.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/ligue-3/ligue-3-vers-un-changement-de-jour-et-dhoraire-du-multiplex-a7304e04-cc93-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-20T15:11:00+00:00",
       "category": "Sport",
@@ -580,22 +634,11 @@
       "title": "Ukraine: en visite en Norvège, Volodymyr Zelensky tente de relancer une diplomatie en crise",
       "summary": "Volodymyr Zelensky est arrivé mardi 20 octobre en Norvège pour des entretiens avec les émissaires américains, alors que les relations entre Kiev et Washington se sont fortement tendues.",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.rfi.fr/fr/europe/20261020-ukraine-en-visite-en-norv%C3%A8ge-volodymyr-zelensky-tente-de-relancer-une-diplomatie-en-crise",
       "published_at": "2026-10-20T15:09:15+00:00",
       "category": "International",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Ukraine: en visite en Norvège, Volodymyr Zelensky tente de relancer une diplomatie en crise »."
-    },
-    {
-      "id": "76baa1ab94de",
-      "title": "Ni carte traditionnelle ni menu classique : à Versailles, Norbert Tarayre ouvre un restaurant avec un concept surprenant",
-      "summary": "Le nouveau restaurant du chef Norbert Tarayre a ouvert à Versailles (Yvelines) ce mardi 20 octobre. L’ancien candidat de « Top Chef » y propose un concept original, axé sur la simplicité et le produit, pour bousculer les codes de la cuisine française.",
-      "source": "Ouest-France",
-      "feed_rank": 7,
-      "url": "https://www.ouest-france.fr/societe/gastronomie/ni-carte-traditionnelle-ni-menu-classique-a-versailles-norbert-tarayre-ouvre-un-restaurant-avec-un-concept-surprenant-341ed7d8-cc97-11f1-b497-716ff9f9734b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T15:08:44+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Ni carte traditionnelle ni menu classique : à Versailles, Norbert Tarayre ouvre un restaurant avec un concept surprenant »."
     },
     {
       "id": "b6f05718317a",
@@ -653,17 +696,6 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Congrès du RN à Orléans ce week-end : inquiétudes autour de la sécurité, des débordements redoutés »."
     },
     {
-      "id": "0fd0c2396cd7",
-      "title": "Une irrégularité dans l’élection du maire RN de La Flèche à la présidence du conseil de surveillance de l’hôpital",
-      "summary": "L’élection du maire RN de La Flèche (Sarthe) Romain Lemoigne à la présidence du conseil de surveillance du pôle santé Sarthe et Loir, le 24 juin 2026, ne s’est pas déroulée dans les règles. C’est ce que dénoncent les syndicats dans un communiqué de presse daté du 20 octobre. L’élu y voit des « petits calculs électoraux-syndicaux à quelques semaines des…",
-      "source": "Ouest-France",
-      "feed_rank": 8,
-      "url": "https://www.ouest-france.fr/sante/une-irregularite-dans-lelection-du-maire-rn-de-la-fleche-a-la-presidence-du-conseil-de-surveillance-de-lhopital-932ea012-cc8a-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T15:04:04+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Une irrégularité dans l’élection du maire RN de La Flèche à la présidence du conseil de surveillance de l’hôpital »."
-    },
-    {
       "id": "178aa523a09a",
       "title": "Défaillance opérationnelle de l'État français le 17 octobre : une commission d'enquête ouverte",
       "summary": "Les groupes politiques de l'Assemblée nationale se sont accordés mardi 20 octobre sur l'opportunité de lancer une commission d'enquête sur les violences et scènes de pillages en marge des manifestations, mais aussi sur le dispositif de maintien de l'ordre déployé. Les explications de Roselyne Febvre, cheffe du service politique à France 24.",
@@ -675,26 +707,15 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Défaillance opérationnelle de l'État français le 17 octobre : une commission d'enquête ouverte »."
     },
     {
-      "id": "22f20161c5c1",
-      "title": "« C’est tellement idiot » : Selena Gomez explique que son changement de voix serait lié à son vapotage",
-      "summary": "Face aux remarques sur son timbre de voix qui est désormais différent, Selena Gomez a expliqué dimanche 18 octobre que le phénomène serait lié à sa consommation de nicotine en vapotant. L’actrice a ajouté qu’elle avait réussi à arrêter.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/sante/cest-tellement-idiot-selena-gomez-explique-que-son-changement-de-voix-serait-lie-a-son-vapotage-b1cd2422-cc93-11f1-b497-716ff9f9734b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T15:00:47+00:00",
+      "id": "786beffb32f4",
+      "title": "« Le succès de la route de l’Arctique n’a rien à voir avec son potentiel commercial, finalement très limité »",
+      "summary": "Cette voie maritime est loin de représenter un axe de transit entre la Chine et l’Europe, explique Julien Bouissou, journaliste au « Monde », dans sa chronique. Mais trois pays misent sur elle pour des raisons industrielles ou géopolitiques : la Russie, la Chine et la Corée du Sud.",
+      "source": "Le Monde",
+      "feed_rank": 14,
+      "url": "https://www.lemonde.fr/idees/article/2026/10/20/le-succes-de-la-route-de-l-arctique-n-a-rien-a-voir-avec-son-potentiel-commercial-finalement-tres-limite_6797943_3232.html",
+      "published_at": "2026-10-20T15:00:20+00:00",
       "category": "Médias & communication",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « « C’est tellement idiot » : Selena Gomez explique que son changement de voix serait lié à son vapotage »."
-    },
-    {
-      "id": "bcf5e9624217",
-      "title": "Dans « Chacun », Jean-Paul Dubois met en scène un mari sur les traces de sa femme",
-      "summary": "Le kayak de Rose a été retrouvé fracassé sur les rives de l’Ariège, mais son corps n’a jamais reparu. Quatre mois plus tard, son mari reçoit une lettre postée au Japon. Avec « Chacun », Jean-Paul Dubois lance un homme ordinaire sur les traces de son épouse disparue, au milieu d’une famille féroce et d’un monde qui semble, lui aussi, partir en morceaux.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/culture/livres/lire-magazine/dans-chacun-jean-paul-dubois-met-en-scene-un-mari-sur-les-traces-de-sa-femme-20471894-cc63-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T15:00:21+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Dans « Chacun », Jean-Paul Dubois met en scène un mari sur les traces de sa femme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « « Le succès de la route de l’Arctique n’a rien à voir avec son potentiel commercial, finalement très limité » »."
     },
     {
       "id": "5f82b17e6925",
@@ -1372,7 +1393,7 @@
       "title": "Arabie Saoudite: la désinformation cible le potentiel soutien militaire égyptien",
       "summary": "En Égypte, le parlement a décidé, lundi 19 octobre, de reporter d'une semaine le vote sur l'autorisation d'un soutien militaire à l'Arabie saoudite, en guerre contre les Houthis du Yémen. Le président Abdel Fattah al-Sissi a estimé qu'il était « inconcevable » que Le Caire reste les bras croisés. Dans ce contexte, une vidéo mensongère prétend montrer…",
       "source": "RFI",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261020-arabie-saoudite-la-d%C3%A9sinformation-cible-le-potentiel-soutien-militaire-%C3%A9gyptien",
       "published_at": "2026-10-20T12:15:18+00:00",
       "category": "Médias & communication",
@@ -1559,7 +1580,7 @@
       "title": "Au Canada, l'Alberta vote très largement contre l'organisation d'un référendum d'indépendance",
       "summary": "Les habitants ⁠de la riche province pétrolière ​canadienne de l'Alberta ont voté massivement en faveur du ​maintien au sein du Canada, lors du tout premier référendum consultatif sur une éventuelle indépendance promu par le mouvement séparatiste.",
       "source": "RFI",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261020-au-canada-l-alberta-vote-tr%C3%A8s-largement-contre-l-organisation-d-un-r%C3%A9f%C3%A9rendum-d-ind%C3%A9pendance",
       "published_at": "2026-10-20T10:17:29+00:00",
       "category": "Politique",
@@ -1570,7 +1591,7 @@
       "title": "France: Macron sécurise des livraisons supplémentaires de 200 000 tonnes de diesel par mois dans le Golfe",
       "summary": "Le président français Emmanuel Macron, en tournée dans le Golfe, a sécurisé la livraison de 200 000 tonnes supplémentaires de diesel par mois auprès des Émirats arabes unis et de Bahreïn, a annoncé mardi 20 octobre l'Élysée.",
       "source": "RFI",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261020-france-macron-s%C3%A9curise-des-livraisons-suppl%C3%A9mentaires-de-200-000-tonnes-de-diesel-par-mois-dans-le-golfe",
       "published_at": "2026-10-20T10:07:32+00:00",
       "category": "Politique",
@@ -1621,17 +1642,6 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Pourquoi la crise politique et sociale pourrait peser sur la capacité d’emprunt de la France »."
     },
     {
-      "id": "5bf2844085ef",
-      "title": "Avec l'investiture de Luca Niculescu, la Roumanie espère voir le bout de sa crise gouvernementale",
-      "summary": "Députés et sénateurs roumains votent ce 20 octobre l’investiture d’un nouveau candidat au poste de Premier ministre : le diplomate et ancien journaliste de RFI Roumanie, Luca Niculescu. Depuis la chute du gouvernement en mai, trois autres candidats ont déjà été présentés par le président Nicusor Dan. Tous ont échoué à obtenir le soutien du Parlement,…",
-      "source": "RFI",
-      "feed_rank": 12,
-      "url": "https://www.rfi.fr/fr/europe/20261020-avec-luca-niculescu-la-roumanie-esp%C3%A8re-voir-le-bout-de-sa-crise-gouvernementale",
-      "published_at": "2026-10-20T08:54:50+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Avec l'investiture de Luca Niculescu, la Roumanie espère voir le bout de sa crise gouvernementale »."
-    },
-    {
       "id": "dfd2be772f30",
       "title": "Info LCP- Violences du 17 octobre: l'Assemblée nationale approuve la création de la commission d'enquête proposée par Yaël Braun-Pivet",
       "summary": "Par Anne-Charlotte Dusseaulx , le Mardi 20 octobre 2026 à 10:50 La conférence des présidents de l'Assemblée nationale a approuvé ce mardi le principe de la création d'une commission d'enquête pour déterminer comment les scènes de chaos qui ont eu lieu samedi 17 octobre ont pu se produire. C'est la commission des lois du Palais-Bourbon qui va être dotée…",
@@ -1663,17 +1673,6 @@
       "published_at": "2026-10-20T08:35:23+00:00",
       "category": "Société",
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « « Négocier pour remplir des cahiers de doléances comme les “gilets jaunes”, non merci » : quatre jeunes engagés racontent leur mobilisation »."
-    },
-    {
-      "id": "1f6fe652cb31",
-      "title": "Dans le sud du Liban, une récolte des olives dans l’ombre de l’occupation israélienne",
-      "summary": "Dans les oliveraies de la région de l’Arkoub, les paysans effectuent leur récolte malgré l’incursion de soldats et de drones israéliens. A la lisière de la zone occupée par l’armée de l’Etat hébreu, ils doivent composer avec une frontière invisible et mouvante qui les empêche d’accéder à une partie de leurs terres.",
-      "source": "Le Monde",
-      "feed_rank": 14,
-      "url": "https://www.lemonde.fr/international/article/2026/10/20/dans-le-sud-du-liban-une-recolte-des-olives-dans-l-ombre-de-l-occupation-israelienne_6797888_3210.html",
-      "published_at": "2026-10-20T08:30:05+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Dans le sud du Liban, une récolte des olives dans l’ombre de l’occupation israélienne »."
     },
     {
       "id": "e482b9c8ef8b",
@@ -1757,7 +1756,7 @@
       "title": "États-Unis: Donald Trump rattrapé par l'inflation dans la campagne des midterms",
       "summary": "Le coût de la vie est le principal sujet de préoccupation des électeurs américains dans la campagne pour les élections législatives de mi-mandat, qui se tiendront le 3 novembre aux États-Unis. Donald Trump n'a pas tenu sa promesse de faire baisser les prix. De nombreux Américains, y compris au sein de son propre camp, lui en tiennent rigueur. En Caroline…",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261020-%C3%A9tats-unis-trump-rattrap%C3%A9-par-l-inflation-dans-la-campagne-des-midterms",
       "published_at": "2026-10-20T06:23:01+00:00",
       "category": "Politique",
@@ -1790,7 +1789,7 @@
       "title": "Albanie: face aux protestations, le Premier ministre Edi Rama «veut rester au pouvoir»",
       "summary": "Les affrontements entre les manifestants et les forces de l'ordre se sont poursuivis lundi 19 octobre à Tirana. Ce mardi, une immense manifestation est prévue dans les rues de la capitale albanaise. Depuis une semaine, Tirana est le théâtre de violents affrontements qui ont fait environ 300 blessés, dont près des deux tiers sont des policiers. Les…",
       "source": "RFI",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.rfi.fr/fr/europe/20261020-albanie-face-aux-protestations-le-premier-ministre-edi-rama-veut-rester-au-pouvoir",
       "published_at": "2026-10-20T05:16:20+00:00",
       "category": "Politique",
@@ -1801,7 +1800,7 @@
       "title": "«Le kadhafisme, c'est aussi le reflet d'une histoire et de bouleversements d'une société»",
       "summary": "Quinze ans après la mort de Mouammar Kadhafi, le 20 octobre 2011, que reste-t-il de son idéologie et de son héritage en Libye mais aussi au-delà de ses frontières ? Éléments d’analyse et de réflexion avec Virginie Collombier, docteure en sciences politiques, spécialiste de la Libye et cofondatrice de Mediterranean Platform.",
       "source": "RFI",
-      "feed_rank": 7,
+      "feed_rank": 6,
       "url": "https://www.rfi.fr/fr/afrique/20261020-le-kadhafisme-c-est-aussi-le-reflet-d-une-histoire-et-de-bouleversements-d-une-soci%C3%A9t%C3%A9",
       "published_at": "2026-10-20T04:41:43+00:00",
       "category": "Politique",
