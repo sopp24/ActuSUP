@@ -3,7 +3,7 @@ name: Actualiser ActuSUP
 on:
   schedule:
     # Une fois par heure ; GitHub peut retarder l’exécution programmée.
-    - cron: "17 * * * *"
+   - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
