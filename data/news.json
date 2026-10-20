@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T14:19:51.546436+00:00",
-  "last_attempt": "2026-10-20T14:19:51.546436+00:00",
+  "last_updated": "2026-10-20T14:20:12.003817+00:00",
+  "last_attempt": "2026-10-20T14:20:12.003817+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 160,
   "sources_configured": 9,
@@ -9,6 +9,16 @@
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Les Échos. La sélection peut donc être incomplète.",
   "articles": [
+    {
+      "id": "342fed393c39",
+      "title": "Violences du 17 octobre : « Comme un triste rappel de cette semaine où les joyaux de Paris furent réduits en cendres… »",
+      "summary": "Courrier des lectrices et des lecteurs. « S’il y a des “leçons de l’Histoire” à tirer, le souvenir du vandalisme révolutionnaire qui a bouleversé la capitale à la fin du XIXe siècle devrait susciter une réflexion sur les moyens à mettre en œuvre pour s’en prémunir. »",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/societe/manifestation/violences-du-17-octobre-comme-un-triste-rappel-de-cette-semaine-ou-les-joyaux-de-paris-furent-reduits-en-cendres-7525678e-cc82-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T14:19:12+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
     {
       "id": "32b2b6994d6f",
       "title": "Ce train de luxe mythique reliant Paris à Venise desservira Monaco en 2027",
@@ -230,16 +240,6 @@
       "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
     },
     {
-      "id": "0d3db4eb7706",
-      "title": "Violences du 17 octobre : les stocks de munitions des forces de l’ordre en baisse",
-      "summary": "Les stocks de munitions des policiers et gendarmes ont été largement entamés lors des opérations de maintien de l’ordre du week-end dernier. Pourtant les commandes ont été nombreuses depuis 2023.",
-      "source": "Ouest-France",
-      "url": "https://www.ouest-france.fr/politique/defense/maintien-de-lordre-les-stocks-des-forces-de-lordre-en-baisse-42691626-cbd6-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-20T13:51:38+00:00",
-      "category": "Société",
-      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
-    },
-    {
       "id": "ce3bf026b119",
       "title": "Slogans racistes et croix celtique : à Lyon, une centaine de militants d’extrême droite défilent sans intervention de la police",
       "summary": "Une centaine de néonazis et de hooligans ont défilé le soir du lundi 19 octobre à Lyon en plein couvre-feu, bravant la ville aux cris de slogans racistes et néofascistes. Une démonstration de force de la mouvance sous l’œil passif des forces de l’ordre.",
@@ -428,16 +428,6 @@
       "published_at": "2026-10-20T13:06:10+00:00",
       "category": "Politique",
       "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
-    },
-    {
-      "id": "84d4a1a9030e",
-      "title": "Au Japon, Toru Dance fait valser les clichés sur le « salaryman » nippon, réputé discipliné et sans fantaisie",
-      "summary": "A 60 ans, Toru Utsumi, un consultant en gestion japonais, est devenu une vedette des réseaux sociaux, sous le pseudonyme de Toru Dance, en postant des chorégraphies funk. Son humour pince-sans-rire brisant les clichés sur les employés japonais séduit des centaines de milliers d’internautes bien au-delà de l’Archipel.",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/20/au-japon-toru-dance-fait-valser-les-cliches-sur-le-salaryman-nippon-repute-discipline-et-sans-fantaisie_6797920_3234.html",
-      "published_at": "2026-10-20T13:00:08+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
     },
     {
       "id": "cb5a1d11c690",
@@ -1028,6 +1018,16 @@
       "published_at": "2026-10-20T09:10:36+00:00",
       "category": "Économie",
       "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "d279af1e40ee",
+      "title": "Soudan : 53 morts après une attaque de l’armée soudanaise contre un marché à la frontière avec le Soudan du Sud",
+      "summary": "Le bilan pourrait « malheureusement s’alourdir », ont prévenu les autorités locales. Dimanche et lundi, plusieurs frappes au Soudan avaient fait près de 100 morts dans des zones aux mains des paramilitaires des Forces de soutien rapide.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/20/soudan-53-morts-apres-une-attaque-de-l-armee-soudanaise-contre-un-marche-a-la-frontiere-avec-le-soudan-du-sud_6797896_3212.html",
+      "published_at": "2026-10-20T09:06:07+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
     },
     {
       "id": "db8b843300c6",
