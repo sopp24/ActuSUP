@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T16:04:49.889912+00:00",
-  "last_attempt": "2026-10-20T16:04:49.889912+00:00",
+  "last_updated": "2026-10-20T16:05:12.061939+00:00",
+  "last_attempt": "2026-10-20T16:05:12.061939+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 160,
   "sources_configured": 9,
@@ -8,8 +8,8 @@
     "Les Échos"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Les Échos. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-13T16:04:49.889912+00:00",
-  "featured_window_end": "2026-10-20T16:04:49.889912+00:00",
+  "featured_window_start": "2026-10-13T16:05:12.061939+00:00",
+  "featured_window_end": "2026-10-20T16:05:12.061939+00:00",
   "featured_pool_count": 173,
   "featured_sources_count": 8,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 7 jours",
@@ -97,7 +97,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.541,
+      "importance_score": 16.532,
       "latest_coverage_at": "2026-10-20T15:53:26+00:00"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.466,
+      "importance_score": 14.465,
       "latest_coverage_at": "2026-10-20T14:56:09+00:00"
     },
     {
@@ -1593,7 +1593,7 @@
       "title": "Pluie, inondations et crues : un mort près de Marseille, la Haute-Corse placée en vigilance rouge",
       "summary": "Deux autres départements, le Gard et la Corse-du-Sud ont été placés en vigilance orange.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-la-haute-corse-placee-en-vigilance-rouge_6797908_3244.html",
       "published_at": "2026-10-20T10:32:45+00:00",
       "category": "Environnement",
@@ -1703,7 +1703,7 @@
       "title": "Dans le sud du Liban, une récolte des olives dans l’ombre de l’occupation israélienne",
       "summary": "Dans les oliveraies de la région de l’Arkoub, les paysans effectuent leur récolte malgré l’incursion de soldats et de drones israéliens. A la lisière de la zone occupée par l’armée de l’Etat hébreu, ils doivent composer avec une frontière invisible et mouvante qui les empêche d’accéder à une partie de leurs terres.",
       "source": "Le Monde",
-      "feed_rank": 15,
+      "feed_rank": 14,
       "url": "https://www.lemonde.fr/international/article/2026/10/20/dans-le-sud-du-liban-une-recolte-des-olives-dans-l-ombre-de-l-occupation-israelienne_6797888_3210.html",
       "published_at": "2026-10-20T08:30:05+00:00",
       "category": "Société",
