@@ -1,10 +1,1613 @@
 {
-  "last_updated": null,
-  "last_attempt": null,
+  "last_updated": "2026-10-20T13:53:29.356717+00:00",
+  "last_attempt": "2026-10-20T13:53:29.356717+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
-  "article_count": 0,
+  "article_count": 160,
   "sources_configured": 9,
-  "sources_with_errors": [],
-  "note": "La première collecte n’a pas encore été exécutée. Dans l’onglet Actions du dépôt GitHub, lancez « Actualiser ActuSUP » avec Run workflow.",
-  "articles": []
+  "sources_with_errors": [
+    "Les Échos"
+  ],
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Les Échos. La sélection peut donc être incomplète.",
+  "articles": [
+    {
+      "id": "0d3db4eb7706",
+      "title": "Violences du 17 octobre : les stocks de munitions des forces de l’ordre en baisse",
+      "summary": "Les stocks de munitions des policiers et gendarmes ont été largement entamés lors des opérations de maintien de l’ordre du week-end dernier. Pourtant les commandes ont été nombreuses depuis 2023.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/politique/defense/maintien-de-lordre-les-stocks-des-forces-de-lordre-en-baisse-42691626-cbd6-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:51:38+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "d736bb66c893",
+      "title": "Météo : la tempête Austen est attendue en France vendredi, des rafales de vent pourraient souffler jusqu’à 120 km/h",
+      "summary": "Une dépression atlantique devrait provoquer de fortes rafales de vent dès ce mardi soir et jusqu’en fin de semaine, avec une tempête nommée Austen attendue vendredi 23 octobre. Les régions qui devraient être principalement touchées par ces bourrasques sont la Bretagne, la Normandie et les Hauts-de-France.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/meteo/tempete/meteo-la-tempete-austen-est-attendue-en-france-vendredi-des-rafales-de-vent-pourraient-souffler-jusqua-120-km-h-c76f0be2-cc70-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:51:29+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "b61ca8245ad4",
+      "title": "Violences du 17 octobre : le dispositif de sécurité \"sera massif\" pour la nouvelle journée de mobilisation prévue samedi 24 octobre, assure le Premier ministre",
+      "summary": "\"La doctrine sera revue en termes de moyens, en volume bien sûr, en termes de forces engagées et en termes de réactivité, de mobilité\", a déclaré Sébastien Lecornu, mardi, lors des questions au gouvernement.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-violences-du-17-octobre-les-premiers-couvre-feux-sont-entres-en-vigueur-dans-la-nuit-avant-une-serie-de-reunions-d-urgence-ce-mardi_8245078.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T13:47:43+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "f6510da2a814",
+      "title": "Liga. « Je ne savais pas quoi faire » : Ibrahima Konaté s’explique après avoir masqué un t-shirt de soutien à Ceuta",
+      "summary": "En septembre dernier, Ibrahima Konaté, mais aussi Kylian Mbappé et Vincius Junior, avaient masqué un message de soutien aux habitants de Ceuta, ce qui avait déclenché une vive polémique. En conférence de presse, le défenseur des Bleus est revenu sur son geste.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/sport/football/espagne/real-madrid/liga-je-ne-savais-pas-quoi-faire-ibrahima-konate-sexplique-apres-avoir-masque-un-t-shirt-de-soutien-a-ceuta-c7f0ad4a-cc85-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:46:15+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "685d8b097760",
+      "title": "«La Gradiva» de Marine Atlan : notre palme d’aura",
+      "summary": "Le premier film de la cinéaste déploie un art du portrait lumineux et questionne le mythe de la méritocratie scolaire, au plus près du vertige de lycéens en voyage sur les ruines de l’antique Pompéi. Une révélation.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/culture/la-gradiva-de-marine-atlan-notre-palme-daura-20261020_CQYXCQH2C5BDLJXXKCA4R5WN6A/",
+      "published_at": "2026-10-20T13:46:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "28a39f476e25",
+      "title": "Les pompiers veulent faire connaître la « valeur du sauvé », le calcul de ce qui ne brûle pas grâce à leurs interventions",
+      "summary": "Après les grands incendies de forêt de cet été, plusieurs services départementaux d’incendie et de secours, dont celui du Var, ont estimé le montant de ce qui a pu être soustrait aux flammes. Un moyen de prouver que l’investissement dans les moyens de secours est très rentable.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/les-pompiers-veulent-faire-connaitre-la-valeur-du-sauve-le-calcul-de-ce-qui-ne-brule-pas-grace-a-leurs-interventions_6797931_3244.html",
+      "published_at": "2026-10-20T13:45:26+00:00",
+      "category": "Environnement",
+      "communication_angle": "Les enjeux environnementaux pèsent sur les attentes du public et les engagements des organisations. Les communicants doivent étayer les affirmations, éviter le greenwashing et relier les promesses aux actions vérifiables."
+    },
+    {
+      "id": "6f03470a504d",
+      "title": "EN DIRECT – 17 octobre : enquêtes ouvertes après la mort de deux hommes en marge des manifestations",
+      "summary": "Après un week-end de mobilisation émaillé par des scènes de violences et de pillages, les réponses politiques se succèdent. De nouveaux couvre-feux seront annoncés ce soir, «là où la situation le nécessite». Des forces de l’ordre supplémentaires seront déployées samedi à Marseille.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/societe/police-justice/en-direct-violences-la-nuit-a-ete-calme-dans-les-villes-qui-ont-instaure-un-couvre-feu-partiel-20261020_VKFVMZ23E5FPDAHO7X7FO6BG74/",
+      "published_at": "2026-10-20T13:45:14+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "5c29869a03dd",
+      "title": "Marine Atlan, réalisatrice de «la Gradiva» : «Les jeunes sont pris par un désir de vitalité et de résistance»",
+      "summary": "Autour d’un voyage de classe à Naples, le magnifique premier film de la cinéaste nous jette à corps perdu dans les désirs et doutes d’un trio de lycéens. Sa réalisatrice raconte sa méthode auprès des comédiens débutants et ses inspirations.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/culture/cinema/marine-atlan-realisatrice-de-la-gradiva-les-jeunes-sont-pris-par-un-desir-de-vitalite-et-de-resistance-20261020_OVV4GSBVBFDV5O6AVEL5UTQ2IM/",
+      "published_at": "2026-10-20T13:45:00+00:00",
+      "category": "Culture",
+      "communication_angle": "Les œuvres, les artistes et les références culturelles nourrissent les imaginaires collectifs. Les connaître aide à trouver des références pertinentes, comprendre les tendances et créer des campagnes qui résonnent avec leurs publics."
+    },
+    {
+      "id": "7266d0f6b863",
+      "title": "Des enquêtes ouvertes après les morts de deux hommes sur la voie publique à Paris le week-end du 17 octobre, en marge de violences dans la capitale",
+      "summary": "Elles visent à rechercher les causes de la mort d'un homme de 48 ans dans la nuit de dimanche à lundi dans le quartier des Halles, et d'un autre homme de 59 ans samedi, près de la place de la République. Les autorités évoquent dans les deux cas un \"probable malaise\".",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/enquete-ouverte-sur-les-causes-de-la-mort-d-un-deuxieme-homme-a-paris-dans-la-nuit-de-dimanche-a-lundi_8245633.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T13:44:30+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "b55a31c92ca2",
+      "title": "Violences du 17 octobre : les cagnottes de soutien aux commerçants prospèrent… et les arnaques aussi",
+      "summary": "Les attaques contre des commerces survenues ce week-end ont suscité un vif élan de solidarité et certains ont réussi à récolter en ligne plusieurs dizaines de milliers d’euros. Mais gare aux initiatives trompeuses.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/economie/conso/violences-du-17-octobre-les-cagnottes-de-soutien-aux-commercants-prosperent-et-les-arnaques-aussi-20261020_PYITZHCMBZFHNAOG6KVHUWZ4FE/",
+      "published_at": "2026-10-20T13:42:49+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "d594999fd67f",
+      "title": "«Révolutionnaires d’Allah» : l’ancien policier Bruno Pomart écarté par LCI après des propos controversés",
+      "summary": "La chaîne du groupe TF1 a confirmé ce mardi sa décision de ne plus inviter «jusqu’à nouvel ordre» l’ancien instructeur du Raid en raison de propos tenus lors d’une émission samedi. L’intéressé affirme que ses déclarations ont été tronquées.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/economie/medias/revolutionnaires-dallah-lancien-policier-bruno-pomart-ecarte-par-lci-apres-des-propos-controverses-20261020_OO35AQIRI5CVZANBPXO34ZENDQ/",
+      "published_at": "2026-10-20T13:42:36+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport concentre des communautés engagées, des récits puissants et des enjeux de sponsoring, d’image et de réputation. Il fournit des exemples concrets de communication événementielle, de gestion de crise et de mobilisation des fans."
+    },
+    {
+      "id": "cb5b4415a14e",
+      "title": "Violences à Paris : enquêtes ouvertes sur les causes de la mort de deux hommes samedi et lundi en marge des manifestations",
+      "summary": "Les deux victimes auraient probablement succombé à des malaises, rapporte ce mardi 20 octobre l’AFP, qui cite le parquet de Paris et préfecture de police.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/societe/police-justice/violences-a-paris-enquetes-ouvertes-sur-les-causes-de-la-mort-de-deux-hommes-samedi-et-lundi-en-marge-des-manifestations-20261020_VNICQAKEUJF4ZN6X2XVPART4UY/",
+      "published_at": "2026-10-20T13:41:40+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "faaca303cea1",
+      "title": "LFI accuse le gouvernement de détourner le renseignement contre elle, Lecornu et Nunez démentent",
+      "summary": "Par Anne-Charlotte Dusseaulx , le Mardi 20 octobre 2026 à 15:40 Interpellé par le député et coordinateur national de La France insoumise, Manuel Bompard, lors des Questions au gouvernement, l'exécutif réfute avoir \"manipulé les services de renseignements\" contre le mouvement de Jean-Luc Mélenchon, contrairement à ce qu'affirme un article publié par…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/lfi-accuse-le-gouvernement-de-detourner-le-renseignement-contre-elle-lecornu-et-nunez",
+      "published_at": "2026-10-20T13:40:26+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "b26b3c01c6a5",
+      "title": "Une intoxication au monoxyde de carbone fait trois blessés graves au Mans : un barbecue à l’origine de l’accident ?",
+      "summary": "Un couple, ainsi que leur nourrisson âgé de quatre jours, ont été intoxiqués au monoxyde de carbone, dans la soirée du lundi 19 octobre 2026, au Mans (Sarthe). En ce début d’après-midi du mardi 20 octobre, circonstances se précisent sur cet accident. On en sait également davantage sur l’état de santé des victimes.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/societe/faits-divers/une-intoxication-au-monoxyde-de-carbone-fait-trois-blesses-graves-au-mans-un-barbecue-a-lorigine-de-laccident-e8f75624-cc80-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:38:11+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "34772c70aae9",
+      "title": "L’opposition municipale de gauche demande l’annulation du banquet du Canon français à Vannes",
+      "summary": "Le groupe d’opposition L’Avenir de Vannes s’oppose à la tenue de cet événement festif, prévu le 5 décembre au Chorus, et interpelle David Robo, maire et président de la SPL Golfe du Morbihan Vannes Tourisme.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/politique/lopposition-de-gauche-demande-lannulation-du-banquet-du-canon-francais-a-vannes-c3ccbc6c-cc86-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:35:50+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "dbf2077fa5b9",
+      "title": "Cold case : le meurtre d’une fillette en 1960 élucidé par la police de Chicago, grâce aux progrès de la génétique",
+      "summary": "Des décennies après l’enlèvement et le meurtre d’une enfant en 1960 à Chicago (États-Unis), la police s’est dite quasi certaine d’avoir identifié le tueur grâce à des méthodes qui n’existaient pas au moment des faits. Il s’agit d’un ancien policier de la ville décédé en 2006.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/monde/etats-unis/cold-case-le-meurtre-dune-fillette-en-1960-elucide-par-la-police-de-chicago-grace-aux-progres-de-la-genetique-354e426e-cc89-11f1-b497-716ff9f9734b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:34:43+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "8b99caf74160",
+      "title": "Marie de Brauer, humoriste : plan cru",
+      "summary": "Issue de la noblesse, élevée près de Versailles, l’humoriste décomplexée raconte sans fard ses histoires de cul et épingle la grossophobie ordinaire.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/portraits/marie-de-brauer-humoriste-plan-cru-20261020_XPCDK67WWNAVJOMN3TIRGRXR7E/",
+      "published_at": "2026-10-20T13:34:00+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "76669b532d96",
+      "title": "France : première nuit sous couvre-feu dans certaines villes",
+      "summary": "Après une première nuit globalement calme sous #couvre-feu à Paris, Lyon, Bordeaux, Lille et Nice, le gouvernement français maintient la mesure malgré les critiques de citoyens qui dénoncent une atteinte aux libertés et un manque de moyens publics.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-france-premi%C3%A8re-nuit-sous-couvre-feu-dans-certaines-villes",
+      "published_at": "2026-10-20T13:33:36+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "df1b404b43db",
+      "title": "🔴 En direct : Laurent Nuñez promet que \"la doctrine du maintien de l'ordre sera revue\" pour le 25 octobre",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/france/20261020-en-direct-france-manifestations-17-octobre-couvre-feux-macron-lecornu",
+      "published_at": "2026-10-20T13:32:52+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "b3c861a4db66",
+      "title": "Violences du 17 octobre﻿ : à Poitiers, six personnes déférées et une première condamnation à de la prison ferme",
+      "summary": "Six personnes ont été déférées au parquet lundi 19 octobre après les violences en marge de la manifestation contre la vie chère du samedi 17 octobre à Poitiers (Vienne). L’une d’elles a été condamnée à six mois de prison ferme pour vol en réunion. Deux autres hommes doivent être jugés mercredi pour violences sur des policiers.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/societe/manifestation/manifestation-contre-la-vie-chere-a-poitiers-six-personnes-deferees-et-une-premiere-condamnation-a-de-la-prison-ferme-7435dab6-cc82-11f1-b497-716ff9f9734b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:30:33+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "4aa850e26d03",
+      "title": "« Le véritable visage du grand remplacement » : l’Arcom saisie après les propos d’Éric Zemmour sur LCI",
+      "summary": "L’Arcom a été officiellement saisie par de nombreux téléspectateurs ainsi que par le collectif militant Sleeping Giants France après les déclarations d’Éric Zemmour sur LCI.",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/politique/eric-zemmour/le-veritable-visage-du-grand-remplacement-larcom-saisie-apres-les-propos-deric-zemmour-sur-lci-5541f0f8-cc74-11f1-bb5f-3dc5c0feacca?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:30:05+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "d24c5d6eb8a1",
+      "title": "Luca Niculescu, «l’homme de la France» nommé Premier ministre pour sortir la Roumanie de l’impasse",
+      "summary": "Ancien journaliste, notamment pour «Libération», et ambassadeur à Paris, le nouveau chef du gouvernement prend la tête d’une coalition minoritaire dominée par les sociaux-démocrates. Son soutien parlementaire reste fragile.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/international/europe/luca-niculescu-lhomme-de-la-france-nomme-premier-ministre-pour-sortir-la-roumanie-de-limpasse-20261020_2OITX4DF6FHBRACA5O664OR3PQ/",
+      "published_at": "2026-10-20T13:29:04+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "3f2456fcbd12",
+      "title": "EN DIRECT, manifestations du 17 octobre : Sébastien Lecornu affirme que le dispositif policier « sera massif » pour encadrer les nouvelles manifestations prévues samedi",
+      "summary": "Le premier ministre a reconnu, mardi, lors de la séance des questions au gouvernement à l’Assemblée nationale, un dispositif « trop statique et pas assez mobile » le 17 octobre.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-sebastien-lecornu-affirme-que-le-dispositif-policier-sera-massif-pour-encadrer-les-nouvelles-manifestations-prevues-samedi_6795855_3224.html",
+      "published_at": "2026-10-20T13:28:40+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "b4d7a08dc42f",
+      "title": "Washington durcit l’obtention de la « carte verte » pour les salariés étrangers de la tech",
+      "summary": "L’exclusion de plusieurs entreprises américaines et indiennes − comme Microsoft, Infosys et Wipro − d’un programme facilitant l’accès à cette carte de résident permanent devrait d’abord pénaliser les employés indiens souhaitant s’installer aux Etats-Unis.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/20/washington-durcit-l-obtention-de-la-carte-verte-pour-les-salaries-etrangers-de-la-tech_6797927_3234.html",
+      "published_at": "2026-10-20T13:28:24+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "0f1f86ca1ab2",
+      "title": "Panne de Google Cloud à Londres : plusieurs banques dont Revolut ou HSBC touchées",
+      "summary": "Le géant américain a fait état ce mardi 20 octobre de perturbations ciblant son centre de données européen. De quoi affecter plusieurs services dont le retrait aux distributeurs et les virements bancaires.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/economie/economie-numerique/panne-de-google-cloud-a-londres-plusieurs-banques-dont-revolut-ou-hsbc-touchees-20261020_3WFOJJEP2JCOTKM5BVH5H7FXDM/",
+      "published_at": "2026-10-20T13:25:31+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "fa47e8ad67cc",
+      "title": "La DGSI dément formellement que des casseurs étaient en possession d'armes automatiques pendant les violences du 17 octobre",
+      "summary": "Une journaliste du \"JDD\" a affirmé dimanche que \"des kalachnikovs et des pistolets-mitrailleurs Scorpion ont été retrouvés dans les mains d'émeutiers\". Les services du renseignement intérieur français ont réfuté lundi ces allégations auprès du \"Monde\" et de \"Libération\".",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-dgsi-dement-formellement-que-des-casseurs-etaient-en-possession-d-armes-automatiques-pendant-les-violences-du-17-octobre_8245339.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T13:22:08+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "14a710a50343",
+      "title": "Violences du 17 octobre : décision très encadrée, efficacité critiquée… Comment fonctionnent les couvre-feux ?",
+      "summary": "Plusieurs couvre-feux ont eu lieu dans la nuit de lundi à mardi et d’autres devraient suivre ce mardi soir. En quoi consistent-ils ? Comment sont-ils décidés ? Pourquoi leur efficacité est-elle critiquée ?…. « Ouest-France » décrypte en cinq questions ce dispositif de maintien de l’ordre utilisé comme l’une des réponses centrales aux manifestations et…",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/societe/manifestation/violences-du-17-octobre-decision-tres-encadree-efficacite-critiquee-comment-fonctionnent-les-couvre-feux-d384ee64-cc5d-11f1-bf87-17eca79cb13c?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:19:14+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "7b8576b62d24",
+      "title": "Test Final Fantasy Resonance : un condensé parfait de la saga, entre tradition et modernité",
+      "summary": "À l’approche du 40e anniversaire de la saga Final Fantasy, la saga revient avec un épisode dérivé qui réunit tous ses éléments cultes : chimères, jobs, et même tour par tour ! Adapté du jeu mobile Brave Exvius, Final Fantasy Resonance offre une aventure HD-2D sans grande surprise mais très bien exécutée, à la hauteur de son héritage. Voici notre test de…",
+      "source": "Ouest-France",
+      "url": "https://www.ouest-france.fr/gaming/final-fantasy/test-final-fantasy-resonance-un-condense-parfait-de-la-saga-entre-tradition-et-modernite-210fb766-cba2-11f1-b8bc-a46147b584ed?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-20T13:08:48+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "d728cc157ae0",
+      "title": "Enfants placés, violences sexuelles, … : les chantiers du gouvernement pour renforcer la protection de l’enfance",
+      "summary": "À une semaine de son examen en séance au Sénat, le projet de loi relatif à la protection des enfants a été défendu mardi 20 octobre par trois ministres devant les commissions des lois et des affaires sociales. Initialement consacré aux défaillances de l’aide sociale à l’enfance (ASE), le texte a été élargi après les révélations de violences sexuelles…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/enfants-places-violences-sexuelles-les-chantiers-du-gouvernement-pour-renforcer-la-protection-de-lenfance",
+      "published_at": "2026-10-20T13:06:10+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "cb5a1d11c690",
+      "title": "Qui est concerné ? Pour combien de temps ? Cinq questions sur les couvre-feux partiels mis en place à Paris, Bordeaux, Lyon, Lille, Nice et Marseille",
+      "summary": "Des mesures de restriction de la circulation sont appliquées dans certains quartiers de plusieurs grandes villes. Selon la commune, la taille de la zone et les personnes concernées varient.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/qui-est-concerne-pour-combien-de-temps-cinq-questions-sur-les-couvre-feux-partiels-mis-en-place-a-paris-bordeaux-lyon-lille-nice-et-marseille_8245186.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T12:56:05+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "7ba891467b90",
+      "title": "Champignons : plus de 700 intoxications recensées depuis le début du mois de septembre",
+      "summary": "Si la plupart de ces intoxications ont été bénignes en 2025, associées à des signes digestifs, 3 % de ces dernières ont été graves.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/20/champignons-plus-de-700-intoxications-recensees-depuis-le-debut-du-mois-de-septembre_6797919_3224.html",
+      "published_at": "2026-10-20T12:53:16+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "63ec15cd04a8",
+      "title": "Zelensky rencontre les émissaires américains à Oslo, alors que les frappes russes se poursuivent sur l’Ukraine",
+      "summary": "Le président ukrainien est en Norvège pour remettre la diplomatie sur les rails, alors que ses relations avec Donald Trump traversent une énième phase critique.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/international/europe/zelensky-rencontre-les-emissaires-americains-a-oslo-alors-que-les-frappes-russes-se-poursuivent-sur-lukraine-20261020_XMBHHLPYS5HZ5PJBARDYJW6C3E/",
+      "published_at": "2026-10-20T12:51:50+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "7493c09878f1",
+      "title": "Avec «Karma», Guillaume Canet au régime secte",
+      "summary": "Après la fausse piste d’un polar rural, le film s’enfonce dans la grandiloquence, avec le portrait d’une communauté religieuse à la frontière de l’Espagne.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/culture/cinema/avec-karma-guillaume-canet-au-regime-secte-20261020_PWCN4QEBQNHAVAFUSSDBOTOBSQ/",
+      "published_at": "2026-10-20T12:51:45+00:00",
+      "category": "Culture",
+      "communication_angle": "Les œuvres, les artistes et les références culturelles nourrissent les imaginaires collectifs. Les connaître aide à trouver des références pertinentes, comprendre les tendances et créer des campagnes qui résonnent avec leurs publics."
+    },
+    {
+      "id": "0fa8d6636e90",
+      "title": "Un mort dans les Bouches-du-Rhône, «intensité pluvieuse inouïe» en Corse... Le sud de la France noyé sous des déluges",
+      "summary": "Plusieurs départements sont en vigilance pluie-inondation ce mardi. Une cellule de crise a été activée dans le Gard et l’Hérault. A Montpellier, les crèches sont fermées et des gymnases ouvrent pour accueillir les plus vulnérables.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/environnement/climat/episode-mediterraneen-sept-departements-en-vigilance-orange-mardi-20261020_3DIT5U3CSJDUVIHGNLOULKOMJU/",
+      "published_at": "2026-10-20T12:42:27+00:00",
+      "category": "Environnement",
+      "communication_angle": "Les enjeux environnementaux pèsent sur les attentes du public et les engagements des organisations. Les communicants doivent étayer les affirmations, éviter le greenwashing et relier les promesses aux actions vérifiables."
+    },
+    {
+      "id": "918fe56df2e1",
+      "title": "La récolte de maïs 50% moins élevée que celle de 2025 en France, selon l'association des producteurs",
+      "summary": "La production de maïs grain, à quelque 7 millions de tonnes, est au plus bas depuis 1976. La perte financière est évaluée par les professionnels du secteur à 2,5 milliards d'euros.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/la-recolte-de-mais-50-moins-elevee-que-celle-de-2025-en-france-selon-l-association-des-producteurs_8245615.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T12:33:42+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "c0972b7a1831",
+      "title": "Septième édition de Menart Fair à Paris : la mémoire comme source d'inspiration",
+      "summary": "La foire internationale dédiée à l'art du Moyen-Orient et du Maghreb de retour ce week-end du 23 au 25 octobre 2026. Menart Fair signe sa septième édition au cœur de la capitale française, durant \"La Semaine de l'Art\", autour d’une question essentielle : WHERE IS HOME ? Lors de l'événement, douze artistes algériens exposent à Paris. Les explications de…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-septi%C3%A8me-%C3%A9dition-de-menart-fair-%C3%A0-paris-la-m%C3%A9moire-comme-source-d-inspiration",
+      "published_at": "2026-10-20T12:29:36+00:00",
+      "category": "Culture",
+      "communication_angle": "Les œuvres, les artistes et les références culturelles nourrissent les imaginaires collectifs. Les connaître aide à trouver des références pertinentes, comprendre les tendances et créer des campagnes qui résonnent avec leurs publics."
+    },
+    {
+      "id": "fedfc1c36ec7",
+      "title": "Etats-Unis : avec 137 millions de dollars investis, l’IA s’impose dans les élections de mi-mandat",
+      "summary": "Selon une étude de chercheurs américains, les candidats, majoritairement républicains, ont recours, sans toujours l’avouer, à l’intelligence artificielle dans l’optique du scrutin des midterms du 6 novembre : de la simple animation de photos au montage diffamatoire.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/international/amerique/etats-unis-avec-137-millions-de-dollars-investis-lia-simpose-dans-les-elections-de-mi-mandat-20261020_GA6P7JC6C5BVLOSNSFEX3J4U5U/",
+      "published_at": "2026-10-20T12:27:08+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "e3221427832a",
+      "title": "Aux Etats-Unis, les ultraconservateurs à l’assaut des livres et des dessins animés pour la jeunesse",
+      "summary": "Alors que les midterms se profilent, une autre bataille se joue à coups d’histoires du soir et de dessins animés pensés, financés et diffusés via des réseaux ultraconservateurs auprès des plus jeunes. Un phénomène qui s’accompagne du bannissement graduel des productions culturelles jugées progressistes, analyse la chercheuse Prune Lieutier.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/aux-etats-unis-les-ultraconservateurs-a-lassaut-des-livres-et-des-dessins-animes-pour-la-jeunesse-20261020_Y6WYOS3YV5DKFKASX7JTGP6UUU/",
+      "published_at": "2026-10-20T12:23:02+00:00",
+      "category": "Culture",
+      "communication_angle": "Les œuvres, les artistes et les références culturelles nourrissent les imaginaires collectifs. Les connaître aide à trouver des références pertinentes, comprendre les tendances et créer des campagnes qui résonnent avec leurs publics."
+    },
+    {
+      "id": "f2108062b63a",
+      "title": "Éthiopie: des conséquences «très graves» si l'Érythrée «sert de base à nos ennemis», prévient Addis-Abeba",
+      "summary": "Les conséquences seront « très graves » si l'Érythrée « sert de base à nos ennemis », a mis en garde le 19 octobre 2026 le Premier ministre éthiopien, dans un climat de plus en plus tendu entre les deux voisins de la Corne de l'Afrique qui fait craindre une nouvelle guerre. Dans la même interview, Abiy Ahmed a estimé que « des relations de bon voisinage…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-%C3%A9thiopie-des-cons%C3%A9quences-tr%C3%A8s-graves-si-l-%C3%A9rythr%C3%A9e-sert-de-base-%C3%A0-nos-ennemis-pr%C3%A9vient-addis-abeba",
+      "published_at": "2026-10-20T12:22:25+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "530b3e2c35bf",
+      "title": "«Le Roi du game» : rien ne va plus pour Eric Judor",
+      "summary": "En nous entraînant dans un pseudo-univers fantastico-médiéval, le cinéaste décline platement ses vannes et mimiques signature dans un enchaînement de scènes emballées à la hâte.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/culture/cinema/le-roi-du-game-rien-ne-va-plus-pour-eric-judor-20261020_VRSLQZYO2BF4BKO4A474XJS3FE/",
+      "published_at": "2026-10-20T12:22:02+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "8efd1cf989a9",
+      "title": "Violences du 17 octobre : peut-on déplacer la date du second tour de l’élection présidentielle ?",
+      "summary": "Craignant de nouvelles violences dans l’espace public le 1er mai prochain, le président de LR et candidat à la présidentielle, Bruno Retailleau, demande un changement de date du second tour de l’élection présidentielle prévu le 2 mai prochain. Est-il encore possible de la changer ?",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-peut-on-deplacer-la-date-du-second-tour-de-lelection-presidentielle",
+      "published_at": "2026-10-20T12:20:27+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "8a45abf6fb39",
+      "title": "L’éditorialiste de LCI Isabelle Saporta mise à pied après un clash avec Prisca Thevenot",
+      "summary": "La journaliste s’en était prise à la députée Renaissance et au bilan d’Emmanuel Macron dans l’émission «Brunet sans filtre» lundi 19 octobre, en marge de débats sur les violences du 17 octobre.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/economie/medias/leditorialiste-de-lci-isabelle-saporta-mise-a-pied-apres-un-clash-avec-prisca-thevenot-20261020_R6RAPGNE4NFSNCJC3KQZLUZLFY/",
+      "published_at": "2026-10-20T12:20:08+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "4a0c7182de09",
+      "title": "Arabie Saoudite: la désinformation cible le potentiel soutien militaire égyptien",
+      "summary": "En Égypte, le parlement a décidé, lundi 19 octobre, de reporter d'une semaine le vote sur l'autorisation d'un soutien militaire à l'Arabie saoudite, en guerre contre les Houthis du Yémen. Le président Abdel Fattah al-Sissi a estimé qu'il était « inconcevable » que Le Caire reste les bras croisés. Dans ce contexte, une vidéo mensongère prétend montrer…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261020-arabie-saoudite-la-d%C3%A9sinformation-cible-le-potentiel-soutien-militaire-%C3%A9gyptien",
+      "published_at": "2026-10-20T12:15:18+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "744198a78746",
+      "title": "Un homme soupçonné d'être impliqué dans l'incendie de l'hôtel de ville de Limoges le 17 octobre a été interpellé en Haute-Vienne",
+      "summary": "Le bâtiment a été incendié samedi, en marge des manifestations. Son beffroi s'était écroulé dans la soirée.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/un-individu-soupconne-d-etre-implique-dans-l-incendie-de-l-hotel-de-ville-de-limoges-le-17-octobre-a-ete-interpelle-en-haute-vienne_8245177.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T12:14:17+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "903f906306fd",
+      "title": "Inondations dans le Sud-Est : une personne retrouvée morte près de Martigues, dans les Bouches-du-Rhône",
+      "summary": "Le Gard est en vigilance orange \"crues\". La Haute-Corse, elle, est placée en vigilance rouge \"pluie-inondation\" jusqu'à 20 heures, mardi.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/environnement/meteo/direct-intemperies-et-inondations-dans-le-sud-est-une-partie-de-l-autoroute-a9-coupee-des-rues-inondees-a-lunel-dans-l-herault_8245246.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T12:10:22+00:00",
+      "category": "Environnement",
+      "communication_angle": "Les enjeux environnementaux pèsent sur les attentes du public et les engagements des organisations. Les communicants doivent étayer les affirmations, éviter le greenwashing et relier les promesses aux actions vérifiables."
+    },
+    {
+      "id": "376bc1cdb680",
+      "title": "17 octobre: LFI accuse le gouvernement de \"manipuler les services de renseignement\" après la publication d'un article de Mediapart",
+      "summary": "Par Maxence Kagni , le Mardi 20 octobre 2026 à 14:05 Le site d'information Mediapart a publié hier soir, lundi 19 octobre, un article dans lequel un commissaire du renseignement territorial affirme qu'il lui aurait été demandé \"texto d'écrire que c'est LFI qui est derrière le mouvement\" qui a entraîné des violencesle week-end dernier. Le coordinateur…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/17-octobre-lfi-accuse-le-gouvernement-de-manipuler-les-services-de-renseignement-apres",
+      "published_at": "2026-10-20T12:05:05+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "77b62c055437",
+      "title": "Les commerçants sinistrés en marge de la mobilisation du 17 octobre auront accès dès vendredi à un prêt à taux zéro pour leur trésorerie, annonce le ministre de l'Economie",
+      "summary": "Le ministre de l'Economie l'a fait savoir mardi, à l'issue d'un \"conseil des entreprises exceptionnel\" à Bercy.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/video-les-commercants-sinistres-auront-acces-des-vendredi-a-un-pret-a-taux-zero-pour-leur-tresorerie-annonce-le-ministre-de-l-economie_8245567.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T12:04:29+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "579367322cd6",
+      "title": "Google signale des incidents informatiques sur plusieurs services de cloud en Europe, leur rétablissement est en cours",
+      "summary": "Le géant de la tech attribue ces difficultés à un \"incident électrique\", désormais \"maîtrisé\". Plusieurs institutions financières britanniques ont signalé des problèmes informatiques mardi matin.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/internet/google/google-signale-des-incidents-informatiques-sur-plusieurs-services-de-cloud-en-europe_8245564.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T12:03:39+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "b7ed99b93c27",
+      "title": "Le Royaume-Uni va déployer des avions de combat pour soutenir l'Arabie saoudite face aux frappes des houthis",
+      "summary": "Le royaume saoudien est visé par des frappes quasi-quotidiennes des houthis, soutenus par l'Iran, contre des aéroports, des installations énergétiques et des sites militaires.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/le-royaume-uni-va-deployer-des-avions-de-combat-pour-soutenir-l-arabie-saoudite-face-aux-frappes-des-houthis_8245582.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T11:50:36+00:00",
+      "category": "International",
+      "communication_angle": "Un événement international peut avoir des conséquences politiques, économiques et culturelles bien au-delà de ses frontières. Il permet aux communicants d’anticiper les sensibilités locales, les risques réputationnels et les différences de contexte."
+    },
+    {
+      "id": "5a89fc093ec5",
+      "title": "EN DIRECT, guerre en Ukraine : pour le vice-président américain, J. D. Vance, l’armée ukrainienne devrait arrêter « de bombarder les infrastructures énergétiques russes »",
+      "summary": "Dans un contexte de fortes tensions entre l’Ukraine et les Etats-Unis, Volodymyr Zelensky rencontre mardi l’émissaire américain Steve Witkoff à Oslo. L’autre émissaire américain, Jared Kushner, prendra part à distance aux discussions, a annoncé le gouvernement norvégien.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-volodymyr-zelensky-et-arrive-a-oslo-ou-il-doit-s-entretenir-avec-l-emissaire-americain-steve-witkoff_6796922_3210.html",
+      "published_at": "2026-10-20T11:46:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "102dcd25f57e",
+      "title": "Une personne retrouvée morte à Saint-Mitre-les-Remparts, dans les Bouches-du-Rhône, après les fortes pluies de la nuit",
+      "summary": "De violentes intempéries ont touché le sud-est de la France dans la nuit de lundi à mardi. Les pompiers appellent à la plus grand prudence même si la vigilance orange a été levée dans les Bouches-du-Rhône.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/une-personne-retrouvee-morte-a-saint-mitre-les-remparts-dans-les-bouches-du-rhone-apres-les-fortes-pluies-de-la-nuit_8245402.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T11:25:09+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "c74009e15879",
+      "title": "Sécheresse en France en automne: c'est normal?",
+      "summary": "Dans le prolongement d'un été caniculaire, les rares pluies ne permettent pas de recharger la plupart des nappes phréatiques françaises. Une situation inédite, provoquée par les activités humaines, appelée à empirer : l'Europe devrait bientôt connaître des sécheresses longues de deux ans.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/podcasts/questions-d-environnement/20261020-s%C3%A9cheresse-en-france-en-automne-c-est-normal",
+      "published_at": "2026-10-20T11:09:01+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "3a71e5446094",
+      "title": "Côte d'Ivoire : des membre du PDCI auditionnés et placés sous contrôle judiciaire",
+      "summary": "En Côte d'Ivoire, plusieurs membres du PDCI ont été convoqués par la justice devant la section antiterroriste du tribunal de première instance. Ces auditions vont durer jusqu’au 23 octobre et certaines ont déjà eu lieu. Le vice-président du parti d’opposition Georges Philippe Ezaley a été placé sous contrôle judiciaire et inculpé. L’opposition dénonce…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-c%C3%B4te-d-ivoire-des-membre-du-pdci-auditionn%C3%A9s-et-plac%C3%A9s-sous-contr%C3%B4le-judiciaire",
+      "published_at": "2026-10-20T11:01:11+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "2f806958ed5e",
+      "title": "Dans les Pyrénées, 16 nouveaux oursons, mais des problèmes de consanguinité persistants",
+      "summary": "Selon le dernier bilan de suivi de l’ours publié par l’Office français de la biodiversité, près de 130 ours seraient présents dans les Pyrénées. Mais la sauvegarde génétique de la population est loin d’être garantie.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/dans-les-pyrenees-16-nouveaux-oursons-mais-des-problemes-de-consanguinite-persistants_6797909_3244.html",
+      "published_at": "2026-10-20T11:00:02+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "ab65477aa57b",
+      "title": "Se laisser mourir de faim pour « rencontrer Jésus » : au Kenya, le gourou Paul Mackenzie reconnu coupable du meurtre de 190 enfants",
+      "summary": "Après treize mois d’audience, et l’audition de plus de 120 témoins, le premier procès du pasteur autoproclamé accusé de l’une des pires tragédies de l’histoire du pays s’est achevé lundi 19 octobre. Le prononcé de la peine aura lieu ultérieurement.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/20/se-laisser-mourir-de-faim-pour-rencontrer-jesus-au-kenya-le-gourou-paul-mackenzie-reconnu-coupable-du-meutre-de-190-enfants_6797910_3210.html",
+      "published_at": "2026-10-20T11:00:02+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "2fc84a21da09",
+      "title": "«C’est un scandale d’Etat» : Manuel Bompard annonce saisir la Cour de justice de la République contre Laurent Nuñez",
+      "summary": "Selon «Mediapart», des consignes ont été passées pour cibler directement La France insoumise et la présenter comme responsable des violences du 17 octobre. Le coordinateur du mouvement insoumis dénonce la manipulation «des renseignements territoriaux».",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/politique/cest-un-scandale-detat-manuel-bompard-annonce-saisir-la-cour-de-justice-de-la-republique-contre-laurent-nunez-20261020_NCVC46T4SBDFBPJ5MJHAF65QZY/",
+      "published_at": "2026-10-20T10:59:28+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "45e002fefb30",
+      "title": "Ce que les casseurs nous disent, parfois malgré eux, par Edouard Louis",
+      "summary": "Pour l’écrivain, la question n’est pas de savoir si ce qu’ils font est bien ou mal. Mais pourquoi le font-ils ? Regardons ce que leurs actes racontent de la violence sociale en France.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/ce-que-les-casseurs-nous-disent-parfois-malgre-eux-par-edouard-louis-20261020_CIZYHDBAB5DTFC2BQ3KE2K5XFA/",
+      "published_at": "2026-10-20T10:58:52+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "c55c0c6c4c79",
+      "title": "Kenya : le gourou Paul Mackenzie et ses complices coupables des meurtres de 190 enfants",
+      "summary": "Le gourou autoproclamé Paul Mackenzie et ses complices, ont été reconnus coupables des meurtres de 191 personnes, dont 190 enfants, au sein de leur secte qui encourageait ses disciples à mourir de faim au Kenya pour \"rencontrer Jésus\". La juge Diana Kavedza Mochache a rendu son verdict lundi 19 octobre en fin d'après-midi au tribunal de Mombasa,…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-kenya-le-gourou-paul-mackenzie-et-ses-complices-coupables-des-meurtres-de-190-enfants",
+      "published_at": "2026-10-20T10:58:24+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "c091a46ce3c0",
+      "title": "Mobilisation du 17 octobre : un dispositif policier défaillant ?",
+      "summary": "Trois jours après les mobilisations du 17 octobre partout en France, les défaillances du système policier et les nouvelles mesures mises en place sont questionnés. Les précisions de Bruno Bartocetti, policier et délégué national du syndicat de police UN1TÉ.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-mobilisation-du-17-octobre-un-dispositif-policier-d%C3%A9faillant",
+      "published_at": "2026-10-20T10:55:50+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "9b576ea9f4d0",
+      "title": "Plus de 2,2 millions de messages postés sur X le 17 octobre, trois fois plus que lors de la première mobilisation des gilets jaunes",
+      "summary": "Des pics d'activité ont également été relevés sur TikTok, Instagram, Telegram, Facebook, LinkedIn... révélant, selon l'outil d'analyse des réseaux sociaux Visibrain, \"la puissance de l'écho suscité par l'événement\".",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-de-2-2-millions-de-messages-postes-sur-x-le-17-octobre-trois-fois-plus-que-lors-de-la-premiere-mobilisation-des-gilets-jaunes_8245477.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T10:54:46+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "d9c12bba17e8",
+      "title": "Présidentielle brésilienne: dans une favela de Belo Horizonte, un vote qui divise",
+      "summary": "À quelques jours du second tour, le sénateur Flavio Bolsonaro est donné favori face à Lula. Dans les favelas, où vit près de 8 % de la population brésilienne mais où les représentants politiques se font rares, les habitants n’ont pas tous le même avis sur ce scrutin.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261020-pr%C3%A9sidentielle-br%C3%A9silienne-dans-une-favela-de-belo-horizonte-un-vote-qui-divise",
+      "published_at": "2026-10-20T10:52:45+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "37f6bd97f328",
+      "title": "L'image de la France se fissure à l'étranger",
+      "summary": "\"La France brûle\" : c’est la réaction de Donald Trump aux violences survenues ce week-end en France. Le président américain et plusieurs figures de l’extrême droite européenne dénoncent l’immigration et s’emparent de ces images de chaos. Assiste-t-on à une instrumentalisation politique de ces violences ? Patrick Martin-Genier, enseignant à Sciences Po et…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261020-l-image-du-pays-se-fissure-%C3%A0-l-%C3%A9tranger",
+      "published_at": "2026-10-20T10:49:26+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "50f2f60d9a32",
+      "title": "Pluie, inondations et crues : un mort près de Marseille, la Haute-Corse placée en vigilance rouge",
+      "summary": "Deux autres départements, le Gard et la Corse-du-Sud ont été placés en vigilance orange.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/20/pluie-inondations-et-crues-un-mort-pres-de-marseille-la-haute-corse-placee-en-vigilance-rouge_6797908_3244.html",
+      "published_at": "2026-10-20T10:32:45+00:00",
+      "category": "Environnement",
+      "communication_angle": "Les enjeux environnementaux pèsent sur les attentes du public et les engagements des organisations. Les communicants doivent étayer les affirmations, éviter le greenwashing et relier les promesses aux actions vérifiables."
+    },
+    {
+      "id": "4f8db64ed81d",
+      "title": "Un étudiant interpellé, soupçonné d'être impliqué dans le feu qui a touché l'université de Rouen",
+      "summary": "Âgé d'une vingtaine d'années, le jeune homme est \"suspecté d'avoir participé à la mise à feu\" d'un bâtiment situé sur le campus de Mont-Saint-Aignan, dans la nuit de vendredi à samedi.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-etudiant-interpelle-soupconne-d-etre-implique-dans-le-feu-qui-a-touche-l-universite-de-rouen_8245492.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T10:32:37+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "3746eebbfd4e",
+      "title": "Couvre-feux à Paris, Nice et Lille après les violences : la France a-t-elle perdu le contrôle ?",
+      "summary": "Que se passe-t-il en France ? C’est la question qui se pose au lendemain des violences et des pillages survenus en marge des manifestations de samedi dans le pays.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261020-couvre-feux-%C3%A0-paris-nice-et-lille-apr%C3%A8s-les-violences-la-france-a-t-elle-perdu-le-contr%C3%B4le",
+      "published_at": "2026-10-20T10:25:44+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "3f192b55ec07",
+      "title": "Incendie de la mairie de Limoges : un homme interpellé, la sous-direction antiterroriste saisie",
+      "summary": "Le suspect de 40 ans a été arrêté ce mardi 20 octobre par le RAID en Haute-Vienne. Fiché S, il serait connu pour appartenir à la mouvance d’ultragauche, selon des sources judiciaires.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/societe/police-justice/incendie-de-la-mairie-de-limoges-un-homme-interpelle-la-sous-direction-antiterroriste-saisie-20261020_GH5MBESRAZGNPJNM652IYIYPSA/",
+      "published_at": "2026-10-20T10:21:21+00:00",
+      "category": "Environnement",
+      "communication_angle": "Les enjeux environnementaux pèsent sur les attentes du public et les engagements des organisations. Les communicants doivent étayer les affirmations, éviter le greenwashing et relier les promesses aux actions vérifiables."
+    },
+    {
+      "id": "1e4e9b542143",
+      "title": "Le député LFI Manuel Bompard va \"saisir la Cour de justice de la République\" contre le ministre de l'Intérieur, après un article de Mediapart",
+      "summary": "Le coordinateur national de La France insoumise accuse Laurent Nuñez de \"fabriquer des faux documents\", après une enquête de Médiapart qui révèle que les renseignements territoriaux ont ordre \"d'écrire que c'est LFI qui est derrière le mouvement\" social.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/le-depute-lfi-manuel-bompard-denonce-un-scandale-d-etat-et-va-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur_8245195.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T10:20:54+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "3b5a3c341c13",
+      "title": "\"Je suis vivant\" : le \"street medic\" censé avoir été tué par la police le 17 octobre est en vie",
+      "summary": "Alors qu’une vidéo montrant l’interpellation violente d’un \"street medic\" à Paris cumule plus de cinq millions de vues, les suspicions autour de son état de santé se multiplient, au point de créer une confusion avec les décès survenus lors de ce week-end de mobilisation. Contacté par la rédaction des Observateurs, l’homme en question affirme être en vie.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/france/20261020-je-suis-vivant-le-street-medic-cens%C3%A9-avoir-%C3%A9t%C3%A9-tu%C3%A9-par-la-police-le-17-octobre-est-en-vie",
+      "published_at": "2026-10-20T10:18:20+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "c47655f1384c",
+      "title": "Au Canada, l'Alberta vote très largement contre l'organisation d'un référendum d'indépendance",
+      "summary": "Les habitants ⁠de la riche province pétrolière ​canadienne de l'Alberta ont voté massivement en faveur du ​maintien au sein du Canada, lors du tout premier référendum consultatif sur une éventuelle indépendance promu par le mouvement séparatiste.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261020-au-canada-l-alberta-vote-tr%C3%A8s-largement-contre-l-organisation-d-un-r%C3%A9f%C3%A9rendum-d-ind%C3%A9pendance",
+      "published_at": "2026-10-20T10:17:29+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "3773c2451de6",
+      "title": "Plus d’un million d’euros de dégâts : après le 17 octobre, les entreprises de vélos en libre-service comptent les pertes",
+      "summary": "Lors de la mobilisation de ce week-end, au moins 1 200 deux-roues de Lime, Dott ou encore Vélib’ ont été détruits rien qu’à Paris. Le tout malgré un protocole imposé par la préfecture de police visant à retirer les vélos du parcours de la manifestation.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/economie/transports/plus-dun-million-deuros-de-degats-apres-le-17-octobre-les-entreprises-de-velos-en-libre-service-comptent-les-pertes-20261020_RK3RJUBJG5BLDFGIBLQ3XTTL3U/",
+      "published_at": "2026-10-20T10:14:09+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "2f2a24275a7f",
+      "title": "Midterms : Jon Ossoff, l'étoile montante démocrate en Géorgie",
+      "summary": "En Géorgie dans le sud du pays, un État traditionnellement conservateur et actuellement dirigé par le gouverneur républicain Brian Kemp, Jon Ossoff se dévoile. Le sénateur est démocrate et il brigue un second mandat le mois prochain. Á deux semaines des midterms, le politicien sera opposé à Mike Collins, un fidèle de Donald Trump. Les précisions de…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-midterms-jon-ossoff-l-%C3%A9toile-montante-d%C3%A9mocrate-en-g%C3%A9orgie",
+      "published_at": "2026-10-20T10:11:49+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "bf797943ff3e",
+      "title": "France: Macron sécurise des livraisons supplémentaires de 200 000 tonnes de diesel par mois dans le Golfe",
+      "summary": "Le président français Emmanuel Macron, en tournée dans le Golfe, a sécurisé la livraison de 200 000 tonnes supplémentaires de diesel par mois auprès des Émirats arabes unis et de Bahreïn, a annoncé mardi 20 octobre l'Élysée.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261020-france-macron-s%C3%A9curise-des-livraisons-suppl%C3%A9mentaires-de-200-000-tonnes-de-diesel-par-mois-dans-le-golfe",
+      "published_at": "2026-10-20T10:07:32+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "a975498a381d",
+      "title": "Des militants d'ultradroite défilent dans le centre-ville de Lyon malgré l'interdiction des attroupements, après un rassemblement en soutien aux commerçants",
+      "summary": "Les militants identitaires se sont d'abord mêlés, lundi soir, à un rassemblement de soutien aux policiers et aux commerçants touchés par les pillages du week-end. Ils se sont dispersés avant l'entrée en vigueur du couvre-feu, selon le préfet.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/des-militants-d-ultradroite-defilent-dans-le-centre-ville-de-lyon-malgre-l-interdiction-des-attroupements-apres-un-rassemblement-en-soutien-aux-commercants_8245315.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T10:07:14+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "2441aca21f54",
+      "title": "Japon : une fusée décolle vers les lunes de Mars, deux engins français à bord",
+      "summary": "Une fusée japonaise emportant une sonde spatiale et deux engins français a décollé mardi 20 octobre vers les lunes de Mars. L'objectif principal de la mission : récupérer des échantillons et peut-être de lever le voile sur les origines du Système solaire et de la vie sur Terre.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-japon-une-fus%C3%A9e-d%C3%A9colle-vers-les-lunes-de-mars-deux-engins-fran%C3%A7ais-%C3%A0-bord",
+      "published_at": "2026-10-20T10:04:18+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "30c6c81619ef",
+      "title": "La spectaculaire supernova de l’an 1181 photographiée dans ses moindres détails par le télescope Gemini",
+      "summary": "De nouvelles observations de cette rare supernova permettent d’en apprendre plus sur l’explosion cataclysmique qui a eu lieu il y a plus de huit siècles.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/20/la-spectaculaire-supernova-de-l-an-1181-photographiee-dans-ses-moindres-details-par-le-telescope-gemini_6797904_1650684.html",
+      "published_at": "2026-10-20T10:00:04+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "24e8fff7309c",
+      "title": "David Lisnard fantasme sur «des camps d’entraînement» dans le Limousin pour les «terroristes» de gauche",
+      "summary": "Le maire de Cannes a accusé, lundi 19 et mardi 20 octobre, le plateau des Millevaches d’abriter des groupes se préparant à la «guérilla urbaine». Le candidat libertarien à la présidentielle trouve également suspect que Mélenchon s’y rende «chaque 11 novembre».",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/politique/david-lisnard-fantasme-sur-des-camps-dentrainement-dans-le-limousin-pour-les-terroristes-de-gauche-20261020_RJQ4XNZ32NBDPAUDG73MCYCIFU/",
+      "published_at": "2026-10-20T09:59:41+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "c23beefac3b0",
+      "title": "Guerre en Ukraine : une nouvelle attaque russe fait au moins six victimes dont trois enfants",
+      "summary": "Un nouveau bilan communiqué par les autorités ukrainiennes fait état d'au moins six victimes, dont trois enfants, suite à une attaque russe survenue lundi 19 octobre dans un parc situé au nord-est du pays, dans la région de Kharkiv.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-guerre-en-ukraine-une-nouvelle-attaque-russe-fait-au-moins-six-victimes-dont-trois-enfants",
+      "published_at": "2026-10-20T09:59:00+00:00",
+      "category": "International",
+      "communication_angle": "Un événement international peut avoir des conséquences politiques, économiques et culturelles bien au-delà de ses frontières. Il permet aux communicants d’anticiper les sensibilités locales, les risques réputationnels et les différences de contexte."
+    },
+    {
+      "id": "ce82079c2808",
+      "title": "L'Assemblée nationale lance une commission d'enquête parlementaire sur les violences du 17 octobre et le maintien de l'ordre",
+      "summary": "\"On a besoin de tout poser à plat\", a estimé mardi matin sur France Inter la présidente de l'Assemblée nationale, Yaël Braun-Pivet.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/creation-d-une-commission-d-enquete-confiee-a-la-commission-des-lois-de-l-assemblee-nationale-apres-les-violences-du-17-octobre_8245390.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T09:56:58+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "dee1c15c4a29",
+      "title": "Canada: une majorité de votes contre le référendum sur l'indépendance de l'Alberta",
+      "summary": "La riche province pétrolière de l'Alberta s'est massivement opposée, lundi 19 octobre, à l'organisation d'un référendum sur l'indépendance promu par les séparatistes. Une victoire pour le Premier ministre canadien Mark Carney, qui a salué un \"choix clair\" pour \"l'unité\" en pleine guerre commerciale avec les États-Unis. Les précisions de François Rihouay,…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-canada-une-majorit%C3%A9-de-votes-contre-le-r%C3%A9f%C3%A9rendum-sur-l-ind%C3%A9pendance-de-l-alberta",
+      "published_at": "2026-10-20T09:54:40+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "5070db7ae211",
+      "title": "Diesel : Macron sécurise 200 000 tonnes supplémentaires par mois auprès des Émirats et de Bahreïn",
+      "summary": "En tournée dans le Golfe, Emmanuel Macron a obtenu des livraisons supplémentaires de 200 000 tonnes de diesel par mois en provenance des Émirats arabes unis et de Bahreïn, a annoncé mardi l’Élysée. Un accord destiné à renforcer la sécurité énergétique de la France dans un contexte de tensions sur les approvisionnements.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/moyen-orient/20261020-diesel-macron-s%C3%A9curise-200-000-tonnes-suppl%C3%A9mentaires-par-mois-aupr%C3%A8s-des-%C3%A9mirats-et-de-bahre%C3%AFn",
+      "published_at": "2026-10-20T09:53:01+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "9c47aa906e09",
+      "title": "Emmanuel Macron maintient sa tournée dans les pays du Golfe malgré la crise en France",
+      "summary": "Emmanuel Macron continue sa tournée dans les pays du Golfe malgré la crise en France. Le président français a convenu la livraison de 200 000 tonnes complémentaires de diesel par mois auprès des Émirats arabes unis et de Bahreïn, a annoncé mardi 20 octobre l'Élysée. Les précisions de Tarek Kaï envoyé spécial France 24 à Abou Dhabi et Anne Corpet,…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-emmanuel-macron-maintient-sa-tourn%C3%A9e-dans-les-pays-du-golfe-malgr%C3%A9-la-crise-en-france",
+      "published_at": "2026-10-20T09:52:20+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "b80cd4ee2bb9",
+      "title": "Quand Jordan Bardella reprend le slogan de l’Affiche rouge de Vichy",
+      "summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/politique/quand-jordan-bardella-reprend-le-slogan-de-laffiche-rouge-de-vichy-20261020_EBIJW2LLO5F75CNBSDVPHFB6WI/",
+      "published_at": "2026-10-20T09:48:15+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "86fc5ab5e650",
+      "title": "Couvre-feux, armée, état d'urgence : que peut faire l'État ?",
+      "summary": "De nombreux couvre-feux ont été instaurés dans plusieurs grandes villes notamment à Paris, Lyon, Nice ou encore Lille, ainsi que des interdictions de manifester. Pour l'instant, il n'est pas question de déclencher l'état d'urgence. Les pouvoirs publics disposent de plusieurs outils pour tenter de mettre fin aux violences.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261020-couvre-feux-arm%C3%A9e-%C3%A9tat-d-urgence-que-peut-faire-l-%C3%A9tat",
+      "published_at": "2026-10-20T09:45:55+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "bcd0432f2cfa",
+      "title": "Alix E. Harrow : un historien coincé dans l’espace-temps avec Una",
+      "summary": "Dans un roman de fantasy intelligent, l’écrivaine américaine s’interroge sur la construction des légendes et des récits nationaux.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/culture/livres/alix-e-harrow-un-historien-coince-dans-lespace-temps-avec-una-20261020_NSIYIXWC7JF6ZK3LTYZGAJWGCA/",
+      "published_at": "2026-10-20T09:42:06+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Les innovations scientifiques et technologiques font émerger de nouveaux usages, des opportunités et des questions éthiques. Les communicants doivent rendre ces enjeux compréhensibles sans exagérer les résultats ni confondre hypothèse et fait établi."
+    },
+    {
+      "id": "98c1cc01183c",
+      "title": "\"On ne prendra pas de risque\" : après les pillages du 17 octobre, des magasins à Bordeaux rouvrent dans la crainte de nouvelles violences",
+      "summary": "Deux jours après avoir été saccagées en marge de la mobilisation du 17 octobre, les Galeries Lafayette de Bordeaux ont rouvert leurs portes lundi. Mais l'inquiétude demeure face à de nouvelles manifestations annoncées.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reportage-on-ne-prendra-pas-de-risque-apres-les-pillages-du-17-octobre-des-magasins-a-bordeaux-rouvrent-dans-la-crainte-de-nouvelles-violences_8245234.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T09:34:21+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "dd8f0d40caeb",
+      "title": "Le coordinateur de LFI, Manuel Bompard, dénonce \"une stratégie de pourrissement ou de chaos\" face à \"une crise politique\"",
+      "summary": "Il accuse le gouvernement d'avoir \"détruit toutes les formes de médiation sociale\". \"Si on avait répondu aux revendications légitimes alors il n'y aurait pas eu ces manifestations\", assure le député insoumis.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/le-coordinateur-de-lfi-manuel-bompard-denonce-une-strategie-de-pourrissement-ou-de-chaos-face-a-une-crise-politique_8245321.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T09:20:42+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "a6f93a4df759",
+      "title": "Plus de 2 500 gardes à vue depuis le 17 octobre : les premières comparutions immédiates ont lieu",
+      "summary": "Suite aux dégradations causées en marge des manifestations, samedi 17 et dimanche 18 octobre, l'exécutif muscle la réponse pénale. Le ministre de la Justice, Gérald Darmanin, parle de 2 500 gardes à vue. Après les violences, les premières condamnations sont tombées, alors qu'on apprend à l'instant que le RAID aurait interpellé un suspect dans l'incendie…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-plus-de-2-500-gardes-%C3%A0-vue-depuis-le-17-octobre-les-premi%C3%A8res-comparutions-imm%C3%A9diates-ont-lieu",
+      "published_at": "2026-10-20T09:20:34+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "0627bb34de0f",
+      "title": "17 octobre : des articles volés revendus sur Vinted et Leboncoin ?",
+      "summary": "Sur Vinted ou Leboncoin, des annonces proposent déjà des produits qui pourraient provenir des magasins dévalisés le samedi 17 octobre. Le gouvernement a convoqué les plateformes mardi 20 octobre au soir. Vinted affirme avoir supprimé des annonces suspectes.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-des-articles-vol%C3%A9s-revendus-sur-vinted-et-leboncoin",
+      "published_at": "2026-10-20T09:19:15+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "dbc08d6b65f0",
+      "title": "17 octobre : de nouveaux couvre-feux après une nuit \"calme\" selon Sébastien Lecornu",
+      "summary": "Le Premier ministre, Sébastien Lecornu, a affirmé mardi 20 octobre que les couvre-feux partiels, entrés en vigueur la veille dans plusieurs villes avaient \"contribué au calme de la nuit\", annonçant que de nouveaux seraient décidés pour la soirée \"là où la situation le nécessite\". Les précisions de Pauline Godart, grand reporter à France 24.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-de-nouveaux-couvre-feux-apr%C3%A8s-une-nuit-calme-selon-s%C3%A9bastien-lecornu",
+      "published_at": "2026-10-20T09:17:20+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "5a532e94152c",
+      "title": "Révélations Mediapart : \"la fabrique de LFI comme bouc émissaire\" du 17-Octobre",
+      "summary": "À la une de la presse ce mardi 20 octobre, le maintien de l’ordre en question, les renseignements qui contredisent le gouvernement sur le rôle de LFI, Donald Trump qui fait de la récupération politique et le mystère de la disparition de l’aviatrice Amelia Earhart.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261020-r%C3%A9v%C3%A9lations-mediapart-la-fabrique-de-lfi-comme-bouc-%C3%A9missaire-du-17-octobre",
+      "published_at": "2026-10-20T09:15:10+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "d62c49744fc1",
+      "title": "Les perturbateurs endocriniens pourraient faire baisser de près de trois points le QI des enfants, selon une étude",
+      "summary": "Des chercheurs démontrent dans des travaux publiés, ce mardi 20 octobre, une association entre l’exposition à ces polluants du quotidien pendant la grossesse et le retard de développement cognitif des plus jeunes.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/societe/sante/les-perturbateurs-endocriniens-pourraient-faire-baisser-de-pres-de-trois-points-le-qi-des-enfants-selon-une-etude-20261020_FYSDF7BWYVCDRIIAAB3Y3XTLJM/",
+      "published_at": "2026-10-20T09:14:40+00:00",
+      "category": "Culture",
+      "communication_angle": "Les œuvres, les artistes et les références culturelles nourrissent les imaginaires collectifs. Les connaître aide à trouver des références pertinentes, comprendre les tendances et créer des campagnes qui résonnent avec leurs publics."
+    },
+    {
+      "id": "ea9131efae3e",
+      "title": "Après les violences urbaines et les pillages du 17 octobre, « le président de la République n’a apporté aucune solution, aucun cap », déplore Hervé Marseille",
+      "summary": "Au micro de Public Sénat, le président du groupe centriste au Sénat, constate avec sévérité l’impuissance et l’inertie du gouvernement face aux violences du week-end. S’il réfute toute volonté de pourrissement du mouvement de la part de l’exécutif, il estime cependant que les revendications portées depuis plus d’un mois par les lycéens ont été laissées «…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-urbaines-et-les-pillages-du-17-octobre-le-president-de-la-republique-na-apporte-aucune-solution-aucun-cap-deplore-herve-marseille",
+      "published_at": "2026-10-20T09:14:23+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "388de68a2c23",
+      "title": "Avec ses attaques de drone en mer Noire, la Russie pourrait déclencher une crise alimentaire mondiale, dénonce l'UE",
+      "summary": "La mer Noire constitue une artère maritime essentielle pour l'exportation mondiale de céréales, de ressources énergétiques et de matières premières pour l'industrie.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/avec-ses-attaques-en-mer-noire-la-russie-pourrait-declencher-une-crise-alimentaire-mondiale-denonce-l-ue_8245333.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T09:10:36+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "b9ece4beb529",
+      "title": "Au Soudan, une escalade des frappes de drones, toujours plus meurtrières",
+      "summary": "Des bombardements de l’armée régulière ont fait plus de 150 morts, essentiellement des civils, depuis vendredi 16 octobre.",
+      "source": "Libération",
+      "url": "https://www.liberation.fr/international/afrique/au-soudan-une-escalade-des-frappes-de-drones-toujours-plus-meurtrieres-20261019_Q2D6RE32NZCNXBPW2KT5CZVDQA/",
+      "published_at": "2026-10-20T09:07:27+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "db8b843300c6",
+      "title": "Pourquoi la crise politique et sociale pourrait peser sur la capacité d’emprunt de la France",
+      "summary": "Les scènes de dégradations et de pillages du week-end dernier ont en partie éclipsé les revendications et les manifestations pacifiques du 17 octobre. Alors qu'un « acte II » du mouvement a été annoncé pour samedi prochain, l'impact pourrait largement dépasser celui des commerces saccagés.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261020-pourquoi-la-crise-politique-et-sociale-pourrait-peser-sur-la-capacit%C3%A9-d-emprunt-de-la-france",
+      "published_at": "2026-10-20T09:04:17+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "81b3f640077e",
+      "title": "Midterms 2026 : les neuf États où se jouera la majorité au Sénat",
+      "summary": "Qui disposera de la majorité au Sénat à l'issue des élections de mi-mandat le 3 novembre ? Les démocrates espèrent conquérir des sièges appartenant aux républicains lors du renouvellement d'un tiers de la chambre lors des midterms. De quoi changer le rapport de force à Washington face à Donald Trump. De l'Alaska au Texas, zoom sur les duels décisifs.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261020-midterms-neuf-etats-majorite-senat-alaska-texas-georgie-michigan",
+      "published_at": "2026-10-20T09:03:29+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "5bf2844085ef",
+      "title": "Avec l'investiture de Luca Niculescu, la Roumanie espère voir le bout de sa crise gouvernementale",
+      "summary": "Députés et sénateurs roumains votent ce 20 octobre l’investiture d’un nouveau candidat au poste de Premier ministre : le diplomate et ancien journaliste de RFI Roumanie, Luca Niculescu. Depuis la chute du gouvernement en mai, trois autres candidats ont déjà été présentés par le président Nicusor Dan. Tous ont échoué à obtenir le soutien du Parlement,…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/europe/20261020-avec-luca-niculescu-la-roumanie-esp%C3%A8re-voir-le-bout-de-sa-crise-gouvernementale",
+      "published_at": "2026-10-20T08:54:50+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "dfd2be772f30",
+      "title": "Info LCP- Violences du 17 octobre: l'Assemblée nationale approuve la création de la commission d'enquête proposée par Yaël Braun-Pivet",
+      "summary": "Par Anne-Charlotte Dusseaulx , le Mardi 20 octobre 2026 à 10:50 La conférence des présidents de l'Assemblée nationale a approuvé, ce mardi 20 octobre, le principe de la création d'une commission d'enquête pour déterminer comment les scènes de chaos qui ont eu lieu samedi 17 octobre ont pu se produire. Selon les informations de LCP, c'est la commission…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/info-lcp-violences-du-17-octobre-l-assemblee-nationale-approuve-la-creation-de-la",
+      "published_at": "2026-10-20T08:50:35+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "78081a1878aa",
+      "title": "La Paris Games Week se recentre sur le jeu vidéo dans un secteur en plein bouleversement",
+      "summary": "Le jeu vidéo reste de loin la première industrie culturelle en France et les investissements dans le secteur ont connu au deuxième trimestre leur plus haut niveau depuis 2023.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/culture/jeux-video/la-paris-games-week-se-recentre-sur-le-jeu-video-dans-un-secteur-en-plein-bouleversement_8245240.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T08:45:42+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "bae312bb4624",
+      "title": "« Pour les opérateurs télécoms européens, il était temps de réagir face à la menace de moins en moins fantôme que fait planer Starlink »",
+      "summary": "Orange, Deutsche Telekom, Telefonica et Vodafone ont signé, le lundi 19 octobre, une alliance dans le but d’étudier une candidature commune à un appel d’offres européen pour l’attribution de fréquences destinées aux services mobiles par satellite, explique Olivier Pinaud, journaliste au service Economie du « Monde ».",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/20/pour-les-operateurs-telecoms-europeens-il-etait-temps-de-reagir-face-a-la-menace-de-moins-en-moins-fantome-que-fait-planer-starlink_6797893_3234.html",
+      "published_at": "2026-10-20T08:45:09+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "d6900d5d6d8f",
+      "title": "Ebola: pour l’OMS, «c’est bien sûr possible de retracer ces fonds» dont la gestion est «floue» selon Africa CDC",
+      "summary": "Le 14 octobre, Jean Kaseya, directeur général du Centre africain de contrôle et de prévention des maladies (Africa CDC), indiquait une différence entre les 962 millions de dollars annoncés comme décaissés par des bailleurs internationaux pour la lutte contre Ebola et les quelques 220 millions dont la gestion a pu être retracée par les autorités…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-ebola-pour-l-oms-c-est-bien-s%C3%BBr-possible-de-retracer-ces-fonds-dont-la-gestion-est-floue-selon-africa-cdc",
+      "published_at": "2026-10-20T08:37:51+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "2f7a94f216c1",
+      "title": "Après les pillages, l’État promet des aides aux commerçants",
+      "summary": "Chômage partiel, fonds de soutien et reports de charges : le gouvernement annonce ses premières mesures après les violences qui ont touché des milliers de commerces.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261020-apr%C3%A8s-les-pillages-l-%C3%A9tat-promet-des-aides-aux-commer%C3%A7ants",
+      "published_at": "2026-10-20T08:30:58+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "1f6fe652cb31",
+      "title": "Dans le sud du Liban, une récolte des olives dans l’ombre de l’occupation israélienne",
+      "summary": "Dans les oliveraies de la région de l’Arkoub, les paysans effectuent leur récolte malgré l’incursion de soldats et de drones israéliens. A la lisière de la zone occupée par l’armée de l’Etat hébreu, ils doivent composer avec une frontière invisible et mouvante qui les empêche d’accéder à une partie de leurs terres.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/20/dans-le-sud-du-liban-une-recolte-des-olives-dans-l-ombre-de-l-occupation-israelienne_6797888_3210.html",
+      "published_at": "2026-10-20T08:30:05+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "174c53bd4f13",
+      "title": "« A six mois de la présidentielle, le 17 octobre risque de devenir le symbole de l’effondrement définitif du macronisme »",
+      "summary": "Le président de la République apparaît impuissant face à une crise qui le confronte à son propre bilan, analyse, dans sa chronique, Solenn de Royer, journaliste au « Monde ».",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/20/a-six-mois-de-la-presidentielle-le-17-octobre-risque-de-devenir-le-symbole-de-l-effondrement-du-macronisme_6797885_823448.html",
+      "published_at": "2026-10-20T08:00:04+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "bd4e69d08abb",
+      "title": "Emmanuel Macron annonce avoir sécurisé des livraisons supplémentaires de 200 000 tonnes de gazole par mois de la part des Emirats arabes unis et de Bahreïn",
+      "summary": "En y ajoutant les engagements déjà pris par l’Arabie saoudite, cela correspond à « environ 10 % de [la] consommation de diesel [en France] », selon l’Elysée.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/20/emmanuel-macron-annonce-avoir-securise-des-livraisons-supplementaires-de-200-000-tonnes-de-gazole-par-mois-de-la-part-des-emirats-arabes-unis-et-de-bahrein_6797884_3210.html",
+      "published_at": "2026-10-20T07:57:28+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "1b2e7a4e051d",
+      "title": "La France a sécurisé des livraisons supplémentaires de 200 000 tonnes de diesel par mois en provenance de Bahreïn et des Emirats arabes unis, annonce l'Elysée",
+      "summary": "L'acheminement de ces barils sera effectué par TotalEnergies. \"Il s'agit d'une quantité significative\", avance l'Elysée.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/la-france-a-securise-des-livraisons-supplementaires-de-200-000-tonnes-de-diesel-par-mois-en-provenance-du-bahrein-et-des-emirats-arabes-unis-annonce-l-elysee_8245225.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T07:44:29+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "cfcedad2f1b6",
+      "title": "Dans le Golfe, l’instabilité comme seule perspective",
+      "summary": "Les États-Unis et Israël vont-ils relancer leur guerre contre l’Iran ? À deux reprises en moins de 24 heures, le Premier ministre israélien Benyamin Netanyahu a évoqué cette perspective. Donald Trump a aussi laissé planer la menace. Qu’elle que soit la forme qu’elle prendra, la confrontation avec l’Iran prolonge l’instabilité autour du Golfe arabo-persique.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261020-dans-le-golfe-l-instabilit%C3%A9-comme-seule-perspective",
+      "published_at": "2026-10-20T07:40:05+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "a7a8b1c8038e",
+      "title": "Le Conseil de sécurité de l'ONU s'attaque aux violences numériques contre les enfants dans les conflits armés",
+      "summary": "Fait rarissime : le Conseil de sécurité a adopté, à l’unanimité, lundi 19 octobre, une résolution pour mieux protéger les enfants soldats à l’ère du numérique. Si depuis 30 ans l’ONU tente d’endiguer les recrutements de mineurs dans les conflits, l’organisation n’avait pas élargi son mandat alors que sur le terrain, on constate que les jeunes sont…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/monde/20261020-le-conseil-de-s%C3%A9curit%C3%A9-de-l-onu-s-attaque-aux-violences-num%C3%A9riques-contre-les-enfants-dans-les-conflits-arm%C3%A9s",
+      "published_at": "2026-10-20T07:37:03+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "1b0efda04c8c",
+      "title": "En Ukraine, les restrictions américaines sur Starlink et les livraisons d'armes fragilisent Kiev",
+      "summary": "Les relations entre Washington et Kiev s'enveniment. Donald Trump a estimé lundi que la Russie « s'est bien comportée avec l'Ukraine et n'a pas fait grand-chose » alors que Moscou multiplie les frappes sur les infrastructures civiles et énergétiques ukrainiennes et qu'une frappe de drone dans la région de Kharkiv a fait six morts cette nuit. Sur le…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/europe/20261020-en-ukraine-les-restrictions-am%C3%A9ricaines-sur-starlink-et-les-livraisons-d-armes-fragilisent-kiev",
+      "published_at": "2026-10-20T07:29:36+00:00",
+      "category": "International",
+      "communication_angle": "Un événement international peut avoir des conséquences politiques, économiques et culturelles bien au-delà de ses frontières. Il permet aux communicants d’anticiper les sensibilités locales, les risques réputationnels et les différences de contexte."
+    },
+    {
+      "id": "267b8ce93d9d",
+      "title": "17 octobre: \"Si on fait une commission d'enquête, c'est que tout s'est mal passé\", déclare Yaël Braun-Pivet",
+      "summary": "Par Maxence Kagni , le Mardi 20 octobre 2026 à 09:27 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, a expliqué au micro de France inter, ce mardi 20 octobre, sa volonté de créer une commission d'enquête qui portera notamment sur les défaillances en matière de renseignement et de maintien de l'ordre, ainsi que sur les modes opératoires des…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/17-octobre-si-on-fait-une-commission-d-enquete-c-est-que-tout-s-est-mal-passe-declare",
+      "published_at": "2026-10-20T07:27:27+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "880ff7fb03b6",
+      "title": "Réseaux sociaux: «Il y a une vulnérabilité réelle en France» face aux manipulations de l'information",
+      "summary": "Laurent Lafon, sénateur du Val-de-Marne, groupe Union Centriste et Indépendants, co-rapporteur de la mission d’information sur les zones grises de l’information est le grand invité international de RFI. Il revient sur les violences du week-end en France, la désinformation sur les réseaux sociaux, les risques d’ingérences étrangères à l’approche de la…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261020-r%C3%A9seaux-sociaux-derri%C3%A8re-une-fausse-information-souvent-il-y-a-une-intention-de-mettre-en-difficult%C3%A9-la-d%C3%A9mocratie",
+      "published_at": "2026-10-20T07:14:20+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "5e5382f5d72a",
+      "title": "Cristiano Ronaldo suspendu 30 jours par la Fédération portugaise de football",
+      "summary": "Cristiano Ronaldo a été suspendu pour 30 jours par la Fédération portugaise de football. Cette suspension est assortie d'une amende de 255 euros.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261020-cristiano-ronaldo-suspendu-30-jours-f%C3%A9d%C3%A9ration-portugaise-football",
+      "published_at": "2026-10-20T07:13:43+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "76a30c108fa3",
+      "title": "Renseignement, effectifs, doctrine... les raisons de l'échec du maintien de l'ordre le 17 octobre",
+      "summary": "L'heure est aux comptes après un week-end de mobilisation \"contre la vie chère\" marqué par des scènes de casse et de pillages, des blessés et des centaines d'interpellations. Les maires des grandes villes s'interrogent sur les raisons pour lesquelles les forces de l'ordre ne sont parfois pas intervenues, tandis que la doctrine du maintien de l'ordre est…",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/france/20261020-renseignement-effectifs-doctrine-raisons-%C3%A9chec-maintien-ordre-17-octobre",
+      "published_at": "2026-10-20T06:42:59+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "3fe754dbfe20",
+      "title": "États-Unis: Donald Trump rattrapé par l'inflation dans la campagne des midterms",
+      "summary": "Le coût de la vie est le principal sujet de préoccupation des électeurs américains dans la campagne pour les élections législatives de mi-mandat, qui se tiendront le 3 novembre aux États-Unis. Donald Trump n'a pas tenu sa promesse de faire baisser les prix. De nombreux Américains, y compris au sein de son propre camp, lui en tiennent rigueur. En Caroline…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261020-%C3%A9tats-unis-trump-rattrap%C3%A9-par-l-inflation-dans-la-campagne-des-midterms",
+      "published_at": "2026-10-20T06:23:01+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "a3fd5cfed19d",
+      "title": "DIRECT - France: le dispositif policier pour les manifestations du samedi 24 octobre «sera massif», annonce le Premier ministre",
+      "summary": "En France, les premiers couvre-feux sont entrés en vigueur lundi 19 octobre au soir dans plusieurs villes de France, pour faire suite aux violences qui ont émaillé les manifestations du week-end. Après l’incendie survenu à la mairie de Limoges, dans le centre-ouest de la France le 17 octobre, un suspect a été interpellé mardi et la Sous-direction…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/france/20261020-direct-france-une-premi%C3%A8re-nuit-sous-couvre-feu-apr%C3%A8s-les-violences-du-week-end",
+      "published_at": "2026-10-20T05:32:13+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "3f84c1b76ef5",
+      "title": "Nickel : la Nouvelle-Calédonie signe un protocole d'accord stratégique avec l’Union européenne",
+      "summary": "Signé ce mardi 20 octobre à Nouméa, le protocole d’accord entre la Nouvelle-Calédonie et l’Union européenne ouvre la voie à une coopération autour du nickel, de la décarbonation et des investissements. L’objectif : diversifier les débouchés de la filière et renforcer sa compétitivité. Mais les retombées concrètes dépendront des projets et des…",
+      "source": "franceinfo",
+      "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/nickel-la-nouvelle-caledonie-signe-un-protocole-d-accord-strategique-avec-l-union-europeenne-1749804.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T05:28:50+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "abda805bf943",
+      "title": "Albanie: face aux protestations, le Premier ministre Edi Rama «veut rester au pouvoir»",
+      "summary": "Les affrontements entre les manifestants et les forces de l'ordre se sont poursuivis lundi 19 octobre à Tirana. Ce mardi, une immense manifestation est prévue dans les rues de la capitale albanaise. Depuis une semaine, Tirana est le théâtre de violents affrontements qui ont fait environ 300 blessés, dont près des deux tiers sont des policiers. Les…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/europe/20261020-albanie-face-aux-protestations-le-premier-ministre-edi-rama-veut-rester-au-pouvoir",
+      "published_at": "2026-10-20T05:16:20+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "a71bf5bbe1ff",
+      "title": "«Le kadhafisme, c'est aussi le reflet d'une histoire et de bouleversements d'une société»",
+      "summary": "Quinze ans après la mort de Mouammar Kadhafi, le 20 octobre 2011, que reste-t-il de son idéologie et de son héritage en Libye mais aussi au-delà de ses frontières ? Éléments d’analyse et de réflexion avec Virginie Collombier, docteure en sciences politiques, spécialiste de la Libye et cofondatrice de Mediterranean Platform.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-le-kadhafisme-c-est-aussi-le-reflet-d-une-histoire-et-de-bouleversements-d-une-soci%C3%A9t%C3%A9",
+      "published_at": "2026-10-20T04:41:43+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "8770e8f82f22",
+      "title": "\"Je veux que les coupables soient désignés\" : près de huit ans après l'explosion de la rue de Trévise, les victimes et les proches espèrent enfin obtenir justice",
+      "summary": "L'explosion avait fait quatre morts et près de 200 blessés, au cœur de la capitale, dans le 9e arrondissement. Près de huit ans après, la ville de Paris et le syndic de copropriété d'un immeuble de la rue sont jugés pour homicides et blessures involontaires.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/faits-divers/explosion-d-un-immeuble-a-paris/temoignages-je-veux-que-les-coupables-soient-designes-pres-de-huit-ans-apres-l-explosion-de-la-rue-de-trevise-les-victimes-et-les-proches-esperent-enfin-obtenir-des-reponses_8244418.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T04:09:22+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "457528150b86",
+      "title": "Intimidations, agressions et destructions : en Cisjordanie occupée, la violence accrue des colons israéliens envers les observateurs et la population palestinienne",
+      "summary": "En un week-end, des agressions ont visé une journaliste américaine et un maire français, en visite dans le territoire palestinien. Deux nouveaux exemples de l'explosion des violences perpétrées par les colons israéliens.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/monde/palestine/intimidations-agressions-et-destructions-en-cisjordanie-occupee-la-violence-accrue-des-colons-israeliens-envers-les-observateurs-et-la-population-palestinienne_8243839.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T03:55:19+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "1066cafa8676",
+      "title": "\"C'était impossible à gérer\" : pourquoi les forces de l'ordre peinent-elles à interpeller les casseurs ?",
+      "summary": "Les policiers et les gendarmes ne sont pas parvenus à empêcher des pillages massifs de commerces, qui ont débuté samedi en plein jour et se sont poursuivis dimanche à Paris, Lyon et Marseille, en marge des mobilisations.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/faits-divers/police/c-etait-impossible-a-gerer-pourquoi-les-forces-de-l-ordre-peinent-elles-a-interpeller-les-casseurs_8244043.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-20T03:54:58+00:00",
+      "category": "Économie",
+      "communication_angle": "Les évolutions économiques influencent le pouvoir d’achat, les comportements de consommation et les décisions des organisations. Elles peuvent faire évoluer les arguments de marque, les attentes des publics et les sujets sensibles à traiter."
+    },
+    {
+      "id": "2670c23eb585",
+      "title": "Mali: une quarantaine de civils tués dimanche par des hommes armés dans la région de Ménaka",
+      "summary": "Au Mali, le Bureau exécutif de la communuauté Idaksahak a exprimé lundi « sa vive émotion et son immense consternation » après la mort de 48 civils de la communauté, dimanche dernier, du côté de Tagadayat, dans la région de Ménaka. Selon leur communiqué, « ces populations civiles sans défense ont été attaquées par des éléments armés de Daesh [groupe État…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-mali-une-quarantaine-de-civils-tu%C3%A9s-dimanche-par-des-hommes-arm%C3%A9s-dans-la-r%C3%A9gion-de-m%C3%A9naka",
+      "published_at": "2026-10-20T03:54:08+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "c00e98099ea6",
+      "title": "La mobilisation étudiante continue, mais reste freinée par les fermetures administratives des universités",
+      "summary": "La tension monte depuis plusieurs jours entre les étudiants, qui souhaitent faire entendre leurs revendications, et les présidents d’université, qui passent les cours en distanciel et recourent à des fermetures d’établissements pour prévenir tout trouble à l’ordre public.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/20/la-mobilisation-etudiante-continue-mais-reste-freinee-par-les-fermetures-administratives-des-universites_6797857_3224.html",
+      "published_at": "2026-10-20T03:30:06+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "1716ba653e4d",
+      "title": "Maroc: les plans politiques ambitieux de la Première ministre Fatima Ezzahra El Mansouri",
+      "summary": "La nouvelle cheffe du gouvernement marocain, Fatima Ezzarha El Mansouri, a présenté, lundi 19 octobre devant le Parlement, son discours de politique générale. Pendant près de 40 minutes, la Première ministre a décliné l'ensemble des axes majeurs de son programme pour les cinq années à venir. Économie, emploi, jeunesse... Fatima Ezzahra El Mansouri a fixé…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-maroc-les-plans-politiques-ambitieux-de-la-premi%C3%A8re-ministre-fatima-ezzahra-el-mansouri",
+      "published_at": "2026-10-20T03:08:28+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "07152031de89",
+      "title": "Tchad: l'épidémie de dengue continue de progresser et met en lumière les fragilités du système de santé",
+      "summary": "Alors que cinq provinces tchadiennes sont désormais officiellement touchées par la maladie qui a déjà fait huit morts pour plus de 3000 cas suspects recensés, celle-ci révèle aussi la faiblesse du nombre de lits de réanimation disponibles dans le pays ainsi que les problèmes d'approvisionnement de ses laboratoires en kits de dépistage.",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-tchad-l-%C3%A9pid%C3%A9mie-de-dengue-continue-de-progresser-et-met-en-lumi%C3%A8re-les-fragilit%C3%A9s-du-syst%C3%A8me-de-sant%C3%A9",
+      "published_at": "2026-10-20T03:06:37+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "a2fecf027c83",
+      "title": "Aux midterms, le vote anticipé dessine une forte participation malgré les allégations mensongères de fraude entretenues par Donald Trump",
+      "summary": "Alors que les élections de mi-mandat doivent se tenir le 3 novembre, les Américains ont la possibilité de voter par anticipation, soit par courrier, soit en déposant leur bulletin dans une urne. Le recours accru à cette pratique, dénoncé à coups d’arguments fallacieux par le président des Etats-Unis, pourrait traduire cette année une forte mobilisation…",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/20/malgre-les-allegations-mensongeres-de-fraude-entretenues-par-donald-trump-le-vote-anticipe-dessine-une-forte-participation-aux-midterms_6797818_3210.html",
+      "published_at": "2026-10-20T03:00:08+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "5d2f5039b98b",
+      "title": "Budget de l'État: après avoir largement détricoté le projet du gouvernement, l'Assemblée appuie sur pause pour passer au budget de la Sécu",
+      "summary": "Par LCP.fr , le Mardi 20 octobre 2026 à 02:05 Le temps d'examiner le projet de loi de financement de la Sécurité sociale (PLFSS), à partir de ce mardi 20 octobre après-midi, les débats sur le projet de loi de finances de l'État (PLF) ont été suspendus à l'Assemblée nationale. Depuis le coup d'envoi des débats dans l'hémicycle, le 13 octobre, les députés…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/budget-de-l-etat-apres-avoir-largement-detricote-le-projet-du-gouvernement-l-assemblee",
+      "published_at": "2026-10-20T00:05:21+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "f48ce1ce489d",
+      "title": "2.513 gardes à vue: les violences du 17 octobre s'invitent dans une audition de Gérald Darmanin sur le budget du ministère de la Justice",
+      "summary": "Par Raphaël Marchal , le Mardi 20 octobre 2026 à 00:45 Auditionné ce lundi 19 octobre au soir à l'Assemblée nationale, dans une ambiance parfois houleuse, le ministre de la Justice a assuré le service après-vente des mesures annoncées pour répondre aux violences, aux pillages et aux saccages commis en marge des manifestations du 17 octobre. Gérald…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/2513-gardes-a-vue-les-violences-du-17-octobre-s-invitent-dans-une-audition-de-gerald",
+      "published_at": "2026-10-19T22:45:51+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "825b67112897",
+      "title": "La plasticienne martiniquaise Valérie John, une vague indigo au Palais de Tokyo",
+      "summary": "Une vague indigo sur les murs du Palais de Tokyo, à Paris. À partir du 21 octobre 2026, le musée accueille l'exposition I telman nwè ki i blé (« Si noir que ça en devient bleu » en créole), de l'artiste martiniquaise Valérie John – la plus grande exposition à lui être consacrée. Depuis des décennies, cette plasticienne interroge son identité, celle des…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261019-la-plasticienne-martiniquaise-val%C3%A9rie-john-une-vague-indigo-au-palais-de-tokyo",
+      "published_at": "2026-10-19T22:31:43+00:00",
+      "category": "Culture",
+      "communication_angle": "Les œuvres, les artistes et les références culturelles nourrissent les imaginaires collectifs. Les connaître aide à trouver des références pertinentes, comprendre les tendances et créer des campagnes qui résonnent avec leurs publics."
+    },
+    {
+      "id": "50c9c091dbe5",
+      "title": "Israël: à Rehovot, une jeunesse qui penche à droite avant les législatives",
+      "summary": "Dans une semaine, le 27 octobre, les Israéliens se rendront aux urnes. Rehovot, une ville de 140 000 habitants près de Tel-Aviv, est considérée comme un bon baromètre, car les résultats électoraux y sont similaires à ceux de l'ensemble du pays. Elle y a rencontré des jeunes. Pour ce scrutin, ils seront 600 000 primo-votants, et ils se positionnent…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261019-isra%C3%ABl-%C3%A0-rehovot-une-jeunesse-qui-penche-%C3%A0-droite-avant-les-l%C3%A9gislatives",
+      "published_at": "2026-10-19T22:02:54+00:00",
+      "category": "International",
+      "communication_angle": "Un événement international peut avoir des conséquences politiques, économiques et culturelles bien au-delà de ses frontières. Il permet aux communicants d’anticiper les sensibilités locales, les risques réputationnels et les différences de contexte."
+    },
+    {
+      "id": "635d1e9b0105",
+      "title": "Manifestations en France: «dès qu'il y a un problème social», la droite européenne «rend les politiques migratoires responsables»",
+      "summary": "Après les scènes de chaos dans plusieurs villes de France en marge des manifestations du 17 octobre, les alliés européens traditionnels de Paris sont restés discrets, à l'exception notable de plusieurs dirigeants de formations d'extrême droite ou droite conservatrice qui y voient un argument en faveur de politiques migratoires plus strictes. L'analyse…",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/fr/europe/20261019-manifestations-en-france-d%C3%A8s-qu-il-y-a-un-probl%C3%A8me-social-la-droite-europ%C3%A9enne-rend-les-politiques-migratoires-responsables",
+      "published_at": "2026-10-19T18:43:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "b1dd62a68394",
+      "title": "Commission d'enquête sur les violences urbaines: la proposition de Yaël Braun-Pivet plutôt bien accueillie à gauche",
+      "summary": "Par Maxence Kagni , le Lundi 19 octobre 2026 à 20:37 La présidente de l'Assemblée nationale, Yaël Braun-Pivet, proposera ce mardi de créer une commission d'enquête sur la stratégie du maintien de l'ordre. Une initiative soutenue ce 19 octobre par plusieurs députés invités de Lundi, c'est politique sur LCP. C'est un soutien presque unanime. Ce 19 octobre,…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/commission-d-enquete-sur-les-violences-urbaines-la-proposition-de-yael-braun-pivet",
+      "published_at": "2026-10-19T18:37:56+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "aae8ec293fc9",
+      "title": "Violences du 17 octobre: qui propose quoi sur le maintien de l'ordre?",
+      "summary": "Par Anne-Charlotte Dusseaulx , le Lundi 19 octobre 2026 à 19:20 Après les violences du 17 octobre, la gestion du maintien de l'ordre par le gouvernement, ainsi que la doctrine qui y est associée, ont été vivement critiquées, par les oppositions, alors que les forces de sécurité intérieure ont été débordées par les casseurs. Que proposent les différents…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-qui-propose-quoi-sur-le-maintien-de-l-ordre-444073",
+      "published_at": "2026-10-19T17:20:24+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "27799358f8fc",
+      "title": "« Défaut de renseignement », « sous-estimation » de la colère sociale, « stratégie de pourrissement » : le gouvernement a-t-il failli samedi dernier ?",
+      "summary": "Face aux pillages et dégradations lors des manifestations de ce samedi 17 octobre, le gouvernement est vivement critiqué pour sa doctrine de maintien de l’ordre. Alors que circulaient depuis plus d’un mois des appels à manifester ce samedi 17 octobre et que les lycéens et étudiants sont dans la rue depuis trois semaines, le gouvernement semble avoir…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/defaut-de-renseignement-sous-estimation-de-la-colere-sociale-strategie-de-pourrissement-le-gouvernem",
+      "published_at": "2026-10-19T16:39:10+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "5a7e9d5daf14",
+      "title": "Sens Public — Sens Public",
+      "summary": "\"Sens Public\", l'actualité politique, en France ou à l'international, en débat. Nos invités - experts, observateurs et acteurs du monde politique - décryptent, échangent et confrontent leurs idées sur les sujets d'actualité et les grandes questions qui animent notre société. En direct durant l'émission, sur notre site et/ou via votre écran, scannez le…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-e59-1",
+      "published_at": "2026-10-19T16:21:55+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "fdbbffad3e8e",
+      "title": "Pillages : « Au moins 3 000 » commerces touchés pour des « centaines de millions d’euros » de dégâts",
+      "summary": "Le gouvernement a annoncé la création d’un fonds spécifique de soutien pour les commerçants sinistrés après un week-end de violences hors normes dans plusieurs grandes villes. L’exécutif demande également aux plateformes de e-commerce d’agir pour éviter la revente d’articles volés.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/economie/pillages-au-moins-3-000-commerces-touchees-pour-des-centaines-de-millions-deuros-de-degats",
+      "published_at": "2026-10-19T16:07:44+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "e46e6660c6a3",
+      "title": "Après les pillages du 17 octobre, faut-il couper les réseaux sociaux ?",
+      "summary": "Gabriel Attal relance l’idée d’un blocage temporaire des plateformes dans les zones touchées par les violences, après le chao du week-end. Elles facilitent les rassemblements et démultiplient les images de casse, mais leur rôle dépasse la seule organisation des émeutes.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/apres-les-pillages-du-17-octobre-faut-il-couper-les-reseaux-sociaux",
+      "published_at": "2026-10-19T16:00:08+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "6365dcbefe1e",
+      "title": "Au procès de l’explosion de la rue de Trévise, la Ville de Paris et le syndic d’un immeuble face à la justice",
+      "summary": "Les deux personnes morales comparaissent pour « homicides involontaires », « blessures involontaires » et « destruction par l’effet d’une explosion ou d’un incendie ». La catastrophe survenue le 12 janvier 2019 a fait quatre morts et plus de 200 blessés et sinistrés.",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/19/au-proces-de-l-explosion-de-la-rue-de-trevise-la-ville-de-paris-et-le-syndic-d-un-immeuble-face-a-la-justice_6797556_3224.html",
+      "published_at": "2026-10-19T15:58:09+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "139e394add48",
+      "title": "Sens Public — SENS PUBLIC 26/10/29 Je P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-26-10-29-je-p1-e0",
+      "published_at": "2026-10-19T15:51:17+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "fae0cfaebb78",
+      "title": "Sens Public — SENS PUBLIC 26/10/28 Me P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-26-10-28-me-p1-e0",
+      "published_at": "2026-10-19T15:51:16+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "222b5d672b1e",
+      "title": "Sens Public — SENS PUBLIC 26/10/27 Ma P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-26-10-27-ma-p1-e0",
+      "published_at": "2026-10-19T15:42:15+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "a4481b62162e",
+      "title": "Sens Public — SENS PUBLIC 26/10/26 Lu P2",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-26-10-26-lu-p2-e0",
+      "published_at": "2026-10-19T15:42:15+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "4cdaa6e5fb31",
+      "title": "Sens Public — SENS PUBLIC 26/10/26 Lu P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-26-10-26-lu-p1-e0",
+      "published_at": "2026-10-19T15:42:14+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "aed3fb857fcc",
+      "title": "Violences du 17 octobre : pourquoi l’état d’urgence est écarté par le gouvernement ?",
+      "summary": "Après un week-end marqué par des scènes de chaos et de pillages dans plusieurs villes, l’exécutif exclut pour le moment le recours à l’état d’urgence, préférant la mise en place de « couvre-feux localisés ». De quels moyens dispose l’exécutif pour rétablir l’ordre ? Inventaire de la boîte à outils sécuritaire dont dispose le gouvernement pour rétablir…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-pourquoi-letat-durgence-est-ecarte-par-le-gouvernement",
+      "published_at": "2026-10-19T15:19:28+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "d6a3f22299b9",
+      "title": "Violences urbaines : commission d’enquête, débat « 50-1 », auditions… Le Parlement exige des explications après la journée chaotique du 17 octobre",
+      "summary": "Les oppositions, à l’Assemblée nationale comme au Sénat, comptent bien user de leurs pouvoirs de contrôle pour faire la lumière sur les violents débordements qui ont marqué la journée de manifestation du 17 octobre. Au Sénat, la droite affiche son soutien aux forces de l’ordre, dont elle souhaite auditionner des représentants. Inversement, les groupes de…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/violences-urbaines-commission-denquete-debat-50-1-auditions-le-parlement-exige-des-explications-apres-la-journee-chaotique-du-17-octobre",
+      "published_at": "2026-10-19T14:57:26+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "1c0eb56bebad",
+      "title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/10/29 Je P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-10-29-je-p1-e0",
+      "published_at": "2026-10-19T14:40:47+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "c5671747986b",
+      "title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/10/28 Me P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-10-28-me-p1-e0",
+      "published_at": "2026-10-19T14:30:46+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "4a86e9a2aa54",
+      "title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/10/27 Ma P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-10-27-ma-p1-e0",
+      "published_at": "2026-10-19T14:20:43+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "20f5751c5766",
+      "title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/10/26 Lu P1",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-10-26-lu-p1-e0",
+      "published_at": "2026-10-19T14:10:44+00:00",
+      "category": "Société",
+      "communication_angle": "Ce sujet révèle des préoccupations, des valeurs ou des tensions sociales. Il aide les communicants à mieux comprendre leurs publics, choisir des mots justes et concevoir des messages inclusifs et contextualisés."
+    },
+    {
+      "id": "ed58bf151298",
+      "title": "Saccages et pillages du 17 octobre: l'État au chevet des commerçants, le projet de loi \"casseurs-payeurs\" bientôt examiné",
+      "summary": "Par Soizic BONVARLET , le Lundi 19 octobre 2026 à 15:23 Après les saccages qui ont eu lieu ce week-end, le gouvernement a annoncé, ce lundi 19 octobre, une série de mesures d'urgence à destination des commerçants, parmi lesquelles le déclenchement immédiat d'un chômage partiel à 100%, le report des charges sociales, ainsi que la mise en place d'un fonds…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/saccages-et-pillages-du-17-octobre-l-etat-au-chevet-des-commercants-le-projet-de-loi",
+      "published_at": "2026-10-19T13:23:19+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "cef91f97e62d",
+      "title": "Etat d'urgence, couvre-feu, interdiction de manifester: ce que permet la loi",
+      "summary": "Par Maxence Kagni , le Lundi 19 octobre 2026 à 14:21 Les événements du samedi 17 octobre ont entraîné un nombre de questionnements sur les différents outils à disposition du gouvernement, des maires et des préfets pour mettre un terme aux violences urbaines. LCP fait le point sur ce que permettent la loi et la Constitution. Etat d'urgence, couvre-feu,…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/etat-d-urgence-couvre-feu-interdiction-de-manifester-ce-que-permet-la-loi-443967",
+      "published_at": "2026-10-19T12:21:44+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "322c6e10994a",
+      "title": "Violences urbaines: Sébastien Lecornu annonce des \"couvre-feux partiels\"",
+      "summary": "Par Maxence Kagni Anne-Charlotte Dusseaulx, le Lundi 19 octobre 2026 à 12:53 Le Premier ministre, Sébastien Lecornu, a annoncé ce lundi, à l'issue d'une cellule interministérielle de crise (CIC), que le gouvernement avait sollicité la mise en place de \"couvre-feux partiels\". \"Ma détermination à rétablir l'ordre est totale\", a-t-il assuré, entouré de…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/violences-urbaines-sebastien-lecornu-annonce-des-couvre-feux-partiels-443968",
+      "published_at": "2026-10-19T10:53:39+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "f4ec857e61ab",
+      "title": "Après les violences du 17 octobre, les maires font front devant leurs mairies",
+      "summary": "Au lendemain d’une mobilisation contre la vie chère qui a dégénéré en pillages et en assauts contre des hôtels de ville, l’Association des maires de France (AMF) appelle à un rassemblement ce lundi 19 octobre, à partir de midi. Les maires de Paris, Lyon et Marseille seront reçus par Sébastien Lecornu, à leur demande.",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/apres-les-violences-du-17-octobre-les-maires-font-front-devant-leurs-mairies",
+      "published_at": "2026-10-19T10:25:21+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "4c94b27da4bb",
+      "title": "Manger c'est voter — Epi#001:MANGER C’EST VOTER – En Gironde avec Nathalie Delattre RDSE",
+      "summary": "Aujourd'hui, le journaliste gastronomique, Vincent Ferniot, a rendez-vous en Gironde avec la sénatrice (RDSE) Nathalie Delattre, également vice-présidente du Sénat. Tout commence sur le bassin d'Arcachon, avec l'ostréiculteur Olivier Laban. Ici, le vrai souci, ce sont les huitres sauvages qui envahissent les fonds marins et empêchent la production…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/manger-cest-voter/epi-001-manger-cest-voter-en-gironde-avec-nathalie-delattre-rdse-e1",
+      "published_at": "2026-10-19T10:11:30+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "62ab7a5b605e",
+      "title": "Budget 2027: le marathon de la partie \"recettes\" loin d'être terminé, le vote prévu demain à l'Assemblée va être reporté",
+      "summary": "Par Soizic BONVARLET Ludovic FAU, le Lundi 19 octobre 2026 à 12:07 Plus de 2.800 amendements restaient à examiner sur la partie \"recettes\" du budget de l'État à l'issue de la séance qui s'est achevée vendredi 16 octobre à minuit, dans l'hémicycle de l'Assemblée nationale. Le vote ne pourra donc pas avoir lieu ce mardi 20 octobre, comme initialement…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-loin-d-etre-termine-le-vote-prevu-demain-a",
+      "published_at": "2026-10-19T10:07:37+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "8c54e1c5926c",
+      "title": "« L’État est responsable en partie de ce qu’il s’est passé samedi à Limoges », déclare le maire de la ville",
+      "summary": "La journée de manifestation ce samedi 17 octobre à Limoges a été marquée par un incendie qui a détruit les deux-tiers de l’hôtel de ville. Le maire de la ville pointe la responsabilité du gouvernement qui a « abandonné » la ville même s’il reconnaît que « les premiers responsables sont bien sûr les casseurs ».",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/actualites/societe/letat-est-responsable-en-partie-de-ce-quil-sest-passe-samedi-a-limoges-declare-le-maire-de-la-ville",
+      "published_at": "2026-10-19T09:44:16+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "59a8bbad5134",
+      "title": "Mobilisations du 17 octobre: le ministre de l'Intérieur reconnaît \"un manque d'anticipation\" et a proposé sa démission",
+      "summary": "Par Soizic BONVARLET , le Lundi 19 octobre 2026 à 08:54 Invité de France Inter ce lundi matin, Laurent Nuñez a admis \"un manque d'anticipation\" et \"une perte de contrôle\" au regard des événements qui ont eu lieu en marge de la mobilisation du 17 octobre. Le ministre de l'Intérieur a également confirmé avoir remis sa démission au président de la…",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/mobilisations-du-17-octobre-le-ministre-de-l-interieur-reconnait-un-manque-d",
+      "published_at": "2026-10-19T06:54:56+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "7b3303c4ee88",
+      "title": "Un monde, un regard — Un monde, un regard",
+      "summary": "On connait leur visage, leur analyse, leur voix, mais les connait-on vraiment ? Quel a été leur parcours, leur formation, quelles épreuves ont-ils du dépasser pour exercer leur magistère ? Quelles sont leurs sources d'inspiration, leur jardin secret ? Une fois par semaine, Rebecca Fitoussi reçoit sur son plateau des personnalités pour un échange…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/un-monde-un-regard/un-monde-un-regard-e10",
+      "published_at": "2026-10-19T06:08:19+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    },
+    {
+      "id": "337fcaf210ed",
+      "title": "Un monde en doc — Un monde en doc",
+      "summary": "Interroger nos sociétés, ses fractures, ses espoirs... Chaque samedi après la diffusion d'un documentaire, Rebecca Fitoussi, entourée de spécialistes, grands témoins et politiques, ouvre le débat dans l'émission \"un monde en doc\". Une demi-heure d'approfondissement et d'échanges utiles pour décrypter le monde. Nouveauté cette saison, en amont de la…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/un-monde-en-doc/un-monde-en-doc-e11",
+      "published_at": "2026-10-19T06:08:16+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sujet touche directement aux médias, aux plateformes ou à la circulation des messages. Pour les communicants, il invite à réfléchir aux formats, à la confiance, à la modération et à la manière dont les publics reçoivent l’information."
+    },
+    {
+      "id": "414c775e424f",
+      "title": "Sens Public — Sens Public",
+      "summary": "\"Sens Public\", l'actualité politique, en France ou à l'international, en débat. Nos invités - experts, observateurs et acteurs du monde politique - décryptent, échangent et confrontent leurs idées sur les sujets d'actualité et les grandes questions qui animent notre société. En direct durant l'émission, sur notre site et/ou via votre écran, scannez le…",
+      "source": "Public Sénat",
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-e58",
+      "published_at": "2026-10-19T06:08:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Une décision ou un débat politique peut modifier les priorités des institutions, des entreprises et des citoyens. Les communicants doivent en comprendre le contexte pour adapter leurs messages, anticiper les réactions et éviter les contresens."
+    }
+  ]
 }
