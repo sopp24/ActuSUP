@@ -1,0 +1,58 @@
+name: Actualiser ActuSUP
+
+on:
+  schedule:
+    # Toutes les dix minutes ; GitHub peut retarder certaines exécutions programmées.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actusup-news-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Collecter les flux des médias
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      # Aucun `uses:` ici : le dépôt est soumis à une politique qui bloque
+      # les actions hébergées dans d’autres dépôts, y compris actions/checkout.
+      - name: Récupérer le dépôt et actualiser les actualités
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+
+          # Authentifier Git via le jeton intégré du workflow sans l'inscrire dans l'URL du dépôt.
+          TOKEN_B64="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w 0)"
+          git config --global http.https://github.com/.extraheader "AUTHORIZATION: basic ${TOKEN_B64}"
+
+          git clone --depth 1 --branch "$GITHUB_REF_NAME" "https://github.com/${GITHUB_REPOSITORY}.git" repo
+          cd repo
+
+          # Utiliser Python déjà installé sur l'agent GitHub, sans action externe setup-python.
+          python3 -m venv .venv
+          . .venv/bin/activate
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+          python fetch_news.py
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "Aucune modification des actualités à enregistrer."
+          else
+            git commit -m "chore: actualiser la veille ActuSUP"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+          # Nettoyer le paramètre d'authentification du runner avant la fin du job.
+          git config --global --unset-all http.https://github.com/.extraheader || true
