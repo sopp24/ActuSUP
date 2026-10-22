@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102c3a">
+  <meta name="description" content="ActuSUP : la veille d’actualité pensée pour les étudiants et les métiers de la communication.">
+  <meta property="og:title" content="ActuSUP — L’actualité, avec un regard communication">
+  <meta property="og:description" content="Les grands sujets de l’actualité, leurs sources et ce qu’ils changent pour les communicants.">
+  <meta property="og:type" content="website">
+  <link rel="icon" type="image/svg+xml" href="assets/actusup.svg">
+  <link rel="apple-touch-icon" href="assets/actusup-180.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    /* Baromètre compact : seules les informations de synthèse restent visibles au départ. */
+    .top-stories-section {
+      padding-top: 16px;
+      padding-bottom: 16px;
+    }
+    .top-stories-inner {
+      max-width: 1144px;
+    }
+    .top-stories-heading {
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 0;
+    }
+    .top-stories-heading > div:first-child {
+      min-width: 0;
+      flex: 1 1 auto;
+    }
+    .top-stories-eyebrow {
+      font-size: 9px;
+      letter-spacing: 1.7px;
+      margin-bottom: 4px;
+    }
+    .top-stories-heading h2 {
+      font-size: clamp(22px, 2.35vw, 29px);
+      line-height: 1.08;
+      letter-spacing: -.7px;
+    }
+    .top-stories-intro {
+      font-size: 11px;
+      line-height: 1.45;
+      max-width: 700px;
+      margin: 7px 0 4px;
+    }
+    .top-stories-window {
+      font-size: 10px;
+      line-height: 1.35;
+    }
+    .top-stories-meta {
+      max-width: 300px;
+      flex: 0 0 auto;
+      font-size: 10px;
+      line-height: 1.45;
+      padding-bottom: 0;
+    }
+    .top-stories-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 11px;
+      padding: 8px 12px;
+      min-height: 34px;
+      border: 1px solid rgba(255, 247, 240, .55);
+      border-radius: 7px;
+      background: #fff7f0;
+      color: #8e330e;
+      font: inherit;
+      font-size: 11px;
+      font-weight: 850;
+      line-height: 1.2;
+      cursor: pointer;
+      transition: background .18s ease, transform .18s ease;
+    }
+    .top-stories-toggle:hover {
+      background: #ffe6d3;
+      transform: translateY(-1px);
+    }
+    .top-stories-toggle:focus-visible {
+      outline: 3px solid #ffd27d;
+      outline-offset: 3px;
+    }
+    .top-stories-details[hidden] {
+      display: none !important;
+    }
+    .top-stories-details:not([hidden]) {
+      margin-top: 18px;
+    }
+    .top-stories-method {
+      margin-top: 13px;
+    }
+    @media (max-width: 760px) {
+      .top-stories-section {
+        padding: 15px 16px 16px;
+      }
+      .top-stories-heading {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 7px;
+        margin-bottom: 0;
+      }
+      .top-stories-heading h2 {
+        font-size: clamp(22px, 6vw, 28px);
+      }
+      .top-stories-intro {
+        font-size: 11px;
+        margin-top: 6px;
+      }
+      .top-stories-meta {
+        margin-top: 2px;
+        max-width: none;
+        justify-content: flex-start;
+        text-align: left;
+      }
+      .top-stories-toggle {
+        width: 100%;
+        margin-top: 11px;
+        min-height: 38px;
+      }
+      .top-stories-details:not([hidden]) {
+        margin-top: 15px;
+      }
+    }
+    @media (max-width: 420px) {
+      .top-stories-section {
+        padding: 13px 14px 14px;
+      }
+      .top-stories-eyebrow {
+        font-size: 8px;
+        letter-spacing: 1.4px;
+      }
+      .top-stories-heading h2 {
+        font-size: 24px;
+      }
+      .top-stories-intro {
+        font-size: 10.5px;
+      }
+      .top-stories-window,
+      .top-stories-meta {
+        font-size: 9px;
+      }
+      .top-stories-toggle {
+        font-size: 10px;
+        padding: 9px 10px;
+      }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .top-stories-toggle { transition: none; }
+      .top-stories-toggle:hover { transform: none; }
+    }
+  </style>
+  <title>ActuSUP — L’actualité, avec un regard communication</title>
+</head>
+<body>
+  <a class="skip-link" href="#main">Aller au contenu</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="ActuSUP, accueil">
+        <img src="assets/actusup.svg" alt="" class="brand-mark">
+        <span class="brand-word">Actu<span>SUP</span><small>LA VEILLE DES COMMUNICANTS</small></span>
+      </a>
+      <div class="header-meta">
+        <span class="live-dot"></span><span id="update-label">Chargement de la veille…</span>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="top-stories-section" aria-labelledby="top-stories-title">
+      <div class="top-stories-inner">
+        <div class="top-stories-heading">
+          <div>
+            <p class="top-stories-eyebrow">LE BAROMÈTRE DE LA SEMAINE</p>
+            <h2 id="top-stories-title">Les 20 infos qui comptent<span>.</span></h2>
+            <p class="top-stories-intro">Les sujets les plus couverts sur les sept derniers jours, sélectionnés à partir des flux des médias suivis.</p>
+            <p class="top-stories-window">Du <time id="top-stories-start">—</time> au <time id="top-stories-end">—</time></p>
+          </div>
+          <div class="top-stories-meta"><span class="top-stories-live-dot" aria-hidden="true"></span><span id="top-stories-meta">Analyse de la couverture médiatique en cours…</span></div>
+        </div>
+        <button id="toggle-top-stories" class="top-stories-toggle" type="button" aria-expanded="false" aria-controls="top-stories-details">Voir les 20 actus de la semaine</button>
+        <div id="top-stories-details" class="top-stories-details" hidden>
+          <div id="top-stories-grid" class="top-stories-grid" aria-live="polite"></div>
+          <p id="top-stories-empty" class="top-stories-empty" hidden>Les 20 sujets seront affichés après la prochaine collecte des flux d’actualité.</p>
+          <p class="top-stories-method">Classement fondé sur le nombre de médias distincts qui relaient un sujet, le volume d’articles associés et leur fraîcheur. Il s’agit d’un indicateur de couverture, pas d’un jugement définitif sur l’importance d’une information.</p>
+        </div>
+      </div>
+    </section>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">COMPRENDRE LE MONDE. NOURRIR SES IDÉES.</p>
+        <h1>L’actualité ne se regarde pas.<br><em>Elle se décrypte.</em></h1>
+        <p class="hero-description">Les sujets qui comptent, expliqués simplement et mis en perspective pour les métiers de la communication.</p>
+        <div class="hero-note"><span class="note-icon">✳</span> Votre matière première, c’est le monde qui vous entoure.</div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+        <div class="art-card card-main"><span class="art-kicker">LE FIL DE L’INFO</span><div class="art-lines"><i></i><i></i><i></i></div><span class="art-symbol">A↗</span></div>
+        <div class="art-card card-mini"><span class="mini-dot"></span> À DÉCRYPTER</div>
+        <div class="art-bubble">↗</div>
+      </div>
+    </section>
+
+    <section class="toolbar-section" aria-label="Filtres des actualités">
+      <div class="section-topline">
+        <div><p class="eyebrow dark">LA SÉLECTION</p><h2>Le fil d’actualité<span class="period">.</span></h2></div>
+        <div class="result-count" id="result-count">Chargement…</div>
+      </div>
+      <div class="controls">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="search-input" type="search" placeholder="Rechercher un sujet, un média…" autocomplete="off"><kbd>⌘ K</kbd></label>
+        <label class="sort-label" for="sort-select">Trier</label>
+        <select id="sort-select" aria-label="Trier les actualités"><option value="recent">Plus récentes</option><option value="source">Par média</option></select>
+        <button id="refresh-news" class="refresh-button" type="button" aria-label="Actualiser les actualités" title="Récupérer les dernières données disponibles"><span class="refresh-icon" aria-hidden="true">↻</span><span class="refresh-label">Actualiser</span></button>
+      </div>
+      <div class="category-list" id="category-list" role="group" aria-label="Filtrer par catégorie">
+        <button class="category-chip active" data-category="Toutes">Tout voir</button>
+        <button class="category-chip" data-category="Politique">Politique</button>
+        <button class="category-chip" data-category="Économie">Économie</button>
+        <button class="category-chip" data-category="Société">Société</button>
+        <button class="category-chip" data-category="International">International</button>
+        <button class="category-chip" data-category="Sciences & tech">Sciences & tech</button>
+        <button class="category-chip" data-category="Culture">Culture</button>
+        <button class="category-chip" data-category="Sport">Sport</button>
+        <button class="category-chip" data-category="Médias & communication">Médias & communication</button>
+        <button class="category-chip" data-category="Environnement">Environnement</button>
+      </div>
+    </section>
+
+    <section class="news-section" aria-live="polite">
+      <div id="status-message" class="status-message" hidden></div>
+      <div id="news-grid" class="news-grid"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <div class="empty-icon">⌕</div><h3>Aucun article dans cette sélection</h3><p>Essaie un autre mot-clé ou une autre catégorie.</p>
+        <button id="reset-filters" class="button-secondary">Réinitialiser les filtres</button>
+      </div>
+      <div class="load-more-wrap"><button id="load-more" class="button-secondary" hidden>Afficher plus d’articles <span>↓</span></button></div>
+    </section>
+
+    <section class="method-section">
+      <div class="method-number">01 / MÉTHODE</div>
+      <div><h2>Une information.<br><em>Un angle en plus.</em></h2><p>Un communicant doit comprendre les événements, les débats et les évolutions de société. ActuSUP rapproche chaque sujet des réalités du métier : réputation, narration, influence, publics, tendances et gestion de crise.</p></div>
+      <div class="method-aside"><span class="aside-star">✳</span><strong>Le bon réflexe</strong><p>Lire la source originale, croiser les points de vue et vérifier la date avant de reprendre une information.</p></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-brand"><img src="assets/actusup.svg" alt="" width="32" height="32"><strong>ActuSUP</strong></div>
+    <p>Une veille pour aiguiser sa culture générale et son regard de communicant.</p>
+    <div class="footer-bottom"><span>Les articles restent la propriété de leurs médias d’origine.</span><span>Fait pour apprendre à mieux décrypter.</span></div>
+  </footer>
+  <template id="news-card-template">
+    <article class="news-card">
+      <div class="card-top"><span class="category-tag"></span><time></time></div>
+      <h3 class="news-title"></h3>
+      <p class="news-summary"></p>
+      <div class="communication-angle"><span class="angle-icon">✳</span><div><strong>Pourquoi c’est important en communication</strong><p class="angle-copy"></p></div></div>
+      <div class="card-footer"><span class="source-name"></span><a class="read-link" target="_blank" rel="noopener noreferrer">Lire la source <span>↗</span></a></div>
+    </article>
+  </template>
+  <script src="app.js" defer></script>
+
+  <script>
+    (() => {
+      const toggle = document.getElementById("toggle-top-stories");
+      const details = document.getElementById("top-stories-details");
+      if (!toggle || !details) return;
+
+      const updateToggle = (expanded) => {
+        details.hidden = !expanded;
+        toggle.setAttribute("aria-expanded", String(expanded));
+        toggle.textContent = expanded
+          ? "Masquer les 20 actus de la semaine"
+          : "Voir les 20 actus de la semaine";
+      };
+
+      updateToggle(false);
+      toggle.addEventListener("click", () => {
+        updateToggle(details.hidden);
+      });
+    })();
+  </script>
+</body>
+</html>
