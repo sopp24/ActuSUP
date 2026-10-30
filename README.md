@@ -63,7 +63,7 @@ Les médias peuvent changer les adresses ou les conditions d’accès à leurs f
 
 ## Catégorisation et limites
 
-Les catégories sont attribuées automatiquement à partir de mots-clés dans les titres et les résumés RSS. La comparaison s’effectue sur des mots ou expressions entiers afin d’éviter les faux positifs dus à de simples sous-chaînes. Elle peut néanmoins rester imparfaite. L’angle communication est une explication pédagogique générée à partir du titre, du résumé et de la catégorie, et non une analyse journalistique individualisée de chaque article. Vérifie les informations et consulte la source originale avant de les réutiliser.
+Les catégories et les angles de communication sont attribués automatiquement à partir de mots-clés dans les titres et les résumés RSS. La détection s’effectue sur des mots ou expressions entiers afin d’éviter les faux positifs dus à de simples sous-chaînes. Elle peut néanmoins rester imparfaite. L’angle communication est une explication pédagogique générée à partir du titre, du résumé et de la catégorie, et non une analyse journalistique individualisée de chaque article. Vérifie les informations et consulte la source originale avant de les réutiliser.
 
 L’agrégation RSS ne garantit pas qu’un sujet ait été traité simultanément dans la presse écrite, à la télévision et à la radio. Cette exigence du QCM de départ doit être vérifiée manuellement.
 

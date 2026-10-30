@@ -153,9 +153,11 @@ CATEGORY_ANGLE_FALLBACKS = {
 def communication_angle_for(title: str, summary: str, category: str) -> str:
     """Produit un angle adapté aux indices présents dans le titre et le résumé RSS."""
     headline = clean_text(title).strip(" .:;—–")
-    content = f" {headline} {clean_text(summary)} ".lower()
+    # Les mêmes règles par mots entiers évitent les faux positifs tels que
+    # « loi » repérée au milieu du mot « emplois ».
+    content = f" {normalize_keyword_text(f'{headline} {clean_text(summary)}')} "
     for keywords, angle in ARTICLE_ANGLE_RULES:
-        if any(keyword in content for keyword in keywords):
+        if any(f" {normalize_keyword_text(keyword)} " in content for keyword in keywords):
             return f"{angle} Sujet suivi : « {headline[:150]} » .".replace(" » .", " ».")
     fallback = CATEGORY_ANGLE_FALLBACKS.get(category, "Cette actualité peut faire évoluer les attentes des publics et les conversations autour des organisations.")
     return f"{fallback} Pour travailler ce cas, partez du sujet précis — « {headline[:150]} » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."

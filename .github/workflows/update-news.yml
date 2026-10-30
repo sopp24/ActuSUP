@@ -50,7 +50,7 @@ jobs:
 
           python -m py_compile fetch_news.py
           python - <<'PY'
-          from fetch_news import categorize
+          from fetch_news import categorize, communication_angle_for
 
           checks = [
               ("Les emplois progressent dans plusieurs secteurs", "Économie"),
@@ -61,6 +61,12 @@ jobs:
               actual = categorize(sample)
               if actual != expected:
                   raise SystemExit(f"Catégorisation incorrecte : {sample!r} → {actual!r} (attendu : {expected!r})")
+
+          employment_angle = communication_angle_for(
+              "Les emplois progressent dans plusieurs secteurs", "", "Économie"
+          )
+          if "juridique" in employment_angle.lower():
+              raise SystemExit("Faux positif dans l’angle communication : le mot « loi » a été détecté dans « emplois ».")
           PY
 
           python fetch_news.py
