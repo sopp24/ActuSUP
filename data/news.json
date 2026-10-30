@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T14:49:48.478425+00:00",
-  "last_attempt": "2026-10-30T14:49:48.478425+00:00",
+  "last_updated": "2026-10-30T14:52:36.958847+00:00",
+  "last_attempt": "2026-10-30T14:52:36.958847+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 160,
   "sources_configured": 24,
@@ -9,8 +9,8 @@
     "Les Échos"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-23T14:49:48.478425+00:00",
-  "featured_window_end": "2026-10-30T14:49:48.478425+00:00",
+  "featured_window_start": "2026-10-23T14:52:36.958847+00:00",
+  "featured_window_end": "2026-10-30T14:52:36.958847+00:00",
   "featured_pool_count": 464,
   "featured_sources_count": 22,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 7 jours",
@@ -20,7 +20,7 @@
       "title": "Manifestation du 31 octobre: \"Il y a nécessité de lier le droit de manifester à la réalité des faits\", explique Nathanaël Combary, président de Renouveau Lycéen et membre de Renaissance",
       "summary": "La préfecture de police de Paris a également interdit la manifestation déposée par la coordination des gilets jaunes, qui voulait défiler samedi de Bastille à la Concorde. Comme pour la manifestation déposée par l'intersyndicale, elle aussi interdite, le préfet a renvoyé les manifestants au parcours entre porte de Bagnolet et porte de Charenton, qu'il a…",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestation-du-31-octobre-il-y-a-necessite-de-lier-le-droit-de-manifester-a-la-realite-des-faits-explique-nathanael-combary-president-de-renouveau-lyceen-et-membre-de-renaissance_VN-202610300618.html",
       "published_at": "2026-10-30T14:34:43+00:00",
       "category": "Politique",
@@ -30,25 +30,27 @@
         "Le Monde",
         "France 24",
         "Le Figaro",
+        "RFI",
         "BFMTV",
         "Euronews",
         "Libération",
         "20 Minutes",
+        "La Croix – International",
         "LCP",
         "Ouest-France",
         "Public Sénat"
       ],
-      "coverage_count": 11,
-      "mention_count": 33,
-      "importance_score": 25.624,
-      "latest_coverage_at": "2026-10-30T14:34:43+00:00"
+      "coverage_count": 13,
+      "mention_count": 46,
+      "importance_score": 27.252,
+      "latest_coverage_at": "2026-10-30T14:46:30+00:00"
     },
     {
       "id": "20bb97c05ad7",
       "title": "Collision de trains en Espagne: Pedro Sánchez reconnaît que la confiance dans le train à grande vitesse est \"rompue\" dans le pays",
       "summary": "Le Premier ministre espagnol, Pedro Sánchez, a affirmé ce vendredi que le rôle de son gouvernement était \"d'offrir des solutions pour qu'une tragédie d'une telle ampleur\" ne \"se reproduise pas\", alors que l'accident d'Urda survient moins d'un an après celui d'Adamuz, qui avait fait 46 morts.",
       "source": "BFMTV",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.bfmtv.com/international/europe/espagne/collision-de-trains-en-espagne-pedro-sanchez-reconnait-que-la-confiance-dans-le-train-a-grande-vitesse-est-rompue-dans-le-pays_AD-202610300593.html",
       "published_at": "2026-10-30T14:01:46+00:00",
       "category": "Politique",
@@ -64,81 +66,100 @@
         "Reporterre"
       ],
       "coverage_count": 8,
-      "mention_count": 15,
-      "importance_score": 22.299,
+      "mention_count": 14,
+      "importance_score": 22.156,
       "latest_coverage_at": "2026-10-30T14:12:19+00:00"
     },
     {
-      "id": "041b0afd192f",
-      "title": "Guerre en Ukraine : évacuations à Olechky ; 200 000 foyers sans d’électricité",
-      "summary": "Les évacuations d’habitants ont débuté à Olechky, dans le sud de l’Ukraine, où un cessez-le-feu est en vigueur depuis plus de trois jours. Le ministre des affaires étrangères russe est arrivé aux États-Unis pour participer au G20. Suivez l’actualité de la guerre en Ukraine ce vendredi 30 octobre.",
-      "source": "La Croix – International",
+      "id": "61b56c5f7a26",
+      "title": "Qu’est-ce que « Novaïa Gazeta », le journal russe contraint de fermer ?",
+      "summary": "Après trente-trois ans d’existence, le média russe Novaïa Gazeta est contraint de cesser ses activités, annonce-t-il dans une lettre publiée ce vendredi 30 octobre 2026. Bastion de la liberté de la presse en Russie, il dénonce une « opération coordonnée » des forces spéciales russes pour le museler.",
+      "source": "Ouest-France",
       "feed_rank": 1,
-      "url": "https://www.la-croix.com/international/ukraine-russie-jour-1710-point-conflit-ukrainien-poutine-aujourdhui-20261030",
-      "published_at": "2026-10-30T14:46:30+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre en Ukraine : évacuations à Olechky ; 200 000 foyers sans d’électricité ».",
-      "coverage_sources": [
-        "franceinfo",
-        "Le Monde",
-        "RFI",
-        "Euronews",
-        "20 Minutes",
-        "La Croix – International",
-        "LCP"
-      ],
-      "coverage_count": 7,
-      "mention_count": 13,
-      "importance_score": 21.235,
-      "latest_coverage_at": "2026-10-30T14:46:30+00:00"
-    },
-    {
-      "id": "d1ce1ab04a3e",
-      "title": "« Novaïa Gazeta » : le comité Nobel appelle la Russie « à mettre fin à la répression »",
-      "summary": "Le jury norvégien, qui a décerné en 2021 le prix Nobel de la paix à l’ancien rédacteur en chef Dmitri Mouratov, dénonce une atteinte à la liberté d’expression et au droit à l’information.",
-      "source": "Le Monde",
-      "feed_rank": 8,
-      "url": "https://www.lemonde.fr/international/article/2026/10/30/novaia-gazeta-le-comite-nobel-appelle-la-russie-a-mettre-fin-a-la-repression_6803097_3210.html",
-      "published_at": "2026-10-30T14:13:02+00:00",
-      "category": "Économie",
-      "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « « Novaïa Gazeta » : le comité Nobel appelle la Russie « à mettre fin à la répression » ».",
+      "url": "https://www.ouest-france.fr/europe/russie/quest-ce-que-novaia-gazeta-le-journal-russe-contraint-de-fermer-8fdc639e-d442-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-30T14:52:16+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Qu’est-ce que « Novaïa Gazeta », le journal russe contraint de fermer ? ».",
       "coverage_sources": [
         "Le Monde",
-        "France 24",
         "RFI",
         "Courrier International",
         "Libération",
         "La Croix – International",
+        "Ouest-France",
         "Télérama"
       ],
       "coverage_count": 7,
       "mention_count": 9,
-      "importance_score": 20.716,
-      "latest_coverage_at": "2026-10-30T14:37:48+00:00"
+      "importance_score": 20.815,
+      "latest_coverage_at": "2026-10-30T14:52:16+00:00"
     },
     {
-      "id": "d35fe33252e6",
-      "title": "Trappes : un rassemblement contre le racisme et l’islamophobie une semaine après l’attentat",
-      "summary": "Une semaine après la fusillade raciste qui a fait un mort et sept blessés à Trappes et La Verrière, plusieurs milliers de personnes sont attendues ce vendredi soir pour un rassemblement contre le racisme et l’islamophobie, en présence de nombreuses personnalités politiques de gauche.",
-      "source": "Euronews",
-      "feed_rank": 2,
-      "url": "https://fr.euronews.com/2026/10/30/trappes-un-rassemblement-contre-le-racisme-et-lislamophobie-une-semaine-apres-lattentat",
-      "published_at": "2026-10-30T14:25:46+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Trappes : un rassemblement contre le racisme et l’islamophobie une semaine après l’attentat » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "d6791fe2b1e9",
+      "title": "Une proposition de loi déposée visant à rendre illégale l'évocation de la théorie du \"grand remplacement\" après l'attentat raciste dans les Yvelines",
+      "summary": "Cette loi doit contribuer, selon ses auteurs, à \"renforcer la lutte contre les discours incitant à la haine et aux actes racistes et xénophobes\", au cœur du débat public depuis l'attentat raciste survenu à Trappes ayant fait un mort et sept blessés.",
+      "source": "franceinfo",
+      "feed_rank": 9,
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-proposition-de-loi-deposee-visant-a-rendre-illegale-l-evocation-de-la-theorie-du-grand-remplacement-apres-l-attentat-raciste-dans-les-yvelines_8260526.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-30T14:06:03+00:00",
+      "category": "Politique",
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Une proposition de loi déposée visant à rendre illégale l'évocation de la théorie du \"grand remplacement\" après l'attentat raciste dans les Yvelines ».",
       "coverage_sources": [
         "franceinfo",
         "France 24",
         "Le Figaro",
-        "Euronews",
         "Libération",
         "20 Minutes",
         "LCP"
       ],
-      "coverage_count": 7,
-      "mention_count": 9,
-      "importance_score": 20.636,
+      "coverage_count": 6,
+      "mention_count": 8,
+      "importance_score": 19.438,
       "latest_coverage_at": "2026-10-30T14:46:43+00:00"
+    },
+    {
+      "id": "60a60871730d",
+      "title": "Législatives en Israël : les négociations pour former un nouvel exécutif s'annoncent compliquées",
+      "summary": "Alors que le taux de participation est un record depuis 1999 aux élections législatives en Israël, le scrutin reste sans majorité absolue. Ainsi, plusieurs options pour former un nouvel exécutif sont envisagées, telles qu'une coalition avec les partis arabes, une alternance au pouvoir entre les deux partis politiques majeurs ou bien la constitution d'un…",
+      "source": "France 24",
+      "feed_rank": 5,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-l%C3%A9gislatives-en-isra%C3%ABl-les-n%C3%A9gociations-pour-former-un-nouvel-ex%C3%A9cutif-s-annoncent-compliqu%C3%A9es",
+      "published_at": "2026-10-30T13:56:08+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Législatives en Israël : les négociations pour former un nouvel exécutif s'annoncent compliquées ».",
+      "coverage_sources": [
+        "France 24",
+        "RFI",
+        "Courrier International",
+        "Libération",
+        "La Croix – International"
+      ],
+      "coverage_count": 5,
+      "mention_count": 9,
+      "importance_score": 18.794,
+      "latest_coverage_at": "2026-10-30T13:58:40+00:00"
+    },
+    {
+      "id": "0a517d6086cf",
+      "title": "Élections de mi-mandat : une bataille pour les droits des femmes aux États-Unis",
+      "summary": "Quel sera le choix des femmes lors des élections de mi-mandat aux États-Unis ? Donald Trump ne cesse de détricoter les droits des femmes : en s’attaquant à l'avortement, puis en soutenant des mesures qui pourraient limiter le nombre d'électrices. Le documentariste Brice Lambert, auteur du film \"Sexe faible : l’Amérique en guerre contre ses femmes\", qui a…",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261030-elections-mi-mandat-bataille-droits-femmes-etats-unis-avortement",
+      "published_at": "2026-10-30T14:32:53+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Élections de mi-mandat : une bataille pour les droits des femmes aux États-Unis ».",
+      "coverage_sources": [
+        "franceinfo",
+        "Le Monde",
+        "France 24",
+        "BFMTV",
+        "La Croix – International"
+      ],
+      "coverage_count": 5,
+      "mention_count": 7,
+      "importance_score": 18.458,
+      "latest_coverage_at": "2026-10-30T14:34:05+00:00"
     },
     {
       "id": "655ae61a401f",
@@ -149,7 +170,7 @@
       "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-contre-binance-comment-des-plateformes-de-cryptomonnaies-peuvent-se-faire-devaliser-20261030",
       "published_at": "2026-10-30T13:50:15+00:00",
       "category": "Sciences & tech",
-      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ? ».",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ? ».",
       "coverage_sources": [
         "Le Monde",
         "Le Figaro",
@@ -159,29 +180,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.083,
+      "importance_score": 18.105,
       "latest_coverage_at": "2026-10-30T14:28:14+00:00"
-    },
-    {
-      "id": "81c3f0b1d535",
-      "title": "Israël : une infographie pour visualiser la nouvelle Knesset sans majorité",
-      "summary": "Avec 53 sièges pour le bloc autour de Benyamin Nétanyahou, 48 pour l’opposition autour de Gadi Eisenkot et 19 pour les partis arabes, aucune majorité ne se dégage naturellement de la Knesset, comme le montrent les résultats finals. À moins de sortir de la logique des blocs.",
-      "source": "Courrier International",
-      "feed_rank": 5,
-      "url": "https://www.courrierinternational.com/grand-format/politique-israel-une-infographie-pour-visualiser-la-nouvelle-knesset-sans-majorite_283443",
-      "published_at": "2026-10-30T13:58:40+00:00",
-      "category": "International",
-      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Israël : une infographie pour visualiser la nouvelle Knesset sans majorité » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France 24",
-        "RFI",
-        "Courrier International",
-        "La Croix – International"
-      ],
-      "coverage_count": 4,
-      "mention_count": 6,
-      "importance_score": 16.916,
-      "latest_coverage_at": "2026-10-30T13:58:40+00:00"
     },
     {
       "id": "2def38d19bff",
@@ -201,7 +201,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.112,
+      "importance_score": 16.031,
       "latest_coverage_at": "2026-10-30T14:00:07+00:00"
     },
     {
@@ -220,9 +220,9 @@
         "Euronews"
       ],
       "coverage_count": 3,
-      "mention_count": 5,
-      "importance_score": 15.291,
-      "latest_coverage_at": "2026-10-30T14:21:22+00:00"
+      "mention_count": 4,
+      "importance_score": 14.947,
+      "latest_coverage_at": "2026-10-30T13:46:39+00:00"
     },
     {
       "id": "d172fda68a2b",
@@ -232,8 +232,8 @@
       "feed_rank": 17,
       "url": "https://www.lefigaro.fr/faits-divers/supremacistes-religieux-ou-nationalistes-on-va-tous-vous-dezinguer-le-depute-lfi-raphael-arnault-sera-juge-le-17-novembre-a-paris-20261030",
       "published_at": "2026-10-30T14:26:51+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « «Suprémacistes religieux ou nationalistes, on va tous vous dézinguer» : le député LFI Raphaël Arnault sera jugé le 17 novembre à Paris » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « «Suprémacistes religieux ou nationalistes, on va tous vous dézinguer» : le député LFI Raphaël Arnault sera jugé le 17 novembre à Paris ».",
       "coverage_sources": [
         "Le Monde",
         "Le Figaro",
@@ -241,7 +241,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.703,
+      "importance_score": 14.702,
       "latest_coverage_at": "2026-10-30T14:26:51+00:00"
     },
     {
@@ -261,7 +261,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.617,
+      "importance_score": 14.616,
       "latest_coverage_at": "2026-10-30T11:02:50+00:00"
     },
     {
@@ -281,88 +281,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.6,
+      "importance_score": 14.599,
       "latest_coverage_at": "2026-10-30T11:32:46+00:00"
-    },
-    {
-      "id": "1abb54472bbe",
-      "title": "EN DIRECT, midterms 2026 : posez vos questions à notre correspondant aux Etats-Unis, Piotr Smolar, sur les enjeux politiques de ces élections de mi-mandat",
-      "summary": "Les démocrates ont-ils vraiment une chance de reprendre les deux chambres du Congrès ? Comment les Américains réagissent-ils après deux années de présidence Trump ? Notre journaliste sera en tchat à partir de 16 heures.",
-      "source": "Le Monde",
-      "feed_rank": 3,
-      "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-posez-vos-questions-a-notre-correspondant-aux-etats-unis-piotr-smolar-sur-les-enjeux-politiques-de-ces-elections-de-mi-mandat_6801590_3210.html",
-      "published_at": "2026-10-30T14:34:05+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « EN DIRECT, midterms 2026 : posez vos questions à notre correspondant aux Etats-Unis, Piotr Smolar, sur les enjeux politiques de ces élections de mi-ma ».",
-      "coverage_sources": [
-        "Le Monde",
-        "BFMTV",
-        "La Croix – International"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.507,
-      "latest_coverage_at": "2026-10-30T14:34:05+00:00"
-    },
-    {
-      "id": "a894c9b76bec",
-      "title": "Coup d’envoi des Jeux olympiques de la jeunesse au Sénégal : une première en Afrique",
-      "summary": "Du 31 octobre au 13 novembre, Dakar, la ville nouvelle de Diamniadio et Saly la balnéaire accueillent les Jeux olympiques de la jeunesse. Un événement qui ancre le Sénégal dans le concert des nations, mais dont la préparation a été émaillée de tensions sociales et politiques.",
-      "source": "Courrier International",
-      "feed_rank": 3,
-      "url": "https://www.courrierinternational.com/article/sport-coup-d-envoi-des-jeux-olympiques-de-la-jeunesse-au-senegal-une-premiere-en-afrique_283445",
-      "published_at": "2026-10-30T14:10:08+00:00",
-      "category": "International",
-      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Coup d’envoi des Jeux olympiques de la jeunesse au Sénégal : une première en Afrique ».",
-      "coverage_sources": [
-        "France 24",
-        "RFI",
-        "Courrier International"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.441,
-      "latest_coverage_at": "2026-10-30T14:10:08+00:00"
-    },
-    {
-      "id": "ba655a09d3b1",
-      "title": "« Mon corps me fait mal » : Christa Pike s’exprime publiquement après avoir survécu à son exécution aux États-Unis",
-      "summary": "Christa Pike, condamnée à mort aux États-Unis pour torture et assassinat, avait survécu à deux injections létales, le 30 septembre. Un mois plus tard, elle s’exprime publiquement pour la première fois dans une déclaration dictée à ses avocats. Elle y fait part de sa douleur et dénonce son isolement.",
-      "source": "Ouest-France",
-      "feed_rank": 5,
-      "url": "https://www.ouest-france.fr/monde/etats-unis/mon-corps-me-fait-mal-christa-pike-sexprime-publiquement-apres-avoir-survecu-a-son-execution-aux-etats-unis-0f267012-d467-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-30T14:40:23+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Mon corps me fait mal » : Christa Pike s’exprime publiquement après avoir survécu à son exécution aux États-Unis ».",
-      "coverage_sources": [
-        "franceinfo",
-        "BFMTV",
-        "Ouest-France"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.37,
-      "latest_coverage_at": "2026-10-30T14:40:23+00:00"
-    },
-    {
-      "id": "9260474f598e",
-      "title": "Football : la Coupe d'Afrique des Nations aura de nouveau lieu tous les deux ans, confirme la CAF",
-      "summary": "La Confédération africaine de football avait annoncé vouloir organiser sa compétition tous les 4 ans.",
-      "source": "franceinfo",
-      "feed_rank": 6,
-      "url": "https://www.franceinfo.fr/sports/foot/can/football-la-coupe-d-afrique-des-nations-aura-de-nouveau-lieu-tous-les-deux-ans-confirme-la-caf_8260535.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-10-30T14:13:35+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football : la Coupe d'Afrique des Nations aura de nouveau lieu tous les deux ans, confirme la CAF ».",
-      "coverage_sources": [
-        "franceinfo",
-        "France 24",
-        "RFI"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.35,
-      "latest_coverage_at": "2026-10-30T14:13:35+00:00"
     },
     {
       "id": "3c086f1db17f",
@@ -385,6 +305,26 @@
       "latest_coverage_at": "2026-10-30T14:00:05+00:00"
     },
     {
+      "id": "a894c9b76bec",
+      "title": "Coup d’envoi des Jeux olympiques de la jeunesse au Sénégal : une première en Afrique",
+      "summary": "Du 31 octobre au 13 novembre, Dakar, la ville nouvelle de Diamniadio et Saly la balnéaire accueillent les Jeux olympiques de la jeunesse. Un événement qui ancre le Sénégal dans le concert des nations, mais dont la préparation a été émaillée de tensions sociales et politiques.",
+      "source": "Courrier International",
+      "feed_rank": 3,
+      "url": "https://www.courrierinternational.com/article/sport-coup-d-envoi-des-jeux-olympiques-de-la-jeunesse-au-senegal-une-premiere-en-afrique_283445",
+      "published_at": "2026-10-30T14:10:08+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Coup d’envoi des Jeux olympiques de la jeunesse au Sénégal : une première en Afrique ».",
+      "coverage_sources": [
+        "France 24",
+        "RFI",
+        "Courrier International"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.287,
+      "latest_coverage_at": "2026-10-30T14:10:08+00:00"
+    },
+    {
       "id": "11f0aad39d32",
       "title": "\"Un scandale de santé publique qui émerge\" : après la mort du comédien Arnaud Denis, enquête sur les prothèses de hernies",
       "summary": "En dix ans, 2,6 millions de personnes ont été opérées d'une hernie abdominale en France. Une intervention dite \"banale\". Mais depuis la mort du comédien Arnaud Denis, euthanasié en septembre en Belgique, les témoignages de patients en souffrance après la pose d'une prothèse se multiplient.",
@@ -404,6 +344,26 @@
       "latest_coverage_at": "2026-10-30T09:14:05+00:00"
     },
     {
+      "id": "40bf0ca981c2",
+      "title": "France : grève des dockers pendant 24 heures, les ports à l'arrêt \"à 95%\"",
+      "summary": "Les ports français et européens seront perturbés vendredi 30 octobre par une grève de 24 heures des dockers, à l'appel de la Fédération nationale des ports et docks CGT, qui représente près de 90% des salariés du secteur. La consigne est de n'avoir aucun chargement ni déchargement. Une grève d'ampleur internationale puisque 22 pays européens ont prévu…",
+      "source": "France 24",
+      "feed_rank": 4,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-france-gr%C3%A8ve-des-dockers-pendant-24-heures-les-ports-%C3%A0-l-arr%C3%AAt-%C3%A0-95",
+      "published_at": "2026-10-30T14:02:20+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « France : grève des dockers pendant 24 heures, les ports à l'arrêt \"à 95%\" ».",
+      "coverage_sources": [
+        "franceinfo",
+        "France 24",
+        "Euronews"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.087,
+      "latest_coverage_at": "2026-10-30T14:02:20+00:00"
+    },
+    {
       "id": "f5e2b04132f1",
       "title": "Une fuite de données perce l’opacité du département américain de la Sécurité intérieure",
       "summary": "Le département américain de la Sécurité intérieure (DHS) a des fuites. Et pas qu’un peu. Des données personnelles sur plus de 41 000 employés et prestataires sont dans la nature, tout comme des informations sensibles sur des programmes de surveillance. Un groupe de pirates se faisant appeler « Department of Peace » aurait obtenu les données […]",
@@ -419,7 +379,7 @@
       ],
       "coverage_count": 2,
       "mention_count": 3,
-      "importance_score": 12.586,
+      "importance_score": 12.585,
       "latest_coverage_at": "2026-10-30T07:32:00+00:00"
     },
     {
@@ -438,20 +398,91 @@
       ],
       "coverage_count": 2,
       "mention_count": 2,
-      "importance_score": 12.242,
+      "importance_score": 12.241,
       "latest_coverage_at": "2026-10-30T13:29:43+00:00"
+    },
+    {
+      "id": "ba655a09d3b1",
+      "title": "« Mon corps me fait mal » : Christa Pike s’exprime publiquement après avoir survécu à son exécution aux États-Unis",
+      "summary": "Christa Pike, condamnée à mort aux États-Unis pour torture et assassinat, avait survécu à deux injections létales, le 30 septembre. Un mois plus tard, elle s’exprime publiquement pour la première fois dans une déclaration dictée à ses avocats. Elle y fait part de sa douleur et dénonce son isolement.",
+      "source": "Ouest-France",
+      "feed_rank": 6,
+      "url": "https://www.ouest-france.fr/monde/etats-unis/mon-corps-me-fait-mal-christa-pike-sexprime-publiquement-apres-avoir-survecu-a-son-execution-aux-etats-unis-0f267012-d467-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-30T14:40:23+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Mon corps me fait mal » : Christa Pike s’exprime publiquement après avoir survécu à son exécution aux États-Unis ».",
+      "coverage_sources": [
+        "franceinfo",
+        "Ouest-France"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2,
+      "importance_score": 12.232,
+      "latest_coverage_at": "2026-10-30T14:40:23+00:00"
+    },
+    {
+      "id": "9260474f598e",
+      "title": "Football : la Coupe d'Afrique des Nations aura de nouveau lieu tous les deux ans, confirme la CAF",
+      "summary": "La Confédération africaine de football avait annoncé vouloir organiser sa compétition tous les 4 ans.",
+      "source": "franceinfo",
+      "feed_rank": 6,
+      "url": "https://www.franceinfo.fr/sports/foot/can/football-la-coupe-d-afrique-des-nations-aura-de-nouveau-lieu-tous-les-deux-ans-confirme-la-caf_8260535.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-10-30T14:13:35+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football : la Coupe d'Afrique des Nations aura de nouveau lieu tous les deux ans, confirme la CAF ».",
+      "coverage_sources": [
+        "franceinfo",
+        "RFI"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2,
+      "importance_score": 12.181,
+      "latest_coverage_at": "2026-10-30T14:13:35+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "61b56c5f7a26",
+      "title": "Qu’est-ce que « Novaïa Gazeta », le journal russe contraint de fermer ?",
+      "summary": "Après trente-trois ans d’existence, le média russe Novaïa Gazeta est contraint de cesser ses activités, annonce-t-il dans une lettre publiée ce vendredi 30 octobre 2026. Bastion de la liberté de la presse en Russie, il dénonce une « opération coordonnée » des forces spéciales russes pour le museler.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/europe/russie/quest-ce-que-novaia-gazeta-le-journal-russe-contraint-de-fermer-8fdc639e-d442-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-10-30T14:52:16+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Qu’est-ce que « Novaïa Gazeta », le journal russe contraint de fermer ? »."
+    },
+    {
+      "id": "a5518ac8bc54",
+      "title": "Deux personnes retrouvées mortes dans un gîte dans le Nord, une enquête ouverte pour \"homicides involontaires\"",
+      "summary": "Deux corps ont été retrouvés dans un gîte à Dourlers (Nord) ce jeudi 29 octobre. Une amie, qui était avec eux, a appelé les secours, en vain. En état de choc, elle a été transportée à l'hôpital. L'enquête se poursuit pour \"homicides involontaires\".",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/nord/deux-personnes-retrouvees-mortes-dans-un-gite-dans-le-nord-une-enquete-ouverte-pour-homicides-involontaires_AN-202610300625.html",
+      "published_at": "2026-10-30T14:50:18+00:00",
+      "category": "Société",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Deux personnes retrouvées mortes dans un gîte dans le Nord, une enquête ouverte pour \"homicides involontaires\" »."
+    },
+    {
+      "id": "ce2403c5e328",
+      "title": "Prévisions de ce soir et du 31 octobre 2026",
+      "summary": "La météo du jour et du lendemain par l'équipe météo de BFMTV.",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://www.bfmtv.com/meteo/video-previsions-de-ce-soir-et-du-31-octobre-2026_VN-202610300614.html",
+      "published_at": "2026-10-30T14:50:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Prévisions de ce soir et du 31 octobre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
     {
       "id": "a826e903d56d",
       "title": "David Lisnard peut-il être candidat à la présidentielle et à la tête des maires de France ? La polémique enfle",
       "summary": "Le Cannois briguera, fin novembre, un nouveau mandat de patron de l’Association des maires de France. Problème : ce scrutin coïncide avec sa campagne pour la présidence de la République. Deux casquettes qui irritent certains responsables politiques. D’autres prennent la défense de l’élu des Alpes-Maritimes.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/elections/presidentielle/david-lisnard-peut-il-etre-candidat-a-la-presidentielle-et-a-la-tete-des-maires-de-france-la-polemique-enfle-e57f60d6-d441-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:49:22+00:00",
-      "category": "Société",
+      "category": "Politique",
       "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « David Lisnard peut-il être candidat à la présidentielle et à la tête des maires de France ? La polémique enfle »."
     },
     {
@@ -459,7 +490,7 @@
       "title": "Fini les réunions à rallonge, \"l’inertie bureaucratique et les délibérations sans fin\": la Nasa met un coup d'accélérateur pour ramener des astronautes sur la Lune avant la fin du mandat de Donald Trump",
       "summary": "La Nasa entend accélérer son programme lunaire pour envoyer à nouveau des astronautes sur la Lune dans moins de deux ans, avant la fin du mandat de Donald Trump. Mais entre les retards de Starship et les incertitudes techniques, le calendrier apparaît particulièrement ambitieux.",
       "source": "BFMTV",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.bfmtv.com/tech/innovation/fini-les-reunions-a-rallonge-l-inertie-bureaucratique-et-les-deliberations-sans-fin-la-nasa-met-un-coup-d-accelerateur-pour-ramener-des-astronautes-sur-la-lune-avant-la-fin-du-mandat-de-donald-trump_AV-202610300623.html",
       "published_at": "2026-10-30T14:47:17+00:00",
       "category": "Sciences & tech",
@@ -481,7 +512,7 @@
       "title": "Deux jeunes de 17 et 18 ans chutent dans un fossé près de Nice, ils sont retrouvés polytraumatisés et en hypothermie",
       "summary": "Les pompiers sont intervenus à Carros (Alpes-Maritimes), près de Nice, dans la soirée de jeudi 29 octobre pour secourir deux jeunes hommes ayant chuté dans un fossé. Âgés de 17 et 18 ans, ils ont été retrouvés polytraumatisés et en hypothermie.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/societe/faits-divers/deux-jeunes-de-17-et-18-ans-chutent-dans-un-fosse-pres-de-nice-ils-sont-retrouves-polytraumatises-et-en-hypothermie-53165a0a-d46f-11f1-bce4-49c6ba196371?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:46:55+00:00",
       "category": "Société",
@@ -514,22 +545,11 @@
       "title": "Rennes-Olympiacos \"à l'heure du goûter\": comment le club breton va s'adapter pour son match de Ligue Europa avancé à mercredi",
       "summary": "Déjà impacté par l'avancement de son match de Ligue 1 à Nice ce vendredi soir (19h) au lieu de samedi, le Stade Rennais va à nouveau subir les conséquences des mouvements sociaux cette fois en Ligue Europa avec sa plus grosse affiche à domicile face à l'Olympiacos reprogrammé mercredi prochain à 16h30. Les déçus sont nombreux parmi les supporters mais…",
       "source": "BFMTV",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://rmcsport.bfmtv.com/football/europa-league/rennes-olympiacos-a-l-heure-du-gouter-comment-le-club-breton-va-s-adapter-pour-son-match-de-ligue-europa-avance-a-mercredi_AN-202610300620.html",
       "published_at": "2026-10-30T14:46:06+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Rennes-Olympiacos \"à l'heure du goûter\": comment le club breton va s'adapter pour son match de Ligue Europa avancé à mercredi »."
-    },
-    {
-      "id": "f9ce1d86622d",
-      "title": "Royaume-Uni enquête sur Meta pour des conditions médias jugées \"abusives\"",
-      "summary": "L'autorité britannique de la concurrence a ouvert une enquête pour déterminer si Meta imposait de nouvelles conditions \"exploitantes\" lui permettant d'utiliser des contenus médiatiques pour ses propres produits, y compris l'IA, sans offrir aux éditeurs un choix suffisant.",
-      "source": "Euronews",
-      "feed_rank": 1,
-      "url": "https://fr.euronews.com/2026/10/30/royaume-uni-enquete-sur-meta-pour-des-conditions-medias-jugees-abusives",
-      "published_at": "2026-10-30T14:44:24+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Royaume-Uni enquête sur Meta pour des conditions médias jugées \"abusives\" »."
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Rennes-Olympiacos \"à l'heure du goûter\": comment le club breton va s'adapter pour son match de Ligue Europa avancé à mercredi »."
     },
     {
       "id": "ae8947bd64cc",
@@ -539,15 +559,15 @@
       "feed_rank": 12,
       "url": "https://www.lefigaro.fr/conjoncture/26-pour-intel-6-pour-amazon-la-tech-chute-lourdement-a-l-ouverture-des-bourses-americaines-20261030",
       "published_at": "2026-10-30T14:44:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « -26% pour Intel, -6% pour Amazon… La Tech chute lourdement à l’ouverture des Bourses américaines » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « -26% pour Intel, -6% pour Amazon… La Tech chute lourdement à l’ouverture des Bourses américaines » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
       "id": "6c8eee8eac97",
       "title": "« Cela va se terminer par un drame » : un couple de restaurateurs victime de racisme et d’homophobie en Normandie",
       "summary": "Jérémy Colombel et son conjoint d’origine malgache se sont installés à Honfleur (Calvados) en septembre 2025, pour ouvrir un restaurant. Le couple raconte être victime d’insultes et menaces racistes et homophobes depuis un an. Trois plaintes ont été déposées.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/faits-divers/violences/cela-va-se-terminer-par-un-drame-un-couple-de-restaurateurs-se-dit-victime-de-racisme-et-dhomophobie-a-honfleur-aa2dd26c-d39a-11f1-81f2-0d14b9f9c452?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:42:22+00:00",
       "category": "Société",
@@ -569,7 +589,7 @@
       "title": "Un corps démembré retrouvé dans le Rhin, le colocataire de la victime arrêté dans un centre d’asile",
       "summary": "Un ressortissant bangladais qui partageait une chambre avec un Burundais dans un centre d’asile en Suisse a été arrêté après la découverte, il y a quelques jours, du corps démembré de son colocataire dans le Rhin, a annoncé la justice suisse ce vendredi 30 octobre.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/europe/suisse/un-corps-demembre-retrouve-dans-le-rhin-le-colocataire-de-la-victime-arrete-dans-un-centre-dasile-8e5b8180-d46a-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:41:15+00:00",
       "category": "Société",
@@ -580,18 +600,29 @@
       "title": "La météo pour ce samedi 31 octobre 2026",
       "summary": "Les prévisions météo du moment par l'équipe météo de BFMTV.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.bfmtv.com/meteo/video-la-meteo-pour-ce-samedi-31-octobre-2026_VN-202610300619.html",
       "published_at": "2026-10-30T14:41:12+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La météo pour ce samedi 31 octobre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
+      "id": "efdf5edddc05",
+      "title": "Afrique du sud : À Durban, les étrangers toujours sous la menace des violence xénophobes",
+      "summary": "🇿🇦 Afrique du Sud, face à la montée des violences xénophobes, après la mort d'un étranger battu la semaine dernière, le gouvernement décide de prendre des mesures. Le ministre de la Police a obtenu ce jeudi une ordonnance judiciaire provisoire interdisant aux mouvements anti-immigrés d'organiser des manifestations dans la municipalité de Durban, où les…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-afrique-du-sud-%C3%A0-durban-les-%C3%A9trangers-toujours-sous-la-menace-des-violence-x%C3%A9nophobes",
+      "published_at": "2026-10-30T14:41:05+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Afrique du sud : À Durban, les étrangers toujours sous la menace des violence xénophobes »."
+    },
+    {
       "id": "ba655a09d3b1",
       "title": "« Mon corps me fait mal » : Christa Pike s’exprime publiquement après avoir survécu à son exécution aux États-Unis",
       "summary": "Christa Pike, condamnée à mort aux États-Unis pour torture et assassinat, avait survécu à deux injections létales, le 30 septembre. Un mois plus tard, elle s’exprime publiquement pour la première fois dans une déclaration dictée à ses avocats. Elle y fait part de sa douleur et dénonce son isolement.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/monde/etats-unis/mon-corps-me-fait-mal-christa-pike-sexprime-publiquement-apres-avoir-survecu-a-son-execution-aux-etats-unis-0f267012-d467-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:40:23+00:00",
       "category": "International",
@@ -624,7 +655,7 @@
       "title": "Tennis. En se qualifiant en demi-finale de l’ATP 500 de Vienne, Daniil Medvedev assure sa place au Masters",
       "summary": "Actuellement 5e mondial, le Russe Daniil Medvedev s’est assuré une place pour le Masters en fin de saison à Turin, grâce à sa qualification en demi-finale de l’ATP 500 de Vienne, ce vendredi 30 octobre 2026. Il a disposé du Français Adrian Mannarino en quart de finale.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/tennis/atp/tennis-en-se-qualifiant-en-demi-finale-de-latp-500-de-vienne-daniil-medvedev-assure-sa-place-au-masters-e8fc06de-d46d-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:36:16+00:00",
       "category": "Sport",
@@ -635,7 +666,7 @@
       "title": "PUBG bientôt sur Netflix? Donald Glover va écrire et réaliser une série en prises de vues réelles adaptée du célèbre jeu vidéo",
       "summary": "Pour compléter sa collection d'adaptations de jeux vidéo en films ou en séries, Netflix signe avec Donald Glover. Le comédien vu dans la série Atlanta, qu'il a créée, se chargera de l'écriture et de la réalisation d'une série autour du Battle royale \"PUBG\".",
       "source": "BFMTV",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.bfmtv.com/tech/netflix/pubg-bientot-sur-netflix-donald-glover-va-ecrire-et-realiser-une-serie-en-prises-de-vues-reelles-adaptee-du-celebre-jeu-video_AV-202610300617.html",
       "published_at": "2026-10-30T14:35:12+00:00",
       "category": "Culture",
@@ -646,7 +677,7 @@
       "title": "Manifestation du 31 octobre: \"Il y a nécessité de lier le droit de manifester à la réalité des faits\", explique Nathanaël Combary, président de Renouveau Lycéen et membre de Renaissance",
       "summary": "La préfecture de police de Paris a également interdit la manifestation déposée par la coordination des gilets jaunes, qui voulait défiler samedi de Bastille à la Concorde. Comme pour la manifestation déposée par l'intersyndicale, elle aussi interdite, le préfet a renvoyé les manifestants au parcours entre porte de Bagnolet et porte de Charenton, qu'il a…",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestation-du-31-octobre-il-y-a-necessite-de-lier-le-droit-de-manifester-a-la-realite-des-faits-explique-nathanael-combary-president-de-renouveau-lyceen-et-membre-de-renaissance_VN-202610300618.html",
       "published_at": "2026-10-30T14:34:43+00:00",
       "category": "Politique",
@@ -675,11 +706,22 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « EN DIRECT, midterms 2026 : posez vos questions à notre correspondant aux Etats-Unis, Piotr Smolar, sur les enjeux politiques de ces élections de mi-ma »."
     },
     {
+      "id": "0a517d6086cf",
+      "title": "Élections de mi-mandat : une bataille pour les droits des femmes aux États-Unis",
+      "summary": "Quel sera le choix des femmes lors des élections de mi-mandat aux États-Unis ? Donald Trump ne cesse de détricoter les droits des femmes : en s’attaquant à l'avortement, puis en soutenant des mesures qui pourraient limiter le nombre d'électrices. Le documentariste Brice Lambert, auteur du film \"Sexe faible : l’Amérique en guerre contre ses femmes\", qui a…",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261030-elections-mi-mandat-bataille-droits-femmes-etats-unis-avortement",
+      "published_at": "2026-10-30T14:32:53+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Élections de mi-mandat : une bataille pour les droits des femmes aux États-Unis »."
+    },
+    {
       "id": "a07303efc49b",
       "title": "La catastrophe annoncée n'a pas eu lieu: les nouveaux contrôles automatisés ont surtout provoqué des queues dans les aéroports d'Allemagne et de France",
       "summary": "La nouvelle plateforme biométrique baptisée EES (Entry/Exit System) est déployée en Europe depuis avril. Mais les dysfonctionnements ont été nombreux au printemps et ont fait craindre aux compagnies aériennes et aux gestionnaires d'aéroports un été cauchemardesque.",
       "source": "BFMTV",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.bfmtv.com/economie/entreprises/transports/la-catastrophe-annoncee-n-a-pas-eu-lieu-les-nouveaux-controles-automatises-ont-surtout-provoque-des-queues-dans-les-aeroports-d-allemagne-et-de-france_AN-202610300615.html",
       "published_at": "2026-10-30T14:32:52+00:00",
       "category": "International",
@@ -725,7 +767,7 @@
       "source": "Le Monde",
       "feed_rank": 9,
       "url": "https://www.lemonde.fr/economie/article/2026/10/30/le-royaume-uni-ouvre-une-enquete-sur-les-nouvelles-conditions-commerciales-de-meta-pour-l-utilisation-des-contenus-de-medias-qui-pourraient-etre-deloyales_6803098_3234.html",
-      "published_at": "2026-10-30T14:28:11+00:00",
+      "published_at": "2026-10-30T14:28:10+00:00",
       "category": "Médias & communication",
       "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Le Royaume-Uni ouvre une enquête sur les nouvelles conditions commerciales de Meta pour l’utilisation des contenus de médias, qui pourraient être « dé »."
     },
@@ -748,37 +790,26 @@
       "feed_rank": 17,
       "url": "https://www.lefigaro.fr/faits-divers/supremacistes-religieux-ou-nationalistes-on-va-tous-vous-dezinguer-le-depute-lfi-raphael-arnault-sera-juge-le-17-novembre-a-paris-20261030",
       "published_at": "2026-10-30T14:26:51+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « «Suprémacistes religieux ou nationalistes, on va tous vous dézinguer» : le député LFI Raphaël Arnault sera jugé le 17 novembre à Paris » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « «Suprémacistes religieux ou nationalistes, on va tous vous dézinguer» : le député LFI Raphaël Arnault sera jugé le 17 novembre à Paris »."
     },
     {
       "id": "633fa3a84b78",
       "title": "La préfecture interdit le parcours proposé par les syndicats pour la manifestation de samedi 31 octobre, à Rennes",
       "summary": "La préfète d’Ille-et-Vilaine, Emmanuelle Dubée, a décidé, comme la semaine dernière, d’interdire la manifestation prévue dans le centre-ville de Rennes (Ille-et-Vilaine), ce samedi 31 octobre 2026, selon le parcours déposé par six syndicats. Elle l’a annoncé lors d’une conférence de presse, vendredi 30 octobre. La préfète invite les syndicats à accepter…",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/societe/manifestation/la-manifestation-du-samedi-31-octobre-de-nouveau-interdite-a-rennes-annonce-la-prefete-dille-et-vilaine-c6d8beac-d446-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:25:51+00:00",
       "category": "Société",
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « La préfecture interdit le parcours proposé par les syndicats pour la manifestation de samedi 31 octobre, à Rennes »."
     },
     {
-      "id": "d35fe33252e6",
-      "title": "Trappes : un rassemblement contre le racisme et l’islamophobie une semaine après l’attentat",
-      "summary": "Une semaine après la fusillade raciste qui a fait un mort et sept blessés à Trappes et La Verrière, plusieurs milliers de personnes sont attendues ce vendredi soir pour un rassemblement contre le racisme et l’islamophobie, en présence de nombreuses personnalités politiques de gauche.",
-      "source": "Euronews",
-      "feed_rank": 2,
-      "url": "https://fr.euronews.com/2026/10/30/trappes-un-rassemblement-contre-le-racisme-et-lislamophobie-une-semaine-apres-lattentat",
-      "published_at": "2026-10-30T14:25:46+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Trappes : un rassemblement contre le racisme et l’islamophobie une semaine après l’attentat » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
-    },
-    {
       "id": "3f6c3025a015",
       "title": "Football. La MLS change son calendrier historique pour s’adapter aux formats européens",
       "summary": "Pour la première fois depuis sa création en 1986, la MLS va totalement changer son format pour utiliser le même calendrier que les championnats européens, à partir de 2027. Les saisons débuteront en juillet pour se terminer en mai.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/football-la-mls-change-son-calendrier-historique-pour-sadapter-aux-formats-europeens-eaff6b7e-d468-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:25:25+00:00",
       "category": "Sport",
@@ -789,7 +820,7 @@
       "title": "Sommet UE-Canada: Mark Carney salue \"des opportunités extraordinaires pour les Canadiens\"",
       "summary": "Le Premier ministre canadien Mark Carney a salué \"des opportunités extraordinaires pour les Canadiens\", lors du sommet UE-Canada qui se déroule à Montréal les 29 et 30 octobre.",
       "source": "BFMTV",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.bfmtv.com/international/amerique-nord/canada/video-sommet-ue-canada-mark-carney-salue-des-opportunites-extraordinaires-pour-les-canadiens_VN-202610300611.html",
       "published_at": "2026-10-30T14:25:19+00:00",
       "category": "Politique",
@@ -800,22 +831,11 @@
       "title": "Sélection, clonage, optimisation… Cette start-up américaine veut créer des chiens militaires aux qualités renforcées",
       "summary": "La start-up Warhound souhaite proposer à l’armée américaine des super-chiens militaires génétiquement et technologiquement améliorés. L’entreprise fondée par deux milliardaires spécialisés dans la défense et la bio-ingénierie a déjà levé plus de 200 millions de dollars.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/societe/animaux/selection-clonage-optimisation-cette-start-up-americaine-veut-creer-des-chiens-militaires-aux-qualites-renforcees-5b069cdc-d46c-11f1-bce4-49c6ba196371?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-10-30T14:24:49+00:00",
       "category": "Société",
-      "communication_angle": "L'évolution de cette entreprise peut modifier son positionnement, ses attentes d'investisseurs ou la confiance de ses clients et salariés. Les communicants doivent relier les chiffres à une stratégie lisible, sans transformer une annonce ponctuelle en promesse excessive. Sujet suivi : « Sélection, clonage, optimisation… Cette start-up américaine veut créer des chiens militaires aux qualités renforcées »."
-    },
-    {
-      "id": "8e81fef1e6b6",
-      "title": "Grande avancée pour le rugby féminin en France, un match d’Élite 1 sera diffusé tous les week-ends en clair",
-      "summary": "Pour la première fois de l’histoire, il sera possible chaque week-end de voir au moins un match de la première division féminine de rugby en France, l’Élite 1. Jusqu’ici, seulement Canal+ diffusait ponctuellement des affiches du championnat.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/rugby/grande-avancee-pour-le-rugby-feminin-en-france-un-match-delite-1-sera-diffuse-tous-les-week-ends-en-clair-464cd4f0-d46c-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-10-30T14:23:20+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Grande avancée pour le rugby féminin en France, un match d’Élite 1 sera diffusé tous les week-ends en clair »."
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Sélection, clonage, optimisation… Cette start-up américaine veut créer des chiens militaires aux qualités renforcées »."
     },
     {
       "id": "310690a5972a",
@@ -851,17 +871,6 @@
       "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Cette image de télescope James-Webb est bien plus qu'un spectacle : elle révèle comment naissaient les étoiles autrefois »."
     },
     {
-      "id": "bb090197cf7e",
-      "title": "Allemagne, France, Italie, Espagne: où l'inflation a-t-elle été la plus forte en octobre ?",
-      "summary": "En octobre, l'inflation a augmenté en Italie et en France, stagné en Espagne et reculé en Allemagne. Pourquoi ce décalage et la Banque centrale européenne (BCE) relèvera-t-elle ses taux en décembre ?",
-      "source": "Euronews",
-      "feed_rank": 3,
-      "url": "https://fr.euronews.com/2026/10/30/allemagne-france-italie-espagne-ou-linflation-a-t-elle-ete-la-plus-forte-en-octobre",
-      "published_at": "2026-10-30T14:21:22+00:00",
-      "category": "Économie",
-      "communication_angle": "La hausse des prix touche directement les arbitrages quotidiens et la perception de la valeur. Les marques doivent examiner la sensibilité au prix, justifier leurs promesses par des bénéfices tangibles et éviter les messages déconnectés des contraintes vécues. Sujet suivi : « Allemagne, France, Italie, Espagne: où l'inflation a-t-elle été la plus forte en octobre ? »."
-    },
-    {
       "id": "9e802cf2c4f2",
       "title": "Le Vatican annonce que le pape Léon XIV a voté aux midterms, une première",
       "summary": "Le pape a envoyé par la poste son bulletin de vote pour le scrutin du 3 novembre, a confirmé vendredi 30 octobre la Salle de presse du Saint-Siège. Il devient le premier pape connu à voter à une élection hors conclave.",
@@ -877,7 +886,7 @@
       "title": "Manifestations: \"Ce ne sont pas 70.000 policiers qui vont répondre à la situation, mais des mesures fortes\", demande Aurélien Boudon, secrétaire national de l'Union syndicale Solidaires",
       "summary": "Alors que de nouvelles manifestations auront lieu partout en France ce samedi 31 octobre, une cellule interministérielle de crise s'est tenue jeudi en amont d'une journée que le ministre de l’Intérieur qualifie à \"risque très élevé\". Dans le même temps, l'examen du budget se poursuit à l'Assemblée.",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestations-ce-ne-sont-pas-70-000-policiers-qui-vont-repondre-a-la-situation-mais-des-mesures-fortes-demande-aurelien-boudon-secretaire-national-de-l-union-syndicale-solidaires_VN-202610300606.html",
       "published_at": "2026-10-30T14:16:35+00:00",
       "category": "Politique",
@@ -899,11 +908,22 @@
       "title": "Meta avertira désormais les parents si leur enfant recherche des contenus liés à l'automutilation sur Facebook, ou via son assistant IA",
       "summary": "Le géant de la tech renforce son dispositif de \"compte ados\", étendant sur Facebook et Meta AI une fonction d'alerte déjà présente depuis début 2026 sur Instagram.",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.bfmtv.com/tech/actualites/reseaux-sociaux/meta-avertira-desormais-les-parents-si-leur-enfant-recherche-des-contenus-lies-a-l-automutilation-sur-facebook-ou-via-son-assistant-ia_AV-202610300604.html",
       "published_at": "2026-10-30T14:15:50+00:00",
       "category": "Médias & communication",
       "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Meta avertira désormais les parents si leur enfant recherche des contenus liés à l'automutilation sur Facebook, ou via son assistant IA »."
+    },
+    {
+      "id": "36fe291b72fc",
+      "title": "États-Unis : les data centers, enjeu de campagne des midterms",
+      "summary": "Ils sont le symbole de la révolution de l’intelligence artificielle, mais leur implantation suscite une colère grandissante aux États-Unis. En Géorgie, près d’Atlanta, des habitants se mobilisent contre un gigantesque projet de data center, inquiets pour leur cadre de vie, les ressources en eau et le coût de l’électricité. À l’approche des élections de…",
+      "source": "France 24",
+      "feed_rank": 3,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-%C3%A9tats-unis-les-data-centers-enjeu-de-campagne-des-midterms",
+      "published_at": "2026-10-30T14:15:49+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « États-Unis : les data centers, enjeu de campagne des midterms »."
     },
     {
       "id": "742ad83194ca",
@@ -954,7 +974,7 @@
       "title": "Manifestation du 31 octobre: \"On a déjà perdu 30% de notre chiffre d'affaires\", cette restauratrice lyonnaise n'a plus de réservation le samedi",
       "summary": "Un parcours pour la manifestation prévue ce samedi 31 octobre à Lyon a été validé par la préfecture du Rhône. Il évitera le centre-ville. Le parcours devrait s'élancer à 14h de la Manufacture des Tabacs jusqu’à Jean Macé en passant par Garibaldi et Berthelot. Selon la préfecture, \"les organisateurs se sont engagés à augmenter leur service d’ordre pour…",
       "source": "BFMTV",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.bfmtv.com/lyon/replay-emissions/lyon-business/video-manifestation-du-31-octobre-on-a-deja-perdu-30-de-notre-chiffre-d-affaires-cette-restauratrice-lyonnaise-n-a-plus-de-reservation-le-samedi_VN-202610300601.html",
       "published_at": "2026-10-30T14:10:59+00:00",
       "category": "Société",
@@ -965,7 +985,7 @@
       "title": "Manifestation du 31 octobre: \"On a déjà perdu 30% de notre chiffre d'affaires\", cette restauratrice lyonnaise n'a plus de réservation le samedi",
       "summary": "Un parcours pour la manifestation prévue ce samedi 31 octobre à Lyon a été validé par la préfecture du Rhône. Il évitera le centre-ville. Le parcours devrait s'élancer à 14h de la Manufacture des Tabacs jusqu’à Jean Macé en passant par Garibaldi et Berthelot. Selon la préfecture, \"les organisateurs se sont engagés à augmenter leur service d’ordre pour…",
       "source": "BFMTV",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestation-du-31-octobre-on-a-deja-perdu-30-de-notre-chiffre-d-affaires-cette-restauratrice-lyonnaise-n-a-plus-de-reservation-le-samedi_VN-202610300602.html",
       "published_at": "2026-10-30T14:10:58+00:00",
       "category": "Société",
@@ -979,7 +999,7 @@
       "feed_rank": 3,
       "url": "https://www.courrierinternational.com/article/sport-coup-d-envoi-des-jeux-olympiques-de-la-jeunesse-au-senegal-une-premiere-en-afrique_283445",
       "published_at": "2026-10-30T14:10:08+00:00",
-      "category": "International",
+      "category": "Politique",
       "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Coup d’envoi des Jeux olympiques de la jeunesse au Sénégal : une première en Afrique »."
     },
     {
@@ -1002,7 +1022,7 @@
       "url": "https://www.liberation.fr/societe/attentat-raciste-edouard-philippe-present-a-un-rassemblement-a-la-verriere-mais-pas-a-trappes-20261030_AKET225HIZEGTH4L4YISXZRNJM/",
       "published_at": "2026-10-30T14:06:16+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Attentat raciste : Edouard Philippe présent à un rassemblement à La Verrière, mais pas à Trappes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Attentat raciste : Edouard Philippe présent à un rassemblement à La Verrière, mais pas à Trappes »."
     },
     {
       "id": "d6791fe2b1e9",
@@ -1038,6 +1058,17 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ce palace londonien habille ses Rolls-Royce d’un trompe-l’œil qui semble les déchirer » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
+      "id": "40bf0ca981c2",
+      "title": "France : grève des dockers pendant 24 heures, les ports à l'arrêt \"à 95%\"",
+      "summary": "Les ports français et européens seront perturbés vendredi 30 octobre par une grève de 24 heures des dockers, à l'appel de la Fédération nationale des ports et docks CGT, qui représente près de 90% des salariés du secteur. La consigne est de n'avoir aucun chargement ni déchargement. Une grève d'ampleur internationale puisque 22 pays européens ont prévu…",
+      "source": "France 24",
+      "feed_rank": 4,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-france-gr%C3%A8ve-des-dockers-pendant-24-heures-les-ports-%C3%A0-l-arr%C3%AAt-%C3%A0-95",
+      "published_at": "2026-10-30T14:02:20+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « France : grève des dockers pendant 24 heures, les ports à l'arrêt \"à 95%\" »."
+    },
+    {
       "id": "f459bed2f8e1",
       "title": "Sommet et manifestation pour «la remigration» : deux événements d’extrême droite interdits",
       "summary": "Les préfectures de Paris et des Hauts-de-Seine interdisent le «sommet de la remigration» et la manif identitaire prévus ce week-end. Un coup d’arrêt ordonné par Beauvau, que les organisateurs comptent déjà contester en justice.",
@@ -1053,7 +1084,7 @@
       "title": "Collision de trains en Espagne: Pedro Sánchez reconnaît que la confiance dans le train à grande vitesse est \"rompue\" dans le pays",
       "summary": "Le Premier ministre espagnol, Pedro Sánchez, a affirmé ce vendredi que le rôle de son gouvernement était \"d'offrir des solutions pour qu'une tragédie d'une telle ampleur\" ne \"se reproduise pas\", alors que l'accident d'Urda survient moins d'un an après celui d'Adamuz, qui avait fait 46 morts.",
       "source": "BFMTV",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.bfmtv.com/international/europe/espagne/collision-de-trains-en-espagne-pedro-sanchez-reconnait-que-la-confiance-dans-le-train-a-grande-vitesse-est-rompue-dans-le-pays_AD-202610300593.html",
       "published_at": "2026-10-30T14:01:46+00:00",
       "category": "Politique",
@@ -1064,7 +1095,7 @@
       "title": "Tableaux repeints, pièces disparues… Comment l'IA, cette \"machine qui ne se fatigue pas\", aide les enquêteurs à retrouver les œuvres d'art volées",
       "summary": "Un tableau volé dans une église près de Naples en 2004, puis repeint pour dissimuler son identité, a été retrouvé vingt ans plus tard grâce à une intelligence artificielle. Déployé par les carabiniers italiens, le logiciel Swoads compare des millions d'images pour débusquer les œuvres dérobées. Une technologie qui commence à faire ses preuves.",
       "source": "BFMTV",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.bfmtv.com/tech/intelligence-artificielle/tableaux-repeints-pieces-disparues-comment-l-ia-cette-machine-qui-se-fatigue-pas-aide-les-enqueteurs-a-retrouver-les-uvres-d-art-volees_AN-202610300592.html",
       "published_at": "2026-10-30T14:01:34+00:00",
       "category": "Sciences & tech",
@@ -1108,7 +1139,7 @@
       "title": "Route du Rhum: à 20 ans, Titouan Pilliard sera le plus jeune au départ de la course transatlantique",
       "summary": "À 20 ans, Titouan Pilliard va prendre le départ de sa première Route du Rhum. Une aventure qu'il va partager avec son père qui sera aussi au départ de la course.",
       "source": "BFMTV",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/societe/video-route-du-rhum-a-20-ans-titouan-pilliard-sera-le-plus-jeune-au-depart-de-la-course-transatlantique_VN-202610300595.html",
       "published_at": "2026-10-30T14:00:04+00:00",
       "category": "Société",
@@ -1119,7 +1150,7 @@
       "title": "De premiers clients pour l'abonnement Truth premium de Trump",
       "summary": "Quelques sociétés, dont Bloomberg, ont accepté de payer entre 60.000 et 100.000 dollars pour recevoir les publications de Trump sur Truth Social en avance de 50 millisecondes. Un délai qui peut paraître dérisoire mais qui est pourtant stratégique pour les sociétés de trading.",
       "source": "BFMTV",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://www.bfmtv.com/economie/video-de-premiers-clients-pour-l-abonnement-truth-premium-de-trump_VN-202610300594.html",
       "published_at": "2026-10-30T14:00:03+00:00",
       "category": "Société",
@@ -1130,11 +1161,11 @@
       "title": "D'un marché délabré à un centre d'excellence futuriste: succès chypriote",
       "summary": "Il occupe aujourd'hui l'ancien bâtiment d'un marché alimentaire à l'abandon. C'est devenu un pôle régional dynamique pour les technologies immersives. Son projet de régénération urbaine est finaliste parmi les principaux projets de cohésion sociale de l'UE. Une métamorphose … made in Europe.",
       "source": "Euronews",
-      "feed_rank": 4,
+      "feed_rank": 1,
       "url": "https://fr.euronews.com/2026/10/30/dun-marche-delabre-a-un-centre-dexcellence-futuriste-succes-chypriote",
       "published_at": "2026-10-30T14:00:03+00:00",
-      "category": "International",
-      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « D'un marché délabré à un centre d'excellence futuriste: succès chypriote » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "category": "Sciences & tech",
+      "communication_angle": "Cette actualité demande de rendre un sujet technique compréhensible sans promettre davantage que ce que les faits établissent. Le communicant doit expliquer les usages, les limites et les questions éthiques. Pour travailler ce cas, partez du sujet précis — « D'un marché délabré à un centre d'excellence futuriste: succès chypriote » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
       "id": "e8e09750b343",
@@ -1163,7 +1194,7 @@
       "title": "Ukraine : une opération humanitaire lancée dans la ville occupée d'Olechky",
       "summary": "Après des années d'occupation russe, les habitants d'Olechky peuvent enfin recevoir une aide humanitaire ou tenter de quitter la ville. Mais rien ne garantit que ceux qui souhaitent être évacués pourront rejoindre les territoires contrôlés par Kyiv.",
       "source": "Euronews",
-      "feed_rank": 5,
+      "feed_rank": 2,
       "url": "https://fr.euronews.com/2026/10/30/ukraine-une-operation-humanitaire-lancee-dans-la-ville-occupee-dolechky",
       "published_at": "2026-10-30T13:59:37+00:00",
       "category": "International",
@@ -1203,6 +1234,17 @@
       "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Piratage de Binance : ce que l’on sait sur le plus gros vol de cryptomonnaies de l’histoire »."
     },
     {
+      "id": "60a60871730d",
+      "title": "Législatives en Israël : les négociations pour former un nouvel exécutif s'annoncent compliquées",
+      "summary": "Alors que le taux de participation est un record depuis 1999 aux élections législatives en Israël, le scrutin reste sans majorité absolue. Ainsi, plusieurs options pour former un nouvel exécutif sont envisagées, telles qu'une coalition avec les partis arabes, une alternance au pouvoir entre les deux partis politiques majeurs ou bien la constitution d'un…",
+      "source": "France 24",
+      "feed_rank": 5,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-l%C3%A9gislatives-en-isra%C3%ABl-les-n%C3%A9gociations-pour-former-un-nouvel-ex%C3%A9cutif-s-annoncent-compliqu%C3%A9es",
+      "published_at": "2026-10-30T13:56:08+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Législatives en Israël : les négociations pour former un nouvel exécutif s'annoncent compliquées »."
+    },
+    {
       "id": "1d542425644b",
       "title": "Seniors, jeunes parents, personnes en situation de handicap… A 19 ans, il crée une application pour améliorer leur quotidien",
       "summary": "Adam Fortin a mis au point Facileo, qui s’adresse aux personnes pouvant rencontrer des difficultés de déplacement dans l’espace public. Gratuite, l’appli référence les lieux accessibles, les aides financières ou encore les associations.",
@@ -1214,11 +1256,22 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Seniors, jeunes parents, personnes en situation de handicap… A 19 ans, il crée une application pour améliorer leur quotidien » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
+      "id": "1a49fe0ffc7d",
+      "title": "Législatives en Israël : quelles futures alliances pour gouverner ?",
+      "summary": "Les élections législatives en Israël se sont conclues sans majorité cette nuit du 29 octobre, un casse-tête pour le camp du Premier ministre et celui de son rival Gadi Eisenkot qui doivent élargir leur bloc. Les deux hommes semblent pour l'heure les mieux placés, même si le président Isaac Herzog peut désigner quelqu'un d'autre des deux principaux partis…",
+      "source": "France 24",
+      "feed_rank": 6,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-l%C3%A9gislatives-en-isra%C3%ABl-quelles-futures-alliances-pour-gouverner",
+      "published_at": "2026-10-30T13:54:32+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Législatives en Israël : quelles futures alliances pour gouverner ? »."
+    },
+    {
       "id": "d3b23edd92ee",
       "title": "\"Je ne me laisserai pas avoir par le lobbying\": la mise au point de Genesio sur l'utilisation des jeunes à l'OM",
       "summary": "Depuis le début de la saison, Bruno Genesio fait souvent appel aux jeunes joueurs issus du centre de formation de l'OM pour renforcer son effectif. Mais l'entraîneur marseillais assure faire ses propres choix et ne veut pas céder face au \"lobbying\".",
       "source": "BFMTV",
-      "feed_rank": 16,
+      "feed_rank": 18,
       "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/je-ne-me-laisserai-pas-avoir-par-le-lobbying-la-mise-au-point-de-genesio-sur-l-utilisation-des-jeunes-a-l-om_AV-202610300584.html",
       "published_at": "2026-10-30T13:52:58+00:00",
       "category": "Société",
@@ -1229,18 +1282,29 @@
       "title": "République tchèque : les animaux du zoo de Prague fêtent Halloween",
       "summary": "Au zoo de Prague, Halloween se fête aussi chez les animaux. Les suricates fouillent des citrouilles remplies de vers, tandis que de jeunes guépards découvrent ces drôles de jouets orangés.",
       "source": "Euronews",
-      "feed_rank": 6,
+      "feed_rank": 3,
       "url": "https://fr.euronews.com/video/2026/10/30/republique-tcheque-des-suricates-et-des-bebes-guepards-jouent-avec-des-citrouilles-dhallow",
       "published_at": "2026-10-30T13:52:00+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « République tchèque : les animaux du zoo de Prague fêtent Halloween » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
+      "id": "631ea2d463f0",
+      "title": "Trump, meilleur allié de Poutine contre Zelensky ?",
+      "summary": "Donald Trump l’affirme : une rencontre pourrait avoir lieu bientôt entre Volodymyr Zelensky et Vladimir Poutine. Ce dernier se dit prêt à relancer des négociations tripartites, mais rappelle dans le même temps que, selon lui, les Russes et les Ukrainiens seraient \"un seul et même peuple\" et que l’Ukraine ne perdrait pas de territoires, car ceux annexés…",
+      "source": "France 24",
+      "feed_rank": 7,
+      "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20261030-trump-meilleur-alli%C3%A9-de-poutine-contre-zelensky",
+      "published_at": "2026-10-30T13:51:36+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Trump, meilleur allié de Poutine contre Zelensky ? »."
+    },
+    {
       "id": "ffca5293b126",
       "title": "\"Il a envoyé son bulletin de vote par courrier\": le pape a voté pour les élections de mi-mandat aux États-Unis",
       "summary": "Le Vatican annonce ce vendredi 30 octobre que le pape Léon XIV, de nationalité américaine, a voté pour les élections de mi-mandat aux États-Unis. Il a envoyé son bulletin de vote par courrier.",
       "source": "BFMTV",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/il-a-envoye-son-bulletin-de-vote-par-courrier-le-pape-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_AD-202610300582.html",
       "published_at": "2026-10-30T13:51:31+00:00",
       "category": "Politique",
@@ -1255,7 +1319,7 @@
       "url": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-contre-binance-comment-des-plateformes-de-cryptomonnaies-peuvent-se-faire-devaliser-20261030",
       "published_at": "2026-10-30T13:50:15+00:00",
       "category": "Sciences & tech",
-      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ? »."
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Cyberattaque contre Binance : comment des plateformes de cryptomonnaies peuvent se faire dévaliser ? »."
     },
     {
       "id": "c89e3b338411",
@@ -1273,7 +1337,7 @@
       "title": "31 octobre: \"Il va y avoir des unités spécialisées pour la nuit\", explique Axel Ronde, président du syndicat de police DFTD",
       "summary": "Dans un document adressé à tous les préfets Laurent Nuñez alerte sur le risque \"très élevé\" de violences urbaines, \"du début de soirée jusque tard dans la nuit\". Le ministre de l'Intérieur évoque aussi dans ce courrier de \"nombreux appels\" à se rassembler \"dans les centres-villes, sur toutes les places publiques, au prétexte de la fête d'Halloween\". Des…",
       "source": "BFMTV",
-      "feed_rank": 18,
+      "feed_rank": 20,
       "url": "https://www.bfmtv.com/police-justice/video-31-octobre-il-va-y-avoir-des-unites-specialisees-pour-la-nuit-explique-axel-ronde-president-du-syndicat-de-police-dftd_VN-202610300583.html",
       "published_at": "2026-10-30T13:50:01+00:00",
       "category": "Médias & communication",
@@ -1306,7 +1370,7 @@
       "title": "Le \"trumpisme\" peut-il marquer durablement les États-Unis, même après le départ de Donald Trump?",
       "summary": "Maud Quessard, spécialiste de la politique étrangère américaine, est l'auteure du livre \"La Puissance sans principe: Le nouvel empire américain\" paru aux éditions du Seuil.",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-le-trumpisme-peut-il-marquer-durablement-les-etats-unis-meme-apres-le-depart-de-donald-trump_VN-202610300575.html",
       "published_at": "2026-10-30T13:45:06+00:00",
       "category": "Politique",
@@ -1317,7 +1381,7 @@
       "title": "Manifestation du 31 octobre: \"Si le recours est rejeté, le départ sera porte de Bagnolet\", affirme Aurélien Boudon, secrétaire national de l'Union syndicale Solidaires",
       "summary": "La préfecture de police de Paris a également interdit la manifestation déposée par la coordination des gilets jaunes, qui voulait défiler samedi de Bastille à la Concorde. Comme pour la manifestation déposée par l'intersyndicale, elle aussi interdite, le préfet a renvoyé les manifestants au parcours entre porte de Bagnolet et porte de Charenton, qu'il a…",
       "source": "BFMTV",
-      "feed_rank": 20,
+      "feed_rank": 22,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestation-du-31-octobre-si-le-recours-est-rejete-le-depart-sera-porte-de-bagnolet-affirme-aurelien-boudon-secretaire-national-de-l-union-syndicale-solidaires_VN-202610300573.html",
       "published_at": "2026-10-30T13:44:27+00:00",
       "category": "Société",
@@ -1350,7 +1414,7 @@
       "title": "Manifestation du 31 octobre: \"Il y a une aspiration de la jeunesse d'aller vers les lieux de pouvoir pour se faire entendre\", explique Sabrine Kharbach, porte-parole de l'Union étudiante",
       "summary": "La préfecture de police de Paris a également interdit la manifestation déposée par la coordination des gilets jaunes, qui voulait défiler samedi de Bastille à la Concorde. Comme pour la manifestation déposée par l'intersyndicale, elle aussi interdite, le préfet a renvoyé les manifestants au parcours entre porte de Bagnolet et porte de Charenton, qu'il a…",
       "source": "BFMTV",
-      "feed_rank": 21,
+      "feed_rank": 23,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestation-du-31-octobre-il-y-a-une-aspiration-de-la-jeunesse-d-aller-vers-les-lieux-de-pouvoir-pour-se-faire-entendre-explique-sabrine-kharbach-porte-parole-de-l-union-etudiante_VN-202610300564.html",
       "published_at": "2026-10-30T13:38:34+00:00",
       "category": "Société",
@@ -1372,11 +1436,11 @@
       "title": "Manifestations: \"Depuis le 17 octobre, on a eu beaucoup de demande de sécurisation\", explique Jahad Benalia, serrurier",
       "summary": "Alors que de nouvelles manifestations auront lieu partout en France ce samedi 31 octobre, une cellule interministérielle de crise s'est tenue jeudi en amont d'une journée que le ministre de l’Intérieur qualifie à \"risque très élevé\".",
       "source": "BFMTV",
-      "feed_rank": 23,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestations-depuis-le-17-octobre-on-a-eu-beaucoup-de-demande-de-securisation-explique-jahad-benalia-serrurier_VN-202610300562.html",
       "published_at": "2026-10-30T13:34:49+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Manifestations: \"Depuis le 17 octobre, on a eu beaucoup de demande de sécurisation\", explique Jahad Benalia, serrurier » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Manifestations: \"Depuis le 17 octobre, on a eu beaucoup de demande de sécurisation\", explique Jahad Benalia, serrurier »."
     },
     {
       "id": "8ebf6260d2b0",
@@ -1522,28 +1586,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/11/02 P2 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
-      "id": "713b858bf797",
-      "title": "\"Depuis cette nuit-là, je n'ai pas connu un instant où je ne souffre pas\": après son exécution ratée, Christa Pike prend la parole",
-      "summary": "Christa Pike, dont l'exécution par injection létale a été ratée aux États-Unis, prend la parole pour la première fois depuis cette nuit de fin septembre. Elle assure souffrir chaque jour physiquement mais aussi mentalement. Elle dit penser à la famille de la victime qu'elle a tuée et déclare qu'elle ne sait pas ce qui l'attend.",
-      "source": "BFMTV",
-      "feed_rank": 24,
-      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/depuis-cette-nuit-la-je-n-ai-pas-connu-un-instant-ou-je-ne-souffre-pas-apres-son-execution-ratee-christa-pike-prend-la-parole_AV-202610300555.html",
-      "published_at": "2026-10-30T13:30:40+00:00",
-      "category": "Société",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Depuis cette nuit-là, je n'ai pas connu un instant où je ne souffre pas\": après son exécution ratée, Christa Pike prend la parole »."
-    },
-    {
-      "id": "16b21c164b05",
-      "title": "\"C'est important de défendre nos droits\": à Marseille, les habitants divisés sur la manifestation du 31 octobre",
-      "summary": "À l'occasion de la nouvelle journée de protestation contre la vie chère ce 31 octobre, les autorités ont émis de nombreuses restrictions aux manifestations de gilets jaunes et lycéens à Marseille, Avignon, et dans l'ensemble de la région. Au contraire de la doctrine préfectorale mise en œuvre lors de l'acte II le 24 octobre, les manifestations du 31…",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://www.bfmtv.com/societe/manifestations/video-c-est-important-de-defendre-nos-droits-a-marseille-les-habitants-divises-sur-la-manifestation-du-31-octobre_VN-202610300559.html",
-      "published_at": "2026-10-30T13:30:39+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « \"C'est important de défendre nos droits\": à Marseille, les habitants divisés sur la manifestation du 31 octobre »."
-    },
-    {
       "id": "2b017179b393",
       "title": "En Chine, les purges sans fin de Xi Jinping révèlent sa frustration vis-à-vis du Parti communiste",
       "summary": "Signe de la longue et vaste campagne anticorruption menée par le dirigeant chinois, le comité central s’est réuni avec un quart de ses effectifs en moins, à un an du rendez-vous qui doit confirmer le quatrième mandat du chef de l’Etat-parti.",
@@ -1559,7 +1601,7 @@
       "title": "Italie : des milliers de manifestants contre la hausse du coût de la vie",
       "summary": "Des milliers de personnes ont défilé dans les rues de Rome à l'appel du syndicat USB. Étudiants, pompiers et agriculteurs dénoncent la hausse du coût de la vie, les difficultés de logement et les dépenses militaires.",
       "source": "Euronews",
-      "feed_rank": 7,
+      "feed_rank": 4,
       "url": "https://fr.euronews.com/video/2026/10/30/italie-des-milliers-protestent-contre-la-vie-chere-et-le-budget-militaire-en-greve-general",
       "published_at": "2026-10-30T13:28:22+00:00",
       "category": "Société",
@@ -1606,8 +1648,8 @@
       "feed_rank": 8,
       "url": "https://www.courrierinternational.com/article/vu-du-royaume-uni-manifestations-violences-la-france-detonne-dans-une-europe-etonnamment-paisible_283442",
       "published_at": "2026-10-30T13:22:57+00:00",
-      "category": "International",
-      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Manifestations, violences : la France détonne dans une “Europe étonnamment paisible” » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Manifestations, violences : la France détonne dans une “Europe étonnamment paisible” »."
     },
     {
       "id": "fab8993b6c33",
@@ -1669,7 +1711,7 @@
       "title": "Un nouvel hôtel à Times Square avec chute libre, terrasse panoramique et piscine sur le toit",
       "summary": "L'adresse la plus emblématique de New York va accueillir un hôtel de 1 800 chambres, offrant encore plus de raisons de la visiter.",
       "source": "Euronews",
-      "feed_rank": 8,
+      "feed_rank": 5,
       "url": "https://fr.euronews.com/2026/10/30/un-nouvel-hotel-a-times-square-avec-chute-libre-terrasse-panoramique-et-piscine-sur-le-toi",
       "published_at": "2026-10-30T13:14:11+00:00",
       "category": "Société",
@@ -1706,7 +1748,7 @@
       "url": "https://reporterre.net/COP17-les-lobbies-industriels-au-coeur-des-negociations-sur-la-biodiversite",
       "published_at": "2026-10-30T13:05:41+00:00",
       "category": "Médias & communication",
-      "communication_angle": "L'évolution de cette entreprise peut modifier son positionnement, ses attentes d'investisseurs ou la confiance de ses clients et salariés. Les communicants doivent relier les chiffres à une stratégie lisible, sans transformer une annonce ponctuelle en promesse excessive. Sujet suivi : « COP17 : les lobbies industriels au cœur des négociations sur la biodiversité »."
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « COP17 : les lobbies industriels au cœur des négociations sur la biodiversité »."
     },
     {
       "id": "acb6d5d004d5",
@@ -1729,6 +1771,17 @@
       "published_at": "2026-10-30T13:03:35+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Sociable, anxieux, organisé » : quelle est la part de l’ADN dans votre personnalité ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
+      "id": "be7f1dee7865",
+      "title": "Roseline Layo, la diva fédératrice",
+      "summary": "Rendez-vous avec la chanteuse ivoirienne Roseline Layo à l’occasion de la sortie de son nouvel album \"Divas\", le 27 novembre. Originaire de Man en Côte d'Ivoire, la ville aux 18 montagnes, Roseline revient sur ses racines yacoubas et son incroyable destin. Couturière dès l’âge de 10 ans, sa voix d’or laissait présager une carrière dans la musique. Après…",
+      "source": "France 24",
+      "feed_rank": 8,
+      "url": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261030-roseline-layo-la-diva-f%C3%A9d%C3%A9ratrice",
+      "published_at": "2026-10-30T13:03:25+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Roseline Layo, la diva fédératrice »."
     },
     {
       "id": "ae32185e586b",
@@ -1757,10 +1810,10 @@
       "title": "Rétablissement de la nature en retard: COP17 peut-elle relancer l'action mondiale ?",
       "summary": "Les objectifs de biodiversité dévient de la trajectoire alors que le sommet de l'ONU sur la nature se termine sur des tensions politiques et financières.",
       "source": "Euronews",
-      "feed_rank": 9,
+      "feed_rank": 6,
       "url": "https://fr.euronews.com/2026/10/30/retablissement-de-la-nature-en-retard-cop17-peut-elle-relancer-laction-mondiale",
       "published_at": "2026-10-30T13:00:24+00:00",
-      "category": "Environnement",
+      "category": "Politique",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Rétablissement de la nature en retard: COP17 peut-elle relancer l'action mondiale ? »."
     },
     {
@@ -1783,7 +1836,7 @@
       "url": "https://www.liberation.fr/societe/des-vrais-choix-de-survie-au-quotidien-comment-lexplosion-du-cout-des-carburants-etrangle-les-vies-rurales-20261030_EHKD26PA3BCCTCXD63NOAZJOBM/",
       "published_at": "2026-10-30T13:00:00+00:00",
       "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « «Des vrais choix de survie au quotidien» : comment l’explosion du coût des carburants étrangle les vies rurales » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « «Des vrais choix de survie au quotidien» : comment l’explosion du coût des carburants étrangle les vies rurales »."
     },
     {
       "id": "11fc23ab09a1",
@@ -1885,6 +1938,17 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Paris : Une femme poignardée en pleine rue devant sa fille de 6 ans, son agresseur en fuite » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     },
     {
+      "id": "348cf4ba9f8c",
+      "title": "🔴 Ukraine en direct : 200 000 foyers privés d'électricité après les frappes russes dans la région de Dnipropetrovsk",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "France 24",
+      "feed_rank": 9,
+      "url": "https://www.france24.com/fr/europe/20261030-ukraine-en-direct-frappes-meurtri%C3%A8res-dans-la-r%C3%A9gion-de-kiev-le-r%C3%A9seau-%C3%A9lectrique-cibl%C3%A9",
+      "published_at": "2026-10-30T12:47:05+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « 🔴 Ukraine en direct : 200 000 foyers privés d'électricité après les frappes russes dans la région de Dnipropetrovsk »."
+    },
+    {
       "id": "623ac96cba82",
       "title": "Fonds gelés, 6,3 milliards de dollars de préjudice, Corée du Nord : la cyberattaque massive de la plateforme Binance plonge le secteur des cryptos dans la panique",
       "summary": "RÉCIT - Binance a confirmé qu’elle avait été victime d’un important piratage dont le préjudice est estimé à quelque 6,3 milliards de dollars, la moitié des fonds ayant été gelés pour empêcher un siphonnage total.",
@@ -1922,10 +1986,10 @@
       "title": "Quels vaccins faire cet automne et lesquels sont recommandés en Allemagne",
       "summary": "En Allemagne, de nouvelles recommandations pour la vaccination contre le coronavirus s'appliquent désormais. L'an dernier déjà, beaucoup moins de personnes s'étaient fait vacciner contre la grippe.",
       "source": "Euronews",
-      "feed_rank": 10,
+      "feed_rank": 7,
       "url": "https://fr.euronews.com/2026/10/30/quels-vaccins-faire-cet-automne-et-lesquels-sont-recommandes-en-allemagne",
       "published_at": "2026-10-30T12:36:21+00:00",
-      "category": "Société",
+      "category": "Sciences & tech",
       "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Quels vaccins faire cet automne et lesquels sont recommandés en Allemagne »."
     },
     {
@@ -1962,11 +2026,22 @@
       "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « La police a-t-elle coopéré avec des militants d'ultradroite à Montpellier lors de la manifestation du samedi 24 octobre ? »."
     },
     {
+      "id": "ddd70338a30a",
+      "title": "Attentat raciste de Trappes : Que sait-on du tireur présumé ?",
+      "summary": "L'auteur présumé de l’attaque terroriste raciste qui a fait un mort et sept blessés dans les Yvelines le 23 octobre a été arrêté. Voici ce que l'on sait.",
+      "source": "France 24",
+      "feed_rank": 10,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-de-trappes-que-sait-on-du-tireur-pr%C3%A9sum%C3%A9",
+      "published_at": "2026-10-30T12:33:41+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Attentat raciste de Trappes : Que sait-on du tireur présumé ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
       "id": "ccdf69e8108a",
       "title": "Inflation en Italie atteint 5,4 % en octobre, les coûts énergétiques grimpent",
       "summary": "L'inflation en Italie a atteint 5,4 % en octobre sur un an, contre 4,2 % en septembre, a indiqué vendredi l'institut national de statistiques Istat.",
       "source": "Euronews",
-      "feed_rank": 11,
+      "feed_rank": 8,
       "url": "https://fr.euronews.com/2026/10/30/inflation-en-italie-atteint-54-en-octobre-les-couts-energetiques-grimpent",
       "published_at": "2026-10-30T12:31:42+00:00",
       "category": "Économie",
@@ -1992,7 +2067,7 @@
       "url": "https://www.lemonde.fr/international/article/2026/10/30/en-italie-des-milliers-de-jeunes-et-de-travailleurs-manifestent-sous-haute-surveillance_6803086_3210.html",
       "published_at": "2026-10-30T12:21:48+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Italie, des milliers de jeunes et de travailleurs manifestent sous haute surveillance » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « En Italie, des milliers de jeunes et de travailleurs manifestent sous haute surveillance »."
     },
     {
       "id": "a89de6dda14e",
@@ -2032,11 +2107,11 @@
       "title": "AstraZeneca: bénéfice en hausse de 23 % et nouveau plan d'économies",
       "summary": "Le bénéfice net d'AstraZeneca a bondi de 23 % au troisième trimestre grâce aux ventes de ses anticancéreux, le groupe lançant un plan d'économies de 1,5 milliard de dollars (1,34 milliard d'euros) par an pour financer de nouveaux médicaments.",
       "source": "Euronews",
-      "feed_rank": 12,
+      "feed_rank": 9,
       "url": "https://fr.euronews.com/2026/10/30/astrazeneca-benefice-en-hausse-de-23-et-nouveau-plan-deconomies",
       "published_at": "2026-10-30T12:20:06+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « AstraZeneca: bénéfice en hausse de 23 % et nouveau plan d'économies » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "category": "Économie",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « AstraZeneca: bénéfice en hausse de 23 % et nouveau plan d'économies »."
     },
     {
       "id": "3396b301a15c",
@@ -2065,11 +2140,11 @@
       "title": "Xénophobie en Afrique du Sud : le pays refuse les manifestations d'un mouvement anti-immigration",
       "summary": "En Afrique du Sud, alors que jeudi 22 octobre, un étranger a été battu à mort, le gouvernement a décidé d'agir. Le ministre de la Police a obtenu ce jeudi 29 octobre une ordonnance judiciaire provisoire interdisant au mouvement anti-immigrés March and March d’organiser des manifestations dans la municipalité de Durban où les réfugiés vivent dans la peur.",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-x%C3%A9nophobie-en-afrique-du-sud-le-pays-refuse-les-manifestations-d-un-mouvement-anti-immigration",
       "published_at": "2026-10-30T12:15:53+00:00",
       "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Xénophobie en Afrique du Sud : le pays refuse les manifestations d'un mouvement anti-immigration »."
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Xénophobie en Afrique du Sud : le pays refuse les manifestations d'un mouvement anti-immigration »."
     },
     {
       "id": "6ada5fa7191e",
@@ -2091,14 +2166,14 @@
       "url": "https://www.lefigaro.fr/actualite-france/tueries-racistes-et-extreme-droite-de-bayonne-en-2019-a-trappes-avec-kevin-t-ce-que-disent-les-enquetes-judiciaires-20261030",
       "published_at": "2026-10-30T12:12:47+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Tueries racistes et extrême droite : de Bayonne en 2019 à Trappes avec Kévin T., ce que disent les enquêtes judiciaires » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Tueries racistes et extrême droite : de Bayonne en 2019 à Trappes avec Kévin T., ce que disent les enquêtes judiciaires »."
     },
     {
       "id": "17562b874fb5",
       "title": "Cameroun : tournant décisif dans l'affaire Martinez Zogo, journaliste assassiné en 2023",
       "summary": "Suite à l'assassinat sauvage du journaliste camerounais Martinez Zogo en 2023, la procédure de l'affaire prend un tournant décisif grâce à un témoignage : celui d'un officier supérieur, évincé de l’enquête préliminaire qui dénonce une enquête biaisée, aux motivations politiques. Les précisions de Marcel Amoko, correspondant France 24 à Yaoundé.",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-tournant-d%C3%A9cisif-dans-l-affaire-martinez-zogo-journaliste-assassin%C3%A9-en-2023",
       "published_at": "2026-10-30T12:11:55+00:00",
       "category": "Médias & communication",
@@ -2120,88 +2195,11 @@
       "title": "Rwanda : les États-Unis sanctionnent, accusant Kigali de soutenir le M23",
       "summary": "Le gouvernement américain a annoncé mercredi 28 octobre avoir placé sous sanctions le ministère de la Défense rwandais, ainsi qu'une banque coopérative, pour leur soutien au groupe armé congolais M23. Les États-Unis justifient cette décision par le non-respect par Kigali de l'accord signé entre le Rwanda et la République démocratique du Congo sous…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-rwanda-les-%C3%A9tats-unis-sanctionnent-le-pays-qu-il-accuse-de-soutenir-le-m23",
       "published_at": "2026-10-30T12:08:02+00:00",
       "category": "Politique",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Rwanda : les États-Unis sanctionnent, accusant Kigali de soutenir le M23 »."
-    },
-    {
-      "id": "ee6259eb467b",
-      "title": "JOJ Dakar 2026 : Avant la compétition, la détente des athlètes",
-      "summary": "🌍 Au village olympique, les athlètes profitent du Club House pour se détendre avant le début des compétitions. Jeux, loisirs et échanges rythment ces moments de convivialité, loin de la pression sportive.",
-      "source": "France 24",
-      "feed_rank": 4,
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-joj-dakar-2026-avant-la-comp%C3%A9tition-la-d%C3%A9tente-des-athl%C3%A8tes",
-      "published_at": "2026-10-30T12:06:20+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « JOJ Dakar 2026 : Avant la compétition, la détente des athlètes »."
-    },
-    {
-      "id": "f38af48d1868",
-      "title": "Guerre au Moyen-Orient : une délégation qatarie à Téhéran ; deux pétroliers immobilisés à Ormuz",
-      "summary": "Une délégation qatarie est arrivée à Téhéran pour des « discussions » avec des responsables iraniens. L’Arabie saoudite assure avoir intercepté un drone houthistes près de La Mecque. Suivez l’actualité du conflit au Moyen-Orient de ce vendredi 30 octobre.",
-      "source": "La Croix – International",
-      "feed_rank": 5,
-      "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-130-moyen-orient-bilan-resume-aujourdhui-20261030",
-      "published_at": "2026-10-30T12:05:59+00:00",
-      "category": "International",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre au Moyen-Orient : une délégation qatarie à Téhéran ; deux pétroliers immobilisés à Ormuz »."
-    },
-    {
-      "id": "ef6ecd17b473",
-      "title": "« Nous anticipons des actions violentes » : la préfecture s’attend à une soirée Halloween de l’horreur à Bordeaux",
-      "summary": "Face aux risques de violences et de pillages en marge des manifestations contre la vie chère, les autorités redoutent une soirée d’Halloween particulièrement agitée à Bordeaux. Un dispositif de sécurité exceptionnel sera déployé samedi, avec notamment la mobilisation du RAID.",
-      "source": "Le Figaro",
-      "feed_rank": 7,
-      "url": "https://www.lefigaro.fr/bordeaux/nous-anticipons-des-actions-violentes-la-prefecture-la-gironde-s-attend-a-une-soiree-halloween-de-l-horreur-ce-samedi-31-octobre-20261030",
-      "published_at": "2026-10-30T12:05:50+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « « Nous anticipons des actions violentes » : la préfecture s’attend à une soirée Halloween de l’horreur à Bordeaux »."
-    },
-    {
-      "id": "bcfc91769813",
-      "title": "Andreas Malm, intellectuel écologiste et soutien de la Palestine, interdit de séjour au Royaume-Uni",
-      "summary": "L'activiste et théoricien suédois écologiste Andreas Malm, connu pour son engagement pour la Palestine, est interdit d'entrer sur le territoire britannique. Sa présence contreviendrait à « l'intérêt public », selon les autorités. Andreas Malm, chercheur suédois spécialiste du climat à l'université de Lund, s'est vu refuser l'entrée sur le territoire…",
-      "source": "Reporterre",
-      "feed_rank": 4,
-      "url": "https://reporterre.net/Andreas-Malm-intellectuel-ecologiste-interdit-de-sejour-au-Royaume-Uni",
-      "published_at": "2026-10-30T12:05:31+00:00",
-      "category": "Environnement",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Andreas Malm, intellectuel écologiste et soutien de la Palestine, interdit de séjour au Royaume-Uni »."
-    },
-    {
-      "id": "2345f03ffd25",
-      "title": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
-      "summary": "Didier Guérin a assuré mardi dans \"Le Monde\" que la candidate du Rassemblement national n’était éligible ni à ce jour ni dans l’hypothèse d’une cassation de l'arrêt de la cour d'appel. Cette interprétation ne fait pas l’unanimité parmi les juristes.",
-      "source": "franceinfo",
-      "feed_rank": 10,
-      "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-10-30T12:03:48+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ? »."
-    },
-    {
-      "id": "f59e4263b32d",
-      "title": "Manifestations du 31 octobre : la préfecture de police ordonne un couvre-feu ce week-end dans plusieurs secteurs de Paris",
-      "summary": "Elle contraint les cortèges prévus par la CGT et les gilets jaunes à \"converger\" et à défiler en périphérie de la capitale, entre la porte de Bagnolet et la porte de Charenton.",
-      "source": "franceinfo",
-      "feed_rank": 25,
-      "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-10-30T12:02:43+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Manifestations du 31 octobre : la préfecture de police ordonne un couvre-feu ce week-end dans plusieurs secteurs de Paris »."
-    },
-    {
-      "id": "4068012e8acb",
-      "title": "Attentat à Trappes et La verrière : l'auteur présumé en détention provisoire",
-      "summary": "Le suspect de l'attentat dans les Yvelines, qui a fait un mort et sept blessés vendredi 23 octobre, a été mis en examen et écroué jeudi 29 octobre à Paris, après avoir reconnu avoir ciblé des personnes musulmanes, africaines ou nord-africaines. Trois jours avant l'attentat, les policiers municipaux de Levallois-Perret avaient interpellé Kevin Tessier…",
-      "source": "France 24",
-      "feed_rank": 5,
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-%C3%A0-trappes-et-la-verri%C3%A8re-l-auteur-pr%C3%A9sum%C3%A9-en-d%C3%A9tention-provisoire",
-      "published_at": "2026-10-30T12:01:49+00:00",
-      "category": "Société",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Attentat à Trappes et La verrière : l'auteur présumé en détention provisoire »."
     }
   ]
 }
