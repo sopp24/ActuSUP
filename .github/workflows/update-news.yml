@@ -83,6 +83,11 @@ jobs:
             echo "Aucune modification des actualités à enregistrer."
           else
             git commit -m "chore: actualiser la veille ActuSUP"
+            # Un autre commit peut arriver pendant la collecte (modification de workflow,
+            # déploiement ou autre automatisation). Rebaser avant de pousser pour éviter
+            # le rejet non-fast-forward et perdre une collecte réussie.
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
