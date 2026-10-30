@@ -16,15 +16,16 @@ on:
 permissions:
   contents: write
 
+# Une nouvelle exécution planifiée remplace une exécution anormalement bloquée.
 concurrency:
   group: actusup-news-update
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
     name: Collecter les flux des médias
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 8
     steps:
       # Aucun `uses:` ici : le dépôt est soumis à une politique qui bloque
       # les actions hébergées dans d’autres dépôts, y compris actions/checkout.

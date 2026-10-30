@@ -1,0 +1,77 @@
+name: Surveiller l’actualisation ActuSUP
+
+on:
+  schedule:
+    # Vérifie toutes les dix minutes que le collecteur a bien fonctionné récemment.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  watchdog:
+    name: Vérifier et relancer la collecte si nécessaire
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Contrôler la dernière collecte et réparer automatiquement
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          API="https://api.github.com/repos/${GITHUB_REPOSITORY}"
+
+          # Laisser le temps au déclencheur schedule du workflow principal de démarrer.
+          sleep 45
+
+          RUNS="$(curl --fail --silent --show-error \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "${API}/actions/workflows/update-news.yml/runs?branch=main&per_page=30")"
+
+          LAST_SUCCESS="$(printf '%s' "${RUNS}" | jq -r \
+            '[.workflow_runs[] | select(.conclusion == "success")][0].updated_at // empty')"
+
+          NOW="$(date -u +%s)"
+          if [ -n "${LAST_SUCCESS}" ]; then
+            SUCCESS_TS="$(date -u -d "${LAST_SUCCESS}" +%s)"
+            AGE="$((NOW - SUCCESS_TS))"
+            if [ "${AGE}" -lt 1080 ]; then
+              echo "Collecte récente réussie il y a ${AGE} secondes : aucune relance nécessaire."
+              exit 0
+            fi
+          else
+            AGE=999999
+          fi
+
+          # Une exécution active depuis plus de neuf minutes est considérée comme bloquée.
+          ACTIVE="$(printf '%s' "${RUNS}" | jq -c \
+            '[.workflow_runs[] | select(.status == "in_progress" or .status == "queued")][0] // empty')"
+
+          if [ -n "${ACTIVE}" ]; then
+            ACTIVE_ID="$(printf '%s' "${ACTIVE}" | jq -r '.id')"
+            ACTIVE_TIME="$(printf '%s' "${ACTIVE}" | jq -r '.run_started_at // .created_at')"
+            ACTIVE_TS="$(date -u -d "${ACTIVE_TIME}" +%s)"
+            ACTIVE_AGE="$((NOW - ACTIVE_TS))"
+            if [ "${ACTIVE_AGE}" -lt 540 ]; then
+              echo "Le workflow principal est actif depuis ${ACTIVE_AGE} secondes : on le laisse terminer."
+              exit 0
+            fi
+            echo "L’exécution ${ACTIVE_ID} semble bloquée depuis ${ACTIVE_AGE} secondes : annulation puis relance."
+            curl --fail --silent --show-error -X POST \
+              -H "Authorization: Bearer ${GH_TOKEN}" \
+              -H "Accept: application/vnd.github+json" \
+              "${API}/actions/runs/${ACTIVE_ID}/cancel"
+          fi
+
+          echo "Aucune collecte réussie récente (âge : ${AGE} secondes). Relance du workflow principal."
+          curl --fail --silent --show-error -X POST \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Content-Type: application/json" \
+            -d '{"ref":"main"}' \
+            "${API}/actions/workflows/update-news.yml/dispatches"
+          echo "Relance demandée avec succès."
