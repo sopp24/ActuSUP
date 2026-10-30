@@ -61,14 +61,25 @@ FEEDS = [
 CATEGORY_RULES = [
     ("Médias & communication", ["communication", "publicité", "publicitaire", "média", "medias", "journaliste", "journalisme", "réseaux sociaux", "influenceur", "influenceuse", "tiktok", "instagram", "youtube", "meta", "marketing", "marque", "audiovisuel", "désinformation", "fake news", "plateforme numérique"]),
     ("Politique", ["président", "gouvernement", "ministre", "assemblée nationale", "sénat", "député", "élection", "élections", "parlement", "parti politique", "elysée", "élysée", "loi", "vote", "maire", "politique"]),
-    ("Économie", ["économie", "économique", "inflation", "emploi", "chômage", "entreprise", "entreprises", "bourse", "banque", "budget", "croissance", "prix", "carburant", "pouvoir d'achat", "consommation", "commerce", "industrie", "impôt", "taxe", "euro"]),
+    ("Économie", ["économie", "économique", "inflation", "emploi", "emplois", "chômage", "entreprise", "entreprises", "bourse", "banque", "budget", "croissance", "prix", "carburant", "pouvoir d'achat", "consommation", "commerce", "industrie", "impôt", "taxe", "euro"]),
     ("Société", ["société", "éducation", "école", "étudiant", "étudiants", "santé", "hôpital", "justice", "police", "violence", "logement", "famille", "retraite", "manifestation", "social", "inégalité", "immigration"]),
     ("Sciences & tech", ["science", "scientifique", "recherche", "intelligence artificielle", " ia ", "technologie", "numérique", "cyber", "cybersécurité", "espace", "nasa", "robot", "découverte", "médecine", "vaccin", "santé numérique"]),
     ("Culture", ["culture", "cinéma", "film", "série", "musique", "livre", "roman", "littérature", "exposition", "musée", "théâtre", "artiste", "festival", "goncourt", "prix littéraire", "jeu vidéo"]),
-    ("Sport", ["sport", "football", "rugby", "tennis", "basket", "olympique", "olympisme", "formule 1", "f1", "tour de france", "ligue 1", "championnat", "match", "athlète"]),
+    ("Sport", ["sport", "sports", "football", "rugby", "tennis", "basket", "olympique", "olympisme", "formule 1", "f1", "tour de france", "ligue 1", "championnat", "match", "athlète"]),
     ("Environnement", ["climat", "environnement", "écologie", "écologique", "biodiversité", "pollution", "réchauffement", "énergie", "énergies", "sécheresse", "inondation", "forêt", "incendie", "transition énergétique"]),
     ("International", ["international", "monde", "ukraine", "russie", "états-unis", "états unis", "chine", "iran", "israël", "gaza", "palestine", "onu", "otan", "afrique", "europe", "union européenne", "guerre", "diplomatie", "brésil"]),
 ]
+
+# Normalisation commune : les mots-clés doivent correspondre à des mots entiers,
+# pas à de simples sous-chaînes (ex. « loi » ne doit pas classer « emploi » en politique).
+def normalize_keyword_text(value: str) -> str:
+    normalized = unicodedata.normalize("NFKD", str(value or "")).encode("ascii", "ignore").decode("ascii").lower()
+    return re.sub(r"[^a-z0-9]+", " ", normalized).strip()
+
+NORMALIZED_CATEGORY_RULES = tuple(
+    (category, tuple(normalize_keyword_text(keyword) for keyword in keywords))
+    for category, keywords in CATEGORY_RULES
+)
 
 # Angles éditoriaux adaptés à chaque actualité à partir du titre et du résumé RSS.
 # Les règles restent déterministes : aucune API d'IA ni clé secrète n'est nécessaire.
@@ -174,14 +185,11 @@ def parse_date(entry):
     return None
 
 def categorize(text: str) -> str:
-    lower = f" {text.lower()} "
-    for category, keywords in CATEGORY_RULES:
-        if any(word in lower for word in keywords):
+    normalized = f" {normalize_keyword_text(text)} "
+    for category, keywords in NORMALIZED_CATEGORY_RULES:
+        if any(f" {keyword} " in normalized for keyword in keywords):
             return category
     return "Société"
-
-def angle_for(category: str) -> str:
-    return next((angle for cat, angle in ANGLE_RULES if cat == category), DEFAULT_ANGLE)
 
 def short_summary(entry) -> str:
     for key in ("summary", "description"):
@@ -384,19 +392,56 @@ def main():
             print(f"[WARN] Flux indisponible {feed['name']}: {type(exc).__name__}: {exc}")
             errors.append(feed["name"])
 
-    articles.sort(key=lambda item: item.get("published_at") or "", reverse=True)
-    all_fetched_articles = list(articles)
-    articles = articles[:MAX_TOTAL]
-    # Si tous les flux échouent, préserver les dernières données publiées plutôt que vider le site.
+    now_dt = datetime.now(timezone.utc)
+    previous_data = {}
+    if OUT.exists():
+        try:
+            previous_data = json.loads(OUT.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            print(f"[WARN] Ancien fichier de veille illisible : {type(exc).__name__}: {exc}")
+
+    # Si tous les flux échouent, conserver le dernier fichier valide sans le remplacer par un corpus vide.
     if not articles and OUT.exists():
-        old = json.loads(OUT.read_text(encoding="utf-8"))
-        old["note"] = "La collecte a échoué pour tous les flux. Les articles affichés proviennent de la dernière collecte réussie."
-        old["last_attempt"] = datetime.now(timezone.utc).isoformat()
-        OUT.write_text(json.dumps(old, ensure_ascii=False, indent=2), encoding="utf-8")
+        if not previous_data:
+            print("Aucun flux récupéré et anciennes données illisibles : fichier existant laissé intact.")
+            return
+        previous_data["note"] = "La collecte a échoué pour tous les flux. Les articles affichés proviennent de la dernière collecte réussie."
+        previous_data["last_attempt"] = now_dt.isoformat()
+        OUT.write_text(json.dumps(previous_data, ensure_ascii=False, indent=2), encoding="utf-8")
         print("Aucun flux récupéré : les données précédentes sont conservées.")
         return
 
-    now_dt = datetime.now(timezone.utc)
+    # En cas de panne partielle, conserver pendant 30 jours les articles des médias en erreur.
+    # Cela évite qu'une indisponibilité ponctuelle fasse disparaître tout un média du site.
+    if errors and previous_data:
+        failed_sources = set(errors)
+        cutoff = now_dt - timedelta(days=30)
+        known_ids = {str(item.get("id")) for item in articles if item.get("id")}
+        known_urls = {
+            str(item.get("url", "")).split("?", 1)[0].split("#", 1)[0].rstrip("/")
+            for item in articles if item.get("url")
+        }
+        previous_articles = previous_data.get("articles", [])
+        if isinstance(previous_articles, list):
+            for old_article in previous_articles:
+                if not isinstance(old_article, dict) or old_article.get("source") not in failed_sources:
+                    continue
+                published = parse_iso_datetime(old_article.get("published_at"))
+                if not published or not cutoff <= published <= now_dt + timedelta(minutes=10):
+                    continue
+                old_id = str(old_article.get("id") or "")
+                old_url = str(old_article.get("url") or "").split("?", 1)[0].split("#", 1)[0].rstrip("/")
+                if (old_id and old_id in known_ids) or (old_url and old_url in known_urls):
+                    continue
+                articles.append(dict(old_article))
+                if old_id:
+                    known_ids.add(old_id)
+                if old_url:
+                    known_urls.add(old_url)
+
+    articles.sort(key=lambda item: item.get("published_at") or "", reverse=True)
+    all_fetched_articles = list(articles)
+    articles = articles[:MAX_TOTAL]
     now = now_dt.isoformat()
     featured_news, window_start, featured_pool_count, featured_sources_count = build_featured_stories(all_fetched_articles, now_dt)
     data = {

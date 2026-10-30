@@ -1,6 +1,13 @@
 name: Actualiser ActuSUP
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "fetch_news.py"
+      - "requirements.txt"
+      - ".github/workflows/update-news.yml"
   schedule:
     # Toutes les dix minutes ; GitHub peut retarder certaines exécutions programmées.
     - cron: "*/10 * * * *"
@@ -17,7 +24,7 @@ jobs:
   update:
     name: Collecter les flux des médias
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 12
     steps:
       # Aucun `uses:` ici : le dépôt est soumis à une politique qui bloque
       # les actions hébergées dans d’autres dépôts, y compris actions/checkout.
@@ -39,10 +46,25 @@ jobs:
           # Utiliser Python déjà installé sur l'agent GitHub, sans action externe setup-python.
           python3 -m venv .venv
           . .venv/bin/activate
-          python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
+          python -m pip install --disable-pip-version-check -r requirements.txt
+
+          python -m py_compile fetch_news.py
+          python - <<'PY'
+          from fetch_news import categorize
+
+          checks = [
+              ("Les emplois progressent dans plusieurs secteurs", "Économie"),
+              ("Le réseau de transport public évolue", "Société"),
+              ("Le vote de la loi est attendu au Parlement", "Politique"),
+          ]
+          for sample, expected in checks:
+              actual = categorize(sample)
+              if actual != expected:
+                  raise SystemExit(f"Catégorisation incorrecte : {sample!r} → {actual!r} (attendu : {expected!r})")
+          PY
 
           python fetch_news.py
+          python -m json.tool data/news.json > /dev/null
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

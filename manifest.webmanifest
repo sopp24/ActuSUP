@@ -6,8 +6,8 @@
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f8f8f4",
-  "theme_color": "#102c3a",
+  "background_color": "#fffaf6",
+  "theme_color": "#211914",
   "icons": [
     {
       "src": "assets/actusup-180.png",

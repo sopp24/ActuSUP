@@ -28,7 +28,7 @@ function formatDate(value) {
   if (!value) return "Date non précisée";
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "Date non précisée";
-  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short", year: "numeric" }).format(date);
+  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short", year: "numeric", timeZone: "Europe/Paris" }).format(date);
 }
 function formatUpdated(value) {
   if (!value) return "Collecte pas encore effectuée";
@@ -72,6 +72,7 @@ function updateCategoryCounts() {
     const label = button.dataset.categoryLabel;
     button.textContent = `${label} ${count}`;
     button.setAttribute("aria-label", `${label}, ${count} article${count === 1 ? "" : "s"}`);
+    button.setAttribute("aria-pressed", String(category === selectedCategory));
   });
 }
 
@@ -350,7 +351,10 @@ function render() {
   const query = searchInput.value.trim().toLocaleLowerCase("fr");
   let filtered = allNews.filter(item => {
     const matchesCategory = selectedCategory === "Toutes" || item.category === selectedCategory;
-    const searchable = [item.title, item.summary, item.source, item.category, item.communication_angle].join(" ").toLocaleLowerCase("fr");
+    const angleText = Array.isArray(item.communication_angle)
+      ? item.communication_angle.join(" ")
+      : safeText(item.communication_angle);
+    const searchable = [item.title, item.summary, item.source, item.category, angleText].join(" ").toLocaleLowerCase("fr");
     return matchesCategory && searchable.includes(query);
   });
   if (sortSelect.value === "source") filtered.sort((a,b) => safeText(a.source).localeCompare(safeText(b.source), "fr"));
@@ -398,7 +402,7 @@ async function loadNews({ manual = false } = {}) {
   if (manual) setRefreshState(true);
   try {
     // Le paramètre unique et cache:no-store forcent une relecture de news.json.
-    // Le bouton actualise les données déjà publiées sur GitHub Pages ; il ne déclenche pas le workflow GitHub.
+    // Ce bouton recharge les données publiées ; il ne déclenche pas le workflow GitHub.
     const response = await fetch(`${DATA_URL}?refresh=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error("Le fichier de veille n’est pas disponible.");
     const data = await response.json();
@@ -407,29 +411,45 @@ async function loadNews({ manual = false } = {}) {
     updateCategoryCounts();
     renderFeatured(data);
     updateLabel.textContent = formatUpdated(data.last_updated);
-    statusMessage.textContent = safeText(data.note);
-    statusMessage.hidden = !data.note;
-    if (data.last_updated) {
-      const hoursOld = (Date.now() - new Date(data.last_updated).getTime()) / 36e5;
-      if (hoursOld > 2) {
-        statusMessage.textContent = "La dernière collecte date de plus de deux heures. Le bouton Actualiser recharge les données publiées, mais seule la collecte GitHub Actions récupère de nouveaux articles.";
-        statusMessage.hidden = false;
+
+    // Ne jamais masquer une alerte de fraîcheur ou de source par le simple rechargement.
+    const statusParts = [];
+    const sourceNote = safeText(data.note);
+    if (sourceNote) statusParts.push(sourceNote);
+
+    const updatedAt = Date.parse(data.last_updated || "");
+    const attemptAt = Date.parse(data.last_attempt || "");
+    if (Number.isFinite(updatedAt)) {
+      const hoursOld = (Date.now() - updatedAt) / 36e5;
+      if (Number.isFinite(attemptAt) && attemptAt - updatedAt > 15 * 60 * 1000) {
+        statusParts.push(`La dernière tentative de collecte n’a pas produit de nouvelles données. ${formatUpdated(data.last_updated)}.`);
+      } else if (hoursOld > 2) {
+        statusParts.push("La dernière collecte réussie remonte à plus de deux heures. « Actualiser » recharge les données publiées ; seule une exécution de GitHub Actions récupère de nouveaux articles.");
       }
+    } else if (!data.last_updated) {
+      statusParts.push("Aucune collecte n’a encore été enregistrée. Lance le workflow « Actualiser ActuSUP » dans GitHub → Actions.");
+    }
+
+    if (manual && statusParts.length === 0 && data.last_updated) {
+      // Confirmation discrète, sans faire croire qu'une nouvelle collecte RSS a été lancée.
+      const confirmation = "Données publiées rechargées. La date ci-dessus indique quand GitHub a effectué la dernière collecte RSS.";
+      statusMessage.textContent = confirmation;
+      statusMessage.hidden = false;
+      window.setTimeout(() => {
+        if (statusMessage.textContent === confirmation) statusMessage.hidden = true;
+      }, 4500);
+    } else {
+      statusMessage.textContent = statusParts.join(" ");
+      statusMessage.hidden = statusParts.length === 0;
     }
     render();
-    if (manual && !data.note && data.last_updated) {
-      // Confirmation discrète sans confondre rechargement du site et nouvelle collecte RSS.
-      statusMessage.textContent = "Données publiées rechargées. La date ci-dessus indique quand GitHub a effectué la dernière collecte RSS.";
-      statusMessage.hidden = false;
-      window.setTimeout(() => { if (statusMessage.textContent.startsWith("Données publiées rechargées.")) statusMessage.hidden = true; }, 4500);
-    }
   } catch (error) {
     updateLabel.textContent = hadData ? updateLabel.textContent : "Collecte en attente";
     statusMessage.textContent = hadData
       ? "Impossible de recharger les données. Les articles déjà affichés sont conservés ; réessaie dans un instant."
       : "Les articles ne sont pas encore disponibles. Vérifie que la première collecte a été lancée dans GitHub → Actions → « Actualiser ActuSUP » et que GitHub Pages est activé.";
     statusMessage.hidden = false;
-    renderFeatured({ featured_news: [], featured_window_start: null, featured_window_end: null });
+    // Les sujets déjà affichés restent présents si le rechargement échoue.
     render();
   } finally {
     if (manual) setRefreshState(false);
