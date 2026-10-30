@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T16:15:11.395822+00:00",
-  "last_attempt": "2026-10-30T16:15:11.395822+00:00",
+  "last_updated": "2026-10-30T16:15:37.770856+00:00",
+  "last_attempt": "2026-10-30T16:15:37.770856+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 160,
   "sources_configured": 24,
@@ -9,39 +9,12 @@
     "Les Échos"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-23T16:15:11.395822+00:00",
-  "featured_window_end": "2026-10-30T16:15:11.395822+00:00",
+  "featured_window_start": "2026-10-23T16:15:37.770856+00:00",
+  "featured_window_end": "2026-10-30T16:15:37.770856+00:00",
   "featured_pool_count": 464,
   "featured_sources_count": 22,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 7 jours",
   "featured_news": [
-    {
-      "id": "af3368686f07",
-      "title": "Olecky en Ukraine : les habitants évacués malgré l'intimidation des autorités russes",
-      "summary": "Des habitants de la ville d'Olechky sous occupation russe dans le sud de l'Ukraine, où une crise humanitaire se déroulait ces dernières semaines, ont été évacués vendredi 30 octobre vers la Russie puis le Bélarus, en vue de rejoindre les territoires sous contrôle de Kiev. Quelque 2 000 habitants, contre 24 000 avant l'invasion russe, se trouvaient…",
-      "source": "France 24",
-      "feed_rank": 3,
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-olecky-en-ukraine-les-habitants-%C3%A9vacu%C3%A9s-malgr%C3%A9-l-intimidation-des-autorit%C3%A9s-russes",
-      "published_at": "2026-10-30T15:50:58+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Olecky en Ukraine : les habitants évacués malgré l'intimidation des autorités russes ».",
-      "coverage_sources": [
-        "franceinfo",
-        "Le Monde",
-        "France 24",
-        "Le Figaro",
-        "RFI",
-        "Euronews",
-        "20 Minutes",
-        "La Croix – International",
-        "LCP",
-        "Public Sénat"
-      ],
-      "coverage_count": 10,
-      "mention_count": 29,
-      "importance_score": 24.821,
-      "latest_coverage_at": "2026-10-30T16:06:03+00:00"
-    },
     {
       "id": "5879a9e0cfd3",
       "title": "Présidentielle au Brésil: l'avion à bord duquel Flavio Bolsonaro a fui le Brésil a été payé depuis les États-Unis",
@@ -66,8 +39,35 @@
       ],
       "coverage_count": 10,
       "mention_count": 19,
-      "importance_score": 23.982,
+      "importance_score": 23.96,
       "latest_coverage_at": "2026-10-30T15:41:23+00:00"
+    },
+    {
+      "id": "af3368686f07",
+      "title": "Olecky en Ukraine : les habitants évacués malgré l'intimidation des autorités russes",
+      "summary": "Des habitants de la ville d'Olechky sous occupation russe dans le sud de l'Ukraine, où une crise humanitaire se déroulait ces dernières semaines, ont été évacués vendredi 30 octobre vers la Russie puis le Bélarus, en vue de rejoindre les territoires sous contrôle de Kiev. Quelque 2 000 habitants, contre 24 000 avant l'invasion russe, se trouvaient…",
+      "source": "France 24",
+      "feed_rank": 6,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-olecky-en-ukraine-les-habitants-%C3%A9vacu%C3%A9s-malgr%C3%A9-l-intimidation-des-autorit%C3%A9s-russes",
+      "published_at": "2026-10-30T15:50:58+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Olecky en Ukraine : les habitants évacués malgré l'intimidation des autorités russes ».",
+      "coverage_sources": [
+        "franceinfo",
+        "Le Monde",
+        "France 24",
+        "Le Figaro",
+        "RFI",
+        "Euronews",
+        "20 Minutes",
+        "La Croix – International",
+        "LCP",
+        "Public Sénat"
+      ],
+      "coverage_count": 10,
+      "mention_count": 15,
+      "importance_score": 23.564,
+      "latest_coverage_at": "2026-10-30T16:06:03+00:00"
     },
     {
       "id": "d60c718418a5",
@@ -91,19 +91,19 @@
       ],
       "coverage_count": 8,
       "mention_count": 22,
-      "importance_score": 23.099,
+      "importance_score": 23.092,
       "latest_coverage_at": "2026-10-30T16:06:03+00:00"
     },
     {
-      "id": "52e48f843dda",
-      "title": "«On nous maintient dans une sorte d’espérance» : les familles de victimes de la catastrophe ferroviaire en Espagne entre colère et désarroi",
-      "summary": "Deux jours après la collision d’Urda, de nombreuses personnes attendent toujours de pouvoir identifier leurs proches. La fronde politique monte à un mois des élections législatives.",
-      "source": "Libération",
-      "feed_rank": 2,
-      "url": "https://www.liberation.fr/international/europe/on-nous-maintient-dans-une-sorte-desperance-les-familles-de-victimes-de-la-catastrophe-ferroviaire-en-espagne-entre-colere-et-desarroi-20261030_IHJOZAQ45ZDKZCSU7YGP6IUOVU/",
-      "published_at": "2026-10-30T15:58:17+00:00",
+      "id": "9f939a4d3a67",
+      "title": "Accident ferroviaire en Espagne : les familles dans une attente angoissante",
+      "summary": "L'Espagne a intensifié vendredi 30 octobre le travail d'identification des victimes de la collision de deux trains qui a fait au moins 69 morts mercredi 28 octobre, afin de répondre à l'angoisse des familles restant sans nouvelles de leurs proches. Le Premier ministre Pedro Sánchez a déclaré que les autorités travaillaient \"sans relâche (..) pour tenter…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante",
+      "published_at": "2026-10-30T16:02:49+00:00",
       "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « «On nous maintient dans une sorte d’espérance» : les familles de victimes de la catastrophe ferroviaire en Espagne entre colère et désarroi ».",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Accident ferroviaire en Espagne : les familles dans une attente angoissante » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "franceinfo",
         "France 24",
@@ -114,16 +114,16 @@
         "Reporterre"
       ],
       "coverage_count": 7,
-      "mention_count": 11,
-      "importance_score": 20.782,
-      "latest_coverage_at": "2026-10-30T15:58:17+00:00"
+      "mention_count": 12,
+      "importance_score": 20.982,
+      "latest_coverage_at": "2026-10-30T16:02:49+00:00"
     },
     {
       "id": "7562ddb994e8",
       "title": "Russie : fermeture du journal indépendant Novaïa Gazeta sous pression des autorités",
       "summary": "Le journal Novaïa Gazeta, bastion historique de la presse indépendante en Russie, qui était ouvertement opposé à l'offensive russe contre l'Ukraine, a annoncé vendredi 30 octobre sa fermeture après plus de 30 ans d'existence, sous la pression des autorités russes. Depuis l'attaque de Vladimir Poutine en Ukraine, le journal survivait en Russie dans un…",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-fermeture-du-journal-ind%C3%A9pendant-nova%C3%AFa-gazeta-sous-pression-des-autorit%C3%A9s",
       "published_at": "2026-10-30T15:19:23+00:00",
       "category": "Médias & communication",
@@ -139,7 +139,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.416,
+      "importance_score": 20.398,
       "latest_coverage_at": "2026-10-30T15:19:23+00:00"
     },
     {
@@ -147,7 +147,7 @@
       "title": "Cryptomonnaie : la plus grande plateforme piratée, un préjudice estimé à 6,3 milliards de dollars",
       "summary": "Des ​pirates informatiques ont dérobé 6,3 milliards de dollars, soit 5,56 milliards d'euros à Binance, la plus grande plateforme d'échange de cryptomonnaies au monde, un vol d'une ampleur sans précédent que des analystes attribuent à la Corée du Nord. L'essentiel du vol s'est déroulé en une vingtaine de minutes dans la nuit du jeudi 29 octobre. Les…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-cryptomonnaie-la-plus-grande-plateforme-pirat%C3%A9e-un-pr%C3%A9judice-estim%C3%A9-%C3%A0-6-3-milliards-de-dollars",
       "published_at": "2026-10-30T15:12:06+00:00",
       "category": "Médias & communication",
@@ -163,7 +163,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.146,
+      "importance_score": 20.127,
       "latest_coverage_at": "2026-10-30T15:12:06+00:00"
     },
     {
@@ -171,7 +171,7 @@
       "title": "Attentat raciste dans les Yvelines : les partis de gauche présents pour l'hommage prévu à Trappes",
       "summary": "Le candidat à la présidentielle Édouard Philippe, s'est rendu vendredi 30 octobre à La Verrière pour l'hommage rendu à la fillette de 11 ans, grièvement blessée lors de l'attaque raciste de Kevin Tessier, mais il ne sera pas présent à Trappes. Les principaux candidats de gauche à l'élection présidentielle, dont Raphaël Glucksmann, Jean-Luc Mélenchon,…",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-dans-les-yvelines-les-partis-de-gauche-pr%C3%A9sents-pour-l-hommage-pr%C3%A9vu-%C3%A0-trappes",
       "published_at": "2026-10-30T15:59:42+00:00",
       "category": "Médias & communication",
@@ -185,8 +185,8 @@
         "Public Sénat"
       ],
       "coverage_count": 6,
-      "mention_count": 10,
-      "importance_score": 20.067,
+      "mention_count": 9,
+      "importance_score": 19.941,
       "latest_coverage_at": "2026-10-30T16:05:48+00:00"
     },
     {
@@ -194,7 +194,7 @@
       "title": "Législatives en Israël : les négociations pour former un nouvel exécutif s'annoncent compliquées",
       "summary": "Alors que le taux de participation est un record depuis 1999 aux élections législatives en Israël, le scrutin reste sans majorité absolue. Ainsi, plusieurs options pour former un nouvel exécutif sont envisagées, telles qu'une coalition avec les partis arabes, une alternance au pouvoir entre les deux partis politiques majeurs ou bien la constitution d'un…",
       "source": "France 24",
-      "feed_rank": 17,
+      "feed_rank": 20,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-l%C3%A9gislatives-en-isra%C3%ABl-les-n%C3%A9gociations-pour-former-un-nouvel-ex%C3%A9cutif-s-annoncent-compliqu%C3%A9es",
       "published_at": "2026-10-30T13:56:08+00:00",
       "category": "Politique",
@@ -208,7 +208,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 8,
-      "importance_score": 18.383,
+      "importance_score": 18.349,
       "latest_coverage_at": "2026-10-30T13:58:40+00:00"
     },
     {
@@ -250,8 +250,27 @@
       ],
       "coverage_count": 3,
       "mention_count": 9,
-      "importance_score": 16.297,
+      "importance_score": 16.296,
       "latest_coverage_at": "2026-10-30T15:09:13+00:00"
+    },
+    {
+      "id": "b116e5ab399b",
+      "title": "Sens Public — SENS PUBLIC 26/11/05 Je P2",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Public Sénat",
+      "feed_rank": 4,
+      "url": "https://www.publicsenat.fr/emission/sens-public/sens-public-26-11-05-je-p2-e0",
+      "published_at": "2026-10-30T13:33:26+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Sens Public — SENS PUBLIC 26/11/05 Je P2 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro",
+        "Public Sénat"
+      ],
+      "coverage_count": 2,
+      "mention_count": 13,
+      "importance_score": 14.924,
+      "latest_coverage_at": "2026-10-30T13:33:26+00:00"
     },
     {
       "id": "bf1ac6ab30d4",
@@ -290,7 +309,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.43,
+      "importance_score": 14.429,
       "latest_coverage_at": "2026-10-30T15:56:14+00:00"
     },
     {
@@ -426,25 +445,6 @@
       "mention_count": 2,
       "importance_score": 12.117,
       "latest_coverage_at": "2026-10-30T16:00:37+00:00"
-    },
-    {
-      "id": "f9ce1d86622d",
-      "title": "Royaume-Uni enquête sur Meta pour des conditions médias jugées \"abusives\"",
-      "summary": "L'autorité britannique de la concurrence a ouvert une enquête pour déterminer si Meta imposait de nouvelles conditions \"exploitantes\" lui permettant d'utiliser des contenus médiatiques pour ses propres produits, y compris l'IA, sans offrir aux éditeurs un choix suffisant.",
-      "source": "Euronews",
-      "feed_rank": 3,
-      "url": "https://fr.euronews.com/2026/10/30/royaume-uni-enquete-sur-meta-pour-des-conditions-medias-jugees-abusives",
-      "published_at": "2026-10-30T14:44:24+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Royaume-Uni enquête sur Meta pour des conditions médias jugées \"abusives\" ».",
-      "coverage_sources": [
-        "Le Monde",
-        "Euronews"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2,
-      "importance_score": 12.033,
-      "latest_coverage_at": "2026-10-30T14:44:24+00:00"
     }
   ],
   "articles": [
@@ -636,6 +636,28 @@
       "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Venezuela: Donald Trump a-t-il demandé conseil à l'IA d'Elon Musk pour capturer Nicolás Maduro? »."
     },
     {
+      "id": "9f939a4d3a67",
+      "title": "Accident ferroviaire en Espagne : les familles dans une attente angoissante",
+      "summary": "L'Espagne a intensifié vendredi 30 octobre le travail d'identification des victimes de la collision de deux trains qui a fait au moins 69 morts mercredi 28 octobre, afin de répondre à l'angoisse des familles restant sans nouvelles de leurs proches. Le Premier ministre Pedro Sánchez a déclaré que les autorités travaillaient \"sans relâche (..) pour tenter…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante",
+      "published_at": "2026-10-30T16:02:49+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Accident ferroviaire en Espagne : les familles dans une attente angoissante » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
+    },
+    {
+      "id": "acb11cafd744",
+      "title": "Russie : des drones ukrainiens frappent des raffineries, selon un responsable russe",
+      "summary": "L'Ukraine a frappé vendredi trois raffineries de pétrole dans la région russe de Samara, après une \"pause\" de plusieurs jours dans ce type d'attaques, selon le vice-Premier ministre russe en charge de l'Énergie, Alexandre Novak.",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-des-drones-ukrainiens-frappent-des-raffineries-selon-un-responsable-russe",
+      "published_at": "2026-10-30T16:01:32+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Russie : des drones ukrainiens frappent des raffineries, selon un responsable russe »."
+    },
+    {
       "id": "a701283d35cc",
       "title": "Attaques russes en Ukraine : Jaime Lannister de «Game of Thrones» a passé la nuit dans un métro de Kyiv pour échapper aux bombardements",
       "summary": "Nikolaj Coster-Waldau, acteur danois de 56 ans, s’est rendu dans la capitale ukrainienne avec le Programme des Nations unies pour le développement, dont il est ambassadeur depuis 2016, pour «sensibiliser l’opinion publique».",
@@ -645,6 +667,17 @@
       "published_at": "2026-10-30T16:01:10+00:00",
       "category": "International",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Attaques russes en Ukraine : Jaime Lannister de «Game of Thrones» a passé la nuit dans un métro de Kyiv pour échapper aux bombardements »."
+    },
+    {
+      "id": "e5503f66292c",
+      "title": "Des scientifiques testent la terramation, une alternative écologique à l'inhumation et la crémation",
+      "summary": "En France, l'enterrement et la crémation sont aujourd’hui les deux seules pratiques légales. En 2026, près d’un Français sur deux choisit les flammes, séduit par leur prix et leur simplicité. Mais les deux pratiques coûtent et polluent autant. Des chercheurs du CNRS explorent une autre possibilité : la terramation, ou l’art de rendre à la terre ce…",
+      "source": "France 24",
+      "feed_rank": 3,
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-le-reportage/20261030-des-scientifiques-testent-la-terramation-une-alternative-%C3%A9cologique-%C3%A0-l-inhumation-et-la-cr%C3%A9mation",
+      "published_at": "2026-10-30T16:00:44+00:00",
+      "category": "Économie",
+      "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Des scientifiques testent la terramation, une alternative écologique à l'inhumation et la crémation »."
     },
     {
       "id": "aa6c6e371a8e",
@@ -673,7 +706,7 @@
       "title": "Attentat raciste dans les Yvelines : les partis de gauche présents pour l'hommage prévu à Trappes",
       "summary": "Le candidat à la présidentielle Édouard Philippe, s'est rendu vendredi 30 octobre à La Verrière pour l'hommage rendu à la fillette de 11 ans, grièvement blessée lors de l'attaque raciste de Kevin Tessier, mais il ne sera pas présent à Trappes. Les principaux candidats de gauche à l'élection présidentielle, dont Raphaël Glucksmann, Jean-Luc Mélenchon,…",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-dans-les-yvelines-les-partis-de-gauche-pr%C3%A9sents-pour-l-hommage-pr%C3%A9vu-%C3%A0-trappes",
       "published_at": "2026-10-30T15:59:42+00:00",
       "category": "Médias & communication",
@@ -783,7 +816,7 @@
       "title": "Binance : pourquoi le cybercasse du siècle n'a pas encore livré tous ses secrets",
       "summary": "Alors que la plateforme de cryptomonnaies Binance a reconnu, jeudi, avoir été piratée, cette opération sans précédent de par son ampleur reste encore mystérieuse à bien des égards. Les détails du mode opératoire des attaquants, leur identité et l'endroit où se trouve l’argent : France 24 fait le point sur ce que l'on sait.",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/%C3%A9co-tech/20261030-binance-pourquoi-cyber-casse-si%C3%A8cle-pas-encore-livr%C3%A9-tous-ses-secrets",
       "published_at": "2026-10-30T15:52:21+00:00",
       "category": "Culture",
@@ -827,7 +860,7 @@
       "title": "Olecky en Ukraine : les habitants évacués malgré l'intimidation des autorités russes",
       "summary": "Des habitants de la ville d'Olechky sous occupation russe dans le sud de l'Ukraine, où une crise humanitaire se déroulait ces dernières semaines, ont été évacués vendredi 30 octobre vers la Russie puis le Bélarus, en vue de rejoindre les territoires sous contrôle de Kiev. Quelque 2 000 habitants, contre 24 000 avant l'invasion russe, se trouvaient…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-olecky-en-ukraine-les-habitants-%C3%A9vacu%C3%A9s-malgr%C3%A9-l-intimidation-des-autorit%C3%A9s-russes",
       "published_at": "2026-10-30T15:50:58+00:00",
       "category": "International",
@@ -1014,7 +1047,7 @@
       "title": "El Niño : les habitants du Pacifique se préparent à affronter le phénomène",
       "summary": "À la Une cette semaine, le phénomène El Niño qui frappe à nouveau le Pacifique avec une intensité telle qu'il laisse craindre une saison cyclonique compliquée. Professionnels et particuliers s'adaptent.",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261030-el-ni%C3%B1o-les-habitants-du-pacifique-se-pr%C3%A9parent-%C3%A0-affronter-le-ph%C3%A9nom%C3%A8ne",
       "published_at": "2026-10-30T15:42:00+00:00",
       "category": "Société",
@@ -1190,7 +1223,7 @@
       "title": "Envoyer les data centers dans l'espace ne réglera pas tout",
       "summary": "À quatre jours des élections de mi-mandat américaines, les data centers s'invitent dans la campagne. Ces infrastructures indispensables à l'entraînement de l'IA comme à la résolution de défis scientifiques sont accusées de faire grimper les factures d'électricité, de consommer trop d'eau et de transformer les paysages.",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261030-envoyer-les-data-centers-dans-l-espace-ne-r%C3%A9glera-pas-tout",
       "published_at": "2026-10-30T15:24:21+00:00",
       "category": "Politique",
@@ -1278,7 +1311,7 @@
       "title": "Russie : fermeture du journal indépendant Novaïa Gazeta sous pression des autorités",
       "summary": "Le journal Novaïa Gazeta, bastion historique de la presse indépendante en Russie, qui était ouvertement opposé à l'offensive russe contre l'Ukraine, a annoncé vendredi 30 octobre sa fermeture après plus de 30 ans d'existence, sous la pression des autorités russes. Depuis l'attaque de Vladimir Poutine en Ukraine, le journal survivait en Russie dans un…",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-russie-fermeture-du-journal-ind%C3%A9pendant-nova%C3%AFa-gazeta-sous-pression-des-autorit%C3%A9s",
       "published_at": "2026-10-30T15:19:23+00:00",
       "category": "Médias & communication",
@@ -1300,7 +1333,7 @@
       "title": "Omar Victor Diop raconte les sociétés africaines",
       "summary": "Il est l'un des artistes sénégalais les plus reconnus de sa génération. Omar Victor Diop utilise le portrait et l’autoportrait pour questionner la représentation des personnes noires et faire émerger des histoires trop souvent oubliées. De la résistance à l’esclavage aux luttes contemporaines contre les discriminations raciales, son travail fait…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261030-omar-victor-diop-raconte-les-soci%C3%A9t%C3%A9s-africaines",
       "published_at": "2026-10-30T15:18:03+00:00",
       "category": "Société",
@@ -1366,7 +1399,7 @@
       "title": "Cryptomonnaie : la plus grande plateforme piratée, un préjudice estimé à 6,3 milliards de dollars",
       "summary": "Des ​pirates informatiques ont dérobé 6,3 milliards de dollars, soit 5,56 milliards d'euros à Binance, la plus grande plateforme d'échange de cryptomonnaies au monde, un vol d'une ampleur sans précédent que des analystes attribuent à la Corée du Nord. L'essentiel du vol s'est déroulé en une vingtaine de minutes dans la nuit du jeudi 29 octobre. Les…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-cryptomonnaie-la-plus-grande-plateforme-pirat%C3%A9e-un-pr%C3%A9judice-estim%C3%A9-%C3%A0-6-3-milliards-de-dollars",
       "published_at": "2026-10-30T15:12:06+00:00",
       "category": "Médias & communication",
@@ -1432,7 +1465,7 @@
       "title": "Mobilisations en France : le risque de\"troubles\" très élevé d'après Laurent Nuñez",
       "summary": "En France, des couvre-feu sont mis en place à Paris avant la mobilisation contre la vie chère de samedi 31 octobre partout dans le pays. Le gouvernement dit redouter des violences déployant ainsi 70 000 membres des forces de l’ordre sur tout le territoire. À Bordeaux, certains commerçants sont inquiets, car le cortège passera en centre-ville.",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-mobilisations-en-france-le-risque-de-troubles-tr%C3%A8s-%C3%A9lev%C3%A9-d-apr%C3%A8s-laurent-nu%C3%B1ez",
       "published_at": "2026-10-30T15:07:10+00:00",
       "category": "Politique",
@@ -1553,7 +1586,7 @@
       "title": "Guerre en Ukraine : des opérations d'évacuation humanitaires à Olechky en pleine trêve",
       "summary": "L'évacuation des derniers habitants d'Olechky, ville ⁠du sud de ​l'Ukraine contrôlée par l'armée russe, a débuté vendredi 30 octobre. De la nourriture et des médicaments ont été acheminés dans la ville à la faveur d'un cessez-le-feu. Le président du groupe parlementaire de Volodimir Zelensky, a déclaré que la trêve négociée par Washington entrée en…",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-guerre-en-ukraine-des-op%C3%A9rations-d-%C3%A9vacuation-humanitaires-%C3%A0-olechky-en-pleine-tr%C3%AAve",
       "published_at": "2026-10-30T14:59:21+00:00",
       "category": "Politique",
@@ -1630,7 +1663,7 @@
       "title": "Salvador : envoi de 2 000 militaires en Haïti pour une opération sauvetage",
       "summary": "La disparition le 18 octobre de quatre soldats, membres de la Force de répression des gangs (FRG) liée à une attaque de gangs en Haïti a conduit le Salvador a envoyé au moins 2 000 militaires sur place. L'ampleur de ce déploiement semble montrer qu'il s'agit d'une mission bien plus vaste que le sauvetage des militaires disparus. L'arrivée rapide, massive…",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-salvador-envoi-de-2-000-militaires-en-ha%C3%AFti-pour-une-op%C3%A9ration-sauvetage",
       "published_at": "2026-10-30T14:54:16+00:00",
       "category": "Société",
@@ -1663,7 +1696,7 @@
       "title": "Réseaux sociaux : quatre conseils pour repérer les faux comptes",
       "summary": "📲🤖 Alors que les faux comptes inondent les réseaux sociaux, comment repérer les bots, ces comptes automatisés qui diffusent de la désinformation ou des arnaques ? Justas Pukys, expert en cybersécurité, nous donne quelques conseils. 🔗 Cette vidéo a été réalisée dans le cadre du projet européen CLIC, qui a pour objectif de lutter contre la propagation de…",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 15,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-r%C3%A9seaux-sociaux-quatre-conseils-pour-rep%C3%A9rer-les-faux-comptes",
       "published_at": "2026-10-30T14:49:18+00:00",
       "category": "Médias & communication",
@@ -1751,7 +1784,7 @@
       "title": "Afrique du sud : À Durban, les étrangers toujours sous la menace des violence xénophobes",
       "summary": "🇿🇦 Afrique du Sud, face à la montée des violences xénophobes, après la mort d'un étranger battu la semaine dernière, le gouvernement décide de prendre des mesures. Le ministre de la Police a obtenu ce jeudi une ordonnance judiciaire provisoire interdisant aux mouvements anti-immigrés d'organiser des manifestations dans la municipalité de Durban, où les…",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 16,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-afrique-du-sud-%C3%A0-durban-les-%C3%A9trangers-toujours-sous-la-menace-des-violence-x%C3%A9nophobes",
       "published_at": "2026-10-30T14:41:05+00:00",
       "category": "Politique",
@@ -1828,7 +1861,7 @@
       "title": "Midterms : une bataille pour le vote des femmes",
       "summary": "Quel sera le choix des femmes lors des élections de mi-mandat aux États-Unis ? Donald Trump ne cesse de détricoter les droits des femmes : en s’attaquant à l'avortement, puis en soutenant des mesures qui pourraient limiter le nombre d'électrices. Le documentariste Brice Lambert, auteur du film \"Sexe faible : l’Amérique en guerre contre ses femmes\", qui a…",
       "source": "France 24",
-      "feed_rank": 14,
+      "feed_rank": 17,
       "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261030-elections-mi-mandat-bataille-droits-femmes-etats-unis-avortement",
       "published_at": "2026-10-30T14:32:53+00:00",
       "category": "Politique",
@@ -2004,7 +2037,7 @@
       "title": "États-Unis : les data centers, enjeu de campagne des midterms",
       "summary": "Ils sont le symbole de la révolution de l’intelligence artificielle, mais leur implantation suscite une colère grandissante aux États-Unis. En Géorgie, près d’Atlanta, des habitants se mobilisent contre un gigantesque projet de data center, inquiets pour leur cadre de vie, les ressources en eau et le coût de l’électricité. À l’approche des élections de…",
       "source": "France 24",
-      "feed_rank": 15,
+      "feed_rank": 18,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-%C3%A9tats-unis-les-data-centers-enjeu-de-campagne-des-midterms",
       "published_at": "2026-10-30T14:15:49+00:00",
       "category": "Politique",
@@ -2103,7 +2136,7 @@
       "title": "France : grève des dockers pendant 24 heures, les ports à l'arrêt \"à 95%\"",
       "summary": "Les ports français et européens seront perturbés vendredi 30 octobre par une grève de 24 heures des dockers, à l'appel de la Fédération nationale des ports et docks CGT, qui représente près de 90% des salariés du secteur. La consigne est de n'avoir aucun chargement ni déchargement. Une grève d'ampleur internationale puisque 22 pays européens ont prévu…",
       "source": "France 24",
-      "feed_rank": 16,
+      "feed_rank": 19,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-france-gr%C3%A8ve-des-dockers-pendant-24-heures-les-ports-%C3%A0-l-arr%C3%AAt-%C3%A0-95",
       "published_at": "2026-10-30T14:02:20+00:00",
       "category": "Société",
@@ -2174,39 +2207,6 @@
       "published_at": "2026-10-30T14:00:00+00:00",
       "category": "Économie",
       "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Le froid s’installe ? Amazon réduit de 24 % le prix de ce puissant radiateur Aigostar » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
-    },
-    {
-      "id": "7222fafd6195",
-      "title": "Vingt ans après son rapport sur le coût du changement climatique, Nicholas Stern continue de croire à la croissance verte",
-      "summary": "Investissements privés, nucléaire, fin des énergies fossiles : l'économiste Nicholas Stern continue de croire au pouvoir salvateur de la croissance en dépit des limites matérielles, vingt ans après son rapport sur le climat. Il fut l'un des premiers à traduire le dérèglement climatique en monnaie sonnante et trébuchante ou plutôt en novlangue apte à être…",
-      "source": "Reporterre",
-      "feed_rank": 2,
-      "url": "https://reporterre.net/Nicholas-Stern-sur-le-changement-climatique-Il-faut-une-refonte-de-l-economie",
-      "published_at": "2026-10-30T14:00:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Vingt ans après son rapport sur le coût du changement climatique, Nicholas Stern continue de croire à la croissance verte »."
-    },
-    {
-      "id": "b86238529f10",
-      "title": "Ukraine : une opération humanitaire lancée dans la ville occupée d'Olechky",
-      "summary": "Après des années d'occupation russe, les habitants d'Olechky peuvent enfin recevoir une aide humanitaire ou tenter de quitter la ville. Mais rien ne garantit que ceux qui souhaitent être évacués pourront rejoindre les territoires contrôlés par Kyiv.",
-      "source": "Euronews",
-      "feed_rank": 7,
-      "url": "https://fr.euronews.com/2026/10/30/ukraine-une-operation-humanitaire-lancee-dans-la-ville-occupee-dolechky",
-      "published_at": "2026-10-30T13:59:37+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Ukraine : une opération humanitaire lancée dans la ville occupée d'Olechky »."
-    },
-    {
-      "id": "81c3f0b1d535",
-      "title": "Israël : une infographie pour visualiser la nouvelle Knesset sans majorité",
-      "summary": "Avec 53 sièges pour le bloc autour de Benyamin Nétanyahou, 48 pour l’opposition autour de Gadi Eisenkot et 19 pour les partis arabes, aucune majorité ne se dégage naturellement de la Knesset, comme le montrent les résultats finals. À moins de sortir de la logique des blocs.",
-      "source": "Courrier International",
-      "feed_rank": 11,
-      "url": "https://www.courrierinternational.com/grand-format/politique-israel-une-infographie-pour-visualiser-la-nouvelle-knesset-sans-majorite_283443",
-      "published_at": "2026-10-30T13:58:40+00:00",
-      "category": "International",
-      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Israël : une infographie pour visualiser la nouvelle Knesset sans majorité » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer."
     }
   ]
 }
