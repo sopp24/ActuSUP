@@ -1,6 +1,12 @@
 name: Surveiller l’actualisation ActuSUP
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-news.yml"
+      - ".github/workflows/watchdog-news.yml"
   schedule:
     # Vérifie toutes les dix minutes que le collecteur a bien fonctionné récemment.
     - cron: "*/10 * * * *"
