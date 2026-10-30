@@ -74,7 +74,18 @@ CATEGORY_RULES = [
 # pas à de simples sous-chaînes (ex. « loi » ne doit pas classer « emploi » en politique).
 def normalize_keyword_text(value: str) -> str:
     normalized = unicodedata.normalize("NFKD", str(value or "")).encode("ascii", "ignore").decode("ascii").lower()
-    return re.sub(r"[^a-z0-9]+", " ", normalized).strip()
+    tokens = re.sub(r"[^a-z0-9]+", " ", normalized).split()
+    # Réduire quelques pluriels français réguliers sans confondre des sous-chaînes.
+    singularized = []
+    for token in tokens:
+        if len(token) > 5 and token.endswith("eaux"):
+            token = token[:-1]  # bureaux → bureau, nouveaux → nouveau
+        elif len(token) > 4 and token.endswith("aux"):
+            token = token[:-3] + "al"  # sociaux → social, nationaux → national
+        elif len(token) > 4 and token.endswith("s"):
+            token = token[:-1]
+        singularized.append(token)
+    return " ".join(singularized)
 
 NORMALIZED_CATEGORY_RULES = tuple(
     (category, tuple(normalize_keyword_text(keyword) for keyword in keywords))

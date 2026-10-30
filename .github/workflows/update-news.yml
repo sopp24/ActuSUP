@@ -56,6 +56,9 @@ jobs:
               ("Les emplois progressent dans plusieurs secteurs", "Économie"),
               ("Le réseau de transport public évolue", "Société"),
               ("Le vote de la loi est attendu au Parlement", "Politique"),
+              ("Plusieurs journalistes couvrent les manifestations", "Médias & communication"),
+              ("Des inondations touchent plusieurs territoires", "Environnement"),
+              ("Les scientifiques publient leurs résultats", "Sciences & tech"),
           ]
           for sample, expected in checks:
               actual = categorize(sample)
