@@ -11,7 +11,7 @@ on:
 
   # Vérification de secours indépendante de la fin du collecteur.
   schedule:
-    - cron: "7,17,27,37,47,57 * * * *"
+    - cron: "7,27,47 * * * *"
 
   # Réagir à la fin d’une collecte et relancer uniquement les échecs.
   workflow_run:
