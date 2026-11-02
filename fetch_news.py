@@ -8,6 +8,7 @@ import time
 import html
 import math
 import unicodedata
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -19,7 +20,7 @@ import requests
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "data" / "news.json"
 MAX_PER_SOURCE = 25
-MAX_TOTAL = 160
+MAX_TOTAL = 300
 FEATURED_LIMIT = 20
 FEATURED_DAYS = 7
 TIMEOUT = 20
@@ -38,25 +39,47 @@ FEEDS = [
     {"name": "Actu.fr", "url": "https://actu.fr/rss.xml"},
     {"name": "Courrier International", "url": "https://www.courrierinternational.com/feed/all/rss.xml"},
     {"name": "Euronews", "url": "https://fr.euronews.com/rss"},
-    {"name": "La Croix – International", "url": "https://www.la-croix.com/feeds/rss/international.xml"},
+    {"name": "La Croix", "url": "https://www.la-croix.com/feeds/rss/site.xml"},
     {"name": "Libération", "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml"},
     {"name": "Les Échos", "url": "https://www.lesechos.fr/rss/rss_une.xml"},
     {"name": "Ouest-France", "url": "https://www.ouest-france.fr/rss-en-continu.xml"},
+    {"name": "L'Opinion", "url": "https://www.lopinion.fr/index.rss"},
+    {"name": "L'Humanité", "url": "https://www.humanite.fr/feed"},
+    {"name": "Sud Ouest", "url": "https://www.sudouest.fr/essentiel/rss.xml"},
+    {"name": "La Voix du Nord", "url": "https://www.lavoixdunord.fr/rss.xml"},
+    {"name": "Le Dauphiné Libéré", "url": "https://www.ledauphine.com/rss"},
+    {"name": "La Dépêche du Midi", "url": "https://www.ladepeche.fr/rss.xml"},
+    {"name": "Midi Libre", "url": "https://www.midilibre.fr/rss.xml"},
+    {"name": "Le Point", "url": "https://www.lepoint.fr/24h-infos/rss.xml"},
+    {"name": "L'Obs", "url": "https://www.nouvelobs.com/rss.xml"},
+    {"name": "L'Express", "url": "https://www.lexpress.fr/arc/outboundfeeds/rss/alaune.xml"},
+    {"name": "Le JDD", "url": "https://www.lejdd.fr/rss.xml"},
+    {"name": "Alternatives économiques", "url": "https://www.alternatives-economiques.fr/rss.xml"},
+    {"name": "Paris Match", "url": "https://www.parismatch.com/rss.xml"},
+    {"name": "Valeurs actuelles", "url": "https://www.valeursactuelles.com/feed?post_type=post"},
+    {"name": "TF1 Info (TF1 / LCI)", "url": "https://www.tf1info.fr/feeds/rss-une.xml"},
+    {"name": "CNews", "url": "https://www.cnews.fr/rss.xml"},
+    {"name": "France Info (Radio)", "url": "https://www.franceinfo.fr/titres.rss"},
+    {"name": "France Inter", "url": "https://www.radiofrance.fr/franceinter/rss"},
+    {"name": "RMC", "url": "https://rmc.bfmtv.com/rss/actualites/"},
+    {"name": "France Culture", "url": "https://www.radiofrance.fr/franceculture/rss"},
+    {"name": "Mediapart", "url": "https://www.mediapart.fr/articles/feed"},
+    {"name": "Konbini", "url": "https://www.konbini.com/fr/feed/"},
     {"name": "Public Sénat", "url": "https://www.publicsenat.fr/rss"},
     {"name": "LCP", "url": "https://lcp.fr/rss.xml"},
-    
+
     # Presse et médias spécialisés : communication, publicité, médias et création
     {"name": "CB News", "url": "https://www.cbnews.fr/rss.xml"},
     {"name": "Creapills", "url": "https://creapills.com/feed"},
     {"name": "INA – La Revue des médias", "url": "https://larevuedesmedias.ina.fr/rss/all"},
-    
+
     # Presse spécialisée : numérique, sciences, environnement et culture
     {"name": "Next.ink", "url": "https://next.ink/feed/"},
     {"name": "Le Monde Informatique", "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml"},
     {"name": "Futura", "url": "https://www.futura-sciences.com/rss/actualites.xml"},
     {"name": "Reporterre", "url": "https://reporterre.net/spip.php?page=backend-simple"},
     {"name": "Télérama", "url": "https://www.telerama.fr/rss/latest-articles.xml"},
-]
+}
 
 CATEGORY_RULES = [
     ("Médias & communication", ["communication", "publicité", "publicitaire", "média", "medias", "journaliste", "journalisme", "réseaux sociaux", "influenceur", "influenceuse", "tiktok", "instagram", "youtube", "meta", "marketing", "marque", "audiovisuel", "désinformation", "fake news", "plateforme numérique"]),
@@ -205,27 +228,44 @@ def categorize(text: str) -> str:
     return "Société"
 
 def short_summary(entry) -> str:
+    """Retient l'extrait RSS le plus riche sans récupérer ni reproduire l'article complet."""
+    candidates = []
     for key in ("summary", "description"):
-        text = clean_text(entry.get(key, ""))
-        if text and len(text) > 35:
-            if len(text) > 360:
-                text = text[:357].rsplit(" ", 1)[0] + "…"
-            return text
-    return "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour."
+        value = clean_text(entry.get(key, ""))
+        if value:
+            candidates.append(value)
+    content_values = entry.get("content", []) or []
+    if isinstance(content_values, dict):
+        content_values = [content_values]
+    for item in content_values:
+        if isinstance(item, dict):
+            value = clean_text(item.get("value", ""))
+            if value:
+                candidates.append(value)
+    text = max(candidates, key=len) if candidates else ""
+    if len(text) > 360:
+        text = text[:357].rsplit(" ", 1)[0] + "…"
+    return text or "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour."
 
 # Mots fonctionnels et termes trop génériques pour rapprocher deux actualités.
 STORY_STOPWORDS = set("""
 a au aux avec ce ces dans de des du elle elles en et eux il ils je la le les leur leurs lui ma mais me meme memes mes moi mon ne nos notre nous on ou par pas pour qu que quelle quelles quel quels qui sa sans se ses si son sont sous sur ta te tes toi ton toutes tout tres tu un une vos votre vous cela cette cet donc apres avant aussi alors ainsi autour autre autres avoir etre fait font faire fois selon entre depuis pendant durant chez via vers ici encore quand comme plus moins peu peut peuvent doit doivent apres annonce annoncent annoncee annoncees question questions sujet sujets actualite actualites information informations derniere dernier aujourd hui lundi mardi mercredi jeudi vendredi samedi dimanche france francais francaise francaises francais monde national nationale nationales europe europeen europeenne grande grands grand nouvelles nouvelle nouveaux nouveau premier premiere premiers premieres plusieurs chaque tout toute toutes certains certaines notamment notamment deja serait seraient devrait pourraient etre ete faire faire leurs alors ainsi autant notamment contre autre autres alors bref video videos direct directes suivi suivent revenir revient voir voici voila apres suite cours jour jours semaine semaines lundi mardi mercredi jeudi vendredi samedi dimanche matin soir nuit heures heure parmi partie parties ville villes pays presse media medias source sources article articles selon apres depeche depêche ce lundi ce mardi francais francaise francaises franceinfo monde monde entier
 """.split())
 SOURCE_PRIORITY = {
-    "franceinfo": 9, "Le Monde": 9, "Le Figaro": 8,
-    "France 24": 8, "RFI": 8, "BFMTV": 7,
-    "Courrier International": 7, "Euronews": 7, "Libération": 7,
-    "Les Échos": 7, "20 Minutes": 6, "La Croix – International": 6,
-    "Ouest-France": 6, "Public Sénat": 6, "LCP": 6,
-    "Actu.fr": 5, "Next.ink": 5, "Le Monde Informatique": 5,
-    "Futura": 5, "Reporterre": 5, "Télérama": 5,
-    "CB News": 4, "Creapills": 4, "INA – La Revue des médias": 4,
+    "franceinfo": 9, "France Info (Radio)": 9, "Le Monde": 9, "Le Figaro": 8,
+    "Mediapart": 8, "TF1 Info (TF1 / LCI)": 8, "France 24": 8, "RFI": 8,
+    "BFMTV": 7, "CNews": 7, "L'Opinion": 7, "Libération": 7,
+    "Les Échos": 7, "Le Point": 7, "L'Express": 7, "L'Obs": 7,
+    "Sud Ouest": 7, "La Voix du Nord": 7, "Ouest-France": 7,
+    "Courrier International": 7, "Euronews": 7, "France Inter": 7,
+    "France Culture": 7, "RMC": 7, "L'Humanité": 6, "La Croix": 6,
+    "20 Minutes": 6, "Le Dauphiné Libéré": 6, "La Dépêche du Midi": 6,
+    "Midi Libre": 6, "Le JDD": 6, "Alternatives économiques": 6,
+    "Paris Match": 6, "Valeurs actuelles": 6, "Public Sénat": 6,
+    "LCP": 6, "Konbini": 5, "Actu.fr": 5, "Next.ink": 5,
+    "Le Monde Informatique": 5, "Futura": 5, "Reporterre": 5,
+    "Télérama": 5, "CB News": 4, "Creapills": 4,
+    "INA – La Revue des médias": 4,
 }
 
 def story_tokens(text: str) -> set[str]:
@@ -359,51 +399,187 @@ def build_featured_stories(articles: list[dict], now: datetime):
     distinct_sources = len({x.get("source") for x in recent if x.get("source")})
     return stories[:FEATURED_LIMIT], window_start, len(recent), distinct_sources
 
+def fetch_feed_articles(feed: dict):
+    """Récupère un flux indépendamment ; une source en panne n'arrête pas les autres."""
+    try:
+        response = requests.get(
+            feed["url"],
+            headers={"User-Agent": USER_AGENT},
+            timeout=TIMEOUT,
+        )
+        response.raise_for_status()
+        parsed = feedparser.parse(response.content)
+        if not parsed.entries:
+            return feed["name"], [], "flux vide ou format non reconnu"
+
+        collected = []
+        for feed_rank, entry in enumerate(parsed.entries, start=1):
+            if feed_rank > MAX_PER_SOURCE:
+                break
+            title = clean_text(entry.get("title", ""))
+            url = entry.get("link", "")
+            if not title or not url.startswith(("http://", "https://")):
+                continue
+            normalized_url = url.split("#", 1)[0].split("?", 1)[0].rstrip("/")
+            fingerprint = hashlib.sha256(
+                (title.lower() + "|" + normalized_url).encode()
+            ).hexdigest()
+            published = parse_date(entry)
+            raw_summary = clean_text(entry.get("summary", ""))
+            summary = short_summary(entry)
+            category = categorize(title + " " + raw_summary)
+            collected.append({
+                "id": fingerprint[:12],
+                "title": title[:240],
+                "summary": summary,
+                "source": feed["name"],
+                "feed_rank": feed_rank,
+                "url": url,
+                "published_at": published,
+                "category": category,
+                "communication_angle": communication_angle_for(title, summary, category),
+            })
+        return feed["name"], collected, None
+    except Exception as exc:
+        return feed["name"], [], f"{type(exc).__name__}: {exc}"
+
+
+def deduplicate_articles(articles: list[dict], max_age_hours: int = 72) -> list[dict]:
+    """Regroupe les articles qui relatent très probablement le même événement.
+
+    La détection est volontairement stricte pour ne pas fusionner deux actualités
+    simplement parce qu'elles concernent la même personnalité ou le même thème.
+    L'article avec l'extrait RSS le plus informatif devient la version affichée.
+    """
+    items = [dict(article) for article in articles if isinstance(article, dict)]
+    count = len(items)
+    if count < 2:
+        return items
+
+    parents = list(range(count))
+
+    def find(index):
+        while parents[index] != index:
+            parents[index] = parents[parents[index]]
+            index = parents[index]
+        return index
+
+    def union(a, b):
+        root_a, root_b = find(a), find(b)
+        if root_a != root_b:
+            parents[root_b] = root_a
+
+    def canonical_url(value):
+        return str(value or "").split("#", 1)[0].split("?", 1)[0].rstrip("/").lower()
+
+    def are_same_story(a, b):
+        date_a = parse_iso_datetime(a.get("published_at"))
+        date_b = parse_iso_datetime(b.get("published_at"))
+        if date_a and date_b and abs((date_a - date_b).total_seconds()) > max_age_hours * 3600:
+            return False
+
+        title_a = story_tokens(a.get("title", ""))
+        title_b = story_tokens(b.get("title", ""))
+        shared_title = title_a & title_b
+        title_union = title_a | title_b
+        title_containment = len(shared_title) / max(1, min(len(title_a), len(title_b)))
+        title_jaccard = len(shared_title) / max(1, len(title_union))
+        if len(shared_title) >= 2 and title_containment >= 0.72 and title_jaccard >= 0.34:
+            return True
+
+        all_a = story_tokens((a.get("title", "") + " " + a.get("summary", ""))[:900])
+        all_b = story_tokens((b.get("title", "") + " " + b.get("summary", ""))[:900])
+        shared_all = all_a & all_b
+        if len(shared_all) < 5 or not shared_title:
+            return False
+        containment = len(shared_all) / max(1, min(len(all_a), len(all_b)))
+        jaccard = len(shared_all) / max(1, len(all_a | all_b))
+        return containment >= 0.66 and jaccard >= 0.18
+
+    # Les URL strictement identiques sont rapprochées sans tenir compte des paramètres
+    # de suivi. Les autres comparaisons restent limitées à une fenêtre de 72 heures.
+    url_owner = {}
+    dated_indices = []
+    for index, item in enumerate(items):
+        url = canonical_url(item.get("url"))
+        if url:
+            if url in url_owner:
+                union(index, url_owner[url])
+            else:
+                url_owner[url] = index
+        published = parse_iso_datetime(item.get("published_at"))
+        dated_indices.append((published, index))
+
+    dated_indices.sort(key=lambda pair: pair[0] or datetime.min.replace(tzinfo=timezone.utc))
+    for position, (date_a, index_a) in enumerate(dated_indices):
+        for date_b, index_b in dated_indices[position + 1:]:
+            if date_a and date_b and (date_b - date_a).total_seconds() > max_age_hours * 3600:
+                break
+            if index_a == index_b:
+                continue
+            if are_same_story(items[index_a], items[index_b]):
+                union(index_a, index_b)
+
+    groups = {}
+    for index, item in enumerate(items):
+        groups.setdefault(find(index), []).append(item)
+
+    deduplicated = []
+    for group in groups.values():
+        sources = set()
+        for item in group:
+            source = str(item.get("source") or "").strip()
+            if source:
+                sources.add(source)
+            for previous_source in item.get("coverage_sources", []) or []:
+                if isinstance(previous_source, str) and previous_source.strip():
+                    sources.add(previous_source.strip())
+
+        def completeness(item):
+            summary = str(item.get("summary") or "")
+            title = str(item.get("title") or "")
+            informative_terms = len(story_tokens(summary))
+            source_score = SOURCE_PRIORITY.get(item.get("source", ""), 0)
+            published = parse_iso_datetime(item.get("published_at"))
+            freshness_score = published.timestamp() / 86400 if published else 0
+            return (
+                min(len(summary), 360)
+                + min(informative_terms, 55) * 1.5
+                + min(len(title), 180) * 0.12
+                + source_score * 1.5
+                + freshness_score * 0.01
+            )
+
+        representative = dict(max(group, key=completeness))
+        ordered_sources = sorted(
+            sources,
+            key=lambda name: (-SOURCE_PRIORITY.get(name, 0), name.casefold())
+        )
+        representative.update({
+            "coverage_sources": ordered_sources,
+            "coverage_count": len(ordered_sources),
+            "mention_count": len(group),
+        })
+        deduplicated.append(representative)
+
+    deduplicated.sort(
+        key=lambda item: item.get("published_at") or "",
+        reverse=True,
+    )
+    return deduplicated
+
+
 def main():
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    session = requests.Session()
-    session.headers.update({"User-Agent": USER_AGENT})
     articles, errors = [], []
-    seen = set()
-    for feed in FEEDS:
-        try:
-            response = session.get(feed["url"], timeout=TIMEOUT)
-            response.raise_for_status()
-            parsed = feedparser.parse(response.content)
-            if not parsed.entries:
-                errors.append(feed["name"])
-                continue
-            source_count = 0
-            for feed_rank, entry in enumerate(parsed.entries, start=1):
-                if feed_rank > MAX_PER_SOURCE:
-                    break
-                title = clean_text(entry.get("title", ""))
-                url = entry.get("link", "")
-                if not title or not url.startswith(("http://", "https://")):
-                    continue
-                fingerprint = hashlib.sha256((title.lower() + "|" + url.split("?")[0]).encode()).hexdigest()
-                if fingerprint in seen:
-                    continue
-                seen.add(fingerprint)
-                published = parse_date(entry)
-                category = categorize(title + " " + clean_text(entry.get("summary", "")))
-                articles.append({
-                    "id": fingerprint[:12],
-                    "title": title[:240],
-                    "summary": short_summary(entry),
-                    "source": feed["name"],
-                    "feed_rank": feed_rank,
-                    "url": url,
-                    "published_at": published,
-                    "category": category,
-                    "communication_angle": communication_angle_for(title, clean_text(entry.get("summary", "")), category),
-                })
-                source_count += 1
-                if source_count >= MAX_PER_SOURCE:
-                    break
-        except Exception as exc:
-            print(f"[WARN] Flux indisponible {feed['name']}: {type(exc).__name__}: {exc}")
-            errors.append(feed["name"])
+    # Les flux sont récupérés en parallèle pour que l'ajout de sources ne dépasse
+    # pas le délai maximal du workflow lorsque certains éditeurs répondent lentement.
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for source_name, feed_articles, error in executor.map(fetch_feed_articles, FEEDS):
+            articles.extend(feed_articles)
+            if error:
+                print(f"[WARN] Flux indisponible {source_name}: {error}")
+                errors.append(source_name)
 
     now_dt = datetime.now(timezone.utc)
     previous_data = {}
@@ -454,14 +630,19 @@ def main():
 
     articles.sort(key=lambda item: item.get("published_at") or "", reverse=True)
     all_fetched_articles = list(articles)
-    articles = articles[:MAX_TOTAL]
+    unique_articles = deduplicate_articles(all_fetched_articles)
+    articles = unique_articles[:MAX_TOTAL]
     now = now_dt.isoformat()
+    # Le baromètre continue d'examiner les articles de tous les médias, avant dédoublonnage,
+    # afin de mesurer correctement la couverture d'un même sujet par plusieurs rédactions.
     featured_news, window_start, featured_pool_count, featured_sources_count = build_featured_stories(all_fetched_articles, now_dt)
     data = {
         "last_updated": now,
         "last_attempt": now,
         "timezone": "UTC; affichage en heure de Paris dans le navigateur",
         "article_count": len(articles),
+        "raw_article_count": len(all_fetched_articles),
+        "unique_story_count": len(unique_articles),
         "sources_configured": len(FEEDS),
         "sources_with_errors": errors,
         "note": ("Certains flux n’ont pas répondu lors de cette collecte : " + ", ".join(errors) + ". La sélection peut donc être incomplète.") if errors else "",
