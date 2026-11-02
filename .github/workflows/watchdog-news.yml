@@ -6,7 +6,7 @@ on:
       - "Actualiser ActuSUP"
     types:
       - completed
-  workflow_dispatch
+  workflow_dispatch:
 
 permissions:
   actions: write
@@ -71,11 +71,6 @@ jobs:
               "${API}/actions/workflows/update-news.yml/dispatches"
             echo "Nouveau cycle demandé."
             exit 0
-          fi
-
-          # Le watchdog est décalé de cinq minutes après le collecteur.
-          if [ "${GITHUB_EVENT_NAME}" = "schedule" ]; then
-            sleep 30
           fi
 
           RUNS="$(curl --fail --silent --show-error \
