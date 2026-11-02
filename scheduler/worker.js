@@ -27,8 +27,9 @@ async function githubJson(url, token, init = {}) {
     throw new Error(`GitHub API ${response.status}: ${detail}`);
   }
 
-  if (response.status === 204) return null;
-  return response.json();
+  if (response.status === 204 || response.status === 202) return null;
+  const text = await response.text();
+  return text ? JSON.parse(text) : null;
 }
 
 async function ensureCollection(env, scheduledTime) {
@@ -47,37 +48,46 @@ async function ensureCollection(env, scheduledTime) {
     : [];
 
   // Ne jamais créer de doublon si une collecte est déjà en cours.
-  const activeRun = runs.find((run) =>
+  const activeRuns = runs.filter((run) =>
     run.status === "queued" || run.status === "in_progress"
   );
 
-  if (activeRun) {
+  const activeAges = activeRuns.map((run) => {
     const startedAt = Date.parse(
-      activeRun.run_started_at || activeRun.created_at || ""
+      run.run_started_at || run.created_at || ""
     );
-    const age = Number.isFinite(startedAt) ? now - startedAt : 0;
+    return {
+      run,
+      age: Number.isFinite(startedAt) ? now - startedAt : 0,
+    };
+  });
 
-    if (age <= STALE_RUN_MS) {
-      console.log(JSON.stringify({
-        action: "skip",
-        reason: "collection_already_active",
-        run_id: activeRun.id,
-        age_seconds: Math.max(0, Math.round(age / 1000)),
-        scheduled_at: new Date(scheduledTime).toISOString(),
-      }));
-      return;
-    }
-
+  const staleActive = activeAges.find(({ age }) => age > STALE_RUN_MS);
+  if (staleActive) {
     // Une exécution anormalement longue ne doit pas bloquer les cycles suivants.
-    await githubJson(`${API}/actions/runs/${activeRun.id}/cancel`, token, {
+    await githubJson(`${API}/actions/runs/${staleActive.run.id}/cancel`, token, {
       method: "POST",
     });
 
     console.warn(JSON.stringify({
       action: "cancel_stale_run",
-      run_id: activeRun.id,
-      age_seconds: Math.round(age / 1000),
+      run_id: staleActive.run.id,
+      age_seconds: Math.round(staleActive.age / 1000),
     }));
+  }
+
+  const freshActive = activeAges.find(({ run, age }) =>
+    run.id !== staleActive?.run.id && age <= STALE_RUN_MS
+  );
+  if (freshActive) {
+    console.log(JSON.stringify({
+      action: "skip",
+      reason: "collection_already_active",
+      run_id: freshActive.run.id,
+      age_seconds: Math.max(0, Math.round(freshActive.age / 1000)),
+      scheduled_at: new Date(scheduledTime).toISOString(),
+    }));
+    return;
   }
 
   // Si le cron natif GitHub vient de réussir, on le laisse faire :
