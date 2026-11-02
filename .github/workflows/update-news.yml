@@ -9,7 +9,7 @@ on:
       - "requirements.txt"
       - ".github/workflows/update-news.yml"
   schedule:
-    # Toutes les dix minutes, à des minutes décalées du début de chaque heure.
+    # Horloge native de secours ; le scheduler Cloudflare indépendant est documenté dans scheduler/.
     - cron: "2,12,22,32,42,52 * * * *"
   workflow_dispatch:
 
