@@ -37,7 +37,7 @@ Déploie ensuite le Worker :
 npx wrangler deploy
 ```
 
-Le fichier `wrangler.toml` configure automatiquement un déclenchement toutes les dix minutes (minutes 09, 19, 29, 39, 49 et 59, en UTC).
+Le fichier `wrangler.toml` configure automatiquement un déclenchement toutes les dix minutes (minutes 04, 14, 24, 34, 44 et 54, en UTC).
 
 ## 3. Comportement anti-doublon et récupération
 
