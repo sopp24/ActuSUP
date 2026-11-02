@@ -9,17 +9,18 @@ on:
       - "requirements.txt"
       - ".github/workflows/update-news.yml"
   schedule:
-    # Toutes les dix minutes ; GitHub peut retarder certaines exécutions programmées.
-    - cron: "*/10 * * * *"
+    # Toutes les dix minutes, en évitant le début de chaque heure.
+    - cron: "3,13,23,33,43,53 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
-# Une nouvelle exécution planifiée remplace une exécution anormalement bloquée.
+# Ne pas interrompre une collecte valide lorsqu’un nouveau déclencheur arrive.
+# La durée maximale et le watchdog gèrent les exécutions anormalement longues.
 concurrency:
   group: actusup-news-update
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
