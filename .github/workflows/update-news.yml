@@ -8,12 +8,10 @@ on:
       - "fetch_news.py"
       - "requirements.txt"
       - ".github/workflows/update-news.yml"
-  schedule:
-    # Horloge native de secours ; le scheduler Cloudflare indépendant est documenté dans scheduler/.
-    - cron: "2,12,22,32,42,52 * * * *"
   workflow_dispatch:
 
 permissions:
+  actions: write
   contents: write
 
 # Ne pas interrompre une collecte valide lorsqu’un nouveau déclencheur arrive.
@@ -26,7 +24,8 @@ jobs:
   update:
     name: Collecter les flux des médias
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    # Le job collecte, puis attend la fin du cycle de dix minutes avant de se relancer.
+    timeout-minutes: 15
     steps:
       # Aucun `uses:` ici : le dépôt est soumis à une politique qui bloque
       # les actions hébergées dans d’autres dépôts, y compris actions/checkout.
@@ -37,6 +36,7 @@ jobs:
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: |
           set -euo pipefail
+          START_EPOCH="$(date +%s)"
 
           # Authentifier Git via le jeton intégré du workflow sans l'inscrire dans l'URL du dépôt.
           TOKEN_B64="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w 0)"
@@ -92,5 +92,26 @@ jobs:
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
-          # Nettoyer le paramètre d'authentification du runner avant la fin du job.
+          # Nettoyer le paramètre d'authentification Git avant la suite.
           git config --global --unset-all http.https://github.com/.extraheader || true
+
+          # Auto-chaînage : la prochaine collecte est programmée dix minutes
+          # après le début de celle-ci. Cela ne dépend plus de l'événement cron.
+          ELAPSED="$(( $(date +%s) - START_EPOCH ))"
+          WAIT_SECONDS="$(( 600 - ELAPSED ))"
+          if [ "$WAIT_SECONDS" -gt 0 ]; then
+            echo "Prochaine collecte dans ${WAIT_SECONDS} secondes."
+            sleep "$WAIT_SECONDS"
+          else
+            echo "La collecte a dépassé dix minutes : relance immédiate."
+          fi
+
+          echo "Programmation de la prochaine collecte via workflow_dispatch."
+          curl --fail --silent --show-error -X POST \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -H "Content-Type: application/json" \
+            -d '{"ref":"main"}' \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/update-news.yml/dispatches"
+          echo "Prochaine collecte mise en file d'attente avec succès."
