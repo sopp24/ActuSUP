@@ -1,11 +1,25 @@
 name: Surveiller l’actualisation ActuSUP
 
 on:
+  # Tester automatiquement le watchdog lorsque l’un des workflows change.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-news.yml"
+      - ".github/workflows/watchdog-news.yml"
+
+  # Vérification de secours indépendante de la fin du collecteur.
+  schedule:
+    - cron: "7,17,27,37,47,57 * * * *"
+
+  # Réagir à la fin d’une collecte et relancer uniquement les échecs.
   workflow_run:
     workflows:
       - "Actualiser ActuSUP"
     types:
       - completed
+
   workflow_dispatch:
 
 permissions:
@@ -14,13 +28,13 @@ permissions:
 
 concurrency:
   group: actusup-news-watchdog
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   watchdog:
     name: Vérifier et relancer la collecte si nécessaire
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - name: Contrôler la dernière collecte et réparer automatiquement
         env:
@@ -34,38 +48,38 @@ jobs:
           set -euo pipefail
           API="https://api.github.com/repos/${GITHUB_REPOSITORY}"
 
-          # Relancer automatiquement un échec du collecteur, avec deux nouvelles tentatives maximum.
+          # Une collecte réussie ne nécessite aucune réparation.
           if [ "${GITHUB_EVENT_NAME}" = "workflow_run" ]; then
             if [ "${WORKFLOW_RUN_CONCLUSION}" = "success" ]; then
               echo "Collecte réussie : aucune réparation nécessaire."
               exit 0
             fi
 
+            # Ne pas recréer une relance lorsqu'une exécution a été annulée
+            # volontairement par le watchdog pendant sa détection d'un blocage.
             if [ "${WORKFLOW_RUN_CONCLUSION}" != "failure" ] \
-              && [ "${WORKFLOW_RUN_CONCLUSION}" != "timed_out" ] \
-              && [ "${WORKFLOW_RUN_CONCLUSION}" != "cancelled" ]; then
-              echo "Conclusion ${WORKFLOW_RUN_CONCLUSION} : aucune relance."
+              && [ "${WORKFLOW_RUN_CONCLUSION}" != "timed_out" ]; then
+              echo "Conclusion ${WORKFLOW_RUN_CONCLUSION} : aucune relance automatique."
               exit 0
             fi
 
             ATTEMPT="${WORKFLOW_RUN_ATTEMPT:-1}"
             if [ "${ATTEMPT}" -lt 3 ]; then
-              echo "Relance de la tentative ${ATTEMPT} du run ${WORKFLOW_RUN_ID} après ${WORKFLOW_RUN_CONCLUSION}."
+              echo "Relance de la tentative ${ATTEMPT} du run ${WORKFLOW_RUN_ID}."
               curl --fail --silent --show-error -X POST \
                 -H "Authorization: Bearer ${GH_TOKEN}" \
                 -H "Accept: application/vnd.github+json" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
                 "${API}/actions/runs/${WORKFLOW_RUN_ID}/rerun"
               echo "Nouvelle tentative demandée."
               exit 0
             fi
 
-            # Après trois échecs du même run, ouvrir un nouveau cycle indépendant
-            # plutôt que de laisser la chaîne automatique s'arrêter définitivement.
-            echo "Trois tentatives épuisées. Nouveau cycle dans cinq minutes."
-            sleep 300
+            echo "Trois tentatives épuisées : lancement d’un nouveau cycle."
             curl --fail --silent --show-error -X POST \
               -H "Authorization: Bearer ${GH_TOKEN}" \
               -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
               -H "Content-Type: application/json" \
               -d '{"ref":"main"}' \
               "${API}/actions/workflows/update-news.yml/dispatches"
@@ -73,9 +87,15 @@ jobs:
             exit 0
           fi
 
+          # Petit délai pour laisser le collecteur démarrer après le cron.
+          if [ "${GITHUB_EVENT_NAME}" = "schedule" ]; then
+            sleep 20
+          fi
+
           RUNS="$(curl --fail --silent --show-error \
             -H "Authorization: Bearer ${GH_TOKEN}" \
             -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
             "${API}/actions/workflows/update-news.yml/runs?branch=main&per_page=30")"
 
           LAST_SUCCESS="$(printf '%s' "${RUNS}" | jq -r \
@@ -84,16 +104,17 @@ jobs:
           NOW="$(date -u +%s)"
           if [ -n "${LAST_SUCCESS}" ]; then
             SUCCESS_TS="$(date -u -d "${LAST_SUCCESS}" +%s)"
-            AGE="$((NOW - SUCCESS_TS))"
-            if [ "${AGE}" -lt 900 ]; then
-              echo "Collecte récente réussie il y a ${AGE} secondes : aucune relance nécessaire."
+            SUCCESS_AGE="$((NOW - SUCCESS_TS))"
+            if [ "${SUCCESS_AGE}" -lt 1200 ]; then
+              echo "Dernière collecte réussie il y a ${SUCCESS_AGE} secondes : rien à réparer."
               exit 0
             fi
           else
-            AGE=999999
+            SUCCESS_AGE=999999
           fi
 
-          # Une exécution active depuis plus de neuf minutes est considérée comme bloquée.
+          # Le collecteur a un timeout de quinze minutes : au-delà de quatorze
+          # minutes, une exécution encore active est considérée comme bloquée.
           ACTIVE="$(printf '%s' "${RUNS}" | jq -c \
             '[.workflow_runs[] | select(.status == "in_progress" or .status == "queued")][0] // empty')"
 
@@ -102,21 +123,26 @@ jobs:
             ACTIVE_TIME="$(printf '%s' "${ACTIVE}" | jq -r '.run_started_at // .created_at')"
             ACTIVE_TS="$(date -u -d "${ACTIVE_TIME}" +%s)"
             ACTIVE_AGE="$((NOW - ACTIVE_TS))"
-            if [ "${ACTIVE_AGE}" -lt 540 ]; then
-              echo "Le workflow principal est actif depuis ${ACTIVE_AGE} secondes : on le laisse terminer."
+
+            if [ "${ACTIVE_AGE}" -lt 840 ]; then
+              echo "Collecte active depuis ${ACTIVE_AGE} secondes : on la laisse terminer."
               exit 0
             fi
-            echo "L’exécution ${ACTIVE_ID} semble bloquée depuis ${ACTIVE_AGE} secondes : annulation puis relance."
+
+            echo "Collecte ${ACTIVE_ID} bloquée depuis ${ACTIVE_AGE} secondes : annulation."
             curl --fail --silent --show-error -X POST \
               -H "Authorization: Bearer ${GH_TOKEN}" \
               -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
               "${API}/actions/runs/${ACTIVE_ID}/cancel"
+            sleep 5
           fi
 
-          echo "Aucune collecte réussie récente (âge : ${AGE} secondes). Relance du workflow principal."
+          echo "Aucune collecte réussie depuis ${SUCCESS_AGE} secondes : relance du collecteur."
           curl --fail --silent --show-error -X POST \
             -H "Authorization: Bearer ${GH_TOKEN}" \
             -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
             -H "Content-Type: application/json" \
             -d '{"ref":"main"}' \
             "${API}/actions/workflows/update-news.yml/dispatches"
