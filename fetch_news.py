@@ -79,7 +79,7 @@ FEEDS = [
     {"name": "Futura", "url": "https://www.futura-sciences.com/rss/actualites.xml"},
     {"name": "Reporterre", "url": "https://reporterre.net/spip.php?page=backend-simple"},
     {"name": "Télérama", "url": "https://www.telerama.fr/rss/latest-articles.xml"},
-}
+]
 
 CATEGORY_RULES = [
     ("Médias & communication", ["communication", "publicité", "publicitaire", "média", "medias", "journaliste", "journalisme", "réseaux sociaux", "influenceur", "influenceuse", "tiktok", "instagram", "youtube", "meta", "marketing", "marque", "audiovisuel", "désinformation", "fake news", "plateforme numérique"]),
