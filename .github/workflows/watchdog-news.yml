@@ -8,8 +8,8 @@ on:
       - ".github/workflows/update-news.yml"
       - ".github/workflows/watchdog-news.yml"
   schedule:
-    # Cinq minutes après le collecteur, hors du début de chaque heure.
-    - cron: "8,18,28,38,48,58 * * * *"
+    # Cinq minutes après le collecteur, en évitant les minutes rondes.
+    - cron: "7,17,27,37,47,57 * * * *"
   workflow_run:
     workflows:
       - "Actualiser ActuSUP"
@@ -43,7 +43,7 @@ jobs:
           set -euo pipefail
           API="https://api.github.com/repos/${GITHUB_REPOSITORY}"
 
-          # Relancer automatiquement un échec du collecteur, au maximum une fois.
+          # Relancer automatiquement un échec du collecteur, avec deux nouvelles tentatives maximum.
           if [ "${GITHUB_EVENT_NAME}" = "workflow_run" ]; then
             if [ "${WORKFLOW_RUN_CONCLUSION}" = "success" ]; then
               echo "Collecte réussie : aucune réparation nécessaire."
@@ -58,8 +58,8 @@ jobs:
             fi
 
             ATTEMPT="${WORKFLOW_RUN_ATTEMPT:-1}"
-            if [ "${ATTEMPT}" -ge 2 ]; then
-              echo "Tentative ${ATTEMPT} déjà relancée : arrêt pour éviter une boucle."
+            if [ "${ATTEMPT}" -ge 3 ]; then
+              echo "Trois tentatives déjà effectuées : arrêt pour éviter une boucle infinie."
               exit 0
             fi
 
