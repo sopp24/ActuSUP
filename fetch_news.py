@@ -29,7 +29,7 @@ USER_AGENT = "ActuSUP-NewsReader/1.0 (+https://github.com/; educational project)
 # Les URL de flux peuvent évoluer ; une source en erreur n'empêche pas les autres de fonctionner.
 FEEDS = [
     # Médias généralistes et information continue
-    {"name": "franceinfo", "url": "https://www.francetvinfo.fr/titres.rss"},
+    {"name": "Franceinfo (TV)", "url": "https://www.francetvinfo.fr/titres.rss"},
     {"name": "France 24", "url": "https://www.france24.com/fr/rss"},
     {"name": "RFI", "url": "https://www.rfi.fr/fr/rss"},
     {"name": "Le Monde", "url": "https://www.lemonde.fr/rss/une.xml"},
@@ -252,7 +252,7 @@ STORY_STOPWORDS = set("""
 a au aux avec ce ces dans de des du elle elles en et eux il ils je la le les leur leurs lui ma mais me meme memes mes moi mon ne nos notre nous on ou par pas pour qu que quelle quelles quel quels qui sa sans se ses si son sont sous sur ta te tes toi ton toutes tout tres tu un une vos votre vous cela cette cet donc apres avant aussi alors ainsi autour autre autres avoir etre fait font faire fois selon entre depuis pendant durant chez via vers ici encore quand comme plus moins peu peut peuvent doit doivent apres annonce annoncent annoncee annoncees question questions sujet sujets actualite actualites information informations derniere dernier aujourd hui lundi mardi mercredi jeudi vendredi samedi dimanche france francais francaise francaises francais monde national nationale nationales europe europeen europeenne grande grands grand nouvelles nouvelle nouveaux nouveau premier premiere premiers premieres plusieurs chaque tout toute toutes certains certaines notamment notamment deja serait seraient devrait pourraient etre ete faire faire leurs alors ainsi autant notamment contre autre autres alors bref video videos direct directes suivi suivent revenir revient voir voici voila apres suite cours jour jours semaine semaines lundi mardi mercredi jeudi vendredi samedi dimanche matin soir nuit heures heure parmi partie parties ville villes pays presse media medias source sources article articles selon apres depeche depêche ce lundi ce mardi francais francaise francaises franceinfo monde monde entier
 """.split())
 SOURCE_PRIORITY = {
-    "franceinfo": 9, "France Info (Radio)": 9, "Le Monde": 9, "Le Figaro": 8,
+    "Franceinfo (TV)": 9, "France Info (Radio)": 9, "Le Monde": 9, "Le Figaro": 8,
     "Mediapart": 8, "TF1 Info (TF1 / LCI)": 8, "France 24": 8, "RFI": 8,
     "BFMTV": 7, "CNews": 7, "L'Opinion": 7, "Libération": 7,
     "Les Échos": 7, "Le Point": 7, "L'Express": 7, "L'Obs": 7,
@@ -439,6 +439,8 @@ def fetch_feed_articles(feed: dict):
                 "category": category,
                 "communication_angle": communication_angle_for(title, summary, category),
             })
+        if not collected:
+            return feed["name"], [], "aucun article avec titre et lien exploitable"
         return feed["name"], collected, None
     except Exception as exc:
         return feed["name"], [], f"{type(exc).__name__}: {exc}"
@@ -535,19 +537,29 @@ def deduplicate_articles(articles: list[dict], max_age_hours: int = 72) -> list[
                 if isinstance(previous_source, str) and previous_source.strip():
                     sources.add(previous_source.strip())
 
+        dated_group = [
+            parsed for parsed in (parse_iso_datetime(item.get("published_at")) for item in group)
+            if parsed is not None
+        ]
+        newest_in_group = max(dated_group) if dated_group else None
+
         def completeness(item):
             summary = str(item.get("summary") or "")
             title = str(item.get("title") or "")
             informative_terms = len(story_tokens(summary))
             source_score = SOURCE_PRIORITY.get(item.get("source", ""), 0)
             published = parse_iso_datetime(item.get("published_at"))
-            freshness_score = published.timestamp() / 86400 if published else 0
+            age_hours = (
+                max(0.0, (newest_in_group - published).total_seconds() / 3600)
+                if newest_in_group and published else max_age_hours
+            )
+            freshness_score = max(0.0, 6.0 - min(age_hours, max_age_hours) / max_age_hours * 6.0)
             return (
                 min(len(summary), 360)
                 + min(informative_terms, 55) * 1.5
                 + min(len(title), 180) * 0.12
                 + source_score * 1.5
-                + freshness_score * 0.01
+                + freshness_score
             )
 
         representative = dict(max(group, key=completeness))
