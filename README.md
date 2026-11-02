@@ -8,7 +8,7 @@ Site statique responsive conçu pour GitHub Pages. Le site affiche des articles 
 - Résumé RSS, média d’origine, date et lien vers l’article.
 - Angle « Pourquoi c’est important en communication ».
 - Baromètre des 20 sujets les plus couverts sur les sept derniers jours.
-- Collecte programmée toutes les dix minutes via GitHub Actions, avec lancement manuel possible.
+- Collecte programmée toutes les dix minutes via GitHub Actions, avec un déclencheur externe Cloudflare Workers documenté dans `scheduler/README.md`.
 - Heure de la dernière collecte affichée en heure de Paris.
 - Icônes de site, de signet mobile et manifeste web.
 
@@ -24,11 +24,20 @@ Pour un dépôt `username.github.io`, l’adresse du site est généralement `ht
 
 ## Actualisation automatique
 
-Le workflow `.github/workflows/update-news.yml` tente une collecte toutes les dix minutes. GitHub peut retarder ou regrouper certaines exécutions programmées, notamment en période de forte charge. Une collecte est également lancée lorsqu’un changement est poussé sur `main` dans `fetch_news.py`, `requirements.txt` ou le workflow lui-même.
+La collecte cible une actualisation toutes les dix minutes.
 
-Le bouton **Actualiser** du site recharge le fichier de données déjà publié ; il ne lance pas de collecte RSS. Seule une exécution du workflow (programmée, déclenchée par une modification du collecteur ou lancée manuellement dans GitHub Actions) récupère de nouveaux articles.
+Deux mécanismes peuvent déclencher le même workflow Python :
 
-Le workflow utilise le `GITHUB_TOKEN` intégré et demande `contents: write` pour enregistrer le fichier `data/news.json` dans le dépôt. Dans **Settings → Actions → General → Workflow permissions**, il peut être nécessaire d’autoriser les permissions d’écriture si les paramètres du dépôt les restreignent. Aucune action externe `actions/checkout` ou `actions/setup-python` n’est utilisée.
+1. **GitHub Actions** conserve un cron natif toutes les dix minutes et un lancement manuel.
+2. **Cloudflare Workers** fournit une horloge indépendante de GitHub. Le code est présent dans `scheduler/`, mais il doit être déployé sur un compte Cloudflare et recevoir un secret GitHub `GITHUB_TOKEN` pour devenir opérationnel. Le guide complet est dans [scheduler/README.md](scheduler/README.md).
+
+Le Worker vérifie les dernières exécutions avant de déclencher la collecte : il évite les doublons si une collecte vient de réussir ou si un workflow est déjà en cours, et relance le processus si aucune collecte récente n'existe. Il annule également une exécution bloquée depuis plus de douze minutes.
+
+**Important :** ajouter le code du Worker au dépôt ne suffit pas à l'activer. Tant qu'il n'a pas été déployé sur Cloudflare et que son secret `GITHUB_TOKEN` n'a pas été configuré, seul le cron natif GitHub agit. GitHub documente que ses événements `schedule` peuvent être retardés ou abandonnés ; le déclencheur externe sert précisément à ne pas dépendre exclusivement de cette planification.
+
+Le bouton **Actualiser** du site recharge le fichier de données déjà publié ; il ne lance pas de collecte RSS. Seule une exécution du workflow récupère de nouveaux articles.
+
+Le workflow utilise le `GITHUB_TOKEN` intégré et demande `contents: write` pour enregistrer le fichier `data/news.json` dans le dépôt. Dans **Settings → Actions → General → Workflow permissions**, il peut être nécessaire d'autoriser les permissions d'écriture si les paramètres du dépôt les restreignent. Aucune action externe `actions/checkout` ou `actions/setup-python` n'est utilisée.
 
 Si tous les flux RSS sont indisponibles, les dernières données connues sont conservées. Si seuls certains flux échouent, les articles déjà récupérés de ces médias sont conservés pendant 30 jours, le temps que leur flux redevienne disponible. Les erreurs sont indiquées dans le fichier JSON et le site signale si la dernière collecte est ancienne.
 
@@ -69,7 +78,7 @@ L’agrégation RSS ne garantit pas qu’un sujet ait été traité simultanéme
 
 ## Dépannage
 
-- **Aucun article :** ouvre Actions, lance `Actualiser ActuSUP` et consulte les logs.
+- **Aucune actualisation automatique :** vérifie d'abord les logs du Worker Cloudflare (`scheduler/README.md`), puis l'historique GitHub Actions. Le cron GitHub seul ne garantit pas l'émission de chaque événement.
 - **Le workflow n’apparaît pas :** vérifie le chemin exact `.github/workflows/update-news.yml` sur la branche par défaut.
 - **Le push échoue pour manque de permission :** vérifie `Settings → Actions → General → Workflow permissions` et autorise l’accès en écriture au contenu si tu es autorisé à le faire.
 - **Une source est en erreur :** son flux a peut-être changé ou bloque les requêtes automatisées ; la collecte des autres sources continue et les derniers articles de la source en erreur sont temporairement conservés.
