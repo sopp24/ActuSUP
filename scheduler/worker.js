@@ -62,23 +62,21 @@ async function ensureCollection(env, scheduledTime) {
     };
   });
 
-  const staleActive = activeAges.find(({ age }) => age > STALE_RUN_MS);
-  if (staleActive) {
+  const staleRuns = activeAges.filter(({ age }) => age > STALE_RUN_MS);
+  for (const stale of staleRuns) {
     // Une exécution anormalement longue ne doit pas bloquer les cycles suivants.
-    await githubJson(`${API}/actions/runs/${staleActive.run.id}/cancel`, token, {
+    await githubJson(`${API}/actions/runs/${stale.run.id}/cancel`, token, {
       method: "POST",
     });
 
     console.warn(JSON.stringify({
       action: "cancel_stale_run",
-      run_id: staleActive.run.id,
-      age_seconds: Math.round(staleActive.age / 1000),
+      run_id: stale.run.id,
+      age_seconds: Math.round(stale.age / 1000),
     }));
   }
 
-  const freshActive = activeAges.find(({ run, age }) =>
-    run.id !== staleActive?.run.id && age <= STALE_RUN_MS
-  );
+  const freshActive = activeAges.find(({ age }) => age <= STALE_RUN_MS);
   if (freshActive) {
     console.log(JSON.stringify({
       action: "skip",
