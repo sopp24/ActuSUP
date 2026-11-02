@@ -1,21 +1,12 @@
 name: Surveiller l’actualisation ActuSUP
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/update-news.yml"
-      - ".github/workflows/watchdog-news.yml"
-  schedule:
-    # Cinq minutes après le collecteur, en évitant les minutes rondes.
-    - cron: "7,17,27,37,47,57 * * * *"
   workflow_run:
     workflows:
       - "Actualiser ActuSUP"
     types:
       - completed
-  workflow_dispatch:
+  workflow_dispatch
 
 permissions:
   actions: write
@@ -29,7 +20,7 @@ jobs:
   watchdog:
     name: Vérifier et relancer la collecte si nécessaire
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 10
     steps:
       - name: Contrôler la dernière collecte et réparer automatiquement
         env:
@@ -58,17 +49,27 @@ jobs:
             fi
 
             ATTEMPT="${WORKFLOW_RUN_ATTEMPT:-1}"
-            if [ "${ATTEMPT}" -ge 3 ]; then
-              echo "Trois tentatives déjà effectuées : arrêt pour éviter une boucle infinie."
+            if [ "${ATTEMPT}" -lt 3 ]; then
+              echo "Relance de la tentative ${ATTEMPT} du run ${WORKFLOW_RUN_ID} après ${WORKFLOW_RUN_CONCLUSION}."
+              curl --fail --silent --show-error -X POST \
+                -H "Authorization: Bearer ${GH_TOKEN}" \
+                -H "Accept: application/vnd.github+json" \
+                "${API}/actions/runs/${WORKFLOW_RUN_ID}/rerun"
+              echo "Nouvelle tentative demandée."
               exit 0
             fi
 
-            echo "Relance du run ${WORKFLOW_RUN_ID} après ${WORKFLOW_RUN_CONCLUSION}."
+            # Après trois échecs du même run, ouvrir un nouveau cycle indépendant
+            # plutôt que de laisser la chaîne automatique s'arrêter définitivement.
+            echo "Trois tentatives épuisées. Nouveau cycle dans cinq minutes."
+            sleep 300
             curl --fail --silent --show-error -X POST \
               -H "Authorization: Bearer ${GH_TOKEN}" \
               -H "Accept: application/vnd.github+json" \
-              "${API}/actions/runs/${WORKFLOW_RUN_ID}/rerun"
-            echo "Nouvelle tentative demandée."
+              -H "Content-Type: application/json" \
+              -d '{"ref":"main"}' \
+              "${API}/actions/workflows/update-news.yml/dispatches"
+            echo "Nouveau cycle demandé."
             exit 0
           fi
 
