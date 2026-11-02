@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T10:31:45.020400+00:00",
-  "last_attempt": "2026-11-02T10:31:45.020400+00:00",
+  "last_updated": "2026-11-02T10:33:35.519547+00:00",
+  "last_attempt": "2026-11-02T10:33:35.519547+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 902,
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-26T10:31:45.020400+00:00",
-  "featured_window_end": "2026-11-02T10:31:45.020400+00:00",
+  "featured_window_start": "2026-10-26T10:33:35.519547+00:00",
+  "featured_window_end": "2026-11-02T10:33:35.519547+00:00",
   "featured_pool_count": 891,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 7 jours",
@@ -31,7 +31,7 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Iran : le président Trump avertit devoir \"à un moment, donner un coup de massue\" à Téhéran ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Le Monde",
         "France 24",
         "Le Figaro",
@@ -64,23 +64,23 @@
         "Reporterre"
       ],
       "coverage_count": 32,
-      "mention_count": 145,
-      "importance_score": 35.011,
-      "latest_coverage_at": "2026-11-02T10:30:03+00:00"
+      "mention_count": 143,
+      "importance_score": 34.992,
+      "latest_coverage_at": "2026-11-02T10:30:48+00:00"
     },
     {
       "id": "3f1c45403199",
       "title": "Route du Rhum. Coup dur pour le Malouin Quentin Le Nabour, victime d’un démâtage moins de 24 h après le départ",
       "summary": "Cette Route du Rhum 2026 prend une très mauvaise tournure pour le Malouin Quentin Le Nabour. Le skipper du Class40 Bleu Blanc Planète Location a été victime d’un démâtage moins de 24 h après le départ. Il a mis le cap vers le port le plus proche pour réparer.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-coup-dur-pour-le-malouin-quentin-le-nabour-victime-dun-dematage-moins-de-24-h-apres-le-depart-c1513590-d6a3-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:25:56+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Route du Rhum. Coup dur pour le Malouin Quentin Le Nabour, victime d’un démâtage moins de 24 h après le départ » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Le Monde",
         "France 24",
         "RFI",
@@ -104,8 +104,8 @@
         "Paris Match"
       ],
       "coverage_count": 23,
-      "mention_count": 46,
-      "importance_score": 30.652,
+      "mention_count": 45,
+      "importance_score": 30.596,
       "latest_coverage_at": "2026-11-02T10:25:56+00:00"
     },
     {
@@ -120,7 +120,7 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Mélenchon refuse le 20h de TF1 qui lui répond: \"À peu de frais, il fait une opération politique\", analyse Consigny ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "France 24",
         "France Culture",
         "L'Obs",
@@ -133,12 +133,11 @@
         "LCP",
         "Le Dauphiné Libéré",
         "Le JDD",
-        "Midi Libre",
         "Télérama"
       ],
-      "coverage_count": 16,
-      "mention_count": 28,
-      "importance_score": 27.528,
+      "coverage_count": 15,
+      "mention_count": 27,
+      "importance_score": 27.085,
       "latest_coverage_at": "2026-11-02T10:30:00+00:00"
     },
     {
@@ -146,14 +145,14 @@
       "title": "Tirs, intervention du Raid, interpellation… Ce que l’on sait sur le pompier grièvement blessé par balle à Marseille",
       "summary": "Un sapeur-pompier a été grièvement blessé par balle en fin d’après-midi, dimanche 1er novembre aux Pennes-Mirabeau, près de Marseille (Bouches-du-Rhône). Il était en intervention sur un feu de véhicules. Le suspect, un homme connu pour des violences avec arme, a été interpellé par le Raid avant d’être placé en garde à vue. Un appel à des rassemblements…",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/societe/faits-divers/tirs-intervention-du-raid-interpellation-ce-que-lon-sait-sur-le-pompier-grievement-blesse-par-balle-a-marseille-c4622cd2-d692-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:00:03+00:00",
       "category": "Société",
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Tirs, intervention du Raid, interpellation… Ce que l’on sait sur le pompier grièvement blessé par balle à Marseille ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "BFMTV",
         "L'Obs",
         "Libération",
@@ -169,14 +168,14 @@
       ],
       "coverage_count": 14,
       "mention_count": 17,
-      "importance_score": 25.848,
+      "importance_score": 25.84,
       "latest_coverage_at": "2026-11-02T10:24:36+00:00"
     },
     {
       "id": "fca546ffe8fc",
       "title": "Le cofondateur de l’association Médecins Solidaires salue \"l'impact gigantesque\" de l'arrivée des \"docteurs juniors\" dans les territoires ruraux",
       "summary": "À partir de lundi, 3 000 \"docteurs juniors\" sont déployés dans les cabinets, maisons et centres de santé pour un an de stage, afin de compléter leur formation et à les encourager à s'installer dans les déserts médicaux.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 12,
       "url": "https://www.franceinfo.fr/sante/deserts-medicaux/le-cofondateur-de-l-association-medecins-solidaires-salue-l-impact-gigantesque-de-l-arrivee-des-docteurs-juniors-dans-les-territoires-ruraux_8263694.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T09:12:50+00:00",
@@ -184,7 +183,7 @@
       "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Le cofondateur de l’association Médecins Solidaires salue \"l'impact gigantesque\" de l'arrivée des \"docteurs juniors\" dans les territoires ruraux ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Le Monde",
         "TF1 Info (TF1 / LCI)",
         "L'Opinion",
@@ -195,7 +194,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 12,
-      "importance_score": 22.565,
+      "importance_score": 22.557,
       "latest_coverage_at": "2026-11-02T09:46:02+00:00"
     },
     {
@@ -203,14 +202,14 @@
       "title": "\"Jusqu'à 18 centimes par litre\" : le gouvernement assure que \"plus de la moitié des stations\" ont baissé le prix du diesel",
       "summary": "Ce lundi, le ministre du Commerce a assuré que \"plus de la moitié des stations ont baissé les prix de 12 à 18 centimes\" sur le carburant. Depuis le 1ᵉʳ novembre, des barils de diesel issus des stocks stratégiques sont vendus à prix coûtant aux distributeurs.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.tf1info.fr/economie/inflation-diesel-sans-plomb-95-98-jusqu-a-18-centimes-par-litre-le-gouvernement-assure-que-plus-de-la-moitie-des-stations-ont-baisse-le-prix-des-carburants-2473354.html",
       "published_at": "2026-11-02T10:04:38+00:00",
       "category": "Politique",
       "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « \"Jusqu'à 18 centimes par litre\" : le gouvernement assure que \"plus de la moitié des stations\" ont baissé le prix du diesel ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
         "RMC",
@@ -219,7 +218,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.645,
+      "importance_score": 20.627,
       "latest_coverage_at": "2026-11-02T10:04:38+00:00"
     },
     {
@@ -227,7 +226,7 @@
       "title": "Bulgarie : la prorusse Iliana Iotova remporte l'élection présidentielle",
       "summary": "Soutenue par l'ancien président bulgare Roumen Radev , un proche du Kremlin aujourd'hui Premier ministre, Iliana Iotova a remporté dimanche le second tour de l'élection présidentielle en Bulgarie , selon les résultats quasi définitifs publiés ce lundi 2 novembre par la Commission électorale centrale. Présidente par intérim depuis le mois de janvier, à la…",
       "source": "L'Express",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lexpress.fr/monde/europe/bulgarie-la-prorusse-iliana-iotova-remporte-lelection-presidentielle-57QQTGDT35FHJHQUYSE63TNA3Q/",
       "published_at": "2026-11-02T08:12:09+00:00",
       "category": "Politique",
@@ -243,7 +242,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.326,
+      "importance_score": 20.314,
       "latest_coverage_at": "2026-11-02T08:18:18+00:00"
     },
     {
@@ -258,7 +257,7 @@
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « \"Tsunami des montagnes\", pénuries d’eau douce et villes submergées : le rapport choc de l’ONU sur le franchissement du seuil de 1,5 °C ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Libération",
         "Sud Ouest",
         "La Croix",
@@ -267,14 +266,14 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.193,
+      "importance_score": 20.192,
       "latest_coverage_at": "2026-11-02T09:30:34+00:00"
     },
     {
       "id": "6747a3b655d9",
       "title": "Les autorités espagnoles recensent 12 victimes étrangères parmi les 69 personnes tuées dans l'accident ferroviaire d'Urda",
       "summary": "Selon un communiqué d'experts médico-légaux et de la police, 66 des 69 personnes qui ont perdu la vie ont désormais pu être identifiées, quatre jours après le drame.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 6,
       "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-autorites-espagnolrecensent-12-victimes-etrangeres-parmi-les-69-personnes-tuees-dans-l-accident-ferroviaire-d-urda_8263664.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T08:51:14+00:00",
@@ -282,7 +281,7 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Les autorités espagnoles recensent 12 victimes étrangères parmi les 69 personnes tuées dans l'accident ferroviaire d'Urda ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "CNews",
         "Sud Ouest",
         "20 Minutes",
@@ -290,14 +289,14 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.106,
+      "importance_score": 19.105,
       "latest_coverage_at": "2026-11-02T08:51:14+00:00"
     },
     {
       "id": "d14c76b1ed7b",
       "title": "Les femmes travailleront \"gratuitement\" à partir du 19 novembre, selon l'organisation féministe Les Glorieuses",
       "summary": "Si les femmes étaient payées au même taux horaire moyen que les hommes, elles auraient perçu, à cette date, l'équivalent de ce qu'elles gagnent actuellement en une année.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 8,
       "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/emploi-des-femmes/les-femmes-travailleront-gratuitement-a-partir-du-19-novembre-calcule-l-organisation-feministe-les-glorieuses_8263622.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T09:41:12+00:00",
@@ -305,7 +304,7 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les femmes travailleront \"gratuitement\" à partir du 19 novembre, selon l'organisation féministe Les Glorieuses » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Sud Ouest",
         "L'Humanité",
         "Le Dauphiné Libéré",
@@ -313,14 +312,14 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.024,
+      "importance_score": 19.008,
       "latest_coverage_at": "2026-11-02T09:41:12+00:00"
     },
     {
       "id": "efeab6ccfa32",
       "title": "Audiences \"hors normes\", nouvelles convocations... Ce qu'il faut savoir du procès en appel après les effondrements de la rue d'Aubagne",
       "summary": "Après un premier procès fin 2024 sur ce drame qui a fait 8 morts six ans plus tôt, une procédure en appel débute lundi 2 novembre. La problématique de l'habitat indigne à Marseille va à nouveau être décortiquée.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 10,
       "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/audiences-hors-normes-nouvelles-convocations-ce-qu-il-faut-savoir-du-proces-en-appel-apres-les-effondrements-de-la-rue-d-aubagne-3442467.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:22:36+00:00",
@@ -328,7 +327,7 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Audiences \"hors normes\", nouvelles convocations... Ce qu'il faut savoir du procès en appel après les effondrements de la rue d'Aubagne ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "CNews",
         "Libération",
         "Sud Ouest",
@@ -351,7 +350,7 @@
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Le cinéaste Michael Mann s’est accidentellement tiré dessus lors d’un entraînement ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Libération",
         "20 Minutes",
         "Midi Libre",
@@ -359,29 +358,29 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.829,
+      "importance_score": 18.821,
       "latest_coverage_at": "2026-11-02T10:00:55+00:00"
     },
     {
-      "id": "cf03822d533b",
-      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
-      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
-      "source": "France 24",
-      "feed_rank": 4,
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
-      "published_at": "2026-11-02T10:07:19+00:00",
-      "category": "Économie",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée ».",
+      "id": "e12fcb48137c",
+      "title": "\"On nous a enlevé un ange\": l'émotion du père de Pengo, tué à Trappes dans un attentat raciste",
+      "summary": "À la suite de l'attentat terroriste à caractère raciste perpétré le 23 octobre 2026 à Trappes et à La Verrière, qui a coûté la vie à Pengo Bossio Wangi, son père, Boléma Bossio Wangi, s'exprime lors d'une conférence de presse ce lundi 2 novembre.",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://www.bfmtv.com/police-justice/video-on-nous-a-enleve-un-ange-l-emotion-du-pere-de-pengo-tue-a-trappes-dans-un-attentat-raciste_VN-202611020439.html",
+      "published_at": "2026-11-02T10:28:49+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « \"On nous a enlevé un ange\": l'émotion du père de Pengo, tué à Trappes dans un attentat raciste ».",
       "coverage_sources": [
-        "Le Monde",
-        "France 24",
-        "L'Humanité",
-        "Le Dauphiné Libéré"
+        "TF1 Info (TF1 / LCI)",
+        "BFMTV",
+        "L'Opinion",
+        "Paris Match"
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.358,
-      "latest_coverage_at": "2026-11-02T10:07:19+00:00"
+      "importance_score": 16.224,
+      "latest_coverage_at": "2026-11-02T10:28:49+00:00"
     },
     {
       "id": "54159a21bba8",
@@ -421,7 +420,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 5,
-      "importance_score": 15.207,
+      "importance_score": 15.206,
       "latest_coverage_at": "2026-11-02T07:36:50+00:00"
     },
     {
@@ -441,8 +440,48 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.672,
+      "importance_score": 14.671,
       "latest_coverage_at": "2026-11-02T10:01:18+00:00"
+    },
+    {
+      "id": "cf03822d533b",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "source": "France 24",
+      "feed_rank": 4,
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "published_at": "2026-11-02T10:07:19+00:00",
+      "category": "Économie",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée ».",
+      "coverage_sources": [
+        "Le Monde",
+        "France 24",
+        "L'Humanité"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.657,
+      "latest_coverage_at": "2026-11-02T10:07:19+00:00"
+    },
+    {
+      "id": "0d51369aeb9a",
+      "title": "Israël annonce la fin de son opération militaire à Hébron, en Cisjordanie occupée",
+      "summary": "Quelque 3 000 Palestiniens avaient été déplacés vers la ville dans le cadre de cette vaste opération lancée après l’attaque qui a coûté la vie à deux soldats israéliens. D’après les responsables militaires israéliens, elle a permis de saisir « quatre armes et plusieurs gilets pare-balles ».",
+      "source": "Le Monde",
+      "feed_rank": 9,
+      "url": "https://www.lemonde.fr/international/article/2026/11/02/israel-annonce-la-fin-de-son-operation-militaire-a-hebron-en-cisjordanie-occupee_6805230_3210.html",
+      "published_at": "2026-11-02T10:11:21+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Israël annonce la fin de son opération militaire à Hébron, en Cisjordanie occupée ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.582,
+      "latest_coverage_at": "2026-11-02T10:11:21+00:00"
     },
     {
       "id": "104ce4bce460",
@@ -468,7 +507,7 @@
       "id": "51fbbf684655",
       "title": "Sophie Adenot de retour sur Terre : suivez sa première conférence de presse depuis la fin de son programme de réadaptation",
       "summary": "La Française a terminé son programme de remise en forme de trois semaines effectué au centre des astronautes européens, à Cologne (Allemagne).",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 5,
       "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-sophie-adenot-de-retour-sur-terre-suivez-sa-premiere-conference-de-presse-depuis-la-fin-de-son-programme-de-readaptation_8263655.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:27:00+00:00",
@@ -476,53 +515,13 @@
       "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Sophie Adenot de retour sur Terre : suivez sa première conférence de presse depuis la fin de son programme de réadaptation ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "CNews"
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.448,
+      "importance_score": 14.447,
       "latest_coverage_at": "2026-11-02T10:27:00+00:00"
-    },
-    {
-      "id": "c9b9d96937f7",
-      "title": "«CNews n’est pas une chaîne d’information» : une pétition réclamant la suppression du média d’extrême droite cartonne sur le site de l’Assemblée",
-      "summary": "Après avoir vivoté pendant des semaines, le texte a bénéficié d’une soudaine accélération à la fin du mois d’octobre, concomitamment à l’attentat raciste de Trappes, pour dépasser les 450 000 signatures, plus très loin des 500 000 nécessaires pour s’imposer en sujet de débat pour les députés.",
-      "source": "Libération",
-      "feed_rank": 15,
-      "url": "https://www.liberation.fr/economie/medias/cnews-nest-pas-une-chaine-dinformation-une-petition-reclamant-la-suppression-du-media-dextreme-droite-cartonne-sur-le-site-de-lassemblee-20261101_TMYHVXPZ75H6BM5G6OSMBX2HUM/",
-      "published_at": "2026-11-02T08:39:03+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « «CNews n’est pas une chaîne d’information» : une pétition réclamant la suppression du média d’extrême droite cartonne sur le site de l’Assemblée ».",
-      "coverage_sources": [
-        "L'Obs",
-        "Libération",
-        "LCP"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.426,
-      "latest_coverage_at": "2026-11-02T08:39:03+00:00"
-    },
-    {
-      "id": "8e57193a298f",
-      "title": "Incendie de Crans-Montana : nouvelle audition de Jacques Moretti, sans son épouse Jessica, absente en raison d’une «fragilité psychique»",
-      "summary": "Le propriétaire du bar Le Constellation, dont l’incendie a provoqué la mort de 41 personnes, est à nouveau entendu ce lundi par la justice suisse. Depuis l’été, Jacques Moretti est en détention provisoire pour violences conjugales.",
-      "source": "Libération",
-      "feed_rank": 8,
-      "url": "https://www.liberation.fr/international/europe/incendie-de-crans-montana-nouvelle-audition-de-jacques-moretti-sans-son-epouse-jessica-absente-en-raison-dune-fragilite-psychique-20261102_S5J5GYAH45GKRAH6VAP6EDWA5I/",
-      "published_at": "2026-11-02T09:53:36+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Incendie de Crans-Montana : nouvelle audition de Jacques Moretti, sans son épouse Jessica, absente en raison d’une «fragilité psychique» ».",
-      "coverage_sources": [
-        "Libération",
-        "Sud Ouest",
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.288,
-      "latest_coverage_at": "2026-11-02T09:53:36+00:00"
     }
   ],
   "articles": [
@@ -575,6 +574,70 @@
       "mention_count": 1
     },
     {
+      "id": "f7cd3c045b21",
+      "title": "La forme du CV compte autant que le fond : méfiez-vous de certaines erreurs qui peuvent être rédhibitoires pour un recruteur",
+      "summary": "Expérience professionnelle, formation, compétences… Le CV permet de se présenter à un futur employeur. Cette première approche s'avère souvent décisive et des erreurs d'orthographe peuvent se révéler rédhibitoires.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 1,
+      "url": "https://www.tf1info.fr/vie-pro/la-forme-du-cv-compte-autant-que-le-fond-mefiez-vous-de-certaines-erreurs-qui-peuvent-etre-redhibitoires-pour-un-recruteur-2410368.html",
+      "published_at": "2026-11-02T10:33:04+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « La forme du CV compte autant que le fond : méfiez-vous de certaines erreurs qui peuvent être rédhibitoires pour un recruteur ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3d7a62620c51",
+      "title": "L’équipe de France de rugby dévoile ses nouveaux maillots pour la saison 2026-2027",
+      "summary": "À cinq jours de son match face aux Fidji en Championnat des nations, qui sera suivie de la réception des champions du monde Sud-Africains, l’équipe de France de rugby a dévoilé ses nouvelles tuniques pour la saison 2026-2027. La teinte de bleu, notamment, a changé.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/lequipe-de-france-de-rugby-devoile-ses-nouveaux-maillots-pour-la-saison-2026-2027-626ed032-d6a3-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-02T10:32:14+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « L’équipe de France de rugby dévoile ses nouveaux maillots pour la saison 2026-2027 ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e7bcf9497289",
+      "title": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats, malgré un accueil hostile attendu",
+      "summary": "Pris à partie quasiment à chaque déplacement sur le terrain, le candidat Place publique se rendra à la manifestation des syndicats.",
+      "source": "Le Figaro",
+      "feed_rank": 13,
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/les-brutaux-ne-m-impressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-et-ne-se-laissera-pas-impressionner-par-un-accueil-hostile-20261102",
+      "published_at": "2026-11-02T10:32:04+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « «Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats, malgré un accueil hostile attendu ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e54bb3970e75",
+      "title": "Colère lycéenne : \"On est toujours dans une situation de peur, d'angoisse\", confie sur LCI la proviseure d'un établissement parisien",
+      "summary": "Plusieurs lycées sont bloqués ce lundi 2 novembre, jour de rentrée après les vacances de la Toussaint. La poursuite du mouvement inquiète les chefs d'établissement. La proviseure d'un lycée parisien témoigne sur LCI.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 2,
+      "url": "https://www.tf1info.fr/societe/video-colere-lyceenne-on-est-toujours-dans-une-situation-de-peur-d-angoisse-confie-sur-lci-la-proviseure-d-un-lycee-parisien-2473352.html",
+      "published_at": "2026-11-02T10:30:48+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Colère lycéenne : \"On est toujours dans une situation de peur, d'angoisse\", confie sur LCI la proviseure d'un établissement parisien ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "883a99d8664f",
       "title": "Trois semaines après la cyberattaque contre des supermarchés français, des distributeurs belges et suédois annoncent à leur tour des \"incidents informatiques\" affectant leurs réfrigérateurs",
       "summary": "Un magasin suédois a ainsi précisé sur les réseaux sociaux que la température de ses réfrigérateurs et congélateurs avait été réglée à 50 degrés Celsius, à l'instar du piratage des systèmes de réfrigération survenue en France.",
@@ -602,6 +665,22 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « EN DIRECT - Colère lycéenne : 41 établissements bloqués ce lundi matin, Édouard Geffray appelle les élèves à «aller en cours» » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "81a4831d4a77",
+      "title": "\"Un nouvel impôt injuste et économiquement destructeur\" : l'appel des entreprises du dispositif médical au gouvernement Lecornu",
+      "summary": "Nous, entreprises du dispositif médical, spécialisées notamment dans les implants cardiaques, les prothèses orthopédiques, les pansements ou encore le matériel de perfusion, représentantes d’un secteur composé à 95 % de PME, découvrons avec consternation le projet d’une nouvelle taxation dans le PLFSS 2027 . Présentée sans concertation préalable, cette…",
+      "source": "L'Express",
+      "feed_rank": 1,
+      "url": "https://www.lexpress.fr/economie/un-nouvel-impot-injuste-et-economiquement-destructeur-lappel-des-entreprises-du-dispositif-medical-UQM37IZUKNEA3AOTHVZ6XI3LMU/",
+      "published_at": "2026-11-02T10:30:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « \"Un nouvel impôt injuste et économiquement destructeur\" : l'appel des entreprises du dispositif médical au gouvernement Lecornu ».",
+      "coverage_sources": [
+        "L'Express"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -643,13 +722,29 @@
       "title": "Seine-Saint-Denis : un homme de 24 ans abattu dans une voiture en pleine rue, une enquête ouverte",
       "summary": "Un homme âgé de 24 ans a été tué dimanche soir à Tremblay-en-France. La victime a été atteinte par plusieurs balles, dont plusieurs dans la tête. Une enquête a été ouverte par le parquet de Bobigny.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.tf1info.fr/justice-faits-divers/seine-saint-denis-un-homme-de-24-ans-abattu-dans-une-voiture-en-pleine-rue-une-enquete-ouverte-2473351.html",
       "published_at": "2026-11-02T10:28:51+00:00",
       "category": "Société",
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Seine-Saint-Denis : un homme de 24 ans abattu dans une voiture en pleine rue, une enquête ouverte ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e12fcb48137c",
+      "title": "\"On nous a enlevé un ange\": l'émotion du père de Pengo, tué à Trappes dans un attentat raciste",
+      "summary": "À la suite de l'attentat terroriste à caractère raciste perpétré le 23 octobre 2026 à Trappes et à La Verrière, qui a coûté la vie à Pengo Bossio Wangi, son père, Boléma Bossio Wangi, s'exprime lors d'une conférence de presse ce lundi 2 novembre.",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://www.bfmtv.com/police-justice/video-on-nous-a-enleve-un-ange-l-emotion-du-pere-de-pengo-tue-a-trappes-dans-un-attentat-raciste_VN-202611020439.html",
+      "published_at": "2026-11-02T10:28:49+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « \"On nous a enlevé un ange\": l'émotion du père de Pengo, tué à Trappes dans un attentat raciste ».",
+      "coverage_sources": [
+        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -687,27 +782,11 @@
       "mention_count": 1
     },
     {
-      "id": "f1c0429f5e02",
-      "title": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats et ne se laissera pas impressionner par un accueil hostile",
-      "summary": "Pris à partie quasiment à chaque déplacement sur le terrain, le candidat Place publique se rendra à la manifestation des syndicats.",
-      "source": "Le Figaro",
-      "feed_rank": 13,
-      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/les-brutaux-ne-m-impressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-et-ne-se-laissera-pas-impressionner-par-un-accueil-hostile-20261102",
-      "published_at": "2026-11-02T10:27:41+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « «Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats et ne se laissera pas impressionner par un accueil hos ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "da2d36ff29a1",
       "title": "Un dessinateur condamné à quatre ans de prison au Maroc pour avoir caricaturé le roi Mohammed VI",
       "summary": "Yasser Mounbir a été arrêté en juin après avoir dessiné et posté sur son compte Instagram des caricatures du roi du Maroc. La justice marocaine l’a reconnu coupable “d’insulte à l’encontre du roi” et d'\"insulte envers des agents de la fonction publique\".",
       "source": "BFMTV",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.bfmtv.com/international/afrique/maroc/video-un-dessinateur-condamne-a-quatre-ans-de-prison-au-maroc-pour-avoir-caricature-le-roi-mohammed-vi_VN-202611020436.html",
       "published_at": "2026-11-02T10:27:25+00:00",
       "category": "Médias & communication",
@@ -723,7 +802,7 @@
       "title": "\"Se rapprocher au maximum de la vérité\": deux hommes jugés pour un féminicide en Essonne en 2023",
       "summary": "Un homme est jugé à partir de lundi 2 novembre avec son complice par la cour d'assises d'Evry (Essonne) pour un féminicide commis en juillet 2023 à Grigny.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.bfmtv.com/police-justice/se-rapprocher-au-maximum-de-la-verite-deux-hommes-juges-pour-un-feminicide-en-essonne-en-2023_AD-202611020435.html",
       "published_at": "2026-11-02T10:27:13+00:00",
       "category": "Société",
@@ -754,7 +833,7 @@
       "id": "51fbbf684655",
       "title": "Sophie Adenot de retour sur Terre : suivez sa première conférence de presse depuis la fin de son programme de réadaptation",
       "summary": "La Française a terminé son programme de remise en forme de trois semaines effectué au centre des astronautes européens, à Cologne (Allemagne).",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 5,
       "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-sophie-adenot-de-retour-sur-terre-suivez-sa-premiere-conference-de-presse-depuis-la-fin-de-son-programme-de-readaptation_8263655.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:27:00+00:00",
@@ -762,7 +841,7 @@
       "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Sophie Adenot de retour sur Terre : suivez sa première conférence de presse depuis la fin de son programme de réadaptation ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -788,7 +867,7 @@
       "title": "Route du Rhum. Coup dur pour le Malouin Quentin Le Nabour, victime d’un démâtage moins de 24 h après le départ",
       "summary": "Cette Route du Rhum 2026 prend une très mauvaise tournure pour le Malouin Quentin Le Nabour. Le skipper du Class40 Bleu Blanc Planète Location a été victime d’un démâtage moins de 24 h après le départ. Il a mis le cap vers le port le plus proche pour réparer.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-coup-dur-pour-le-malouin-quentin-le-nabour-victime-dun-dematage-moins-de-24-h-apres-le-depart-c1513590-d6a3-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:25:56+00:00",
       "category": "Société",
@@ -867,7 +946,7 @@
       "id": "8598707ee26f",
       "title": "\"Tant que nos dix revendications n'auront pas été écoutées, on ne s'arrêtera pas\", assure l'Union syndicale lycéenne à propos des mobilisations",
       "summary": "Depuis la rentrée scolaire lundi, \"plusieurs dizaines de lycées bloqués\" ont été comptés selon Marius Mesnil, co-secrétaire général de l'Union syndicale lycéenne (USL).",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 25,
       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tant-que-nos-dix-revendications-n-auront-pas-ete-ecoutees-on-ne-s-arretera-pas-assure-l-union-syndicale-lyceenne-a-propos-des-mobilisations_8263778.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:23:43+00:00",
@@ -875,7 +954,7 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « \"Tant que nos dix revendications n'auront pas été écoutées, on ne s'arrêtera pas\", assure l'Union syndicale lycéenne à propos des mobilisations ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -916,7 +995,7 @@
       "id": "efeab6ccfa32",
       "title": "Audiences \"hors normes\", nouvelles convocations... Ce qu'il faut savoir du procès en appel après les effondrements de la rue d'Aubagne",
       "summary": "Après un premier procès fin 2024 sur ce drame qui a fait 8 morts six ans plus tôt, une procédure en appel débute lundi 2 novembre. La problématique de l'habitat indigne à Marseille va à nouveau être décortiquée.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 10,
       "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/audiences-hors-normes-nouvelles-convocations-ce-qu-il-faut-savoir-du-proces-en-appel-apres-les-effondrements-de-la-rue-d-aubagne-3442467.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:22:36+00:00",
@@ -924,7 +1003,7 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Audiences \"hors normes\", nouvelles convocations... Ce qu'il faut savoir du procès en appel après les effondrements de la rue d'Aubagne ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -950,7 +1029,7 @@
       "title": "Une voiture sans permis avec cinq mineurs à bord se retourne près de Nice, un adolescent décède d’un traumatisme crânien",
       "summary": "Une voiture sans permis a eu un accident samedi 24 octobre à Mougins (Alpes-Maritimes), près de Nice. Le véhicule a basculé en tournant, alors que cinq mineurs de 15 à 17 ans étaient à bord. Grièvement blessé, l’un des adolescents a finalement succombé à ses blessures quelques jours plus tard.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/faits-divers/accidents/une-voiture-sans-permis-avec-cinq-mineurs-a-bord-se-retourne-pres-de-nice-un-adolescent-decede-dun-traumatisme-cranien-6c9a6034-d6a4-11f1-bce4-49c6ba196371?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:20:42+00:00",
       "category": "Société",
@@ -1030,7 +1109,7 @@
       "title": "TOP Info du 2 novembre 2026",
       "summary": "Découvrez TOP INFO, le nouveau JT quotidien pensé pour les jeunes adultes. Chaque édition s'ouvrira sur trois temps forts de l'actualité, avant de se poursuivre avec un sujet de fond, incarné par de jeunes journalistes, pour approfondir une thématique. Une fois par semaine, cette séquence mettra l'accent sur la lutte contre la désinformation et…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/culture/videos/video-top-info-du-2-novembre-2026-2473191.html",
       "published_at": "2026-11-02T10:15:34+00:00",
       "category": "Médias & communication",
@@ -1093,7 +1172,7 @@
       "id": "7135d6bb601b",
       "title": "Blocages des lycées et des universités, grève du 5 novembre, manifestations de gilets jaunes… Quelles sont les mobilisations prévues cette semaine ?",
       "summary": "La semaine doit être marquée par la grande journée de grève et de manifestations prévue jeudi à l'appel des syndicats, et un nouveau samedi de mobilisation.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 1,
       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocages-des-lycees-et-des-universites-greve-du-5-novembre-manifestations-de-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine_8263529.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:14:28+00:00",
@@ -1101,7 +1180,7 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Blocages des lycées et des universités, grève du 5 novembre, manifestations de gilets jaunes… Quelles sont les mobilisations prévues cette semaine ? ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -1111,7 +1190,7 @@
       "title": "La liaison maritime entre Royan et Le Verdon-sur-Mer interrompue pendant six semaines pour les véhicules",
       "summary": "Les deux pontons d'embarquement et le bateau assurant la traversée de l'estuaire de la Gironde font l'objet de travaux d'entretien à compter du lundi 2 novembre. Une liaison de remplacement a été mise en place pour les piétons.",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.bfmtv.com/societe/la-liaison-maritime-entre-royan-et-le-verdon-sur-mer-interrompue-pendant-six-semaines-pour-les-vehicules_AN-202611020427.html",
       "published_at": "2026-11-02T10:14:00+00:00",
       "category": "Société",
@@ -1220,6 +1299,22 @@
       "mention_count": 1
     },
     {
+      "id": "0d51369aeb9a",
+      "title": "Israël annonce la fin de son opération militaire à Hébron, en Cisjordanie occupée",
+      "summary": "Quelque 3 000 Palestiniens avaient été déplacés vers la ville dans le cadre de cette vaste opération lancée après l’attaque qui a coûté la vie à deux soldats israéliens. D’après les responsables militaires israéliens, elle a permis de saisir « quatre armes et plusieurs gilets pare-balles ».",
+      "source": "Le Monde",
+      "feed_rank": 9,
+      "url": "https://www.lemonde.fr/international/article/2026/11/02/israel-annonce-la-fin-de-son-operation-militaire-a-hebron-en-cisjordanie-occupee_6805230_3210.html",
+      "published_at": "2026-11-02T10:11:21+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Israël annonce la fin de son opération militaire à Hébron, en Cisjordanie occupée ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "322279db1614",
       "title": "Iran : le président Trump avertit devoir \"à un moment, donner un coup de massue\" à Téhéran",
       "summary": "L'Iran a averti, dimanche 1er novembre, les États-Unis qu'une reprise des hostilités pourrait entraîner une guerre \"plus longue que la précédente\", au lendemain de nouvelles menaces de Donald Trump de \"s'occuper\" d'encore un ou deux sites en Iran. Le président américain a menacé de \"donner un coup de massue\" à l'Iran, alors que le média américain Axios…",
@@ -1256,7 +1351,7 @@
       "title": "Pompier blessé par balle aux Pennes-Mirabeau: le directeur de la Sécurité civile fait part de son \"incompréhension\"",
       "summary": "Pompier blessé par balle aux Pennes-Mirabeau: réaction du directeur de la Sécurité civile, Julien Marion, qui s'est rendu à Marseille ce lundi 2 novembre.",
       "source": "BFMTV",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.bfmtv.com/police-justice/video-pompier-blesse-par-balle-aux-pennes-mirabeau-le-directeur-de-la-securite-civile-fait-part-de-son-incomprehension_VN-202611020426.html",
       "published_at": "2026-11-02T10:11:03+00:00",
       "category": "Société",
@@ -1272,7 +1367,7 @@
       "title": "Colère lycéenne: \"Le lycée est bloqué mais la police est là pour faire rentrer les élèves qui souhaitent assister aux cours\", déclare Robert Clampi, proviseur de la cité scolaire Marseilleveyre",
       "summary": "La rentrée des vacances de la Toussaint s'ouvre lundi avec le retour de quelques blocages: certains lycéens et étudiants poursuivent le mouvement engagé depuis six semaines, malgré les concessions annoncées la semaine dernière par le gouvernement.",
       "source": "BFMTV",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.bfmtv.com/societe/video-colere-lyceenne-le-lycee-est-bloque-mais-la-police-est-la-pour-faire-rentrer-les-eleves-qui-souhaitent-assister-aux-cours-declare-robert-clampi-proviseur-de-la-cite-scolaire-marseilleveyre_VN-202611020424.html",
       "published_at": "2026-11-02T10:10:28+00:00",
       "category": "Politique",
@@ -1304,7 +1399,7 @@
       "title": "Gravement blessée dans un accident de la route en Deux-Sèvres, cette maman de quatre enfants est décédée",
       "summary": "La perte de contrôle s’était produite jeudi 22 octobre 2026 à Voulmentin (Deux-Sèvres). La conductrice avait été dirigée dans un état grave à Poitiers.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/societe/faits-divers/accidentee-pres-de-bressuire-lautomobiliste-na-pas-survecu-8399e1fa-d696-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:08:48+00:00",
       "category": "Société",
@@ -1320,7 +1415,7 @@
       "title": "« Une petite baisse » : pourquoi le Stade Brestois est moins bon en deuxième période",
       "summary": "Le coach brestois Julien Lachuer a mis en avant le déficit athlétique de son équipe pour expliquer les baisses de régime régulières du Stade Brestois en deuxième période. Il espère corriger cet aspect lors du derby à Lorient, ce lundi 2 novembre (20 h 45).",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/football/stade-brestois/une-petite-baisse-pourquoi-le-stade-brestois-est-moins-bon-en-deuxieme-periode-cc85ddd0-d68f-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:08:13+00:00",
       "category": "Société",
@@ -1352,7 +1447,7 @@
       "title": "Colère lycéenne. « Vous êtes 100 à imposer le blocage à 1 400 élèves » : la rentrée perturbée dans ce lycée du Mans",
       "summary": "Après 15 jours de vacances scolaires, la mobilisation a repris au lycée Bellevue au Mans (Sarthe), ce lundi 2 novembre 2026.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/education/colere-lyceenne-vous-etes-100-a-imposer-le-blocage-a-1-400-eleves-la-rentree-perturbee-dans-ce-lycee-du-mans-7d87d99c-d697-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:07:48+00:00",
       "category": "Société",
@@ -1368,7 +1463,7 @@
       "title": "\"Que changer dans nos villes et villages pour les rendre plus beaux?\", la Cité de l’Architecture lance une consultation citoyenne",
       "summary": "À l’occasion de l’élection présidentielle, la Cité de l’Architecture invite tout un chacun à repenser nos villes et villages. Et entend en faire un thème de la campagne présidentielle.",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.bfmtv.com/culture/que-changer-dans-nos-villes-et-villages-pour-les-rendre-plus-beaux-la-cite-de-l-architecture-lance-une-consultation-citoyenne_AN-202611020419.html",
       "published_at": "2026-11-02T10:07:26+00:00",
       "category": "Société",
@@ -1447,7 +1542,7 @@
       "id": "bfb1c54905df",
       "title": "L'armée israélienne se retire de la ville d'Hébron, en Cisjordanie occupée, après y avoir \"terminé\" ses opérations",
       "summary": "Un vaste déploiement de l'armée israélienne avait été décidé le 23 octobre après une attaque dans laquelle deux soldats avaient été tués, menée par deux Palestiniens originaires d'Hébron, et attribuée au Hamas par Israël. Plus de 3 000 habitants ont été déplacés.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 4,
       "url": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-se-retire-d-hebron-en-cisjordanie-occupee-apres-y-avoir-termine-ses-operations_8263718.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T10:06:01+00:00",
@@ -1455,7 +1550,7 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « L'armée israélienne se retire de la ville d'Hébron, en Cisjordanie occupée, après y avoir \"terminé\" ses opérations ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -1529,7 +1624,7 @@
       "title": "\"Jusqu'à 18 centimes par litre\" : le gouvernement assure que \"plus de la moitié des stations\" ont baissé le prix du diesel",
       "summary": "Ce lundi, le ministre du Commerce a assuré que \"plus de la moitié des stations ont baissé les prix de 12 à 18 centimes\" sur le carburant. Depuis le 1ᵉʳ novembre, des barils de diesel issus des stocks stratégiques sont vendus à prix coûtant aux distributeurs.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.tf1info.fr/economie/inflation-diesel-sans-plomb-95-98-jusqu-a-18-centimes-par-litre-le-gouvernement-assure-que-plus-de-la-moitie-des-stations-ont-baisse-le-prix-des-carburants-2473354.html",
       "published_at": "2026-11-02T10:04:38+00:00",
       "category": "Politique",
@@ -1641,7 +1736,7 @@
       "title": "Une meilleure humeur sur le long terme : voilà pourquoi pleurer (d’émotion) fait du bien à tout le monde, explique un médecin",
       "summary": "Si vous pleurez régulièrement, vous vous sentez certainement mieux après. Ce n’est pas un hasard : des études montrent que pleurer améliore l’humeur. Jean-Marc Sène décrypte tout cela dans \"Bonjour ! La Matinale TF1\".",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/sante/une-meilleure-humeur-sur-le-long-terme-voila-pourquoi-pleurer-d-emotion-fait-du-bien-a-tout-le-monde-explique-un-medecin-2473311.html",
       "published_at": "2026-11-02T10:00:29+00:00",
       "category": "International",
@@ -1657,7 +1752,7 @@
       "title": "J'ai testé pour vous : À l'aise en charentaises !",
       "summary": "Ce lundi, Julie Tomeï met à l'honneur les traditionnelles charentaises pour affronter la saison froide avec un confort absolu. Elle livre de précieux conseils pour identifier et reconnaître des produits de qualité.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/conso/videos/video-j-ai-teste-pour-vous-a-l-aise-en-charentaises-31903-2473357.html",
       "published_at": "2026-11-02T10:00:26+00:00",
       "category": "Culture",
@@ -1673,7 +1768,7 @@
       "title": "Notre experte vous répond : Maison, chassez l'humidité !",
       "summary": "De nombreux Français sont concernés par les problèmes d'humidité. 20 à 25% des logements souffrent de signes visibles d'humidité. 37% des bâtiments affichent des traces de moisissure. Stéphanie Catanzano, spécialiste décoration, en parle.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.tf1info.fr/immobilier/videos/video-notre-experte-vous-repond-maison-chassez-l-humidite-91276-2473363.html",
       "published_at": "2026-11-02T10:00:23+00:00",
       "category": "Société",
@@ -1689,7 +1784,7 @@
       "title": "\"Situation d'urgence, nous sommes en survitesse\" : les derniers échanges glaçants avant le crash d'un jet en Floride",
       "summary": "Neuf personnes ont été tuées dimanche aux États-Unis dans l'accident spectaculaire d'un avion d'affaires. Le crash a eu lieu à une dizaine de kilomètres de la résidence de Donald Trump en Floride, absent à ce moment-là. Les derniers échanges entre l'équipage du Learjet 60 et la tour de contrôle .",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/international/situation-d-urgence-nous-sommes-en-survitesse-les-derniers-echanges-glacants-avant-le-crash-spectaculaire-d-un-jet-en-floride-2473347.html",
       "published_at": "2026-11-02T10:00:12+00:00",
       "category": "International",
@@ -1723,7 +1818,7 @@
       "title": "« Star Academy » : TF1 bouleverse le programme des élèves cette semaine et diffusera le prime vendredi, voici pourquoi",
       "summary": "Lancée le 10 octobre, la 14e saison de la « Star Academy » voit le calendrier de sa quatrième semaine modifié. En raison de la diffusion d’une compétition sportive samedi 7 novembre, la Une diffusera exceptionnellement son prime hebdomadaire ce vendredi 6 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://programmetv.ouest-france.fr/divers/telerealite/star-academy-m95770998/star-academy-tf1-bouleverse-le-programme-des-eleves-cette-semaine-et-diffusera-le-prime-vendredi-voici-pourquoi-2c93af4e-d443-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:00:05+00:00",
       "category": "Société",
@@ -1739,7 +1834,7 @@
       "title": "Tirs, intervention du Raid, interpellation… Ce que l’on sait sur le pompier grièvement blessé par balle à Marseille",
       "summary": "Un sapeur-pompier a été grièvement blessé par balle en fin d’après-midi, dimanche 1er novembre aux Pennes-Mirabeau, près de Marseille (Bouches-du-Rhône). Il était en intervention sur un feu de véhicules. Le suspect, un homme connu pour des violences avec arme, a été interpellé par le Raid avant d’être placé en garde à vue. Un appel à des rassemblements…",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/societe/faits-divers/tirs-intervention-du-raid-interpellation-ce-que-lon-sait-sur-le-pompier-grievement-blesse-par-balle-a-marseille-c4622cd2-d692-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:00:03+00:00",
       "category": "Société",
@@ -1764,7 +1859,7 @@
       "title": "Prix Goncourt : quel ouvrage va remporter la précieuse récompense ? Le pronostic des journalistes de « Lire Magazine »",
       "summary": "À la veille du verdict, Baptiste Liger, le directeur de la rédaction de « Lire Magazine » et son rédacteur en chef Alexis Brocas, livrent leurs pronostics argumentés.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/culture/livres/lire-magazine/prix-goncourt-quel-ouvrage-va-remporter-la-precieuse-recompense-le-pronostic-des-journalistes-de-lire-magazine-ac407796-d384-11f1-af78-2d36ec019942?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T10:00:03+00:00",
       "category": "Médias & communication",
@@ -1828,7 +1923,7 @@
       "title": "Bonjour ! Avec vous du 2 novembre 2026",
       "summary": "Du lundi au vendredi, dans Bonjour ! La Matinale TF1, Bruce Toussaint et son équipe s’intéressent aux grands sujets d’actualité et reçoivent en direct les principaux témoins du jour, journalistes, analystes politiques, acteurs de l’info en plateau.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-bonjour-avec-vous-du-2-novembre-2026-2473364.html",
       "published_at": "2026-11-02T09:57:05+00:00",
       "category": "Médias & communication",
@@ -1909,7 +2004,7 @@
       "title": "« La donne a changé » : après la sécheresse et les canicules en France, le piment d’Espelette cherche de l’eau",
       "summary": "Le piment d’espelette, emblématique de la gastronomie basque, a été touché par les aléas climatiques récurrents ces dernières années. Sécheresse, canicules, tempêtes de grêle, les producteurs de cette épice en ont souffert. Après une demande au préfet, les producteurs ont pu irriguer une partie de leurs plants, et les résultats sont plutôt positifs.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/societe/gastronomie/la-donne-a-change-apres-la-secheresse-et-les-canicules-en-france-le-piment-despelette-cherche-de-leau-87475f9e-d6a0-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-02T09:51:48+00:00",
       "category": "Environnement",
@@ -1925,7 +2020,7 @@
       "title": "Energie : l'achat groupé proposé par certaines municipalités",
       "summary": "Energie : certaines municipalités proposent l'alternative de l'achat groupé pour faire baisser la facture. Illustration à Lens qui a déjà convaincu 1 000 foyers.",
       "source": "BFMTV",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-energie-l-achat-groupe-propose-par-certaines-municipalites_VN-202611020409.html",
       "published_at": "2026-11-02T09:50:22+00:00",
       "category": "Environnement",
@@ -1941,7 +2036,7 @@
       "title": "Notre experte vous répond : Heures creuses, comment ça marche ?",
       "summary": "De nombreux Français peinent à décrypter le système complexe des tarifs réduits liés aux heures creuses. Olivia Détroyat, spécialiste éco, détaille l'évolution de ces plages horaires et analyse l'impact direct sur le budget des consommateurs.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.tf1info.fr/conso/videos/video-notre-experte-vous-repond-heures-creuses-comment-ca-marche-74558-2473360.html",
       "published_at": "2026-11-02T09:50:22+00:00",
       "category": "Économie",
@@ -1969,27 +2064,11 @@
       "mention_count": 1
     },
     {
-      "id": "45c26bf7b269",
-      "title": "F1. Un duel Max Verstappen - Lewis Hamilton, les clés de 2027… Les bonnes raisons de suivre la fin de saison",
-      "summary": "Alors que Kimi Antonelli a scellé l’enjeu principal de la saison 2026 de F1 en étant sacré champion du monde à l’âge de 19 ans au Grand Prix du Mexique, ce dimanche 1er novembre, la fin de saison s’annonce encore passionnante, malgré ce suspense en moins. Voici les bonnes raisons de suivre de près les derniers Grands Prix.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/formule-1/f1-un-duel-max-verstappen-lewis-hamilton-les-cles-de-2027-les-bonnes-raisons-de-suivre-la-fin-de-saison-4f9d8180-d44e-11f1-84f3-5611f158a658?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-02T09:49:34+00:00",
-      "category": "Économie",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « F1. Un duel Max Verstappen - Lewis Hamilton, les clés de 2027… Les bonnes raisons de suivre la fin de saison ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "b9a620e65d1e",
       "title": "Guerre en Ukraine: reprise des attaques russes dans la région de Kherson après le cessez-le-feu",
       "summary": "Après la fin d'une rare trêve localisée ayant permis l'évacuation de résidents d'Olechky, ville en proie à une crise humanitaire, les attaques russes ont repris dans la région de Kherson, en Ukraine.",
       "source": "BFMTV",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.bfmtv.com/international/europe/ukraine/guerre-en-ukraine-reprise-des-attaques-russes-dans-la-region-de-kherson-apres-le-cessez-le-feu_AD-202611020405.html",
       "published_at": "2026-11-02T09:49:11+00:00",
       "category": "International",
@@ -2018,11 +2097,27 @@
       "mention_count": 1
     },
     {
+      "id": "4f2d7951559b",
+      "title": "Mobilisation lycéenne : à Lille, Marseille, Paris… Quelques lycées bloqués au premier jour de la rentrée",
+      "summary": "Au premier jour de la rentrée scolaire après les vacances de la Toussaint, des lycées ont été bloqués un peu partout en France. Des blocages « résiduels », selon le ministre de l’Education nationale Edouard Geffray.",
+      "source": "L'Obs",
+      "feed_rank": 1,
+      "url": "https://www.nouvelobs.com/societe/20261102.OBS119772/mobilisation-lyceenne-a-lille-marseille-paris-quelques-lycees-bloques-au-premier-jour-de-la-rentree.html",
+      "published_at": "2026-11-02T09:48:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Mobilisation lycéenne : à Lille, Marseille, Paris… Quelques lycées bloqués au premier jour de la rentrée ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "b2dfed8397fd",
       "title": "Faut-il changer les dates de la présidentielle 2027? Le second tour de l'élection au lendemain du 1er-Mai divise les candidats",
       "summary": "Plusieurs candidats s'inquiètent du choix du dimanche 2 mai pour organiser le second tour de l'élection présidentielle, au lendemain des mobilisations du 1er-Mai, faisant craindre débordements et rupture de la neutralité.",
       "source": "BFMTV",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.bfmtv.com/politique/faut-il-changer-les-dates-de-la-presidentielle-2027-le-second-tour-de-l-election-au-lendemain-du-1er-mai-divise-les-candidats_AD-202611020404.html",
       "published_at": "2026-11-02T09:47:59+00:00",
       "category": "Politique",
@@ -2146,11 +2241,27 @@
       "mention_count": 1
     },
     {
+      "id": "6e63355ed81d",
+      "title": "Le conducteur pressé flashé à 221 km/h sur l’autoroute A75, il devra passer devant le tribunal pour grand excès de vitesse",
+      "summary": "Le véhicule a été intercepté sur l’A75 samedi 31 octobre 2026 dans la matinée.",
+      "source": "Midi Libre",
+      "feed_rank": 8,
+      "url": "https://www.midilibre.fr/2026/11/02/le-conducteur-presse-flashe-a-221-kmh-sur-lautoroute-a75-il-devra-passer-devant-le-tribunal-pour-grand-exces-de-vitesse-13631977.php",
+      "published_at": "2026-11-02T09:41:41+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Le conducteur pressé flashé à 221 km/h sur l’autoroute A75, il devra passer devant le tribunal pour grand excès de vitesse ».",
+      "coverage_sources": [
+        "Midi Libre"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "0005d36dc6a6",
       "title": "Gendarme visé par un cocktail molotov: \"Environ 20% de son unité a été blessée\", affirme le général Bertin Malhet, inspecteur de la gendarmerie mobile",
       "summary": "Une enquête a été ouverte pour \"tentative d'homicide sur personnes dépositaires de l'autorité publique\", après le jet de cocktail Molotov sur des gendarmes à Paris lors des manifestations de ce samedi 31 octobre, a indiqué ce dimanche 1er novembre le parquet de Paris.",
       "source": "BFMTV",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.bfmtv.com/police-justice/video-gendarme-vise-par-un-cocktail-molotov-environ-20-de-son-unite-a-ete-blessee-affirme-le-general-bertin-malhet-inspecteur-de-la-gendarmerie-mobile_VN-202611020403.html",
       "published_at": "2026-11-02T09:41:27+00:00",
       "category": "Société",
@@ -2182,7 +2293,7 @@
       "title": "Prévention des incendies : \"nos territoires ruraux méritent mieux que des caricatures\"… Le coup de gueule de la députée lozérienne Sophie Pantel",
       "summary": "Sophie Pantel dénonce \"la recherche du buzz\" et la méconnaissance \"des préoccupations de nos territoires ruraux et de montagne\".",
       "source": "Midi Libre",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.midilibre.fr/2026/11/02/prevention-des-incendies-nos-territoires-ruraux-meritent-mieux-que-des-caricatures-le-coup-de-gueule-de-la-deputee-lozerienne-sophie-pantel-13611444.php",
       "published_at": "2026-11-02T09:41:03+00:00",
       "category": "Sciences & tech",
@@ -2294,7 +2405,7 @@
       "title": "\"J'ai l’impression d'avoir été téléportée\": Raphaëlle Ricci a fait son retour à la \"Star Academy\"",
       "summary": "Personnalité emblématique de la \"Star Academy\", la professeure d'expression scénique, dont la rigueur et la franchise ont marqué les premières saisons du programme dans les années 2000, a rendu une visite surprise aux académiciens, ce dimanche 1er novembre, pour débriefer avec eux leur prime de la veille.",
       "source": "BFMTV",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.bfmtv.com/people/medias-tv/j-ai-l-impression-d-avoir-ete-teleportee-raphaelle-ricci-a-fait-son-retour-a-la-star-academy_AN-202611020401.html",
       "published_at": "2026-11-02T09:36:39+00:00",
       "category": "Médias & communication",
@@ -2358,7 +2469,7 @@
       "title": "Bon appétit : Salade d'endives... à la raclette !",
       "summary": "Le chef Pierre Chomet présente une recette innovante pour réutiliser des restes de raclette. Il les transforme en un plat léger avec des endives. Il prépare une sauce légère à base de charcuterie, d'écrasé de pommes de terre et de feuilles d'endive.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.tf1info.fr/nutrition/videos/video-bon-appetit-salade-d-endives-a-la-raclette-63280-2473349.html",
       "published_at": "2026-11-02T09:35:15+00:00",
       "category": "Société",
@@ -2374,7 +2485,7 @@
       "title": "Elles \"ont abattu des dizaines de drones ennemis au-dessus de Kiev\": en Ukraine, l'IA rend les tourelles autonomes pour nettoyer le ciel des missiles et drones russes, elle pilote aussi des missions de ravitaillement robotisées",
       "summary": "Depuis 2024, l'organisation ukrainienne Brave1 travaille à développer des tourelles autonomes. Deux ans plus tard, ces armes contrôlées par l'IA font partie intégrante de la défense aérienne des forces armées ukrainiennes.",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.bfmtv.com/tech/intelligence-artificielle/elles-ont-abattu-des-dizaines-de-drones-ennemis-au-dessus-de-kiev-en-ukraine-l-ia-rend-les-tourelles-autonomes-pour-nettoyer-le-ciel-des-missiles-et-drones-russes-elle-pilote-aussi-des-missions-de-ravitaillement-robotisees_AV-202611020400.html",
       "published_at": "2026-11-02T09:34:56+00:00",
       "category": "Sciences & tech",
@@ -2438,7 +2549,7 @@
       "title": "Il était porté disparu depuis 24 heures : un homme retrouvé mort en bas d’une falaise",
       "summary": "Les faits se sont déroulés dimanche 1er novembre. La victime était portée disparue depuis la veille, sa compagne avait alerté les gendarmes.",
       "source": "Midi Libre",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.midilibre.fr/2026/11/02/il-etait-porte-disparu-depuis-24-heures-un-homme-retrouve-mort-en-bas-dune-falaise-13631940.php",
       "published_at": "2026-11-02T09:31:02+00:00",
       "category": "Société",
@@ -2486,7 +2597,7 @@
       "title": "\"C’est quand même un peu étrange\" : à Alès, le lycée Jean-Baptiste Dumas rouvre dans le calme, avant une nouvelle journée de mobilisation",
       "summary": "Ce lundi 2 novembre 2026, le lycée Jean-Baptiste Dumas d’Alès a rouvert normalement ses portes. Sous le regard des policiers, les élèves ont repris le chemin des cours, mais la contestation pourrait rapidement repartir.",
       "source": "Midi Libre",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.midilibre.fr/2026/11/02/cest-quand-meme-un-peu-etrange-a-ales-le-lycee-jean-baptiste-dumas-rouvre-dans-le-calme-avant-une-nouvelle-journee-de-mobilisation-13631865.php",
       "published_at": "2026-11-02T09:30:53+00:00",
       "category": "Société",
@@ -2502,7 +2613,7 @@
       "title": "Regarder un film à la télévision est devenu difficile à cause des différences de niveaux sonores ? Ces appareils peuvent vous aider",
       "summary": "Qui n’a jamais jonglé avec le volume de la télévision en regardant un film pour entendre les dialogues sans avoir les tympans percés par les effets spéciaux ? Le problème est de plus en plus récurrent à cause du format des nouveaux téléviseurs. Dans \"Bonjour ! La Matinale TF1\", Anicet Mbida explique comment dépasser ce problème.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.tf1info.fr/high-tech/regarder-un-film-a-la-television-est-devenu-difficile-a-cause-des-differences-de-niveaux-sonores-ces-appareils-peuvent-vous-aider-2473303.html",
       "published_at": "2026-11-02T09:30:50+00:00",
       "category": "Culture",
@@ -2566,7 +2677,7 @@
       "title": "Construction : les isolants biosourcés font de la résistance",
       "summary": "Portées aux nues ces dernières années , les politiques des entreprises sur la responsabilité sociétale des entreprises ont connu un vaste coup de frein. La faute à un contexte politique, économique et géopolitique international toujours plus tendu. Qu'il paraît lointain le temps où les grands patrons rivalisaient de promesses pour lutter contre le…",
       "source": "L'Express",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.lexpress.fr/economie/construction-les-isolants-biosources-font-de-la-resistance-VNPIG7M4TVGPRBTPSGXACPQ2RQ/",
       "published_at": "2026-11-02T09:30:00+00:00",
       "category": "Société",
@@ -2677,7 +2788,7 @@
       "id": "b1a245e25ddd",
       "title": "Une pancarte inappropriée dans le \"13 Heures\" de France Télévisions",
       "summary": "Un reportage consacré à la mobilisation contre la vie chère a été diffusé dans le \"13 Heures\" du vendredi 30 octobre. On y aperçoit une pancarte qui n'aurait pas dû être diffusée sans floutage.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 13,
       "url": "https://www.franceinfo.fr/une-information-transparente-franceinfo/une-pancarte-inappropriee-dans-le-13-heures-de-france-televisions_8263688.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T09:27:48+00:00",
@@ -2685,7 +2796,7 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Une pancarte inappropriée dans le \"13 Heures\" de France Télévisions ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -2759,7 +2870,7 @@
       "title": "Le père de Mathis témoigne, un an après le décès tragique de son fils.",
       "summary": "Le père de Mathis, tué par un chauffard à Lille, témoigne un an après le décès de son fils. Le procès aura lieu le 26 janvier prochain.",
       "source": "BFMTV",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/grand-littoral/replay-emissions/bonjour-littoral/video-le-pere-de-mathis-temoigne-un-an-apres-le-deces-tragique-de-son-fils_VN-202611020396.html",
       "published_at": "2026-11-02T09:25:42+00:00",
       "category": "Société",
@@ -2775,7 +2886,7 @@
       "title": "\"Martyre de l'A10\": à Puteaux, une association milite pour une rue au nom d'Inass Touloub",
       "summary": "Alors que les parents d'Inass Touloub sont jugés à partir de ce lundi 2 novembre pour le meurtre de leur fille survenu en 1987, une association souhaite lui rendre hommage en renommant une rue de Puteaux (Hauts-de-Seine), dans laquelle la fillette vivait.",
       "source": "BFMTV",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.bfmtv.com/societe/martyre-de-l-a10-a-puteaux-une-association-milite-pour-une-rue-au-nom-d-inass-touloub_AV-202611020394.html",
       "published_at": "2026-11-02T09:25:30+00:00",
       "category": "Société",
@@ -2807,7 +2918,7 @@
       "title": "Un nouveau cyclone approche des côtes de l'Inde, des rafales jusqu'à 120 km/h attendues",
       "summary": "Un nouveau cyclone est attendu ce lundi sur les côtes du centre-est de l'Inde, après le passage du cyclone Arnab fin octobre, qui a frappé le sud de l'État de l'Andhra Pradesh, causant au moins 3 morts.",
       "source": "BFMTV",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.bfmtv.com/international/asie/inde/un-nouveau-cyclone-approche-des-cotes-de-l-inde-des-rafales-jusqu-a-120-km-h-attendues_AD-202611020393.html",
       "published_at": "2026-11-02T09:24:23+00:00",
       "category": "Société",
@@ -2839,7 +2950,7 @@
       "title": "Libération de stocks stratégiques de gazole: \"C'est un pansement sur une jambe de bois\", juge Philippe Charlez, expert en question énergétique et pétrolière",
       "summary": "Le gouvernement a promis des baisses de prix à la pompe dès ce 1er novembre grâce à la libération de barils issus des réserves stratégiques. Ces stocks vendus à un prix nettement inférieur à ceux du marché doivent générer une économie de 12 à 18 centimes par litre pour le consommateur final.",
       "source": "BFMTV",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.bfmtv.com/economie/video-liberation-de-stocks-strategiques-de-gazole-c-est-un-pansement-sur-une-jambe-de-bois-juge-philippe-charlez-expert-en-question-energetique-et-petroliere_VN-202611020391.html",
       "published_at": "2026-11-02T09:20:23+00:00",
       "category": "Politique",
@@ -2855,7 +2966,7 @@
       "title": "Ouverture de commerces le dimanche: \"Ça va dans le bon sens, mais on a besoin d'un peu plus\", affirme le président de la CPME Paris",
       "summary": "Le ministre des PME et du Commerce a demandé une ouverture exceptionnelle pour trois dimanches avant Noël afin de compenser les pertes des commerçants liées aux manifestations récentes.",
       "source": "BFMTV",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/economie/video-ouverture-de-commerces-le-dimanche-ca-va-dans-le-bon-sens-mais-on-a-besoin-d-un-peu-plus-affirme-le-president-de-la-cpme-paris_VN-202611020389.html",
       "published_at": "2026-11-02T09:19:07+00:00",
       "category": "Politique",
@@ -2871,7 +2982,7 @@
       "title": "\"Un score absolument frappant\" : les ventes de voitures électriques progressent en octobre, l'analyse de Nicolas Doze",
       "summary": "Les voitures électriques séduisent les automobilistes en pleine crise autour des prix des carburants. Une hausse de 7% des ventes a été observée en octobre par rapport à septembre. Nicolas Doze, éditorialiste économie LCI, fait le bilan.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.tf1info.fr/conso/video-un-score-absolument-frappant-les-ventes-de-voitures-electriques-progressent-en-octobre-l-analyse-de-nicolas-doze-2473327.html",
       "published_at": "2026-11-02T09:18:06+00:00",
       "category": "Économie",
@@ -2883,27 +2994,11 @@
       "mention_count": 1
     },
     {
-      "id": "371401f6b71f",
-      "title": "\"Un milieu naturel fragile\": un chantier bénévole organisé en Essonne pour préserver les pelouses calcaire",
-      "summary": "Ce lundi 2 novembre, un chantier bénévole est prévu du côté de Saint-Cyr-la-Rivière (Essonne). Les participants vont couper les repousses d'arbustes pour conserver une pelouse calcaire, et préserver sa biodiversité.",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://www.bfmtv.com/environnement/un-milieu-naturel-fragile-un-chantier-benevole-organise-en-essonne-pour-preserver-les-pelouses-calcaire_AN-202611020386.html",
-      "published_at": "2026-11-02T09:15:38+00:00",
-      "category": "Environnement",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « \"Un milieu naturel fragile\": un chantier bénévole organisé en Essonne pour préserver les pelouses calcaire ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "be341bfe31f1",
       "title": "Mais qui a dit ça ? : \"J'ai l'impression de revenir dans une maison où j'ai habitée\"",
       "summary": "Karim Bennani s'intéresse à la déclaration marquante de la prof de chant Raphaëlle Ricci. \"J'ai l'impression de revenir dans une maison où j'ai habitée\", a-t-elle affirmé. Il évoque également l'avis de Samuel Le Bihan sur le vélo dans la capitale.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/culture/videos/video-mais-qui-a-dit-ca-j-ai-l-impression-de-revenir-dans-une-maison-ou-j-ai-habitee-76731-2473344.html",
       "published_at": "2026-11-02T09:15:22+00:00",
       "category": "Société",
@@ -2982,7 +3077,7 @@
       "id": "fca546ffe8fc",
       "title": "Le cofondateur de l’association Médecins Solidaires salue \"l'impact gigantesque\" de l'arrivée des \"docteurs juniors\" dans les territoires ruraux",
       "summary": "À partir de lundi, 3 000 \"docteurs juniors\" sont déployés dans les cabinets, maisons et centres de santé pour un an de stage, afin de compléter leur formation et à les encourager à s'installer dans les déserts médicaux.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 12,
       "url": "https://www.franceinfo.fr/sante/deserts-medicaux/le-cofondateur-de-l-association-medecins-solidaires-salue-l-impact-gigantesque-de-l-arrivee-des-docteurs-juniors-dans-les-territoires-ruraux_8263694.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T09:12:50+00:00",
@@ -2990,7 +3085,7 @@
       "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Le cofondateur de l’association Médecins Solidaires salue \"l'impact gigantesque\" de l'arrivée des \"docteurs juniors\" dans les territoires ruraux ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -3000,7 +3095,7 @@
       "title": "EN DIRECT, guerre en Ukraine : près de 800 personnes ont été évacuées d’Olechky, selon Melania Trump, qui a négocié la trêve humanitaire",
       "summary": "Le cessez-le-feu humanitaire à Olechky, ville du sud du pays sous occupation russe, « a permis d’acheminer une aide essentielle à la région et d’évacuer près de 800 personnes », a affirmé l’épouse du président américain, se félicitant d’une mission « couronnée de succès ».",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-pres-de-800-personnes-ont-ete-evacuees-d-olechky-selon-melania-trump-qui-a-negocie-la-treve-humanitaire_6803934_3210.html",
       "published_at": "2026-11-02T09:11:26+00:00",
       "category": "Politique",
@@ -3015,7 +3110,7 @@
       "id": "8409256289b7",
       "title": "\"Je n'exclus rien\" : pour les midterms, les jeunes républicains en plein doute sur leur soutien à Donald Trump",
       "summary": "Entre espoirs déçus et désarroi politique, de jeunes électeurs MAGA se sentent un peu perdus lors des élections de mi-mandat aux États-Unis, où Donald Trump pourrait bien voir sa majorité à la Chambre des représentants lui échapper.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 3,
       "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-je-n-exclus-rien-pour-les-midterms-les-jeunes-republicains-en-plein-doute-sur-leur-soutien-a-donald-trump_8263613.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T09:07:14+00:00",
@@ -3023,7 +3118,7 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « \"Je n'exclus rien\" : pour les midterms, les jeunes républicains en plein doute sur leur soutien à Donald Trump ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -3096,7 +3191,7 @@
       "id": "f6137c521412",
       "title": "\"Une station sur deux a répercuté la baisse\" du prix des carburants dès lundi après le déstockage de réserves stratégiques, rapporte la porte-parole du gouvernement Maud Bregeon",
       "summary": "La ministre déléguée chargée de l'Énergie précise dans la foulée que le nombre de stations \"va augmenter dans les heures et les jours à venir\".",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 2,
       "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/une-station-sur-deux-a-repercute-la-baisse-du-prix-des-carburants-des-lundi-apres-le-destockage-de-reserves-strategiques-rapporte-la-porte-parole-du-gouvernement-maud-bregeon_8263640.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T09:03:23+00:00",
@@ -3104,7 +3199,7 @@
       "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « \"Une station sur deux a répercuté la baisse\" du prix des carburants dès lundi après le déstockage de réserves stratégiques, rapporte la porte-parole d ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -3194,7 +3289,7 @@
       "title": "Au pays de Candice : Enfin les films de Noël pour se mettre sous la couette !",
       "summary": "À l'approche des fêtes de fin d'année, les traditionnels téléfilms de Noël font leur grand retour sur nos écrans. Ce lundi, Candice Mahout dévoile une sélection pointue des programmes incontournables à ne surtout pas rater.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 18,
+      "feed_rank": 20,
       "url": "https://www.tf1info.fr/culture/videos/video-au-pays-de-candice-enfin-les-films-de-noel-pour-se-mettre-sous-la-couette-5983-2473342.html",
       "published_at": "2026-11-02T09:00:23+00:00",
       "category": "Culture",
@@ -3210,7 +3305,7 @@
       "title": "« Anthropic en Bourse : l’apocalypse est-elle un risque d’investissement comme un autre ? »",
       "summary": "L’entreprise d’intelligence artificielle détaille dans son document d’introduction en Bourse les risques « catastrophiques ou existentiels » que fait peser cette technologie sur l’humanité. Mais les perspectives de profits semblent l’emporter sur les dangers pour la collectivité, souligne dans sa chronique Stéphane Lauer, éditorialiste au « Monde ».",
       "source": "Le Monde",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lemonde.fr/idees/article/2026/11/02/anthropic-en-bourse-l-apocalypse-est-elle-un-risque-d-investissement-comme-un-autre_6805221_3232.html",
       "published_at": "2026-11-02T09:00:12+00:00",
       "category": "Économie",
@@ -3242,7 +3337,7 @@
       "title": "La réédition du mois : \"Sire\", le chef-d’œuvre oublié de Jean Raspail",
       "summary": "Quand on demandait à Jean Raspail quelle était sa conception de l’art du roman, il répondait : \"C’est inventer des contes de fées pour grandes personnes.\" Un conte de fées, Le Camp des saints ? Ceux qui ne connaissent de l’œuvre de Raspail que cette dystopie horrifique parue en 1973 ont une vision biaisée de l’esthétique de l’écrivain. Ceux qui ont lu…",
       "source": "L'Express",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.lexpress.fr/culture/livre/la-reedition-du-mois-sire-le-chef-doeuvre-oublie-de-jean-raspail-H4V3BJ6CLZCNNL3V3BSUVWOCLY/",
       "published_at": "2026-11-02T09:00:00+00:00",
       "category": "Société",
@@ -3322,7 +3417,7 @@
       "title": "C'est déjà demain : Photos, transformer la nuit en plein jour",
       "summary": "Les appareils photo sont désormais capables de transformer la nuit en plein jour. Il existait déjà des appareils de vision nocturne avec des images en noir et blanc. Anicet Mbida parle de ces caméras de nouvelle génération dotées de capteurs ultrasensibles.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/high-tech/videos/video-c-est-deja-demain-photos-transformer-la-nuit-en-plein-jour-37890-2473340.html",
       "published_at": "2026-11-02T08:55:15+00:00",
       "category": "Société",
@@ -3351,14 +3446,14 @@
     },
     {
       "id": "0a0f2b746acb",
-      "title": "Appel à l’intifada, lutte contre l’islamophobie, liens avec la France Insoumise… Qui est Elias d’Imzalène ?",
+      "title": "Appel à l’intifada, lutte contre l’islamophobie, liens avec La France insoumise… Qui est Elias d’Imzalène ?",
       "summary": "Condamné jeudi 29 octobre 2026 en appel à cinq mois de prison avec sursis pour provocation publique à la haine, le militant pro-palestinien Elias d’Imzalène promeut une définition extensive de « l’islamophobie » et l’islam comme identité politique. Il a su nouer ces dernières années des liens avec la gauche radicale.",
       "source": "La Croix",
       "feed_rank": 9,
       "url": "https://www.la-croix.com/religion/appel-a-l-intifada-lutte-contre-lislamophobie-liens-avec-la-france-insoumise-qui-est-elias-dimzalene-20261102",
       "published_at": "2026-11-02T08:52:08+00:00",
       "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Appel à l’intifada, lutte contre l’islamophobie, liens avec la France Insoumise… Qui est Elias d’Imzalène ? ».",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Appel à l’intifada, lutte contre l’islamophobie, liens avec La France insoumise… Qui est Elias d’Imzalène ? ».",
       "coverage_sources": [
         "La Croix"
       ],
@@ -3385,7 +3480,7 @@
       "id": "6747a3b655d9",
       "title": "Les autorités espagnoles recensent 12 victimes étrangères parmi les 69 personnes tuées dans l'accident ferroviaire d'Urda",
       "summary": "Selon un communiqué d'experts médico-légaux et de la police, 66 des 69 personnes qui ont perdu la vie ont désormais pu être identifiées, quatre jours après le drame.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 6,
       "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-autorites-espagnolrecensent-12-victimes-etrangeres-parmi-les-69-personnes-tuees-dans-l-accident-ferroviaire-d-urda_8263664.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T08:51:14+00:00",
@@ -3393,7 +3488,7 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Les autorités espagnoles recensent 12 victimes étrangères parmi les 69 personnes tuées dans l'accident ferroviaire d'Urda ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -3403,7 +3498,7 @@
       "title": "VIDÉO L’appareil a piqué vers le sol en quelques secondes : retour sur le crash d’un jet privé qui a coûté la vie à neuf personnes à Palm Beach",
       "summary": "Un jet privé s’est écrasé dimanche 1er novembre en Floride, à quelques kilomètres de la résidence de Donald Trump. L’appareil a perdu son altitude en quelques minutes avant de piquer vers le sol. L’accident a fait...",
       "source": "Midi Libre",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.midilibre.fr/2026/11/02/video-lappareil-a-pique-vers-le-sol-en-quelques-secondes-retour-sur-le-crash-dun-jet-prive-qui-a-coute-la-vie-a-neuf-personnes-a-palm-beach-13631901.php",
       "published_at": "2026-11-02T08:51:03+00:00",
       "category": "Société",
@@ -3419,7 +3514,7 @@
       "title": "Allô le doc : Nez congestionné et vaccin anti-cancer, Jean-Marc vous répond",
       "summary": "Quel traitement peut-on mettre en place quand on a souvent le nez congestionné ? Où en est l'avancée des vaccins contre le cancer ? Le Dr Jean-Marc Sène répond aux questions des téléspectateurs et livre ses conseils.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 23,
       "url": "https://www.tf1info.fr/sante/videos/video-allo-le-doc-nez-congestionne-et-vaccin-anti-cancer-jean-marc-vous-repond-26606-2473338.html",
       "published_at": "2026-11-02T08:50:21+00:00",
       "category": "Sciences & tech",
@@ -3451,7 +3546,7 @@
       "title": "Droit auto. Horodateur en panne, devez-vous quand même payer le stationnement ?",
       "summary": "Vous venez de vous garer et la borne affiche “hors service”. Impossible de régler le stationnement. Une tentation s’impose : stationner gratuitement. Mais avez-vous le droit de ne pas régler ce stationnement dans ce cas de figure ? Nous avons posé la question à Maître Jean-Baptiste Le Dall, avocat spécialisé en droit routier.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.ledauphine.com/magazine-automobile/2026/11/02/horodateur-en-panne-devez-vous-payer-le-stationnement",
       "published_at": "2026-11-02T08:50:00+00:00",
       "category": "Société",
@@ -3467,7 +3562,7 @@
       "title": "Midterms aux États-Unis : \"C’est au lendemain que commence la présidentielle de 2028\"… Du rapport de force aux enjeux, ce qu’il faut savoir sur ces élections cruciales",
       "summary": "Les électeurs américains sont appelés à voter, le 3 novembre, pour les élections de mi-mandat (les Midterms), un scrutin qui pourrait compliquer la fin du mandat de Donald Trump si le désaveu électoral se confirme....",
       "source": "Midi Libre",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.midilibre.fr/2026/11/02/midterms-aux-etats-unis-cest-au-lendemain-que-commence-la-presidentielle-de-2028-du-rapport-de-force-aux-enjeux-ce-quil-faut-savoir-sur-ces-elections-13604291.php",
       "published_at": "2026-11-02T08:49:57+00:00",
       "category": "Politique",
@@ -3531,7 +3626,7 @@
       "title": "Elle était partie avec des amis ramasser des châtaignes : un appel à témoins pour retrouver une femme disparue dans les Hauts-Cantons de l’Hérault",
       "summary": "Un appel à témoins a été diffusé par le groupement de gendarmerie de l’Hérault après la disparition de Jessica Da Encarnacao, âgée d’une quarantaine d’années, disparue ce dimanche 1er novembre dans les Hauts-Cantons...",
       "source": "Midi Libre",
-      "feed_rank": 7,
+      "feed_rank": 6,
       "url": "https://www.midilibre.fr/2026/11/02/elle-etait-partie-avec-des-amis-ramasser-des-chataignes-un-appel-a-temoins-pour-retrouver-une-femme-disparue-dans-les-hauts-cantons-de-lherault-13631903.php",
       "published_at": "2026-11-02T08:46:39+00:00",
       "category": "Société",
@@ -3563,7 +3658,7 @@
       "title": "Top ou stop : Un spa chez soi !",
       "summary": "Ce lundi, Anaïs Grangerac dévoile des astuces et accessoires bien-être pour recréer une ambiance de spa à la maison. Avec l'arrivée du mois de novembre, elle propose des solutions douces pour se détendre sans quitter son domicile.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/conso/videos/video-top-ou-stop-un-spa-chez-soi-96634-2473336.html",
       "published_at": "2026-11-02T08:40:19+00:00",
       "category": "Société",
@@ -3626,7 +3721,7 @@
       "id": "68b51da56b63",
       "title": "\"Arrêter de fumer pendant un mois multiplie par cinq ses chances d'arrêter définitivement\", encourage le professeur Yves Martinet",
       "summary": "Initié lors de la présidence de François Hollande, le mois sans tabac dure tout le mois de novembre, et a commencé sa 11e édition dimanche.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 16,
       "url": "https://www.franceinfo.fr/sante/drogue-addictions/lutte-contre-le-tabagisme/arreter-de-fumer-pendant-un-mois-multiplie-par-cinq-ses-chances-d-arreter-definitivement-encourage-le-professeur-yves-martinet_8263661.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T08:38:06+00:00",
@@ -3634,7 +3729,7 @@
       "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « \"Arrêter de fumer pendant un mois multiplie par cinq ses chances d'arrêter définitivement\", encourage le professeur Yves Martinet ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -3688,22 +3783,6 @@
       "mention_count": 1
     },
     {
-      "id": "c3d73d37e5e0",
-      "title": "Le cabinet des curiosités : Le cachet de cire, gardien des secrets",
-      "summary": "Monique Younès dévoile l'histoire du cachet de cire. La pratique remonte aux Sumériens, vers 3 500 avant notre ère. Ils utilisaient de l'argile pour sceller des documents. Le sceau sert de preuve de propriété et de sécurité.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/societe/videos/video-le-cabinet-des-curiosites-le-cachet-de-cire-gardien-des-secrets-90203-2473334.html",
-      "published_at": "2026-11-02T08:35:15+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le cabinet des curiosités : Le cachet de cire, gardien des secrets » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "d5f4c7506e85",
       "title": "\"Vous avez pris l'argent ?\" : deux étudiants veulent retirer 12 900 euros en liquide et en reçoivent par erreur 120 000 euros, la banque leur offre un paquet de bonbons après qu'ils ont restitué l'argent",
       "summary": "Deux Géorgiens ont voulu effectuer un retrait en liquide de 12 900 euros dans une banque de Salzbourg (Autriche), qui leur a remis par erreur la somme de 120 000 euros. L'établissement les a recontactés sans tarder...",
@@ -3740,7 +3819,7 @@
       "title": "Social. Colère lycéenne : les blocages reprennent, 41 établissements concernés ce lundi matin",
       "summary": "En ce jour de rentrée scolaire, des lycées étaient de nouveau bloqués ce lundi à l'appel des organisations étudiantes et lycéennes.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.ledauphine.com/societe/2026/11/02/colere-lyceenne-les-blocages-reprennent-a-priori-residuels-ce-lundi-matin-selon-le-ministre",
       "published_at": "2026-11-02T08:34:00+00:00",
       "category": "Société",
@@ -3859,7 +3938,7 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Inégalités salariales : à partir du 19 novembre, les femmes travailleront « gratuitement » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo",
+        "Franceinfo (TV)",
         "Sud Ouest",
         "L'Humanité",
         "Le Dauphiné Libéré"
@@ -3936,7 +4015,7 @@
       "id": "9fed1b4abfef",
       "title": "Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne",
       "summary": "Le leader de la France insoumise affirme qu'il devait être invité au \"20 heures\" lundi soir. Il reproche à la chaîne de ne pas avoir \"interrompu\" des déclarations du candidat Horizons dimanche sur la place des Français \"issus de l'immigration\" parmi les auteurs de pillages.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 11,
       "url": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T08:26:20+00:00",
@@ -3944,7 +4023,7 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -4014,15 +4093,15 @@
       "mention_count": 1
     },
     {
-      "id": "6d2d3cfe5b87",
-      "title": "Isère. Mouvement lycéen : un retour au calme dans la plupart des établissements du département",
+      "id": "c95c6c8a6db5",
+      "title": "Isère. Mouvement lycéen : neuf interpellations ce lundi matin, retour au calme dans la plupart des établissements",
       "summary": "Le recteur de l'académie de Grenoble a assuré que tous les lycées rouvriraient pour la rentrée, ce lundi 2 novembre, après les vacances de la Toussaint. Mais des organisations lycéennes appellent à la mobilisation et aux blocus. Qu'en sera-t-il en Isère ? Suivez nos dernières informations en direct.",
       "source": "Le Dauphiné Libéré",
       "feed_rank": 2,
       "url": "https://www.ledauphine.com/education/2026/11/02/mouvement-lyceen-apres-les-vacances-les-mobilisations-vont-elles-reprendre",
       "published_at": "2026-11-02T08:23:00+00:00",
       "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Isère. Mouvement lycéen : un retour au calme dans la plupart des établissements du département ».",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Isère. Mouvement lycéen : neuf interpellations ce lundi matin, retour au calme dans la plupart des établissements ».",
       "coverage_sources": [
         "Le Dauphiné Libéré"
       ],
@@ -4147,7 +4226,7 @@
       "title": "\"Inadmissible !\" : un attentat à la bombe fait quatre morts dont un nourrisson de seulement deux mois en Colombie",
       "summary": "Un camion piégé a explosé dimanche 1er novembre 2026 près d’une base militaire à Planadas, dans l’ouest de la Colombie, faisant au moins quatre morts, dont un nourrisson de deux mois, et de nombreux blessés....",
       "source": "Midi Libre",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.midilibre.fr/2026/11/02/inadmissible-un-attentat-a-la-bombe-fait-quatre-morts-dont-un-nourrisson-de-seulement-deux-mois-en-colombie-13631868.php",
       "published_at": "2026-11-02T08:15:55+00:00",
       "category": "Société",
@@ -4179,7 +4258,7 @@
       "title": "Crash d’avion en Floride : l’enregistrement de la pilote avant l’accident",
       "summary": "Le régulateur aérien américain a annoncé qu’il mènerait une enquête avec l’Agence fédérale américaine de sécurité des transports pour faire la lumière sur cet accident mortel.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/international/video/2026/11/02/crash-d-avion-en-floride-l-enregistrement-de-la-pilote-avant-l-accident_6805186_3210.html",
       "published_at": "2026-11-02T08:13:36+00:00",
       "category": "Société",
@@ -4195,7 +4274,7 @@
       "title": "DIRECT. Procès de la \"martyre de l'A10\": les parents d'Inass jugés à Blois, 39 ans après la mort de leur fille",
       "summary": "Ce lundi 2 novembre s'ouvre à Blois (Loir-et-Cher) le procès des parents de la petite Inass, retrouvée morte au bord de l'autoroute A10 en 1987. Trente-neuf ans après la mort de leur fille, ils sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\" de ces mêmes faits.",
       "source": "BFMTV",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.bfmtv.com/police-justice/direct-proces-de-la-martyre-de-l-a10-les-parents-d-inass-juges-a-blois-39-ans-apres-la-mort-de-leur-fille_LN-202611020333.html",
       "published_at": "2026-11-02T08:12:45+00:00",
       "category": "Société",
@@ -4212,7 +4291,7 @@
       "title": "Bulgarie : la prorusse Iliana Iotova remporte l'élection présidentielle",
       "summary": "Soutenue par l'ancien président bulgare Roumen Radev , un proche du Kremlin aujourd'hui Premier ministre, Iliana Iotova a remporté dimanche le second tour de l'élection présidentielle en Bulgarie , selon les résultats quasi définitifs publiés ce lundi 2 novembre par la Commission électorale centrale. Présidente par intérim depuis le mois de janvier, à la…",
       "source": "L'Express",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lexpress.fr/monde/europe/bulgarie-la-prorusse-iliana-iotova-remporte-lelection-presidentielle-57QQTGDT35FHJHQUYSE63TNA3Q/",
       "published_at": "2026-11-02T08:12:09+00:00",
       "category": "Politique",
@@ -4255,22 +4334,6 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026 : que disent les tout derniers sondages ? ».",
       "coverage_sources": [
         "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4f2d7951559b",
-      "title": "Mobilisation lycéenne : à Lille, Marseille, Paris… Quelques lycées bloqués au premier jour de la rentrée",
-      "summary": "Au premier jour de la rentrée scolaire après les vacances de la Toussaint, des lycées ont été bloqués un peu partout en France. Des blocages « résiduels » selon le ministre de l’Education nationale Edouard Geffray.",
-      "source": "L'Obs",
-      "feed_rank": 1,
-      "url": "https://www.nouvelobs.com/societe/20261102.OBS119772/mobilisation-lyceenne-a-lille-marseille-paris-quelques-lycees-bloques-au-premier-jour-de-la-rentree.html",
-      "published_at": "2026-11-02T08:10:35+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Mobilisation lycéenne : à Lille, Marseille, Paris… Quelques lycées bloqués au premier jour de la rentrée ».",
-      "coverage_sources": [
-        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4697,7 +4760,7 @@
       "title": "Procès de la petite martyre de l’A10 : \"Pratiquement un cas d’anthropophagie \"… Quarante ans après la mort d’Inass, ses parents encourent la réclusion criminelle à perpétuité",
       "summary": "Le 11 août 1987, la dépouille mutilée d’Inass, 4 ans, était découverte dans un fossé par deux agents de l’autoroute A10. Près de quarante ans après les faits, et des rebondissements judiciaires, les deux parents de la...",
       "source": "Midi Libre",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.midilibre.fr/2026/11/02/proces-de-la-petite-martyre-de-la10-pratiquement-dun-cas-danthropophagie-quarante-ans-apres-la-mort-dinass-ses-parents-encourent-la-reclusion-13630894.php",
       "published_at": "2026-11-02T07:53:52+00:00",
       "category": "Sciences & tech",
@@ -4904,7 +4967,7 @@
       "id": "2438ac43c595",
       "title": "\"Ma famille me manque\" : ces \"grands-pères\" engagés dans la guerre en Ukraine",
       "summary": "Une équipe de France Télévisions a rencontré des volontaires ukrainiens, âgés de plus de 60 ans, qui se sont reconvertis pour défendre leur pays. Pour ces \"grands-pères\", le sacrifice est toutefois douloureux.",
-      "source": "franceinfo",
+      "source": "Franceinfo (TV)",
       "feed_rank": 22,
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ma-famille-me-manque-ces-grands-peres-engages-dans-la-guerre-en-ukraine_8263577.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-02T07:40:48+00:00",
@@ -4912,7 +4975,7 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « \"Ma famille me manque\" : ces \"grands-pères\" engagés dans la guerre en Ukraine ».",
       "coverage_sources": [
         "France Info (Radio)",
-        "franceinfo"
+        "Franceinfo (TV)"
       ],
       "coverage_count": 2,
       "mention_count": 2
@@ -5018,7 +5081,7 @@
       "title": "La balade en bateau se transforme en dérive de 3 mois : 5 personnes dont 2 enfants retrouvées miraculeusement vivantes en mer",
       "summary": "Partis pour une simple traversée d’une heure, cinq naufragés, dont deux enfants, ont été retrouvés vivants dimanche 1er novembre 2026 dans l’océan Pacifique, après près de trois mois de dérive. Quatre autres personnes...",
       "source": "Midi Libre",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.midilibre.fr/2026/11/02/la-balade-en-bateau-se-transforme-en-derive-de-3-mois-5-personnes-dont-2-enfants-retrouvees-miraculeusement-vivantes-en-mer-13631825.php",
       "published_at": "2026-11-02T07:31:58+00:00",
       "category": "Société",
@@ -5034,7 +5097,7 @@
       "title": "Les pays du Golfe en plein désarroi, à l’aube d’une possible reprise des frappes américaines sur l’Iran",
       "summary": "Réunis à Manama, à Bahreïn, les dirigeants du Golfe et leurs partenaires régionaux ont appelé à la désescalade, alertant sur les effets d’une nouvelle offensive sur la sécurité alimentaire et énergétique de la région.",
       "source": "Le Monde",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.lemonde.fr/international/article/2026/11/02/a-l-aube-d-une-possible-reprise-des-frappes-en-iran-les-pays-du-golfe-en-plein-desarroi_6805119_3210.html",
       "published_at": "2026-11-02T07:30:04+00:00",
       "category": "Société",
@@ -5210,29 +5273,13 @@
       "title": "\"C’est un écart de liberté\" : voici la date à partir de laquelle les femmes vont commencer à travailler \"gratuitement\" jusqu’en fin d’année",
       "summary": "Les femmes en France travailleront \"gratuitement\" à partir du 19 novembre à 10 h 51 jusqu’à la fin de l’année, en raison d’un écart salarial moyen de 11,8 % avec les hommes, selon Les Glorieuses. Pour réduire ces...",
       "source": "Midi Libre",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.midilibre.fr/2026/11/02/cest-un-ecart-de-liberte-voici-la-date-a-partir-de-laquelle-les-femmes-vont-commencer-a-travailler-gratuitement-jusquen-fin-dannee-13631815.php",
       "published_at": "2026-11-02T07:15:59+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"C’est un écart de liberté\" : voici la date à partir de laquelle les femmes vont commencer à travailler \"gratuitement\" jusqu’en fin d’année » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9d9211db03be",
-      "title": "Paris. Dubaï Papers : un procès d'un mois en immersion au coeur de la fraude fiscale internationale",
-      "summary": "De (très) riches contribuables se voyaient proposer des solutions « clés en main » pour cacher et récupérer leur argent, tout en restant sous les radars du fisc. Le procès dit des « Dubaï Papers », qui débute ce lundi à Paris pour un mois, offrira une rare plongée dans les rouages de la fraude fiscale internationale.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 20,
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/02/dubai-papers-un-proces-d-un-mois-en-immersion-au-coeur-de-la-fraude-fiscale-internationale",
-      "published_at": "2026-11-02T07:15:00+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Paris. Dubaï Papers : un procès d'un mois en immersion au coeur de la fraude fiscale internationale ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5317,57 +5364,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "8a8469e09b85",
-      "title": "Philippe Lazzarini: «Les Palestiniens risquent le même destin que les Indiens d'Amérique»",
-      "summary": "Philippe Lazzarini, ex-commissaire général de l’Unrwa (2020-2026) et auteur de Témoin de Gaza : ce qui ne s'efface pas (éd. Favre), est l'invité de RFI ce 2 novembre 2026. L'ancien patron de l'agence de l'ONU pour les réfugiés palestiniens pointe la passivité de la communauté internationale face aux drames de Gaza. Il s'alarme des difficultés financières…",
-      "source": "RFI",
-      "feed_rank": 2,
-      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261102-philippe-lazzarini-les-palestiniens-risquent-le-m%C3%AAme-destin-que-les-indiens-d-am%C3%A9rique",
-      "published_at": "2026-11-02T07:08:53+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Philippe Lazzarini: «Les Palestiniens risquent le même destin que les Indiens d'Amérique» ».",
-      "coverage_sources": [
-        "RFI"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "63e6194648d3",
-      "title": "Traînée sur des dizaines de mètres par la voiture de son ex, elle raconte la scène : \"Il m’a saisi le bras avant d’accélérer\"",
-      "summary": "Une dispute sur fond de garde alternée s'est transformée en scène surréaliste, le 7 juin dernier, dans le secteur de la rue Léon-Cladel, à Montauban. Une mère de famille de 28 ans a été traînée sur plusieurs dizaines...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 22,
-      "url": "https://www.ladepeche.fr/2026/11/01/tarn-et-garonne-trainee-sur-des-dizaines-de-metres-par-la-voiture-de-son-ex-elle-raconte-la-scene-il-ma-saisi-le-bras-avant-daccelerer-13630736.php",
-      "published_at": "2026-11-02T07:07:49+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Traînée sur des dizaines de mètres par la voiture de son ex, elle raconte la scène : \"Il m’a saisi le bras avant d’accélérer\" » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a29736a404cf",
-      "title": "3 000 \"docteurs juniors\" déployés dans toute la France",
-      "summary": "Les premiers « docteurs juniors » commencent leur rentrée aujourd’hui. Ils sont 3 000 étudiants en médecine générale à effectuer une année supplémentaire de formation sur le terrain. Ils exerceront en autonomie tout en étant suivis par un médecin expérimenté.",
-      "source": "RMC",
-      "feed_rank": 12,
-      "url": "https://rmc.bfmtv.com/actualites/societe/video-3-000-docteurs-juniors-deployes-dans-toute-la-france_VN-202611020223.html",
-      "published_at": "2026-11-02T07:07:43+00:00",
-      "category": "Société",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « 3 000 \"docteurs juniors\" déployés dans toute la France ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "franceinfo",
-        "RMC",
-        "Midi Libre"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4
     }
   ]
 }
