@@ -3,6 +3,6 @@ main = "worker.js"
 compatibility_date = "2026-11-02"
 
 [triggers]
-# Décalé de sept minutes par rapport au cron GitHub natif.
+# Décalé de deux minutes après le cron GitHub natif.
 # Le Worker ne déclenche la collecte que si aucune collecte récente n'existe.
 crons = ["4,14,24,34,44,54 * * * *"]
