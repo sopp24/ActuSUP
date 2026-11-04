@@ -22,7 +22,7 @@ OUT = ROOT / "data" / "news.json"
 MAX_PER_SOURCE = 25
 MAX_TOTAL = 300
 FEATURED_LIMIT = 20
-FEATURED_DAYS = 7
+FEATURED_DAYS = 31
 TIMEOUT = 20
 USER_AGENT = "ActuSUP-NewsReader/1.0 (+https://github.com/; educational project)"
 
@@ -294,7 +294,7 @@ def parse_iso_datetime(value):
         return None
 
 def build_featured_stories(articles: list[dict], now: datetime):
-    """Classe 20 sujets de la fenêtre glissante de 7 jours selon la couverture croisée.
+    """Classe 20 sujets de la fenêtre glissante de 31 jours selon la couverture croisée.
 
     Les articles proches sont regroupés à partir du chevauchement pondéré des termes
     de leurs titres et résumés. Le score combine diversité des médias, volume d'articles
@@ -662,12 +662,12 @@ def main():
         "featured_window_end": now,
         "featured_pool_count": featured_pool_count,
         "featured_sources_count": featured_sources_count,
-        "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 7 jours",
+        "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
         "featured_news": featured_news,
         "articles": articles,
     }
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Collecte terminée : {len(articles)} articles, {len(featured_news)} sujets mis en avant sur 7 jours, {len(errors)} flux en erreur.")
+    print(f"Collecte terminée : {len(articles)} articles, {len(featured_news)} sujets mis en avant sur 31 jours, {len(errors)} flux en erreur.")
 
 if __name__ == "__main__":
     main()
