@@ -24,8 +24,9 @@ jobs:
   update:
     name: Collecter les flux des médias
     runs-on: ubuntu-latest
-    # Le job collecte, puis attend la fin du cycle de vingt minutes avant de se relancer.
-    timeout-minutes: 15
+    # Le job attend la prochaine heure pleine après la collecte.
+    # La marge couvre l’attente et laisse le watchdog gérer les blocages.
+    timeout-minutes: 80
     steps:
       # Aucun `uses:` ici : le dépôt est soumis à une politique qui bloque
       # les actions hébergées dans d’autres dépôts, y compris actions/checkout.
@@ -36,7 +37,6 @@ jobs:
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: |
           set -euo pipefail
-          START_EPOCH="$(date +%s)"
 
           # Authentifier Git via le jeton intégré du workflow sans l'inscrire dans l'URL du dépôt.
           TOKEN_B64="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w 0)"
@@ -95,15 +95,20 @@ jobs:
           # Nettoyer le paramètre d'authentification Git avant la suite.
           git config --global --unset-all http.https://github.com/.extraheader || true
 
-          # Auto-chaînage : la prochaine collecte est programmée vingt minutes
-          # après le début de celle-ci. Cela ne dépend plus de l'événement cron.
-          ELAPSED="$(( $(date +%s) - START_EPOCH ))"
-          WAIT_SECONDS="$(( 1200 - ELAPSED ))"
+          # Auto-chaînage : programmer la prochaine collecte à la prochaine
+          # heure pleine, heure de Paris (Europe/Paris).
+          NOW_EPOCH="$(date +%s)"
+          SECONDS_IN_HOUR="$(( NOW_EPOCH % 3600 ))"
+          if [ "$SECONDS_IN_HOUR" -eq 0 ]; then
+            WAIT_SECONDS=0
+          else
+            WAIT_SECONDS="$(( 3600 - SECONDS_IN_HOUR ))"
+          fi
           if [ "$WAIT_SECONDS" -gt 0 ]; then
             echo "Prochaine collecte dans ${WAIT_SECONDS} secondes."
             sleep "$WAIT_SECONDS"
           else
-            echo "La collecte a dépassé vingt minutes : relance immédiate."
+            echo "La prochaine heure pleine est atteinte : relance immédiate."
           fi
 
           echo "Programmation de la prochaine collecte via workflow_dispatch."
