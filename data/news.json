@@ -1,35 +1,34 @@
 {
-  "last_updated": "2026-11-05T02:00:38.237286+00:00",
-  "last_attempt": "2026-11-05T02:00:38.237286+00:00",
+  "last_updated": "2026-11-05T03:00:22.732081+00:00",
+  "last_attempt": "2026-11-05T03:00:22.732081+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 881,
-  "unique_story_count": 765,
+  "raw_article_count": 903,
+  "unique_story_count": 783,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
     "Les Échos",
     "La Voix du Nord",
-    "Le Point",
-    "LCP"
+    "Le Point"
   ],
-  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point, LCP. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-05T02:00:38.237286+00:00",
-  "featured_window_end": "2026-11-05T02:00:38.237286+00:00",
-  "featured_pool_count": 880,
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
+  "featured_window_start": "2026-10-05T03:00:22.732081+00:00",
+  "featured_window_end": "2026-11-05T03:00:22.732081+00:00",
+  "featured_pool_count": 902,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "82ba29debce6",
-      "title": "Midterms 2026 : Est-ce la plus grosse défaite de l’histoire pour les républicains ?",
-      "summary": "<p>Une déroute oui, mais peut-on parler d’un record ? Les républicains ont donc perdu la Chambre des représentants et le Sénat lors des <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a> et au moins sept sièges sénatoriaux ont basculé chez les démocrates, notamment au Texas, au Kansas et en Caroline du Sud. Pour <a…",
-      "source": "20 Minutes",
+      "id": "8f4f295c14b7",
+      "title": "Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain",
+      "summary": "DÉCRYPTAGE - Les Latino-américains sont les électeurs qui ont le plus déserté le vote républicain, notamment en Texas et en Floride.",
+      "source": "Le Figaro",
       "feed_rank": 4,
-      "url": "https://www.20minutes.fr/monde/etats-unis/4260468-20261105-midterms-2026-plus-grosse-defaite-histoire-republicains?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-05T01:22:21+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Midterms 2026 : Est-ce la plus grosse défaite de l’histoire pour les républicains ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "url": "https://www.lefigaro.fr/international/midterms-la-perte-du-vote-latino-symbole-de-la-deroute-du-camp-republicain-20261105",
+      "published_at": "2026-11-05T02:49:49+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -70,20 +69,20 @@
         "Reporterre"
       ],
       "coverage_count": 37,
-      "mention_count": 242,
-      "importance_score": 36.952,
-      "latest_coverage_at": "2026-11-05T01:58:36+00:00"
+      "mention_count": 262,
+      "importance_score": 37.094,
+      "latest_coverage_at": "2026-11-05T02:49:49+00:00"
     },
     {
-      "id": "f2596b2769ee",
-      "title": "Le RC Lens subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux",
-      "summary": "Les Sang et Or sont devenus la première équipe de l’histoire à concéder neuf buts en Ligue des champions à domicile, mercredi, lors de leur défaite face à la formation italienne (1-9). Cette gifle intervient alors que le club traverse une période compliquée.",
-      "source": "Le Monde",
-      "feed_rank": 9,
-      "url": "https://www.lemonde.fr/sport/article/2026/11/05/le-rc-lens-subit-une-humiliation-face-a-come-en-ligue-des-champions-et-poursuit-son-debut-de-saison-tumultueux_6806503_3242.html",
-      "published_at": "2026-11-04T23:41:50+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Le RC Lens subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux ».",
+      "id": "0a056399a21d",
+      "title": "Ligue des champions : Le RC Lens humilié à domicile par Côme",
+      "summary": "<p>L’actuel neuvième de <a href=\"https://www.20minutes.fr/sport/ligue-1/\">Ligue 1</a> n’y arrive pas en <a href=\"https://www.20minutes.fr/sport/ligue_des_champions/\">Ligue des champions</a>, vraiment pas. Totalement dépassé par la supériorité technique de Côme, Lens a concédé mercredi un revers humiliant face aux Lombards (9-1), sa troisième défaite…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/sport/football/4260496-20261105-ligue-champions-rc-lens-humilie-domicile-come?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-05T02:23:54+00:00",
+      "category": "Sport",
+      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : Le RC Lens humilié à domicile par Côme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -94,12 +93,13 @@
         "BFMTV",
         "CNews",
         "Ouest-France",
+        "20 Minutes",
         "Midi Libre"
       ],
-      "coverage_count": 10,
-      "mention_count": 16,
-      "importance_score": 23.901,
-      "latest_coverage_at": "2026-11-04T23:41:50+00:00"
+      "coverage_count": 11,
+      "mention_count": 17,
+      "importance_score": 24.599,
+      "latest_coverage_at": "2026-11-05T02:23:54+00:00"
     },
     {
       "id": "a632bba46478",
@@ -120,12 +120,13 @@
         "L'Opinion",
         "RMC",
         "20 Minutes",
+        "LCP",
         "Midi Libre",
         "Paris Match"
       ],
-      "coverage_count": 10,
-      "mention_count": 17,
-      "importance_score": 23.782,
+      "coverage_count": 11,
+      "mention_count": 18,
+      "importance_score": 24.447,
       "latest_coverage_at": "2026-11-04T22:58:35+00:00"
     },
     {
@@ -153,7 +154,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.601,
+      "importance_score": 23.59,
       "latest_coverage_at": "2026-11-04T21:23:02+00:00"
     },
     {
@@ -178,7 +179,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.23,
+      "importance_score": 21.221,
       "latest_coverage_at": "2026-11-04T21:05:39+00:00"
     },
     {
@@ -201,8 +202,31 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.041,
+      "importance_score": 19.038,
       "latest_coverage_at": "2026-11-04T22:42:48+00:00"
+    },
+    {
+      "id": "fa53355e89dd",
+      "title": "Présidentielle 2027 : comment les évêques veulent intervenir dans le débat",
+      "summary": "Réunis à Lourdes pour leur Assemblée plénière, les évêques de France ont présenté, mercredi 4 novembre 2026, leur démarche pour faire entendre leur voix avant l’élection présidentielle de 2027. Europe, immigration ou encore pouvoir d’achat, l’épiscopat veut contribuer au débat de fond.",
+      "source": "La Croix",
+      "feed_rank": 17,
+      "url": "https://www.la-croix.com/religion/presidentielle-2027-comment-les-eveques-veulent-intervenir-dans-le-debat-20261104",
+      "published_at": "2026-11-04T16:25:06+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : comment les évêques veulent intervenir dans le débat ».",
+      "coverage_sources": [
+        "RMC",
+        "Alternatives économiques",
+        "La Croix",
+        "LCP",
+        "Midi Libre",
+        "INA – La Revue des médias"
+      ],
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 18.998,
+      "latest_coverage_at": "2026-11-04T16:25:06+00:00"
     },
     {
       "id": "bbe884c55f2f",
@@ -223,7 +247,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.886,
+      "importance_score": 17.883,
       "latest_coverage_at": "2026-11-04T20:21:25+00:00"
     },
     {
@@ -245,7 +269,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.68,
+      "importance_score": 17.677,
       "latest_coverage_at": "2026-11-04T21:59:55+00:00"
     },
     {
@@ -267,7 +291,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.622,
+      "importance_score": 17.619,
       "latest_coverage_at": "2026-11-04T21:01:41+00:00"
     },
     {
@@ -289,8 +313,29 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.348,
+      "importance_score": 17.346,
       "latest_coverage_at": "2026-11-04T18:10:23+00:00"
+    },
+    {
+      "id": "ade5f5f78cd8",
+      "title": "Mediapart recalé, militants contre l'antisémitisme mobilisés... Soirée de lancement agitée pour le livre de Jordan Bardella",
+      "summary": "Un journaliste de Mediapart a tenté d'assister à la soirée de lancement du nouveau livre de Jordan Bardella, mercredi 4 novembre, à Paris. Il a été refoulé à l'entrée par les agents de sécurité, avant que plusieurs journalistes ne quittent la salle en guise de protestation. Des militants du collectif contre l'antisémitisme \"Nous vivrons\" ont par ailleurs…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 8,
+      "url": "https://www.tf1info.fr/politique/mediapart-recale-militants-contre-l-antisemitisme-mobilises-soiree-de-lancement-agitee-pour-le-livre-de-jordan-bardella-2473941.html",
+      "published_at": "2026-11-04T21:51:18+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Mediapart recalé, militants contre l'antisémitisme mobilisés... Soirée de lancement agitée pour le livre de Jordan Bardella ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)",
+        "L'Obs",
+        "L'Humanité",
+        "LCP"
+      ],
+      "coverage_count": 4,
+      "mention_count": 6,
+      "importance_score": 16.698,
+      "latest_coverage_at": "2026-11-04T21:51:18+00:00"
     },
     {
       "id": "6ccf1768c4f8",
@@ -310,7 +355,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.608,
+      "importance_score": 16.605,
       "latest_coverage_at": "2026-11-04T19:18:28+00:00"
     },
     {
@@ -331,50 +376,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.537,
+      "importance_score": 16.534,
       "latest_coverage_at": "2026-11-04T22:38:43+00:00"
-    },
-    {
-      "id": "8d915f5da4f6",
-      "title": "Attentat de Trappes : il faut bannir enfin CNews de nos chaînes de télévision",
-      "summary": "Gabrielle Siry-Houari, conseillère de Paris, ainsi que trois adjoints au maire – issus du PS, d’EELV, du PC et de l’Après – pointent une « dérive raciste au sein du paysage audiovisuel » et demandent de « bannir CNews des fréquences publiques ».",
-      "source": "L'Obs",
-      "feed_rank": 13,
-      "url": "https://www.nouvelobs.com/opinions/20261104.OBS119842/attentat-de-trappes-il-faut-bannir-enfin-cnews-de-nos-chaines-de-television.html",
-      "published_at": "2026-11-04T16:28:55+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Attentat de Trappes : il faut bannir enfin CNews de nos chaînes de télévision ».",
-      "coverage_sources": [
-        "L'Express",
-        "L'Obs",
-        "Public Sénat",
-        "Reporterre"
-      ],
-      "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.362,
-      "latest_coverage_at": "2026-11-04T16:28:55+00:00"
-    },
-    {
-      "id": "4cf4e5b2c876",
-      "title": "Crise des carburants : Total accusé d’exploser ses marges, une députée propose de faire chuter les prix à 1,70 euro le litre",
-      "summary": "Selon les travaux des députés Aurélie Trouvé (La France insoumise) et Henri Alfandari (Horizons, Total et les divers raffineurs ont la main sur les prix des carburants. Ainsi, une baisse supplémentaire de 20 centimes...",
-      "source": "Midi Libre",
-      "feed_rank": 17,
-      "url": "https://www.midilibre.fr/2026/11/04/crise-des-carburants-total-accuse-dexploser-ses-marges-une-deputee-propose-de-faire-chuter-les-prix-a-170-euro-le-litre-13636153.php",
-      "published_at": "2026-11-04T15:46:50+00:00",
-      "category": "Politique",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Crise des carburants : Total accusé d’exploser ses marges, une députée propose de faire chuter les prix à 1,70 euro le litre ».",
-      "coverage_sources": [
-        "RMC",
-        "Alternatives économiques",
-        "Midi Libre",
-        "INA – La Revue des médias"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.312,
-      "latest_coverage_at": "2026-11-04T15:46:50+00:00"
     },
     {
       "id": "a4484ddb470c",
@@ -394,7 +397,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.184,
+      "importance_score": 16.182,
       "latest_coverage_at": "2026-11-04T19:29:15+00:00"
     },
     {
@@ -415,7 +418,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.138,
+      "importance_score": 16.135,
       "latest_coverage_at": "2026-11-04T19:05:59+00:00"
     },
     {
@@ -436,7 +439,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.129,
+      "importance_score": 16.126,
       "latest_coverage_at": "2026-11-04T20:00:00+00:00"
     },
     {
@@ -457,7 +460,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.123,
+      "importance_score": 16.121,
       "latest_coverage_at": "2026-11-04T22:20:20+00:00"
     },
     {
@@ -478,28 +481,28 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.099,
+      "importance_score": 16.096,
       "latest_coverage_at": "2026-11-04T21:40:20+00:00"
     },
     {
-      "id": "ade5f5f78cd8",
-      "title": "Mediapart recalé, militants contre l'antisémitisme mobilisés... Soirée de lancement agitée pour le livre de Jordan Bardella",
-      "summary": "Un journaliste de Mediapart a tenté d'assister à la soirée de lancement du nouveau livre de Jordan Bardella, mercredi 4 novembre, à Paris. Il a été refoulé à l'entrée par les agents de sécurité, avant que plusieurs journalistes ne quittent la salle en guise de protestation. Des militants du collectif contre l'antisémitisme \"Nous vivrons\" ont par ailleurs…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
-      "url": "https://www.tf1info.fr/politique/mediapart-recale-militants-contre-l-antisemitisme-mobilises-soiree-de-lancement-agitee-pour-le-livre-de-jordan-bardella-2473941.html",
-      "published_at": "2026-11-04T21:51:18+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Mediapart recalé, militants contre l'antisémitisme mobilisés... Soirée de lancement agitée pour le livre de Jordan Bardella ».",
+      "id": "8a207cac8809",
+      "title": "Présidentielle 2027 : « Gouvernement commando », 200 milliards d’économies, David Lisnard détaille sa méthode",
+      "summary": "La « cure de jouvence libérale » de David Lisnard se précise. Invité mardi 3 novembre sur BFMTV, le maire de Cannes a dévoilé sa méthode pour engager les réformes économiques qu’il défend en vue de l’élection présidentielle de 2027 . S’il accède à l’Élysée, le président de Nouvelle Énergie promet « un gouvernement commando, resserré, qui aura des…",
+      "source": "Valeurs actuelles",
+      "feed_rank": 2,
+      "url": "https://www.valeursactuelles.com/politique/presidentielle-2027-gouvernement-commando-200-milliards-deconomies-david-lisnard-detaille-sa-methode",
+      "published_at": "2026-11-04T19:59:37+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : « Gouvernement commando », 200 milliards d’économies, David Lisnard détaille sa méthode ».",
       "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
-        "L'Obs",
-        "L'Humanité"
+        "Le JDD",
+        "Public Sénat",
+        "Valeurs actuelles"
       ],
       "coverage_count": 3,
-      "mention_count": 5,
-      "importance_score": 14.937,
-      "latest_coverage_at": "2026-11-04T21:51:18+00:00"
+      "mention_count": 4,
+      "importance_score": 14.918,
+      "latest_coverage_at": "2026-11-04T19:59:37+00:00"
     }
   ],
   "articles": [
@@ -510,7 +513,7 @@
       "source": "Le Figaro",
       "feed_rank": 4,
       "url": "https://www.lefigaro.fr/international/midterms-la-perte-du-vote-latino-symbole-de-la-deroute-du-camp-republicain-20261105",
-      "published_at": "2026-11-05T01:58:36+00:00",
+      "published_at": "2026-11-05T02:49:49+00:00",
       "category": "Politique",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain ».",
       "coverage_sources": [
@@ -526,7 +529,7 @@
       "source": "Le Figaro",
       "feed_rank": 20,
       "url": "https://www.lefigaro.fr/international/seoul-annonce-deployer-sa-marine-pres-du-detroit-d-ormuz-pour-aider-a-le-maintenir-ouvert-20261105",
-      "published_at": "2026-11-05T01:55:26+00:00",
+      "published_at": "2026-11-05T02:45:45+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Séoul annonce déployer sa marine près du détroit d’Ormuz pour aider à le maintenir ouvert » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
@@ -540,7 +543,7 @@
       "title": "Pérou : Un candidat gagne la mairie d’un village à pile ou face",
       "summary": "<p>Le hasard pour gagner une mairie. Les autorités électorales du <a href=\"https://www.20minutes.fr/dossier/perou\">Pérou</a> ont dû s’en remettre à un tirage à pile ou face pour départager mercredi deux candidats à l’élection du maire d’un village reculé des Andes, arrivés à égalité.</p><p>À Conima, commune de 3.500 habitants proche du lac Titicaca et…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.20minutes.fr/monde/4260493-20261105-perou-candidat-gagne-mairie-village-pile-face?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T01:26:56+00:00",
       "category": "Politique",
@@ -556,7 +559,7 @@
       "title": "Midterms 2026 : Est-ce la plus grosse défaite de l’histoire pour les républicains ?",
       "summary": "<p>Une déroute oui, mais peut-on parler d’un record ? Les républicains ont donc perdu la Chambre des représentants et le Sénat lors des <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a> et au moins sept sièges sénatoriaux ont basculé chez les démocrates, notamment au Texas, au Kansas et en Caroline du Sud. Pour <a…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260468-20261105-midterms-2026-plus-grosse-defaite-histoire-republicains?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T01:22:21+00:00",
       "category": "Société",
@@ -572,7 +575,7 @@
       "title": "Budget 2027 : Coup dur pour Lecornu, le projet de loi rejeté à l’unanimité à l’Assemblée",
       "summary": "<p><a href=\"https://www.20minutes.fr/politique/sebastien-lecornu/\">Sébastien Lecornu</a> va devoir revoir sa copie et surtout trouver des compromis s’il veut éviter la censure. Après une dizaine de jours de débats, les députés ont rejeté mercredi à l’unanimité le projet de budget de l’État pour 2027 profondément transformé. Le texte arrivera donc au…",
       "source": "20 Minutes",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.20minutes.fr/politique/assemblee_nationale/4260480-20261105-budget-2027-coup-dur-lecornu-projet-loi-rejete-unanimite-assemblee?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T00:37:41+00:00",
       "category": "Politique",
@@ -588,7 +591,7 @@
       "title": "Midterms 2026 : Largement battu, Donald Trump se réfugie dans sa salle de bal",
       "summary": "<p>Au lendemain de la défaite républicaine aux <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a>, <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> a consacré sa première apparition publique à <a…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260492-20261105-midterms-2026-largement-battu-donald-trump-refugie-salle-bal?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T00:26:21+00:00",
       "category": "International",
@@ -604,7 +607,7 @@
       "title": "Midterms 2026 : Le parti républicain divisé sur Donald Trump et l’avenir du mouvement MAGA",
       "summary": "<p>Les républicains doivent choisir leur ligne après leur défaite aux élections de mi-mandat : rester fidèles à <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> ou s’éloigner du mouvement <a href=\"https://www.20minutes.fr/politique/maga/\">MAGA</a>. Mercredi, les projections des médias américains ont annoncé plus de 40 sièges…",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260472-20261105-midterms-2026-parti-republicain-divise-donald-trump-avenir-mouvement-maga?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T23:55:43+00:00",
       "category": "International",
@@ -901,10 +904,13 @@
         "France 24",
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
+        "Libération",
+        "Ouest-France",
+        "LCP",
         "Le Dauphiné Libéré"
       ],
-      "coverage_count": 4,
-      "mention_count": 4
+      "coverage_count": 7,
+      "mention_count": 7
     },
     {
       "id": "8300ab96302a",
@@ -921,23 +927,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "663ff632d23b",
-      "title": "Budget 2027 : l’Assemblée nationale rejette à l’unanimité une copie budgétaire distordue et périmée",
-      "summary": "Après trois semaines d’examen dans l’hémicycle, l’ensemble des députés a, sans surprise, rejeté la partie recettes du projet de loi de finances pour 2027, ce mercredi 4 novembre. Les sénateurs s’empareront courant novembre du texte initial du gouvernement.",
-      "source": "Libération",
-      "feed_rank": 1,
-      "url": "https://www.liberation.fr/economie/budget-2027-a-lassemblee-nationale-le-rejet-attendu-dune-copie-budgetaire-distordue-et-perimee-20261104_D42ACMWWHBBZ5C45PUSPCKO6LI/",
-      "published_at": "2026-11-04T22:29:14+00:00",
-      "category": "Politique",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget 2027 : l’Assemblée nationale rejette à l’unanimité une copie budgétaire distordue et périmée ».",
-      "coverage_sources": [
-        "Libération",
-        "Ouest-France"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     },
     {
       "id": "d080328b8ea7",
@@ -1037,24 +1026,6 @@
       "mention_count": 1
     },
     {
-      "id": "202eaf385d70",
-      "title": "Humilié par Côme (1-9), le RC Lens concède la plus lourde défaite d'un club français en Ligue des champions",
-      "summary": "Le RC Lens s'est lourdement incliné face à Côme (1-9), ce mercredi 4 novembre, en Ligue des champions. Il s'agit de la plus large défaite d'un club français dans l'histoire de la compétition.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
-      "url": "https://www.tf1info.fr/sport/humilie-par-come-1-9-le-rc-lens-concede-la-plus-lourde-defaite-d-un-club-francais-en-ligue-des-champions-2473946.html",
-      "published_at": "2026-11-04T22:02:02+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Humilié par Côme (1-9), le RC Lens concède la plus lourde défaite d'un club français en Ligue des champions » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3
-    },
-    {
       "id": "337e12f33da9",
       "title": "Raclette : il n'est jamais trop tôt pour en manger !",
       "summary": "Seul, en famille ou même entre collègues, c'est désormais officiel : la saison de la raclette est bien lancée. La raclette que l'on partageait jadis seulement en plein hiver est arrivée avec un mois et demi d'avance. Cela fait plusieurs semaines que sur les réseaux sociaux, à la maison ou au supermarché, elle est déjà partout. Deuxième plat préféré des…",
@@ -1129,11 +1100,15 @@
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : Lens humilié à domicile par les Italiens de Côme (1-9) » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
         "France 24",
-        "CNews"
+        "TF1 Info (TF1 / LCI)",
+        "CNews",
+        "20 Minutes"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 6,
+      "mention_count": 6
     },
     {
       "id": "324ab2302c4e",
@@ -1976,7 +1951,7 @@
       "title": "Midterms 2026 : Jon Ossoff, réélu en Géorgie, nourrit les espoirs démocrates pour la présidentielle de 2028",
       "summary": "<p>Il est assurément l’une des étoiles montantes du parti démocrate. Mais contre toute attente, Jon Ossoff assure n’avoir « aucune envie » de briguer la Maison-Blanche. Sa réélection au Sénat en <a href=\"https://www.20minutes.fr/monde/georgie/\">Géorgie</a>, mardi, nourrit pourtant les attentes de ses partisans pour la présidentielle américaine de 2028. A…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260451-20261104-midterms-2026-jon-ossoff-reelu-georgie-nourrit-espoirs-democrates-presidentielle-2028?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T20:21:46+00:00",
       "category": "Société",
@@ -2408,7 +2383,7 @@
       "title": "Le gouvernement maintient sa prévision de croissance pour 2026, les experts n’y croient pas",
       "summary": "<p>Le Haut Conseil des finances publiques (HCFP) juge l’objectif « difficilement atteignable ». Le gouvernement maintient pourtant, ce mercredi, ses prévisions de <a href=\"https://www.20minutes.fr/economie/croissance/\">croissance</a> du produit intérieur brut (<a href=\"https://www.20minutes.fr/economie/pib/\">PIB</a>) de 0,5 % 2026 et un déficit public à…",
       "source": "20 Minutes",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.20minutes.fr/economie/4260460-20261104-gouvernement-maintient-prevision-croissance-2026-experts-croient?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T19:38:39+00:00",
       "category": "Politique",
@@ -3197,7 +3172,7 @@
       "title": "Guerre en Ukraine : La défaite de Trump interroge, le bilan du massacre à Komychouvakha s’alourdit encore",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://www.20minutes.fr/monde/ukraine/\">guerre en Ukraine</a> ? <em>20 Minutes</em> fait le point pour vous tous les soirs. Voici l’essentiel de ce mercredi 4 novembre 2026, au 1.715e jour du conflit.</p><h2>Le fait du jour</h2><p>La <a…",
       "source": "20 Minutes",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.20minutes.fr/monde/ukraine/4260427-20261104-guerre-ukraine-defaite-trump-interroge-bilan-massacre-komychouvakha-alourdit-encore?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T18:49:16+00:00",
       "category": "Politique",
@@ -3357,7 +3332,7 @@
       "title": "Cyberattaque au Crédit Mutuel Arkéa : La banque française évalue ses pertes à plus de 100 millions d’euros",
       "summary": "<p>Plus de 100 millions d’euros auraient été détournés lors d’une <a href=\"https://www.20minutes.fr/dossier/cyberattaque\">cyberattaque</a> contre Crédit Mutuel Arkéa, annoncée par la banque mercredi soir dans un communiqué. Le groupe n’a pas confirmé le montant précis de 118 millions d’euros, soit 133 millions de dollars, avancé par <em>Le…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.20minutes.fr/societe/4260454-20261104-cyberattaque-credit-mutuel-banque-francaise-evalue-pertes-plus-100-millions-euros?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T18:44:39+00:00",
       "category": "Économie",
@@ -3882,22 +3857,6 @@
       "mention_count": 1
     },
     {
-      "id": "5348beb28030",
-      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
-      "summary": "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
-      "published_at": "2026-11-04T18:19:12+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "cc834d7228a3",
       "title": "Les colères françaises à la veille de la grande mobilisation",
       "summary": "77% des Français ont vu leur pouvoir d’achat se dégrader ces derniers mois. Une situation critique qui suscite colère et renoncements. Alors qu’une nouvelle journée de mobilisation, annoncée massive, est prévue ce jeudi 5 novembre, quel est l’impact de l’inflation sur votre quotidien ?",
@@ -3925,6 +3884,22 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Sydney Sweeney : la comédienne pourrait devenir la voisine du prince Harry et Meghan Markle » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "CNews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "01e1fd8d2343",
+      "title": "Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne",
+      "summary": "Lycéens et enseignants seront réunis autour des ministres concernés, afin de présenter de « premières recommandations courant novembre », a déclaré le premier ministre.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/04/parcoursup-sebastien-lecornu-annonce-une-premiere-reunion-lundi-pour-reformer-la-plateforme-d-orientation-sur-fond-de-mobilisation-lyceenne_6806420_823448.html",
+      "published_at": "2026-11-04T18:17:38+00:00",
+      "category": "Politique",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne ».",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5186,7 +5161,7 @@
       "title": "Martyre de l'A10 : L’accusée s’effondre devant les photos de l’autopsie et la liste des sévices subis par sa fille",
       "summary": "<p><strong>À la cour d’assises de Blois,</strong></p><p>En un instant, un silence de plomb s’est abattu sur la cour d’assises de Blois. À l’écran, des images de l’autopsie d’Inass Touloub sont projetées. Le corps supplicié de la<a…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.20minutes.fr/justice/4259848-20261104-martyre-10-accusee-effondre-devant-photos-autopsie-liste-sevices-subis-enfant?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T17:17:43+00:00",
       "category": "Société",
@@ -5337,6 +5312,38 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « \"Je pense que c’est quelqu’un du village\"… Des tags politiques usent les nerfs et les finances de Saint-Georges-de-Luzençon » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Midi Libre"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a50cc47ab71d",
+      "title": "Génération Z : une colère mondiale",
+      "summary": "Chaque semaine, “Courrier international” explique ses choix éditoriaux. Dans l’hebdomadaire en kiosque le jeudi 5 novembre, jour de la grande mobilisation en France, nous consacrons un long dossier à la jeunesse qui, partout en Europe mais aussi en Inde, en Indonésie, au Chili, en Tunisie… se mobilise pour le droit à une vie digne, pour un renouveau…",
+      "source": "Courrier International",
+      "feed_rank": 6,
+      "url": "https://www.courrierinternational.com/article/a-la-une-du-magazine-generation-z-une-colere-mondiale_284868",
+      "published_at": "2026-11-04T17:07:15+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Génération Z : une colère mondiale ».",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b3d31534c113",
+      "title": "Mâchoire carrée et regard de braise, le fils de David Hallyday pose pour un grand magazine de mode américain",
+      "summary": "Cameron Smet semble se diriger de plus en plus vers une carrière de mannequin. Sur Instagram, il a révélé sa nouvelle collaboration avec un magazine de mode.",
+      "source": "Paris Match",
+      "feed_rank": 8,
+      "url": "https://www.parismatch.com/machoire-carree-regard-braise-fils-david-hallyday-pose-pour-grand-magazine-mode-americain-4iIk5lHdPCvACFPhFkQIMV",
+      "published_at": "2026-11-04T17:07:01+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Mâchoire carrée et regard de braise, le fils de David Hallyday pose pour un grand magazine de mode américain ».",
+      "coverage_sources": [
+        "Paris Match"
       ],
       "coverage_count": 1,
       "mention_count": 1
