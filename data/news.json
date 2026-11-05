@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-05T03:00:22.732081+00:00",
-  "last_attempt": "2026-11-05T03:00:22.732081+00:00",
+  "last_updated": "2026-11-05T04:00:22.312218+00:00",
+  "last_attempt": "2026-11-05T04:00:22.312218+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 903,
-  "unique_story_count": 783,
+  "unique_story_count": 780,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-05T03:00:22.732081+00:00",
-  "featured_window_end": "2026-11-05T03:00:22.732081+00:00",
+  "featured_window_start": "2026-10-05T04:00:22.312218+00:00",
+  "featured_window_end": "2026-11-05T04:00:22.312218+00:00",
   "featured_pool_count": 902,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "8f4f295c14b7",
-      "title": "Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain",
-      "summary": "DÉCRYPTAGE - Les Latino-américains sont les électeurs qui ont le plus déserté le vote républicain, notamment en Texas et en Floride.",
-      "source": "Le Figaro",
-      "feed_rank": 4,
-      "url": "https://www.lefigaro.fr/international/midterms-la-perte-du-vote-latino-symbole-de-la-deroute-du-camp-republicain-20261105",
-      "published_at": "2026-11-05T02:49:49+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain ».",
+      "id": "bace9b66bfea",
+      "title": "Manifestation du 5 novembre : La justice approuve le parcours à Paris entre République et Nation",
+      "summary": "<p>Les autorités viennent de marquer un point dans le bras de fer sur le trajet que va suivre <a href=\"https://www.20minutes.fr/societe/greve/4259799-20261102-mobilisation-5-novembre-hausse-smic-centre-revendications-syndicales\">la manifestation pour les salaires</a> et la jeunesse ce jeudi à Paris. Le tribunal administratif a validé mercredi le parcours…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/societe/greve/4260498-20261105-manifestation-5-novembre-justice-approuve-parcours-paris-entre-republique-nation?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-05T03:20:28+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Manifestation du 5 novembre : La justice approuve le parcours à Paris entre République et Nation ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -69,16 +69,16 @@
         "Reporterre"
       ],
       "coverage_count": 37,
-      "mention_count": 262,
-      "importance_score": 37.094,
-      "latest_coverage_at": "2026-11-05T02:49:49+00:00"
+      "mention_count": 259,
+      "importance_score": 37.066,
+      "latest_coverage_at": "2026-11-05T03:20:28+00:00"
     },
     {
       "id": "0a056399a21d",
       "title": "Ligue des champions : Le RC Lens humilié à domicile par Côme",
       "summary": "<p>L’actuel neuvième de <a href=\"https://www.20minutes.fr/sport/ligue-1/\">Ligue 1</a> n’y arrive pas en <a href=\"https://www.20minutes.fr/sport/ligue_des_champions/\">Ligue des champions</a>, vraiment pas. Totalement dépassé par la supériorité technique de Côme, Lens a concédé mercredi un revers humiliant face aux Lombards (9-1), sa troisième défaite…",
       "source": "20 Minutes",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.20minutes.fr/sport/football/4260496-20261105-ligue-champions-rc-lens-humilie-domicile-come?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T02:23:54+00:00",
       "category": "Sport",
@@ -97,8 +97,8 @@
         "Midi Libre"
       ],
       "coverage_count": 11,
-      "mention_count": 17,
-      "importance_score": 24.599,
+      "mention_count": 16,
+      "importance_score": 24.46,
       "latest_coverage_at": "2026-11-05T02:23:54+00:00"
     },
     {
@@ -106,7 +106,7 @@
       "title": "«On les aura»: des messages privés de Macron dévoilés dans un livre",
       "summary": "Emmanuel Macron a découvert trois jours avant leur publication que des échanges privés par messagerie avec la journaliste Françoise Degois allaient être divulgués dans un livre. Des confidences qui contrastent avec les rapports que le chef de l'État s'était imposés avec la presse.",
       "source": "RFI",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.rfi.fr/fr/france/20261104-on-les-aura-des-messages-priv%C3%A9s-de-macron-d%C3%A9voil%C3%A9s-dans-un-livre",
       "published_at": "2026-11-04T22:10:16+00:00",
       "category": "Médias & communication",
@@ -126,7 +126,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 18,
-      "importance_score": 24.447,
+      "importance_score": 24.439,
       "latest_coverage_at": "2026-11-04T22:58:35+00:00"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.59,
+      "importance_score": 23.583,
       "latest_coverage_at": "2026-11-04T21:23:02+00:00"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.221,
+      "importance_score": 21.213,
       "latest_coverage_at": "2026-11-04T21:05:39+00:00"
     },
     {
@@ -202,7 +202,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.038,
+      "importance_score": 19.035,
       "latest_coverage_at": "2026-11-04T22:42:48+00:00"
     },
     {
@@ -210,7 +210,7 @@
       "title": "Présidentielle 2027 : comment les évêques veulent intervenir dans le débat",
       "summary": "Réunis à Lourdes pour leur Assemblée plénière, les évêques de France ont présenté, mercredi 4 novembre 2026, leur démarche pour faire entendre leur voix avant l’élection présidentielle de 2027. Europe, immigration ou encore pouvoir d’achat, l’épiscopat veut contribuer au débat de fond.",
       "source": "La Croix",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.la-croix.com/religion/presidentielle-2027-comment-les-eveques-veulent-intervenir-dans-le-debat-20261104",
       "published_at": "2026-11-04T16:25:06+00:00",
       "category": "Société",
@@ -225,7 +225,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.998,
+      "importance_score": 18.988,
       "latest_coverage_at": "2026-11-04T16:25:06+00:00"
     },
     {
@@ -247,15 +247,37 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.883,
+      "importance_score": 17.862,
       "latest_coverage_at": "2026-11-04T20:21:25+00:00"
+    },
+    {
+      "id": "17189344b60e",
+      "title": "Guerre en Ukraine : Zelensky s’est entretenu avec les émissaires américains avant des rencontres avec la Russie",
+      "summary": "Volodymyr Zelensky a annoncé mercredi 4 novembre 2026, s’être entretenu avec les émissaires américains après le revers subi par Donald Trump aux élections de mi-mandat et avant plusieurs rencontres sur le conflit en Ukraine, à commencer par une réunion jeudi 5 novembre 2026 à la Maison-Blanche avec Melania Trump.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-zelensky-sest-entretenu-avec-les-emissaires-americains-avant-des-rencontres-avec-la-russie-f664757c-d8be-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-05T03:31:22+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Guerre en Ukraine : Zelensky s’est entretenu avec les émissaires américains avant des rencontres avec la Russie ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "CNews",
+        "L'Express",
+        "Ouest-France"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.827,
+      "latest_coverage_at": "2026-11-05T03:31:22+00:00"
     },
     {
       "id": "1904a8abcf36",
       "title": "Masters 1000 de Paris. Fils, Halys et Alcaraz qualifiés, Zverev et Djokovic éliminés… Le résumé de la 3e journée",
       "summary": "Les Français Arthur Fils, Quentin Halys, Arthur Rinderknech et Luca Van Assche se sont qualifiés, ce mercredi 4 novembre, pour les 8es de finale du Masters 1000 de Paris. Tout comme l’Espagnol Carlos Alcaraz qui a validé son entrée en lice. C’est déjà terminé en revanche pour Novak Djokovic et pour le nouveau n°1 mondial, Alexender Zverev. Voici ce qu’il…",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/tennis/atp/masters-1000-de-paris-fils-halys-et-alcaraz-qualifies-zverev-et-djokovic-elimines-le-resume-de-la-3e-journee-5a46244a-d88e-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T21:59:55+00:00",
       "category": "Société",
@@ -269,7 +291,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.677,
+      "importance_score": 17.647,
       "latest_coverage_at": "2026-11-04T21:59:55+00:00"
     },
     {
@@ -291,7 +313,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.619,
+      "importance_score": 17.617,
       "latest_coverage_at": "2026-11-04T21:01:41+00:00"
     },
     {
@@ -313,7 +335,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.346,
+      "importance_score": 17.343,
       "latest_coverage_at": "2026-11-04T18:10:23+00:00"
     },
     {
@@ -334,7 +356,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.698,
+      "importance_score": 16.696,
       "latest_coverage_at": "2026-11-04T21:51:18+00:00"
     },
     {
@@ -355,7 +377,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.605,
+      "importance_score": 16.602,
       "latest_coverage_at": "2026-11-04T19:18:28+00:00"
     },
     {
@@ -363,7 +385,7 @@
       "title": "Législatives en Israël : Netanyahou persiste et signe sur les accusations de fraude électorale",
       "summary": "Le Premier ministre israélien, Benyamin Netanyahou, a affirmé mercredi 4 novembre 2026 qu’il existait de « graves soupçons » d’ingérence étrangère dans les législatives, alors que le président Isaac Herzog a entamé des consultations pour former le prochain gouvernement et que les autorités électorales ont validé le résultat du scrutin.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/monde/israel/legislatives-en-israel-netanyahou-persiste-et-signe-sur-les-accusations-de-fraude-electorale-b710f822-d897-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T22:38:43+00:00",
       "category": "Politique",
@@ -376,50 +398,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.534,
+      "importance_score": 16.474,
       "latest_coverage_at": "2026-11-04T22:38:43+00:00"
-    },
-    {
-      "id": "a4484ddb470c",
-      "title": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\"",
-      "summary": "La Première dame des Etats-Unis a notamment été impliquée dans un récent cessez-le-feu localisé ayant permis l'évacuation de la ville ukrainienne d'Olechky.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 5,
-      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-04T19:29:15+00:00",
-      "category": "International",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\" ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "CNews",
-        "L'Express"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.182,
-      "latest_coverage_at": "2026-11-04T19:29:15+00:00"
-    },
-    {
-      "id": "28ae1a363330",
-      "title": "« Une campagne militante financée par les impôts des Parisiens » : la ville de Paris condamnée pour sa campagne promouvant l’euthanasie",
-      "summary": "« Une victoire pour la neutralité du service public. » La Ville de Paris vient d’être condamnée pour une campagne d’affichage en 2024 promouvant l’euthanasie . Selon Le Figaro , le tribunal administratif de Paris a rendu son jugement lundi 2 novembre, invoquant le principe de neutralité du service public. La mairie de Paris avait placardé partout dans la…",
-      "source": "Valeurs actuelles",
-      "feed_rank": 4,
-      "url": "https://www.valeursactuelles.com/societe/une-campagne-militante-financee-par-les-impots-des-parisiens-la-ville-de-paris-condamnee-pour-sa-campagne-promouvant-leuthanasie",
-      "published_at": "2026-11-04T19:05:59+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « « Une campagne militante financée par les impôts des Parisiens » : la ville de Paris condamnée pour sa campagne promouvant l’euthanasie ».",
-      "coverage_sources": [
-        "La Croix",
-        "Le JDD",
-        "Valeurs actuelles",
-        "Creapills"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.135,
-      "latest_coverage_at": "2026-11-04T19:05:59+00:00"
     },
     {
       "id": "115b998c13a6",
@@ -439,8 +419,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.126,
+      "importance_score": 16.123,
       "latest_coverage_at": "2026-11-04T20:00:00+00:00"
+    },
+    {
+      "id": "28ae1a363330",
+      "title": "« Une campagne militante financée par les impôts des Parisiens » : la ville de Paris condamnée pour sa campagne promouvant l’euthanasie",
+      "summary": "« Une victoire pour la neutralité du service public. » La Ville de Paris vient d’être condamnée pour une campagne d’affichage en 2024 promouvant l’euthanasie . Selon Le Figaro , le tribunal administratif de Paris a rendu son jugement lundi 2 novembre, invoquant le principe de neutralité du service public. La mairie de Paris avait placardé partout dans la…",
+      "source": "Valeurs actuelles",
+      "feed_rank": 4,
+      "url": "https://www.valeursactuelles.com/societe/une-campagne-militante-financee-par-les-impots-des-parisiens-la-ville-de-paris-condamnee-pour-sa-campagne-promouvant-leuthanasie",
+      "published_at": "2026-11-04T19:05:59+00:00",
+      "category": "Économie",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « « Une campagne militante financée par les impôts des Parisiens » : la ville de Paris condamnée pour sa campagne promouvant l’euthanasie ».",
+      "coverage_sources": [
+        "La Croix",
+        "Le JDD",
+        "Valeurs actuelles",
+        "Creapills"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.121,
+      "latest_coverage_at": "2026-11-04T19:05:59+00:00"
     },
     {
       "id": "dde2366d50e4",
@@ -460,29 +461,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.121,
+      "importance_score": 16.118,
       "latest_coverage_at": "2026-11-04T22:20:20+00:00"
-    },
-    {
-      "id": "adf93325db85",
-      "title": "Route du Rhum : l'hécatombe",
-      "summary": "Trois jours après le départ de la mythique Route du Rhum, c'est déjà l'hécatombe. Dix skippers ont abandonné, d'autres ont dû faire demi-tour. Plusieurs grands favoris pour la victoire sont hors course. Pour eux, la transat est d'ores et déjà terminée. C'est notamment le cas de Francis Joyon, vainqueur en 2018. Son trimaran s'est retourné. Secouru par un…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
-      "url": "https://www.tf1info.fr/sport/videos/video-route-du-rhum-l-hecatombe-8336-2473943.html",
-      "published_at": "2026-11-04T21:40:20+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Route du Rhum : l'hécatombe » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "TF1 Info (TF1 / LCI)",
-        "La Croix"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.096,
-      "latest_coverage_at": "2026-11-04T21:40:20+00:00"
     },
     {
       "id": "8a207cac8809",
@@ -501,11 +481,112 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.918,
+      "importance_score": 14.915,
       "latest_coverage_at": "2026-11-04T19:59:37+00:00"
+    },
+    {
+      "id": "89de213b3e52",
+      "title": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation",
+      "summary": "Séoul va élargir la zone d'opérations de l'unité antipiraterie Cheonghae de sa marine, et déployer un destroyer, un avion de patrouille maritime et une équipe de déminage près du détroit d'Ormuz, a annoncé le ministère de la Défense sud-coréen jeudi. Cette mobilisation intervient dans le cadre d'une mission contribuant à garantir la circulation dans…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/moyen-orient/20261105-coree-sud-va-deployer-marine-d%C3%A9troit-ormuz-pour-garantir-circulation-iran-moyen-orient-cheonghae-antipiraterie-deminage-defense-commerce",
+      "published_at": "2026-11-05T03:03:30+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation ».",
+      "coverage_sources": [
+        "France 24",
+        "Le Figaro",
+        "Ouest-France"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.477,
+      "latest_coverage_at": "2026-11-05T03:11:21+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "3f2e50fba5dd",
+      "title": "Hong Kong : le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
+      "summary": "La Haute Cour de Hong Kong a condamné jeudi 5 novembre 2026 le militant prodémocratie Joshua Wong à 10 ans de prison supplémentaires pour collusion avec des pays étrangers, à l’issue d’un nouveau procès en vertu de la loi de sécurité nationale.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/hong-kong/hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires-bc2bb5d4-d8c6-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-05T03:58:30+00:00",
+      "category": "Politique",
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Hong Kong : le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires ».",
+      "coverage_sources": [
+        "RFI",
+        "Ouest-France"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "17189344b60e",
+      "title": "Guerre en Ukraine : Zelensky s’est entretenu avec les émissaires américains avant des rencontres avec la Russie",
+      "summary": "Volodymyr Zelensky a annoncé mercredi 4 novembre 2026, s’être entretenu avec les émissaires américains après le revers subi par Donald Trump aux élections de mi-mandat et avant plusieurs rencontres sur le conflit en Ukraine, à commencer par une réunion jeudi 5 novembre 2026 à la Maison-Blanche avec Melania Trump.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-zelensky-sest-entretenu-avec-les-emissaires-americains-avant-des-rencontres-avec-la-russie-f664757c-d8be-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-05T03:31:22+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Guerre en Ukraine : Zelensky s’est entretenu avec les émissaires américains avant des rencontres avec la Russie ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "aa45d9b79198",
+      "title": "Détroit d’Ormuz : Séoul veut étendre sa marine près du détroit d’Ormuz pour aider à garantir la circulation",
+      "summary": "Séoul veut étendre la zone d’opération de sa mission anti-piraterie pour se rapprocher du détroit d’Ormuz",
+      "source": "Ouest-France",
+      "feed_rank": 3,
+      "url": "https://www.ouest-france.fr/economie/transports/carburants-essence-diesel/detroit-dormuz-seoul-veut-etendre-sa-marine-pres-du-detroit-dormuz-pour-aider-a-garantir-la-circulation-b6632204-d8bc-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-05T03:11:21+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Détroit d’Ormuz : Séoul veut étendre sa marine près du détroit d’Ormuz pour aider à garantir la circulation » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "89de213b3e52",
+      "title": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation",
+      "summary": "Séoul va élargir la zone d'opérations de l'unité antipiraterie Cheonghae de sa marine, et déployer un destroyer, un avion de patrouille maritime et une équipe de déminage près du détroit d'Ormuz, a annoncé le ministère de la Défense sud-coréen jeudi. Cette mobilisation intervient dans le cadre d'une mission contribuant à garantir la circulation dans…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/moyen-orient/20261105-coree-sud-va-deployer-marine-d%C3%A9troit-ormuz-pour-garantir-circulation-iran-moyen-orient-cheonghae-antipiraterie-deminage-defense-commerce",
+      "published_at": "2026-11-05T03:03:30+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "12e3724d362c",
+      "title": "L’égalité des chances devrait être l’objectif numéro un d’une société",
+      "summary": "« Non, tu n’iras pas à Louis-Le-Grand ! » : devant un collège de quartier populaire, un dialogue entre élèves de sixième résume à lui seul les fractures d'un système éducatif où tout semble joué d’avance. Un sujet dont les politiques devraient davantage s’emparer, estime notre chroniqueur Alain Rémond.",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/a-vif/l-egalite-des-chances-devrait-etre-lobjectif-numero-un-dune-societe-20261104",
+      "published_at": "2026-11-05T03:00:02+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « L’égalité des chances devrait être l’objectif numéro un d’une société » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "La Croix"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "8f4f295c14b7",
       "title": "Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain",
@@ -543,7 +624,7 @@
       "title": "Pérou : Un candidat gagne la mairie d’un village à pile ou face",
       "summary": "<p>Le hasard pour gagner une mairie. Les autorités électorales du <a href=\"https://www.20minutes.fr/dossier/perou\">Pérou</a> ont dû s’en remettre à un tirage à pile ou face pour départager mercredi deux candidats à l’élection du maire d’un village reculé des Andes, arrivés à égalité.</p><p>À Conima, commune de 3.500 habitants proche du lac Titicaca et…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.20minutes.fr/monde/4260493-20261105-perou-candidat-gagne-mairie-village-pile-face?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T01:26:56+00:00",
       "category": "Politique",
@@ -559,7 +640,7 @@
       "title": "Midterms 2026 : Est-ce la plus grosse défaite de l’histoire pour les républicains ?",
       "summary": "<p>Une déroute oui, mais peut-on parler d’un record ? Les républicains ont donc perdu la Chambre des représentants et le Sénat lors des <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a> et au moins sept sièges sénatoriaux ont basculé chez les démocrates, notamment au Texas, au Kansas et en Caroline du Sud. Pour <a…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260468-20261105-midterms-2026-plus-grosse-defaite-histoire-republicains?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T01:22:21+00:00",
       "category": "Société",
@@ -571,11 +652,27 @@
       "mention_count": 1
     },
     {
+      "id": "831588d4150a",
+      "title": "JOJ Dakar 2026 : à Saly, les retombées se font attendre",
+      "summary": "🏅 À Saly, les Jeux Olympiques de la Jeunesse étaient très attendus par les commerçants et artisans sénégalais, qui espéraient voir affluer les touristes. Mais en ce début de compétition, la fréquentation reste bien en dessous de leurs attentes. Déception sur la station balnéaire ! Héloïse Mélan est allée à leur rencontre. 🇸🇳",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-joj-dakar-2026-%C3%A0-saly-les-retomb%C3%A9es-des-joj-se-font-attendre",
+      "published_at": "2026-11-05T01:00:45+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « JOJ Dakar 2026 : à Saly, les retombées se font attendre ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "0638bea54f3a",
       "title": "Budget 2027 : Coup dur pour Lecornu, le projet de loi rejeté à l’unanimité à l’Assemblée",
       "summary": "<p><a href=\"https://www.20minutes.fr/politique/sebastien-lecornu/\">Sébastien Lecornu</a> va devoir revoir sa copie et surtout trouver des compromis s’il veut éviter la censure. Après une dizaine de jours de débats, les députés ont rejeté mercredi à l’unanimité le projet de budget de l’État pour 2027 profondément transformé. Le texte arrivera donc au…",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/politique/assemblee_nationale/4260480-20261105-budget-2027-coup-dur-lecornu-projet-loi-rejete-unanimite-assemblee?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T00:37:41+00:00",
       "category": "Politique",
@@ -591,7 +688,7 @@
       "title": "Midterms 2026 : Largement battu, Donald Trump se réfugie dans sa salle de bal",
       "summary": "<p>Au lendemain de la défaite républicaine aux <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a>, <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> a consacré sa première apparition publique à <a…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260492-20261105-midterms-2026-largement-battu-donald-trump-refugie-salle-bal?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T00:26:21+00:00",
       "category": "International",
@@ -607,7 +704,7 @@
       "title": "Midterms 2026 : Le parti républicain divisé sur Donald Trump et l’avenir du mouvement MAGA",
       "summary": "<p>Les républicains doivent choisir leur ligne après leur défaite aux élections de mi-mandat : rester fidèles à <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> ou s’éloigner du mouvement <a href=\"https://www.20minutes.fr/politique/maga/\">MAGA</a>. Mercredi, les projections des médias américains ont annoncé plus de 40 sièges…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260472-20261105-midterms-2026-parti-republicain-divise-donald-trump-avenir-mouvement-maga?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T23:55:43+00:00",
       "category": "International",
@@ -655,7 +752,7 @@
       "title": "Le numéro deux du gouvernement bavarois, Hubert Aiwanger, retrouvé mort dans un hôtel de Berlin",
       "summary": "Hubert Aiwanger, ministre bavarois de l’Économie et vice-ministre président du Land, a été retrouvé mort mercredi 4 novembre 2026 dans un hôtel à Berlin. Il avait 55 ans. Une enquête a été ouverte par la police et le parquet.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/europe/allemagne/le-numero-deux-du-gouvernement-bavarois-hubert-aiwanger-retrouve-mort-dans-un-hotel-de-berlin-6bed8ac2-d8a1-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T23:44:10+00:00",
       "category": "Politique",
@@ -751,7 +848,7 @@
       "title": "Procès «Dubaï Papers»: le prince de Croÿ se présente en homme acculé",
       "summary": "Dans un rare procès sur les coulisses de l'industrie de la fraude fiscale internationale, treize personnes sont jugées à Paris pour avoir animé entre 2007 et 2018 une organisation considérée par le parquet comme une « officine de fraude fiscale et de blanchiment à grande échelle ». Au deuxième jour d'audience, le président Djamel Caillet débute l'examen…",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.rfi.fr/fr/france/20261104-proc%C3%A8s-duba%C3%AF-papers-le-prince-de-cro%C3%BF-se-pr%C3%A9sente-en-homme-accul%C3%A9",
       "published_at": "2026-11-04T22:55:29+00:00",
       "category": "Politique",
@@ -763,27 +860,11 @@
       "mention_count": 1
     },
     {
-      "id": "de1f64c0daf6",
-      "title": "Manifestation du 5 novembre : le parcours à Paris entre République et Nation validé par le tribunal administratif",
-      "summary": "Quelque 70.000 policiers et gendarmes seront mobilisés jeudi en France en vue de l’appel national à la grève lancé par les principaux syndicats du pays pour défendre les salaires et l’emploi, a indiqué le ministre de l’Intérieur Laurent Nuñez.",
-      "source": "Le Figaro",
-      "feed_rank": 8,
-      "url": "https://www.lefigaro.fr/actualite-france/manifestation-5-novembre-greve-mobilisation-etudiants-syndicats-et-gilets-jaunes-en-lutte-contre-la-vie-chere-20261104",
-      "published_at": "2026-11-04T22:53:55+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Manifestation du 5 novembre : le parcours à Paris entre République et Nation validé par le tribunal administratif ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "13653dda41a7",
       "title": "Ligue des champions. Le PSG reste en tête, Lens s’enfonce après sa déroute… Le classement après la 4e journée",
       "summary": "Ce mercredi 4 novembre marquait la fin de la 4e journée de la phase de ligue. En tête du classement, le PSG, toujours invaincu, reste sur son trône devant le Real Madrid et voit sa qualification pour le prochain tour se rapprocher. Après son humiliante défaite à domicile (1-9), Lens continue sa descente au classement, tout comme Lille resté bloqué dans…",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-psg-reste-en-tete-lens-senfonce-apres-sa-deroute-le-classement-apres-la-4e-journee-285e2770-d89d-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T22:53:09+00:00",
       "category": "Société",
@@ -799,7 +880,7 @@
       "title": "« C’est une leçon », « un sentiment d’humiliation » : les réactions lensoises après la déroute historique face à Côme",
       "summary": "Après la déroute historique subie par le RC Lens face à Côme (1-9), ce mercredi 4 novembre, pour la 4e journée de Ligue des champions, Mickaël Cuisance et l’entraîneur des Sang et Or, Yannick Cahuzac, on réagit au micro de Canal+ Sport.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/rc-lens/cest-une-lecon-un-sentiment-dhumiliation-les-reactions-lensoises-apres-la-deroute-historique-face-a-come-79fcdff2-d89a-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T22:52:08+00:00",
       "category": "Sport",
@@ -879,7 +960,7 @@
       "title": "Législatives en Israël : Netanyahou persiste et signe sur les accusations de fraude électorale",
       "summary": "Le Premier ministre israélien, Benyamin Netanyahou, a affirmé mercredi 4 novembre 2026 qu’il existait de « graves soupçons » d’ingérence étrangère dans les législatives, alors que le président Isaac Herzog a entamé des consultations pour former le prochain gouvernement et que les autorités électorales ont validé le résultat du scrutin.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/monde/israel/legislatives-en-israel-netanyahou-persiste-et-signe-sur-les-accusations-de-fraude-electorale-b710f822-d897-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T22:38:43+00:00",
       "category": "Politique",
@@ -965,7 +1046,7 @@
       "title": "«On les aura»: des messages privés de Macron dévoilés dans un livre",
       "summary": "Emmanuel Macron a découvert trois jours avant leur publication que des échanges privés par messagerie avec la journaliste Françoise Degois allaient être divulgués dans un livre. Des confidences qui contrastent avec les rapports que le chef de l'État s'était imposés avec la presse.",
       "source": "RFI",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.rfi.fr/fr/france/20261104-on-les-aura-des-messages-priv%C3%A9s-de-macron-d%C3%A9voil%C3%A9s-dans-un-livre",
       "published_at": "2026-11-04T22:10:16+00:00",
       "category": "Médias & communication",
@@ -1014,7 +1095,7 @@
       "title": "Ligue des champions. Le RC Lens, détruit par Côme, a battu le triste record de la plus large défaite française en C1",
       "summary": "Lens a subi une débâcle historique (9-1) sur sa pelouse, mercredi 4 novembre, face au Côme de Cesc Fabregas. Les Nordistes ont par la même occasion battu le record de la plus large défaite d’un club français en Ligue des champions, détenu jusqu’alors par le Stade Brestois, battu par le PSG 7-0, en 2025. Et égalé celui toutes coupes d’Europe confondues…",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-rc-lens-detruit-par-come-a-battu-son-triste-record-de-la-plus-large-defaite-francaise-en-c1-68178cec-d895-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T22:03:42+00:00",
       "category": "Société",
@@ -1046,7 +1127,7 @@
       "title": "Masters 1000 de Paris. Fils, Halys et Alcaraz qualifiés, Zverev et Djokovic éliminés… Le résumé de la 3e journée",
       "summary": "Les Français Arthur Fils, Quentin Halys, Arthur Rinderknech et Luca Van Assche se sont qualifiés, ce mercredi 4 novembre, pour les 8es de finale du Masters 1000 de Paris. Tout comme l’Espagnol Carlos Alcaraz qui a validé son entrée en lice. C’est déjà terminé en revanche pour Novak Djokovic et pour le nouveau n°1 mondial, Alexender Zverev. Voici ce qu’il…",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/tennis/atp/masters-1000-de-paris-fils-halys-et-alcaraz-qualifies-zverev-et-djokovic-elimines-le-resume-de-la-3e-journee-5a46244a-d88e-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-04T21:59:55+00:00",
       "category": "Société",
@@ -1078,7 +1159,7 @@
       "title": "Législatives en Israël : Netanyahu assure qu'il existe de \"graves soupçons\" d'ingérence étrangère",
       "summary": "Le Premier ministre Benjamin Netanyahu a affirmé mercredi qu'il existait \"de graves soupçons\" d’ingérence étrangère dans les élections législatives israéliennes. De son côté, la Liste unifiée, principal parti arabe israélien, a dénoncé une \"persécution politique\", après des accusations relayées par le camp de Benjamin Netanyahu affirmant que l'un de ses…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/moyen-orient/20261104-l%C3%A9gislatives-isra%C3%ABl-netanyahu-assure-existe-graves-soup%C3%A7ons-ing%C3%A9rence-%C3%A9trang%C3%A8re",
       "published_at": "2026-11-04T21:56:30+00:00",
       "category": "Politique",
@@ -1354,22 +1435,6 @@
       "mention_count": 3
     },
     {
-      "id": "92f74a6fb2e7",
-      "title": "« Nous sommes une forme de laboratoire » : le nouveau patron du SPIP de Maine-et-Loire face à ses premiers défis",
-      "summary": "Nommé à la tête du Service pénitentiaire d’insertion et de probation (SPIP) de Maine-et-Loire en septembre 2026, Stéphane Dramé entend dresser un état des lieux du service et accompagner plusieurs chantiers, dont une expérimentation autour des enquêtes sociales rapides. À 32 ans, ce diplômé de Sciences Po Paris prend la direction d’un service dont…",
-      "source": "Ouest-France",
-      "feed_rank": 8,
-      "url": "https://www.ouest-france.fr/societe/justice/nous-sommes-une-forme-de-laboratoire-le-nouveau-patron-du-spip-de-maine-et-loire-face-a-ses-premiers-defis-98ae8fe6-d772-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-04T21:18:08+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Nous sommes une forme de laboratoire » : le nouveau patron du SPIP de Maine-et-Loire face à ses premiers défis ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "34b850097876",
       "title": "En RDC, l’OMS alerte sur la « pire épidémie de choléra depuis des décennies », avec 1 800 morts, sur fond de crise liée à Ebola",
       "summary": "Selon l’OMS, 2025 avait enregistré le nombre de cas signalés le plus élevé depuis plus de vingt-cinq ans, mais « l’année en cours s’annonce encore plus grave ».",
@@ -1520,7 +1585,7 @@
       "title": "Après la déroute des midterms, les règlements de compte commencent chez les républicains",
       "summary": "La guerre est déclarée, ou presque. Après la débâcle des républicains aux élections de mi-mandat, Donald Trump et ses alliés fustigent la piètre qualité des candidats, tandis que sur le terrain, les responsables locaux du parti pointent la responsabilité du président. Parmi les ténors, le vice-président J. D. Vance prend ses distances avec Trump en…",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261104-etats-unis-apres-deroute-midterms-reglements-compte-republicains-donald-trump-jd-vance-ron-desantis",
       "published_at": "2026-11-04T21:04:50+00:00",
       "category": "Politique",
@@ -1619,7 +1684,7 @@
       "title": "Midterms 2026 : un tsunami démocrate déferle sur les États-Unis et sur Donald Trump",
       "summary": "Les Américains ont infligé ce mardi 3 novembre une déroute au camp républicain lors des élections de mi-mandat en remportant la majorité des sièges au Sénat et à la Chambre des représentants. Un affront pour Donald Trump qui confirme la colère des électeurs face à la reprise de l’inflation et la guerre en Iran.",
       "source": "La Croix",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.la-croix.com/international/midterms-un-tsunami-bleu-deferle-sur-les-etats-unis-20261104",
       "published_at": "2026-11-04T21:00:24+00:00",
       "category": "Politique",
@@ -1716,7 +1781,7 @@
       "title": "Crise bancaire au Paraguay: l'opposition présente au Parlement une demande de destitution du président Peña",
       "summary": "Des députés d'opposition au Paraguay ont présenté mercredi 4 novembre au Parlement une demande de procédure de destitution visant le président Santiago Peña, au lendemain d'une crise qui a vu la Banque centrale prendre le contrôle d'une banque insolvable, liée ces dernières années au chef de l'État.",
       "source": "RFI",
-      "feed_rank": 12,
+      "feed_rank": 7,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261104-crise-bancaire-au-paraguay-l-opposition-pr%C3%A9sente-au-parlement-une-demande-de-destitution-du-pr%C3%A9sident-pe%C3%B1a",
       "published_at": "2026-11-04T20:53:39+00:00",
       "category": "Politique",
@@ -1831,22 +1896,6 @@
       "mention_count": 1
     },
     {
-      "id": "ec5cae208c62",
-      "title": "Cyberattaque visant le Crédit Mutuel Arkéa : une enquête ouverte et confiée à l’Office anticybercriminalité",
-      "summary": "Le parquet de Paris a indiqué mercredi 4 novembre avoir ouvert une enquête après le piratage qui a touché le Crédit Mutuel Arkéa. Les investigations ont été confiées à l’Office anticybercriminalité.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/economie/entreprises/credit-mutuel-arkea/cyberattaque-visant-le-credit-mutuel-arkea-une-enquete-ouverte-et-confiee-a-loffice-anticybercriminalite-49dd28c6-d88c-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-04T20:31:34+00:00",
-      "category": "Société",
-      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Cyberattaque visant le Crédit Mutuel Arkéa : une enquête ouverte et confiée à l’Office anticybercriminalité ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "dcb4f6444410",
       "title": "Mère fichée pour radicalisation, arme non chargée… Ce que l’on sait de l’agression de deux enseignantes dans une école à Nice",
       "summary": "La femme placée en garde à vue lundi après avoir séquestré une directrice et frappé une institutrice a été mise en examen ce mercredi 4 novembre. «Libération» fait le point sur ce que l’on sait de cette séquence.",
@@ -1858,22 +1907,6 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Mère fichée pour radicalisation, arme non chargée… Ce que l’on sait de l’agression de deux enseignantes dans une école à Nice ».",
       "coverage_sources": [
         "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b5ca1d134c2d",
-      "title": "VIDÉO. Bijou de Bellingham, égalisation de Mbappé et missile de Valverde… Le Real Madrid a fait le show à Athènes",
-      "summary": "Le Real Madrid a battu sur le fil l’AEK Athènes (2-3), en Grèce, ce mercredi 4 novembre grâce à un but inscrit dans les arrêts de jeu par l’Uruguayen Federico Valverde. Victorieux de ses quatre matches, le Real poursuit son sans-faute en Ligue des champions et suit le rythme du PSG.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/video-bijou-de-bellingham-egalisation-de-mbappe-et-missile-de-valverde-le-real-madrid-a-fait-le-show-a-athenes-7a720cea-d887-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-04T20:29:25+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « VIDÉO. Bijou de Bellingham, égalisation de Mbappé et missile de Valverde… Le Real Madrid a fait le show à Athènes ».",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1951,7 +1984,7 @@
       "title": "Midterms 2026 : Jon Ossoff, réélu en Géorgie, nourrit les espoirs démocrates pour la présidentielle de 2028",
       "summary": "<p>Il est assurément l’une des étoiles montantes du parti démocrate. Mais contre toute attente, Jon Ossoff assure n’avoir « aucune envie » de briguer la Maison-Blanche. Sa réélection au Sénat en <a href=\"https://www.20minutes.fr/monde/georgie/\">Géorgie</a>, mardi, nourrit pourtant les attentes de ses partisans pour la présidentielle américaine de 2028. A…",
       "source": "20 Minutes",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260451-20261104-midterms-2026-jon-ossoff-reelu-georgie-nourrit-espoirs-democrates-presidentielle-2028?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T20:21:46+00:00",
       "category": "Société",
@@ -2063,7 +2096,7 @@
       "title": "Guerre au Moyen-Orient : un mort au Liban dans une frappe israélienne… Le bilan du mercredi 4 novembre",
       "summary": "Le premier ministre libanais s’inquiète d’une nouvelle guerre en cas de frappes contre l’Iran. Les Américains ont dit « non à la guerre » lors des midterms, assure Téhéran. Retrouvez l’actualité du conflit au Moyen-Orient de ce mercredi 4 novembre.",
       "source": "La Croix",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-135-moyen-orient-bilan-resume-aujourdhui-20261104",
       "published_at": "2026-11-04T20:10:23+00:00",
       "category": "Politique",
@@ -2111,7 +2144,7 @@
       "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du mercredi 4 novembre",
       "summary": "Des frappes ukrainiennes ont privé d’électricité la Crimée, territoire annexé par la Russie depuis 2014. Un des entrepôts du géant russe du commerce en ligne Ozon a pris feu après une attaque de drones. Retrouvez l’actualité de la guerre en Ukraine de ce mercredi 4 novembre.",
       "source": "La Croix",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.la-croix.com/international/ukraine-russie-jour-1715-point-conflit-ukrainien-poutine-aujourdhui-20261104",
       "published_at": "2026-11-04T20:03:18+00:00",
       "category": "Économie",
@@ -2335,7 +2368,7 @@
       "title": "Épidémie de choléra en RDC : 1 800 morts depuis le début de l’année",
       "summary": "La RDC fait face à sa pire épidémie de choléra depuis des décennies. Mercredi 4 novembre, à Genève, le directeur général de l’OMS Tedros Adhanom Ghebreyesus a alerté sur 1 800 morts et plus de 60 000 cas recensés depuis janvier 2026.",
       "source": "La Croix",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.la-croix.com/international/epidemie-de-cholera-en-rdc-1-800-morts-depuis-le-debut-de-l-annee-20261104",
       "published_at": "2026-11-04T19:45:29+00:00",
       "category": "Société",
@@ -2383,7 +2416,7 @@
       "title": "Le gouvernement maintient sa prévision de croissance pour 2026, les experts n’y croient pas",
       "summary": "<p>Le Haut Conseil des finances publiques (HCFP) juge l’objectif « difficilement atteignable ». Le gouvernement maintient pourtant, ce mercredi, ses prévisions de <a href=\"https://www.20minutes.fr/economie/croissance/\">croissance</a> du produit intérieur brut (<a href=\"https://www.20minutes.fr/economie/pib/\">PIB</a>) de 0,5 % 2026 et un déficit public à…",
       "source": "20 Minutes",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.20minutes.fr/economie/4260460-20261104-gouvernement-maintient-prevision-croissance-2026-experts-croient?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T19:38:39+00:00",
       "category": "Politique",
@@ -2415,7 +2448,7 @@
       "title": "Midterms : une vague démocrate, et après ?",
       "summary": "C’est une vague bleue au Congrès américain. Un \"bluenami\", comme le décrit la presse américaine. Les démocrates ont pris le contrôle de la Chambre des représentants mais aussi du Sénat. Donald Trump a accepté le résultat des élections, tout en affirmant sur son réseau Truth Social que \"les républicains auraient gagné si son propre nom avait été sur le…",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261104-midterms-une-vague-d%C3%A9mocrate-et-apr%C3%A8s",
       "published_at": "2026-11-04T19:37:55+00:00",
       "category": "Politique",
@@ -2434,7 +2467,7 @@
       "title": "Les attentes des Michiganais après l'élection d'Abdul el-Sayed au poste de sénateur",
       "summary": "Abdul el-Sayed, le candidat démocrate pour le siège de sénateur du Michigan, a été élu ce mardi lors des élections de mi-mandat aux États-Unis, au terme d'une course très suivie. Qu'attendent désormais les électeurs de leur nouvel élu ? Valentin Cacheux leur a posé la question dans les rues de Détroit.",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261104-attentes-michiganais-apr%C3%A8s-%C3%A9lection-abdul-el-sayed-s%C3%A9nateur-d%C3%A9troit-%C3%A9lections-mi-mandat-midterms-2026-%C3%A9tats-unis-politique",
       "published_at": "2026-11-04T19:37:52+00:00",
       "category": "Politique",
@@ -2514,7 +2547,7 @@
       "title": "VAGUE BLEUE : LE CAMP MAGA À L’ÉPREUVE ?",
       "summary": "Les démocrates remportent une large victoire aux élections de mi-mandat. Un revers pour Donald Trump et le camp MAGA, déjà divisés sur la guerre en Iran. Cette vague bleue peut-elle infléchir la politique américaine au Moyen-Orient, en Ukraine et en Europe ? Richard Werly, correspondant France-Europe pour le quotidien suisse Blick et auteur de Cette…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261104-vague-bleue-le-camp-maga-%C3%A0-l-%C3%A9preuve",
       "published_at": "2026-11-04T19:31:41+00:00",
       "category": "Politique",
@@ -2594,7 +2627,7 @@
       "title": "Israël: Gadi Eisenkot s'engage à renouveler les relations avec Washington s'il devient Premier ministre",
       "summary": "Gadi Eisenkot, principal rival du Premier ministre Benyamin Netanyahu, s'est engagé mercredi 4 novembre à « renouveler et renforcer les relations » avec les États-Unis s'il devenait chef du gouvernement à l'issue des tractations engagées à la suite des législatives en Israël.",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261104-isra%C3%ABl-gadi-eisenkot-s-engage-%C3%A0-renouveler-les-relations-avec-washington-s-il-devient-premier-ministre",
       "published_at": "2026-11-04T19:25:58+00:00",
       "category": "Politique",
@@ -2787,7 +2820,7 @@
       "title": "États-Unis: une victoire démocrate d’une ampleur rare dans l’histoire des midterms",
       "summary": "Le ⁠Parti démocrate sort largement victorieux dans les deux chambres du Congrès américain à l'issue des ⁠élections de ce mardi 3 novembre. Une défaite cinglante pour l'exécutif, qui, si elle n'est pas inédite, reste assez rare dans l'histoire récente des États-Unis.",
       "source": "RFI",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261104-%C3%A9tats-unis-une-victoire-d%C3%A9mocrate-d-une-ampleur-rare-dans-l-histoire-des-midterms",
       "published_at": "2026-11-04T19:09:23+00:00",
       "category": "Politique",
@@ -3060,7 +3093,7 @@
       "title": "Midterms 2026 : avec Gina Hinojosa, les démocrates retrouvent l’exécutif au Texas, après 30 ans d’absence",
       "summary": "Première femme d’origine hispanique élue à cette fonction, cette ancienne avocate a devancé de plus de sept points le gouverneur sortant. Les démocrates, qui ont aussi repris à l’occasion de ces élections de mi-mandat le contrôle de la Chambre des représentants locale, devront toutefois composer avec un Sénat du Texas resté républicain.",
       "source": "La Croix",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.la-croix.com/international/midterms-2026-avec-gina-hinojosa-les-democrates-retrouvent-l-executif-au-texas-apres-30-ans-dabsence-20261104",
       "published_at": "2026-11-04T18:56:40+00:00",
       "category": "Politique",
@@ -3076,7 +3109,7 @@
       "title": "Affaire Dupont de Ligonnès : l’Arcom épingle M6 après la diffusion du témoignage d’un faux prêtre",
       "summary": "Saisi par Mgr Bruno Valentin, évêque de Carcassonne (Aude), le régulateur de l’audiovisuel a reproché, mardi 3 novembre 2026, à l’émission « Appel à témoins » de ne pas avoir vérifié le récit d’un faux prêtre affirmant avoir confessé le fugitif nantais. Il lui adresse une mise en garde formelle.",
       "source": "La Croix",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.la-croix.com/religion/affaire-dupont-de-ligonnes-l-arcom-epingle-m6-apres-la-diffusion-du-temoignage-dun-faux-pretre-20261104",
       "published_at": "2026-11-04T18:52:38+00:00",
       "category": "Société",
@@ -3092,7 +3125,7 @@
       "title": "Budget 2027 : le fonds chaleur, plébiscité mais écorné",
       "summary": "Le gouvernement a annoncé la suspension des nouvelles demandes de financement auprès du fonds chaleur. Un dispositif qui, depuis dix-sept ans, a permis le décollage des réseaux de chauffage collectifs alimentés aux énergies renouvelables.",
       "source": "La Croix",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.la-croix.com/planete/budget-2027-le-fonds-chaleur-plebiscite-mais-ecorne-20261104",
       "published_at": "2026-11-04T18:51:40+00:00",
       "category": "Politique",
@@ -3172,7 +3205,7 @@
       "title": "Guerre en Ukraine : La défaite de Trump interroge, le bilan du massacre à Komychouvakha s’alourdit encore",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://www.20minutes.fr/monde/ukraine/\">guerre en Ukraine</a> ? <em>20 Minutes</em> fait le point pour vous tous les soirs. Voici l’essentiel de ce mercredi 4 novembre 2026, au 1.715e jour du conflit.</p><h2>Le fait du jour</h2><p>La <a…",
       "source": "20 Minutes",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.20minutes.fr/monde/ukraine/4260427-20261104-guerre-ukraine-defaite-trump-interroge-bilan-massacre-komychouvakha-alourdit-encore?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T18:49:16+00:00",
       "category": "Politique",
@@ -3332,7 +3365,7 @@
       "title": "Cyberattaque au Crédit Mutuel Arkéa : La banque française évalue ses pertes à plus de 100 millions d’euros",
       "summary": "<p>Plus de 100 millions d’euros auraient été détournés lors d’une <a href=\"https://www.20minutes.fr/dossier/cyberattaque\">cyberattaque</a> contre Crédit Mutuel Arkéa, annoncée par la banque mercredi soir dans un communiqué. Le groupe n’a pas confirmé le montant précis de 118 millions d’euros, soit 133 millions de dollars, avancé par <em>Le…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/societe/4260454-20261104-cyberattaque-credit-mutuel-banque-francaise-evalue-pertes-plus-100-millions-euros?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T18:44:39+00:00",
       "category": "Économie",
@@ -3604,7 +3637,7 @@
       "title": "🔴 Midterms en direct : la guerre en Iran \"valait la peine\" malgré la défaite électorale, juge Donald Trump",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
       "published_at": "2026-11-04T18:32:05+00:00",
       "category": "International",
@@ -3660,6 +3693,22 @@
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « “The Greatest”, sur Prime Video : un biopic efficace du boxeur Cassius Clay, avec et sans ses gants ».",
       "coverage_sources": [
         "Télérama"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4eaf3b1f1ef5",
+      "title": "Le Royaume-Uni devrait présenter des excuses officielles pour son rôle dans l’esclavage, mais refuse d’envisager le paiement de réparations",
+      "summary": "Lors du sommet du Commonwealth qui s’est achevé mercredi, dans les Caraïbes, le gouvernement britannique a écarté tout débat sur les réparations liées à la traite des esclaves, que réclament les pays concernés. Le roi a lui exprimé son « horreur » face à l’esclavage.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/international/article/2026/11/04/le-royaume-uni-devrait-presenter-des-excuses-officielles-pour-son-role-dans-l-esclavage-mais-refuse-d-envisager-le-paiement-de-reparations_6806423_3210.html",
+      "published_at": "2026-11-04T18:30:01+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Le Royaume-Uni devrait présenter des excuses officielles pour son rôle dans l’esclavage, mais refuse d’envisager le paiement de réparations ».",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3829,7 +3878,7 @@
       "title": "L'actu en dessin : le président Trump submergé par une vague démocrate lors des midterms",
       "summary": "Une vague démocrate a déferlé jusque dans des bastions républicains lors des élections de mi-mandat, alimentée par la colère suscitée par la flambée des prix de l'énergie et la longue guerre contre l'Iran. Un vote sanction qui constitue une humiliation personnelle pour le président américain Donald Trump, même s'il a dit ne pas se sentir visé, et qui…",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261104-actu-en-dessin-pr%C3%A9sident-trump-submerg%C3%A9-vague-d%C3%A9mocrate-midterms",
       "published_at": "2026-11-04T18:19:48+00:00",
       "category": "Politique",
@@ -3884,22 +3933,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Sydney Sweeney : la comédienne pourrait devenir la voisine du prince Harry et Meghan Markle » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "01e1fd8d2343",
-      "title": "Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne",
-      "summary": "Lycéens et enseignants seront réunis autour des ministres concernés, afin de présenter de « premières recommandations courant novembre », a déclaré le premier ministre.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/04/parcoursup-sebastien-lecornu-annonce-une-premiere-reunion-lundi-pour-reformer-la-plateforme-d-orientation-sur-fond-de-mobilisation-lyceenne_6806420_823448.html",
-      "published_at": "2026-11-04T18:17:38+00:00",
-      "category": "Politique",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Parcoursup : Sébastien Lecornu annonce une première réunion lundi pour réformer la plateforme d’orientation, sur fond de mobilisation lycéenne ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4135,7 +4168,7 @@
       "title": "Une \"maison de torture\" à Kiev ? Comment la photo d'un enfant a été instrumentalisée par la Russie",
       "summary": "Lundi, près de Kiev, des rumeurs de torture dans un centre de détention de déserteurs géré par la Garde nationale ukrainienne ont déclenché une manifestation violente. La diplomatie russe et des responsables d'extrême droite européens ont par la suite diffusé la photo d'un adolescent présenté comme une victime du centre. Ce dernier faisait en fait partie…",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/europe/20261104-ukraine-maison-torture-kiev-photo-enfant-instrumentalis%C3%A9e-russie",
       "published_at": "2026-11-04T18:07:55+00:00",
       "category": "Société",
@@ -4535,7 +4568,7 @@
       "title": "Midterms : Donald Trump face au verdict des urnes",
       "summary": "Matthieu Mabin analyse la situation en direct de Washington.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-donald-trump-face-au-verdict-des-urnes-1",
       "published_at": "2026-11-04T17:57:34+00:00",
       "category": "Société",
@@ -4583,7 +4616,7 @@
       "title": "En Israël, la fin de l’aide militaire américaine créé la stupeur",
       "summary": "Donald Trump a mis fin, à la surprise quasi générale, mardi 3 novembre, aux 3,8 milliards de dollars versés à Israël par an pour sa sécurité. Annonce électoraliste ou tournant dans la relation américano-israélienne ? Le calendrier étonne plus que la fin de cette aide elle-même.",
       "source": "La Croix",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.la-croix.com/international/en-israel-la-fin-de-l-aide-militaire-americaine-cree-la-stupeur-20261104",
       "published_at": "2026-11-04T17:49:59+00:00",
       "category": "International",
@@ -4743,7 +4776,7 @@
       "title": "L’UE promet de simplifier encore des lois environnementales, les ONG s’inquiètent",
       "summary": "La Commission européenne a annoncé mercredi 4 novembre la révision, en 2027, des directives Oiseaux, Habitats et du réseau Natura 2000. Une décision qui suscite l’inquiétude des ONG et relance le débat sur l’avenir de la politique environnementale européenne.",
       "source": "La Croix",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.la-croix.com/economie/l-ue-promet-de-simplifier-encore-des-lois-environnementales-les-ong-sinquietent-20261104",
       "published_at": "2026-11-04T17:40:27+00:00",
       "category": "Politique",
@@ -4775,7 +4808,7 @@
       "title": "Onze jours en Amérique du Sud : le pape Léon XIV se prépare à d'intenses retrouvailles",
       "summary": "Le pape Léon XIV doit entamer vendredi l'un des voyages à l'étranger les plus ambitieux d'un souverain pontife depuis des décennies, en se rendant en Uruguay, en Argentine et dans sa patrie d'adoption, le Pérou, malgré une récente opération pour un cancer du poumon.",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261104-pape-leon-xiv-voyage-amerique-sud-retrouvailles-intenses-perou-argentine-uruguay",
       "published_at": "2026-11-04T17:36:21+00:00",
       "category": "Société",
@@ -4985,7 +5018,7 @@
       "title": "L'interdiction de Palestine Action contestée devant la Cour suprême britannique",
       "summary": "Vingt-cinq personnes ont été arrêtées ce mercredi matin 4 novembre à Londres, devant la Cour suprême de justice, pour avoir manifesté leur soutien à Palestine Action, groupe de désobéissance civile qui proteste contre l’aide militaire à Israël, et considéré comme terroriste depuis 15 mois. La plus haute instance judiciaire britannique justement doit…",
       "source": "RFI",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.rfi.fr/fr/europe/20261104-l-interdiction-de-palestine-action-contest%C3%A9e-devant-la-cour-supr%C3%AAme-britannique",
       "published_at": "2026-11-04T17:29:44+00:00",
       "category": "Société",
@@ -5049,7 +5082,7 @@
       "title": "Midterms: et maintenant, quelle politique environnementale aux États-Unis?",
       "summary": "Il n'a quasiment pas été question d'Environnement dans la campagne électorale qui s'est achevée aux États-Unis. Le sujet inquiète pourtant les Américains, selon un sondage. Maintenant que les démocrates ont remporté la majorité aux deux chambres du Congrès, ils vont pouvoir bloquer les nouvelles mesures climaticides que Donald Trump pourrait vouloir…",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261104-midterms-et-maintenant-quelle-politique-environnementale-aux-%C3%A9tats-unis",
       "published_at": "2026-11-04T17:27:03+00:00",
       "category": "Politique",
@@ -5161,7 +5194,7 @@
       "title": "Martyre de l'A10 : L’accusée s’effondre devant les photos de l’autopsie et la liste des sévices subis par sa fille",
       "summary": "<p><strong>À la cour d’assises de Blois,</strong></p><p>En un instant, un silence de plomb s’est abattu sur la cour d’assises de Blois. À l’écran, des images de l’autopsie d’Inass Touloub sont projetées. Le corps supplicié de la<a…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/justice/4259848-20261104-martyre-10-accusee-effondre-devant-photos-autopsie-liste-sevices-subis-enfant?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T17:17:43+00:00",
       "category": "Société",
@@ -5241,7 +5274,7 @@
       "title": "Aide à mourir : la mairie de Paris condamnée pour sa campagne d’affichage de 2024",
       "summary": "Dans un jugement rendu lundi 2 novembre, le tribunal administratif de Paris a estimé que la Ville de Paris avait enfreint le « principe de neutralité du service public » en diffusant un slogan favorable à l’aide à mourir avant même que le texte de loi soit débattu au Parlement.",
       "source": "La Croix",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.la-croix.com/societe/aide-a-mourir-la-mairie-de-paris-condamnee-pour-sa-campagne-d-affichage-de-2024-20261104",
       "published_at": "2026-11-04T17:10:59+00:00",
       "category": "Politique",
@@ -5312,38 +5345,6 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « \"Je pense que c’est quelqu’un du village\"… Des tags politiques usent les nerfs et les finances de Saint-Georges-de-Luzençon » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a50cc47ab71d",
-      "title": "Génération Z : une colère mondiale",
-      "summary": "Chaque semaine, “Courrier international” explique ses choix éditoriaux. Dans l’hebdomadaire en kiosque le jeudi 5 novembre, jour de la grande mobilisation en France, nous consacrons un long dossier à la jeunesse qui, partout en Europe mais aussi en Inde, en Indonésie, au Chili, en Tunisie… se mobilise pour le droit à une vie digne, pour un renouveau…",
-      "source": "Courrier International",
-      "feed_rank": 6,
-      "url": "https://www.courrierinternational.com/article/a-la-une-du-magazine-generation-z-une-colere-mondiale_284868",
-      "published_at": "2026-11-04T17:07:15+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Génération Z : une colère mondiale ».",
-      "coverage_sources": [
-        "Courrier International"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b3d31534c113",
-      "title": "Mâchoire carrée et regard de braise, le fils de David Hallyday pose pour un grand magazine de mode américain",
-      "summary": "Cameron Smet semble se diriger de plus en plus vers une carrière de mannequin. Sur Instagram, il a révélé sa nouvelle collaboration avec un magazine de mode.",
-      "source": "Paris Match",
-      "feed_rank": 8,
-      "url": "https://www.parismatch.com/machoire-carree-regard-braise-fils-david-hallyday-pose-pour-grand-magazine-mode-americain-4iIk5lHdPCvACFPhFkQIMV",
-      "published_at": "2026-11-04T17:07:01+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Mâchoire carrée et regard de braise, le fils de David Hallyday pose pour un grand magazine de mode américain ».",
-      "coverage_sources": [
-        "Paris Match"
       ],
       "coverage_count": 1,
       "mention_count": 1
