@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-05T00:00:19.287470+00:00",
-  "last_attempt": "2026-11-05T00:00:19.287470+00:00",
+  "last_updated": "2026-11-05T01:00:19.123253+00:00",
+  "last_attempt": "2026-11-05T01:00:19.123253+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 895,
-  "unique_story_count": 783,
+  "raw_article_count": 894,
+  "unique_story_count": 785,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -14,22 +14,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Dauphiné Libéré, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-05T00:00:19.287470+00:00",
-  "featured_window_end": "2026-11-05T00:00:19.287470+00:00",
-  "featured_pool_count": 894,
+  "featured_window_start": "2026-10-05T01:00:19.123253+00:00",
+  "featured_window_end": "2026-11-05T01:00:19.123253+00:00",
+  "featured_pool_count": 893,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "819be122e5c6",
-      "title": "Midterms 2026 : Le parti républicain divisé sur Donald Trump et l’avenir du mouvement MAGA",
-      "summary": "<p>Les républicains doivent choisir leur ligne après leur défaite aux élections de mi-mandat : rester fidèles à <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> ou s’éloigner du mouvement <a href=\"https://www.20minutes.fr/politique/maga/\">MAGA</a>. Mercredi, les projections des médias américains ont annoncé plus de 40 sièges…",
+      "id": "0638bea54f3a",
+      "title": "Budget 2027 : Coup dur pour Lecornu, le projet de loi rejeté à l’unanimité à l’Assemblée",
+      "summary": "<p><a href=\"https://www.20minutes.fr/politique/sebastien-lecornu/\">Sébastien Lecornu</a> va devoir revoir sa copie et surtout trouver des compromis s’il veut éviter la censure. Après une dizaine de jours de débats, les députés ont rejeté mercredi à l’unanimité le projet de budget de l’État pour 2027 profondément transformé. Le texte arrivera donc au…",
       "source": "20 Minutes",
-      "feed_rank": 1,
-      "url": "https://www.20minutes.fr/monde/etats-unis/4260472-20261105-midterms-2026-parti-republicain-divise-donald-trump-avenir-mouvement-maga?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-04T23:55:43+00:00",
-      "category": "International",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026 : Le parti républicain divisé sur Donald Trump et l’avenir du mouvement MAGA ».",
+      "feed_rank": 2,
+      "url": "https://www.20minutes.fr/politique/assemblee_nationale/4260480-20261105-budget-2027-coup-dur-lecornu-projet-loi-rejete-unanimite-assemblee?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-05T00:37:41+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget 2027 : Coup dur pour Lecornu, le projet de loi rejeté à l’unanimité à l’Assemblée ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -71,8 +71,8 @@
       ],
       "coverage_count": 37,
       "mention_count": 253,
-      "importance_score": 37.033,
-      "latest_coverage_at": "2026-11-04T23:55:43+00:00"
+      "importance_score": 37.03,
+      "latest_coverage_at": "2026-11-05T00:37:41+00:00"
     },
     {
       "id": "a632bba46478",
@@ -99,7 +99,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 18,
-      "importance_score": 24.468,
+      "importance_score": 24.46,
       "latest_coverage_at": "2026-11-04T22:58:35+00:00"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 16,
-      "importance_score": 23.944,
+      "importance_score": 23.918,
       "latest_coverage_at": "2026-11-04T23:41:50+00:00"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 22.129,
+      "importance_score": 22.111,
       "latest_coverage_at": "2026-11-04T21:23:02+00:00"
     },
     {
@@ -177,19 +177,19 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.241,
+      "importance_score": 21.244,
       "latest_coverage_at": "2026-11-04T21:05:39+00:00"
     },
     {
-      "id": "474f07e25617",
-      "title": "Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent du triple homicide commis à Marseille en 2020",
-      "summary": "Fondateur présumé de la DZ mafia, Amine Oualane voit dans les accusations de son ancien partenaire Zakaria Bensaci la main du clan Yoda.",
+      "id": "40107c4d2fd5",
+      "title": "Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent mutuellement du triple homicide commis à Marseille en 2020",
+      "summary": "Fondateur présumé de la DZ Mafia, Amine Oualane voit dans les accusations de son ancien partenaire Zakaria Bensaci la main du clan Yoda.",
       "source": "Le Monde",
       "feed_rank": 8,
       "url": "https://www.lemonde.fr/societe/article/2026/11/04/aux-assises-des-bouches-du-rhone-les-ex-amis-amine-oualane-et-zakaria-bensaci-s-accusent-du-triple-homicide-commis-a-marseille-en-2020_6806465_3224.html",
-      "published_at": "2026-11-04T22:42:50+00:00",
+      "published_at": "2026-11-04T22:42:48+00:00",
       "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent du triple homicide commis à Marseille en 2020 ».",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent mutuellement du triple homicide commis à Marseille en 2020 ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -200,8 +200,8 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.076,
-      "latest_coverage_at": "2026-11-04T22:42:50+00:00"
+      "importance_score": 19.059,
+      "latest_coverage_at": "2026-11-04T22:42:48+00:00"
     },
     {
       "id": "fa53355e89dd",
@@ -223,7 +223,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.006,
+      "importance_score": 19.003,
       "latest_coverage_at": "2026-11-04T16:25:06+00:00"
     },
     {
@@ -245,7 +245,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.891,
+      "importance_score": 17.889,
       "latest_coverage_at": "2026-11-04T20:21:25+00:00"
     },
     {
@@ -267,7 +267,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.685,
+      "importance_score": 17.682,
       "latest_coverage_at": "2026-11-04T21:59:55+00:00"
     },
     {
@@ -289,7 +289,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.354,
+      "importance_score": 17.351,
       "latest_coverage_at": "2026-11-04T18:10:23+00:00"
     },
     {
@@ -310,7 +310,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.722,
+      "importance_score": 16.719,
       "latest_coverage_at": "2026-11-04T21:51:18+00:00"
     },
     {
@@ -331,7 +331,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.613,
+      "importance_score": 16.611,
       "latest_coverage_at": "2026-11-04T19:18:28+00:00"
     },
     {
@@ -352,7 +352,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.542,
+      "importance_score": 16.539,
       "latest_coverage_at": "2026-11-04T22:38:43+00:00"
     },
     {
@@ -360,7 +360,7 @@
       "title": "Présidentielle: Gabriel Attal persiste et maintient qu'une primaire aura lieu à droite et au centre",
       "summary": "Présidentielle: Gabriel Attal persiste et maintient qu'une primaire aura lieu à droite et au centre",
       "source": "BFMTV",
-      "feed_rank": 23,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-gabriel-attal-persiste-et-maintient-qu-une-primaire-aura-lieu-a-droite-et-au-centre_VN-202611040972.html",
       "published_at": "2026-11-04T21:16:45+00:00",
       "category": "Société",
@@ -373,7 +373,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.49,
+      "importance_score": 16.469,
       "latest_coverage_at": "2026-11-04T21:16:45+00:00"
     },
     {
@@ -394,7 +394,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.19,
+      "importance_score": 16.187,
       "latest_coverage_at": "2026-11-04T19:29:15+00:00"
     },
     {
@@ -415,7 +415,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.143,
+      "importance_score": 16.14,
       "latest_coverage_at": "2026-11-04T19:05:59+00:00"
     },
     {
@@ -436,7 +436,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.14,
+      "importance_score": 16.138,
       "latest_coverage_at": "2026-11-04T22:20:20+00:00"
     },
     {
@@ -457,7 +457,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.134,
+      "importance_score": 16.131,
       "latest_coverage_at": "2026-11-04T20:00:00+00:00"
     },
     {
@@ -478,7 +478,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.116,
+      "importance_score": 16.113,
       "latest_coverage_at": "2026-11-04T21:40:20+00:00"
     },
     {
@@ -499,11 +499,43 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.114,
+      "importance_score": 16.111,
       "latest_coverage_at": "2026-11-04T21:01:41+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "0638bea54f3a",
+      "title": "Budget 2027 : Coup dur pour Lecornu, le projet de loi rejeté à l’unanimité à l’Assemblée",
+      "summary": "<p><a href=\"https://www.20minutes.fr/politique/sebastien-lecornu/\">Sébastien Lecornu</a> va devoir revoir sa copie et surtout trouver des compromis s’il veut éviter la censure. Après une dizaine de jours de débats, les députés ont rejeté mercredi à l’unanimité le projet de budget de l’État pour 2027 profondément transformé. Le texte arrivera donc au…",
+      "source": "20 Minutes",
+      "feed_rank": 2,
+      "url": "https://www.20minutes.fr/politique/assemblee_nationale/4260480-20261105-budget-2027-coup-dur-lecornu-projet-loi-rejete-unanimite-assemblee?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-05T00:37:41+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget 2027 : Coup dur pour Lecornu, le projet de loi rejeté à l’unanimité à l’Assemblée ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1f7edbbf08b8",
+      "title": "Midterms 2026 : Largement battu, Donald Trump se réfugie dans sa salle de bal",
+      "summary": "<p>Au lendemain de la défaite républicaine aux <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a>, <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> a consacré sa première apparition publique à <a…",
+      "source": "20 Minutes",
+      "feed_rank": 4,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4260492-20261105-midterms-2026-largement-battu-donald-trump-refugie-salle-bal?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-05T00:26:21+00:00",
+      "category": "International",
+      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Midterms 2026 : Largement battu, Donald Trump se réfugie dans sa salle de bal » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "819be122e5c6",
       "title": "Midterms 2026 : Le parti républicain divisé sur Donald Trump et l’avenir du mouvement MAGA",
@@ -621,7 +653,7 @@
       "title": "RC Lens - Côme : la réaction de Ruben Aguilar après la déroute historique",
       "summary": "Lens battu à domicile par Côme, 9 buts à 1 en Ligue des champions. Une défaite historique pour un club français. \"On s'est fait marcher dessus\", reconnaît Ruben Aguilar.",
       "source": "BFMTV",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.bfmtv.com/grand-littoral/sport/video-rc-lens-come-la-reaction-de-ruben-aguilar-apres-la-deroute-historique_VN-202611041006.html",
       "published_at": "2026-11-04T22:57:34+00:00",
       "category": "Société",
@@ -717,7 +749,7 @@
       "title": "FORUM BFMTV - Passe d'armes entre Matthieu Valet, porte-parole du \"Rassemblement national\" et Mélanie Vogel, présidente du groupe \"Écologiste\" au Sénat, au sujet des mesures d'urgence pour lutter contre la vie chère",
       "summary": "Entre inflation et baisse du pouvoir d’achat, BFMTV consacre une soirée spéciale à l’enlisement de la crise sociale en France. Confrontés à cette situation de crise, les Français sont de plus en plus nombreux à faire entendre leur voix. Ce mercredi 4 novembre, BFMTV a proposé un nouveau numéro du FORUM BFMTV : « Manifs, vie chère : la France à cran »…",
       "source": "BFMTV",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.bfmtv.com/politique/video-forum-bfmtv-passe-d-armes-entre-matthieu-valet-porte-parole-du-rassemblement-national-et-melanie-vogel-presidente-du-groupe-ecologiste-au-senat-au-sujet-des-mesures-d-urgence-pour-lutter-contre-la-vie-chere_VN-202611041001.html",
       "published_at": "2026-11-04T22:44:04+00:00",
       "category": "Politique",
@@ -726,18 +758,18 @@
         "BFMTV"
       ],
       "coverage_count": 1,
-      "mention_count": 9
+      "mention_count": 11
     },
     {
-      "id": "474f07e25617",
-      "title": "Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent du triple homicide commis à Marseille en 2020",
-      "summary": "Fondateur présumé de la DZ mafia, Amine Oualane voit dans les accusations de son ancien partenaire Zakaria Bensaci la main du clan Yoda.",
+      "id": "40107c4d2fd5",
+      "title": "Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent mutuellement du triple homicide commis à Marseille en 2020",
+      "summary": "Fondateur présumé de la DZ Mafia, Amine Oualane voit dans les accusations de son ancien partenaire Zakaria Bensaci la main du clan Yoda.",
       "source": "Le Monde",
       "feed_rank": 8,
       "url": "https://www.lemonde.fr/societe/article/2026/11/04/aux-assises-des-bouches-du-rhone-les-ex-amis-amine-oualane-et-zakaria-bensaci-s-accusent-du-triple-homicide-commis-a-marseille-en-2020_6806465_3224.html",
-      "published_at": "2026-11-04T22:42:50+00:00",
+      "published_at": "2026-11-04T22:42:48+00:00",
       "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent du triple homicide commis à Marseille en 2020 ».",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Aux assises des Bouches-du-Rhône, les ex-amis Amine Oualane et Zakaria Bensaci s’accusent mutuellement du triple homicide commis à Marseille en 2020 ».",
       "coverage_sources": [
         "Le Monde"
       ],
@@ -749,7 +781,7 @@
       "title": "Procès du triple narchomicide près de Marseille: un mis en cause maintient ses déclarations chocs contre d'autres accusés",
       "summary": "Mercredi 4 novembre, au procès du triple narchomicide près de Marseille, un des mis en cause a réitéré des accusations contre les autres accusés.",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.bfmtv.com/marseille/proces-du-triple-narchomicide-pres-de-marseille-un-mis-en-cause-maintient-ses-declarations-chocs-contre-d-autres-accuses_AD-202611040997.html",
       "published_at": "2026-11-04T22:41:19+00:00",
       "category": "Société",
@@ -792,11 +824,10 @@
         "BFMTV",
         "Libération",
         "Ouest-France",
-        "LCP",
-        "Le Dauphiné Libéré"
+        "LCP"
       ],
-      "coverage_count": 7,
-      "mention_count": 7
+      "coverage_count": 6,
+      "mention_count": 6
     },
     {
       "id": "8300ab96302a",
@@ -966,7 +997,7 @@
       "title": "Lens-Côme: 1-9, le naufrage terriblement gênant des Sang et Or en Ligue des champions",
       "summary": "Dans un Bollaert abasourdi, le RC Lens a subi une défaite inimaginable (9-1), ce mercredi, face au Côme de Cesc Fabregas, en Ligue des champions. Une terrible gifle et une immense tâche sur l'histoire du football français en Coupe d'Europe.",
       "source": "BFMTV",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/lens-come-1-9-le-naufrage-terriblement-genant-des-sang-et-or-en-ligue-des-champions_AV-202611040981.html",
       "published_at": "2026-11-04T21:59:18+00:00",
       "category": "Sport",
@@ -1096,7 +1127,7 @@
       "title": "Tech & Co, la quotidienne - Mercredi 4 novembre",
       "summary": "Ce mercredi 4 novembre, François Sorel a reçu Isabelle Bordry, fondatrice de Retency, Frédéric Duval, ancien directeur général d'Amazon France, Frédéric Simottel, journaliste BFM Business, Julien Thibaud, journaliste BFM Business, Sylvain Trinel, journaliste BFM Tech, Roxanne Varza, directrice de Station F, Jaime Alonso, PDG d'Ethylowheel, Mel Landelle,…",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-tech-co-la-quotidienne-mercredi-4-novembre_VN-202611040984.html",
       "published_at": "2026-11-04T21:36:12+00:00",
       "category": "Médias & communication",
@@ -1208,7 +1239,7 @@
       "title": "Résultats Loto FDJ: le tirage du mercredi 4 novembre 2026",
       "summary": "Le Loto a procédé à son deuxième tirage hebdomadaire ce mercredi 4 novembre 2026. Les résultats du tirage sont disponibles ci-dessous.",
       "source": "BFMTV",
-      "feed_rank": 21,
+      "feed_rank": 23,
       "url": "https://www.bfmtv.com/loto/resultats-loto-fdj-le-tirage-du-mercredi-4-novembre-2026_AN-202611040059.html",
       "published_at": "2026-11-04T21:20:00+00:00",
       "category": "Société",
@@ -1240,7 +1271,7 @@
       "title": "Donald Trump juge \"en grande partie vrai\" que la guerre en Iran a causé la défaite aux midterms, après des commentaires de JD Vance",
       "summary": "Le président américain Donald Trump a déclaré, ce mercredi, que la guerre en Iran avait largement contribué à la défaite des Républicains aux élections de mi-mandat. Avant lui, le vice-président JD Vance avait évoqué les mêmes raisons.",
       "source": "BFMTV",
-      "feed_rank": 22,
+      "feed_rank": 24,
       "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/donald-trump-juge-en-grande-partie-vrai-que-la-guerre-en-iran-a-cause-la-defaite-aux-midterms-apres-des-commentaires-de-jd-vance_AD-202611040968.html",
       "published_at": "2026-11-04T21:19:10+00:00",
       "category": "Politique",
@@ -1306,7 +1337,7 @@
       "title": "Présidentielle: Gabriel Attal persiste et maintient qu'une primaire aura lieu à droite et au centre",
       "summary": "Présidentielle: Gabriel Attal persiste et maintient qu'une primaire aura lieu à droite et au centre",
       "source": "BFMTV",
-      "feed_rank": 23,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-gabriel-attal-persiste-et-maintient-qu-une-primaire-aura-lieu-a-droite-et-au-centre_VN-202611040972.html",
       "published_at": "2026-11-04T21:16:45+00:00",
       "category": "Société",
@@ -1384,38 +1415,6 @@
       "mention_count": 2
     },
     {
-      "id": "a402179367e5",
-      "title": "La piste du matricide se profile après la mort d'une femme de 57 ans en Alsace en octobre",
-      "summary": "Le parquet de Strasbourg a communiqué sur la mort d'une femme à Gumbrechtshoffen en octobre. Il évoque la piste d'un matricide.",
-      "source": "BFMTV",
-      "feed_rank": 24,
-      "url": "https://www.bfmtv.com/alsace/la-piste-du-matricide-se-profile-apres-la-mort-d-une-femme-de-57-ans-en-alsace-en-octobre_AD-202611040964.html",
-      "published_at": "2026-11-04T21:11:20+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La piste du matricide se profile après la mort d'une femme de 57 ans en Alsace en octobre » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "295073b99d6f",
-      "title": "Le Tech Flash : Meta, Google.. la tech taille dans ses effectifs, par Julien Thibaud - 04/11",
-      "summary": "Ce mercredi 4 novembre, dans Le Tech Flash, Julien Thibaud s'est penché sur la réduction des effectifs chez Meta et Google dans la tech, l'annulation d'un contrat de 7 milliards de dollars entre Oracle et Tencent (FT), deux nouveaux cas de cyberattaque sur le territoire français, le marché de 9 milliards d'euros qui s'offre aux créateurs de contenus en…",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-meta-google-la-tech-taille-dans-ses-effectifs-par-julien-thibaud-04-11_VN-202611040966.html",
-      "published_at": "2026-11-04T21:10:33+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Le Tech Flash : Meta, Google.. la tech taille dans ses effectifs, par Julien Thibaud - 04/11 ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "873e36319c39",
       "title": "\"Des moustiques infectés\" : les causes des cas mortels de paludisme détectés en Allemagne cet été dévoilées",
       "summary": "Entre juillet et septembre 2026, trois personnes sont décédées en Allemagne des suites du \"paludisme d'aéroport\". Le directeur du service sanitaire de Francfort a révélé, mercredi 4 novembre, les analyses génétiques révélant l'origine de la maladie.",
@@ -1425,6 +1424,22 @@
       "published_at": "2026-11-04T21:10:19+00:00",
       "category": "Société",
       "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « \"Des moustiques infectés\" : les causes des cas mortels de paludisme détectés en Allemagne cet été dévoilées ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "33ae659397d0",
+      "title": "\"Vous avez la parole\" : Manif, les Français face à Marine Tondelier et Alexandre Jardin",
+      "summary": "Marine Tondelier, candidate à l'élection présidentielle, a répondu aux questions des commerçants, des entrepreneurs, des retraités et des lycéens. Puis Alexandre Jardin a évoqué les solutions pour sortir la France de la crise.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 15,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-vous-avez-la-parole-manif-les-francais-face-a-marine-tondelier-et-alexandre-jardin-2473953.html",
+      "published_at": "2026-11-04T21:09:44+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « \"Vous avez la parole\" : Manif, les Français face à Marine Tondelier et Alexandre Jardin ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
       ],
@@ -1519,7 +1534,7 @@
       "title": "Exit la fiesta et les repas tardifs : la Gen Z bouscule (encore) nos habitudes jusqu'à nos heures de dîner devenues totalement has-been",
       "summary": "La Génération Z révolutionne (encore) nos habitudes. Exit la fiesta et les repas tardifs, les jeunes, en quête de bien-être, dînent désormais à 18h. Ils n'ont pas tort, manger tôt a de réels bienfaits pour la santé.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/societe/exit-la-fiesta-et-les-repas-tardifs-la-gen-z-bouscule-encore-nos-habitudes-jusqu-a-nos-heures-de-diner-devenues-totalement-has-been-2397483.html",
       "published_at": "2026-11-04T21:00:55+00:00",
       "category": "Société",
@@ -1567,7 +1582,7 @@
       "title": "Des drones pour aider les agriculteurs",
       "summary": "Le monde autour de nous vit une révolution technologique sidérante. Nos modes de vie se sont transformés à un rythme inédit. En commençant par nos agriculteurs qui utilisent de plus en plus de drones pour semer, pour suivre leurs troupeaux. Avec ces nouveaux outils qui deviennent indispensables, ils gagnent beaucoup en productivité et en rentabilité…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.tf1info.fr/high-tech/videos/video-des-drones-pour-aider-les-agriculteurs-47815-2473927.html",
       "published_at": "2026-11-04T21:00:23+00:00",
       "category": "International",
@@ -1599,7 +1614,7 @@
       "title": "On a parlé séduction avec les acteurs de la série \"Campus Drivers\"",
       "summary": "\"Surtout ne baissons pas nos standards\" : on a parlé séduction avec les acteurs de la série \"Campus Drivers\", adaptation des romans à succès de @c.s.quill le 6 novembre sur @primevideofr @carmenkasso @baptistemasseline @estebanvial @mxdior @felix.nebel #campusdrivers",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.tf1info.fr/education/videos/video-on-a-parle-seduction-avec-les-acteurs-de-la-serie-campus-drivers-2473931.html",
       "published_at": "2026-11-04T21:00:13+00:00",
       "category": "Culture",
@@ -1696,7 +1711,7 @@
       "title": "Agression dans une maternelle de Nice : la mère mise en examen pour tentatives de meurtre et écrouée",
       "summary": "La femme qui a agressé avec une arme la directrice et une enseignante d'une école maternelle de Nice lundi a été placée en détention. La mère de famille de 36 ans est désormais poursuivie pour tentative de meurtre, précise le parquet. Le ministre de l'Intérieur avait révélé qu'elle était en situation irrégulière depuis six ans et faisait l'objet d'une OQTF.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.tf1info.fr/justice-faits-divers/agression-dans-une-maternelle-de-nice-la-mere-mise-en-examen-pour-tentatives-de-meurtre-et-ecrouee-2473918.html",
       "published_at": "2026-11-04T20:40:39+00:00",
       "category": "Politique",
@@ -1710,6 +1725,22 @@
       ],
       "coverage_count": 5,
       "mention_count": 5
+    },
+    {
+      "id": "e5703fce3af8",
+      "title": "Électricité : opération XXL pour changer des pylônes",
+      "summary": "La France compte 260 000 pylônes à haute tension qui transportent l'électricité. Ils ne passent pas inaperçus, mais le pays ne pourrait pas fonctionner sans eux. Un grand nombre de ces pylônes vont devoir être remplacés dans les toutes prochaines années, pour pouvoir supporter les nouveaux câbles et permettre d'augmenter la capacité de la ligne. Un…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 22,
+      "url": "https://www.tf1info.fr/societe/videos/video-electricite-operation-xxl-pour-changer-des-pylones-23114-2473925.html",
+      "published_at": "2026-11-04T20:40:21+00:00",
+      "category": "Société",
+      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Électricité : opération XXL pour changer des pylônes ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "c8d41f509b66",
@@ -1732,7 +1763,7 @@
       "title": "Cyberespionnage : une entreprise française détecte une nouvelle campagne de la Russie ciblant des téléphones portables",
       "summary": "L'entreprise française de cybersécurité Sekoia a documenté, mercredi 4 novembre, une campagne de cyberespionnage menée par la Russie. Selon ce rapport, des téléphones portables auraient été visés par l'intermédiaire de sites internet piégés.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.tf1info.fr/high-tech/cyberespionnage-une-entreprise-francaise-detecte-une-nouvelle-campagne-de-la-russie-ciblant-des-telephones-portables-2473914.html",
       "published_at": "2026-11-04T20:32:05+00:00",
       "category": "Économie",
@@ -1864,7 +1895,7 @@
       "title": "Midterms 2026 : Jon Ossoff, réélu en Géorgie, nourrit les espoirs démocrates pour la présidentielle de 2028",
       "summary": "<p>Il est assurément l’une des étoiles montantes du parti démocrate. Mais contre toute attente, Jon Ossoff assure n’avoir « aucune envie » de briguer la Maison-Blanche. Sa réélection au Sénat en <a href=\"https://www.20minutes.fr/monde/georgie/\">Géorgie</a>, mardi, nourrit pourtant les attentes de ses partisans pour la présidentielle américaine de 2028. A…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 15,
       "url": "https://www.20minutes.fr/monde/etats-unis/4260451-20261104-midterms-2026-jon-ossoff-reelu-georgie-nourrit-espoirs-democrates-presidentielle-2028?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T20:21:46+00:00",
       "category": "Société",
@@ -1912,7 +1943,7 @@
       "title": "Mairie de Limoges incendiée : les services publics s'adaptent",
       "summary": "Près de trois semaines après l'incendie d'origine criminelle de la mairie de Limoges, deux suspects sont toujours en détention provisoire. Où en est l'enquête ? La justice se prononcera jeudi sur leur demande de remise en liberté. Dans le même temps, la cagnotte ouverte pour financer sa reconstruction a déjà dépassé 1,3 million d'euros. Comment la mairie…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/regions/videos/video-mairie-de-limoges-incendiee-les-services-publics-s-adaptent-52030-2473921.html",
       "published_at": "2026-11-04T20:20:21+00:00",
       "category": "Économie",
@@ -1922,22 +1953,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "ce72fdab0951",
-      "title": "\"Un travail de précision\" : dans les coulisses de l'opération XXL de RTE pour changer des pylônes électriques",
-      "summary": "Le gestionnaire du réseau de transport d'électricité prévoit de moderniser un tiers de son parc de pylônes d'ici 2040. L'enjeu pour RTE est notamment d'adapter ses infrastructures pour faire face aux enjeux climatiques. Une équipe de TF1 a pu avoir exceptionnellement accès aux coulisses de ce chantier titanesque qui a débuté sur la ligne très haute…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/societe/reportage-un-travail-de-precision-dans-les-coulisses-de-l-operation-xxl-de-rte-pour-changer-des-pylones-electriques-2473901.html",
-      "published_at": "2026-11-04T20:18:30+00:00",
-      "category": "Société",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « \"Un travail de précision\" : dans les coulisses de l'opération XXL de RTE pour changer des pylônes électriques ».",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 2
     },
     {
       "id": "04b15e243ec6",
@@ -2328,7 +2343,7 @@
       "title": "Le gouvernement maintient sa prévision de croissance pour 2026, les experts n’y croient pas",
       "summary": "<p>Le Haut Conseil des finances publiques (HCFP) juge l’objectif « difficilement atteignable ». Le gouvernement maintient pourtant, ce mercredi, ses prévisions de <a href=\"https://www.20minutes.fr/economie/croissance/\">croissance</a> du produit intérieur brut (<a href=\"https://www.20minutes.fr/economie/pib/\">PIB</a>) de 0,5 % 2026 et un déficit public à…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.20minutes.fr/economie/4260460-20261104-gouvernement-maintient-prevision-croissance-2026-experts-croient?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T19:38:39+00:00",
       "category": "Politique",
@@ -3276,7 +3291,7 @@
       "title": "Cyberattaque au Crédit Mutuel Arkéa : La banque française évalue ses pertes à plus de 100 millions d’euros",
       "summary": "<p>Plus de 100 millions d’euros auraient été détournés lors d’une <a href=\"https://www.20minutes.fr/dossier/cyberattaque\">cyberattaque</a> contre Crédit Mutuel Arkéa, annoncée par la banque mercredi soir dans un communiqué. Le groupe n’a pas confirmé le montant précis de 118 millions d’euros, soit 133 millions de dollars, avancé par <em>Le…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/societe/4260454-20261104-cyberattaque-credit-mutuel-banque-francaise-evalue-pertes-plus-100-millions-euros?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T18:44:39+00:00",
       "category": "Économie",
@@ -3609,6 +3624,22 @@
       "mention_count": 1
     },
     {
+      "id": "4eaf3b1f1ef5",
+      "title": "Le Royaume-Uni devrait présenter des excuses officielles pour son rôle dans l’esclavage, mais refuse d’envisager le paiement de réparations",
+      "summary": "Lors du sommet du Commonwealth qui s’est achevé mercredi, dans les Caraïbes, le gouvernement britannique a écarté tout débat sur les réparations liées à la traite des esclaves, que réclament les pays concernés. Le roi a lui exprimé son « horreur » face à l’esclavage.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/international/article/2026/11/04/le-royaume-uni-devrait-presenter-des-excuses-officielles-pour-son-role-dans-l-esclavage-mais-refuse-d-envisager-le-paiement-de-reparations_6806423_3210.html",
+      "published_at": "2026-11-04T18:30:01+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Le Royaume-Uni devrait présenter des excuses officielles pour son rôle dans l’esclavage, mais refuse d’envisager le paiement de réparations ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "7c6225710e2b",
       "title": "Midterms : le temps d’une nuit, centristes et socialistes du parti démocrate ont fait front commun",
       "summary": "Les jeunes des Democratic Socialists of America trinquent à la victoire des démocrates à travers le pays. Y compris ceux qu’ils accusaient hier d’être « trop mous » face à Donald Trump et trop modérés. Mais la fête finie, la bataille pour le parti commence",
@@ -3794,22 +3825,6 @@
       "published_at": "2026-11-04T18:19:34+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « L’Ukraine veut répliquer ailleurs la mission humanitaire menée à Olechky pour sauver des civils » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5348beb28030",
-      "title": "Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté",
-      "summary": "Après avoir passé, mercredi 4 novembre, deux oraux devant la commission des lois de l’Assemblée nationale puis devant celle du Sénat, il succède à Dominique Simonnot.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/04/pierre-coppey-ancien-dirigeant-de-vinci-et-militant-associatif-pour-la-reinsertion-devient-controleur-general-des-lieux-de-privation-de-liberte_6806421_3224.html",
-      "published_at": "2026-11-04T18:19:12+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Pierre Coppey, ancien dirigeant de Vinci et militant associatif pour la réinsertion, devient Contrôleur général des lieux de privation de liberté » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Monde"
       ],
@@ -5121,7 +5136,7 @@
       "title": "Martyre de l'A10 : L’accusée s’effondre devant les photos de l’autopsie et la liste des sévices subis par sa fille",
       "summary": "<p><strong>À la cour d’assises de Blois,</strong></p><p>En un instant, un silence de plomb s’est abattu sur la cour d’assises de Blois. À l’écran, des images de l’autopsie d’Inass Touloub sont projetées. Le corps supplicié de la<a…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/justice/4259848-20261104-martyre-10-accusee-effondre-devant-photos-autopsie-liste-sevices-subis-enfant?at_medium=display&at_campaign=149",
       "published_at": "2026-11-04T17:17:43+00:00",
       "category": "Société",
@@ -5320,22 +5335,6 @@
       "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Mâchoire carrée et regard de braise, le fils de David Hallyday pose pour un grand magazine de mode américain ».",
       "coverage_sources": [
         "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "57335db9ba95",
-      "title": "Épisode méditerranéen : la neige est tombée dans la région et les précipitations vont s’intensifier… à quoi s’attendre dans le Gard et l’Hérault ?",
-      "summary": "La Haute-Corse et la Corse-du-Sud passeront en vigilance orange pluie-inondation jeudi 5 novembre dès 6 heures, face à un épisode méditerranéen durable. Sept départements du Sud restent en jaune ce mercredi, avec des...",
-      "source": "Midi Libre",
-      "feed_rank": 11,
-      "url": "https://www.midilibre.fr/2026/11/04/episode-mediterraneen-la-neige-est-tombee-dans-la-region-et-les-precipitations-vont-sintensifier-a-quoi-sattendre-dans-le-gard-et-lherault-13636246.php",
-      "published_at": "2026-11-04T17:06:35+00:00",
-      "category": "Environnement",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Épisode méditerranéen : la neige est tombée dans la région et les précipitations vont s’intensifier… à quoi s’attendre dans le Gard et l’Hérault ? ».",
-      "coverage_sources": [
-        "Midi Libre"
       ],
       "coverage_count": 1,
       "mention_count": 1
