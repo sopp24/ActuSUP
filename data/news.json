@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-06T02:00:22.767679+00:00",
-  "last_attempt": "2026-11-06T02:00:22.767679+00:00",
+  "last_updated": "2026-11-06T03:00:20.400163+00:00",
+  "last_attempt": "2026-11-06T03:00:20.400163+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 900,
-  "unique_story_count": 784,
+  "raw_article_count": 899,
+  "unique_story_count": 786,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,9 +13,9 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-06T02:00:22.767679+00:00",
-  "featured_window_end": "2026-11-06T02:00:22.767679+00:00",
-  "featured_pool_count": 899,
+  "featured_window_start": "2026-10-06T03:00:20.400163+00:00",
+  "featured_window_end": "2026-11-06T03:00:20.400163+00:00",
+  "featured_pool_count": 898,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
@@ -69,8 +69,8 @@
         "Creapills"
       ],
       "coverage_count": 37,
-      "mention_count": 229,
-      "importance_score": 36.81,
+      "mention_count": 230,
+      "importance_score": 36.811,
       "latest_coverage_at": "2026-11-06T01:03:00+00:00"
     },
     {
@@ -104,9 +104,9 @@
         "Public Sénat"
       ],
       "coverage_count": 18,
-      "mention_count": 22,
-      "importance_score": 27.821,
-      "latest_coverage_at": "2026-11-05T21:32:44+00:00"
+      "mention_count": 21,
+      "importance_score": 27.742,
+      "latest_coverage_at": "2026-11-05T20:57:03+00:00"
     },
     {
       "id": "c548dadbe700",
@@ -160,7 +160,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 13,
-      "importance_score": 22.63,
+      "importance_score": 22.627,
       "latest_coverage_at": "2026-11-05T20:04:26+00:00"
     },
     {
@@ -186,7 +186,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 21.999,
+      "importance_score": 21.991,
       "latest_coverage_at": "2026-11-05T22:14:52+00:00"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.547,
+      "importance_score": 21.544,
       "latest_coverage_at": "2026-11-05T20:11:54+00:00"
     },
     {
@@ -236,7 +236,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 9,
-      "importance_score": 21.397,
+      "importance_score": 21.385,
       "latest_coverage_at": "2026-11-05T22:43:33+00:00"
     },
     {
@@ -250,7 +250,6 @@
       "category": "Politique",
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Le Monde",
         "France 24",
         "Euronews",
         "Libération",
@@ -259,9 +258,9 @@
         "La Croix",
         "Paris Match"
       ],
-      "coverage_count": 8,
-      "mention_count": 9,
-      "importance_score": 21.282,
+      "coverage_count": 7,
+      "mention_count": 8,
+      "importance_score": 20.315,
       "latest_coverage_at": "2026-11-05T21:30:00+00:00"
     },
     {
@@ -284,7 +283,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 11,
-      "importance_score": 20.111,
+      "importance_score": 20.113,
       "latest_coverage_at": "2026-11-05T23:18:40+00:00"
     },
     {
@@ -306,7 +305,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.248,
+      "importance_score": 18.239,
       "latest_coverage_at": "2026-11-05T22:02:32+00:00"
     },
     {
@@ -328,7 +327,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.999,
+      "importance_score": 17.987,
       "latest_coverage_at": "2026-11-05T21:31:26+00:00"
     },
     {
@@ -336,7 +335,7 @@
       "title": "A69 : la mise en service de l’autoroute controversée est prévue ce vendredi, avec un péage à un prix exorbitant",
       "summary": "Après de nombreux revirements judiciaires, l’autoroute, symbole des combats écologistes en France, ouvrira ce vendredi 6 novembre. L’aller-retour coûtera 20,40 euros, un tarif parmi les plus élevés de France.",
       "source": "Libération",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.liberation.fr/environnement/a69-la-mise-en-service-de-lautoroute-controversee-est-prevue-ce-vendredi-avec-un-peage-a-un-prix-exorbitant-20261105_EKLMGGKHNJDPXGKTXBGRBYR5TA/",
       "published_at": "2026-11-05T20:57:15+00:00",
       "category": "Économie",
@@ -349,7 +348,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.441,
+      "importance_score": 16.426,
       "latest_coverage_at": "2026-11-05T20:57:15+00:00"
     },
     {
@@ -370,7 +369,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.217,
+      "importance_score": 16.215,
       "latest_coverage_at": "2026-11-05T14:39:23+00:00"
     },
     {
@@ -391,7 +390,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.03,
+      "importance_score": 16.027,
       "latest_coverage_at": "2026-11-05T21:36:06+00:00"
     },
     {
@@ -399,7 +398,7 @@
       "title": "\"Presque un mètre d'eau dans la rue\" : la région de Montpellier touchée par d'importantes inondations",
       "summary": "Le Gard et l'Hérault, ainsi que la Corse, étaient placés en vigilance orange aux pluies-inondations ce jeudi 5 novembre. C'est la conséquence de l'épisode méditerranéen qui balaie le Sud-Est et qui a provoqué de nombreux dégâts dans la région de Montpellier. Plusieurs routes ont notamment été fermées à la circulation.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/meteo/reportage-presque-un-metre-d-eau-dans-la-rue-la-region-de-montpellier-touchee-par-d-importantes-inondations-2474163.html",
       "published_at": "2026-11-05T21:23:03+00:00",
       "category": "Environnement",
@@ -411,7 +410,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 8,
-      "importance_score": 15.863,
+      "importance_score": 15.831,
       "latest_coverage_at": "2026-11-05T21:23:03+00:00"
     },
     {
@@ -431,7 +430,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.891,
+      "importance_score": 14.888,
       "latest_coverage_at": "2026-11-05T21:46:11+00:00"
     },
     {
@@ -451,7 +450,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.851,
+      "importance_score": 14.848,
       "latest_coverage_at": "2026-11-05T19:36:07+00:00"
     },
     {
@@ -471,7 +470,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.57,
+      "importance_score": 14.567,
       "latest_coverage_at": "2026-11-05T19:55:54+00:00"
     },
     {
@@ -491,7 +490,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.472,
+      "importance_score": 14.47,
       "latest_coverage_at": "2026-11-05T17:46:04+00:00"
     },
     {
@@ -510,11 +509,75 @@
       ],
       "coverage_count": 2,
       "mention_count": 8,
-      "importance_score": 14.32,
+      "importance_score": 14.317,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "a6b5224049a7",
+      "title": "IA : Anthropic pourrait revoir à la baisse ses ambitions boursières",
+      "summary": "Le créateur de l’assistant Claude vise une introduction en Bourse la semaine du 16 novembre et devait lever jusqu’à 100 milliards de dollars, selon la presse américaine, ce qui en ferait la plus importante de l’histoire.",
+      "source": "Le Figaro",
+      "feed_rank": 3,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/ia-anthropic-pourrait-revoir-a-la-baisse-ses-ambitions-boursieres-20261106",
+      "published_at": "2026-11-06T02:51:11+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « IA : Anthropic pourrait revoir à la baisse ses ambitions boursières ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f93b28597926",
+      "title": "Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco",
+      "summary": "Deux ministres japonais en visite en Russie ont remis une note de protestation après la saisie, sur ordre du Kremlin, des actifs de Japan Tobacco dans le pays. Tokyo exige la levée immédiate de la mesure, sur fond de tensions liées aux sanctions contre Moscou depuis l’invasion de l’Ukraine.",
+      "source": "Le Figaro",
+      "feed_rank": 16,
+      "url": "https://www.lefigaro.fr/societes/moscou-saisit-les-actifs-en-russie-de-japan-tobacco-international-le-cigarettier-examine-d-eventuelles-mesures-20261106",
+      "published_at": "2026-11-06T02:47:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0300890c9b7f",
+      "title": "«Making Marie Antoinette» sur Mubi, un faste projet",
+      "summary": "Vingt ans après la sortie de son long métrage, Sofia Coppola achève le «making of» entamé par sa mère lors du tournage de son film à Versailles, en 2005, et lui rend ainsi hommage.",
+      "source": "Libération",
+      "feed_rank": 1,
+      "url": "https://www.liberation.fr/culture/cinema/making-marie-antoinette-un-faste-projet-20261106_J57TP6XEE5HBZEJ4HJT42OEUGQ/",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « «Making Marie Antoinette» sur Mubi, un faste projet ».",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a0ccb96036b9",
+      "title": "Cuba : arrestation de deux opposantes dont la journaliste Yoani Sanchez, libérée dans la journée",
+      "summary": "Berta Soler, la dirigeante du mouvement des Dames en blanc, qui rassemble des mères et des épouses d’opposants arrêtés sous Fidel Castro, était, elle, toujours détenue, jeudi soir. Elle fait régulièrement l’objet d’arrestations allant de plusieurs heures à quelques jours.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/international/article/2026/11/06/cuba-arrestation-de-deux-opposantes-dont-la-journaliste-yoani-sanchez-liberee-dans-la-journee_6807446_3210.html",
+      "published_at": "2026-11-06T01:53:40+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Cuba : arrestation de deux opposantes dont la journaliste Yoani Sanchez, libérée dans la journée ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "c548dadbe700",
       "title": "Guerre en Ukraine : Trump prédit un « grand accord » avec la Russie et même sur « toute l’Europe »",
@@ -587,22 +650,6 @@
       "mention_count": 10
     },
     {
-      "id": "77681f1be289",
-      "title": "À Cuba, la journaliste Yoani Sánchez annonce sa libération après son «arrestation arbitraire»",
-      "summary": "Figure du journalisme indépendant à Cuba, Yoani Sánchez a annoncé jeudi avoir regagné son domicile après quelques heures de détention à La Havane.",
-      "source": "Le Figaro",
-      "feed_rank": 15,
-      "url": "https://www.lefigaro.fr/international/cuba-la-journaliste-yoani-sanchez-annonce-sa-liberation-apres-son-arrestation-arbitraire-20261106",
-      "published_at": "2026-11-06T00:45:25+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « À Cuba, la journaliste Yoani Sánchez annonce sa libération après son «arrestation arbitraire» ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "b064de56c18d",
       "title": "Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide",
       "summary": "Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dans lesquels elle décrit son mal-être.",
@@ -668,22 +715,6 @@
       "mention_count": 2
     },
     {
-      "id": "1f3a854c3183",
-      "title": "Meurtre conjugal dans l'Essonne : 28 ans de réclusion, pour une thèse de l'accident qui ne convainc pas",
-      "summary": "Yacine A. a été reconnu coupable jeudi par la cour d’assises de l’Essonne du meurtre de sa compagne en 2023.",
-      "source": "Le Figaro",
-      "feed_rank": 16,
-      "url": "https://www.lefigaro.fr/faits-divers/meurtre-conjugal-dans-l-essonne-28-ans-de-reclusion-pour-une-these-de-l-accident-qui-ne-convainc-pas-20261106",
-      "published_at": "2026-11-05T23:40:19+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Meurtre conjugal dans l'Essonne : 28 ans de réclusion, pour une thèse de l'accident qui ne convainc pas » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "3626a25f614b",
       "title": "Etats-Unis : Des élections « truquées »… Trump est furax et crie au scandale",
       "summary": "<p><a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> s’était engagé mardi soir à accepter les résultats des midterms. Deux jours plus tard, ce jeudi, le président américain a repris ses accusations sans fondement de <a href=\"https://www.20minutes.fr/dossier/fraude\">fraude électorale</a> de la part des démocrates. « Nos élections…",
@@ -711,6 +742,22 @@
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Leverkusen-OM: \"Ce qui se passe depuis le début de saison nous a soudés\", Genesio fier de son groupe ».",
       "coverage_sources": [
         "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "632986f5fba2",
+      "title": "Rochebin Soir du jeudi 5 novembre 2026 – Édition spéciale - Jusqu'où ira la crise ?",
+      "summary": "Au sommaire : 575 000 manifestants, la démonstration de force. Augmenter les salaires, qui détient la clé ? Violences, un cap a-t-il été franchi ? Alerte à la bombe, 27 avions européens visés en 72 heures.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 1,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-rochebin-soir-du-jeudi-5-novembre-2026-edition-speciale-jusqu-ou-ira-la-crise-2474189.html",
+      "published_at": "2026-11-05T23:16:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Rochebin Soir du jeudi 5 novembre 2026 – Édition spéciale - Jusqu'où ira la crise ? ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1043,7 +1090,7 @@
       "title": "Vol de champignons : le fléau de l'automne",
       "summary": "Chaque automne, dès que les cèpes pointent le bout de leur chapeau, des cueilleurs s’introduisent dans les propriétés privées pour les ramasser. Certains le font pour leur consommation personnelle, d'autres pour revendre leur cueillette au marché noir. Pour tenter d'enrayer cette économie souterraine, une association du Périgord organise un marché…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/societe/videos/video-vol-de-champignons-le-fleau-de-l-automne-84357-2474186.html",
       "published_at": "2026-11-05T22:05:15+00:00",
       "category": "Économie",
@@ -1108,7 +1155,7 @@
       "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
       "summary": "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis. Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée».",
       "source": "Le Figaro",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
       "published_at": "2026-11-05T21:59:54+00:00",
       "category": "Politique",
@@ -1368,7 +1415,7 @@
       "title": "Royaume-Uni : les lunettes connectées, accusées de servir à filmer des femmes à leur insu, bientôt davantage encadrées ?",
       "summary": "Le gouvernement britannique réfléchit à encadrer l'usage et la vente des lunettes connectées, rapporte le \"Guardian\". En cause, des vidéos de femmes tournées à leur insu puis diffusées sur les réseaux sociaux. La ministre chargée du dossier reconnaît toutefois que ces appareils rendent service, notamment aux personnes malvoyantes.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.tf1info.fr/high-tech/royaume-uni-les-lunettes-connectees-accusees-de-filmer-des-femmes-a-leur-insu-bientot-davantage-encadrees-2474182.html",
       "published_at": "2026-11-05T21:34:42+00:00",
       "category": "Médias & communication",
@@ -1396,20 +1443,24 @@
       "mention_count": 1
     },
     {
-      "id": "87387a20cc96",
-      "title": "Qu’est-ce que l’«État masculin», ce mouvement russe d’ultradroite, raciste et misogyne, qui serait à l’origine de deux alertes à la bombe en Europe ?",
-      "summary": "RÉCIT - Les aéroports de Rome et Sofia, visés par une alerte à la bombe ce jeudi, ont reçu un mystérieux courriel en début de journée, attribué aux membres de ce groupe masculiniste.",
-      "source": "Le Figaro",
-      "feed_rank": 19,
-      "url": "https://www.lefigaro.fr/international/qu-est-ce-que-l-etat-masculin-ce-mouvement-russe-d-ultradroite-raciste-et-misogyne-qui-serait-a-l-origine-de-deux-alertes-a-la-bombe-en-europe-20261105",
-      "published_at": "2026-11-05T21:32:44+00:00",
-      "category": "International",
-      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Qu’est-ce que l’«État masculin», ce mouvement russe d’ultradroite, raciste et misogyne, qui serait à l’origine de deux alertes à la bombe en Europe ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "d0b464b3b58a",
+      "title": "Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire",
+      "summary": "La crise bancaire paraguayenne a eu raison de Santiago Peña : le président a annoncé sa démission jeudi 5 novembre à Asunción, après que la mise sous tutelle d'Ueno Bank et le gel des dépôts de près de 3 millions de clients ont déclenché une crise politique majeure.",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
+      "published_at": "2026-11-05T21:30:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Le Figaro"
+        "Euronews",
+        "Libération",
+        "Sud Ouest",
+        "L'Humanité",
+        "La Croix"
       ],
-      "coverage_count": 1,
-      "mention_count": 1
+      "coverage_count": 5,
+      "mention_count": 5
     },
     {
       "id": "2e442742b1c7",
@@ -1449,7 +1500,7 @@
       "title": "\"Presque un mètre d'eau dans la rue\" : la région de Montpellier touchée par d'importantes inondations",
       "summary": "Le Gard et l'Hérault, ainsi que la Corse, étaient placés en vigilance orange aux pluies-inondations ce jeudi 5 novembre. C'est la conséquence de l'épisode méditerranéen qui balaie le Sud-Est et qui a provoqué de nombreux dégâts dans la région de Montpellier. Plusieurs routes ont notamment été fermées à la circulation.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/meteo/reportage-presque-un-metre-d-eau-dans-la-rue-la-region-de-montpellier-touchee-par-d-importantes-inondations-2474163.html",
       "published_at": "2026-11-05T21:23:03+00:00",
       "category": "Environnement",
@@ -1493,11 +1544,27 @@
       "mention_count": 1
     },
     {
+      "id": "53fe16053a72",
+      "title": "Le lycée Françoise à Tournefeuille, près de Toulouse, victime d’une attaque, d’un incendie et de dégradations",
+      "summary": "Tôt le matin, jeudi 5 novembre, une trentaine d’individus cagoulés ont pénétré dans l’établissement scolaire. Les dégâts sont importants et les réactions indignées.",
+      "source": "Le Monde",
+      "feed_rank": 12,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/05/le-lycee-francoise-a-tournefeuille-pres-de-toulouse-victime-d-une-attaque-d-un-incendie-et-de-degradations_6807345_3224.html",
+      "published_at": "2026-11-05T21:13:07+00:00",
+      "category": "Environnement",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Le lycée Françoise à Tournefeuille, près de Toulouse, victime d’une attaque, d’un incendie et de dégradations ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "507b9b7edaf9",
       "title": "Le coût de la guerre en Ukraine contraint des régions russes à réduire les indemnités versées aux familles de soldats morts",
       "summary": "Saratov, Samara, Belgorod… plus d’une dizaine de régions ont réduit ou supprimé les indemnités versées aux familles endeuillées par le conflit en Ukraine, alors que l’ensemble des budgets régionaux affiche un lourd déficit.",
       "source": "Le Figaro",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.lefigaro.fr/conjoncture/le-cout-de-la-guerre-en-ukraine-contraint-des-regions-russes-a-reduire-les-indemnites-versees-aux-familles-de-soldats-morts-20261105",
       "published_at": "2026-11-05T21:07:25+00:00",
       "category": "Économie",
@@ -1513,7 +1580,7 @@
       "title": "Grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France, des syndicats appellent à poursuivre la mobilisation",
       "summary": "Selon l’Intérieur, près de 200 manifestations ont eu lieu en France ce jeudi. En fin d’après-midi, Sébastien Lecornu a annoncé une «conférence sociale» lundi avec les organisations syndicales et patronales.",
       "source": "Libération",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I/",
       "published_at": "2026-11-05T21:06:57+00:00",
       "category": "Société",
@@ -1529,7 +1596,7 @@
       "title": "Montée des eaux : comment sauver Venise",
       "summary": "La question se pose de manière très concrète avec l'accélération du dérèglement climatique : et si Venise venait à disparaître ? Confrontée à la montée des eaux, la sérénissime subit de plus en plus souvent ce qu'on appelle l'acqua alta, qui submerge les places et les palais. Les ingénieurs et les architectes rivalisent d'idées pour sauver la ville,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/international/videos/video-montee-des-eaux-comment-sauver-venise-82068-2474181.html",
       "published_at": "2026-11-05T21:05:15+00:00",
       "category": "International",
@@ -1561,7 +1628,7 @@
       "title": "\"J'ai tout perdu\" : à Lyon, la seule voiture brûlée dans la manifestation appartenait... à un SDF",
       "summary": "La seule voiture brûlée lors de la manifestation de jeudi à Lyon appartenait à Fateh, un sans-abri de 50 ans. L'homme a assuré avoir \"tout perdu\", sauf ses papiers, récupérés dans le coffre avec l'aide d'une dizaine de jeunes manifestants.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.tf1info.fr/justice-faits-divers/mobilisation-du-5-novembre-j-ai-tout-perdu-a-lyon-la-seule-voiture-brulee-dans-la-manifestation-appartenait-a-un-sdf-2474165.html",
       "published_at": "2026-11-05T21:04:27+00:00",
       "category": "Société",
@@ -1625,7 +1692,7 @@
       "title": "Mate poaching : vous pratiquez peut-être cette technique de drague sans le savoir, pourtant elle est malsaine et peut laisser des traces au niveau émotionnel",
       "summary": "Le \"mate poaching\" ou \"braconnage de compagnon\" en français désigne le fait de séduire des personnes déjà engagées dans une relation amoureuse. Cette pratique est plus répandue qu'on ne le pense dans nos sociétés actuelles. Si elle peut fonctionner dans la formation de nouvelles relations, elle peut laisser des traces au niveau émotionnel.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/societe/mate-poaching-vous-pratiquez-peut-etre-cette-technique-de-drague-sans-le-savoir-pourtant-elle-est-malsaine-et-peut-laisser-des-traces-au-niveau-emotionnel-2331174.html",
       "published_at": "2026-11-05T21:00:35+00:00",
       "category": "Société",
@@ -1641,7 +1708,7 @@
       "title": "A69 : la mise en service de l’autoroute controversée est prévue ce vendredi, avec un péage à un prix exorbitant",
       "summary": "Après de nombreux revirements judiciaires, l’autoroute, symbole des combats écologistes en France, ouvrira ce vendredi 6 novembre. L’aller-retour coûtera 20,40 euros, un tarif parmi les plus élevés de France.",
       "source": "Libération",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.liberation.fr/environnement/a69-la-mise-en-service-de-lautoroute-controversee-est-prevue-ce-vendredi-avec-un-peage-a-un-prix-exorbitant-20261105_EKLMGGKHNJDPXGKTXBGRBYR5TA/",
       "published_at": "2026-11-05T20:57:15+00:00",
       "category": "Économie",
@@ -1691,7 +1758,7 @@
       "title": "Mobilisation du 5 novembre : Raphaël Glucksmann pris à partie dans le cortège parisien",
       "summary": "Mobilisation du 5 novembre : Raphaël Glucksmann pris à partie dans le cortège parisien",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.tf1info.fr/societe/videos/video-mobilisation-du-5-novembre-raphael-glucksmann-pris-a-partie-dans-le-cortege-parisien-41309-2474179.html",
       "published_at": "2026-11-05T20:55:11+00:00",
       "category": "Société",
@@ -1725,7 +1792,7 @@
       "title": "Produits locaux : pour vendre sa production, encore faut-il pouvoir la préparer et l’acheminer",
       "summary": "Pour Sébastien Dromigny, délégué spécial à la marque Produits en Ile-de-France, au bio et aux circuits courts, il est nécessaire de mettre en place une «proximité organisée» entre producteurs et consommateurs.",
       "source": "Libération",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.liberation.fr/forums/produits-locaux-pour-vendre-sa-production-encore-faut-il-pouvoir-la-preparer-et-lacheminer-20261105_2G6F5R7IHBAE5LRELVV7XNE4Q4/",
       "published_at": "2026-11-05T20:46:00+00:00",
       "category": "Médias & communication",
@@ -1741,7 +1808,7 @@
       "title": "Le chèque fait de la résistance",
       "summary": "Le chèque serait-il en voie de disparition ? À la caisse d'un supermarché de Douvres dans le Calvados, nous avons été témoins d'une scène particulièrement rare : un paiement par chèque pour régler des courses. Aujourd'hui, il représente moins de 2 % de nos transactions, contre 26 % il y a 20 ans. Pourtant, les Français restent encore les champions…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.tf1info.fr/conso/videos/video-le-cheque-fait-de-la-resistance-81497-2474175.html",
       "published_at": "2026-11-05T20:45:23+00:00",
       "category": "International",
@@ -1757,7 +1824,7 @@
       "title": "Nouveau TGV : pourquoi un tel succès",
       "summary": "Vendredi 6 novembre, avec deux ans de retard, le nouveau TGV M va assurer sa première liaison commerciale. Une petite révolution. Ses rames consomment beaucoup moins et transportent davantage de voyageurs. C’est le train à grande vitesse qui embarque le plus de passagers au monde. Résultat : 190 rames commandées, et pas seulement par la SNCF, mais aussi…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.tf1info.fr/transports/videos/video-nouveau-tgv-pourquoi-un-tel-succes-69225-2474177.html",
       "published_at": "2026-11-05T20:45:22+00:00",
       "category": "International",
@@ -1822,7 +1889,7 @@
       "title": "Fermeture du tunnel de Saint-Cloud sur l'A13 : l'A14 gratuite en semaine, les alternatives pour les automobilistes",
       "summary": "Le tunnel de Saint-Cloud, sur l'A13, fermera dans le sens Paris-province du 16 novembre 2026 au 31 août 2027. Le gouvernement a détaillé, jeudi 5 novembre, les mesures prévues pour les automobilistes. L'autoroute A14 sera notamment gratuite en semaine pendant toute la durée des travaux.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.tf1info.fr/transports/fermeture-du-tunnel-de-saint-cloud-sur-l-a13-l-a14-gratuite-en-semaine-les-alternatives-pour-les-automobilistes-2474152.html",
       "published_at": "2026-11-05T20:43:36+00:00",
       "category": "Politique",
@@ -1886,7 +1953,7 @@
       "title": "Ils donnent tout pour recruter un boulanger !",
       "summary": "Si l'on regarde les chiffres, ils sont plutôt rassurants. Notre pays compte 35 000 boulangeries pour 35 000 communes. Mais dans de nombreux villages, la baguette ou les croissants les plus proches sont à dix kilomètres. Dans une localité près de Bergerac, en Dordogne, les 1 200 habitants ont tourné et diffusé des clips très drôles pour faire venir à eux…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.tf1info.fr/initiatives-positives/videos/video-ils-donnent-tout-pour-recruter-un-boulanger-67463-2474173.html",
       "published_at": "2026-11-05T20:35:15+00:00",
       "category": "Société",
@@ -1902,7 +1969,7 @@
       "title": "Etats-Unis : le gouverneur de Californie va accorder une grâce partielle aux 548 condamnés à mort son Etat",
       "summary": "Gavin Newsom a annoncé ce jeudi 5 novembre dans une lettre ouverte commuer la peine de mort de tous les détenus de son Etat. Celui qui quittera ses fonctions en fin d’année se rêve président du pays.",
       "source": "Libération",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM/",
       "published_at": "2026-11-05T20:34:58+00:00",
       "category": "Politique",
@@ -1950,7 +2017,7 @@
       "title": "Les automobilistes cibles des arnaqueurs",
       "summary": "Près de 40 millions de voitures circulent sur les routes de France. Pour les escrocs, cela représente autant de victimes potentielles. Contrôles techniques falsifiés, factures de remplacement de pare-brise gonflées, fausses annonces de véhicules d'occasion… Les pièges ne manquent pas. Pour éviter ces arnaques qui peuvent coûter très cher, mieux vaut…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.tf1info.fr/societe/videos/video-les-automobilistes-cibles-des-arnaqueurs-22386-2474171.html",
       "published_at": "2026-11-05T20:30:22+00:00",
       "category": "Société",
@@ -1966,7 +2033,7 @@
       "title": "« Vous allez assister à des batailles monstres » : dans une ambiance crépusculaire, les Maga se déchirent",
       "summary": "Le Secrétaire d’État, Marco Rubio (ici, à droite, le 1er novembre, lors d’un meeting à Salina, dans le Kansas), ne s’est pas exprimé depuis le suffrage, suscitant des rumeurs de départ.",
       "source": "Le Figaro",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.lefigaro.fr/international/vous-allez-assister-a-des-batailles-monstres-dans-une-ambiance-crepusculaire-les-maga-se-dechirent-20261105",
       "published_at": "2026-11-05T20:30:00+00:00",
       "category": "Société",
@@ -2017,7 +2084,7 @@
       "title": "Épisode méditerranéen : des rues inondées à Montpellier",
       "summary": "Météo-France a placé le Gard et l'Hérault en vigilance orange pour risque de pluie et d'inondation. C'est la conséquence de l'épisode méditerranéen qui balaye tout le sud-est de la France. Près de Montpellier, plusieurs routes ont été fermées à la circulation. En ville, il est tombé plus de 70 millimètres d'eau par endroits. Les pluies ont parfois été…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/meteo/videos/video-episode-mediterraneen-des-rues-inondees-a-montpellier-92787-2474167.html",
       "published_at": "2026-11-05T20:25:16+00:00",
       "category": "Économie",
@@ -2033,7 +2100,7 @@
       "title": "Pluies diluviennes : subite montée des eaux en Corse",
       "summary": "Depuis ce jeudi 5 novembre au matin, la Corse est en alerte orange pour risque de pluie et d'inondations. À Figari, il est tombé l'équivalent d'un mois et demi de pluie. En seulement quelques heures, une centaine d'habitants a dû être évacuée en urgence, notamment près de Porto-Vecchio, dans le sud de l'île. Plusieurs axes routiers ont également été…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.tf1info.fr/meteo/videos/video-pluies-diluviennes-subite-montee-des-eaux-en-corse-42058-2474169.html",
       "published_at": "2026-11-05T20:25:15+00:00",
       "category": "Environnement",
@@ -2049,7 +2116,7 @@
       "title": "EXCLUSIF - Plus de places, davantage économe : on vous embarque à bord du TGV M avant sa mise en service vendredi",
       "summary": "Ce vendredi 6 novembre, avec deux ans de retard, le tout nouveau TGV M va assurer sa première liaison commerciale entre Paris et Marseille. Une petite révolution, car ce train consomme 20% d'énergie en moins et transporte davantage de voyageurs. Une équipe de TF1 a pu monter à bord en exclusivité, quelques heures avant ce voyage inaugural.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.tf1info.fr/transports/exclusif-plus-spacieux-plus-confortable-plus-econome-on-vous-embarque-a-bord-du-tgv-m-avant-sa-mise-en-service-vendredi-2474144.html",
       "published_at": "2026-11-05T20:24:02+00:00",
       "category": "Environnement",
@@ -2145,7 +2212,7 @@
       "title": "Israël : la principale liste arabe soutient Eisenkot, celui-ci saura dimanche s’il est chargé par le président de former un gouvernement",
       "summary": "Alors que l’opposant à Nétanyahou accumule les soutiens, le président Isaac Herzog a déclaré ce jeudi 5 novembre qu’il désignera dimanche la personne chargée de mettre sur pied un gouvernement.",
       "source": "Libération",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-netanyahou-perd-le-soutien-dun-parti-ultra-orthodoxe-qui-le-soutenait-depuis-trente-ans-20261105_FMF2EQFJZZAP5KG3JQ2HOL36WU/",
       "published_at": "2026-11-05T20:15:17+00:00",
       "category": "Politique",
@@ -2177,7 +2244,7 @@
       "title": "«Late Loop» d’Andy Stott, joindre le subtil à l’agréable",
       "summary": "Plus exigu et ramassé que les précédents, le sixième album du musicien électronique britannique convoque inquiétude et ahurissante beauté.",
       "source": "Libération",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.liberation.fr/culture/musique/late-loop-dandy-stott-joindre-le-subtil-a-lagreable-20261105_3RZQPM3O6BDRZMKYPO3CIGSRLA/",
       "published_at": "2026-11-05T20:14:00+00:00",
       "category": "Société",
@@ -2193,7 +2260,7 @@
       "title": "Mobilisation du 5 novembre : 575.000 manifestants selon le ministère de l'Intérieur, trois fois plus pour la CGT",
       "summary": "Les cortèges ont été abondamment garnis partout en France, jeudi 5 novembre, lors de la journée de mobilisation du 5 novembre. Le ministère de l'Intérieur a dénombré 575.000 manifestants, dont 65.000 à Paris. De son côté, la CGT a recensé 1,6 million de personnes qui ont battu le pavé, dont 350.000 dans la capitale.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.tf1info.fr/societe/mobilisation-du-5-novembre-575-000-manifestants-selon-le-ministere-de-l-interieur-trois-fois-plus-pour-la-cgt-2474160.html",
       "published_at": "2026-11-05T20:12:31+00:00",
       "category": "Société",
@@ -2225,7 +2292,7 @@
       "title": "Contre la vie chère et l’éducation au rabais, des mobilisations à l’unisson",
       "summary": "Les manifestations massives de jeudi 5 novembre, qui ont brassé différentes générations et classes sociales, ont ravivé un collectif que l’on croyait perdu.",
       "source": "Libération",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.liberation.fr/idees-et-debats/contre-la-vie-chere-et-leducation-au-rabais-des-mobilisations-a-lunisson-20261105_67QESQFY4BFZHABS4PLEZFPQLM/",
       "published_at": "2026-11-05T20:09:20+00:00",
       "category": "Société",
@@ -2273,7 +2340,7 @@
       "title": "Midterms : la difficile introspection des républicains dans l’ombre de Donald Trump",
       "summary": "Alors que le Président se dédouane de toute responsabilité dans la défaite électorale, son parti tente de faire le point pour se préparer en vue de la prochaine présidentielle. Sans oser s’attaquer à son grand chef.",
       "source": "Libération",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.liberation.fr/international/amerique/midterms-la-difficile-introspection-des-republicains-dans-lombre-de-donald-trump-20261105_ECWPUKJG6BBFVPNBGETSI7ZT5M/",
       "published_at": "2026-11-05T20:07:17+00:00",
       "category": "Politique",
@@ -2310,7 +2377,7 @@
       "title": "Mobilisation du 5 novembre : cerné, l’exécutif joue la carte syndicale",
       "summary": "Vantant soudain les vertus de la démocratie sociale dans une tentative de canaliser les frustrations, le gouvernement a annoncé, ce jeudi, la tenue d’une conférence, lundi 9 novembre, sur le pouvoir d’achat et les salaires avec les partenaires sociaux.",
       "source": "Libération",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.liberation.fr/politique/mobilisation-du-5-novembre-cerne-lexecutif-joue-la-carte-syndicale-20261105_OR7PGJ7VZ5FCFBWPBFGWDLZO5E/",
       "published_at": "2026-11-05T20:06:14+00:00",
       "category": "Politique",
@@ -2374,7 +2441,7 @@
       "title": "LCI Direct du jeudi 5 novembre 2026",
       "summary": "Au sommaire : Salariés, fonctionnaires, lycéens, tous dans la rue. Paris : défilé dans le calme, dispositif massif. Paris : des manifestations de République à Nation.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.tf1info.fr/replay-lci/videos/video-lci-direct-du-jeudi-5-novembre-2026-2474162.html",
       "published_at": "2026-11-05T20:04:00+00:00",
       "category": "Société",
@@ -2390,7 +2457,7 @@
       "title": "Météo du 5 novembre 2026 : Prévisions météo à 21h00",
       "summary": "Météo du jeudi 5 novembre 2026 à 21h00 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du jeudi 5 novembre 2026 à 21h00 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-5-novembre-2026-previsions-meteo-a-21h00-2474161.html",
       "published_at": "2026-11-05T20:02:17+00:00",
       "category": "Société",
@@ -2422,7 +2489,7 @@
       "title": "Football : Olivier Létang, président du LOSC, suspendu quatre mois ferme pour ses propos contre les arbitres",
       "summary": "Le président du LOSC, Olivier Létang, a été suspendu quatre mois ferme, jeudi 5 novembre, par la commission d'appel de la Fédération française de football. Il lui est reproché ses propos contre le corps arbitral après le match nul entre Lille et le PSG (2-2), le 28 août dernier. Le dirigeant des \"Dogues\" a réagi, déclarant vouloir engager \"toutes les…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/sport/football-olivier-letang-president-du-losc-suspendu-quatre-mois-ferme-pour-ses-propos-contre-les-arbitres-2474145.html",
       "published_at": "2026-11-05T20:01:50+00:00",
       "category": "Politique",
@@ -2455,7 +2522,7 @@
       "title": "Alertes à la bombe : près de 30 avions ciblés",
       "summary": "Ces derniers temps, le trafic aérien européen a été perturbé par une série de fausses alertes à la bombe. Ce jeudi matin, un avion qui reliait Dublin à Rome a dû atterrir en urgence sur la base aérienne d'Évreux. Il était escorté par deux chasseurs de l'armée de l'air. Le comportement du pilote irlandais a déclenché l'ouverture d'une enquête en France.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.tf1info.fr/international/videos/video-alertes-a-la-bombe-pres-de-30-avions-cibles-54984-2474159.html",
       "published_at": "2026-11-05T20:00:23+00:00",
       "category": "Sciences & tech",
@@ -2473,7 +2540,7 @@
       "title": "Les femmes sont plus touchées que les hommes par les troubles dépressifs et anxieux et cette inégalité commence dès l'adolescence",
       "summary": "Les femmes sont plus touchées par la dépression, avec un écart qui apparaît dès la puberté. Le rapport du Haut Conseil à l'Égalité (HCE) entre les femmes et les hommes souligne l'impact des violences sexistes, de la précarité et des normes de genre. Les réseaux sociaux amplifient ces troubles via des injonctions et des comparaisons sociales.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.tf1info.fr/sante/sante-mentale-les-femmes-sont-plus-touchees-que-les-hommes-par-les-troubles-depressifs-et-anxieux-et-cette-inegalite-commence-des-l-adolescence-2473867.html",
       "published_at": "2026-11-05T20:00:15+00:00",
       "category": "Médias & communication",
@@ -2537,7 +2604,7 @@
       "title": "Lycéens en colère : les parents mobilisés",
       "summary": "Dans les cortèges, ce jeudi 5 novembre, il y avait de très nombreux lycéens, parfois accompagnés de leurs parents venus soutenir leur revendication. Depuis plusieurs jours, d'autres parents se rendent devant les lycées pour inciter leurs enfants à retourner en cours et à empêcher les blocus. Aujourd'hui, 81 établissements étaient encore bloqués. Une…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/societe/videos/video-lyceens-en-colere-les-parents-mobilises-26396-2474154.html",
       "published_at": "2026-11-05T19:55:15+00:00",
       "category": "Société",
@@ -2592,22 +2659,6 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Au procès de « la martyre de l’A10 », les images éprouvantes des souffrances endurées par la fillette ».",
       "coverage_sources": [
         "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4ea2eeaee8b7",
-      "title": "Le JT de 20 heures de TF1 du jeudi 5 novembre 2026",
-      "summary": "« JT 20h Semaine » du jeudi 5 novembre 2026 à 19h58. Grand rendez-vous de l'actualité, le « LE 20H » est le journal diffusé chaque jour en direct à 19h58 sur TF1. Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou encore Audrey Crespo-Mara, le JT de 20h met en lumière de nombreux reportages, documentaires et duplex informant les…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/replay-tf1/videos/video-le-jt-de-20-heures-de-tf1-du-jeudi-5-novembre-2026-2474157.html",
-      "published_at": "2026-11-05T19:49:10+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Le JT de 20 heures de TF1 du jeudi 5 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2859,7 +2910,7 @@
       "title": "Turquie : un homme tue au moins huit personnes dans une zone rurale de l’ouest du pays",
       "summary": "Le tireur a ouvert le feu ce jeudi 5 novembre dans trois villages distincts avant de prendre la fuite à pied. Il est toujours recherché et ses motivations sont inconnues.",
       "source": "Libération",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.liberation.fr/international/europe/turquie-un-homme-tue-au-moins-huit-personnes-dans-une-zone-rurale-de-louest-du-pays-20261105_ZQLQP4TJSRH3XJWVRW3LWIOSRE/",
       "published_at": "2026-11-05T19:26:20+00:00",
       "category": "Sciences & tech",
@@ -2891,7 +2942,7 @@
       "title": "L’éditorial d’Yves Thréard : «La France abandonnée aux ingénieurs du chaos»",
       "summary": "Le pays est malade. Mais une autre France majoritaire et silencieuse, prise en otage par ceux qui la font plus encore glisser vers le fond, veut que cesse le désordre.",
       "source": "Le Figaro",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-la-france-abandonnee-aux-ingenieurs-du-chaos-20261105",
       "published_at": "2026-11-05T19:23:54+00:00",
       "category": "Société",
@@ -2939,7 +2990,7 @@
       "title": "Présidentielle 2027 : pourquoi la gauche a tort de voir dans la défaite de Donald Trump un mauvais présage pour Marine Le Pen",
       "summary": "ANALYSE - Socialistes, écologistes et Insoumis voient dans le raz-de-marée démocrate aux « midterms » un signal encourageant pour la présidentielle, au point d’imaginer un échec du RN, pourtant largement donné gagnant. Un parallèle trompeur.",
       "source": "Le Figaro",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-la-gauche-a-tort-de-voir-dans-la-defaite-de-donald-trump-un-mauvais-presage-pour-marine-le-pen-20261105",
       "published_at": "2026-11-05T19:17:53+00:00",
       "category": "Société",
@@ -2971,7 +3022,7 @@
       "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
       "summary": "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran.",
       "source": "Le Figaro",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
       "published_at": "2026-11-05T19:15:00+00:00",
       "category": "Médias & communication",
@@ -3051,7 +3102,7 @@
       "title": "Masters 1000 de Paris : « Il est assez unique »… Luca Van Assche, le joueur frisson que la France n’attendait pas ?",
       "summary": "<p><strong><em>De notre envoyé spécial à la Plénitude Arena,</em></strong></p><p>C’est bien beau de sortir le nouveau numéro un mondial en deux petits sets. C’en est une autre d’affronter le lendemain un Français mort de faim devant son public, quand bien même on est favori. <a…",
       "source": "20 Minutes",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.20minutes.fr/sport/tennis/4260708-20261105-masters-1000-paris-assez-unique-luca-van-assche-joueur-frisson-france-attendait?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T19:10:19+00:00",
       "category": "Société",
@@ -3293,7 +3344,7 @@
       "title": "Guerre en Ukraine : Un dialogue entre la Russie et l’Ukraine entamé avec Melania Trump, Zelensky reprend espoir",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://www.20minutes.fr/monde/ukraine/\">guerre en Ukraine</a> ? <em>20 Minutes</em> fait le point pour vous tous les soirs. Voici l’essentiel de ce jeudi 5 novembre 2026, au 1.716e jour du conflit.</p><h2>Le fait du jour</h2><p>Comme <a…",
       "source": "20 Minutes",
-      "feed_rank": 22,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/monde/ukraine/4260760-20261105-guerre-ukraine-dialogue-entre-russie-ukraine-entame-melania-trump-zelensky-reprend-espoir?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T18:50:02+00:00",
       "category": "International",
@@ -3389,7 +3440,7 @@
       "title": "«Ils sont usés et laminés» : face aux violences, plusieurs dizaines de proviseurs envisagent de quitter leurs fonctions",
       "summary": "Depuis le début du mouvement lycéen, plus de 200 personnels de l’Éducation nationale ont été blessés. À ces agressions s’ajoutent une surcharge de travail et un manque chronique de moyens, qui alimentent un profond malaise chez les personnels de direction.",
       "source": "Le Figaro",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lefigaro.fr/actualite-france/ils-sont-uses-et-lamines-face-aux-violences-plusieurs-dizaines-de-proviseurs-envisagent-de-quitter-leurs-fonctions-20261105",
       "published_at": "2026-11-05T18:45:15+00:00",
       "category": "Société",
@@ -4172,22 +4223,6 @@
       "mention_count": 1
     },
     {
-      "id": "121664e3d88b",
-      "title": "Gaza : cinq personnes, dont un enfant, tuées par des bombardements israéliens, selon les services de secours palestiniens",
-      "summary": "Le corps d’une victime est transporté à l’hôpital, à la suite d’une frappe aérienne israélienne, à Deir Al-Balah, dans la bande de Gaza, le 5 novembre 2026.",
-      "source": "Le Monde",
-      "feed_rank": 12,
-      "url": "https://www.lemonde.fr/international/article/2026/11/05/gaza-quatre-personnes-dont-un-enfant-tuees-par-des-bombardements-israeliens-selon-les-services-de-secours-palestiniens_6807330_3210.html",
-      "published_at": "2026-11-05T18:05:29+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Gaza : cinq personnes, dont un enfant, tuées par des bombardements israéliens, selon les services de secours palestiniens ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "ef2485ce72b3",
       "title": "Train en Nouvelle-Aquitaine : chantiers et interruptions de lignes TER, ce qui attend les voyageurs d’ici décembre",
       "summary": "De gros chantiers sont en cours sur le réseau TER en Nouvelle-Aquitaine jusqu’à la fin de l’année. La SNCF invite les usagers à vérifier leurs trajets et à reporter leurs voyages, si possible",
@@ -4208,7 +4243,7 @@
       "title": "«S’il y a des militants politiques qui sont hostiles, je m’en fous» : Raphaël Glucksmann présent à la manifestation mais forcé par la police à rebrousser chemin",
       "summary": "Le candidat du PS et de Place publique s’est rendu au départ du cortège parisien, ce jeudi 5 novembre, sans pouvoir défiler, en raison de la présence de black blocs, selon son équipe de campagne.",
       "source": "Libération",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.liberation.fr/politique/sil-y-a-des-militants-politiques-qui-sont-hostiles-je-men-fous-raphael-glucksmann-present-a-la-manifestation-mais-force-de-rebrousser-chemin-20261105_JDBBQPL6ABGCTG4VLDMIKM5CJM/",
       "published_at": "2026-11-05T18:04:01+00:00",
       "category": "Politique",
@@ -4465,13 +4500,29 @@
       "title": "Grève du 5 novembre : malmené sur le terrain social, Raphaël Glucksmann veut continuer à aller « partout »",
       "summary": "DÉCRYPTAGE - Contraint de quitter le cortège parisien sous les huées de la gauche radicale, après une petite heure à peine de manifestation, le candidat social-démocrate entend donner un coup d’accélérateur à sa campagne dans les prochains jours.",
       "source": "Le Figaro",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.lefigaro.fr/elections/presidentielles/greve-du-5-novembre-malmene-sur-le-terrain-social-raphael-glucksmann-veut-continuer-a-aller-partout-20261105",
       "published_at": "2026-11-05T17:56:42+00:00",
       "category": "Société",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Grève du 5 novembre : malmené sur le terrain social, Raphaël Glucksmann veut continuer à aller « partout » ».",
       "coverage_sources": [
         "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "bd61d00bfcb2",
+      "title": "Paraguay : le président Santiago Peña au bord de la destitution sur fond de scandale bancaire",
+      "summary": "Dans la foulée d'un scandale bancaire national, le président du Paraguay, Santiago Peña, a annoncé sa démission jeudi, mais restait techniquement à la tête de l'État car le Parlement n'a pas réussi à voter pour l'accepter ou la refuser. Accusé de \"mauvais exercice de ses fonctions\" et de \"conflit d'intérêts\", il se prépare à son procès en destitution…",
+      "source": "France 24",
+      "feed_rank": 5,
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national",
+      "published_at": "2026-11-05T17:56:07+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Paraguay : le président Santiago Peña au bord de la destitution sur fond de scandale bancaire ».",
+      "coverage_sources": [
+        "France 24"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4529,7 +4580,7 @@
       "title": "Colère sociale : une forte mobilisation pour ce « jeudi noir » tant redouté par les autorités",
       "summary": "RÉCIT - Plus de 600.000 manifestants ont répondu à l’appel de l’intersyndicale, selon le ministère de l’Intérieur. Soit le plus fort taux de participation depuis le début du mouvement lycéen.",
       "source": "Le Figaro",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-forte-mobilisation-pour-ce-jeudi-noir-tant-redoute-par-les-autorites-20261105",
       "published_at": "2026-11-05T17:52:33+00:00",
       "category": "Société",
@@ -4703,28 +4754,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "4941687a1644",
-      "title": "Paraguay : le président Santiago Peña annonce sa démission",
-      "summary": "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant près de 3 millions de clients. Faute de vote au Parlement, M. Peña reste techniquement à la tête de l’Etat mais il est visé par une procédure de destitution.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
-      "published_at": "2026-11-05T17:43:41+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Paraguay : le président Santiago Peña annonce sa démission ».",
-      "coverage_sources": [
-        "Le Monde",
-        "France 24",
-        "Euronews",
-        "Libération",
-        "Sud Ouest",
-        "L'Humanité",
-        "La Croix"
-      ],
-      "coverage_count": 7,
-      "mention_count": 8
     },
     {
       "id": "b7a20da65e66",
@@ -4942,7 +4971,7 @@
       "title": "Manifestations massives, députés communistes qui rejoignent Mélenchon, avions déroutés… L’actu de ce jeudi 5 novembre",
       "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 5 novembre.",
       "source": "Libération",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.liberation.fr/international/europe/manifestations-massives-deputes-communistes-qui-rejoignent-melenchon-avions-deroutes-lactu-de-ce-jeudi-5-novembre-20261105_YOF2MM3FNZEMBGIBTW6PKGCYEE/",
       "published_at": "2026-11-05T17:33:33+00:00",
       "category": "Politique",
@@ -5118,7 +5147,7 @@
       "title": "Midterms : dans le Maine, le démocrate Troy Jackson bat l’indéboulonnable sénatrice Susan Collins",
       "summary": "Candidat démocrate sur lequel personne ne misait initialement, l’ancien bûcheron, âgé de 58 ans, a réussi l’exploit de battre une républicaine historique, en poste depuis 1997.",
       "source": "Libération",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.liberation.fr/international/amerique/midterms-dans-le-maine-le-democrate-troy-jackson-bat-lindeboulonnable-senatrice-susan-collins-20261105_5K4FQRXN55HRZB2N7V6ZDGMBTE/",
       "published_at": "2026-11-05T17:28:48+00:00",
       "category": "Société",
@@ -5166,7 +5195,7 @@
       "title": "Sets festifs, poulpe bleuté, AG et occupation de la Bourse du travail : à Lyon, le secteur culturel mobilisé",
       "summary": "Répondant à l’appel national de l’orchestre du Nouveau Monde à venir accompagner le mouvement social en musique, les étudiants et les travailleurs de la culture étaient présents en nombre dans le cortège lyonnais.",
       "source": "Libération",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.liberation.fr/societe/sets-festifs-poulpes-bleutes-ag-et-occupation-de-la-bourse-du-travail-a-lyon-le-secteur-culturel-mobilise-20261105_OM4LPNPW5NEZHC6OOZ23SHEMA4/",
       "published_at": "2026-11-05T17:24:50+00:00",
       "category": "Économie",
@@ -5295,7 +5324,7 @@
       "title": "La fin de l’ère Donald Trump n’est pas la fin de la crise démocratique",
       "summary": "ANALYSE - Le verrou que les électeurs installent face aux velléités autoritaires de Trump prouve la résilience de la démocratie américaine. Mais le président, dont la chute politique semble se dessiner sous nos yeux, a d’abord été un symptôme de la crise avant d’en devenir un élément central.",
       "source": "Le Figaro",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/vox/monde/la-fin-de-l-ere-donald-trump-n-est-pas-la-fin-de-la-crise-democratique-20261105",
       "published_at": "2026-11-05T17:14:06+00:00",
       "category": "Politique",
@@ -5334,38 +5363,6 @@
       "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « « L’émission a fait son temps » : la version britannique de « Mariés au premier regard » annulée après des accusations de viol ».",
       "coverage_sources": [
         "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "82cbb05a3acf",
-      "title": "Le CNC relance les aides aux créateurs de contenu, avec un budget augmenté de trois millions d’euros",
-      "summary": "President of the Centre National du Cinema et de l'Image Animee - CNC (National Centre for Cinema and the Animated Image) and former French diplomat Gaetan Bruel delivers a speech during the 7th edition of the Pegases video game awards ceremony at La Cigale in Paris on March 5, 2026. (Photo by Dimitar DILKOFF / AFP)",
-      "source": "Télérama",
-      "feed_rank": 4,
-      "url": "https://www.telerama.fr/cinema/le-cnc-relance-les-aides-aux-createurs-de-contenu-avec-un-budget-augmente-de-trois-millions-d-euros-7033730.php",
-      "published_at": "2026-11-05T17:13:05+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Le CNC relance les aides aux créateurs de contenu, avec un budget augmenté de trois millions d’euros ».",
-      "coverage_sources": [
-        "Télérama"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "185159cb70ee",
-      "title": "Allie et Dean prennent le relais pour la saison 2 d&#8217;Off Campus qui sortira le 28 avril",
-      "summary": "La série Off Campus vient de dévoiler la date de sortie de sa deuxième saison : rendez-vous le 28 avril 2027 sur Prime Video pour retrouver les étudiants de Briar University ! Après avoir suivi...",
-      "source": "Konbini",
-      "feed_rank": 1,
-      "url": "https://www.konbini.com/popculture/allie-et-dean-prennent-le-relais-pour-la-saison-2-doff-campus-qui-sortira-le-28-avril/",
-      "published_at": "2026-11-05T17:11:46+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Allie et Dean prennent le relais pour la saison 2 d’Off Campus qui sortira le 28 avril ».",
-      "coverage_sources": [
-        "Konbini"
       ],
       "coverage_count": 1,
       "mention_count": 1
