@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-06T00:00:20.439787+00:00",
-  "last_attempt": "2026-11-06T00:00:20.439787+00:00",
+  "last_updated": "2026-11-06T01:00:21.189899+00:00",
+  "last_attempt": "2026-11-06T01:00:21.189899+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 901,
-  "unique_story_count": 786,
+  "raw_article_count": 900,
+  "unique_story_count": 784,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-06T00:00:20.439787+00:00",
-  "featured_window_end": "2026-11-06T00:00:20.439787+00:00",
-  "featured_pool_count": 900,
+  "featured_window_start": "2026-10-06T01:00:21.189899+00:00",
+  "featured_window_end": "2026-11-06T01:00:21.189899+00:00",
+  "featured_pool_count": 899,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "9fe2abbc24b9",
-      "title": "Trump vs le Congrès : la bataille des pouvoirs",
-      "summary": "Pour ces élections de mi-mandat, le verdict est sans appel : les démocrates sont les grands gagnants. Donald Trump a donc perdu sa majorité au Sénat à la Chambre des représentants. Dès janvier, il va devoir composer avec un Congrès aux mains de l'opposition, une sorte de cohabitation à l'américaine.",
-      "source": "France 24",
-      "feed_rank": 1,
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261105-trump-vs-le-congr%C3%A8s-la-bataille-des-pouvoirs",
-      "published_at": "2026-11-05T23:11:30+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Trump vs le Congrès : la bataille des pouvoirs ».",
+      "id": "b064de56c18d",
+      "title": "Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide",
+      "summary": "Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dans lesquels elle décrit son mal-être.",
+      "source": "Le Monde",
+      "feed_rank": 13,
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html",
+      "published_at": "2026-11-06T00:36:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -70,9 +70,9 @@
         "Creapills"
       ],
       "coverage_count": 38,
-      "mention_count": 253,
-      "importance_score": 37.171,
-      "latest_coverage_at": "2026-11-05T23:26:12+00:00"
+      "mention_count": 256,
+      "importance_score": 37.202,
+      "latest_coverage_at": "2026-11-06T00:40:03+00:00"
     },
     {
       "id": "c32f3fa600f1",
@@ -99,8 +99,8 @@
         "Valeurs actuelles"
       ],
       "coverage_count": 12,
-      "mention_count": 13,
-      "importance_score": 24.593,
+      "mention_count": 14,
+      "importance_score": 24.719,
       "latest_coverage_at": "2026-11-05T22:54:00+00:00"
     },
     {
@@ -126,60 +126,8 @@
       ],
       "coverage_count": 9,
       "mention_count": 13,
-      "importance_score": 22.639,
+      "importance_score": 22.632,
       "latest_coverage_at": "2026-11-05T20:04:26+00:00"
-    },
-    {
-      "id": "dc00cfb549c3",
-      "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
-      "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
-      "source": "Ouest-France",
-      "feed_rank": 3,
-      "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-05T22:43:33+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes ».",
-      "coverage_sources": [
-        "Le Monde",
-        "RFI",
-        "CNews",
-        "Courrier International",
-        "Ouest-France",
-        "Sud Ouest",
-        "20 Minutes",
-        "La Dépêche du Midi",
-        "Paris Match"
-      ],
-      "coverage_count": 9,
-      "mention_count": 10,
-      "importance_score": 22.294,
-      "latest_coverage_at": "2026-11-05T22:43:33+00:00"
-    },
-    {
-      "id": "55ce10771ec0",
-      "title": "La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne",
-      "summary": "La préfecture du Rhône a interdit, ce jeudi 5 novembre, la conférence du député LFI Raphaël Arnault organisé à Villeurbanne, vendredi 6.",
-      "source": "BFMTV",
-      "feed_rank": 12,
-      "url": "https://www.bfmtv.com/lyon/la-prefecture-du-rhone-interdit-la-conference-du-depute-insoumis-raphael-arnault-a-villeurbanne_AD-202611050859.html",
-      "published_at": "2026-11-05T22:14:52+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "BFMTV",
-        "CNews",
-        "Libération",
-        "Le JDD",
-        "Valeurs actuelles",
-        "Reporterre"
-      ],
-      "coverage_count": 9,
-      "mention_count": 9,
-      "importance_score": 22.014,
-      "latest_coverage_at": "2026-11-05T22:14:52+00:00"
     },
     {
       "id": "958f2752cb5d",
@@ -203,8 +151,33 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.569,
+      "importance_score": 21.558,
       "latest_coverage_at": "2026-11-05T20:11:54+00:00"
+    },
+    {
+      "id": "dc00cfb549c3",
+      "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
+      "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
+      "source": "Ouest-France",
+      "feed_rank": 3,
+      "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-05T22:43:33+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes ».",
+      "coverage_sources": [
+        "RFI",
+        "CNews",
+        "Courrier International",
+        "Ouest-France",
+        "Sud Ouest",
+        "20 Minutes",
+        "La Dépêche du Midi",
+        "Paris Match"
+      ],
+      "coverage_count": 8,
+      "mention_count": 9,
+      "importance_score": 21.426,
+      "latest_coverage_at": "2026-11-05T22:43:33+00:00"
     },
     {
       "id": "d0b464b3b58a",
@@ -217,6 +190,7 @@
       "category": "Politique",
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
+        "Le Monde",
         "France 24",
         "Euronews",
         "Libération",
@@ -225,10 +199,35 @@
         "La Croix",
         "Paris Match"
       ],
-      "coverage_count": 7,
-      "mention_count": 8,
-      "importance_score": 20.328,
+      "coverage_count": 8,
+      "mention_count": 9,
+      "importance_score": 21.285,
       "latest_coverage_at": "2026-11-05T21:30:00+00:00"
+    },
+    {
+      "id": "55ce10771ec0",
+      "title": "La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne",
+      "summary": "La préfecture du Rhône a interdit, ce jeudi 5 novembre, la conférence du député LFI Raphaël Arnault organisé à Villeurbanne, vendredi 6.",
+      "source": "BFMTV",
+      "feed_rank": 12,
+      "url": "https://www.bfmtv.com/lyon/la-prefecture-du-rhone-interdit-la-conference-du-depute-insoumis-raphael-arnault-a-villeurbanne_AD-202611050859.html",
+      "published_at": "2026-11-05T22:14:52+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "BFMTV",
+        "CNews",
+        "Libération",
+        "Le JDD",
+        "Valeurs actuelles",
+        "Reporterre"
+      ],
+      "coverage_count": 8,
+      "mention_count": 8,
+      "importance_score": 21.132,
+      "latest_coverage_at": "2026-11-05T22:14:52+00:00"
     },
     {
       "id": "069ab0b86d2f",
@@ -244,12 +243,13 @@
         "France Info (Radio)",
         "Franceinfo (TV)",
         "BFMTV",
+        "CNews",
         "20 Minutes",
         "Le Dauphiné Libéré"
       ],
-      "coverage_count": 5,
-      "mention_count": 6,
-      "importance_score": 18.322,
+      "coverage_count": 6,
+      "mention_count": 11,
+      "importance_score": 20.139,
       "latest_coverage_at": "2026-11-05T23:18:40+00:00"
     },
     {
@@ -271,7 +271,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.306,
+      "importance_score": 18.29,
       "latest_coverage_at": "2026-11-05T22:02:32+00:00"
     },
     {
@@ -293,30 +293,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 18.005,
+      "importance_score": 18.002,
       "latest_coverage_at": "2026-11-05T21:31:26+00:00"
-    },
-    {
-      "id": "5108cd30fa09",
-      "title": "Ligue Europa : Lyon accroche la Real Sociedad (1-1), l’OM crée la surprise à Leverkusen (0-1)",
-      "summary": "Grâce à un exploit personnel d’Amine Gouiri, l’Olympique de Marseille a créé la surprise en battant le Bayer Leverkusen (0-1) ce jeudi soir lors de la quatrième journée de Ligue Europa. L’Olympique Lyonnais a obtenu un bon point en arrachant le nul sur la pelouse de la Real Sociedad (1-1). Des clubs français invaincus dans les coupes d’Europe ce jeudi.…",
-      "source": "CNews",
-      "feed_rank": 1,
-      "url": "https://www.cnews.fr/sport/2026-11-05/ligue-europa-lyon-accroche-la-real-sociedad-1-1-lom-cree-la-surprise-leverkusen-0",
-      "published_at": "2026-11-05T22:31:17+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Ligue Europa : Lyon accroche la Real Sociedad (1-1), l’OM crée la surprise à Leverkusen (0-1) » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "CNews",
-        "20 Minutes",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 5,
-      "mention_count": 5,
-      "importance_score": 17.54,
-      "latest_coverage_at": "2026-11-05T22:31:17+00:00"
     },
     {
       "id": "f42641548aa1",
@@ -336,7 +314,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.446,
+      "importance_score": 16.443,
       "latest_coverage_at": "2026-11-05T20:57:15+00:00"
     },
     {
@@ -357,7 +335,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.223,
+      "importance_score": 16.22,
       "latest_coverage_at": "2026-11-05T14:39:23+00:00"
     },
     {
@@ -365,7 +343,7 @@
       "title": "Fusil, pistolets-mitrailleurs… Un réseau de trafic d’armes démantelé près de Toulouse, six individus arrêtés",
       "summary": "<p><a href=\"https://www.20minutes.fr/dossier/trafic_d_armes-1\">Un fusil d’assaut, trois pistolets-mitrailleurs et une quinzaine d’armes de poing</a> ont été découverts lundi dans un atelier clandestin à Cornebarrieu, près de <a href=\"https://www.20minutes.fr/toulouse/\">Toulouse</a>. Les enquêteurs y ont aussi trouvé près d’une centaine de chargeurs, des…",
       "source": "20 Minutes",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/justice/4260802-20261105-fusil-pistolets-mitrailleurs-reseau-trafic-armes-demantele-pres-toulouse-six-individus-arretes?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T21:36:06+00:00",
       "category": "Société",
@@ -378,7 +356,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.035,
+      "importance_score": 16.067,
       "latest_coverage_at": "2026-11-05T21:36:06+00:00"
     },
     {
@@ -398,7 +376,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 8,
-      "importance_score": 15.868,
+      "importance_score": 15.865,
       "latest_coverage_at": "2026-11-05T21:23:03+00:00"
     },
     {
@@ -418,7 +396,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.908,
+      "importance_score": 14.905,
       "latest_coverage_at": "2026-11-05T21:46:11+00:00"
     },
     {
@@ -438,28 +416,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.856,
+      "importance_score": 14.853,
       "latest_coverage_at": "2026-11-05T19:36:07+00:00"
-    },
-    {
-      "id": "b3c971f920fd",
-      "title": "Les syndicats et la gauche se voient en position de force après le 5 novembre : « La question, c’est “combien va-t-on gagner ?” »",
-      "summary": "La mobilisation intersyndicale a réuni 1,6 million de manifestants à travers la France, selon la CGT, et 575 000 selon les autorités. Alors que le Premier ministre a convoqué une « conférence sociale » le 9 novembre, les forces syndicales et politiques de gauche espèrent trouver un nouveau rapport de force.",
-      "source": "L'Obs",
-      "feed_rank": 2,
-      "url": "https://www.nouvelobs.com/politique/20261105.OBS119879/les-syndicats-et-la-gauche-se-voient-en-position-de-force-apres-le-5-novembre-la-question-c-est-combien-va-t-on-gagner.html",
-      "published_at": "2026-11-05T19:55:54+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Les syndicats et la gauche se voient en position de force après le 5 novembre : « La question, c’est “combien va-t-on gagner ?” » ».",
-      "coverage_sources": [
-        "L'Obs",
-        "L'Humanité",
-        "Le JDD"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.575,
-      "latest_coverage_at": "2026-11-05T19:55:54+00:00"
     },
     {
       "id": "7a335c0314f8",
@@ -478,7 +436,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.478,
+      "importance_score": 14.475,
       "latest_coverage_at": "2026-11-05T17:46:04+00:00"
     },
     {
@@ -497,21 +455,158 @@
       ],
       "coverage_count": 2,
       "mention_count": 8,
-      "importance_score": 14.325,
+      "importance_score": 14.322,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
+    },
+    {
+      "id": "66ecadea212d",
+      "title": "Le Pen, Mediapart et Marion Maréchal... Les coulisses de la soirée de lancement du livre de Jordan Bardella",
+      "summary": "Le président du Rassemblement national a réuni au Pavillon Wagram l'ensemble des cadres de sa coalition, à l'occasion de la sortie de « Gouverner ». Une soirée boycottée par une majorité de journalistes et marquée par l'absence d'invitation de la nièce de Marine Le Pen.",
+      "source": "Paris Match",
+      "feed_rank": 6,
+      "url": "https://www.parismatch.com/pen-mediapart-marion-marechal-coulisses-soiree-lancement-livre-jordan-bardella-5D5x1uSbPo9eseaYMoBaVT",
+      "published_at": "2026-11-05T17:51:46+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Le Pen, Mediapart et Marion Maréchal... Les coulisses de la soirée de lancement du livre de Jordan Bardella ».",
+      "coverage_sources": [
+        "LCP",
+        "Paris Match",
+        "Valeurs actuelles"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.261,
+      "latest_coverage_at": "2026-11-05T17:51:46+00:00"
+    },
+    {
+      "id": "c112c0994b45",
+      "title": "VIDÉO : Altercation sur le plateau de RMC, Charles Consigny quitte l’antenne après avoir été traité de raciste par le réalisateur Mathieu Kassovitz",
+      "summary": "Le réalisateur Mathieu Kassovitz et l’avocat Charles Consigny se sont vivement opposés ce jeudi 5 novembre sur le plateau des \"Grandes Gueules\" sur RMC. Accusé ouvertement de racisme en direct par le cinéaste lors...",
+      "source": "Midi Libre",
+      "feed_rank": 19,
+      "url": "https://www.midilibre.fr/2026/11/05/altercation-sur-le-plateau-de-rmc-charles-consigny-quitte-lantenne-apres-etre-traite-de-raciste-par-le-realisateur-mathieu-kassovitz-13638116.php",
+      "published_at": "2026-11-05T17:47:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « VIDÉO : Altercation sur le plateau de RMC, Charles Consigny quitte l’antenne après avoir été traité de raciste par le réalisateur Mathieu Kassovitz ».",
+      "coverage_sources": [
+        "Le JDD",
+        "Midi Libre",
+        "Paris Match"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.215,
+      "latest_coverage_at": "2026-11-05T17:47:12+00:00"
     }
   ],
   "articles": [
     {
-      "id": "55c84dbdf6de",
-      "title": "Leverkusen-OM : le show Gouiri, l’artiste Maza, Schick fait «pschitt», le Bayer sans relief… Les tops et flops",
-      "summary": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire de l’Olympique de Marseille face au Bayer Leverkusen, lors de la 4e journée de Ligue Europa.",
+      "id": "77681f1be289",
+      "title": "À Cuba, la journaliste Yoani Sánchez annonce sa libération après son «arrestation arbitraire»",
+      "summary": "Figure du journalisme indépendant à Cuba, Yoani Sánchez a annoncé jeudi avoir regagné son domicile après quelques heures de détention à La Havane.",
+      "source": "Le Figaro",
+      "feed_rank": 15,
+      "url": "https://www.lefigaro.fr/international/cuba-la-journaliste-yoani-sanchez-annonce-sa-liberation-apres-son-arrestation-arbitraire-20261106",
+      "published_at": "2026-11-06T00:45:25+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « À Cuba, la journaliste Yoani Sánchez annonce sa libération après son «arrestation arbitraire» ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ac54ebbda897",
+      "title": "Le Nikkei chute de plus de 5% après la dégringolade des valeurs technologiques américaines",
+      "summary": "Les marchés s’inquiètent des résultats des élections américaines qui pourraient ralentir les investissements dans les centres de données dédiés à l’intelligence artificielle.",
+      "source": "Le Figaro",
+      "feed_rank": 2,
+      "url": "https://www.lefigaro.fr/conjoncture/le-nikkei-chute-de-plus-de-5-apres-la-degringolade-des-valeurs-technologiques-americaines-20261106",
+      "published_at": "2026-11-06T00:40:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Le Nikkei chute de plus de 5% après la dégringolade des valeurs technologiques américaines ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b064de56c18d",
+      "title": "Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide",
+      "summary": "Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dans lesquels elle décrit son mal-être.",
+      "source": "Le Monde",
+      "feed_rank": 13,
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html",
+      "published_at": "2026-11-06T00:36:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "81b8f4cb2fa0",
+      "title": "Le nouveau TGV de la SNCF, plus confortable, écologique et modulable, entre enfin en service vendredi",
+      "summary": "Après des années de tests et de retards, le premier TGV nouvelle génération de la SNCF prend le départ de Paris, vendredi matin, pour Marseille avec de nombreuses innovations. Les nouvelles rames remplaceront progressivement, sur dix ans environ, le parc existant.",
+      "source": "Le Monde",
+      "feed_rank": 11,
+      "url": "https://www.lemonde.fr/economie/article/2026/11/06/le-nouveau-tgv-de-la-sncf-plus-confortable-ecologique-et-modulable-entre-enfin-en-service-vendredi_6807380_3234.html",
+      "published_at": "2026-11-06T00:26:52+00:00",
+      "category": "Environnement",
+      "communication_angle": "Cette actualité rend visibles des enjeux environnementaux et des attentes envers les organisations. Toute communication associée doit s'appuyer sur des éléments vérifiables et relier les promesses à des actions concrètes. Pour travailler ce cas, partez du sujet précis — « Le nouveau TGV de la SNCF, plus confortable, écologique et modulable, entre enfin en service vendredi » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b088d6e534c2",
+      "title": "Le scénario d'une Terre invivable pourrait être plus proche que prévu",
+      "summary": "Les chercheurs alertent depuis longtemps sur la menace des points de bascule climatiques et le risque d'un emballement du réchauffement planétaire. Ce dernier pourrait déclencher des processus biogéophysiques, comme l'effondrement irréversible des calottes glaciaires ou la transformation de l'Amazonie en savane, qui contribueraient à transformer notre…",
+      "source": "Reporterre",
+      "feed_rank": 1,
+      "url": "https://reporterre.net/Le-scenario-d-une-Terre-invivable-pourrait-etre-plus-proche-que-prevu",
+      "published_at": "2026-11-06T00:01:00+00:00",
+      "category": "Environnement",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Le scénario d'une Terre invivable pourrait être plus proche que prévu ».",
+      "coverage_sources": [
+        "Reporterre"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6a325485d975",
+      "title": "Au nom de la « dignité humaine » : Le gouverneur de Californie commue toutes les peines de mort",
+      "summary": "<p>Le <a href=\"https://www.20minutes.fr/monde/etats-unis/4157711-20250610-etats-unis-gouverneur-californie-gavin-newsom-engage-bras-fer-donald-trump\">gouverneur démocrate Gavin Newsom</a> a annoncé, jeudi, que les 548 personnes condamnées à mort en <a href=\"https://www.20minutes.fr/dossier/californie\">Californie</a> purgeraient une peine de réclusion à…",
+      "source": "20 Minutes",
+      "feed_rank": 6,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4260806-20261106-nom-dignite-humaine-gouverneur-californie-commue-toutes-peines-mort?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-05T23:57:27+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Au nom de la « dignité humaine » : Le gouverneur de Californie commue toutes les peines de mort » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes",
+        "La Croix"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "1f3a854c3183",
+      "title": "Meurtre conjugal dans l'Essonne : 28 ans de réclusion, pour une thèse de l'accident qui ne convainc pas",
+      "summary": "Yacine A. a été reconnu coupable jeudi par la cour d’assises de l’Essonne du meurtre de sa compagne en 2023.",
       "source": "Le Figaro",
       "feed_rank": 16,
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/leverkusen-om-le-show-gouiri-l-artiste-maza-schick-fait-pschitt-le-bayer-sans-relief-les-tops-et-flops-20261105",
-      "published_at": "2026-11-05T23:57:24+00:00",
+      "url": "https://www.lefigaro.fr/faits-divers/meurtre-conjugal-dans-l-essonne-28-ans-de-reclusion-pour-une-these-de-l-accident-qui-ne-convainc-pas-20261106",
+      "published_at": "2026-11-05T23:40:19+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Leverkusen-OM : le show Gouiri, l’artiste Maza, Schick fait «pschitt», le Bayer sans relief… Les tops et flops ».",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Meurtre conjugal dans l'Essonne : 28 ans de réclusion, pour une thèse de l'accident qui ne convainc pas » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
       ],
@@ -665,22 +760,6 @@
       "mention_count": 1
     },
     {
-      "id": "efd82c8a4abd",
-      "title": "Présidentielle 2028 : Marco Rubio dément vouloir quitter l’administration Trump pour se présenter",
-      "summary": "Dans un entretien au New York Times, le secrétaire d’État américain assure qu’il a toujours prévu de rester en poste jusqu’à la fin du mandat de Donald Trump.",
-      "source": "Le Figaro",
-      "feed_rank": 14,
-      "url": "https://www.lefigaro.fr/international/presidentielle-2028-marco-rubio-dement-vouloir-quitter-l-administration-trump-pour-se-presenter-20261105",
-      "published_at": "2026-11-05T22:49:04+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2028 : Marco Rubio dément vouloir quitter l’administration Trump pour se présenter ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "cb66ed6a3e4e",
       "title": "Cisjordanie : des gaz lacrymogènes tirés près des cueilleurs d'olives",
       "summary": "En Cisjordanie occupée, des agriculteurs palestiniens ont pu accéder à une partie de leurs oliveraies sous surveillance militaire israélienne. Ils ont découvert des arbres endommagés, tandis que des soldats tiraient des gaz lacrymogènes à proximité.",
@@ -749,7 +828,7 @@
       "title": "\"Elle était venue se recueillir sur la tombe de son ancien mari\"... Une quinquagénaire tuée de plusieurs coups de fusil devant un cimetière dans l'Oise",
       "summary": "Mercredi 4 novembre 2026, une femme de 57 ans a été tuée par balle sur le parking du cimetière de Goincourt (Oise). Le tireur présumé, un membre de sa famille par alliance âgé d'une soixantaine d'années, a été arrêté...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.ladepeche.fr/2026/11/05/elle-etait-venue-se-recueillir-sur-la-tombe-de-son-ancien-mari-une-cinquantenaire-tuee-de-plusieurs-coups-de-fusil-devant-un-cimetiere-dans-loise-13638511.php",
       "published_at": "2026-11-05T22:37:06+00:00",
       "category": "Société",
@@ -819,11 +898,10 @@
       "category": "Économie",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « F1. « J’étais agacé, je le suis toujours » : Lewis Hamilton ne décolère pas contre Charles Leclerc après leur accrochage ».",
       "coverage_sources": [
-        "Le Figaro",
         "Ouest-France"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "c8a0eaf13227",
@@ -981,7 +1059,7 @@
       "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
       "summary": "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis. Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée».",
       "source": "Le Figaro",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
       "published_at": "2026-11-05T21:59:54+00:00",
       "category": "Politique",
@@ -1208,7 +1286,7 @@
       "title": "Fusil, pistolets-mitrailleurs… Un réseau de trafic d’armes démantelé près de Toulouse, six individus arrêtés",
       "summary": "<p><a href=\"https://www.20minutes.fr/dossier/trafic_d_armes-1\">Un fusil d’assaut, trois pistolets-mitrailleurs et une quinzaine d’armes de poing</a> ont été découverts lundi dans un atelier clandestin à Cornebarrieu, près de <a href=\"https://www.20minutes.fr/toulouse/\">Toulouse</a>. Les enquêteurs y ont aussi trouvé près d’une centaine de chargeurs, des…",
       "source": "20 Minutes",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/justice/4260802-20261105-fusil-pistolets-mitrailleurs-reseau-trafic-armes-demantele-pres-toulouse-six-individus-arretes?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T21:36:06+00:00",
       "category": "Société",
@@ -1268,25 +1346,20 @@
       "mention_count": 1
     },
     {
-      "id": "d0b464b3b58a",
-      "title": "Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire",
-      "summary": "La crise bancaire paraguayenne a eu raison de Santiago Peña : le président a annoncé sa démission jeudi 5 novembre à Asunción, après que la mise sous tutelle d'Ueno Bank et le gel des dépôts de près de 3 millions de clients ont déclenché une crise politique majeure.",
-      "source": "La Croix",
+      "id": "2e442742b1c7",
+      "title": "Un adolescent de 14 ans meurt à Toulouse après une chute d’un VélôToulouse, percuté par un véhicule",
+      "summary": "Un adolescent de 14 ans est mort ce jeudi 5 novembre, vers 19 h 30, sur le pont Saint-Michel, à Toulouse. Il se trouvait à l’avant d’un vélo en libre-service, en compagnie d’un ami, lorsqu’il a chuté sur la chaussée...",
+      "source": "La Dépêche du Midi",
       "feed_rank": 1,
-      "url": "https://www.la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
-      "published_at": "2026-11-05T21:30:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "url": "https://www.ladepeche.fr/2026/11/05/un-adolescent-de-14-ans-meurt-a-toulouse-apres-une-chute-dun-velotoulouse-percute-par-une-voiture-13638575.php",
+      "published_at": "2026-11-05T21:26:09+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Un adolescent de 14 ans meurt à Toulouse après une chute d’un VélôToulouse, percuté par un véhicule » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "France 24",
-        "Euronews",
-        "Libération",
-        "Sud Ouest",
-        "L'Humanité",
-        "La Croix"
+        "La Dépêche du Midi"
       ],
-      "coverage_count": 6,
-      "mention_count": 6
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "48cd93fd4d19",
@@ -1358,7 +1431,7 @@
       "title": "Le coût de la guerre en Ukraine contraint des régions russes à réduire les indemnités versées aux familles de soldats morts",
       "summary": "Saratov, Samara, Belgorod… plus d’une dizaine de régions ont réduit ou supprimé les indemnités versées aux familles endeuillées par le conflit en Ukraine, alors que l’ensemble des budgets régionaux affiche un lourd déficit.",
       "source": "Le Figaro",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.lefigaro.fr/conjoncture/le-cout-de-la-guerre-en-ukraine-contraint-des-regions-russes-a-reduire-les-indemnites-versees-aux-familles-de-soldats-morts-20261105",
       "published_at": "2026-11-05T21:07:25+00:00",
       "category": "Économie",
@@ -1683,7 +1756,7 @@
       "title": "Masters 1000 de Paris : « Pas comme si j’avais fait un mauvais match »… Arthur Fils, la nouvelle désillusion parisienne",
       "summary": "<p><strong><em>De notre envoyé spécial à la Plénitude Arena,</em></strong></p><p>Il s’est levé de sa chaise en premier, le poing levé, se dirigeant vers la ligne de fond de court avec la raquette devant ses yeux, sous l’ovation du public, qui a lancé des grands « Arthur, Arthur ». Pourtant, pas de victoire en vue ou de point miraculeux inscrit, mais…",
       "source": "20 Minutes",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/sport/tennis/4260799-20261105-masters-1000-paris-comme-si-fait-mauvais-match-arthur-fils-nouvelle-desillusion-parisienne?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T20:43:54+00:00",
       "category": "Sport",
@@ -1743,27 +1816,11 @@
       "mention_count": 1
     },
     {
-      "id": "8fe4a7406278",
-      "title": "États-Unis : le gouverneur de Californie annonce commuer les 548 peines de mort dans l’État",
-      "summary": "Le gouverneur démocrate Gavin Newsom a annoncé jeudi 5 novembre la commutation de toutes les peines de mort en Californie en réclusion à perpétuité. Une décision historique qui concerne 548 condamnés, prise au nom de la « dignité humaine ».",
-      "source": "La Croix",
-      "feed_rank": 2,
-      "url": "https://www.la-croix.com/international/etats-uniens-le-gouverneur-de-californie-annonce-commuer-les-548-peines-de-mort-dans-l-etat-20261105",
-      "published_at": "2026-11-05T20:39:37+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « États-Unis : le gouverneur de Californie annonce commuer les 548 peines de mort dans l’État ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "64d870eb0a48",
       "title": "DECRYPTAGE. Disparition de Marion Wagon à Agen : après 30 ans de mystère et de fausses pistes, l'ADN comme dernier espoir",
       "summary": "Il y a 30 ans, le 14 novembre 1996, à Agen (Lot-et-Garonne), Marion Wagon, 10 ans, disparaissait en pleine journée alors qu’elle sortait de son école. Trente ans plus tard, cette affaire emblématique est désormais...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 2,
+      "feed_rank": 16,
       "url": "https://www.ladepeche.fr/2026/11/05/decryptage-disparition-de-marion-wagon-a-agen-apres-30-ans-de-mystere-et-de-fausses-pistes-ladn-comme-dernier-espoir-13635327.php",
       "published_at": "2026-11-05T20:37:36+00:00",
       "category": "Société",
@@ -1875,7 +1932,7 @@
       "title": "« Vous allez assister à des batailles monstres » : dans une ambiance crépusculaire, les Maga se déchirent",
       "summary": "Le Secrétaire d’État, Marco Rubio (ici, à droite, le 1er novembre, lors d’un meeting à Salina, dans le Kansas), ne s’est pas exprimé depuis le suffrage, suscitant des rumeurs de départ.",
       "source": "Le Figaro",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.lefigaro.fr/international/vous-allez-assister-a-des-batailles-monstres-dans-une-ambiance-crepusculaire-les-maga-se-dechirent-20261105",
       "published_at": "2026-11-05T20:30:00+00:00",
       "category": "Société",
@@ -2206,13 +2263,12 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "Le Monde",
         "BFMTV",
         "CNews",
         "Libération"
       ],
-      "coverage_count": 6,
-      "mention_count": 6
+      "coverage_count": 5,
+      "mention_count": 5
     },
     {
       "id": "6d55c5265a71",
@@ -2394,22 +2450,6 @@
       "mention_count": 1
     },
     {
-      "id": "6bdd6460a322",
-      "title": "Grace Blakeley : « Le coût de la vie devrait être le cœur des batailles de la gauche »",
-      "summary": "La journaliste Grace Blakeley est l’une des voix du marxisme anglais. Alors qu’aux Etats-Unis des démocrates se revendiquent de la tradition du « socialisme démocratique », et que des mouvements sociaux secouent l’Europe, elle fait le point sur ce que son courant de pensée a à dire du capitalisme actuel.",
-      "source": "L'Obs",
-      "feed_rank": 1,
-      "url": "https://www.nouvelobs.com/idees/20261105.OBS119880/grace-blakeley-le-cout-de-la-vie-devrait-etre-le-c-ur-des-batailles-de-la-gauche.html",
-      "published_at": "2026-11-05T20:00:08+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Grace Blakeley : « Le coût de la vie devrait être le cœur des batailles de la gauche » ».",
-      "coverage_sources": [
-        "L'Obs"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "da095524d3a1",
       "title": "REPLAY Épisode méditerranéen : inondations dans le Gard et l'Hérault, bientôt la fin des vigilances... Retour sur les intempéries",
       "summary": "Ce jeudi 5 novembre 2026, un épisode méditerranéen touche la Corse et d’autres départements du sud de la France. La région Occitanie est concernée, le Gard et l’Hérault rejoignant la Corse en vigilance orange pluie...",
@@ -2421,22 +2461,6 @@
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « REPLAY Épisode méditerranéen : inondations dans le Gard et l'Hérault, bientôt la fin des vigilances... Retour sur les intempéries ».",
       "coverage_sources": [
         "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b3c971f920fd",
-      "title": "Les syndicats et la gauche se voient en position de force après le 5 novembre : « La question, c’est “combien va-t-on gagner ?” »",
-      "summary": "La mobilisation intersyndicale a réuni 1,6 million de manifestants à travers la France, selon la CGT, et 575 000 selon les autorités. Alors que le Premier ministre a convoqué une « conférence sociale » le 9 novembre, les forces syndicales et politiques de gauche espèrent trouver un nouveau rapport de force.",
-      "source": "L'Obs",
-      "feed_rank": 2,
-      "url": "https://www.nouvelobs.com/politique/20261105.OBS119879/les-syndicats-et-la-gauche-se-voient-en-position-de-force-apres-le-5-novembre-la-question-c-est-combien-va-t-on-gagner.html",
-      "published_at": "2026-11-05T19:55:54+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Les syndicats et la gauche se voient en position de force après le 5 novembre : « La question, c’est “combien va-t-on gagner ?” » ».",
-      "coverage_sources": [
-        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2542,7 +2566,7 @@
       "title": "TGV Bordeaux-Toulouse : SNCF Réseau donne son feu vert au lancement des travaux d’une future ligne Sud-Ouest",
       "summary": "<p>Relier <a href=\"https://www.20minutes.fr/bordeaux/\">Bordeaux</a> à <a href=\"https://www.20minutes.fr/toulouse/\">Toulouse</a> en une heure et cinq minutes est l’objectif de la future <a href=\"https://www.20minutes.fr/dossier/lgv_sud_ouest\">ligne à grande vitesse</a> (LGV), attendue au plus tôt en 2032. Jeudi, le conseil d’administration de <a…",
       "source": "20 Minutes",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.20minutes.fr/societe/4260791-20261105-tgv-bordeaux-toulouse-sncf-reseau-donne-feu-vert-lancement-travaux-future-ligne-sud-ouest?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T19:45:45+00:00",
       "category": "Société",
@@ -2701,23 +2725,6 @@
       "mention_count": 2
     },
     {
-      "id": "f2f9cbd2f22c",
-      "title": "Grève du 5 novembre : cortèges calmes, plus d’un million de manifestants selon la CGT... Revivez cette journée de mobilisation",
-      "summary": "Annoncée début octobre, cette journée du 5 novembre est déjà jugée comme un succès par les syndicats qui revendiquaient à la mi-journée 250 000 manifestants dans 73 cortèges. La mobilisation rassemble salariés du privé et du public, pour les emplois, les salaires et les services publics mais les lycéens et les étudiants sont également venus gonfler les…",
-      "source": "L'Obs",
-      "feed_rank": 9,
-      "url": "https://www.nouvelobs.com/societe/20261105.OBS119872/en-direct-manifestations-du-5-novembre-lecornu-annonce-une-conference-sociale-600-000-manifestants-en-france-selon-beauvau.html",
-      "published_at": "2026-11-05T19:32:33+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Grève du 5 novembre : cortèges calmes, plus d’un million de manifestants selon la CGT... Revivez cette journée de mobilisation ».",
-      "coverage_sources": [
-        "L'Obs",
-        "L'Humanité"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
       "id": "a1666d309a9c",
       "title": "Romans-sur-Isère. « Jusque-là, je n’avais jamais eu de problème » : dans son Airbnb, un homme de 26 ans retrouvé mort, tué par balle",
       "summary": "Dans la nuit du mercredi 4 au jeudi 5 novembre, peu avant 1 h 30, un homme âgé de 26 ans a été tué par balle dans une maison louée via la plateforme Airbnb. Le logement aurait abrité un point de deal. Les policiers sont en charge de l’enquête.",
@@ -2738,7 +2745,7 @@
       "title": "VRAI OU FAUX. Guerre en Ukraine : des soldats ukrainiens ont-ils vraiment été détenus et violentés dans une maison située près de Kiev ?",
       "summary": "Lundi 2 novembre, dans une commune près de Kiev, une centaine de civils s'est rassemblée devant une maison de la Garde nationale, dénonçant la torture qu'y aurait subie des soldats. Alimentée par des rumeurs sur...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 3,
+      "feed_rank": 2,
       "url": "https://www.ladepeche.fr/2026/11/05/vrai-ou-faux-guerre-en-ukraine-des-soldats-ukrainiens-ont-ils-vraiment-ete-detenus-et-violentes-dans-une-maison-situee-pres-de-kiev-13633307.php",
       "published_at": "2026-11-05T19:31:02+00:00",
       "category": "International",
@@ -2754,7 +2761,7 @@
       "title": "REPORTAGE. \"Je préfère les gens à tout le reste\" : le prix Goncourt 2026, Philippe Jaenada, réserve sa première visite à Toulouse",
       "summary": "REPORTAGE. Fidèle à ses engagements malgré le tourbillon du prix Goncourt, l'écrivain Philippe Jaenada a réservé sa première sortie publique à Toulouse. Entre dédicaces chaleureuses et complicité retrouvée avec ses...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.ladepeche.fr/2026/11/05/reportage-je-prefere-les-gens-a-tout-le-reste-le-prix-goncourt-2026-philippe-jaenada-reserve-sa-premiere-visite-a-toulouse-13638401.php",
       "published_at": "2026-11-05T19:30:49+00:00",
       "category": "Économie",
@@ -2818,7 +2825,7 @@
       "title": "L’éditorial d’Yves Thréard : «La France abandonnée aux ingénieurs du chaos»",
       "summary": "Le pays est malade. Mais une autre France majoritaire et silencieuse, prise en otage par ceux qui la font plus encore glisser vers le fond, veut que cesse le désordre.",
       "source": "Le Figaro",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-la-france-abandonnee-aux-ingenieurs-du-chaos-20261105",
       "published_at": "2026-11-05T19:23:54+00:00",
       "category": "Société",
@@ -2866,7 +2873,7 @@
       "title": "Présidentielle 2027 : pourquoi la gauche a tort de voir dans la défaite de Donald Trump un mauvais présage pour Marine Le Pen",
       "summary": "ANALYSE - Socialistes, écologistes et Insoumis voient dans le raz-de-marée démocrate aux « midterms » un signal encourageant pour la présidentielle, au point d’imaginer un échec du RN, pourtant largement donné gagnant. Un parallèle trompeur.",
       "source": "Le Figaro",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-la-gauche-a-tort-de-voir-dans-la-defaite-de-donald-trump-un-mauvais-presage-pour-marine-le-pen-20261105",
       "published_at": "2026-11-05T19:17:53+00:00",
       "category": "Société",
@@ -2898,7 +2905,7 @@
       "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
       "summary": "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran.",
       "source": "Le Figaro",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
       "published_at": "2026-11-05T19:15:00+00:00",
       "category": "Médias & communication",
@@ -2978,7 +2985,7 @@
       "title": "Masters 1000 de Paris : « Il est assez unique »… Luca Van Assche, le joueur frisson que la France n’attendait pas ?",
       "summary": "<p><strong><em>De notre envoyé spécial à la Plénitude Arena,</em></strong></p><p>C’est bien beau de sortir le nouveau numéro un mondial en deux petits sets. C’en est une autre d’affronter le lendemain un Français mort de faim devant son public, quand bien même on est favori. <a…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/sport/tennis/4260708-20261105-masters-1000-paris-assez-unique-luca-van-assche-joueur-frisson-france-attendait?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T19:10:19+00:00",
       "category": "Société",
@@ -3010,7 +3017,7 @@
       "title": "Stade Toulousain : \"C'est parce qu'il dort encore trop bien...\" Commotionné, un cadre de l'effectif encore empêché de jouer et incertain pour la réception de Clermont, un autre espéré",
       "summary": "À 48 heures de la réception de Clermont, ce samedi 7 novembre, le staff \"rouge et noir\" ne sait pas encore s'il pourra compter sur deux cadres internationaux de son pack : Dorian Aldegheri et Julien Marchand.",
       "source": "La Dépêche du Midi",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.ladepeche.fr/2026/11/05/stade-toulousain-cest-parce-quil-dort-encore-trop-bien-commotionne-un-cadre-de-leffectif-encore-empeche-de-jouer-et-incertain-pour-la-reception-de-13638457.php",
       "published_at": "2026-11-05T19:07:00+00:00",
       "category": "International",
@@ -3106,7 +3113,7 @@
       "title": "Le bruit, une “source de stress omniprésent” pour la biodiversité",
       "summary": "Pour l'ensemble du vivant, la pollution sonore représente une menace globale. C'est le message, peu surprenant mais inquiétant, qui émane d'une étude réalisée par deux chercheurs de l'université Queen's de Belfast, en Irlande du Nord, et publiée le 5 novembre dans la revue Science. Leur méta-analyse, regroupant 214 expérimentales menées sur 177 espèces…",
       "source": "Reporterre",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://reporterre.net/Le-bruit-une-source-de-stress-omnipresent-pour-la-biodiversite",
       "published_at": "2026-11-05T19:00:00+00:00",
       "category": "Médias & communication",
@@ -3220,7 +3227,7 @@
       "title": "Guerre en Ukraine : Un dialogue entre la Russie et l’Ukraine entamé avec Melania Trump, Zelensky reprend espoir",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://www.20minutes.fr/monde/ukraine/\">guerre en Ukraine</a> ? <em>20 Minutes</em> fait le point pour vous tous les soirs. Voici l’essentiel de ce jeudi 5 novembre 2026, au 1.716e jour du conflit.</p><h2>Le fait du jour</h2><p>Comme <a…",
       "source": "20 Minutes",
-      "feed_rank": 18,
+      "feed_rank": 20,
       "url": "https://www.20minutes.fr/monde/ukraine/4260760-20261105-guerre-ukraine-dialogue-entre-russie-ukraine-entame-melania-trump-zelensky-reprend-espoir?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T18:50:02+00:00",
       "category": "International",
@@ -3252,7 +3259,7 @@
       "title": "Manifestation du 5 novembre à Toulouse : gaz lacrymogènes, commerces dégradés, tentative de rejoindre la rocade… comment la mobilisation a dégénéré depuis Saint-Cyprien",
       "summary": "Après plusieurs heures de mobilisation, la manifestation non déclarée de ce jeudi 5 novembre à Toulouse a pris une tournure particulièrement violente. D'abord cantonnés à la tête de cortège, les affrontements se sont...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.ladepeche.fr/2026/11/05/manifestation-du-5-novembre-a-toulouse-gaz-lacrymogenes-commerces-degrades-tentative-de-rejoindre-la-rocade-comment-la-mobilisation-a-degenere-depuis-13638426.php",
       "published_at": "2026-11-05T18:47:35+00:00",
       "category": "Économie",
@@ -3316,7 +3323,7 @@
       "title": "«Ils sont usés et laminés» : face aux violences, plusieurs dizaines de proviseurs envisagent de quitter leurs fonctions",
       "summary": "Depuis le début du mouvement lycéen, plus de 200 personnels de l’Éducation nationale ont été blessés. À ces agressions s’ajoutent une surcharge de travail et un manque chronique de moyens, qui alimentent un profond malaise chez les personnels de direction.",
       "source": "Le Figaro",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.lefigaro.fr/actualite-france/ils-sont-uses-et-lamines-face-aux-violences-plusieurs-dizaines-de-proviseurs-envisagent-de-quitter-leurs-fonctions-20261105",
       "published_at": "2026-11-05T18:45:15+00:00",
       "category": "Société",
@@ -3348,7 +3355,7 @@
       "title": "Ils finissent à égalité parfaite lors d'une élection municipale au Pérou : les deux candidats sont finalement départagés à pile ou face",
       "summary": "Une élection municipale au Pérou s'est jouée sur un simple pile ou face après une égalité parfaite entre les deux candidats. Ce recours au hasard, bien qu'insolite, est strictement encadré par la loi électorale du...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://www.ladepeche.fr/2026/11/05/ils-finissent-a-egalite-parfaite-lors-dune-election-municipale-au-perou-les-deux-candidats-sont-finalement-departages-a-pile-ou-face-13638463.php",
       "published_at": "2026-11-05T18:43:59+00:00",
       "category": "Politique",
@@ -3380,7 +3387,7 @@
       "title": "Pourquoi il faut augmenter le smic",
       "summary": "Pour l’essayiste Guillaume Duval, une relance keynésienne classique est contrainte par la situation budgétaire et la pression des marchés obligataires. Il ne reste que la hausse des salaires, et la consommation associée, pour éviter de s’enfoncer dans la récession.",
       "source": "L'Obs",
-      "feed_rank": 12,
+      "feed_rank": 10,
       "url": "https://www.nouvelobs.com/opinions/20261105.OBS119869/pourquoi-il-faut-augmenter-le-smic.html",
       "published_at": "2026-11-05T18:39:56+00:00",
       "category": "Économie",
@@ -3424,22 +3431,6 @@
       "mention_count": 1
     },
     {
-      "id": "adc3ef03a686",
-      "title": "Aide aux créateurs de contenu : pourquoi les annonces du CNC font grincer des dents",
-      "summary": "Suspendu depuis le mois d’avril après une polémique, le fonds d’aide à la création sur les plateformes sociales du Centre national du cinéma et de l’image animée sera relancé en 2027, a annoncé son président, Gaëtan Bruel, jeudi, à la Paris Creator Week. Sans parvenir toutefois à convaincre des professionnels du secteur qui s’estiment « méprisés ».",
-      "source": "Le Monde",
-      "feed_rank": 11,
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/05/aide-aux-createurs-de-contenus-pourquoi-les-annonces-du-cnc-font-grincer-des-dents_6807331_4408996.html",
-      "published_at": "2026-11-05T18:36:28+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Aide aux créateurs de contenu : pourquoi les annonces du CNC font grincer des dents ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "513469bc1ac7",
       "title": "Alertes à la bombe, attaques cyber, survols de drones : la guerre hybride s’intensifie en Europe",
       "summary": "DÉCRYPTAGE - Plus d’une vingtaine de vols commerciaux ont été déroutés jeudi. Les auteurs sont inconnus. Mais les incidents interrogent dans un contexte d’agressivité croissante de la Russie.",
@@ -3476,7 +3467,7 @@
       "title": "Leverkusen - OM: Marseille s'impose brillamment et se relance grâce à un but de fada de Gouiri... Revivez le match avec nous",
       "summary": "Les Marseillais ont réalisé un gros coup en s'imposant à Leverkusen face au Bayer, grâce à un but splendide signé Amine Gouiri",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/sport/football/ligue_europa/4260716-20261105-direct-bayer-leverkusen-om-marseillais-vont-enfin-prendre-premier-points-saison-suivez-match-20h45?at_medium=display&at_campaign=149",
       "published_at": "2026-11-05T18:32:36+00:00",
       "category": "Sport",
@@ -3556,7 +3547,7 @@
       "title": "Les midterms analysées par Sylvie Laurent : « Gardons-nous de croire que l’Amérique est revenue à la normale »",
       "summary": "Après le revers majeur infligé à Donald Trump ce 3 novembre, l’américaniste, qui publiera en janvier « le Petit Dictateur. Trump, la farce et la tragédie », tire les leçons des élections de mi-mandat, en exclusivité pour le « Nouvel Obs ».",
       "source": "L'Obs",
-      "feed_rank": 3,
+      "feed_rank": 1,
       "url": "https://www.nouvelobs.com/idees/20261105.OBS119878/les-midterms-analysees-par-sylvie-laurent-gardons-nous-de-croire-que-l-amerique-est-revenue-a-la-normale.html",
       "published_at": "2026-11-05T18:30:12+00:00",
       "category": "Politique",
@@ -3776,6 +3767,22 @@
       "mention_count": 1
     },
     {
+      "id": "0fa6c433f374",
+      "title": "1,6 million de manifestants le 5 novembre : débrief de la journée de mobilisation",
+      "summary": "Chiffres clés, manifestations et grèves partout en France… Cyprien Caddeo et Cyprien Boganda, journalistes à l’Humanité, débriefent la journée de mobilisation du 5 novembre qui a réuni 1,6 million de personnes en France.",
+      "source": "L'Humanité",
+      "feed_rank": 16,
+      "url": "https://www.humanite.fr/societe/manifestation/16-million-de-manifestants-le-5-novembre-debrief-de-la-journee-de-mobilisation",
+      "published_at": "2026-11-05T18:25:52+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « 1,6 million de manifestants le 5 novembre : débrief de la journée de mobilisation ».",
+      "coverage_sources": [
+        "L'Humanité"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "3a3f6adbf68c",
       "title": "De Eleanor Roosevelt à Melania Trump: quand les Premières dames enfilent le costume de diplomates",
       "summary": "Ce jeudi 5 novembre, Melania Trump va réunir des représentants de la Russie et de l’Ukraine à la Maison Blanche.",
@@ -3852,11 +3859,10 @@
       "coverage_sources": [
         "BFMTV",
         "CNews",
-        "20 Minutes",
         "Le JDD"
       ],
-      "coverage_count": 4,
-      "mention_count": 4
+      "coverage_count": 3,
+      "mention_count": 3
     },
     {
       "id": "b6b94b9e3bc4",
@@ -3879,7 +3885,7 @@
       "title": "Une enseignante de Moissac accuse deux parents d’élèves de viol : classée sans suite, sa plainte rebondit quatre ans plus tard devant une juge d’instruction de Montauban",
       "summary": "Une professeure des écoles de 37 ans accuse deux pères d’élèves de l’avoir agressée sexuellement, puis violée à Moissac (Tarn-et-Garonne). Révélée jeudi 5 novembre 2026 par Le Parisien, l’affaire a été confirmée à La...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.ladepeche.fr/2026/11/05/une-enseignante-de-moissac-accuse-deux-parents-deleves-de-viol-classee-sans-suite-sa-plainte-rebondit-ans-plus-tard-devant-une-juge-dinstruction-de-13637964.php",
       "published_at": "2026-11-05T18:20:29+00:00",
       "category": "Société",
@@ -3959,7 +3965,7 @@
       "title": "Les armes étaient fabriquées dans un bungalow près de Toulouse : l'incroyable démantèlement d'un discret atelier, les pistolets vendus à travers la France et l'Italie puis envoyés par colis",
       "summary": "EXCLUSIF. Huit personnes ont été interpellées dimanche et lundi dans le cadre d’une enquête sur un trafic d’armes implanté à Cornebarrieu, à l’ouest de Toulouse. Depuis une maison située en lisière de bois, les...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 16,
+      "feed_rank": 11,
       "url": "https://www.ladepeche.fr/2026/11/05/les-armes-etaient-fabriquees-dans-un-bungalow-pres-de-toulouse-lincroyable-demantelement-dun-discret-atelier-les-pistolets-vendus-a-travers-la-france-13633221.php",
       "published_at": "2026-11-05T18:16:05+00:00",
       "category": "Société",
@@ -4007,7 +4013,7 @@
       "title": "\"L'huile par exemple c'est un désastre\" : les produits à donner en priorité lors de la grande collecte de la Banque alimentaire dans le Lot les 6, 7 et 8 novembre",
       "summary": "Dans le Lot et partout en France, la Banque alimentaire organise du 6 au 8 novembre sa grande collecte nationale de produits alimentaires et d'hygiène. Dans les supermarchés, les bénévoles seront présents tout le week...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ladepeche.fr/2026/11/05/lhuile-par-exemple-cest-un-desastre-les-produits-a-donner-en-priorite-lors-de-la-grande-collecte-de-la-banque-alimentaire-dans-le-lot-les-6-7-et-8-13635847.php",
       "published_at": "2026-11-05T18:10:02+00:00",
       "category": "Économie",
@@ -4104,7 +4110,7 @@
       "title": "Après l'audience au Conseil d'État dans le cadre des élections municipales, le rapporteur public préconise un retour aux urnes pour les électeurs de Capdenac-Gare dans l'Aveyron.",
       "summary": "Suite à l'appel formulé par Christophe Pourcel, maire de Capdenac-Gare, auprès du Conseil d'État, après la décision du tribunal administratif de Toulouse d'annuler les élections municipales du mois de mars 2026,...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.ladepeche.fr/2026/11/05/apres-laudience-au-conseil-detat-dans-le-cadre-des-elections-municipales-le-rapporteur-public-preconise-un-retour-aux-urnes-pour-les-electeurs-de-13638013.php",
       "published_at": "2026-11-05T18:06:45+00:00",
       "category": "Politique",
@@ -4312,7 +4318,7 @@
       "title": "TÉMOIGNAGE. \"Zéro client depuis ce matin\" : magasins barricadés, vigiles et rues désertées, la morosité d'un hypercentre toulousain sous cloche pendant la manifestation",
       "summary": "En ce jeudi de mobilisation, le centre-ville est une fois de plus resté clos, avec interdiction pour les manifestants d'y passer. Malgré les commerces ouverts pour la plupart, les clients et les passants se sont fait...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.ladepeche.fr/2026/11/05/temoignage-zero-client-depuis-ce-matin-magasins-barricades-vigiles-et-rues-desertees-la-morosite-dun-hypercentre-toulousain-sous-cloche-pendant-la-13638336.php",
       "published_at": "2026-11-05T18:00:58+00:00",
       "category": "Économie",
@@ -4351,22 +4357,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Lisa Azuelos : « Marie Laforêt était une personne qui n’a jamais réussi à combiner la mère et la femme » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "6a6a36da31ad",
-      "title": "L’ancien comédien britannique Russell Brand jugé coupable d’un viol et d’agressions sexuelles",
-      "summary": "Six femmes l’accusaient de viols et d’agressions sexuelles entre 1999 et 2009, quand il était un célèbre humoriste et présentateur de télévision.",
-      "source": "Le Monde",
-      "feed_rank": 13,
-      "url": "https://www.lemonde.fr/international/article/2026/11/05/l-ancien-comedien-britannique-russell-brand-juge-coupable-d-un-viol-et-d-agressions-sexuelles_6807325_3210.html",
-      "published_at": "2026-11-05T18:00:02+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « L’ancien comédien britannique Russell Brand jugé coupable d’un viol et d’agressions sexuelles ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4425,7 +4415,7 @@
       "title": "Grève du 5 novembre : malmené sur le terrain social, Raphaël Glucksmann veut continuer à aller « partout »",
       "summary": "DÉCRYPTAGE - Contraint de quitter le cortège parisien sous les huées de la gauche radicale, après une petite heure à peine de manifestation, le candidat social-démocrate entend donner un coup d’accélérateur à sa campagne dans les prochains jours.",
       "source": "Le Figaro",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lefigaro.fr/elections/presidentielles/greve-du-5-novembre-malmene-sur-le-terrain-social-raphael-glucksmann-veut-continuer-a-aller-partout-20261105",
       "published_at": "2026-11-05T17:56:42+00:00",
       "category": "Société",
@@ -4469,6 +4459,26 @@
       "mention_count": 1
     },
     {
+      "id": "6fa7435631a1",
+      "title": "En direct, manifestations du 5 novembre : Lecornu annonce une « conférence sociale », 1,6 million de manifestants en France selon la CGT",
+      "summary": "Annoncée début octobre, cette journée du 5 novembre est déjà jugée comme un succès par les syndicats qui revendiquaient à la mi-journée 250 000 manifestants dans 73 cortèges. La mobilisation rassemble salariés du privé et du public, pour les emplois, les salaires et les services publics mais les lycéens et les étudiants sont également venus gonfler les…",
+      "source": "L'Obs",
+      "feed_rank": 7,
+      "url": "https://www.nouvelobs.com/societe/20261105.OBS119872/en-direct-manifestations-du-5-novembre-lecornu-annonce-une-conference-sociale-600-000-manifestants-en-france-selon-beauvau.html",
+      "published_at": "2026-11-05T17:53:27+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « En direct, manifestations du 5 novembre : Lecornu annonce une « conférence sociale », 1,6 million de manifestants en France selon la CGT ».",
+      "coverage_sources": [
+        "France 24",
+        "BFMTV",
+        "L'Obs",
+        "La Dépêche du Midi",
+        "Midi Libre"
+      ],
+      "coverage_count": 5,
+      "mention_count": 8
+    },
+    {
       "id": "ae374d430beb",
       "title": "Loiret : Une femme tuée à coups de couteau en centre-ville de Montargis, une suspecte arrêtée",
       "summary": "<p>Une femme est décédée à Montargis (<a href=\"https://www.20minutes.fr/dossier/loiret\">Loiret</a>), ce jeudi matin, le corps lardé de coups de couteau, <a href<em>=\"https://www.larep.fr/</em>montargis-45200/faits-divers/a-montargis-une-femme-tuee-en-pleine-rue-dune-dizaine-de-coups-de-couteau_15075620/\">évoque La République du Centre</a>. La victime…",
@@ -4489,7 +4499,7 @@
       "title": "Colère sociale : une forte mobilisation pour ce « jeudi noir » tant redouté par les autorités",
       "summary": "RÉCIT - Plus de 600.000 manifestants ont répondu à l’appel de l’intersyndicale, selon le ministère de l’Intérieur. Soit le plus fort taux de participation depuis le début du mouvement lycéen.",
       "source": "Le Figaro",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-forte-mobilisation-pour-ce-jeudi-noir-tant-redoute-par-les-autorites-20261105",
       "published_at": "2026-11-05T17:52:33+00:00",
       "category": "Société",
@@ -4557,7 +4567,7 @@
       "title": "Hautes-Alpes : une enquête ouverte après la diffusion d'une vidéo où un chevreuil est achevé à la barre de fer au milieu d'insultes racistes",
       "summary": "Fin octobre, une vidéo montrant un chevreuil blessé puis achevé sur la route du col de Manse a été diffusée sur les réseaux sociaux dans les Hautes-Alpes. Une enquête a été ouverte après la circulation de ces images...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.ladepeche.fr/2026/11/05/hautes-alpes-une-enquete-ouverte-apres-la-diffusion-dune-video-ou-un-chevreuil-est-acheve-a-la-barre-de-fer-au-milieu-dinsultes-racistes-13638411.php",
       "published_at": "2026-11-05T17:48:27+00:00",
       "category": "Médias & communication",
@@ -4663,6 +4673,28 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
+    },
+    {
+      "id": "4941687a1644",
+      "title": "Paraguay : le président Santiago Peña annonce sa démission",
+      "summary": "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant près de 3 millions de clients. Faute de vote au Parlement, M. Peña reste techniquement à la tête de l’Etat mais il est visé par une procédure de destitution.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+      "published_at": "2026-11-05T17:43:41+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Paraguay : le président Santiago Peña annonce sa démission ».",
+      "coverage_sources": [
+        "Le Monde",
+        "France 24",
+        "Euronews",
+        "Libération",
+        "Sud Ouest",
+        "L'Humanité",
+        "La Croix"
+      ],
+      "coverage_count": 7,
+      "mention_count": 8
     },
     {
       "id": "b7a20da65e66",
@@ -5072,7 +5104,7 @@
       "title": "« Je n'ai jamais ressenti un tel sentiment de communauté » : se mobiliser, un remède aux angoisses des jeunes",
       "summary": "Beaucoup de jeunes trouvent dans les mobilisations collectives une réponse au mélange d'inquiétudes qui obscurcit leur vision de l'avenir. Avec le recul des libertés et le chaos climatique comme point central. Paris, Aubervilliers et Saint-Denis, reportage C'est la génération Gaza, canicules et IA . Les cortèges et les blocus sont un exutoire à des…",
       "source": "Reporterre",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://reporterre.net/Je-n-ai-jamais-ressenti-un-tel-sentiment-de-communaute-se-mobiliser-un-remede-aux",
       "published_at": "2026-11-05T17:27:33+00:00",
       "category": "Politique",
@@ -5088,7 +5120,7 @@
       "title": "ENTRETIEN. \"Cyber-casse\" du Crédit Mutuel Arkéa : \"L'IA finit toujours par trouver le maillon faible...\" faut-il s'inquiéter pour nos banques et pour nos comptes ?",
       "summary": "Le Crédit Mutuel Arkéa a subi une cyberattaque majeure début novembre, malgré sa récente distinction en cybersécurité. Les pirates ont détourné 100 000 millions d'euros convertis en crypto-monnaies. L'attaque,...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.ladepeche.fr/2026/11/05/entretien-cyber-casse-du-credit-mutuel-arkea-lia-finit-toujours-par-trouver-le-maillon-faible-faut-il-sinquieter-pour-nos-banques-et-pour-nos-comptes-13637761.php",
       "published_at": "2026-11-05T17:26:02+00:00",
       "category": "Économie",
@@ -5168,7 +5200,7 @@
       "title": "Sébastien Lecornu bientôt remplacé à Matignon par un haut fonctionnaire ? En pleine discussions sur le budget, l'avenir du Premier ministre est incertain",
       "summary": "Alors que les discussions budgétaires ont commencé au Parlement, l'avenir du Premier ministre Sébastien Lecornu est incertain. Le recours possible à l'article 49.3 pour faire passer le budget ou une motion de censure...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.ladepeche.fr/2026/11/05/le-premier-ministre-sebastien-lecornu-va-t-il-etre-remplace-par-un-haut-fonctionnaire-13638032.php",
       "published_at": "2026-11-05T17:20:41+00:00",
       "category": "Politique",
@@ -5233,7 +5265,7 @@
       "title": "La fin de l’ère Donald Trump n’est pas la fin de la crise démocratique",
       "summary": "ANALYSE - Le verrou que les électeurs installent face aux velléités autoritaires de Trump prouve la résilience de la démocratie américaine. Mais le président, dont la chute politique semble se dessiner sous nos yeux, a d’abord été un symptôme de la crise avant d’en devenir un élément central.",
       "source": "Le Figaro",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.lefigaro.fr/vox/monde/la-fin-de-l-ere-donald-trump-n-est-pas-la-fin-de-la-crise-democratique-20261105",
       "published_at": "2026-11-05T17:14:06+00:00",
       "category": "Politique",
@@ -5318,38 +5350,6 @@
       "published_at": "2026-11-05T17:10:37+00:00",
       "category": "Économie",
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Société Générale : la banque envisage de fermer 148 sites, dont 40 agences à partir de 2027 ».",
-      "coverage_sources": [
-        "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "dd14b01627e0",
-      "title": "Violences conjugales : pourquoi les chiffres continuent-ils d’augmenter ?",
-      "summary": "En 2025, 285 000 victimes de violences conjugales ont été enregistrées par les forces de sécurité, a annoncé le ministère de l’intérieur, jeudi 5 novembre. Un chiffre en hausse de 5 % par rapport à 2024, qui témoigne notamment d’un recours plus fréquent des victimes au dépôt de plainte.",
-      "source": "La Croix",
-      "feed_rank": 15,
-      "url": "https://www.la-croix.com/societe/violences-conjugales-pourquoi-les-chiffres-continuent-ils-d-augmenter-20261105",
-      "published_at": "2026-11-05T17:09:36+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Violences conjugales : pourquoi les chiffres continuent-ils d’augmenter ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "c2f6efed16f5",
-      "title": "Santé : un reste à charge annuel moyen de 150 euros pour les Français, mais plus de 910 euros pour les plus exposés",
-      "summary": "Une étude de la Drees révèle que si le reste à charge moyen en santé s’élève à 150 euros par an, il dépasse les 910 euros pour les 10 % de Français les plus exposés",
-      "source": "Sud Ouest",
-      "feed_rank": 16,
-      "url": "https://www.sudouest.fr/sante/sante-un-reste-a-charge-annuel-moyen-de-150-euros-pour-les-francais-mais-plus-de-910-euros-pour-les-plus-exposes-31400385.php",
-      "published_at": "2026-11-05T17:09:31+00:00",
-      "category": "Économie",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Santé : un reste à charge annuel moyen de 150 euros pour les Français, mais plus de 910 euros pour les plus exposés ».",
       "coverage_sources": [
         "Sud Ouest"
       ],
