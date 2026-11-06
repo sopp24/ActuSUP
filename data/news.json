@@ -1,35 +1,34 @@
 {
-  "last_updated": "2026-11-06T04:00:18.960995+00:00",
-  "last_attempt": "2026-11-06T04:00:18.960995+00:00",
+  "last_updated": "2026-11-06T05:00:20.444857+00:00",
+  "last_attempt": "2026-11-06T05:00:20.444857+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 894,
-  "unique_story_count": 784,
+  "raw_article_count": 900,
+  "unique_story_count": 793,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
     "Les Échos",
     "La Voix du Nord",
-    "Le Dauphiné Libéré",
     "Le Point"
   ],
-  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Dauphiné Libéré, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-06T04:00:18.960995+00:00",
-  "featured_window_end": "2026-11-06T04:00:18.960995+00:00",
-  "featured_pool_count": 893,
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
+  "featured_window_start": "2026-10-06T05:00:20.444857+00:00",
+  "featured_window_end": "2026-11-06T05:00:20.444857+00:00",
+  "featured_pool_count": 899,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "25c0ffe00075",
-      "title": "Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ?",
-      "summary": "Après une semaine de prix littéraires décernés en France et au lendemain de la défaite de Donald Trump aux élections des midterms, mardi 3 novembre, notre chroniqueur Alain Rémond espère que le président américain mettra le holà sur sa « chasse aux mauvais livres ».",
-      "source": "La Croix",
+      "id": "259ec9290b41",
+      "title": "EN DIRECT - Colère sociale : après un 5 novembre \"réussi\" dans la rue, les regards se tournent déjà vers samedi",
+      "summary": "Au lendemain de la mobilisation massive dans la rue, avec entre 575.000 et 1,6 million de manifestants, un nouvel acte se prépare samedi 7 novembre. Des organisations de jeunesse et des Gilets jaunes promettent de nouvelles actions contre la vie chère. Suivez les dernières informations.",
+      "source": "TF1 Info (TF1 / LCI)",
       "feed_rank": 1,
-      "url": "https://www.la-croix.com/a-vif/chasse-aux-livres-aux-etats-unis-et-si-la-defaite-de-trump-changeait-la-donne-20261105",
-      "published_at": "2026-11-06T03:00:03+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ? ».",
+      "url": "https://www.tf1info.fr/societe/en-direct-colere-sociale-apres-un-5-novembre-reussi-dans-la-rue-les-regards-se-tournent-deja-vers-samedi-7-novembre-manifestations-gilets-jaunes-syndicats-2474187.html",
+      "published_at": "2026-11-06T05:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « EN DIRECT - Colère sociale : après un 5 novembre \"réussi\" dans la rue, les regards se tournent déjà vers samedi ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -70,9 +69,9 @@
         "Creapills"
       ],
       "coverage_count": 37,
-      "mention_count": 229,
-      "importance_score": 36.808,
-      "latest_coverage_at": "2026-11-06T03:00:03+00:00"
+      "mention_count": 230,
+      "importance_score": 36.809,
+      "latest_coverage_at": "2026-11-06T05:00:00+00:00"
     },
     {
       "id": "1b0ef7cb651a",
@@ -89,7 +88,6 @@
         "Franceinfo (TV)",
         "Le Monde",
         "France 24",
-        "Le Figaro",
         "TF1 Info (TF1 / LCI)",
         "CNews",
         "Courrier International",
@@ -100,12 +98,13 @@
         "Libération",
         "20 Minutes",
         "La Croix",
+        "Le Dauphiné Libéré",
         "Midi Libre",
         "Public Sénat"
       ],
       "coverage_count": 17,
       "mention_count": 20,
-      "importance_score": 27.283,
+      "importance_score": 27.28,
       "latest_coverage_at": "2026-11-05T20:57:03+00:00"
     },
     {
@@ -128,39 +127,66 @@
         "20 Minutes",
         "La Croix",
         "La Dépêche du Midi",
-        "Le JDD",
+        "Le Dauphiné Libéré",
         "Valeurs actuelles"
       ],
       "coverage_count": 11,
-      "mention_count": 14,
-      "importance_score": 24.212,
+      "mention_count": 13,
+      "importance_score": 24.053,
       "latest_coverage_at": "2026-11-06T01:43:34+00:00"
     },
     {
-      "id": "2e1dc3e45050",
-      "title": "[MàJ] La taxe au gigaoctet emportée par le rejet du projet de loi de finances 2027",
-      "summary": "Taxman Le Parti socialiste avait réussi à faire passer sa « taxe au gigaoctet » censée faire contribuer les géants du numérique à l’infrastructure française. Une taxe finalement rejetée lors du vote lapidaire du volet recettes du projet de loi de finances 2027. Mise à jour du 5 novembre à 21h04 . La partie recettes du projet de loi de finances 2027 a été…",
-      "source": "Next.ink",
-      "feed_rank": 1,
-      "url": "https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/",
-      "published_at": "2026-11-05T20:04:26+00:00",
+      "id": "ef8dd720b191",
+      "title": "Le dessin de Chaunu : le rejet à l’unanimité de l’Assemblée nationale du projet de loi de finances",
+      "summary": "Le dessinateur et caricaturiste Chaunu croque au quotidien l’actualité française et internationale pour Ouest-France. Aujourd’hui, le difficile compromis que va devoir faire Sébastien Lecornu s’il veut éviter la censure.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-rejet-a-lunanimite-de-lassemblee-nationale-du-projet-de-loi-de-finances-f113ca42-d953-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-06T04:45:03+00:00",
       "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « [MàJ] La taxe au gigaoctet emportée par le rejet du projet de loi de finances 2027 ».",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Le dessin de Chaunu : le rejet à l’unanimité de l’Assemblée nationale du projet de loi de finances ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "France 24",
         "L'Opinion",
+        "Ouest-France",
         "LCP",
         "Le JDD",
         "Public Sénat",
         "Next.ink",
         "Reporterre"
       ],
+      "coverage_count": 10,
+      "mention_count": 14,
+      "importance_score": 23.434,
+      "latest_coverage_at": "2026-11-06T04:45:03+00:00"
+    },
+    {
+      "id": "55ce10771ec0",
+      "title": "La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne",
+      "summary": "La préfecture du Rhône a interdit, ce jeudi 5 novembre, la conférence du député LFI Raphaël Arnault organisé à Villeurbanne, vendredi 6.",
+      "source": "BFMTV",
+      "feed_rank": 13,
+      "url": "https://www.bfmtv.com/lyon/la-prefecture-du-rhone-interdit-la-conference-du-depute-insoumis-raphael-arnault-a-villeurbanne_AD-202611050859.html",
+      "published_at": "2026-11-05T22:14:52+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "BFMTV",
+        "CNews",
+        "Libération",
+        "Le JDD",
+        "Valeurs actuelles",
+        "Reporterre"
+      ],
       "coverage_count": 9,
-      "mention_count": 13,
-      "importance_score": 22.624,
-      "latest_coverage_at": "2026-11-05T20:04:26+00:00"
+      "mention_count": 9,
+      "importance_score": 21.975,
+      "latest_coverage_at": "2026-11-05T22:14:52+00:00"
     },
     {
       "id": "958f2752cb5d",
@@ -184,89 +210,15 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.533,
+      "importance_score": 21.531,
       "latest_coverage_at": "2026-11-05T20:11:54+00:00"
-    },
-    {
-      "id": "dc00cfb549c3",
-      "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
-      "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
-      "source": "Ouest-France",
-      "feed_rank": 5,
-      "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-05T22:43:33+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes ».",
-      "coverage_sources": [
-        "RFI",
-        "CNews",
-        "Courrier International",
-        "Ouest-France",
-        "Sud Ouest",
-        "20 Minutes",
-        "La Dépêche du Midi",
-        "Paris Match"
-      ],
-      "coverage_count": 8,
-      "mention_count": 9,
-      "importance_score": 21.372,
-      "latest_coverage_at": "2026-11-05T22:43:33+00:00"
-    },
-    {
-      "id": "55ce10771ec0",
-      "title": "La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne",
-      "summary": "La préfecture du Rhône a interdit, ce jeudi 5 novembre, la conférence du député LFI Raphaël Arnault organisé à Villeurbanne, vendredi 6.",
-      "source": "BFMTV",
-      "feed_rank": 12,
-      "url": "https://www.bfmtv.com/lyon/la-prefecture-du-rhone-interdit-la-conference-du-depute-insoumis-raphael-arnault-a-villeurbanne_AD-202611050859.html",
-      "published_at": "2026-11-05T22:14:52+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "BFMTV",
-        "CNews",
-        "Libération",
-        "Le JDD",
-        "Valeurs actuelles",
-        "Reporterre"
-      ],
-      "coverage_count": 8,
-      "mention_count": 8,
-      "importance_score": 21.119,
-      "latest_coverage_at": "2026-11-05T22:14:52+00:00"
-    },
-    {
-      "id": "d0b464b3b58a",
-      "title": "Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire",
-      "summary": "La crise bancaire paraguayenne a eu raison de Santiago Peña : le président a annoncé sa démission jeudi 5 novembre à Asunción, après que la mise sous tutelle d'Ueno Bank et le gel des dépôts de près de 3 millions de clients ont déclenché une crise politique majeure.",
-      "source": "La Croix",
-      "feed_rank": 2,
-      "url": "https://www.la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
-      "published_at": "2026-11-05T21:30:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France 24",
-        "Euronews",
-        "Libération",
-        "Sud Ouest",
-        "L'Humanité",
-        "La Croix",
-        "Paris Match"
-      ],
-      "coverage_count": 7,
-      "mention_count": 8,
-      "importance_score": 20.306,
-      "latest_coverage_at": "2026-11-05T21:30:00+00:00"
     },
     {
       "id": "069ab0b86d2f",
       "title": "Leverkusen-OM: \"Ce qui se passe depuis le début de saison nous a soudés\", Genesio fier de son groupe",
       "summary": "L'OM a confirmé sa bonne dynamique en Ligue 1 en décrochant sa première victoire de la saison en Ligue Europa, jeudi soir sur la pelouse du Bayer Leverkusen (1-0). Après le match, Bruno Genesio a salué la résilience de son groupe.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://rmcsport.bfmtv.com/football/europa-league/leverkusen-om-ce-qui-se-passe-depuis-le-debut-de-saison-nous-a-soudes-genesio-fier-de-son-groupe_AV-202611050889.html",
       "published_at": "2026-11-05T23:18:40+00:00",
       "category": "Sport",
@@ -281,8 +233,31 @@
       ],
       "coverage_count": 6,
       "mention_count": 11,
-      "importance_score": 20.11,
+      "importance_score": 20.099,
       "latest_coverage_at": "2026-11-05T23:18:40+00:00"
+    },
+    {
+      "id": "f1b3bef9fef3",
+      "title": "Chute des valeurs de l’IA, démission du président du Paraguay, guerre en Ukraine, Los Angeles : les informations de la nuit",
+      "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+      "source": "Courrier International",
+      "feed_rank": 5,
+      "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-chute-des-valeurs-de-l-ia-demission-du-president-du-paraguay-guerre-en-ukraine-los-angeles-les-informations-de-la-nuit_285321",
+      "published_at": "2026-11-06T04:00:10+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Chute des valeurs de l’IA, démission du président du Paraguay, guerre en Ukraine, Los Angeles : les informations de la nuit ».",
+      "coverage_sources": [
+        "France 24",
+        "Courrier International",
+        "Euronews",
+        "L'Humanité",
+        "La Croix",
+        "Paris Match"
+      ],
+      "coverage_count": 6,
+      "mention_count": 7,
+      "importance_score": 19.394,
+      "latest_coverage_at": "2026-11-06T04:00:10+00:00"
     },
     {
       "id": "7585a5896bbc",
@@ -303,7 +278,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.236,
+      "importance_score": 18.233,
       "latest_coverage_at": "2026-11-05T22:02:32+00:00"
     },
     {
@@ -311,7 +286,7 @@
       "title": "Israël : le président annoncera dimanche qui sera chargé de former le prochain gouvernement, Gadi Eisenkot tient la corde",
       "summary": "Le rival de Benyamin Netanyahou, grâce au soutien des partis arabes, pourrait être en mesure de devenir le prochain Premier ministre d’Israël",
       "source": "Sud Ouest",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.sudouest.fr/international/moyen-orient/israel/israel-le-president-annoncera-dimanche-qui-sera-charge-de-former-le-prochain-gouvernement-gadi-eisenkot-tient-la-corde-31406110.php",
       "published_at": "2026-11-05T21:31:26+00:00",
       "category": "Politique",
@@ -320,19 +295,42 @@
         "Le Monde",
         "RFI",
         "Libération",
-        "Sud Ouest"
+        "Sud Ouest",
+        "Le Dauphiné Libéré"
       ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.528,
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.954,
       "latest_coverage_at": "2026-11-05T21:31:26+00:00"
+    },
+    {
+      "id": "dc00cfb549c3",
+      "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
+      "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
+      "source": "Ouest-France",
+      "feed_rank": 8,
+      "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-05T22:43:33+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes ».",
+      "coverage_sources": [
+        "CNews",
+        "Courrier International",
+        "Ouest-France",
+        "La Dépêche du Midi",
+        "Paris Match"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.71,
+      "latest_coverage_at": "2026-11-05T22:43:33+00:00"
     },
     {
       "id": "f42641548aa1",
       "title": "A69 : la mise en service de l’autoroute controversée est prévue ce vendredi, avec un péage à un prix exorbitant",
       "summary": "Après de nombreux revirements judiciaires, l’autoroute, symbole des combats écologistes en France, ouvrira ce vendredi 6 novembre. L’aller-retour coûtera 20,40 euros, un tarif parmi les plus élevés de France.",
       "source": "Libération",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.liberation.fr/environnement/a69-la-mise-en-service-de-lautoroute-controversee-est-prevue-ce-vendredi-avec-un-peage-a-un-prix-exorbitant-20261105_EKLMGGKHNJDPXGKTXBGRBYR5TA/",
       "published_at": "2026-11-05T20:57:15+00:00",
       "category": "Économie",
@@ -345,7 +343,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.424,
+      "importance_score": 16.387,
       "latest_coverage_at": "2026-11-05T20:57:15+00:00"
     },
     {
@@ -366,7 +364,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.212,
+      "importance_score": 16.209,
       "latest_coverage_at": "2026-11-05T14:39:23+00:00"
     },
     {
@@ -387,7 +385,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.024,
+      "importance_score": 16.022,
       "latest_coverage_at": "2026-11-05T21:36:06+00:00"
     },
     {
@@ -395,7 +393,7 @@
       "title": "\"Presque un mètre d'eau dans la rue\" : la région de Montpellier touchée par d'importantes inondations",
       "summary": "Le Gard et l'Hérault, ainsi que la Corse, étaient placés en vigilance orange aux pluies-inondations ce jeudi 5 novembre. C'est la conséquence de l'épisode méditerranéen qui balaie le Sud-Est et qui a provoqué de nombreux dégâts dans la région de Montpellier. Plusieurs routes ont notamment été fermées à la circulation.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/meteo/reportage-presque-un-metre-d-eau-dans-la-rue-la-region-de-montpellier-touchee-par-d-importantes-inondations-2474163.html",
       "published_at": "2026-11-05T21:23:03+00:00",
       "category": "Environnement",
@@ -407,28 +405,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 8,
-      "importance_score": 15.829,
+      "importance_score": 15.797,
       "latest_coverage_at": "2026-11-05T21:23:03+00:00"
-    },
-    {
-      "id": "7dff2ae47d53",
-      "title": "Dans le Gers, un homme condamné à 30 ans de réclusion pour avoir tué son ex-conjointe",
-      "summary": "Il avait tué son ex-conjointe en 2023 en la percutant à deux reprises avec son véhicule. Un homme de 76 ans a été condamné à 30 ans de réclusion criminelle jeudi 5 novembre à Auch (Gers). Lors de l’audience, l’avocat des parties civiles a pointé la « responsabilité de l’État » dans cette affaire.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/faits-divers/feminicide/dans-le-gers-un-homme-condamne-a-30-ans-de-reclusion-pour-avoir-tue-son-ex-conjointe-46303542-d95e-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-05T21:46:11+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Dans le Gers, un homme condamné à 30 ans de réclusion pour avoir tué son ex-conjointe ».",
-      "coverage_sources": [
-        "Ouest-France",
-        "Sud Ouest",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 3,
-      "mention_count": 4,
-      "importance_score": 14.874,
-      "latest_coverage_at": "2026-11-05T21:46:11+00:00"
     },
     {
       "id": "29f0828e146f",
@@ -447,7 +425,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.845,
+      "importance_score": 14.843,
       "latest_coverage_at": "2026-11-05T19:36:07+00:00"
     },
     {
@@ -467,7 +445,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.564,
+      "importance_score": 14.562,
       "latest_coverage_at": "2026-11-05T19:55:54+00:00"
     },
     {
@@ -487,15 +465,35 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.467,
+      "importance_score": 14.449,
       "latest_coverage_at": "2026-11-05T17:46:04+00:00"
+    },
+    {
+      "id": "68580e5c27d8",
+      "title": "«On a passé un cap» : dans les lycées, une rentrée sous répression policière",
+      "summary": "Plusieurs lycéens et personnels mobilisés témoignent d’une reprise intensifiée et violente de la réponse policière aux blocages d’établissements, depuis la rentrée.",
+      "source": "Libération",
+      "feed_rank": 1,
+      "url": "https://www.liberation.fr/societe/police-justice/on-a-passe-un-cap-dans-les-lycees-une-rentree-sous-repression-policiere-20261106_65P2NUSIDJFSVGPRNQSHQB2RTE/",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « «On a passé un cap» : dans les lycées, une rentrée sous répression policière ».",
+      "coverage_sources": [
+        "Le Figaro",
+        "Libération",
+        "Le JDD"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.415,
+      "latest_coverage_at": "2026-11-06T04:00:00+00:00"
     },
     {
       "id": "b1f55155ba63",
       "title": "Audiens et l’UMICC lancent un assistant IA pour accompagner les créateurs de contenu",
       "summary": "Audiens et l’UMICC lancent un assistant IA pour accompagner les créateurs de contenu Audiens et l’UMICC lancent un assistant IA pour accompagner les créateurs de contenu thierry.wojciak jeu 05/11/2026 - 19:29 Conseil",
       "source": "CB News",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.cbnews.fr/conseil/audiens-umicc-lancent-assistant-ia-accompagner-les-createurs-contenu",
       "published_at": "2026-11-05T18:29:56+00:00",
       "category": "Sciences & tech",
@@ -506,11 +504,411 @@
       ],
       "coverage_count": 2,
       "mention_count": 8,
-      "importance_score": 14.314,
+      "importance_score": 14.272,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "259ec9290b41",
+      "title": "EN DIRECT - Colère sociale : après un 5 novembre \"réussi\" dans la rue, les regards se tournent déjà vers samedi",
+      "summary": "Au lendemain de la mobilisation massive dans la rue, avec entre 575.000 et 1,6 million de manifestants, un nouvel acte se prépare samedi 7 novembre. Des organisations de jeunesse et des Gilets jaunes promettent de nouvelles actions contre la vie chère. Suivez les dernières informations.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 1,
+      "url": "https://www.tf1info.fr/societe/en-direct-colere-sociale-apres-un-5-novembre-reussi-dans-la-rue-les-regards-se-tournent-deja-vers-samedi-7-novembre-manifestations-gilets-jaunes-syndicats-2474187.html",
+      "published_at": "2026-11-06T05:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « EN DIRECT - Colère sociale : après un 5 novembre \"réussi\" dans la rue, les regards se tournent déjà vers samedi ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4e444faf56f4",
+      "title": "Elles font mal dans le neuf, elles débarquent en force sur l'occasion: les voitures chinoises voient leurs ventes bondir de 69% en France",
+      "summary": "Les immatriculations de voitures d'occasion chinoises ont bondi de 69% en septembre en France, avec de fortes croissances pour les modèles de MG et BYD. Si les volumes demeurent encore modérés, l'élargissement rapide des gammes et la baisse des prix d'accès séduisent de plus en plus d'automobilistes français sur le marché de la seconde main.",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/auto/elles-font-mal-dans-le-neuf-elles-debarquent-en-force-sur-l-occasion-les-voitures-chinoises-voient-leurs-ventes-bondir-de-69-en-france_AV-202611060099.html",
+      "published_at": "2026-11-06T04:58:54+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Elles font mal dans le neuf, elles débarquent en force sur l'occasion: les voitures chinoises voient leurs ventes bondir de 69% en France » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b88cc5f4dc16",
+      "title": "Les journalistes conservent la confiance des jeunes, mais peinent à susciter des vocations",
+      "summary": "Les journalistes conservent la confiance des jeunes, mais peinent à susciter des vocations Les journalistes conservent la confiance des jeunes , mais peinent à susciter des vocations thierry.wojciak ven 06/11/2026 - 05:50 Médias",
+      "source": "CB News",
+      "feed_rank": 1,
+      "url": "https://www.cbnews.fr/medias/les-journalistes-conservent-confiance-jeunes-peinent-susciter-vocations",
+      "published_at": "2026-11-06T04:50:03+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Les journalistes conservent la confiance des jeunes, mais peinent à susciter des vocations ».",
+      "coverage_sources": [
+        "CB News"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3add240246e8",
+      "title": "Élise Bordet, ingénieure agronome : les réseaux sociaux comme champ de bataille",
+      "summary": "Aux moyens de courtes vidéos sur le réseau Instagram, la doctorante en immunologie, originaire du monde paysan, partage son savoir scientifique avec ses 275 000 abonnés et lutte contre les fake news. Elle monte à présent sur scène pour sensibiliser, avec humour, sur la santé environnementale.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/environnement/elise-bordet-ingenieure-agronome-les-reseaux-sociaux-comme-champ-de-bataille-80097242-c635-11f1-b3a8-1120a69ac78a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-06T04:45:05+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Élise Bordet, ingénieure agronome : les réseaux sociaux comme champ de bataille ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ef8dd720b191",
+      "title": "Le dessin de Chaunu : le rejet à l’unanimité de l’Assemblée nationale du projet de loi de finances",
+      "summary": "Le dessinateur et caricaturiste Chaunu croque au quotidien l’actualité française et internationale pour Ouest-France. Aujourd’hui, le difficile compromis que va devoir faire Sébastien Lecornu s’il veut éviter la censure.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-rejet-a-lunanimite-de-lassemblee-nationale-du-projet-de-loi-de-finances-f113ca42-d953-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-06T04:45:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Le dessin de Chaunu : le rejet à l’unanimité de l’Assemblée nationale du projet de loi de finances ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "463f78190b81",
+      "title": "Grève du 5 novembre : entre colère sociale et révolte politique, une mobilisation massive pour le pouvoir d’achat",
+      "summary": "Dans toute la France, 193 cortèges ont réuni 1,6 million de manifestants selon la CGT, 575 000 selon le ministère de l’intérieur, à l’appel d’une intersyndicale associée aux mouvements lycéens et étudiants, aux « gilets jaunes » et aux agriculteurs.",
+      "source": "Le Monde",
+      "feed_rank": 2,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-entre-colere-sociale-et-revolte-politique-une-mobilisation-massive-pour-le-pouvoir-d-achat_6807682_823448.html",
+      "published_at": "2026-11-06T04:44:27+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Grève du 5 novembre : entre colère sociale et révolte politique, une mobilisation massive pour le pouvoir d’achat ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4f3d57016bda",
+      "title": "\"Lé Tal\" par Ino Casablanca",
+      "summary": "Matthieu Conquet nous parle d’Extase avec l’auteur de \"Dima rave\", de \"Bissap du XXème\" : Ino Casablanca .",
+      "source": "France Inter",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/dans-la-playlist-de-france-inter/dans-la-playlist-de-france-inter-du-vendredi-06-novembre-2026-4797721",
+      "published_at": "2026-11-06T04:35:50+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Lé Tal\" par Ino Casablanca » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "8e8388111c64",
+      "title": "À Washington, un premier feu vert pour le gigantesque arc de triomphe voulu par Trump",
+      "summary": "Le projet du président américain prévoit la construction d’une arche qui doit dépasser 76 mètres de haut, nettement plus que l’Arc de triomphe à Paris dont il est inspiré.",
+      "source": "Le Figaro",
+      "feed_rank": 17,
+      "url": "https://www.lefigaro.fr/international/a-washington-un-premier-feu-vert-pour-le-gigantesque-arc-de-triomphe-voulu-par-trump-20261106",
+      "published_at": "2026-11-06T04:35:43+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « À Washington, un premier feu vert pour le gigantesque arc de triomphe voulu par Trump » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0ab7cf653975",
+      "title": "Midterms 2026 : les démocrates s’interrogent sur leur stratégie et leur direction dans le prochain Congrès",
+      "summary": "Hakeem Jeffries et Chuck Schumer, pressentis pour devenir respectivement speaker de la Chambre des représentants et chef de la majorité au Sénat, sont contestés. Mais ils travaillent déjà sur les priorités d’un Congrès largement dominé par leurs troupes.",
+      "source": "Le Monde",
+      "feed_rank": 1,
+      "url": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-les-democrates-s-interrogent-sur-leur-strategie-et-leur-direction-dans-le-prochain-congres_6807648_3210.html",
+      "published_at": "2026-11-06T04:30:07+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Midterms 2026 : les démocrates s’interrogent sur leur stratégie et leur direction dans le prochain Congrès » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "629ad4aa06cc",
+      "title": "“Super-rafales, un phénomène sous surveillance” : un documentaire pédagogique aussi flippant qu’éclairant",
+      "summary": "Super rafales, bombes de pluie... Ce vocabulaire quasi guerrier désigne des phénomènes météos assez nouveaux qui vont s’intensifier à mesure que le climat se réchauffera.",
+      "source": "Télérama",
+      "feed_rank": 1,
+      "url": "https://www.telerama.fr/television/super-rafales-un-phenomene-sous-surveillance-un-documentaire-pedagogique-aussi-flippant-qu-eclairant_cri-7046709.php",
+      "published_at": "2026-11-06T04:30:05+00:00",
+      "category": "Environnement",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « “Super-rafales, un phénomène sous surveillance” : un documentaire pédagogique aussi flippant qu’éclairant ».",
+      "coverage_sources": [
+        "Télérama"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4ac22e3e187d",
+      "title": "Joseph Votel, ex-général de l'US Army : \"Nous pourrions encore voir des frappes conjointes américano-israéliennes massives contre l'Iran\"",
+      "summary": "La défaite aux midterms va-t-elle avoir des conséquences sur la politique étrangère de Donald Trump ? C'est la grande question qui agite Washington - et la communauté internationale - au lendemain du cuisant revers qui a permis aux démocrates de prendre la Chambre des représentants et le Sénat américain le 3 novembre. Depuis plusieurs semaines,…",
+      "source": "L'Express",
+      "feed_rank": 1,
+      "url": "https://www.lexpress.fr/monde/proche-moyen-orient/joseph-votel-ex-general-de-lus-army-nous-pourrions-encore-voir-des-frappes-conjointes-americano-CM7QS6XHW5HLPEAJ3DIVD33CK4/",
+      "published_at": "2026-11-06T04:30:00+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Joseph Votel, ex-général de l'US Army : \"Nous pourrions encore voir des frappes conjointes américano-israéliennes massives contre l'Iran\" ».",
+      "coverage_sources": [
+        "L'Express"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b40665c24950",
+      "title": "Vous arrêtez de fumer et vous êtes à cran ? Ce n’est pas forcément le manque de nicotine",
+      "summary": "Irritabilité, palpitations, nuits agitées… Quand on arrête de fumer, la nicotine est le suspect habituel. Mais elle n’est pas forcément la seule responsable.",
+      "source": "Futura",
+      "feed_rank": 1,
+      "url": "https://www.futura-sciences.com/sante/actualites/mois-tabac-vous-arretez-fumer-vous-etes-cran-ce-nest-pas-forcement-manque-nicotine-139066/#xtor%3DRSS-8",
+      "published_at": "2026-11-06T04:28:30+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Vous arrêtez de fumer et vous êtes à cran ? Ce n’est pas forcément le manque de nicotine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Futura"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "fe053af6531b",
+      "title": "Succession de Dolly Parton : son agent abandonne ses poursuites contre le neveu de la chanteuse",
+      "summary": "Danny Nozell, le manager de longue date de la star de la country, accusait Bryan Seaver d’avoir proféré des menaces pour mettre la main sur le patrimoine de sa tante Dolly Parton, dont la fortune est estimée à 450 millions de dollars par Forbes.",
+      "source": "Le Figaro",
+      "feed_rank": 16,
+      "url": "https://www.lefigaro.fr/culture/succession-de-dolly-parton-son-agent-abandonne-ses-poursuites-contre-le-neveu-de-la-chanteuse-20261106",
+      "published_at": "2026-11-06T04:26:47+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Succession de Dolly Parton : son agent abandonne ses poursuites contre le neveu de la chanteuse ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "50c53093689d",
+      "title": "Équipe de France. À quelle heure et sur quelle chaîne suivre la deuxième liste de Zinédine Zidane à la tête des Bleus ?",
+      "summary": "Le sélectionneur de l’équipe de France de football Zinédine Zidane va dévoiler sa deuxième liste, ce vendredi 6 novembre. Découvrez à quelle heure et sur quelle chaîne TV suivre cette annonce.",
+      "source": "Ouest-France",
+      "feed_rank": 3,
+      "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/equipe-de-france-a-quelle-heure-et-sur-quelle-chaine-suivre-la-deuxieme-liste-de-zinedine-zidane-a-la-tete-des-bleus-dbb1d904-d94f-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-06T04:21:02+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Équipe de France. À quelle heure et sur quelle chaîne suivre la deuxième liste de Zinédine Zidane à la tête des Bleus ? ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "382364d4aab3",
+      "title": "Pourquoi certains descendants d’immigrés algériens opèrent-ils un retour aux sources ?",
+      "summary": "À travers leur quête d’identité, leurs débouchés professionnels ou en réaction à un climat politique français jugé stigmatisant, de plus en plus de descendants d’immigrés algériens choisissent de nouer des liens, ou de les renforcer, avec le pays de leurs aïeux. Du sport de haut niveau à l’entrepreneuriat, “Tout sur l’Algérie” revient sur un phénomène…",
+      "source": "Courrier International",
+      "feed_rank": 1,
+      "url": "https://www.courrierinternational.com/article/diaspora-pourquoi-certains-descendants-d-immigres-algeriens-operent-ils-un-retour-aux-sources_282194",
+      "published_at": "2026-11-06T04:00:25+00:00",
+      "category": "Politique",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Pourquoi certains descendants d’immigrés algériens opèrent-ils un retour aux sources ? ».",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "05abff0ffbab",
+      "title": "Souvenons-nous que les dépenses militaires n’ont pas sauvé l’Union soviétique !",
+      "summary": "Engagée dans une guerre qui s’éternise, la Russie voit ses indicateurs économiques et sociaux se dégrader, une évolution amplifiée par les attaques ukrainiennes régulières sur des infrastructures stratégiques. Dans ce contexte, l’État a fortement accru les dépenses militaires. Mais penser que le soutien au secteur de la défense suffira à maintenir le…",
+      "source": "Courrier International",
+      "feed_rank": 2,
+      "url": "https://www.courrierinternational.com/article/vu-de-russie-souvenons-nous-que-les-depenses-militaires-n-ont-pas-sauve-l-union-sovietique_282073",
+      "published_at": "2026-11-06T04:00:24+00:00",
+      "category": "Économie",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Souvenons-nous que les dépenses militaires n’ont pas sauvé l’Union soviétique ! ».",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d606962b2115",
+      "title": "Au Japon, les méthodes expéditives de “régulation” des ours font débat",
+      "summary": "Confronté à un pic sans précédent du nombre de victimes – 13 morts en 2025 –, Tokyo a abattu 14 000 ursidés entre 2025 et 2026. Cette approche inquiète les scientifiques et les associations de protection de la nature, qui appellent à une solution moins létale.",
+      "source": "Courrier International",
+      "feed_rank": 3,
+      "url": "https://www.courrierinternational.com/article/nature-au-japon-les-methodes-expeditives-de-regulation-des-ours-font-debat_278044",
+      "published_at": "2026-11-06T04:00:15+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Cette actualité demande de rendre un sujet technique compréhensible sans promettre davantage que ce que les faits établissent. Le communicant doit expliquer les usages, les limites et les questions éthiques. Pour travailler ce cas, partez du sujet précis — « Au Japon, les méthodes expéditives de “régulation” des ours font débat » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "819a52b8cd4f",
+      "title": "Des États-Unis au Brésil, sale temps pour les populistes",
+      "summary": "Le désaveu infligé par les électeurs américains à Donald Trump lors des midterms, tout comme la récente défaite de Flávio Bolsonaro au Brésil et celle d’Aleksandar Vucic en Serbie montrent que le populisme de droite est à la peine et que le vent peut tourner, souligne ce chroniqueur du “Financial Times”.",
+      "source": "Courrier International",
+      "feed_rank": 4,
+      "url": "https://www.courrierinternational.com/article/opinion-des-etats-unis-au-bresil-sale-temps-pour-les-populistes_285267",
+      "published_at": "2026-11-06T04:00:13+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Des États-Unis au Brésil, sale temps pour les populistes ».",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f1b3bef9fef3",
+      "title": "Chute des valeurs de l’IA, démission du président du Paraguay, guerre en Ukraine, Los Angeles : les informations de la nuit",
+      "summary": "Les principales actualités de ces dernières heures vues par la presse internationale.",
+      "source": "Courrier International",
+      "feed_rank": 5,
+      "url": "https://www.courrierinternational.com/article/pendant-que-vous-dormiez-chute-des-valeurs-de-l-ia-demission-du-president-du-paraguay-guerre-en-ukraine-los-angeles-les-informations-de-la-nuit_285321",
+      "published_at": "2026-11-06T04:00:10+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Chute des valeurs de l’IA, démission du président du Paraguay, guerre en Ukraine, Los Angeles : les informations de la nuit ».",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f04be18f81f8",
+      "title": "BFM-TV : Sonia Mabrouk au cœur d’un conflit interne, révélant des turbulences plus profondes",
+      "summary": "La présentatrice, transfuge de CNews, fait l’objet d’une fronde au sein de la chaîne d’information, sur fond de contestations de la ligne éditoriale, parfois jugée complaisante vis-à-vis de l’extrême droite.",
+      "source": "Le Monde",
+      "feed_rank": 6,
+      "url": "https://www.lemonde.fr/economie/article/2026/11/06/bfm-tv-sonia-mabrouk-au-c-ur-d-un-conflit-interne-revelant-des-turbulences-plus-profondes_6807612_3234.html",
+      "published_at": "2026-11-06T04:00:06+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « BFM-TV : Sonia Mabrouk au cœur d’un conflit interne, révélant des turbulences plus profondes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "68580e5c27d8",
+      "title": "«On a passé un cap» : dans les lycées, une rentrée sous répression policière",
+      "summary": "Plusieurs lycéens et personnels mobilisés témoignent d’une reprise intensifiée et violente de la réponse policière aux blocages d’établissements, depuis la rentrée.",
+      "source": "Libération",
+      "feed_rank": 1,
+      "url": "https://www.liberation.fr/societe/police-justice/on-a-passe-un-cap-dans-les-lycees-une-rentree-sous-repression-policiere-20261106_65P2NUSIDJFSVGPRNQSHQB2RTE/",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « «On a passé un cap» : dans les lycées, une rentrée sous répression policière ».",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e7bafedef589",
+      "title": "Midterms et redécoupage électoral : comment les républicains sont tombés dans leur propre piège",
+      "summary": "Réclamé par Donald Trump pour sauver la majorité républicaine à la Chambre, le «gerrymandering» a échoué face à la vague démocrate, révélant les limites d’une stratégie qui indigne les électeurs.",
+      "source": "Libération",
+      "feed_rank": 2,
+      "url": "https://www.liberation.fr/international/amerique/midterms-et-redecoupage-electoral-comment-les-republicains-sont-tombes-dans-leur-propre-piege-20261106_XUGVI7KDXRFP3KQUULOLEIHCSQ/",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Midterms et redécoupage électoral : comment les républicains sont tombés dans leur propre piège » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "28173d94c33e",
+      "title": "Arrêter de fumer : le calendrier complet des gains de santé, de la première heure aux dix prochaines années",
+      "summary": "Retrouvez tous les indicateurs de santé et les délais de récupération pour chaque étape du sevrage tabagique, des premières minutes au rétablissement total de l’espérance de vie",
+      "source": "Sud Ouest",
+      "feed_rank": 1,
+      "url": "https://www.sudouest.fr/sante/tabac/arreter-de-fumer-le-calendrier-complet-des-gains-de-sante-de-la-premiere-heure-aux-dix-prochaines-annees-31393345.php",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Arrêter de fumer : le calendrier complet des gains de santé, de la première heure aux dix prochaines années ».",
+      "coverage_sources": [
+        "Sud Ouest"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "115fde282f4d",
+      "title": "L’échec électoral de Trump marque-t-il la fin du protectionnisme américain ?",
+      "summary": "Donald Trump ressort totalement perdant des élections de mi-mandat. Cela signifie-t-il la fin de la politique protectionniste des Etats-Unis&nbsp;? A priori, oui. Tous les sondages le montrent&nbsp;: les droits de douane sont impopulaires auprès d’une majorité d’Etats-Uniens et suscitent des réserves jusque…",
+      "source": "Alternatives économiques",
+      "feed_rank": 1,
+      "url": "https://www.alternatives-economiques.fr/l-echec-electoral-de-trump-marque-t-il-la-fin-du-protectionnisme-americain_06-11-2026",
+      "published_at": "2026-11-06T04:00:00+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « L’échec électoral de Trump marque-t-il la fin du protectionnisme américain ? ».",
+      "coverage_sources": [
+        "Alternatives économiques"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "472b41806e26",
+      "title": "Macao : l’ex-député pro-démocratie Au Kam San condamné à douze ans et demi de prison",
+      "summary": "L’ancien enseignant de 69 ans a longtemps été l’un des leaders du mouvement prodémocratie dans l’ancienne colonie portugaise rétrocédée à la Chine.",
+      "source": "Le Figaro",
+      "feed_rank": 18,
+      "url": "https://www.lefigaro.fr/international/macao-l-ex-depute-pro-democratie-au-kam-san-condamne-a-douze-ans-et-demi-de-prison-20261106",
+      "published_at": "2026-11-06T03:51:33+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Macao : l’ex-député pro-démocratie Au Kam San condamné à douze ans et demi de prison ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "9ef92235defd",
       "title": "Moscou saisit les actifs russes de la société nippone Japan Tobacco, sur fond de tensions avec Tokyo",
@@ -532,7 +930,7 @@
       "title": "La guerre au Moyen-Orient fait chuter les émissions de CO2 de la Chine, selon une étude",
       "summary": "Les émissions chinoises de dioxyde de carbone ont reculé de 3,1 % au troisième trimestre, leur baisse la plus rapide depuis le Covid-19, sur fond de la guerre au Moyen-Orient selon une étude.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/environnement/climat/la-guerre-au-moyen-orient-fait-chuter-les-emissions-de-co2-de-la-chine-selon-une-etude-2eb00515-3899-4e1a-bed3-3792c05f0e9d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T03:22:56+00:00",
       "category": "International",
@@ -564,7 +962,7 @@
       "title": "IA : Anthropic pourrait revoir à la baisse ses ambitions boursières",
       "summary": "Le créateur de l’assistant Claude vise une introduction en Bourse la semaine du 16 novembre et devait lever jusqu’à 100 milliards de dollars, selon la presse américaine, ce qui en ferait la plus importante de l’histoire.",
       "source": "Le Figaro",
-      "feed_rank": 3,
+      "feed_rank": 7,
       "url": "https://www.lefigaro.fr/secteur/high-tech/ia-anthropic-pourrait-revoir-a-la-baisse-ses-ambitions-boursieres-20261106",
       "published_at": "2026-11-06T02:51:11+00:00",
       "category": "Économie",
@@ -576,49 +974,17 @@
       "mention_count": 1
     },
     {
-      "id": "f93b28597926",
-      "title": "Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco",
-      "summary": "Deux ministres japonais en visite en Russie ont remis une note de protestation après la saisie, sur ordre du Kremlin, des actifs de Japan Tobacco dans le pays. Tokyo exige la levée immédiate de la mesure, sur fond de tensions liées aux sanctions contre Moscou depuis l’invasion de l’Ukraine.",
-      "source": "Le Figaro",
-      "feed_rank": 16,
-      "url": "https://www.lefigaro.fr/societes/moscou-saisit-les-actifs-en-russie-de-japan-tobacco-international-le-cigarettier-examine-d-eventuelles-mesures-20261106",
-      "published_at": "2026-11-06T02:47:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Tokyo exige la levée immédiate de la saisie des actifs russes de Japan Tobacco ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "0300890c9b7f",
       "title": "«Making Marie Antoinette» sur Mubi, un faste projet",
       "summary": "Vingt ans après la sortie de son long métrage, Sofia Coppola achève le «making of» entamé par sa mère lors du tournage de son film à Versailles, en 2005, et lui rend ainsi hommage.",
       "source": "Libération",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.liberation.fr/culture/cinema/making-marie-antoinette-un-faste-projet-20261106_J57TP6XEE5HBZEJ4HJT42OEUGQ/",
       "published_at": "2026-11-06T02:00:00+00:00",
       "category": "Culture",
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « «Making Marie Antoinette» sur Mubi, un faste projet ».",
       "coverage_sources": [
         "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a0ccb96036b9",
-      "title": "Cuba : arrestation de deux opposantes dont la journaliste Yoani Sanchez, libérée dans la journée",
-      "summary": "Berta Soler, la dirigeante du mouvement des Dames en blanc, qui rassemble des mères et des épouses d’opposants arrêtés sous Fidel Castro, était, elle, toujours détenue, jeudi soir. Elle fait régulièrement l’objet d’arrestations allant de plusieurs heures à quelques jours.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/international/article/2026/11/06/cuba-arrestation-de-deux-opposantes-dont-la-journaliste-yoani-sanchez-liberee-dans-la-journee_6807446_3210.html",
-      "published_at": "2026-11-06T01:53:40+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Cuba : arrestation de deux opposantes dont la journaliste Yoani Sanchez, libérée dans la journée ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -639,17 +1005,18 @@
         "Le Figaro",
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
-        "20 Minutes"
+        "20 Minutes",
+        "Le Dauphiné Libéré"
       ],
-      "coverage_count": 6,
-      "mention_count": 7
+      "coverage_count": 7,
+      "mention_count": 8
     },
     {
       "id": "d30b68a774e7",
       "title": "Les géants des réseaux sociaux, Google, Meta et TikTok attaquent une loi californienne protégeant les moins de 16 ans",
       "summary": "Google propriétaire de YouTube, Meta, la maison mère de Facebook et d’Instagram et TikTok ont saisi mercredi 4 novembre 2026 la justice fédérale pour bloquer une loi californienne interdisant, dès le 1er janvier, de proposer aux moins de 16 ans des fils personnalisés et la lecture automatique des vidéos, même avec l’accord de leurs parents.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/high-tech/reseaux-sociaux/les-geants-des-reseaux-sociaux-google-meta-et-tiktok-attaquent-une-loi-californienne-protegeant-les-moins-de-16-ans-76fc46c8-d974-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T01:24:49+00:00",
       "category": "Médias & communication",
@@ -665,7 +1032,7 @@
       "title": "Les Bourses de Tokyo et Séoul plongent, après la dégringolade des valeurs technologiques américaines",
       "summary": "Les marchés s’inquiètent des résultats des élections américaines qui pourraient ralentir les investissements dans les centres de données dédiés à l’intelligence artificielle.",
       "source": "Le Figaro",
-      "feed_rank": 2,
+      "feed_rank": 6,
       "url": "https://www.lefigaro.fr/conjoncture/le-nikkei-chute-de-plus-de-5-apres-la-degringolade-des-valeurs-technologiques-americaines-20261106",
       "published_at": "2026-11-06T01:06:00+00:00",
       "category": "Politique",
@@ -681,7 +1048,7 @@
       "title": "Playlist Sound System du vendredi 06 novembre 2026",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "France Inter",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-vendredi-06-novembre-2026-8911632",
       "published_at": "2026-11-06T01:03:00+00:00",
       "category": "Société",
@@ -691,7 +1058,7 @@
         "France Inter"
       ],
       "coverage_count": 2,
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "id": "b064de56c18d",
@@ -779,7 +1146,7 @@
       "title": "Leverkusen-OM: \"Ce qui se passe depuis le début de saison nous a soudés\", Genesio fier de son groupe",
       "summary": "L'OM a confirmé sa bonne dynamique en Ligue 1 en décrochant sa première victoire de la saison en Ligue Europa, jeudi soir sur la pelouse du Bayer Leverkusen (1-0). Après le match, Bruno Genesio a salué la résilience de son groupe.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://rmcsport.bfmtv.com/football/europa-league/leverkusen-om-ce-qui-se-passe-depuis-le-debut-de-saison-nous-a-soudes-genesio-fier-de-son-groupe_AV-202611050889.html",
       "published_at": "2026-11-05T23:18:40+00:00",
       "category": "Sport",
@@ -795,7 +1162,7 @@
       "title": "Rochebin Soir du jeudi 5 novembre 2026 – Édition spéciale - Jusqu'où ira la crise ?",
       "summary": "Au sommaire : 575 000 manifestants, la démonstration de force. Augmenter les salaires, qui détient la clé ? Violences, un cap a-t-il été franchi ? Alerte à la bombe, 27 avions européens visés en 72 heures.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.tf1info.fr/replay-lci/videos/video-rochebin-soir-du-jeudi-5-novembre-2026-edition-speciale-jusqu-ou-ira-la-crise-2474189.html",
       "published_at": "2026-11-05T23:16:03+00:00",
       "category": "Société",
@@ -861,7 +1228,7 @@
       "title": "Manifs : immenses cortèges à Paris, Lyon, Marseille... - 05/11",
       "summary": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-manifs-immenses-corteges-a-paris-lyon-marseille-05-11_VN-202611050891.html",
       "published_at": "2026-11-05T23:02:12+00:00",
       "category": "Société",
@@ -941,7 +1308,7 @@
       "title": "Tennis de table. Les frères Lebrun, Gauzy, Pavade… La composition des Bleus pour la Coupe du monde mixte",
       "summary": "Pour refermer l’année, l’équipe de France de tennis de table va disputer la Coupe du monde mixte, du 29 novembre au 6 décembre 2026. Après des saisons plus que réussies pour plusieurs sur le plan individuel, les meilleurs internationaux seront présents.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/tennis-de-table/tennis-de-table-les-freres-lebrun-gauzy-pavade-la-composition-des-bleus-pour-la-coupe-du-monde-mixte-d9889a38-d967-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:43:54+00:00",
       "category": "Sport",
@@ -957,29 +1324,13 @@
       "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
       "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:43:33+00:00",
       "category": "Société",
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes ».",
       "coverage_sources": [
         "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9e76920af1bc",
-      "title": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
-      "summary": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. De son côté, le ministère de l’intérieur a évalué à 575 000 le nombre de manifestants en France, dont 65 000 dans la capitale.",
-      "source": "Le Monde",
-      "feed_rank": 2,
-      "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
-      "published_at": "2026-11-05T22:43:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le pat ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1037,7 +1388,7 @@
       "title": "Chine Éco : Les nouveautés de GTT, par Gilane Barret - 05/11",
       "summary": "BFM BUSINESS PARTENAIRE - Ce jeudi 5 novembre, Adnan Ezzarhouni, directeur général de GTT China, s'est penché sur les nouveautés de GTT, dans l'émission Chine Éco présentée par Gilane Barret. Chine Éco est à voir ou écouter du lundi au jeudi sur BFM Business. Cette émission a été réalisée en partenariat avec China Radio International.",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.bfmtv.com/economie/replay-emissions/chine-eco/video-chine-eco-les-nouveautes-de-gtt-par-gilane-barret-23-11_VN-202611050867.html",
       "published_at": "2026-11-05T22:29:12+00:00",
       "category": "International",
@@ -1053,7 +1404,7 @@
       "title": "F1. « J’étais agacé, je le suis toujours » : Lewis Hamilton ne décolère pas contre Charles Leclerc après leur accrochage",
       "summary": "Le week-end dernier lors du Grand Prix du Mexique, Lewis Hamilton a été percuté dans le premier tour par son coéquipier chez Ferrari Charles Leclerc, ce qui a certainement coûté la victoire à leur écurie. Le pilote anglais garde toujours cette scène à travers de la gorge.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/formule-1/f1-jetais-agace-je-le-suis-toujours-lewis-hamilton-ne-decolere-pas-contre-charles-leclerc-apres-leur-accrochage-99bba57c-d966-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:24:17+00:00",
       "category": "Économie",
@@ -1069,7 +1420,7 @@
       "title": "Pouvoir d'achat : Aurélie Trouvé, députée La France insoumise, dénonce une baisse des salaires réels en France et affirme que \"c'est inédit\"",
       "summary": "Au coeur des mobilisations de l'automne, dont celle de jeudi pour défendre les salaires, le pouvoir d'achat, en baisse dans le contexte de forte inflation, recoupe différentes réalités, suscitant des débats sur l'ampleur de son recul.",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.bfmtv.com/politique/la-france-insoumise/video-pouvoir-d-achat-aurelie-trouve-deputee-la-france-insoumise-denonce-une-baisse-des-salaires-reels-en-france-et-affirme-que-c-est-inedit_VN-202611050864.html",
       "published_at": "2026-11-05T22:19:37+00:00",
       "category": "Économie",
@@ -1085,7 +1436,7 @@
       "title": "Wall Street plonge, vent de panique sur l’IA : le Nasdaq s’enfonce de plus de 5% après la victoire des démocrates",
       "summary": "La vague bleue pourrait aboutir à la remise en question de nombreux projets de centres de données dans le pays ainsi qu'à de nouvelles régulations sur les acteurs du secteur. Le Nasdaq a vécu sa pire journée depuis avril 2025.",
       "source": "Le Figaro",
-      "feed_rank": 1,
+      "feed_rank": 5,
       "url": "https://www.lefigaro.fr/flash-eco/wall-street-l-indice-nasdaq-s-enfonce-de-plus-de-3-face-aux-craintes-sur-l-ia-20261105",
       "published_at": "2026-11-05T22:13:10+00:00",
       "category": "Société",
@@ -1118,7 +1469,7 @@
       "title": "Ligue Conférence. Monaco décroche un troisième succès après sa victoire face à Nordsjaelland",
       "summary": "L’AS Monaco a enchaîné un troisième succès en Ligue Conférence, ce jeudi 5 novembre, après s’être imposée contre l’équipe danoise de Nordsjaelland (2-0). Les Monégasques, tout de même bousculés, sont provisoirement en tête du classement.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/ligue-conference/ligue-conference-monaco-decroche-un-troisieme-succes-apres-sa-victoire-face-a-nordsjaelland-27f53a40-d964-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:07:04+00:00",
       "category": "Société",
@@ -1134,7 +1485,7 @@
       "title": "Vol de champignons : le fléau de l'automne",
       "summary": "Chaque automne, dès que les cèpes pointent le bout de leur chapeau, des cueilleurs s’introduisent dans les propriétés privées pour les ramasser. Certains le font pour leur consommation personnelle, d'autres pour revendre leur cueillette au marché noir. Pour tenter d'enrayer cette économie souterraine, une association du Périgord organise un marché…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.tf1info.fr/societe/videos/video-vol-de-champignons-le-fleau-de-l-automne-84357-2474186.html",
       "published_at": "2026-11-05T22:05:15+00:00",
       "category": "Économie",
@@ -1150,7 +1501,7 @@
       "title": "5 novembre: Sandrine Rousseau appelle à la \"démission\" de Sébastien Lecornu",
       "summary": "Sandrine Rousseau, députée Les Écologistes de Paris, était l'invitée de BFMTV ce jeudi 5 novembre après une journée de mobilisation en France qui a réuni 1,6 million de personnes selon la CGT et 575.000 personnes selon le ministère de l'Intérieur.",
       "source": "BFMTV",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.bfmtv.com/politique/gouvernement/video-5-novembre-sandrine-rousseau-appelle-a-la-demission-de-sebastien-lecornu_VN-202611050858.html",
       "published_at": "2026-11-05T22:04:51+00:00",
       "category": "Société",
@@ -1199,7 +1550,7 @@
       "title": "Où se situe la défaite de Trump et des républicains dans l’histoire des élections de mi-mandat depuis 1946 ?",
       "summary": "INFOGRAPHIE - En perdant un grand nombre de sièges et la majorité dans les deux chambres, le G.O.P. signe l’une des pires performances aux midterms de l’Histoire moderne des États-Unis. Mais Barack Obama, en 2010, avait lui aussi subi une «dérouillée».",
       "source": "Le Figaro",
-      "feed_rank": 10,
+      "feed_rank": 4,
       "url": "https://www.lefigaro.fr/international/ou-se-situe-la-defaite-de-trump-et-des-republicains-dans-l-histoire-des-elections-de-mi-mandat-depuis-1946-20261105",
       "published_at": "2026-11-05T21:59:54+00:00",
       "category": "Politique",
@@ -1260,28 +1611,11 @@
       "mention_count": 1
     },
     {
-      "id": "c850bbb32c20",
-      "title": "Rallier Bordeaux et Toulouse en 1h : la SNCF donne son feu vert au lancement des appels d’offres pour une nouvelle ligne",
-      "summary": "SNCF Réseau a donné ce jeudi 5 novembre 2026 son feu vert pour le lancement des appels à candidature concernant la ligne Sud-Ouest. Celle-ci devrait permettre de relier Toulouse et Bordeaux, entre autres villes, plus rapidement, d’ici 2032.",
-      "source": "Ouest-France",
-      "feed_rank": 8,
-      "url": "https://www.ouest-france.fr/economie/transports/train/rallier-bordeaux-et-toulouse-en-1h-la-sncf-donne-son-feu-vert-au-lancement-des-appels-doffres-pour-une-nouvelle-ligne-da98e36c-d95b-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-05T21:51:17+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Rallier Bordeaux et Toulouse en 1h : la SNCF donne son feu vert au lancement des appels d’offres pour une nouvelle ligne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France",
-        "Sud Ouest"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
       "id": "a1319e1d0764",
       "title": "Blocage des lycées : trois mineurs, mis en cause dans l’agression d’une policière le 1er octobre dernier à Paris, remis en liberté",
       "summary": "Prise à partie par une bande de jeunes sur l’avenue Gambetta, dans le XXe arrondissement de Paris, la jeune lieutenant stagiaire s’en était sortie sans aucune blessure physique.",
       "source": "Le Figaro",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.lefigaro.fr/actualite-france/blocage-des-lycees-trois-mineurs-mis-en-cause-dans-l-agression-d-une-policiere-le-1er-octobre-dernier-a-paris-remis-en-liberte-20261105",
       "published_at": "2026-11-05T21:48:30+00:00",
       "category": "Société",
@@ -1297,7 +1631,7 @@
       "title": "États-Unis : qui est Nithya Raman, nouvelle maire de Los Angeles et candidate démocrate de l’aile gauche ?",
       "summary": "La conseillère municipale Nithya Raman remporte la mairie de Los Angeles face à la sortante Karen Bass, marquant une victoire pour l’aile gauche du Parti démocrate",
       "source": "Sud Ouest",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.sudouest.fr/international/etats-unis/etats-unis-qui-est-nithya-raman-nouvelle-maire-de-los-angeles-et-candidate-democrate-de-l-aile-gauche-31406393.php",
       "published_at": "2026-11-05T21:48:25+00:00",
       "category": "Politique",
@@ -1313,7 +1647,7 @@
       "title": "Manifestations du 5 novembre: une mobilisation d'ampleur portée par de nombreuses revendications",
       "summary": "Selon la CGT, 1,6 million de personnes ont défilé en France, dont 350.000 à Paris. Le ministère de l'Intérieur a, lui, annoncé 575.000 manifestants en France dont 65.000 à Paris. La grogne sociale est montée d'un cran ce jeudi. L'intersyndicale, les gilets jaunes, les salariés et le mouvement de la jeunesse protestent contre la vie chère dans les rues.",
       "source": "BFMTV",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.bfmtv.com/societe/manifestations/video-manifestations-du-5-novembre-une-mobilisation-d-ampleur-portee-par-de-nombreuses-revendications_VN-202611050853.html",
       "published_at": "2026-11-05T21:48:20+00:00",
       "category": "Société",
@@ -1345,7 +1679,7 @@
       "title": "Résultats EuroDreams: le tirage du jeudi 5 novembre 2026",
       "summary": "Découvrez les numéros qui ont été tirés au sort lors du tirage de l'EuroDreams de ce jeudi 5 novembre 2026.",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.bfmtv.com/loto/resultats-euro-dreams-le-tirage-du-jeudi-5-novembre-2026_AN-202611050847.html",
       "published_at": "2026-11-05T21:46:16+00:00",
       "category": "Société",
@@ -1355,23 +1689,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "7dff2ae47d53",
-      "title": "Dans le Gers, un homme condamné à 30 ans de réclusion pour avoir tué son ex-conjointe",
-      "summary": "Il avait tué son ex-conjointe en 2023 en la percutant à deux reprises avec son véhicule. Un homme de 76 ans a été condamné à 30 ans de réclusion criminelle jeudi 5 novembre à Auch (Gers). Lors de l’audience, l’avocat des parties civiles a pointé la « responsabilité de l’État » dans cette affaire.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/faits-divers/feminicide/dans-le-gers-un-homme-condamne-a-30-ans-de-reclusion-pour-avoir-tue-son-ex-conjointe-46303542-d95e-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-05T21:46:11+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Dans le Gers, un homme condamné à 30 ans de réclusion pour avoir tué son ex-conjointe ».",
-      "coverage_sources": [
-        "Ouest-France",
-        "Sud Ouest"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     },
     {
       "id": "73e842628baf",
@@ -1395,7 +1712,7 @@
       "title": "Smic, salaires : des mesures d'urgence imminentes ? - 05/11",
       "summary": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-smic-salaires-des-mesures-d-urgence-imminentes-05-11_VN-202611050851.html",
       "published_at": "2026-11-05T21:44:41+00:00",
       "category": "Société",
@@ -1411,7 +1728,7 @@
       "title": "Guerre en Ukraine: \"Nous voulons une paix durable et une paix juste\", martèle Kaja Kallas",
       "summary": "La cheffe de la diplomatie de l'Union européenne, Kaja Kallas, s'exprime aux côtés du ministre d'État et des Affaires étrangères du Portugal, Paulo Rangel, lors d'un déplacement à Lisbonne, ce jeudi 11 novembre.",
       "source": "BFMTV",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.bfmtv.com/international/europe/video-guerre-en-ukraine-nous-voulons-une-paix-durable-et-une-paix-juste-martele-kaja-kallas_VN-202611050845.html",
       "published_at": "2026-11-05T21:41:33+00:00",
       "category": "Politique",
@@ -1443,7 +1760,7 @@
       "title": "Royaume-Uni : les lunettes connectées, accusées de servir à filmer des femmes à leur insu, bientôt davantage encadrées ?",
       "summary": "Le gouvernement britannique réfléchit à encadrer l'usage et la vente des lunettes connectées, rapporte le \"Guardian\". En cause, des vidéos de femmes tournées à leur insu puis diffusées sur les réseaux sociaux. La ministre chargée du dossier reconnaît toutefois que ces appareils rendent service, notamment aux personnes malvoyantes.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/high-tech/royaume-uni-les-lunettes-connectees-accusees-de-filmer-des-femmes-a-leur-insu-bientot-davantage-encadrees-2474182.html",
       "published_at": "2026-11-05T21:34:42+00:00",
       "category": "Médias & communication",
@@ -1459,7 +1776,7 @@
       "title": "Toulouse : 30 personnes cagoulées incendient un lycée - 05/11",
       "summary": "Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-toulouse-30-personnes-cagoulees-incendient-un-lycee-05-11_VN-202611050840.html",
       "published_at": "2026-11-05T21:33:00+00:00",
       "category": "Société",
@@ -1481,14 +1798,10 @@
       "category": "Politique",
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Euronews",
-        "Libération",
-        "Sud Ouest",
-        "L'Humanité",
         "La Croix"
       ],
-      "coverage_count": 5,
-      "mention_count": 5
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "2e442742b1c7",
@@ -1528,7 +1841,7 @@
       "title": "\"Presque un mètre d'eau dans la rue\" : la région de Montpellier touchée par d'importantes inondations",
       "summary": "Le Gard et l'Hérault, ainsi que la Corse, étaient placés en vigilance orange aux pluies-inondations ce jeudi 5 novembre. C'est la conséquence de l'épisode méditerranéen qui balaie le Sud-Est et qui a provoqué de nombreux dégâts dans la région de Montpellier. Plusieurs routes ont notamment été fermées à la circulation.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/meteo/reportage-presque-un-metre-d-eau-dans-la-rue-la-region-de-montpellier-touchee-par-d-importantes-inondations-2474163.html",
       "published_at": "2026-11-05T21:23:03+00:00",
       "category": "Environnement",
@@ -1556,22 +1869,6 @@
       "mention_count": 1
     },
     {
-      "id": "f6b9bed27816",
-      "title": "\"Chaotique, brutale et gangrenée par la corruption\": Claude Malhuret fustige la politique étrangère de Donald Trump",
-      "summary": "Le sénateur Les indépendants Claude Malhuret prend la parole lors d'un débat sur le thème : \"l'Ukraine au lendemain des midterms américaines : quelle stratégie pour la France et l'Europe ?\", ce jeudi 5 novembre.",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-chaotique-brutale-et-gangrenee-par-la-corruption-claude-malhuret-fustige-la-politique-etrangere-de-donald-trump_VN-202611050830.html",
-      "published_at": "2026-11-05T21:13:17+00:00",
-      "category": "Politique",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Chaotique, brutale et gangrenée par la corruption\": Claude Malhuret fustige la politique étrangère de Donald Trump ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "53fe16053a72",
       "title": "Le lycée Françoise à Tournefeuille, près de Toulouse, victime d’une attaque, d’un incendie et de dégradations",
       "summary": "Tôt le matin, jeudi 5 novembre, une trentaine d’individus cagoulés ont pénétré dans l’établissement scolaire. Les dégâts sont importants et les réactions indignées.",
@@ -1592,7 +1889,7 @@
       "title": "Le coût de la guerre en Ukraine contraint des régions russes à réduire les indemnités versées aux familles de soldats morts",
       "summary": "Saratov, Samara, Belgorod… plus d’une dizaine de régions ont réduit ou supprimé les indemnités versées aux familles endeuillées par le conflit en Ukraine, alors que l’ensemble des budgets régionaux affiche un lourd déficit.",
       "source": "Le Figaro",
-      "feed_rank": 6,
+      "feed_rank": 10,
       "url": "https://www.lefigaro.fr/conjoncture/le-cout-de-la-guerre-en-ukraine-contraint-des-regions-russes-a-reduire-les-indemnites-versees-aux-familles-de-soldats-morts-20261105",
       "published_at": "2026-11-05T21:07:25+00:00",
       "category": "Économie",
@@ -1608,7 +1905,7 @@
       "title": "Grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France, des syndicats appellent à poursuivre la mobilisation",
       "summary": "Selon l’Intérieur, près de 200 manifestations ont eu lieu en France ce jeudi. En fin d’après-midi, Sébastien Lecornu a annoncé une «conférence sociale» lundi avec les organisations syndicales et patronales.",
       "source": "Libération",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I/",
       "published_at": "2026-11-05T21:06:57+00:00",
       "category": "Société",
@@ -1624,7 +1921,7 @@
       "title": "Montée des eaux : comment sauver Venise",
       "summary": "La question se pose de manière très concrète avec l'accélération du dérèglement climatique : et si Venise venait à disparaître ? Confrontée à la montée des eaux, la sérénissime subit de plus en plus souvent ce qu'on appelle l'acqua alta, qui submerge les places et les palais. Les ingénieurs et les architectes rivalisent d'idées pour sauver la ville,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.tf1info.fr/international/videos/video-montee-des-eaux-comment-sauver-venise-82068-2474181.html",
       "published_at": "2026-11-05T21:05:15+00:00",
       "category": "International",
@@ -1640,7 +1937,7 @@
       "title": "Sidney, pilier du hip-hop français",
       "summary": "À l'occasion de la sortie de son livre \"Hip Hop des origines à nos jours\", le pionnier Sydney partage ses souvenirs des débuts de ce mouvement artistique et musical dans l'Hexagone.",
       "source": "France Inter",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/a-la-reguliere/a-la-reguliere-du-jeudi-05-novembre-2026-7676026",
       "published_at": "2026-11-05T21:04:50+00:00",
       "category": "Culture",
@@ -1656,7 +1953,7 @@
       "title": "\"J'ai tout perdu\" : à Lyon, la seule voiture brûlée dans la manifestation appartenait... à un SDF",
       "summary": "La seule voiture brûlée lors de la manifestation de jeudi à Lyon appartenait à Fateh, un sans-abri de 50 ans. L'homme a assuré avoir \"tout perdu\", sauf ses papiers, récupérés dans le coffre avec l'aide d'une dizaine de jeunes manifestants.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/justice-faits-divers/mobilisation-du-5-novembre-j-ai-tout-perdu-a-lyon-la-seule-voiture-brulee-dans-la-manifestation-appartenait-a-un-sdf-2474165.html",
       "published_at": "2026-11-05T21:04:27+00:00",
       "category": "Société",
@@ -1672,7 +1969,7 @@
       "title": "Éditorial. Pauvreté : des vies derrière les statistiques",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "Sud Ouest",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.sudouest.fr/economie/social/editorial-pauvrete-des-vies-derriere-les-statistiques-31402366.php",
       "published_at": "2026-11-05T21:03:36+00:00",
       "category": "Société",
@@ -1720,7 +2017,7 @@
       "title": "Mate poaching : vous pratiquez peut-être cette technique de drague sans le savoir, pourtant elle est malsaine et peut laisser des traces au niveau émotionnel",
       "summary": "Le \"mate poaching\" ou \"braconnage de compagnon\" en français désigne le fait de séduire des personnes déjà engagées dans une relation amoureuse. Cette pratique est plus répandue qu'on ne le pense dans nos sociétés actuelles. Si elle peut fonctionner dans la formation de nouvelles relations, elle peut laisser des traces au niveau émotionnel.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.tf1info.fr/societe/mate-poaching-vous-pratiquez-peut-etre-cette-technique-de-drague-sans-le-savoir-pourtant-elle-est-malsaine-et-peut-laisser-des-traces-au-niveau-emotionnel-2331174.html",
       "published_at": "2026-11-05T21:00:35+00:00",
       "category": "Société",
@@ -1736,7 +2033,7 @@
       "title": "A69 : la mise en service de l’autoroute controversée est prévue ce vendredi, avec un péage à un prix exorbitant",
       "summary": "Après de nombreux revirements judiciaires, l’autoroute, symbole des combats écologistes en France, ouvrira ce vendredi 6 novembre. L’aller-retour coûtera 20,40 euros, un tarif parmi les plus élevés de France.",
       "source": "Libération",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.liberation.fr/environnement/a69-la-mise-en-service-de-lautoroute-controversee-est-prevue-ce-vendredi-avec-un-peage-a-un-prix-exorbitant-20261105_EKLMGGKHNJDPXGKTXBGRBYR5TA/",
       "published_at": "2026-11-05T20:57:15+00:00",
       "category": "Économie",
@@ -1786,7 +2083,7 @@
       "title": "Mobilisation du 5 novembre : Raphaël Glucksmann pris à partie dans le cortège parisien",
       "summary": "Mobilisation du 5 novembre : Raphaël Glucksmann pris à partie dans le cortège parisien",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.tf1info.fr/societe/videos/video-mobilisation-du-5-novembre-raphael-glucksmann-pris-a-partie-dans-le-cortege-parisien-41309-2474179.html",
       "published_at": "2026-11-05T20:55:11+00:00",
       "category": "Société",
@@ -1820,7 +2117,7 @@
       "title": "Produits locaux : pour vendre sa production, encore faut-il pouvoir la préparer et l’acheminer",
       "summary": "Pour Sébastien Dromigny, délégué spécial à la marque Produits en Ile-de-France, au bio et aux circuits courts, il est nécessaire de mettre en place une «proximité organisée» entre producteurs et consommateurs.",
       "source": "Libération",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.liberation.fr/forums/produits-locaux-pour-vendre-sa-production-encore-faut-il-pouvoir-la-preparer-et-lacheminer-20261105_2G6F5R7IHBAE5LRELVV7XNE4Q4/",
       "published_at": "2026-11-05T20:46:00+00:00",
       "category": "Médias & communication",
@@ -1836,7 +2133,7 @@
       "title": "Le chèque fait de la résistance",
       "summary": "Le chèque serait-il en voie de disparition ? À la caisse d'un supermarché de Douvres dans le Calvados, nous avons été témoins d'une scène particulièrement rare : un paiement par chèque pour régler des courses. Aujourd'hui, il représente moins de 2 % de nos transactions, contre 26 % il y a 20 ans. Pourtant, les Français restent encore les champions…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.tf1info.fr/conso/videos/video-le-cheque-fait-de-la-resistance-81497-2474175.html",
       "published_at": "2026-11-05T20:45:23+00:00",
       "category": "International",
@@ -1852,7 +2149,7 @@
       "title": "Nouveau TGV : pourquoi un tel succès",
       "summary": "Vendredi 6 novembre, avec deux ans de retard, le nouveau TGV M va assurer sa première liaison commerciale. Une petite révolution. Ses rames consomment beaucoup moins et transportent davantage de voyageurs. C’est le train à grande vitesse qui embarque le plus de passagers au monde. Résultat : 190 rames commandées, et pas seulement par la SNCF, mais aussi…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.tf1info.fr/transports/videos/video-nouveau-tgv-pourquoi-un-tel-succes-69225-2474177.html",
       "published_at": "2026-11-05T20:45:22+00:00",
       "category": "International",
@@ -1917,7 +2214,7 @@
       "title": "Fermeture du tunnel de Saint-Cloud sur l'A13 : l'A14 gratuite en semaine, les alternatives pour les automobilistes",
       "summary": "Le tunnel de Saint-Cloud, sur l'A13, fermera dans le sens Paris-province du 16 novembre 2026 au 31 août 2027. Le gouvernement a détaillé, jeudi 5 novembre, les mesures prévues pour les automobilistes. L'autoroute A14 sera notamment gratuite en semaine pendant toute la durée des travaux.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.tf1info.fr/transports/fermeture-du-tunnel-de-saint-cloud-sur-l-a13-l-a14-gratuite-en-semaine-les-alternatives-pour-les-automobilistes-2474152.html",
       "published_at": "2026-11-05T20:43:36+00:00",
       "category": "Politique",
@@ -1965,7 +2262,7 @@
       "title": "BFMTV en grève : « dénoncer le racisme n’est pas prendre parti », 400 journalistes et techniciens pointent « des dérives éditoriales »",
       "summary": "Des journalistes de BFMTV ont cessé le travail pour dénoncer la dégradation de l’image de la chaîne et réclamer des garanties de sécurité sur le terrain",
       "source": "Sud Ouest",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.sudouest.fr/culture/medias/bfmtv-en-greve-denoncer-le-racisme-n-est-pas-prendre-parti-400-journalistes-et-techniciens-pointent-des-derives-editoriales-31405223.php",
       "published_at": "2026-11-05T20:36:11+00:00",
       "category": "Médias & communication",
@@ -1981,7 +2278,7 @@
       "title": "Ils donnent tout pour recruter un boulanger !",
       "summary": "Si l'on regarde les chiffres, ils sont plutôt rassurants. Notre pays compte 35 000 boulangeries pour 35 000 communes. Mais dans de nombreux villages, la baguette ou les croissants les plus proches sont à dix kilomètres. Dans une localité près de Bergerac, en Dordogne, les 1 200 habitants ont tourné et diffusé des clips très drôles pour faire venir à eux…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.tf1info.fr/initiatives-positives/videos/video-ils-donnent-tout-pour-recruter-un-boulanger-67463-2474173.html",
       "published_at": "2026-11-05T20:35:15+00:00",
       "category": "Société",
@@ -1997,7 +2294,7 @@
       "title": "Etats-Unis : le gouverneur de Californie va accorder une grâce partielle aux 548 condamnés à mort son Etat",
       "summary": "Gavin Newsom a annoncé ce jeudi 5 novembre dans une lettre ouverte commuer la peine de mort de tous les détenus de son Etat. Celui qui quittera ses fonctions en fin d’année se rêve président du pays.",
       "source": "Libération",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM/",
       "published_at": "2026-11-05T20:34:58+00:00",
       "category": "Politique",
@@ -2045,7 +2342,7 @@
       "title": "Les automobilistes cibles des arnaqueurs",
       "summary": "Près de 40 millions de voitures circulent sur les routes de France. Pour les escrocs, cela représente autant de victimes potentielles. Contrôles techniques falsifiés, factures de remplacement de pare-brise gonflées, fausses annonces de véhicules d'occasion… Les pièges ne manquent pas. Pour éviter ces arnaques qui peuvent coûter très cher, mieux vaut…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/societe/videos/video-les-automobilistes-cibles-des-arnaqueurs-22386-2474171.html",
       "published_at": "2026-11-05T20:30:22+00:00",
       "category": "Société",
@@ -2061,7 +2358,7 @@
       "title": "« Vous allez assister à des batailles monstres » : dans une ambiance crépusculaire, les Maga se déchirent",
       "summary": "Le Secrétaire d’État, Marco Rubio (ici, à droite, le 1er novembre, lors d’un meeting à Salina, dans le Kansas), ne s’est pas exprimé depuis le suffrage, suscitant des rumeurs de départ.",
       "source": "Le Figaro",
-      "feed_rank": 7,
+      "feed_rank": 1,
       "url": "https://www.lefigaro.fr/international/vous-allez-assister-a-des-batailles-monstres-dans-une-ambiance-crepusculaire-les-maga-se-dechirent-20261105",
       "published_at": "2026-11-05T20:30:00+00:00",
       "category": "Société",
@@ -2112,7 +2409,7 @@
       "title": "Épisode méditerranéen : des rues inondées à Montpellier",
       "summary": "Météo-France a placé le Gard et l'Hérault en vigilance orange pour risque de pluie et d'inondation. C'est la conséquence de l'épisode méditerranéen qui balaye tout le sud-est de la France. Près de Montpellier, plusieurs routes ont été fermées à la circulation. En ville, il est tombé plus de 70 millimètres d'eau par endroits. Les pluies ont parfois été…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.tf1info.fr/meteo/videos/video-episode-mediterraneen-des-rues-inondees-a-montpellier-92787-2474167.html",
       "published_at": "2026-11-05T20:25:16+00:00",
       "category": "Économie",
@@ -2128,7 +2425,7 @@
       "title": "Pluies diluviennes : subite montée des eaux en Corse",
       "summary": "Depuis ce jeudi 5 novembre au matin, la Corse est en alerte orange pour risque de pluie et d'inondations. À Figari, il est tombé l'équivalent d'un mois et demi de pluie. En seulement quelques heures, une centaine d'habitants a dû être évacuée en urgence, notamment près de Porto-Vecchio, dans le sud de l'île. Plusieurs axes routiers ont également été…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.tf1info.fr/meteo/videos/video-pluies-diluviennes-subite-montee-des-eaux-en-corse-42058-2474169.html",
       "published_at": "2026-11-05T20:25:15+00:00",
       "category": "Environnement",
@@ -2144,7 +2441,7 @@
       "title": "EXCLUSIF - Plus de places, davantage économe : on vous embarque à bord du TGV M avant sa mise en service vendredi",
       "summary": "Ce vendredi 6 novembre, avec deux ans de retard, le tout nouveau TGV M va assurer sa première liaison commerciale entre Paris et Marseille. Une petite révolution, car ce train consomme 20% d'énergie en moins et transporte davantage de voyageurs. Une équipe de TF1 a pu monter à bord en exclusivité, quelques heures avant ce voyage inaugural.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.tf1info.fr/transports/exclusif-plus-spacieux-plus-confortable-plus-econome-on-vous-embarque-a-bord-du-tgv-m-avant-sa-mise-en-service-vendredi-2474144.html",
       "published_at": "2026-11-05T20:24:02+00:00",
       "category": "Environnement",
@@ -2240,7 +2537,7 @@
       "title": "Israël : la principale liste arabe soutient Eisenkot, celui-ci saura dimanche s’il est chargé par le président de former un gouvernement",
       "summary": "Alors que l’opposant à Nétanyahou accumule les soutiens, le président Isaac Herzog a déclaré ce jeudi 5 novembre qu’il désignera dimanche la personne chargée de mettre sur pied un gouvernement.",
       "source": "Libération",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-netanyahou-perd-le-soutien-dun-parti-ultra-orthodoxe-qui-le-soutenait-depuis-trente-ans-20261105_FMF2EQFJZZAP5KG3JQ2HOL36WU/",
       "published_at": "2026-11-05T20:15:17+00:00",
       "category": "Politique",
@@ -2272,7 +2569,7 @@
       "title": "«Late Loop» d’Andy Stott, joindre le subtil à l’agréable",
       "summary": "Plus exigu et ramassé que les précédents, le sixième album du musicien électronique britannique convoque inquiétude et ahurissante beauté.",
       "source": "Libération",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.liberation.fr/culture/musique/late-loop-dandy-stott-joindre-le-subtil-a-lagreable-20261105_3RZQPM3O6BDRZMKYPO3CIGSRLA/",
       "published_at": "2026-11-05T20:14:00+00:00",
       "category": "Société",
@@ -2288,7 +2585,7 @@
       "title": "Mobilisation du 5 novembre : 575.000 manifestants selon le ministère de l'Intérieur, trois fois plus pour la CGT",
       "summary": "Les cortèges ont été abondamment garnis partout en France, jeudi 5 novembre, lors de la journée de mobilisation du 5 novembre. Le ministère de l'Intérieur a dénombré 575.000 manifestants, dont 65.000 à Paris. De son côté, la CGT a recensé 1,6 million de personnes qui ont battu le pavé, dont 350.000 dans la capitale.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.tf1info.fr/societe/mobilisation-du-5-novembre-575-000-manifestants-selon-le-ministere-de-l-interieur-trois-fois-plus-pour-la-cgt-2474160.html",
       "published_at": "2026-11-05T20:12:31+00:00",
       "category": "Société",
@@ -2320,7 +2617,7 @@
       "title": "Contre la vie chère et l’éducation au rabais, des mobilisations à l’unisson",
       "summary": "Les manifestations massives de jeudi 5 novembre, qui ont brassé différentes générations et classes sociales, ont ravivé un collectif que l’on croyait perdu.",
       "source": "Libération",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.liberation.fr/idees-et-debats/contre-la-vie-chere-et-leducation-au-rabais-des-mobilisations-a-lunisson-20261105_67QESQFY4BFZHABS4PLEZFPQLM/",
       "published_at": "2026-11-05T20:09:20+00:00",
       "category": "Société",
@@ -2352,7 +2649,7 @@
       "title": "Elon Musk pense que le fondateur de Google a raison : des machines capables de se répliquer pourraient explorer la Galaxie dès 2100 !",
       "summary": "Elon Musk est un habitué des prédictions fracassantes, dont quelques-unes se sont réalisées et d'autres non. Cette fois-ci, l'une de ses dernières idées va dans le sens d'une déclaration de Larry Page, l'un des hommes à l'origine de la révolution Google. Page et Musk pensent qu'une technologie...",
       "source": "Futura",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.futura-sciences.com/sciences/actualites/exploration-spatiale-elon-musk-pense-fondateur-google-raison-machines-capables-repliquer-pourraient-explorer-galaxie-2100-139067/#xtor%3DRSS-8",
       "published_at": "2026-11-05T20:07:49+00:00",
       "category": "Sciences & tech",
@@ -2364,11 +2661,27 @@
       "mention_count": 1
     },
     {
+      "id": "ea00d4a22993",
+      "title": "« Chronique d’un féminicide annoncé »… Dans le Gers, un homme de 76 ans condamné à trente ans de réclusion pour avoir tué son ex-conjointe",
+      "summary": "Le 3 août 2023, après avoir percuté à deux reprises son ex-conjointe avec son véhicule à Préchac-sur-Adour, il avait tenté de se tirer dessus avec une carabine",
+      "source": "Sud Ouest",
+      "feed_rank": 8,
+      "url": "https://www.sudouest.fr/justice/chronique-d-un-feminicide-annonce-dans-le-gers-un-homme-de-76-ans-condamne-a-trente-ans-de-reclusion-pour-avoir-tue-son-ex-conjointe-31405019.php",
+      "published_at": "2026-11-05T20:07:24+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Chronique d’un féminicide annoncé »… Dans le Gers, un homme de 76 ans condamné à trente ans de réclusion pour avoir tué son ex-conjointe ».",
+      "coverage_sources": [
+        "Sud Ouest"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "f74a1cfaddbb",
       "title": "Midterms : la difficile introspection des républicains dans l’ombre de Donald Trump",
       "summary": "Alors que le Président se dédouane de toute responsabilité dans la défaite électorale, son parti tente de faire le point pour se préparer en vue de la prochaine présidentielle. Sans oser s’attaquer à son grand chef.",
       "source": "Libération",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.liberation.fr/international/amerique/midterms-la-difficile-introspection-des-republicains-dans-lombre-de-donald-trump-20261105_ECWPUKJG6BBFVPNBGETSI7ZT5M/",
       "published_at": "2026-11-05T20:07:17+00:00",
       "category": "Politique",
@@ -2392,19 +2705,20 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
+        "Le Monde",
         "BFMTV",
         "CNews",
         "Libération"
       ],
-      "coverage_count": 5,
-      "mention_count": 5
+      "coverage_count": 6,
+      "mention_count": 6
     },
     {
       "id": "6d55c5265a71",
       "title": "Mobilisation du 5 novembre : cerné, l’exécutif joue la carte syndicale",
       "summary": "Vantant soudain les vertus de la démocratie sociale dans une tentative de canaliser les frustrations, le gouvernement a annoncé, ce jeudi, la tenue d’une conférence, lundi 9 novembre, sur le pouvoir d’achat et les salaires avec les partenaires sociaux.",
       "source": "Libération",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.liberation.fr/politique/mobilisation-du-5-novembre-cerne-lexecutif-joue-la-carte-syndicale-20261105_OR7PGJ7VZ5FCFBWPBFGWDLZO5E/",
       "published_at": "2026-11-05T20:06:14+00:00",
       "category": "Politique",
@@ -2436,7 +2750,7 @@
       "title": "Leonard Cohen, murmures éternels : Leonard Cohen, les trésors des dernières années, deuxième partie",
       "summary": "\"Treaty\", \"The Goal\", \"Happens to the Heart\", Michka Assayas poursuit son exploration des ultimes années de Leonard Cohen. De \"Popular Problems\" à \"Thanks for the Dance\", en passant par \"You Want It Darker\", dix chansons d’un artiste face à l’ultime, entre ironie, gravité et tendresse.",
       "source": "France Inter",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/very-good-trip/very-good-trip-du-jeudi-05-novembre-2026-2412057",
       "published_at": "2026-11-05T20:04:50+00:00",
       "category": "Culture",
@@ -2468,7 +2782,7 @@
       "title": "LCI Direct du jeudi 5 novembre 2026",
       "summary": "Au sommaire : Salariés, fonctionnaires, lycéens, tous dans la rue. Paris : défilé dans le calme, dispositif massif. Paris : des manifestations de République à Nation.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.tf1info.fr/replay-lci/videos/video-lci-direct-du-jeudi-5-novembre-2026-2474162.html",
       "published_at": "2026-11-05T20:04:00+00:00",
       "category": "Société",
@@ -2484,7 +2798,7 @@
       "title": "Météo du 5 novembre 2026 : Prévisions météo à 21h00",
       "summary": "Météo du jeudi 5 novembre 2026 à 21h00 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du jeudi 5 novembre 2026 à 21h00 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-5-novembre-2026-previsions-meteo-a-21h00-2474161.html",
       "published_at": "2026-11-05T20:02:17+00:00",
       "category": "Société",
@@ -2516,7 +2830,7 @@
       "title": "Football : Olivier Létang, président du LOSC, suspendu quatre mois ferme pour ses propos contre les arbitres",
       "summary": "Le président du LOSC, Olivier Létang, a été suspendu quatre mois ferme, jeudi 5 novembre, par la commission d'appel de la Fédération française de football. Il lui est reproché ses propos contre le corps arbitral après le match nul entre Lille et le PSG (2-2), le 28 août dernier. Le dirigeant des \"Dogues\" a réagi, déclarant vouloir engager \"toutes les…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.tf1info.fr/sport/football-olivier-letang-president-du-losc-suspendu-quatre-mois-ferme-pour-ses-propos-contre-les-arbitres-2474145.html",
       "published_at": "2026-11-05T20:01:50+00:00",
       "category": "Politique",
@@ -2549,7 +2863,7 @@
       "title": "Alertes à la bombe : près de 30 avions ciblés",
       "summary": "Ces derniers temps, le trafic aérien européen a été perturbé par une série de fausses alertes à la bombe. Ce jeudi matin, un avion qui reliait Dublin à Rome a dû atterrir en urgence sur la base aérienne d'Évreux. Il était escorté par deux chasseurs de l'armée de l'air. Le comportement du pilote irlandais a déclenché l'ouverture d'une enquête en France.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.tf1info.fr/international/videos/video-alertes-a-la-bombe-pres-de-30-avions-cibles-54984-2474159.html",
       "published_at": "2026-11-05T20:00:23+00:00",
       "category": "Sciences & tech",
@@ -2567,7 +2881,7 @@
       "title": "Les femmes sont plus touchées que les hommes par les troubles dépressifs et anxieux et cette inégalité commence dès l'adolescence",
       "summary": "Les femmes sont plus touchées par la dépression, avec un écart qui apparaît dès la puberté. Le rapport du Haut Conseil à l'Égalité (HCE) entre les femmes et les hommes souligne l'impact des violences sexistes, de la précarité et des normes de genre. Les réseaux sociaux amplifient ces troubles via des injonctions et des comparaisons sociales.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/sante/sante-mentale-les-femmes-sont-plus-touchees-que-les-hommes-par-les-troubles-depressifs-et-anxieux-et-cette-inegalite-commence-des-l-adolescence-2473867.html",
       "published_at": "2026-11-05T20:00:15+00:00",
       "category": "Médias & communication",
@@ -2622,22 +2936,6 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Les syndicats et la gauche se voient en position de force après le 5 novembre : « La question, c’est “combien va-t-on gagner ?” » ».",
       "coverage_sources": [
         "L'Obs"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2e018209d193",
-      "title": "Lycéens en colère : les parents mobilisés",
-      "summary": "Dans les cortèges, ce jeudi 5 novembre, il y avait de très nombreux lycéens, parfois accompagnés de leurs parents venus soutenir leur revendication. Depuis plusieurs jours, d'autres parents se rendent devant les lycées pour inciter leurs enfants à retourner en cours et à empêcher les blocus. Aujourd'hui, 81 établissements étaient encore bloqués. Une…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/societe/videos/video-lyceens-en-colere-les-parents-mobilises-26396-2474154.html",
-      "published_at": "2026-11-05T19:55:15+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Lycéens en colère : les parents mobilisés ».",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2711,7 +3009,7 @@
       "title": "En Bolivie, le président de la Cour suprême prend la fuite",
       "summary": "Le président de la Cour suprême bolivienne, Romer Saucedo, a quitté le pays andin en se disant victime de persécution politique, alors qu’un mandat d’arrêt pour narcotrafic a été émis contre lui. La presse locale dénonce les contradictions dans cette affaire, sans trancher sur le fond.",
       "source": "Courrier International",
-      "feed_rank": 1,
+      "feed_rank": 6,
       "url": "https://www.courrierinternational.com/article/politique-en-bolivie-le-president-de-la-cour-supreme-prend-la-fuite_285287",
       "published_at": "2026-11-05T19:43:34+00:00",
       "category": "Politique",
@@ -2727,7 +3025,7 @@
       "title": "Avec la vaste mobilisation du 5 novembre en France, “la rue maintient la pression”",
       "summary": "Des centaines de milliers de personnes ont manifesté ce jeudi 5 novembre dans ce qui aura été “la plus grande journée de mobilisation” depuis le début du mouvement de contestation de cet automne, constate la presse étrangère. Sébastien Lecornu a annoncé la tenue d’une “conférence sociale” lundi pour tenter de trouver une sortie de crise.",
       "source": "Courrier International",
-      "feed_rank": 2,
+      "feed_rank": 7,
       "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-avec-la-vaste-mobilisation-du-5-novembre-en-france-la-rue-maintient-la-pression_285303",
       "published_at": "2026-11-05T19:43:27+00:00",
       "category": "Société",
@@ -2814,22 +3112,6 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Lycée Paul-Éluard: des professeurs sous enquête administrative après l’interpellation d’un élève ».",
       "coverage_sources": [
         "Mediapart"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ab4e2d4ee95d",
-      "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "summary": "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers.",
-      "source": "Le Monde",
-      "feed_rank": 1,
-      "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
-      "published_at": "2026-11-05T19:35:36+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2937,7 +3219,7 @@
       "title": "Turquie : un homme tue au moins huit personnes dans une zone rurale de l’ouest du pays",
       "summary": "Le tireur a ouvert le feu ce jeudi 5 novembre dans trois villages distincts avant de prendre la fuite à pied. Il est toujours recherché et ses motivations sont inconnues.",
       "source": "Libération",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.liberation.fr/international/europe/turquie-un-homme-tue-au-moins-huit-personnes-dans-une-zone-rurale-de-louest-du-pays-20261105_ZQLQP4TJSRH3XJWVRW3LWIOSRE/",
       "published_at": "2026-11-05T19:26:20+00:00",
       "category": "Sciences & tech",
@@ -3017,7 +3299,7 @@
       "title": "Présidentielle 2027 : pourquoi la gauche a tort de voir dans la défaite de Donald Trump un mauvais présage pour Marine Le Pen",
       "summary": "ANALYSE - Socialistes, écologistes et Insoumis voient dans le raz-de-marée démocrate aux « midterms » un signal encourageant pour la présidentielle, au point d’imaginer un échec du RN, pourtant largement donné gagnant. Un parallèle trompeur.",
       "source": "Le Figaro",
-      "feed_rank": 4,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-la-gauche-a-tort-de-voir-dans-la-defaite-de-donald-trump-un-mauvais-presage-pour-marine-le-pen-20261105",
       "published_at": "2026-11-05T19:17:53+00:00",
       "category": "Société",
@@ -3049,7 +3331,7 @@
       "title": "«Pour lui, la difficulté va être de se démarquer de Donald Trump» : la partition délicate de JD Vance après la défaite républicaine",
       "summary": "DÉCRYPTAGE - Dans un long mea-culpa partagé sur les réseaux sociaux, le vice-président américain a mis la déroute des républicains aux Midterms sur le compte de la guerre en Iran.",
       "source": "Le Figaro",
-      "feed_rank": 9,
+      "feed_rank": 3,
       "url": "https://www.lefigaro.fr/international/pour-lui-la-difficulte-va-etre-de-se-demarquer-de-donald-trump-la-partition-delicate-de-jd-vance-apres-la-defaite-republicaine-20261105",
       "published_at": "2026-11-05T19:15:00+00:00",
       "category": "Médias & communication",
@@ -3104,6 +3386,22 @@
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football : Luca Zidane écarté par le nouveau sélectionneur de l’équipe d’Algérie ».",
       "coverage_sources": [
         "CNews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4da8bd099769",
+      "title": "LGV Bordeaux-Toulouse et Bordeaux-Dax : feu vert de SNCF Réseau au lancement des appels d’offres « d’ici à la fin de l’année »",
+      "summary": "Le suivi des coûts, des délais et la coordination seront réalisés par la Société du Grand Projet Sud Ouest (SGPSO) où sont réunis tous les financeurs",
+      "source": "Sud Ouest",
+      "feed_rank": 9,
+      "url": "https://www.sudouest.fr/economie/lgv/lgv-bordeaux-toulouse-et-bordeaux-dax-feu-vert-de-sncf-reseau-au-lancement-des-appels-d-offres-d-ici-a-la-fin-de-l-annee-31403922.php",
+      "published_at": "2026-11-05T19:12:34+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « LGV Bordeaux-Toulouse et Bordeaux-Dax : feu vert de SNCF Réseau au lancement des appels d’offres « d’ici à la fin de l’année » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Sud Ouest"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3177,7 +3475,7 @@
       "title": "Pourquoi les chevaliers, ça n'existe qu'à l'époque des rois ?",
       "summary": "Vêtus d'une tenue en métal, montant un puissant cheval au milieu du bruit et de la poussière d'un champ de bataille, les chevaliers continuent de nous faire rêver à travers les films et les romans, et Armelle, 4 ans, se demande pourquoi ils n'ont existé qu'à l'époque des rois et plus aujourd'hui ?",
       "source": "France Inter",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-jeudi-05-novembre-2026-6404041",
       "published_at": "2026-11-05T19:05:40+00:00",
       "category": "Culture",
@@ -3193,7 +3491,7 @@
       "title": "Binance : les coulisses du casse du siècle de 6,3 milliards révèlent un piège digne d'un film d'espionnage !",
       "summary": "La Corée du Nord est soupçonnée d’être derrière le plus gros piratage de cryptomonnaies de l’histoire. Mais comment les cybercriminels ont-ils réussi à dérober plusieurs milliards de dollars à Binance ? La plateforme a dévoilé les coulisses de cette attaque, qui révèle des failles de sécurité...",
       "source": "Futura",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.futura-sciences.com/tech/actualites/cyberattaque-binance-coulisses-vol-historique-63-milliards-revelent-piege-digne-film-espionnage-139115/#xtor%3DRSS-8",
       "published_at": "2026-11-05T19:03:53+00:00",
       "category": "Culture",
@@ -3232,22 +3530,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Mort de Marie-Lou après avoir consommé des morilles : des champignons parfois toxiques et souvent importés… Pourquoi il faut être vigilant » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1d3165554550",
-      "title": "En Irak, petites mains et figures du djihadisme français passent en jugement",
-      "summary": "Parmi les 47 ressortissants français transférés depuis la Syrie et jugés par la justice irakienne à Bagdad pour appartenance à l’organisation Etat islamique figurent des vétérans du djihadisme hexagonal, à l’image de Thomas Collange.",
-      "source": "Le Monde",
-      "feed_rank": 6,
-      "url": "https://www.lemonde.fr/international/article/2026/11/05/en-irak-petites-mains-et-figures-du-djihadisme-francais-passent-en-jugement_6807335_3210.html",
-      "published_at": "2026-11-05T19:00:10+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « En Irak, petites mains et figures du djihadisme français passent en jugement ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3322,7 +3604,7 @@
       "title": "Ligue Conférence: Monaco continue de briller sur la scène européenne en dominant Nordsjælland",
       "summary": "Sans briller, Monaco est parvenu à faire craquer la défense de Nordsjaelland ce jeudi 5 novembre grâce à des buts de Mathys Detourbet et Matthis Abline (2-0). Invaincus en Ligue Conférence, les Monégasques enchaînent une troisième victoire consécutive sur la scène européenne. Revivez ce match.",
       "source": "BFMTV",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://rmcsport.bfmtv.com/football/europa-league/direct-monaco-nordsj-lland-suivez-en-live-le-match-de-la-3e-journee-de-ligue-conference_LS-202611050756.html",
       "published_at": "2026-11-05T18:57:45+00:00",
       "category": "Sport",
@@ -3467,7 +3749,7 @@
       "title": "«Ils sont usés et laminés» : face aux violences, plusieurs dizaines de proviseurs envisagent de quitter leurs fonctions",
       "summary": "Depuis le début du mouvement lycéen, plus de 200 personnels de l’Éducation nationale ont été blessés. À ces agressions s’ajoutent une surcharge de travail et un manque chronique de moyens, qui alimentent un profond malaise chez les personnels de direction.",
       "source": "Le Figaro",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lefigaro.fr/actualite-france/ils-sont-uses-et-lamines-face-aux-violences-plusieurs-dizaines-de-proviseurs-envisagent-de-quitter-leurs-fonctions-20261105",
       "published_at": "2026-11-05T18:45:15+00:00",
       "category": "Société",
@@ -3515,7 +3797,7 @@
       "title": "Blocages dans les lycées : entre les chiffres du gouvernement et ceux des syndicats, comment expliquer un tel écart ?",
       "summary": "Ce jeudi 5 novembre, jour de grève pour le pouvoir d'achat, des dizaines de lycées étaient toujours bloqués. L'Union syndicale des lycéens a estimé que 1 000 établissements étaient à l'arrêt. Le gouvernement, lui, n'en a compté que 80. Décryptage des méthodes de comptage.",
       "source": "France Inter",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/blocage-dans-les-lycees-entre-les-chiffres-du-gouvernement-et-ceux-des-syndicats-comment-expliquer-ecart-2823740",
       "published_at": "2026-11-05T18:40:00+00:00",
       "category": "Politique",
@@ -3575,22 +3857,6 @@
       "mention_count": 1
     },
     {
-      "id": "513469bc1ac7",
-      "title": "Alertes à la bombe, attaques cyber, survols de drones : la guerre hybride s’intensifie en Europe",
-      "summary": "DÉCRYPTAGE - Plus d’une vingtaine de vols commerciaux ont été déroutés jeudi. Les auteurs sont inconnus. Mais les incidents interrogent dans un contexte d’agressivité croissante de la Russie.",
-      "source": "Le Figaro",
-      "feed_rank": 18,
-      "url": "https://www.lefigaro.fr/international/alertes-a-la-bombe-attaques-cyber-survols-de-drones-la-guerre-hybride-s-intensifie-en-europe-20261105",
-      "published_at": "2026-11-05T18:36:22+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Alertes à la bombe, attaques cyber, survols de drones : la guerre hybride s’intensifie en Europe ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "f6bc341f6611",
       "title": "Turquie : huit morts dans des fusillades, vaste chasse à l’homme pour retrouver le suspect",
       "summary": "Dans le district d'İhsaniye, dans l'ouest de la Turquie, des attaques armées menées jeudi en trois lieux ont fait huit morts et un blessé grave. Parmi les victimes figurent deux enseignants.",
@@ -3643,7 +3909,7 @@
       "title": "“Ninho : le prix à payer”, sur Netflix : dans l’intimité de la star du rap français à la carrière fulgurante",
       "summary": "Réalisé par Thibaut de Longeville et Yanis Tiliouine, le documentaire évoque les succès de Ninho, mais aussi ses revers. Un récit incarné, qui permet de mieux connaître ce rappeur très discret.",
       "source": "Télérama",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.telerama.fr/television/ninho-le-prix-a-payer-sur-netflix-dans-l-intimite-de-la-star-du-rap-francais-a-la-carriere-fulgurante_cri-7046708.php",
       "published_at": "2026-11-05T18:32:01+00:00",
       "category": "Économie",
@@ -3707,7 +3973,7 @@
       "title": "Charles-Edouard Ferrière (Index Exchange) : « La curation permet de repenser différemment les plans médias »",
       "summary": "Charles-Edouard Ferrière (Index Exchange) : « La curation permet de repenser différemment les plans médias » Charles-Edouard Ferrière (Index Exchange) : « La curation permet de repenser différemment les plans médias » echaronnat jeu 05/11/2026 - 19:30 Médias",
       "source": "CB News",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.cbnews.fr/medias/charles-edouard-ferriere-index-exchange-curation-permet-repenser-differemment-les-plans",
       "published_at": "2026-11-05T18:30:07+00:00",
       "category": "Médias & communication",
@@ -3755,7 +4021,7 @@
       "title": "Audiens et l’UMICC lancent un assistant IA pour accompagner les créateurs de contenu",
       "summary": "Audiens et l’UMICC lancent un assistant IA pour accompagner les créateurs de contenu Audiens et l’UMICC lancent un assistant IA pour accompagner les créateurs de contenu thierry.wojciak jeu 05/11/2026 - 19:29 Conseil",
       "source": "CB News",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.cbnews.fr/conseil/audiens-umicc-lancent-assistant-ia-accompagner-les-createurs-contenu",
       "published_at": "2026-11-05T18:29:56+00:00",
       "category": "Sciences & tech",
@@ -3771,7 +4037,7 @@
       "title": "Bleu Libellule et Wonderful ouvrent la conversation autour de la beauté",
       "summary": "Bleu Libellule et Wonderful ouvrent la conversation autour de la beauté Bleu Libellule et Wonderful ouvrent la conversation autour de la beauté thierry.wojciak jeu 05/11/2026 - 19:29 Marques",
       "source": "CB News",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.cbnews.fr/marques/bleu-libellule-wonderful-ouvrent-conversation-autour-beaute",
       "published_at": "2026-11-05T18:29:44+00:00",
       "category": "Médias & communication",
@@ -3787,7 +4053,7 @@
       "title": "L’Apec confie sa stratégie de communication publicitaire à Insign",
       "summary": "L’Apec confie sa stratégie de communication publicitaire à Insign L’Apec confie sa stratégie de communication publicitaire à Insign thierry.wojciak jeu 05/11/2026 - 19:29 Conseil",
       "source": "CB News",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.cbnews.fr/conseil/apec-confie-sa-strategie-communication-publicitaire-insign",
       "published_at": "2026-11-05T18:29:31+00:00",
       "category": "Médias & communication",
@@ -3803,7 +4069,7 @@
       "title": "Orange et Publicis Conseil décryptent les codes du cyberharcèlement",
       "summary": "Orange et Publicis Conseil décryptent les codes du cyberharcèlement Orange et Publicis Conseil décryptent les codes du cyberharcèlement thierry.wojciak jeu 05/11/2026 - 19:29 Marques",
       "source": "CB News",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.cbnews.fr/marques/orange-publicis-conseil-decryptent-les-codes-du-cyberharcelement",
       "published_at": "2026-11-05T18:29:21+00:00",
       "category": "Médias & communication",
@@ -3819,7 +4085,7 @@
       "title": "La Bonne Mère prend soin des siens",
       "summary": "La Bonne Mère prend soin des siens La Bonne Mère prend soin des siens thierry.wojciak jeu 05/11/2026 - 19:29 Marques",
       "source": "CB News",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.cbnews.fr/marques/bonne-mere-prend-soin-siens",
       "published_at": "2026-11-05T18:29:12+00:00",
       "category": "Médias & communication",
@@ -3835,7 +4101,7 @@
       "title": "dps renforce sa direction avec trois nominations",
       "summary": "dps renforce sa direction avec trois nominations dps renforce sa direction avec trois nominations thierry.wojciak jeu 05/11/2026 - 19:29 Mouvements",
       "source": "CB News",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.cbnews.fr/mouvements/dps-renforce-sa-direction-avec-trois-nominations",
       "published_at": "2026-11-05T18:29:01+00:00",
       "category": "Société",
@@ -3851,7 +4117,7 @@
       "title": "Coopérative U reconduit Heroiks pour son budget média",
       "summary": "Coopérative U reconduit Heroiks pour son budget média Coopérative U reconduit Heroiks pour son budget média thierry.wojciak jeu 05/11/2026 - 19:28 Conseil",
       "source": "CB News",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.cbnews.fr/conseil/cooperative-u-reconduit-heroiks-son-budget-media",
       "published_at": "2026-11-05T18:28:42+00:00",
       "category": "Médias & communication",
@@ -3867,27 +4133,11 @@
       "title": "Quand le bébé devient une machine à cash avec CIC",
       "summary": "Quand le bébé devient une machine à cash avec CIC Quand le bébé devient une machine à cash avec CIC thierry.wojciak jeu 05/11/2026 - 19:28 Marques",
       "source": "CB News",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.cbnews.fr/marques/quand-bebe-devient-machine-cash-avec-cic",
       "published_at": "2026-11-05T18:28:33+00:00",
       "category": "Médias & communication",
       "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Quand le bébé devient une machine à cash avec CIC » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "CB News"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cb13dca06108",
-      "title": "AI Overviews : 87% des 18-34 ans jugent les réponses générées par l’IA utiles",
-      "summary": "AI Overviews : 87% des 18-34 ans jugent les réponses générées par l’IA utiles AI Overviews : 87% des 18-34 ans jugent les réponses générées par l’IA utiles thierry.wojciak jeu 05/11/2026 - 19:28 Etudes",
-      "source": "CB News",
-      "feed_rank": 10,
-      "url": "https://www.cbnews.fr/etudes/ai-overviews-87-18-34-ans-jugent-les-reponses-generees-ia-utiles",
-      "published_at": "2026-11-05T18:28:24+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « AI Overviews : 87% des 18-34 ans jugent les réponses générées par l’IA utiles » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "CB News"
       ],
@@ -3997,7 +4247,7 @@
       "title": "Manifestation du 5 novembre : comment évolue le pouvoir d’achat des Français, revendication au cœur des mobilisations de cet automne ?",
       "summary": "Plusieurs centaines de milliers de personnes ont défilé, ce jeudi, « contre la vie chère ». Que disent les chiffres sur la situation du pouvoir d’achat en France ?",
       "source": "Sud Ouest",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.sudouest.fr/economie/achat/manifestation-du-5-novembre-comment-evolue-le-pouvoir-d-achat-des-francais-revendication-au-coeur-des-mobilisations-de-cet-automne-31402813.php",
       "published_at": "2026-11-05T18:20:30+00:00",
       "category": "Société",
@@ -4029,7 +4279,7 @@
       "title": "Après les mobilisations du 5 novembre, quelles réponses politiques ? Le dialogue social est-il encore possible ?",
       "summary": "Ce jeudi, la journée de manifestation a rassemblé pres de 600,000 personnes, contre la vie chère et pour de meilleurs salaires. Après un automne de mobilisations et avec l’élection présidentielle qui arrive à grands pas, les attentes trouveront-elles une réponse ?",
       "source": "France Inter",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-jeudi-05-novembre-2026-1521821",
       "published_at": "2026-11-05T18:19:00+00:00",
       "category": "Politique",
@@ -4061,7 +4311,7 @@
       "title": "Un rassemblement de Glucksmann à Lisnard : pourquoi Emmanuel Macron s'est-il mis dans cette galère ?",
       "summary": "Pas un pour rattraper l'autre. Il est peu dire qu'Emmanuel Macron ne miserait pas un pognon de dingue sur une victoire d' Edouard Philippe , de Gabriel Attal ou bien encore de Bruno Retailleau en mai prochain. Peut-être même pas quelques centimes, désormais, sur leur qualification au second tour. Il y a quelques semaines, lors d'un déplacement en…",
       "source": "L'Express",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.lexpress.fr/politique/un-rassemblement-de-glucksmann-a-lisnard-pourquoi-emmanuel-macron-sest-il-mis-dans-cette-galere-SMJUFMOH5JD6HK25AJUXBEPACA/",
       "published_at": "2026-11-05T18:17:32+00:00",
       "category": "Société",
@@ -4157,7 +4407,7 @@
       "title": "Avion Dublin-Rome dérouté à Évreux : un groupe masculiniste italien derrière l'alerte à la bombe",
       "summary": "Un vol entre Dublin et Rome, opéré par la compagnie Aer Lingus, a été dérouté à Évreux ce jeudi matin, après une alerte à la bombe, revendiquée par un groupe masculiniste italien.",
       "source": "France Inter",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/avion-dublin-rome-deroute-a-evreux-un-groupe-masculiniste-derriere-l-alerte-a-la-bombe-6074443",
       "published_at": "2026-11-05T18:10:00+00:00",
       "category": "Société",
@@ -4254,7 +4504,7 @@
       "title": "Train en Nouvelle-Aquitaine : chantiers et interruptions de lignes TER, ce qui attend les voyageurs d’ici décembre",
       "summary": "De gros chantiers sont en cours sur le réseau TER en Nouvelle-Aquitaine jusqu’à la fin de l’année. La SNCF invite les usagers à vérifier leurs trajets et à reporter leurs voyages, si possible",
       "source": "Sud Ouest",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.sudouest.fr/economie/transports/train-en-nouvelle-aquitaine-chantiers-et-interruptions-de-lignes-ter-ce-qui-attend-les-voyageurs-d-ici-decembre-31402569.php",
       "published_at": "2026-11-05T18:04:09+00:00",
       "category": "Société",
@@ -4270,7 +4520,7 @@
       "title": "«S’il y a des militants politiques qui sont hostiles, je m’en fous» : Raphaël Glucksmann présent à la manifestation mais forcé par la police à rebrousser chemin",
       "summary": "Le candidat du PS et de Place publique s’est rendu au départ du cortège parisien, ce jeudi 5 novembre, sans pouvoir défiler, en raison de la présence de black blocs, selon son équipe de campagne.",
       "source": "Libération",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.liberation.fr/politique/sil-y-a-des-militants-politiques-qui-sont-hostiles-je-men-fous-raphael-glucksmann-present-a-la-manifestation-mais-force-de-rebrousser-chemin-20261105_JDBBQPL6ABGCTG4VLDMIKM5CJM/",
       "published_at": "2026-11-05T18:04:01+00:00",
       "category": "Politique",
@@ -4350,7 +4600,7 @@
       "title": "Midterms aux États-Unis : Donald Trump se plaint du dénouement dans l’Alaska, les démocrates aux portes d’une prise spectaculaire dans le Mississippi",
       "summary": "Plusieurs États américains sont toujours dans l’attente du résultat des élections de mi-mandat. Dans le Mississippi, les démocrates mènent actuellement le décompte des voix, d’une courte tête",
       "source": "Sud Ouest",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.sudouest.fr/international/etats-unis/midterms-aux-etats-unis-donald-trump-se-plaint-du-denouement-dans-l-alaska-les-democrates-aux-portes-d-une-prise-spectaculaire-dans-le-mississippi-31401927.php",
       "published_at": "2026-11-05T18:02:48+00:00",
       "category": "Politique",
@@ -4366,7 +4616,7 @@
       "title": "Ben Whishaw en cinq rôles mémorables, de “Bright Star” à “This Is Going to Hurt”",
       "summary": "Dans la saison 2 de “Black Doves”, disponible sur Netflix, il incarne un tueur à gages mélancolique. Et lui donne, comme à chaque fois, une saveur romanesque et une profondeur existentielle. La preuve en cinq rôles.",
       "source": "Télérama",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.telerama.fr/series-tv/ben-whishaw-en-cinq-roles-memorables-de-bright-star-a-this-is-going-to-hurt-7033731.php",
       "published_at": "2026-11-05T18:02:01+00:00",
       "category": "Société",
@@ -4494,7 +4744,7 @@
       "title": "Donald Trump et Benyamin Netanyahou, la tentation de la fuite en avant nucléaire, par Gilles Kepel",
       "summary": "La séquence électorale israélienne et américaine s’achève sur les défaites respectives du camp de Benyamin Netanyahou comme celui de Donald Trump . Mais dans l’un et l’autre cas, elles ne sont pas complètes. Netanyahou voit son parti, le Likoud, arriver en première place, sans que sa coalition obtienne de majorité. Les 19 députés élus à la Knesset (sur…",
       "source": "L'Express",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.lexpress.fr/idees-et-debats/donald-trump-et-benyamin-netanyahou-la-tentation-de-la-fuite-en-avant-nucleaire-par-gilles-kepel-CHNIMZSHQNDJXDIN7ZRF3WEDLA/",
       "published_at": "2026-11-05T18:00:00+00:00",
       "category": "Société",
@@ -4607,7 +4857,7 @@
       "title": "Colère sociale : une forte mobilisation pour ce « jeudi noir » tant redouté par les autorités",
       "summary": "RÉCIT - Plus de 600.000 manifestants ont répondu à l’appel de l’intersyndicale, selon le ministère de l’Intérieur. Soit le plus fort taux de participation depuis le début du mouvement lycéen.",
       "source": "Le Figaro",
-      "feed_rank": 13,
+      "feed_rank": 11,
       "url": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-forte-mobilisation-pour-ce-jeudi-noir-tant-redoute-par-les-autorites-20261105",
       "published_at": "2026-11-05T17:52:33+00:00",
       "category": "Société",
@@ -4836,7 +5086,7 @@
       "title": "En RDC : « Au début, je pensais qu’Ebola c’était du business, le gouvernement qui cherchait à gagner de l’argent »",
       "summary": "En République Démocratique du Congo, après six mois d’épidémie, le pays compte plus de 10 000 contaminations. Dans l’est du pays, les soignants et les humanitaires se heurtent à la défiance de la population qui doutent encore de l’existence de la maladie.",
       "source": "France Inter",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-05-novembre-2026-3369693",
       "published_at": "2026-11-05T17:41:26+00:00",
       "category": "Politique",
@@ -4998,7 +5248,7 @@
       "title": "Manifestations massives, députés communistes qui rejoignent Mélenchon, avions déroutés… L’actu de ce jeudi 5 novembre",
       "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 5 novembre.",
       "source": "Libération",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://www.liberation.fr/international/europe/manifestations-massives-deputes-communistes-qui-rejoignent-melenchon-avions-deroutes-lactu-de-ce-jeudi-5-novembre-20261105_YOF2MM3FNZEMBGIBTW6PKGCYEE/",
       "published_at": "2026-11-05T17:33:33+00:00",
       "category": "Politique",
@@ -5030,7 +5280,7 @@
       "title": "Autoroute A69 : la mise en service prévue vendredi sur fond de polémique sur les tarifs, l’aller-retour Toulouse-castres toujours à plus de 20 euros",
       "summary": "La mise en service de l’autoroute A69 reliant Toulouse à Castres est programmée pour ce vendredi, sous réserve du feu vert de l’État, alors que le prix du péage suscite une vive colère chez les élus locaux",
       "source": "Sud Ouest",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.sudouest.fr/economie/transports/autoroute-a69-la-mise-en-service-prevue-vendredi-sur-fond-de-polemique-sur-les-tarifs-l-aller-retour-toulouse-castres-toujours-a-plus-de-20-euros-31401603.php",
       "published_at": "2026-11-05T17:32:56+00:00",
       "category": "Économie",
@@ -5078,7 +5328,7 @@
       "title": "“Black Doves”, sur Netflix : les espions Keira Knightley et Ben Whishaw reviennent pour une saison 2 tragiquement romantique",
       "summary": "Scènes de tueries cartoonesques, nostalgie ténébreuse et humour cinglant : même si l’intrigue reste floue, les aventures de cette bande d’agents secrets attachants réjouissent toujours autant.",
       "source": "Télérama",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.telerama.fr/series-tv/black-doves-sur-netflix-les-espions-keira-knightley-et-ben-whishaw-reviennent-pour-une-saison-2-tragiquement-romantique_cri-7046707.php",
       "published_at": "2026-11-05T17:32:01+00:00",
       "category": "Société",
@@ -5101,263 +5351,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « “Rue du Goût Perdu” : la gastronomie pour tous » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "227ae56ba4eb",
-      "title": "Après son carton orange face à Castres, le pilier du MHR Reda Wardi sanctionné de 4 semaines de suspension, il loupera plusieurs gros matches",
-      "summary": "Le pilier de Montpellier Reda Wardi a été suspendu quatre semaines par la commission de discipline de la LNR pour \"jeu dangereux\". Sanctionné après un carton orange contre Castres, l’international français de 31 ans...",
-      "source": "Midi Libre",
-      "feed_rank": 18,
-      "url": "https://www.midilibre.fr/2026/11/05/apres-son-carton-orange-face-a-castres-le-pilier-du-mhr-reda-wardi-sanctionne-de-4-semaines-de-suspension-il-loupera-plusieurs-gros-matches-13638414.php",
-      "published_at": "2026-11-05T17:30:30+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Après son carton orange face à Castres, le pilier du MHR Reda Wardi sanctionné de 4 semaines de suspension, il loupera plusieurs gros matches » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "17f3ff2e2d34",
-      "title": "Euronaval : sur la défense, un programme du RN encore en chantier",
-      "summary": "A cinq mois de la présidentielle, Marine Le Pen poursuit ses déplacements de terrain sans dévoiler ses propositions. La candidate préfère se montrer à l'écoute de secteurs censés nourrir encore son programme",
-      "source": "L'Opinion",
-      "feed_rank": 7,
-      "url": "https://www.lopinion.fr/politique/euronaval-sur-la-defense-un-programme-du-rn-encore-en-chantier",
-      "published_at": "2026-11-05T17:30:00+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Euronaval : sur la défense, un programme du RN encore en chantier ».",
-      "coverage_sources": [
-        "L'Opinion"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1c29f6cf1030",
-      "title": "Intelligence artificielle : le rochelais A2D ausculte les monuments sous tous les angles numériques",
-      "summary": "A2D propose aux gestionnaires d’ouvrages patrimoniaux et d’infrastructures de détecter par l’IA les défauts du bâti et de les transformer en décisions d’intervention. On cible, on programme, on fait des",
-      "source": "Sud Ouest",
-      "feed_rank": 13,
-      "url": "https://www.sudouest.fr/economie/eco-et-entreprises/intelligence-artificielle-le-rochelais-a2d-ausculte-les-monuments-sous-tous-les-angles-numeriques-30790598.php",
-      "published_at": "2026-11-05T17:30:00+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Intelligence artificielle : le rochelais A2D ausculte les monuments sous tous les angles numériques ».",
-      "coverage_sources": [
-        "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a915a90a25a3",
-      "title": "Autoroute A69 Toulouse-Castres : plus de 20 euros pour emprunter les 53 km... le prix du péage fait réagir avant l’ouverture ce vendredi",
-      "summary": "La mise en service des 53 km de l’autoroute A69 Toulouse-Castres est prévue vendredi, sous réserve du feu vert ministériel attendu d’ici demain. Ce projet s’ouvre dans un climat de vive tension politique en raison...",
-      "source": "Midi Libre",
-      "feed_rank": 3,
-      "url": "https://www.midilibre.fr/2026/11/05/autoroute-a69-toulouse-castres-plus-de-20-euros-pour-emprunter-les-53-km-le-prix-du-peage-fait-reagir-avant-louverture-ce-vendredi-13638406.php",
-      "published_at": "2026-11-05T17:29:27+00:00",
-      "category": "Politique",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Autoroute A69 Toulouse-Castres : plus de 20 euros pour emprunter les 53 km... le prix du péage fait réagir avant l’ouverture ce vendredi ».",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "31b4e2d22a5d",
-      "title": "Midterms : dans le Maine, le démocrate Troy Jackson bat l’indéboulonnable sénatrice Susan Collins",
-      "summary": "Candidat démocrate sur lequel personne ne misait initialement, l’ancien bûcheron, âgé de 58 ans, a réussi l’exploit de battre une républicaine historique, en poste depuis 1997.",
-      "source": "Libération",
-      "feed_rank": 17,
-      "url": "https://www.liberation.fr/international/amerique/midterms-dans-le-maine-le-democrate-troy-jackson-bat-lindeboulonnable-senatrice-susan-collins-20261105_5K4FQRXN55HRZB2N7V6ZDGMBTE/",
-      "published_at": "2026-11-05T17:28:48+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms : dans le Maine, le démocrate Troy Jackson bat l’indéboulonnable sénatrice Susan Collins ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "e6a5af1302ba",
-      "title": "« Je n'ai jamais ressenti un tel sentiment de communauté » : se mobiliser, un remède aux angoisses des jeunes",
-      "summary": "Beaucoup de jeunes trouvent dans les mobilisations collectives une réponse au mélange d'inquiétudes qui obscurcit leur vision de l'avenir. Avec le recul des libertés et le chaos climatique comme point central. Paris, Aubervilliers et Saint-Denis, reportage C'est la génération Gaza, canicules et IA . Les cortèges et les blocus sont un exutoire à des…",
-      "source": "Reporterre",
-      "feed_rank": 3,
-      "url": "https://reporterre.net/Je-n-ai-jamais-ressenti-un-tel-sentiment-de-communaute-se-mobiliser-un-remede-aux",
-      "published_at": "2026-11-05T17:27:33+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « « Je n'ai jamais ressenti un tel sentiment de communauté » : se mobiliser, un remède aux angoisses des jeunes ».",
-      "coverage_sources": [
-        "Reporterre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3b2f85d9e7ae",
-      "title": "ENTRETIEN. \"Cyber-casse\" du Crédit Mutuel Arkéa : \"L'IA finit toujours par trouver le maillon faible...\" faut-il s'inquiéter pour nos banques et pour nos comptes ?",
-      "summary": "Le Crédit Mutuel Arkéa a subi une cyberattaque majeure début novembre, malgré sa récente distinction en cybersécurité. Les pirates ont détourné 100 000 millions d'euros convertis en crypto-monnaies. L'attaque,...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 24,
-      "url": "https://www.ladepeche.fr/2026/11/05/entretien-cyber-casse-du-credit-mutuel-arkea-lia-finit-toujours-par-trouver-le-maillon-faible-faut-il-sinquieter-pour-nos-banques-et-pour-nos-comptes-13637761.php",
-      "published_at": "2026-11-05T17:26:02+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « ENTRETIEN. \"Cyber-casse\" du Crédit Mutuel Arkéa : \"L'IA finit toujours par trouver le maillon faible...\" faut-il s'inquiéter pour nos banques et pour  ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0e57e69aa73b",
-      "title": "Sets festifs, poulpe bleuté, AG et occupation de la Bourse du travail : à Lyon, le secteur culturel mobilisé",
-      "summary": "Répondant à l’appel national de l’orchestre du Nouveau Monde à venir accompagner le mouvement social en musique, les étudiants et les travailleurs de la culture étaient présents en nombre dans le cortège lyonnais.",
-      "source": "Libération",
-      "feed_rank": 19,
-      "url": "https://www.liberation.fr/societe/sets-festifs-poulpes-bleutes-ag-et-occupation-de-la-bourse-du-travail-a-lyon-le-secteur-culturel-mobilise-20261105_OM4LPNPW5NEZHC6OOZ23SHEMA4/",
-      "published_at": "2026-11-05T17:24:50+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Sets festifs, poulpe bleuté, AG et occupation de la Bourse du travail : à Lyon, le secteur culturel mobilisé ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4eaf3f899049",
-      "title": "Midterms 2026 : la déroute républicaine rebat les cartes pour la succession de Donald Trump",
-      "summary": "Après la défaite aux midterms, les leaders républicains ne sont pas restés groggys très longtemps. La défaite historique subie par le parti de Donald Trump semble avoir rebattu les cartes au sein du parti républicain. En effet, les républicains ont perdu leur majorité à la Chambre des représentants et au Sénat en enregistrant des défaites dans plusieurs…",
-      "source": "Public Sénat",
-      "feed_rank": 3,
-      "url": "https://www.publicsenat.fr/actualites/international/midterms-2026-la-deroute-republicaine-rebat-les-cartes-pour-la-succession-de-donald-trump",
-      "published_at": "2026-11-05T17:24:11+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Midterms 2026 : la déroute républicaine rebat les cartes pour la succession de Donald Trump » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Public Sénat"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "7bdd135c5a12",
-      "title": "Kanye West aperçu en présence de ses quatre enfants et sa femme pour la première fois en deux ans",
-      "summary": "Kanye West a semblé être un père comblé lors d’une sortie familiale avec ses quatre enfants, en présence de son épouse, Bianca Censori. Une première depuis deux ans. Tout arrive à qui sait attendre. Cela faisait deux ans que Kanye West n’avait pas été aperçu en public en compagnie de ses quatre enfants. C’est désormais chose faite après une sortie…",
-      "source": "CNews",
-      "feed_rank": 15,
-      "url": "https://www.cnews.fr/people/2026-11-05/kanye-west-apercu-en-presence-de-ses-quatre-enfants-et-sa-femme-pour-la-premiere",
-      "published_at": "2026-11-05T17:23:39+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Kanye West aperçu en présence de ses quatre enfants et sa femme pour la première fois en deux ans » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "fb67528cd034",
-      "title": "Florian Louis :\" la rébellion des Républicains vis-à-vis de la politique étrangère de Trump peut être déterminante\"",
-      "summary": "Le 4 novembre, Zélensky exprimait « l’espoir » d’un soutien renforcé de Washington. Quelles peuvent être les conséquences des midterms sur les alliances américaines, particulièrement vis-à-vis de l’Ukraine ? Avec Florian Louis, historien spécialiste des relations internationales.",
-      "source": "France Inter",
-      "feed_rank": 12,
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-un-jour-dans-le-monde/l-invite-d-un-jour-dans-le-monde-du-jeudi-05-novembre-2026-9558769",
-      "published_at": "2026-11-05T17:23:05+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Florian Louis :\" la rébellion des Républicains vis-à-vis de la politique étrangère de Trump peut être déterminante\" » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Inter"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "7ea2d8373d08",
-      "title": "Sébastien Lecornu bientôt remplacé à Matignon par un haut fonctionnaire ? En pleine discussions sur le budget, l'avenir du Premier ministre est incertain",
-      "summary": "Alors que les discussions budgétaires ont commencé au Parlement, l'avenir du Premier ministre Sébastien Lecornu est incertain. Le recours possible à l'article 49.3 pour faire passer le budget ou une motion de censure...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 13,
-      "url": "https://www.ladepeche.fr/2026/11/05/le-premier-ministre-sebastien-lecornu-va-t-il-etre-remplace-par-un-haut-fonctionnaire-13638032.php",
-      "published_at": "2026-11-05T17:20:41+00:00",
-      "category": "Politique",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Sébastien Lecornu bientôt remplacé à Matignon par un haut fonctionnaire ? En pleine discussions sur le budget, l'avenir du Premier ministre est incert ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "55ec0f87cdb5",
-      "title": "« On dit chocolatine ! » : les défenseurs de ce marqueur régional font de la résistance dans le Sud-Ouest... et au Québec",
-      "summary": "Le débat est sans fin. Doit-on dire chocolatine ou pain au chocolat pour désigner cette viennoiserie ? Deux frères ont utilisé l’IA pour appeler les boulangers et établir une carte de France. « Sud Ouest »",
-      "source": "Sud Ouest",
-      "feed_rank": 14,
-      "url": "https://www.sudouest.fr/charente-maritime/royan/on-dit-chocolatine-les-defenseurs-de-ce-marqueur-regional-font-de-la-resistance-dans-le-sud-ouest-et-au-quebec-31261017.php",
-      "published_at": "2026-11-05T17:20:00+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « On dit chocolatine ! » : les défenseurs de ce marqueur régional font de la résistance dans le Sud-Ouest... et au Québec » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "e171a7a82827",
-      "title": "Un policier rouennais interdit d’exercer après un coup de matraque en plein visage lors de la victoire du PSG",
-      "summary": "Un policier rouennais a été condamné par le tribunal correctionnel pour avoir violemment frappé au visage une jeune femme le soir de la finale de la Ligue des champions. Il doit quitter son métier sur-le-champ. À l’audience, le fonctionnaire avait défendu la légitimité de son geste.",
-      "source": "Mediapart",
-      "feed_rank": 5,
-      "url": "https://www.mediapart.fr/journal/france/051126/un-policier-rouennais-interdit-d-exercer-apres-un-coup-de-matraque-en-plein-visage-lors-de-la-victoire-du",
-      "published_at": "2026-11-05T17:19:10+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Un policier rouennais interdit d’exercer après un coup de matraque en plein visage lors de la victoire du PSG ».",
-      "coverage_sources": [
-        "Mediapart"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3642d07ea151",
-      "title": "Grève du 5 novembre : malmené, Raphaël Glucksmann a quitté la manifestation à Paris",
-      "summary": "Le candidat social-démocrate à la présidentielle Raphaël Glucksmann a quitté jeudi après-midi la manifestation parisienne contre la vie chère, après avoir été bloqué durant 45 minutes à son point de départ, place de la République, entouré de militants hostiles.",
-      "source": "France Inter",
-      "feed_rank": 14,
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/greve-du-5-novembre-malmene-raphael-glucksmann-quitte-la-manifestation-a-paris-9040983",
-      "published_at": "2026-11-05T17:15:00+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Grève du 5 novembre : malmené, Raphaël Glucksmann a quitté la manifestation à Paris ».",
-      "coverage_sources": [
-        "France Inter",
-        "L'Obs"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
-      "id": "e71bf511e30b",
-      "title": "La fin de l’ère Donald Trump n’est pas la fin de la crise démocratique",
-      "summary": "ANALYSE - Le verrou que les électeurs installent face aux velléités autoritaires de Trump prouve la résilience de la démocratie américaine. Mais le président, dont la chute politique semble se dessiner sous nos yeux, a d’abord été un symptôme de la crise avant d’en devenir un élément central.",
-      "source": "Le Figaro",
-      "feed_rank": 8,
-      "url": "https://www.lefigaro.fr/vox/monde/la-fin-de-l-ere-donald-trump-n-est-pas-la-fin-de-la-crise-democratique-20261105",
-      "published_at": "2026-11-05T17:14:06+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La fin de l’ère Donald Trump n’est pas la fin de la crise démocratique » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
