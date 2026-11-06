@@ -1,34 +1,35 @@
 {
-  "last_updated": "2026-11-06T03:00:20.400163+00:00",
-  "last_attempt": "2026-11-06T03:00:20.400163+00:00",
+  "last_updated": "2026-11-06T04:00:18.960995+00:00",
+  "last_attempt": "2026-11-06T04:00:18.960995+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 899,
-  "unique_story_count": 786,
+  "raw_article_count": 894,
+  "unique_story_count": 784,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
     "Les Échos",
     "La Voix du Nord",
+    "Le Dauphiné Libéré",
     "Le Point"
   ],
-  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-06T03:00:20.400163+00:00",
-  "featured_window_end": "2026-11-06T03:00:20.400163+00:00",
-  "featured_pool_count": 898,
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Dauphiné Libéré, Le Point. La sélection peut donc être incomplète.",
+  "featured_window_start": "2026-10-06T04:00:18.960995+00:00",
+  "featured_window_end": "2026-11-06T04:00:18.960995+00:00",
+  "featured_pool_count": 893,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "b064de56c18d",
-      "title": "Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide",
-      "summary": "Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dans lesquels elle décrit son mal-être.",
-      "source": "Le Monde",
-      "feed_rank": 13,
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html",
-      "published_at": "2026-11-06T00:36:12+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide ».",
+      "id": "25c0ffe00075",
+      "title": "Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ?",
+      "summary": "Après une semaine de prix littéraires décernés en France et au lendemain de la défaite de Donald Trump aux élections des midterms, mardi 3 novembre, notre chroniqueur Alain Rémond espère que le président américain mettra le holà sur sa « chasse aux mauvais livres ».",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/a-vif/chasse-aux-livres-aux-etats-unis-et-si-la-defaite-de-trump-changeait-la-donne-20261105",
+      "published_at": "2026-11-06T03:00:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ? ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -69,9 +70,9 @@
         "Creapills"
       ],
       "coverage_count": 37,
-      "mention_count": 230,
-      "importance_score": 36.811,
-      "latest_coverage_at": "2026-11-06T01:03:00+00:00"
+      "mention_count": 229,
+      "importance_score": 36.808,
+      "latest_coverage_at": "2026-11-06T03:00:03+00:00"
     },
     {
       "id": "1b0ef7cb651a",
@@ -99,13 +100,12 @@
         "Libération",
         "20 Minutes",
         "La Croix",
-        "Le Dauphiné Libéré",
         "Midi Libre",
         "Public Sénat"
       ],
-      "coverage_count": 18,
-      "mention_count": 21,
-      "importance_score": 27.742,
+      "coverage_count": 17,
+      "mention_count": 20,
+      "importance_score": 27.283,
       "latest_coverage_at": "2026-11-05T20:57:03+00:00"
     },
     {
@@ -128,13 +128,12 @@
         "20 Minutes",
         "La Croix",
         "La Dépêche du Midi",
-        "Le Dauphiné Libéré",
         "Le JDD",
         "Valeurs actuelles"
       ],
-      "coverage_count": 12,
-      "mention_count": 15,
-      "importance_score": 24.849,
+      "coverage_count": 11,
+      "mention_count": 14,
+      "importance_score": 24.212,
       "latest_coverage_at": "2026-11-06T01:43:34+00:00"
     },
     {
@@ -160,41 +159,15 @@
       ],
       "coverage_count": 9,
       "mention_count": 13,
-      "importance_score": 22.627,
+      "importance_score": 22.624,
       "latest_coverage_at": "2026-11-05T20:04:26+00:00"
-    },
-    {
-      "id": "55ce10771ec0",
-      "title": "La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne",
-      "summary": "La préfecture du Rhône a interdit, ce jeudi 5 novembre, la conférence du député LFI Raphaël Arnault organisé à Villeurbanne, vendredi 6.",
-      "source": "BFMTV",
-      "feed_rank": 12,
-      "url": "https://www.bfmtv.com/lyon/la-prefecture-du-rhone-interdit-la-conference-du-depute-insoumis-raphael-arnault-a-villeurbanne_AD-202611050859.html",
-      "published_at": "2026-11-05T22:14:52+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "BFMTV",
-        "CNews",
-        "Libération",
-        "Le JDD",
-        "Valeurs actuelles",
-        "Reporterre"
-      ],
-      "coverage_count": 9,
-      "mention_count": 9,
-      "importance_score": 21.991,
-      "latest_coverage_at": "2026-11-05T22:14:52+00:00"
     },
     {
       "id": "958f2752cb5d",
       "title": "Guerre en Ukraine : Ce qu’il faut retenir de la situation du jeudi 5 novembre",
       "summary": "Le Kremlin a nié toute implication dans les cyberattaques ayant visé des frigos de supermarchés dans plusieurs pays européens. Six personnes soupçonnées d’espionnage pour Moscou ont été arrêtées en Pologne. Retrouvez l’actualité de la guerre en Ukraine de ce jeudi 5 novembre.",
       "source": "La Croix",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.la-croix.com/international/ukraine-russie-jour-1716-point-conflit-ukrainien-poutine-aujourdhui-20261105",
       "published_at": "2026-11-05T20:11:54+00:00",
       "category": "International",
@@ -211,7 +184,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.544,
+      "importance_score": 21.533,
       "latest_coverage_at": "2026-11-05T20:11:54+00:00"
     },
     {
@@ -219,7 +192,7 @@
       "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
       "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:43:33+00:00",
       "category": "Société",
@@ -236,15 +209,40 @@
       ],
       "coverage_count": 8,
       "mention_count": 9,
-      "importance_score": 21.385,
+      "importance_score": 21.372,
       "latest_coverage_at": "2026-11-05T22:43:33+00:00"
+    },
+    {
+      "id": "55ce10771ec0",
+      "title": "La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne",
+      "summary": "La préfecture du Rhône a interdit, ce jeudi 5 novembre, la conférence du député LFI Raphaël Arnault organisé à Villeurbanne, vendredi 6.",
+      "source": "BFMTV",
+      "feed_rank": 12,
+      "url": "https://www.bfmtv.com/lyon/la-prefecture-du-rhone-interdit-la-conference-du-depute-insoumis-raphael-arnault-a-villeurbanne_AD-202611050859.html",
+      "published_at": "2026-11-05T22:14:52+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La préfecture du Rhône interdit la conférence du député insoumis Raphaël Arnault à Villeurbanne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "BFMTV",
+        "CNews",
+        "Libération",
+        "Le JDD",
+        "Valeurs actuelles",
+        "Reporterre"
+      ],
+      "coverage_count": 8,
+      "mention_count": 8,
+      "importance_score": 21.119,
+      "latest_coverage_at": "2026-11-05T22:14:52+00:00"
     },
     {
       "id": "d0b464b3b58a",
       "title": "Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire",
       "summary": "La crise bancaire paraguayenne a eu raison de Santiago Peña : le président a annoncé sa démission jeudi 5 novembre à Asunción, après que la mise sous tutelle d'Ueno Bank et le gel des dépôts de près de 3 millions de clients ont déclenché une crise politique majeure.",
       "source": "La Croix",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
       "published_at": "2026-11-05T21:30:00+00:00",
       "category": "Politique",
@@ -260,7 +258,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.315,
+      "importance_score": 20.306,
       "latest_coverage_at": "2026-11-05T21:30:00+00:00"
     },
     {
@@ -283,7 +281,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 11,
-      "importance_score": 20.113,
+      "importance_score": 20.11,
       "latest_coverage_at": "2026-11-05T23:18:40+00:00"
     },
     {
@@ -305,7 +303,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.239,
+      "importance_score": 18.236,
       "latest_coverage_at": "2026-11-05T22:02:32+00:00"
     },
     {
@@ -322,12 +320,11 @@
         "Le Monde",
         "RFI",
         "Libération",
-        "Sud Ouest",
-        "Le Dauphiné Libéré"
+        "Sud Ouest"
       ],
-      "coverage_count": 5,
-      "mention_count": 5,
-      "importance_score": 17.987,
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.528,
       "latest_coverage_at": "2026-11-05T21:31:26+00:00"
     },
     {
@@ -348,7 +345,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.426,
+      "importance_score": 16.424,
       "latest_coverage_at": "2026-11-05T20:57:15+00:00"
     },
     {
@@ -369,7 +366,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.215,
+      "importance_score": 16.212,
       "latest_coverage_at": "2026-11-05T14:39:23+00:00"
     },
     {
@@ -390,7 +387,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.027,
+      "importance_score": 16.024,
       "latest_coverage_at": "2026-11-05T21:36:06+00:00"
     },
     {
@@ -410,7 +407,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 8,
-      "importance_score": 15.831,
+      "importance_score": 15.829,
       "latest_coverage_at": "2026-11-05T21:23:03+00:00"
     },
     {
@@ -418,7 +415,7 @@
       "title": "Dans le Gers, un homme condamné à 30 ans de réclusion pour avoir tué son ex-conjointe",
       "summary": "Il avait tué son ex-conjointe en 2023 en la percutant à deux reprises avec son véhicule. Un homme de 76 ans a été condamné à 30 ans de réclusion criminelle jeudi 5 novembre à Auch (Gers). Lors de l’audience, l’avocat des parties civiles a pointé la « responsabilité de l’État » dans cette affaire.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/faits-divers/feminicide/dans-le-gers-un-homme-condamne-a-30-ans-de-reclusion-pour-avoir-tue-son-ex-conjointe-46303542-d95e-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T21:46:11+00:00",
       "category": "Société",
@@ -430,7 +427,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.888,
+      "importance_score": 14.874,
       "latest_coverage_at": "2026-11-05T21:46:11+00:00"
     },
     {
@@ -450,7 +447,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.848,
+      "importance_score": 14.845,
       "latest_coverage_at": "2026-11-05T19:36:07+00:00"
     },
     {
@@ -470,7 +467,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.567,
+      "importance_score": 14.564,
       "latest_coverage_at": "2026-11-05T19:55:54+00:00"
     },
     {
@@ -490,7 +487,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.47,
+      "importance_score": 14.467,
       "latest_coverage_at": "2026-11-05T17:46:04+00:00"
     },
     {
@@ -509,11 +506,59 @@
       ],
       "coverage_count": 2,
       "mention_count": 8,
-      "importance_score": 14.317,
+      "importance_score": 14.314,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "9ef92235defd",
+      "title": "Moscou saisit les actifs russes de la société nippone Japan Tobacco, sur fond de tensions avec Tokyo",
+      "summary": "Le gouvernement japonais a réclamé la libération immédiate des actifs du cigarettier, dont la saisie a été ordonnée quelques semaines après l’arrestation, en Russie, d’un journaliste nippon accusé d’espionnage.",
+      "source": "Le Monde",
+      "feed_rank": 14,
+      "url": "https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html",
+      "published_at": "2026-11-06T03:24:31+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Moscou saisit les actifs russes de la société nippone Japan Tobacco, sur fond de tensions avec Tokyo ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "40b6d7be9cdd",
+      "title": "La guerre au Moyen-Orient fait chuter les émissions de CO2 de la Chine, selon une étude",
+      "summary": "Les émissions chinoises de dioxyde de carbone ont reculé de 3,1 % au troisième trimestre, leur baisse la plus rapide depuis le Covid-19, sur fond de la guerre au Moyen-Orient selon une étude.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/environnement/climat/la-guerre-au-moyen-orient-fait-chuter-les-emissions-de-co2-de-la-chine-selon-une-etude-2eb00515-3899-4e1a-bed3-3792c05f0e9d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-06T03:22:56+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « La guerre au Moyen-Orient fait chuter les émissions de CO2 de la Chine, selon une étude ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "25c0ffe00075",
+      "title": "Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ?",
+      "summary": "Après une semaine de prix littéraires décernés en France et au lendemain de la défaite de Donald Trump aux élections des midterms, mardi 3 novembre, notre chroniqueur Alain Rémond espère que le président américain mettra le holà sur sa « chasse aux mauvais livres ».",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/a-vif/chasse-aux-livres-aux-etats-unis-et-si-la-defaite-de-trump-changeait-la-donne-20261105",
+      "published_at": "2026-11-06T03:00:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ? ».",
+      "coverage_sources": [
+        "La Croix"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "a6b5224049a7",
       "title": "IA : Anthropic pourrait revoir à la baisse ses ambitions boursières",
@@ -594,18 +639,17 @@
         "Le Figaro",
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
-        "20 Minutes",
-        "Le Dauphiné Libéré"
+        "20 Minutes"
       ],
-      "coverage_count": 7,
-      "mention_count": 8
+      "coverage_count": 6,
+      "mention_count": 7
     },
     {
       "id": "d30b68a774e7",
       "title": "Les géants des réseaux sociaux, Google, Meta et TikTok attaquent une loi californienne protégeant les moins de 16 ans",
       "summary": "Google propriétaire de YouTube, Meta, la maison mère de Facebook et d’Instagram et TikTok ont saisi mercredi 4 novembre 2026 la justice fédérale pour bloquer une loi californienne interdisant, dès le 1er janvier, de proposer aux moins de 16 ans des fils personnalisés et la lecture automatique des vidéos, même avec l’accord de leurs parents.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/high-tech/reseaux-sociaux/les-geants-des-reseaux-sociaux-google-meta-et-tiktok-attaquent-une-loi-californienne-protegeant-les-moins-de-16-ans-76fc46c8-d974-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T01:24:49+00:00",
       "category": "Médias & communication",
@@ -897,7 +941,7 @@
       "title": "Tennis de table. Les frères Lebrun, Gauzy, Pavade… La composition des Bleus pour la Coupe du monde mixte",
       "summary": "Pour refermer l’année, l’équipe de France de tennis de table va disputer la Coupe du monde mixte, du 29 novembre au 6 décembre 2026. Après des saisons plus que réussies pour plusieurs sur le plan individuel, les meilleurs internationaux seront présents.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/tennis-de-table/tennis-de-table-les-freres-lebrun-gauzy-pavade-la-composition-des-bleus-pour-la-coupe-du-monde-mixte-d9889a38-d967-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:43:54+00:00",
       "category": "Sport",
@@ -913,7 +957,7 @@
       "title": "Un gynécologue condamné à cinq ans de prison pour viol et agression sexuelle sur des patientes",
       "summary": "Un gynécologue a été condamné jeudi 5 novembre 2026 par la cour criminelle de l’Eure à cinq ans de prison pour un viol et une agression sexuelle commis en 2018 et 2020 sur des patientes.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/un-gynecologue-condamne-a-cinq-ans-de-prison-pour-viol-et-agression-sexuelle-sur-des-patientes-9cfaee26-d963-11f1-b736-5b9907ef0b5a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:43:33+00:00",
       "category": "Société",
@@ -1009,7 +1053,7 @@
       "title": "F1. « J’étais agacé, je le suis toujours » : Lewis Hamilton ne décolère pas contre Charles Leclerc après leur accrochage",
       "summary": "Le week-end dernier lors du Grand Prix du Mexique, Lewis Hamilton a été percuté dans le premier tour par son coéquipier chez Ferrari Charles Leclerc, ce qui a certainement coûté la victoire à leur écurie. Le pilote anglais garde toujours cette scène à travers de la gorge.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/formule-1/f1-jetais-agace-je-le-suis-toujours-lewis-hamilton-ne-decolere-pas-contre-charles-leclerc-apres-leur-accrochage-99bba57c-d966-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:24:17+00:00",
       "category": "Économie",
@@ -1074,7 +1118,7 @@
       "title": "Ligue Conférence. Monaco décroche un troisième succès après sa victoire face à Nordsjaelland",
       "summary": "L’AS Monaco a enchaîné un troisième succès en Ligue Conférence, ce jeudi 5 novembre, après s’être imposée contre l’équipe danoise de Nordsjaelland (2-0). Les Monégasques, tout de même bousculés, sont provisoirement en tête du classement.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/ligue-conference/ligue-conference-monaco-decroche-un-troisieme-succes-apres-sa-victoire-face-a-nordsjaelland-27f53a40-d964-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T22:07:04+00:00",
       "category": "Société",
@@ -1220,7 +1264,7 @@
       "title": "Rallier Bordeaux et Toulouse en 1h : la SNCF donne son feu vert au lancement des appels d’offres pour une nouvelle ligne",
       "summary": "SNCF Réseau a donné ce jeudi 5 novembre 2026 son feu vert pour le lancement des appels à candidature concernant la ligne Sud-Ouest. Celle-ci devrait permettre de relier Toulouse et Bordeaux, entre autres villes, plus rapidement, d’ici 2032.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/economie/transports/train/rallier-bordeaux-et-toulouse-en-1h-la-sncf-donne-son-feu-vert-au-lancement-des-appels-doffres-pour-une-nouvelle-ligne-da98e36c-d95b-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T21:51:17+00:00",
       "category": "Société",
@@ -1317,7 +1361,7 @@
       "title": "Dans le Gers, un homme condamné à 30 ans de réclusion pour avoir tué son ex-conjointe",
       "summary": "Il avait tué son ex-conjointe en 2023 en la percutant à deux reprises avec son véhicule. Un homme de 76 ans a été condamné à 30 ans de réclusion criminelle jeudi 5 novembre à Auch (Gers). Lors de l’audience, l’avocat des parties civiles a pointé la « responsabilité de l’État » dans cette affaire.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/faits-divers/feminicide/dans-le-gers-un-homme-condamne-a-30-ans-de-reclusion-pour-avoir-tue-son-ex-conjointe-46303542-d95e-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-05T21:46:11+00:00",
       "category": "Société",
@@ -1379,22 +1423,6 @@
       "mention_count": 1
     },
     {
-      "id": "06d74a639699",
-      "title": "Tennis. « Elle se comporte comme une diva » : Jessica Pegula se lâche sur Mirra Andreeva sans savoir qu’elle est filmée",
-      "summary": "Présentes à Indian Wells pour se préparer pour les WTA Finals (8 au 15 novembre), Mirra Andreeva et Jessica Pegula ont partagé une séance d’entraînement ensemble en Californie. Mais l’Américaine, visiblement agacée par le comportement de la jeune Russe de 19 ans, n’a pas hésité à la critiquer. Elle n’avait pas vu les caméras au bord du court.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/tennis/tennis-elle-se-comporte-comme-une-diva-jessica-pegula-se-lache-sur-mirra-andreeva-sans-savoir-quelle-est-filmee-eb9f45a6-d95c-11f1-a1e1-ae8104d72c9a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-05T21:36:53+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Tennis. « Elle se comporte comme une diva » : Jessica Pegula se lâche sur Mirra Andreeva sans savoir qu’elle est filmée ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "3fe505280e94",
       "title": "Fusil, pistolets-mitrailleurs… Un réseau de trafic d’armes démantelé près de Toulouse, six individus arrêtés",
       "summary": "<p><a href=\"https://www.20minutes.fr/dossier/trafic_d_armes-1\">Un fusil d’assaut, trois pistolets-mitrailleurs et une quinzaine d’armes de poing</a> ont été découverts lundi dans un atelier clandestin à Cornebarrieu, près de <a href=\"https://www.20minutes.fr/toulouse/\">Toulouse</a>. Les enquêteurs y ont aussi trouvé près d’une centaine de chargeurs, des…",
@@ -1447,7 +1475,7 @@
       "title": "Paraguay : le président Peña annonce sa démission dans la foulée d’une crise bancaire",
       "summary": "La crise bancaire paraguayenne a eu raison de Santiago Peña : le président a annoncé sa démission jeudi 5 novembre à Asunción, après que la mise sous tutelle d'Ueno Bank et le gel des dépôts de près de 3 millions de clients ont déclenché une crise politique majeure.",
       "source": "La Croix",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
       "published_at": "2026-11-05T21:30:00+00:00",
       "category": "Politique",
@@ -2228,7 +2256,7 @@
       "title": "Guerre au Moyen-Orient : 5 morts à Gaza… Le bilan du jeudi 5 novembre",
       "summary": "Deux pétroliers et un remorqueur ont pris feu dans le détroit d’Ormuz, selon l’Iran. Le ministère de la défense sud-coréen a annoncé qu’il allait déployer sa marine près du détroit. Retrouvez l’actualité du conflit au Moyen-Orient de ce jeudi 5 novembre.",
       "source": "La Croix",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-136-moyen-orient-bilan-resume-aujourdhui-20261105",
       "published_at": "2026-11-05T20:14:10+00:00",
       "category": "International",
@@ -2276,7 +2304,7 @@
       "title": "Guerre en Ukraine : Ce qu’il faut retenir de la situation du jeudi 5 novembre",
       "summary": "Le Kremlin a nié toute implication dans les cyberattaques ayant visé des frigos de supermarchés dans plusieurs pays européens. Six personnes soupçonnées d’espionnage pour Moscou ont été arrêtées en Pologne. Retrouvez l’actualité de la guerre en Ukraine de ce jeudi 5 novembre.",
       "source": "La Croix",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.la-croix.com/international/ukraine-russie-jour-1716-point-conflit-ukrainien-poutine-aujourdhui-20261105",
       "published_at": "2026-11-05T20:11:54+00:00",
       "category": "International",
@@ -2364,13 +2392,12 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "Le Monde",
         "BFMTV",
         "CNews",
         "Libération"
       ],
-      "coverage_count": 6,
-      "mention_count": 6
+      "coverage_count": 5,
+      "mention_count": 5
     },
     {
       "id": "6d55c5265a71",
@@ -2652,7 +2679,7 @@
       "title": "Au procès de « la martyre de l’A10 », les images éprouvantes des souffrances endurées par la fillette",
       "summary": "Deux experts ont décrit, jeudi 5 novembre, les violentes morsures découvertes sur le corps d’Inass Touloub, 4 ans, retrouvée morte en août 1987. Sans certitude, ils ont estimé probable que sa mère en soit responsable. La sœur aînée de la victime a ensuite témoigné à huis clos.",
       "source": "La Croix",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.la-croix.com/societe/au-proces-de-la-martyre-de-l-a10-les-images-eprouvantes-des-souffrances-endurees-par-la-fillette-20261105",
       "published_at": "2026-11-05T19:50:10+00:00",
       "category": "Sciences & tech",
@@ -2794,7 +2821,7 @@
     {
       "id": "ab4e2d4ee95d",
       "title": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
-      "summary": "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers.",
+      "summary": "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, a perdu plus de 5,5 %, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance envers la plupart des valeurs liées à l’intelligence artificielle et aux data centers.",
       "source": "Le Monde",
       "feed_rank": 1,
       "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
@@ -3392,7 +3419,7 @@
       "title": "Melania Trump, diplomate surprise : quand la première dame se veut médiatrice entre Kiev et Moscou",
       "summary": "À Washington, Melania Trump a reçu ce jeudi 5 novembre 2026 des représentants russes et ukrainiens, une semaine avant des pourparlers à Abou Dhabi. La première dame, décorée la veille par Zelensky, confirme son rôle croissant sur la scène internationale.",
       "source": "La Croix",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.la-croix.com/international/melania-trump-diplomate-surprise-quand-la-premiere-dame-se-veut-mediatrice-entre-kiev-et-moscou-20261105",
       "published_at": "2026-11-05T18:47:25+00:00",
       "category": "Société",
@@ -4195,7 +4222,7 @@
       "title": "Crédit Mutuel Arkéa : ce que l’on sait de la cyberattaque à plus de 100 millions d’euros contre la banque",
       "summary": "La banque Crédit Mutuel Arkéa a été victime d’un braquage numérique, avec un butin dérobé de plus de 100 millions d’euros. Une attaque qui soulève de nombreuses questions sur la sécurité des systèmes bancaires, quelques jours après le plus gros piratage de l’histoire d’une plateforme crypto.",
       "source": "La Croix",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.la-croix.com/economie/credit-mutuel-arkea-ce-que-l-on-sait-de-la-cyberattaque-a-plus-de-100-millions-deuros-contre-la-banque-20261105",
       "published_at": "2026-11-05T18:06:50+00:00",
       "category": "Économie",
@@ -4291,7 +4318,7 @@
       "title": "Baisse démographique : l’enseignement catholique entend « monter en qualité »",
       "summary": "Alors que la France compte 25 % d’élèves en moins attendus en 15 ans, l’enseignement catholique se réunissait jeudi 5 novembre à Lourdes pour repenser son modèle. Guillaume Prévost et Mgr Rougé appellent à une refondation éducative face à la crise lycéenne.",
       "source": "La Croix",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.la-croix.com/religion/baisse-demographique-l-enseignement-catholique-entend-monter-en-qualite-20261105",
       "published_at": "2026-11-05T18:02:58+00:00",
       "category": "Société",
@@ -4939,7 +4966,7 @@
       "title": "Bob Dylan au Vatican : l’étonnante quête spirituelle de la légende du folk",
       "summary": "En tournée en Italie, Bob Dylan a été reçu par le pape Léon XIV au Vatican, mercredi 4 novembre 2026. Une rencontre qui illustre la longue et complexe relation du chanteur de 85 ans avec la spiritualité.",
       "source": "La Croix",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.la-croix.com/religion/bob-dylan-au-vatican-l-etonnante-quete-spirituelle-de-la-legende-du-folk-20261105",
       "published_at": "2026-11-05T17:35:40+00:00",
       "category": "Société",
@@ -4987,7 +5014,7 @@
       "title": "Léon XIV en Amérique latine : douze jours, une seule mission",
       "summary": "Le pape Léon XIV entame, vendredi 6 novembre, une tournée de douze jours qui le conduira en Uruguay, en Argentine, puis au Pérou.",
       "source": "La Croix",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.la-croix.com/a-vif/leon-xiv-en-amerique-latine-douze-jours-une-seule-mission-20261105",
       "published_at": "2026-11-05T17:33:22+00:00",
       "category": "Société",
@@ -5331,38 +5358,6 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « La fin de l’ère Donald Trump n’est pas la fin de la crise démocratique » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2935377965f2",
-      "title": "Avion dérouté à Évreux : la France et l’Europe en proie à une vague « inédite » d’alertes à la bombe",
-      "summary": "Faut-il y voir une opération de déstabilisation à grande échelle ? Jeudi 5 novembre, une douzaine d’avions ont été la cible d’alertes à la bombe dans différents pays européens. Un A320 d’Aer Lingus effectuant la liaison Dublin-Rome a dû être dérouté vers Évreux, escorté de deux avions de chasse.",
-      "source": "La Croix",
-      "feed_rank": 14,
-      "url": "https://www.la-croix.com/economie/avion-deroute-a-evreux-la-france-et-l-europe-en-proie-a-une-vague-inedite-dalertes-a-la-bombe-20261105",
-      "published_at": "2026-11-05T17:13:48+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Avion dérouté à Évreux : la France et l’Europe en proie à une vague « inédite » d’alertes à la bombe » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9f0204e3b988",
-      "title": "« L’émission a fait son temps » : la version britannique de « Mariés au premier regard » annulée après des accusations de viol",
-      "summary": "Après les lourdes allégations, Channel 4 a décidé de mettre un terme à l’émission de téléréalité et s’excuse auprès des femmes concernées. Son budget sera réinvesti dans de nouvelles productions.",
-      "source": "Paris Match",
-      "feed_rank": 8,
-      "url": "https://www.parismatch.com/lemission-fait-son-temps-version-britannique-maries-premier-regard-annulee-apres-accusations-viol-4g4udJNMTlK2hfGSshjcFn",
-      "published_at": "2026-11-05T17:13:05+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « « L’émission a fait son temps » : la version britannique de « Mariés au premier regard » annulée après des accusations de viol ».",
-      "coverage_sources": [
-        "Paris Match"
       ],
       "coverage_count": 1,
       "mention_count": 1
