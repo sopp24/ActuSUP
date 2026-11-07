@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-07T03:00:21.199314+00:00",
-  "last_attempt": "2026-11-07T03:00:21.199314+00:00",
+  "last_updated": "2026-11-07T04:00:19.693260+00:00",
+  "last_attempt": "2026-11-07T04:00:19.693260+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 901,
-  "unique_story_count": 813,
+  "unique_story_count": 814,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-07T03:00:21.199314+00:00",
-  "featured_window_end": "2026-11-07T03:00:21.199314+00:00",
+  "featured_window_start": "2026-10-07T04:00:19.693260+00:00",
+  "featured_window_end": "2026-11-07T04:00:19.693260+00:00",
   "featured_pool_count": 900,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
@@ -24,7 +24,7 @@
       "title": "Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien",
       "summary": "Les États-Unis ont annoncé vendredi 6 novembre 2026 offrir une récompense de 20 millions de dollars « et un possible déménagement » à toute personne apportant des informations sur le programme nucléaire iranien.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/monde/iran/les-etats-unis-offrent-20-millions-de-dollars-pour-des-informations-sur-le-programme-nucleaire-iranien-c52dd8cc-da4e-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T02:49:15+00:00",
       "category": "International",
@@ -69,8 +69,8 @@
         "INA – La Revue des médias"
       ],
       "coverage_count": 37,
-      "mention_count": 226,
-      "importance_score": 36.804,
+      "mention_count": 219,
+      "importance_score": 36.742,
       "latest_coverage_at": "2026-11-07T02:49:15+00:00"
     },
     {
@@ -97,7 +97,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 14,
-      "importance_score": 23.355,
+      "importance_score": 23.35,
       "latest_coverage_at": "2026-11-06T22:02:35+00:00"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 10,
-      "importance_score": 22.955,
+      "importance_score": 22.953,
       "latest_coverage_at": "2026-11-06T22:50:43+00:00"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 10,
-      "importance_score": 21.618,
+      "importance_score": 21.611,
       "latest_coverage_at": "2026-11-06T22:00:12+00:00"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.025,
+      "importance_score": 21.022,
       "latest_coverage_at": "2026-11-06T18:16:05+00:00"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.894,
+      "importance_score": 18.892,
       "latest_coverage_at": "2026-11-06T20:25:15+00:00"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.16,
+      "importance_score": 18.157,
       "latest_coverage_at": "2026-11-06T17:01:16+00:00"
     },
     {
@@ -227,7 +227,7 @@
       "title": "Procès de la «petite inconnue de l’A10» : «C’est affreux, comment j’ai pu faire tout ça ?»",
       "summary": "La cour d’assises du Loir-et-Cher a interrogé, ce vendredi, Halima El Bakhti, 72 ans, jugée pour «actes de torture et de barbarie ayant entraîné la mort sans intention de la donner». L’accusée, souvent confuse, a peiné à reconnaître les sévices qui ont conduit à la mort de sa fille, Inass Touloub, 4 ans.",
       "source": "Libération",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.liberation.fr/societe/police-justice/proces-de-la-petite-inconnue-de-la10-cest-affreux-comment-jai-pu-faire-tout-ca-20261106_WLPLLW7ADNBUDGJOODXWGHX4Y4/",
       "published_at": "2026-11-06T21:16:05+00:00",
       "category": "Société",
@@ -241,7 +241,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 18.097,
+      "importance_score": 18.085,
       "latest_coverage_at": "2026-11-06T21:16:05+00:00"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.012,
+      "importance_score": 18.01,
       "latest_coverage_at": "2026-11-06T22:02:22+00:00"
     },
     {
@@ -285,8 +285,30 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.907,
+      "importance_score": 17.904,
       "latest_coverage_at": "2026-11-06T22:24:16+00:00"
+    },
+    {
+      "id": "b44de77a07a0",
+      "title": "La liste des directs sport des 6 et 7 novembre sur le site de Ouest-France : Route du Rhum, Ligue 1, XV de France…",
+      "summary": "Ce sont deux jours très chargés en sport qui nous attendent ce week-end du 7 et 8 novembre. Entre les premières arrivées de la Route du Rhum, le retour du XV de France ou la 10e journée de Ligue 1, Ouest-France vous propose de suivre les plus grands événements du week-end en direct sur son site. Voici le programme des directs assurés par nos journalistes.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/la-liste-des-directs-sport-des-6-et-7-novembre-sur-le-site-de-ouest-france-route-du-rhum-ligue-1-xv-de-france-14b666ba-d9f6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T03:51:01+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « La liste des directs sport des 6 et 7 novembre sur le site de Ouest-France : Route du Rhum, Ligue 1, XV de France… ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Libération",
+        "Ouest-France",
+        "Midi Libre"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.58,
+      "latest_coverage_at": "2026-11-07T03:51:01+00:00"
     },
     {
       "id": "1f808d9ba5d0",
@@ -307,7 +329,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.577,
+      "importance_score": 17.574,
       "latest_coverage_at": "2026-11-06T18:49:20+00:00"
     },
     {
@@ -315,7 +337,7 @@
       "title": "Masters 1000 de Paris. Alcaraz renverse Fritz après avoir sauvé deux balles de match et file en demi-finales",
       "summary": "Au terme d’un combat de plus de deux heures, l’Espagnol Carlos Alcaraz, a renversé ce vendredi 6 novembre 2026, l’Américain Taylor Fritz (6-7, 7-5, 6-3), après avoir écarté deux balles de match dans la deuxième manche. Le numéro 3 mondial disputera pour la première fois les demi-finales du Masters 1000 de Paris.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/tennis/masters-paris-bercy/masters-1000-de-paris-alcaraz-renverse-fritz-apres-avoir-sauve-deux-balles-de-match-et-file-en-demi-finales-cf95f08c-da1d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:42:11+00:00",
       "category": "Sport",
@@ -329,7 +351,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.523,
+      "importance_score": 17.502,
       "latest_coverage_at": "2026-11-06T22:45:35+00:00"
     },
     {
@@ -350,7 +372,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.422,
+      "importance_score": 16.419,
       "latest_coverage_at": "2026-11-06T16:01:15+00:00"
     },
     {
@@ -371,7 +393,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.374,
+      "importance_score": 16.372,
       "latest_coverage_at": "2026-11-06T22:56:17+00:00"
     },
     {
@@ -392,7 +414,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.328,
+      "importance_score": 16.325,
       "latest_coverage_at": "2026-11-06T18:25:13+00:00"
     },
     {
@@ -412,7 +434,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 9,
-      "importance_score": 16.187,
+      "importance_score": 16.184,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     },
     {
@@ -433,7 +455,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.163,
+      "importance_score": 16.149,
       "latest_coverage_at": "2026-11-06T21:10:14+00:00"
     },
     {
@@ -454,59 +476,86 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.081,
+      "importance_score": 16.079,
       "latest_coverage_at": "2026-11-06T20:25:26+00:00"
     },
     {
-      "id": "c6a6d867f72f",
-      "title": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
-      "summary": "<p>« Nos élèves <a href=\"https://www.20minutes.fr/societe/greve/4260066-20261103-colere-sociale-ca-va-etre-chaud-rattraper-retard-lyceens-prets-retourner-cours-malgre-blocus\">ont besoin d’étudier</a>. » Le ministre de l’<a href=\"https://www.20minutes.fr/dossier/education_nationale\">Éducation nationale</a>, <a…",
-      "source": "20 Minutes",
-      "feed_rank": 14,
-      "url": "https://www.20minutes.fr/societe/4261085-20261106-colere-lyceens-ministre-promet-sanctions-quand-acces-cours-bloques?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-06T20:20:23+00:00",
-      "category": "Politique",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués ».",
-      "coverage_sources": [
-        "L'Obs",
-        "20 Minutes",
-        "L'Humanité",
-        "Public Sénat"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 15.966,
-      "latest_coverage_at": "2026-11-06T20:20:23+00:00"
-    },
-    {
-      "id": "0904624502fa",
-      "title": "Route du rhum : Violette Dorange reste à quai",
-      "summary": "Contrainte de regagner terre quelques heures après le départ de la course à cause d’une collision de son voilier avec celui de Romain Pilliard, la navigatrice doit rendre les armes face à l’ampleur des réparations.",
-      "source": "Libération",
-      "feed_rank": 23,
-      "url": "https://www.liberation.fr/sports/route-du-rhum-violette-dorange-reste-a-quai-20261106_U3LMHSPXFVBS7F4B65WPRWJLQ4/",
-      "published_at": "2026-11-06T18:00:28+00:00",
+      "id": "7fcf4ef92ce0",
+      "title": "Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre",
+      "summary": "Un simple geste suffit parfois. Dans les couloirs du Sénat, Bruno Retailleau résume à un collègue son déjeuner du 21 octobre avec David Lisnard : le Vendéen mime une \"grosse tête\", signe de la suffisance supposée de son rival à l’élection présidentielle . Les deux hommes sont convenus lors de cette entrevue d’un gentlemen's agreement, mais leurs…",
+      "source": "L'Express",
+      "feed_rank": 3,
+      "url": "https://www.lexpress.fr/politique/presidentielle-2027-david-lisnard-le-grand-perturbateur-de-la-droite-et-du-centre-ZOCC74ZJYVFZPHONPRH5TIIGFY/",
+      "published_at": "2026-11-06T16:24:42+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Route du rhum : Violette Dorange reste à quai » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre ».",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Libération",
-        "Midi Libre"
+        "L'Express",
+        "Le JDD",
+        "Public Sénat",
+        "Valeurs actuelles"
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 15.868,
-      "latest_coverage_at": "2026-11-06T18:00:28+00:00"
+      "importance_score": 16.068,
+      "latest_coverage_at": "2026-11-06T16:31:16+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "b44de77a07a0",
+      "title": "La liste des directs sport des 6 et 7 novembre sur le site de Ouest-France : Route du Rhum, Ligue 1, XV de France…",
+      "summary": "Ce sont deux jours très chargés en sport qui nous attendent ce week-end du 7 et 8 novembre. Entre les premières arrivées de la Route du Rhum, le retour du XV de France ou la 10e journée de Ligue 1, Ouest-France vous propose de suivre les plus grands événements du week-end en direct sur son site. Voici le programme des directs assurés par nos journalistes.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/la-liste-des-directs-sport-des-6-et-7-novembre-sur-le-site-de-ouest-france-route-du-rhum-ligue-1-xv-de-france-14b666ba-d9f6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T03:51:01+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « La liste des directs sport des 6 et 7 novembre sur le site de Ouest-France : Route du Rhum, Ligue 1, XV de France… ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1c9c4f723b79",
+      "title": "Après la déferlante démocrate, Israël redoute la fin d’un soutien inconditionnel",
+      "summary": "La victoire du Parti démocrate aux élections de mi-mandat et l’annonce surprise de Donald Trump sur la fin de l’aide militaire américaine inquiètent en Israël. Au-delà des milliards de dollars en jeu, c’est l’avenir de l’alliance stratégique entre les deux pays qui suscite des interrogations.",
+      "source": "Libération",
+      "feed_rank": 1,
+      "url": "https://www.liberation.fr/international/moyen-orient/apres-la-deferlante-democrate-israel-redoute-la-fin-dun-soutien-inconditionnel-20261107_66ZT5FEHKNHIZE4O2WS6QVIC74/",
+      "published_at": "2026-11-07T03:39:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Après la déferlante démocrate, Israël redoute la fin d’un soutien inconditionnel ».",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f3ed5b8a7d51",
+      "title": "Les Houthistes proposent un laissez-passer en mer Rouge aux navires qui en font la demande par mail",
+      "summary": "Le Wall Street Journal a examiné la correspondance entre des navires et le bureau de dédouanement peu connu des milices Houtistes pro-iraniens, révélant un système d’autorisation pour traverser la mer Rouge",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/monde/iran/les-houthistes-proposent-un-laissez-passer-en-mer-rouge-aux-navires-qui-en-font-la-demande-par-mail-00705b44-da4f-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T03:30:33+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les Houthistes proposent un laissez-passer en mer Rouge aux navires qui en font la demande par mail » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "218e329c9d2c",
       "title": "Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien",
       "summary": "Les États-Unis ont annoncé vendredi 6 novembre 2026 offrir une récompense de 20 millions de dollars « et un possible déménagement » à toute personne apportant des informations sur le programme nucléaire iranien.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/monde/iran/les-etats-unis-offrent-20-millions-de-dollars-pour-des-informations-sur-le-programme-nucleaire-iranien-c52dd8cc-da4e-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T02:49:15+00:00",
       "category": "International",
@@ -517,6 +566,22 @@
       ],
       "coverage_count": 2,
       "mention_count": 2
+    },
+    {
+      "id": "3448086c40e6",
+      "title": "Les houthistes délivrent des autorisations par email aux navires pour traverser la mer Rouge",
+      "summary": "Le « Wall Street Journal » reproduit des courriels des combattants yéménites pro-iraniens répondant à des messages qui leur demandent une autorisation de passage en toute sécurité.",
+      "source": "Le Monde",
+      "feed_rank": 14,
+      "url": "https://www.lemonde.fr/international/article/2026/11/07/les-houthistes-delivrent-des-autorisations-par-email-aux-navires-pour-traverser-la-mer-rouge_6808034_3210.html",
+      "published_at": "2026-11-07T01:29:07+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les houthistes délivrent des autorisations par email aux navires pour traverser la mer Rouge » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "3fb44f4ac59c",
@@ -821,7 +886,7 @@
       "title": "Tennis. Fils, Zverev, Alcaraz… Les huit qualifiés pour le Masters sont désormais connus",
       "summary": "La défaite de Taylor Fritz en quarts de finale du Rolex Paris Masters, ce vendredi 6 novembre, scelle définitivement les huit qualifiés pour le Masters. En l’absence de Jannik Sinner, toujours blessé au genou, le 9e mondial au classement ATP sera également de la partie.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/tennis/tennis-fils-zverev-alcaraz-les-huit-qualifies-pour-le-masters-sont-desormais-connus-3202f012-da2d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:48:36+00:00",
       "category": "Sport",
@@ -869,7 +934,7 @@
       "title": "Rugby. L’Irlande écrase l’Argentine lors du championnat des Nations",
       "summary": "Les Irlandais ont arraché leur troisième victoire dans le Championnat des Nations face à des Pumas impuissants ce vendredi 6 novembre. Avec six essais inscrits (42-12), l’Irlande décroche une victoire bonifiée. Leurs prochains matches se joueront le samedi 14 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/rugby/rugby-lirlande-ecrase-largentine-lors-du-championnat-des-nations-3e4a3ca6-da30-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:45:31+00:00",
       "category": "Sport",
@@ -885,7 +950,7 @@
       "title": "Masters 1000 de Paris. Alcaraz renverse Fritz après avoir sauvé deux balles de match et file en demi-finales",
       "summary": "Au terme d’un combat de plus de deux heures, l’Espagnol Carlos Alcaraz, a renversé ce vendredi 6 novembre 2026, l’Américain Taylor Fritz (6-7, 7-5, 6-3), après avoir écarté deux balles de match dans la deuxième manche. Le numéro 3 mondial disputera pour la première fois les demi-finales du Masters 1000 de Paris.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/tennis/masters-paris-bercy/masters-1000-de-paris-alcaraz-renverse-fritz-apres-avoir-sauve-deux-balles-de-match-et-file-en-demi-finales-cf95f08c-da1d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:42:11+00:00",
       "category": "Sport",
@@ -949,27 +1014,11 @@
       "title": "OL. Négociations en bonne voie entre Lyon et Carlos Vicens, qui devrait succéder à Paulo Fonseca",
       "summary": "Orphelin de Paulo Fonseca, parti au Sporting Portugal après un tiers de saison, l’Olympique Lyonnais devrait rapidement officialiser l’arrivée de son nouvel entraîneur. D’après L’Équipe, les négociations avec Carlos Vicens, licencié par Braga le 20 octobre, sont en bonne voie.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/olympique-lyonnais/ol-negociations-en-bonnes-voies-entre-lyon-et-carlos-vicens-qui-devrait-succeder-a-paulo-fonseca-8e3710ec-da2e-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:36:28+00:00",
       "category": "Société",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « OL. Négociations en bonne voie entre Lyon et Carlos Vicens, qui devrait succéder à Paulo Fonseca ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "201c4c2db060",
-      "title": "Ligue 1. Toulouse se rassure contre Strasbourg en ouverture de la 10e journée",
-      "summary": "En ouverture de la 10e journée de Ligue 1 ce vendredi 6 novembre, Toulouse a battu Strasbourg 3 buts à 1 grâce à des réalisations de Santiago Hidalgo, Mark McKenzie et Thomas Jörgensen. Les Violets remontent provisoirement à la 10e place du championnat tandis que Strasbourg, désormais 13e, s’approche de la zone de relégation.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-toulouse-se-rassure-contre-strasbourg-en-ouverture-de-la-10e-journee-e5188450-da23-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-06T22:35:35+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue 1. Toulouse se rassure contre Strasbourg en ouverture de la 10e journée ».",
       "coverage_sources": [
         "Ouest-France"
       ],
@@ -988,22 +1037,6 @@
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Rugby - Pro D2. Fin de série et résultat frustrant : vaine course-poursuite pour le FCG à Soyaux/Angoulême ».",
       "coverage_sources": [
         "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "93917e75b0e3",
-      "title": "Pourquoi le footballeur Allan Saint-Maximin n’a pas voulu vendre son jeu de société à 26 millions d’euros",
-      "summary": "Appelée Hélios, le jeu de cartes d’Allan Saint-Maximin avait attisé la curiosité d’un acheteur qui lui proposait de lui acheter pour 26 millions d’euros. Une offre que l’ancien joueur du RC Lens a refusée, ce qui a provoqué l’étonnement d’une partie du public. Sur un post Instagram, il explique les raisons.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/pourquoi-le-footballeur-allan-saint-maximin-na-pas-voulu-vendre-son-jeu-de-societe-a-26-millions-deuros-71ff6d3a-da19-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-06T22:23:52+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Pourquoi le footballeur Allan Saint-Maximin n’a pas voulu vendre son jeu de société à 26 millions d’euros ».",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1743,7 +1776,7 @@
       "title": "Procès de la «petite inconnue de l’A10» : «C’est affreux, comment j’ai pu faire tout ça ?»",
       "summary": "La cour d’assises du Loir-et-Cher a interrogé, ce vendredi, Halima El Bakhti, 72 ans, jugée pour «actes de torture et de barbarie ayant entraîné la mort sans intention de la donner». L’accusée, souvent confuse, a peiné à reconnaître les sévices qui ont conduit à la mort de sa fille, Inass Touloub, 4 ans.",
       "source": "Libération",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.liberation.fr/societe/police-justice/proces-de-la-petite-inconnue-de-la10-cest-affreux-comment-jai-pu-faire-tout-ca-20261106_WLPLLW7ADNBUDGJOODXWGHX4Y4/",
       "published_at": "2026-11-06T21:16:05+00:00",
       "category": "Société",
@@ -1807,7 +1840,7 @@
       "title": "«Réparer le visible» : la Cinémathèque Afrique de fonds en comble",
       "summary": "La chercheuse et programmatrice Farah Clémentine Dramani-Issifou dirige un passionnant livre collectif, retraçant l’histoire et les perspectives de la plus importante collection de longs métrages africains au monde.",
       "source": "Libération",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.liberation.fr/culture/cinema/reparer-le-visible-la-cinematheque-afrique-de-fonds-en-comble-20261106_DXSKCMJRFFHTLGJCU532BL65BI/",
       "published_at": "2026-11-06T21:12:00+00:00",
       "category": "Culture",
@@ -1903,7 +1936,7 @@
       "title": "Quatre personnes mises en examen après les cambriolages de plusieurs musées",
       "summary": "Au terme de quatre mois d’investigations, menées par quelque 90 gendarmes et policiers, six personnes ont été interpellées pour les casses du musée Lalique (Bas-Rhin) et de celui de Montans (Tarn).",
       "source": "Libération",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.liberation.fr/societe/police-justice/quatre-personnes-mises-en-examen-apres-les-cambriolages-de-plusieurs-musees-20261106_JTILI46WMRBJFDXZMINSXIVMHE/",
       "published_at": "2026-11-06T20:56:15+00:00",
       "category": "Culture",
@@ -1984,7 +2017,7 @@
       "title": "Remaniement : après la débâcle des midterms, Trump fait de l’un de ses conseillers les plus durs son nouveau directeur de cabinet",
       "summary": "L’architecte de la politique anti-immigration agressive de la Maison Blanche Stephen Miller, en guerre contre «la culture cancéreuse, communiste et woke», hérite de l’un des postes les plus stratégiques de l’exécutif américain.",
       "source": "Libération",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.liberation.fr/international/amerique/remaniement-apres-la-debacle-des-midterms-trump-fait-de-lun-de-ses-conseillers-les-plus-durs-son-nouveau-directeur-de-cabinet-20261106_PHPMB444VVGXVLFBAOER5VTRNA/",
       "published_at": "2026-11-06T20:44:03+00:00",
       "category": "Politique",
@@ -2081,7 +2114,7 @@
       "title": "Midterms : chez les républicains, le sprint pour sécuriser la Cour suprême",
       "summary": "En poussant deux magistrats à la retraite, pour les remplacer avant l’arrivée des démocrates au Congrès le 3 janvier 2027, le parti de Trump voudrait s’assurer une majorité conservatrice dans la plus haute instance judiciaire du pays.",
       "source": "Libération",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.liberation.fr/international/amerique/midterms-chez-les-republicains-le-sprint-pour-securiser-la-cour-supreme-20261106_XHTO6XRQ3FGV7IR4PO7GLX573M/",
       "published_at": "2026-11-06T20:32:58+00:00",
       "category": "Société",
@@ -2386,7 +2419,7 @@
       "title": "Des élections pour quoi fuir ?",
       "summary": "Il ne suffit pas de voter pour l’autre pour que les problèmes posés par l’un se résolvent.",
       "source": "Libération",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.liberation.fr/idees-et-debats/opinions/des-elections-pour-quoi-fuir-20261106_HSJQBKNWYZD2VDR3Q5ZNAOVLII/",
       "published_at": "2026-11-06T20:14:00+00:00",
       "category": "Politique",
@@ -2578,7 +2611,7 @@
       "title": "Lola Sauvageot, Olivier Rocabois, Haute & Freddy, Tyreek McDole... la playlist du cahier musique de «Libération»",
       "summary": "Chaque week-end, la web radio de «Tsugi» accompagne le cahier musique de «Libération»",
       "source": "Libération",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.liberation.fr/culture/musique/lola-sauvageot-olivier-rocabois-haute-freddy-tyreek-mcdole-la-playlist-du-cahier-musique-de-liberation-20261106_GOKTSIAXKFBF7MUYUCGVY7MKCI/",
       "published_at": "2026-11-06T20:00:00+00:00",
       "category": "Culture",
@@ -2629,7 +2662,7 @@
       "title": "D’un Bourget à l’autre : comment Jean-Luc Mélenchon veut continuer de supplanter le PS",
       "summary": "Lors d’un grand meeting de présentation de son programme au Parc des Expositions, ce samedi 7 novembre, le leader insoumis va tenter une nouvelle «démonstration de force», pour asseoir l’idée qu’il est devenu le candidat naturel de la gauche.",
       "source": "Libération",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.liberation.fr/politique/dun-bourget-a-lautre-comment-jean-luc-melenchon-veut-continuer-de-supplanter-le-ps-20261106_A22URJZ24NCBFAVXZYA5VXMMIA/",
       "published_at": "2026-11-06T19:54:47+00:00",
       "category": "Culture",
@@ -2645,7 +2678,7 @@
       "title": "Présidentielle 2027 : au Bourget, Mélenchon et l’ombre de Hollande",
       "summary": "En choisissant ce ce Parc des Expositions, samedi, pour annoncer son programme, le candidat LFI fait écho au meeting de François Hollande, victorieux en 2012. Mais contrairement au candidat socialiste d’alors, le leader insoumis n’a pas fait le choix de rassembler.",
       "source": "Libération",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.liberation.fr/idees-et-debats/editorial/presidentielle-2027-au-bourget-melenchon-et-lombre-de-hollande-20261106_QLPLAYU2MJEXJFQYEAJXBE45MU/",
       "published_at": "2026-11-06T19:51:28+00:00",
       "category": "Culture",
@@ -2661,7 +2694,7 @@
       "title": "Accident dans l’Ain : le conducteur, «hospitalisé sous le régime de la garde à vue», «se serait assoupi» au volant, annonce la procureure",
       "summary": "Le véhicule a quitté la route ce vendredi matin, au niveau de la commune de Lent, pour une raison encore inconnue. Deux personnes, âgées de 7 et 18 ans, sont mortes. Quatre autres se trouvent en urgence absolue.",
       "source": "Libération",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.liberation.fr/societe/en-direct-accident-de-car-scolaire-dans-lain-deux-morts-dont-au-moins-un-mineur-le-ministre-des-transports-attendu-sur-place-20261106_XISAFXXEXJH37OSMP2EGYLG5EA/",
       "published_at": "2026-11-06T19:45:33+00:00",
       "category": "Société",
@@ -2773,7 +2806,7 @@
       "title": "Midterms : la Chine de Xi Jinping sur ses gardes après la défaite de Trump",
       "summary": "La victoire des démocrates laisse la Chine dans l’expectative, alors que les relations entre le président américain et Xi Jinping semblaient s’apaiser. Au Congrès, les démocrates pourraient relancer l’aide militaire à Taiwan.",
       "source": "Libération",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.liberation.fr/international/asie-pacifique/midterms-la-chine-de-xi-jinping-sur-ses-gardes-apres-la-defaite-de-trump-20261106_FY3HYATPBBD6VCLX3323RCRGUY/",
       "published_at": "2026-11-06T19:39:00+00:00",
       "category": "Politique",
@@ -2965,7 +2998,7 @@
       "title": "«On s’est retrouvés dans un guet-apens» : à Strasbourg, le bus transformé en fourgon de police qui choque",
       "summary": "A l’issue de la manifestation contre la vie chère, jeudi 5 novembre, une soixantaine de personnes ont été interpellées et embarquées au commissariat avec le concours d’un véhicule de la compagnie des transports strasbourgeois.",
       "source": "Libération",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.liberation.fr/societe/police-justice/on-sest-retrouves-dans-un-guet-apens-a-strasbourg-le-bus-transforme-en-fourgon-de-police-qui-choque-20261106_YRHFBX5E4FHUFNDWJX324OSIQI/",
       "published_at": "2026-11-06T19:18:45+00:00",
       "category": "Société",
@@ -3045,7 +3078,7 @@
       "title": "«Tout le monde va s’émouvoir» : la SNCF dévoile son nouveau TGV avec un train de retard",
       "summary": "Attendu depuis 2024, le train à grande vitesse «nouvelle génération» a été inauguré ce vendredi 6 novembre par Jean Castex. Au menu, des rames relookées, plus d’espace pour les jambes et des économies d’énergie. Il circulera dès lundi sur la ligne Paris-Marseille.",
       "source": "Libération",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.liberation.fr/economie/transports/tout-le-monde-va-semouvoir-la-sncf-devoile-son-nouveau-tgv-avec-un-train-de-retard-20261106_YHPRDJYY55CIDHXV3UAB6DG6EE/",
       "published_at": "2026-11-06T19:10:22+00:00",
       "category": "Économie",
@@ -3110,7 +3143,7 @@
       "title": "Accident de car dans l’Ain : «Je n’ai pas eu le temps de relever la tête de mon téléphone qu’on était dans le fossé»",
       "summary": "La sortie de route du véhicule au niveau de la commune de Lent a provoqué la mort d’un jeune adulte et d’une enfant de 7 ans. Quatre personnes sont hospitalisées en état d’urgence absolue. Placé en garde à vue, le chauffeur a déclaré qu’il «se serait assoupi».",
       "source": "Libération",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.liberation.fr/societe/accident-de-car-dans-lain-je-nai-pas-eu-le-temps-de-relever-la-tete-de-mon-telephone-quon-etait-dans-le-fosse-20261106_KKD2M35SANHBDKSFEAZBX6FCGU/",
       "published_at": "2026-11-06T19:05:43+00:00",
       "category": "Société",
@@ -3206,7 +3239,7 @@
       "title": "France Info : l’éditorialiste Alix Bouilhaguet visée par une procédure disciplinaire après de fausses affirmations sur Mélenchon",
       "summary": "Pour la deuxième fois en deux ans, la journaliste se fait reprendre après la diffusion de contre-vérités ou d’accusations à tort à l’antenne. Elle a été convoquée par la direction.",
       "source": "Libération",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.liberation.fr/economie/medias/france-info-leditorialiste-alix-bouilhaguet-visee-par-une-procedure-disciplinaire-apres-de-fausses-affirmations-sur-melenchon-20261106_ZY3F7XTERBHEDPAEFHHJMX2BVM/",
       "published_at": "2026-11-06T19:01:14+00:00",
       "category": "Médias & communication",
@@ -3398,7 +3431,7 @@
       "title": "Nouvelle-Calédonie : les indépendantistes du FLNKS annoncent soutenir Jean-Luc Mélenchon pour la présidentielle",
       "summary": "L’union de partis politiques kanak s’est rangé ce vendredi 6 novembre derrière La France insoumise, favorable à l’indépendance du territoire dès 2028.",
       "source": "Libération",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.liberation.fr/politique/elections/nouvelle-caledonie-les-independantistes-du-flnks-annoncent-soutenir-jean-luc-melenchon-pour-la-presidentielle-20261106_TTITGX45JBBWPFJ4KYEZ7RI47U/",
       "published_at": "2026-11-06T18:50:14+00:00",
       "category": "Politique",
@@ -3592,7 +3625,7 @@
       "title": "Malgré la débâcle aux élections de mi-mandat, Trump menace toujours l’Iran",
       "summary": "Du Moyen-Orient à la Chine ou la Russie, les tractations diplomatiques s’intensifient pour convaincre le président américain de ne pas relancer la guerre.",
       "source": "Libération",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.liberation.fr/international/moyen-orient/malgre-la-debacle-aux-elections-de-mi-mandat-trump-menace-toujours-liran-20261106_66R4REDTERGXRKH3EPVDAX5QYE/",
       "published_at": "2026-11-06T18:38:49+00:00",
       "category": "Politique",
@@ -3679,6 +3712,22 @@
       "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Médine, conscience et engagement ».",
       "coverage_sources": [
         "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "646eeb5fc7f3",
+      "title": "Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes",
+      "summary": "L’accès au lac Blanc et aux lacs des Chéserys, offrant une vue imprenable sur le massif du Mont-Blanc, devrait être soumis à une réservation obligatoire, avec des jauges de 600 à 1 000 personnes, à partir de l’été 2027, sur le modèle en place dans les calanques de Marseille.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/planete/article/2026/11/06/surfrequentation-a-chamonix-vers-l-instauration-de-quotas-touristiques-une-premiere-dans-les-alpes_6807854_3244.html",
+      "published_at": "2026-11-06T18:30:06+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4062,7 +4111,7 @@
       "title": "Propos racistes, Sonia Mabrouk, grèves… Dans les coulisses d’une semaine de crise à BFM TV",
       "summary": "Entre démission potentielle de l’animatrice venue de CNews et mobilisation des reporters ce jeudi 5 novembre, les derniers jours ont été mouvementés. Nombre de salariés reprochent à la hiérarchie une «dérive éditoriale» et la banalisation des discours discriminatoires en plateau.",
       "source": "Libération",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.liberation.fr/economie/medias/propos-racistes-sonia-mabrouk-greves-dans-les-coulisses-dune-semaine-de-crise-a-bfm-tv-20261106_3HRGP3R4RREMRKBX7BZISDGBLY/",
       "published_at": "2026-11-06T18:09:09+00:00",
       "category": "Société",
@@ -4174,7 +4223,7 @@
       "title": "De l’Ukraine à Taïwan : les drones navals, une menace qui plane sur la sécurité en mer",
       "summary": "Les bateaux télécommandés ont fait une apparition massive au salon Euronaval du 3 au 6 novembre à Paris. Comme leurs équivalents aériens, ils bouleversent la conception de la défense et du combat maritime.",
       "source": "Libération",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.liberation.fr/international/europe/de-lukraine-a-taiwan-les-drones-navals-une-menace-qui-plane-sur-la-securite-en-mer-20261106_MMIKX2DQ2ZB6PLB25IQNI2XKYY/",
       "published_at": "2026-11-06T18:02:46+00:00",
       "category": "Société",
@@ -4254,7 +4303,7 @@
       "title": "Route du rhum : Violette Dorange reste à quai",
       "summary": "Contrainte de regagner terre quelques heures après le départ de la course à cause d’une collision de son voilier avec celui de Romain Pilliard, la navigatrice doit rendre les armes face à l’ampleur des réparations.",
       "source": "Libération",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.liberation.fr/sports/route-du-rhum-violette-dorange-reste-a-quai-20261106_U3LMHSPXFVBS7F4B65WPRWJLQ4/",
       "published_at": "2026-11-06T18:00:28+00:00",
       "category": "Société",
@@ -4431,7 +4480,7 @@
       "title": "Dans les collèges et les lycées, le « cauchemar » des baisses de crédits depuis la rentrée : « Il y a des dispositifs qu’on n’a plus les moyens de financer »",
       "summary": "Les chefs d’établissement alertent sur la réduction de leurs enveloppes d’heures supplémentaires, qui financent l’accompagnement aux devoirs ou les projets culturels. Double conséquence de budgets en baisse et de l’instabilité politique, qui empêche toute visibilité sur le contenu des lois de finances de l’année suivante.",
       "source": "Le Monde",
-      "feed_rank": 3,
+      "feed_rank": 1,
       "url": "https://www.lemonde.fr/societe/article/2026/11/06/dans-les-colleges-et-les-lycees-le-cauchemar-des-baisses-de-credits-depuis-la-rentree-il-y-a-des-dispositifs-qu-on-n-a-plus-les-moyens-de-financer_6807846_3224.html",
       "published_at": "2026-11-06T17:50:46+00:00",
       "category": "Politique",
@@ -4720,7 +4769,7 @@
       "title": "Après le succès du 5 novembre, les syndicats déterminés iront à Matignon lundi 9 pour obtenir des mesures concrètes",
       "summary": "Le Premier ministre a donné rendez-vous aux organisations syndicales et patronales lundi 9 novembre. Un «coup de pouce» au smic semble sur la table, mais son ampleur risque de décevoir les syndicats, qui réfléchissent à la suite.",
       "source": "Libération",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.liberation.fr/economie/social/apres-le-succes-du-5-novembre-les-syndicats-determines-iront-a-matignon-lundi-9-pour-obtenir-des-mesures-concretes-20261106_NQNL5HRS5FEMZJYSZLCEQH5NWQ/",
       "published_at": "2026-11-06T17:34:39+00:00",
       "category": "Politique",
@@ -4848,22 +4897,6 @@
       "mention_count": 5
     },
     {
-      "id": "679a9d20f067",
-      "title": "Accident de car dans l’Ain, plainte collective contre Nuñez, programme de Mélenchon... L’actu de ce vendredi 6 novembre",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "source": "Libération",
-      "feed_rank": 25,
-      "url": "https://www.liberation.fr/international/europe/accident-de-car-dans-lain-plainte-collective-contre-nunez-programme-de-melenchon-lactu-de-ce-vendredi-6-novembre-20261106_6NBE4UUSABAZZIWU3QLDYSP3GQ/",
-      "published_at": "2026-11-06T17:29:47+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Accident de car dans l’Ain, plainte collective contre Nuñez, programme de Mélenchon... L’actu de ce vendredi 6 novembre ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "81f9b0194ed5",
       "title": "« Il faut casser le monopole Bolloré » : un magasin Relay de Paris « déménagé » pour dénoncer la « propagande » d’extrême droite dans les gares",
       "summary": "Depuis la prise de contrôle de Lagardère par Vincent Bolloré fin 2023, ce partenariat a fait naître des questions sur la place privilégiée que les magasins Relay accorderaient aux journaux et ouvrages",
@@ -4874,12 +4907,11 @@
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Il faut casser le monopole Bolloré » : un magasin Relay de Paris « déménagé » pour dénoncer la « propagande » d’extrême droite dans les gares » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Le Monde",
         "Libération",
         "Sud Ouest"
       ],
-      "coverage_count": 3,
-      "mention_count": 3
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "97a36efc5bcd",
@@ -5310,38 +5342,6 @@
       "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Ventes de livres : Philippe Jaenada, François-Henri Désérable... Que peuvent espérer les auteurs primés ? ».",
       "coverage_sources": [
         "L'Express"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "114eb27e1760",
-      "title": "Autoroute A69 : Quels sont les tronçons d’autoroute les plus chers en France ?",
-      "summary": "<p>Dix euros pour parcourir quelque 53 kilomètres. Après trente années de débats enflammés, les promoteurs de l’autoroute A69 entre Toulouse et Castres pensaient sans doute avoir la paix <a href=\"https://www.20minutes.fr/societe/4260831-20261106-autoroute-a69-ouvre-vendredi-prix-peage-exorbitant\">en ouvrant le tronçon ce vendredi</a>. Sauf qu’une…",
-      "source": "20 Minutes",
-      "feed_rank": 5,
-      "url": "https://www.20minutes.fr/societe/4261052-20261106-autoroute-a69-troncons-autoroute-plus-chers-france?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-06T17:01:48+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Autoroute A69 : Quels sont les tronçons d’autoroute les plus chers en France ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "20 Minutes"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ede5d6120a8d",
-      "title": "Sondage : Emmanuel Macron devient le président le plus impopulaire de la Vème République, devant François Hollande",
-      "summary": "Record battu ! Emmanuel Macron détient désormais le record d’impopularité d’un chef d’État sous la Ve République, conservé jusqu’ici par François Hollande. « Il s’agit de la cote de confiance la plus basse jamais mesurée. » Selon le dernier sondage Elabe pour le journal Les Échos , publié jeudi 5 novembre, seulement 13 % des Français font désormais…",
-      "source": "Valeurs actuelles",
-      "feed_rank": 6,
-      "url": "https://www.valeursactuelles.com/politique/sondage-emmanuel-macron-devient-le-president-le-plus-impopulaire-de-la-veme-republique-devant-francois-hollande",
-      "published_at": "2026-11-06T17:01:16+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Sondage : Emmanuel Macron devient le président le plus impopulaire de la Vème République, devant François Hollande ».",
-      "coverage_sources": [
-        "Valeurs actuelles"
       ],
       "coverage_count": 1,
       "mention_count": 1
