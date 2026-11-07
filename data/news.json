@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-07T00:00:20.101140+00:00",
-  "last_attempt": "2026-11-07T00:00:20.101140+00:00",
+  "last_updated": "2026-11-07T01:00:20.304754+00:00",
+  "last_attempt": "2026-11-07T01:00:20.304754+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 901,
-  "unique_story_count": 818,
+  "unique_story_count": 817,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-07T00:00:20.101140+00:00",
-  "featured_window_end": "2026-11-07T00:00:20.101140+00:00",
+  "featured_window_start": "2026-10-07T01:00:20.304754+00:00",
+  "featured_window_end": "2026-11-07T01:00:20.304754+00:00",
   "featured_pool_count": 900,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "ee5da2029cd0",
-      "title": "\"Star Academy\" : Vianney a préparé un week-end \"un peu spécial\" aux élèves, leur réaction est hilarante",
-      "summary": "Fort de son expérience dans sa cabane dans les bois, Vianney souhaite faire vivre la même chose à ses filleuls de la \"Star Academy\". L'interprète de \"Pas là\" les convie à une mise au vert \"un peu différente\" de ce qu'ils ont l'habitude de vivre au Château. Toutes les prestations de la saison sont à retrouver sur TF1+.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 2,
-      "url": "https://www.tf1info.fr/culture/programme-tv-tf1-star-academy-2026-vianney-a-prepare-un-week-end-un-peu-special-aux-eleves-leur-reaction-est-hilarante-2474427.html",
-      "published_at": "2026-11-06T22:58:41+00:00",
+      "id": "22d8ca43478c",
+      "title": "« Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques",
+      "summary": "Laurent Nuñez a annoncé vendredi que 70 000 policiers et gendarmes seront déployés à travers le pays. Avec les mêmes consignes de « grande fermeté » en cas de débordements.",
+      "source": "Le Figaro",
+      "feed_rank": 1,
+      "url": "https://www.lefigaro.fr/actualite-france/nous-attendons-les-casseurs-de-pied-ferme-les-forces-de-l-ordre-deploient-a-nouveau-un-dispositif-xxl-a-l-occasion-de-ce-samedi-a-hauts-risques-20261106",
+      "published_at": "2026-11-07T00:47:34+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Star Academy\" : Vianney a préparé un week-end \"un peu spécial\" aux élèves, leur réaction est hilarante » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -69,16 +69,16 @@
         "INA – La Revue des médias"
       ],
       "coverage_count": 37,
-      "mention_count": 214,
-      "importance_score": 36.695,
-      "latest_coverage_at": "2026-11-06T23:30:08+00:00"
+      "mention_count": 216,
+      "importance_score": 36.717,
+      "latest_coverage_at": "2026-11-07T00:47:34+00:00"
     },
     {
       "id": "ada0e44cf317",
       "title": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
       "summary": "Le souverain pontife, opéré en octobre d’un cancer du poumon, a déclaré être « plutôt en bonne forme » dans l’avion qui le menait vendredi à Montevideo, capitale de l’Uruguay et première étape de sa tournée.",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
       "published_at": "2026-11-06T22:02:24+00:00",
       "category": "Société",
@@ -97,7 +97,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 14,
-      "importance_score": 23.386,
+      "importance_score": 23.361,
       "latest_coverage_at": "2026-11-06T22:02:35+00:00"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 10,
-      "importance_score": 23.0,
+      "importance_score": 22.979,
       "latest_coverage_at": "2026-11-06T22:50:43+00:00"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 10,
-      "importance_score": 21.645,
+      "importance_score": 21.642,
       "latest_coverage_at": "2026-11-06T22:00:12+00:00"
     },
     {
@@ -174,31 +174,8 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.039,
+      "importance_score": 21.036,
       "latest_coverage_at": "2026-11-06T18:16:05+00:00"
-    },
-    {
-      "id": "7fcf4ef92ce0",
-      "title": "Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre",
-      "summary": "Un simple geste suffit parfois. Dans les couloirs du Sénat, Bruno Retailleau résume à un collègue son déjeuner du 21 octobre avec David Lisnard : le Vendéen mime une \"grosse tête\", signe de la suffisance supposée de son rival à l’élection présidentielle . Les deux hommes sont convenus lors de cette entrevue d’un gentlemen's agreement, mais leurs…",
-      "source": "L'Express",
-      "feed_rank": 3,
-      "url": "https://www.lexpress.fr/politique/presidentielle-2027-david-lisnard-le-grand-perturbateur-de-la-droite-et-du-centre-ZOCC74ZJYVFZPHONPRH5TIIGFY/",
-      "published_at": "2026-11-06T16:24:42+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre ».",
-      "coverage_sources": [
-        "Le Monde",
-        "L'Express",
-        "LCP",
-        "Le JDD",
-        "Public Sénat",
-        "Valeurs actuelles"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 18.938,
-      "latest_coverage_at": "2026-11-06T16:31:16+00:00"
     },
     {
       "id": "95d24f67bd4c",
@@ -220,31 +197,8 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.933,
+      "importance_score": 18.93,
       "latest_coverage_at": "2026-11-06T20:25:15+00:00"
-    },
-    {
-      "id": "1f808d9ba5d0",
-      "title": "Julie, Jade, Virginia: les violences sexuelles tuent",
-      "summary": "Julie, première plaignante contre l’animateur Sébastien Cauet, mis en examen pour viols et agressions sexuelles sur quatre femmes, dont trois mineures, s’est suicidée lundi 2 novembre. De nombreuses études établissent le lien entre ce type de violences et la détresse psychique.",
-      "source": "Mediapart",
-      "feed_rank": 1,
-      "url": "https://www.mediapart.fr/journal/france/061126/julie-jade-virginia-les-violences-sexuelles-tuent",
-      "published_at": "2026-11-06T18:49:20+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Julie, Jade, Virginia: les violences sexuelles tuent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Mediapart",
-        "L'Obs",
-        "20 Minutes",
-        "L'Humanité",
-        "Paris Match",
-        "Télérama"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 18.806,
-      "latest_coverage_at": "2026-11-06T18:49:20+00:00"
     },
     {
       "id": "ede5d6120a8d",
@@ -265,7 +219,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.168,
+      "importance_score": 18.165,
       "latest_coverage_at": "2026-11-06T17:01:16+00:00"
     },
     {
@@ -287,7 +241,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 18.123,
+      "importance_score": 18.12,
       "latest_coverage_at": "2026-11-06T21:16:05+00:00"
     },
     {
@@ -309,7 +263,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.036,
+      "importance_score": 18.033,
       "latest_coverage_at": "2026-11-06T22:02:22+00:00"
     },
     {
@@ -331,15 +285,37 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.915,
+      "importance_score": 17.913,
       "latest_coverage_at": "2026-11-06T22:24:16+00:00"
+    },
+    {
+      "id": "1f808d9ba5d0",
+      "title": "Julie, Jade, Virginia: les violences sexuelles tuent",
+      "summary": "Julie, première plaignante contre l’animateur Sébastien Cauet, mis en examen pour viols et agressions sexuelles sur quatre femmes, dont trois mineures, s’est suicidée lundi 2 novembre. De nombreuses études établissent le lien entre ce type de violences et la détresse psychique.",
+      "source": "Mediapart",
+      "feed_rank": 1,
+      "url": "https://www.mediapart.fr/journal/france/061126/julie-jade-virginia-les-violences-sexuelles-tuent",
+      "published_at": "2026-11-06T18:49:20+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Julie, Jade, Virginia: les violences sexuelles tuent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Mediapart",
+        "L'Obs",
+        "L'Humanité",
+        "Paris Match",
+        "Télérama"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.582,
+      "latest_coverage_at": "2026-11-06T18:49:20+00:00"
     },
     {
       "id": "03966a701376",
       "title": "Masters 1000 de Paris. Alcaraz renverse Fritz après avoir sauvé deux balles de match et file en demi-finales",
       "summary": "Au terme d’un combat de plus de deux heures, l’Espagnol Carlos Alcaraz, a renversé ce vendredi 6 novembre 2026, l’Américain Taylor Fritz (6-7, 7-5, 6-3), après avoir écarté deux balles de match dans la deuxième manche. Le numéro 3 mondial disputera pour la première fois les demi-finales du Masters 1000 de Paris.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/tennis/masters-paris-bercy/masters-1000-de-paris-alcaraz-renverse-fritz-apres-avoir-sauve-deux-balles-de-match-et-file-en-demi-finales-cf95f08c-da1d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:42:11+00:00",
       "category": "Sport",
@@ -353,7 +329,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.605,
+      "importance_score": 17.565,
       "latest_coverage_at": "2026-11-06T22:45:35+00:00"
     },
     {
@@ -374,7 +350,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.43,
+      "importance_score": 16.428,
       "latest_coverage_at": "2026-11-06T16:01:15+00:00"
     },
     {
@@ -395,7 +371,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.382,
+      "importance_score": 16.38,
       "latest_coverage_at": "2026-11-06T22:56:17+00:00"
     },
     {
@@ -416,7 +392,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.336,
+      "importance_score": 16.333,
       "latest_coverage_at": "2026-11-06T18:25:13+00:00"
     },
     {
@@ -436,7 +412,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 9,
-      "importance_score": 16.195,
+      "importance_score": 16.192,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     },
     {
@@ -457,7 +433,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.171,
+      "importance_score": 16.169,
       "latest_coverage_at": "2026-11-06T21:10:14+00:00"
     },
     {
@@ -478,15 +454,36 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.089,
+      "importance_score": 16.087,
       "latest_coverage_at": "2026-11-06T20:25:26+00:00"
+    },
+    {
+      "id": "7fcf4ef92ce0",
+      "title": "Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre",
+      "summary": "Un simple geste suffit parfois. Dans les couloirs du Sénat, Bruno Retailleau résume à un collègue son déjeuner du 21 octobre avec David Lisnard : le Vendéen mime une \"grosse tête\", signe de la suffisance supposée de son rival à l’élection présidentielle . Les deux hommes sont convenus lors de cette entrevue d’un gentlemen's agreement, mais leurs…",
+      "source": "L'Express",
+      "feed_rank": 3,
+      "url": "https://www.lexpress.fr/politique/presidentielle-2027-david-lisnard-le-grand-perturbateur-de-la-droite-et-du-centre-ZOCC74ZJYVFZPHONPRH5TIIGFY/",
+      "published_at": "2026-11-06T16:24:42+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre ».",
+      "coverage_sources": [
+        "L'Express",
+        "Le JDD",
+        "Public Sénat",
+        "Valeurs actuelles"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.076,
+      "latest_coverage_at": "2026-11-06T16:31:16+00:00"
     },
     {
       "id": "c6a6d867f72f",
       "title": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
       "summary": "<p>« Nos élèves <a href=\"https://www.20minutes.fr/societe/greve/4260066-20261103-colere-sociale-ca-va-etre-chaud-rattraper-retard-lyceens-prets-retourner-cours-malgre-blocus\">ont besoin d’étudier</a>. » Le ministre de l’<a href=\"https://www.20minutes.fr/dossier/education_nationale\">Éducation nationale</a>, <a…",
       "source": "20 Minutes",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/societe/4261085-20261106-colere-lyceens-ministre-promet-sanctions-quand-acces-cours-bloques?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T20:20:23+00:00",
       "category": "Politique",
@@ -499,11 +496,100 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.032,
+      "importance_score": 15.995,
       "latest_coverage_at": "2026-11-06T20:20:23+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "22d8ca43478c",
+      "title": "« Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques",
+      "summary": "Laurent Nuñez a annoncé vendredi que 70 000 policiers et gendarmes seront déployés à travers le pays. Avec les mêmes consignes de « grande fermeté » en cas de débordements.",
+      "source": "Le Figaro",
+      "feed_rank": 1,
+      "url": "https://www.lefigaro.fr/actualite-france/nous-attendons-les-casseurs-de-pied-ferme-les-forces-de-l-ordre-deploient-a-nouveau-un-dispositif-xxl-a-l-occasion-de-ce-samedi-a-hauts-risques-20261106",
+      "published_at": "2026-11-07T00:47:34+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d939305fadd7",
+      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
+      "summary": "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole son parti pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes ».",
+      "source": "Le Monde",
+      "feed_rank": 12,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
+      "published_at": "2026-11-07T00:09:38+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Le Figaro"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "42e842e61808",
+      "title": "Midterms 2026 : l’ex-amirale Nancy Lacore, victime des purges de l’administration Trump à la tête du Pentagone, élue surprise en Caroline du Sud",
+      "summary": "L’ancienne cheffe d’état-major des forces navales américaines en Europe et en Afrique, qui s’était présentée sous la bannière démocrate, fait partie d’un nombre inédit de vétérans qui se sont lancés dans la course politique lors de ces élections de mi-mandat.",
+      "source": "Le Monde",
+      "feed_rank": 8,
+      "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-l-ex-amirale-nancy-lacore-victime-des-purges-de-l-administration-trump-a-la-tete-du-pentagone-elue-surprise-en-caroline-du-sud_6807934_3210.html",
+      "published_at": "2026-11-07T00:09:11+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026 : l’ex-amirale Nancy Lacore, victime des purges de l’administration Trump à la tête du Pentagone, élue surprise en Caroline du Sud ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "df85065f3367",
+      "title": "Etats-Unis : Trump nomme Stephen Miller, un représentant de la droite dure, au poste de chef de cabinet",
+      "summary": "<p>A 41 ans, <a href=\"https://www.20minutes.fr/monde/etats-unis/4158072-20250612-etats-unis-stephen-miller-architecte-repression-antimigrants-donald-trump\">Stephen Miller</a>, conseiller de longue date de <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> et inspirateur de sa politique migratoire, prendra lundi la direction du…",
+      "source": "20 Minutes",
+      "feed_rank": 3,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4261100-20261107-etats-unis-trump-nomme-stephen-miller-representant-droite-dure-poste-chef-cabinet?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-06T23:57:20+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Etats-Unis : Trump nomme Stephen Miller, un représentant de la droite dure, au poste de chef de cabinet ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "France 24",
+        "BFMTV",
+        "Ouest-France",
+        "Sud Ouest",
+        "20 Minutes",
+        "La Croix"
+      ],
+      "coverage_count": 9,
+      "mention_count": 9
+    },
+    {
+      "id": "6594c7d5ddd3",
+      "title": "Pouvoir d'achat des Français : travailler et s'appauvrir ?",
+      "summary": "Selon un récent sondage, 85 % des Français interrogés estiment que leur pouvoir d’achat s’est dégradé en dix ans. Sont-ils effectivement en train de travailler pour vivre moins bien qu'avant ? Nous avons posé la question à l'économiste Philippe Trainar.",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261106-pouvoir-d-achat-des-fran%C3%A7ais-travailler-et-s-appauvrir",
+      "published_at": "2026-11-06T23:30:05+00:00",
+      "category": "Économie",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Pouvoir d'achat des Français : travailler et s'appauvrir ? ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "75e8b9f09a10",
       "title": "Poussée de fièvre sur les écrans en vue de l'élection présidentielle en France",
@@ -525,13 +611,29 @@
       "title": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, visée par au moins six missiles balistiques selon l’armée de l’air",
       "summary": "Plus tôt dans la soirée de vendredi, Volodymyr Zelensky avait averti que, selon les renseignements ukrainiens, la Russie préparait une nouvelle attaque contre les infrastructures énergétiques, les ponts sur le Dniepr et des installations civiles",
       "source": "Le Monde",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-des-explosions-entendues-a-kiev-visee-par-au-moins-six-missiles-balistiques-selon-l-armee-de-l-air_6803934_3210.html",
       "published_at": "2026-11-06T23:12:04+00:00",
       "category": "International",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, visée par au moins six missiles balistiques selon l’armée de l’air ».",
       "coverage_sources": [
         "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a8f71b61c7a7",
+      "title": "Star Academy 2026 : « Tout le monde debout pour elles », la Toile a adoré leur duo",
+      "summary": "<p>Le prime de la Star Academy 2026 vendredi restera comme l’un des plus marquants de la saison à n’en douter. Et pour cause, (presque) tous les anciens vainqueurs étaient présents lors d’une émission qui leur était dédiée. Pierre Garnier est venu présenter la soirée durant quelques minutes, avant de laisser les rennes du programme à l’indétrônable Nikos…",
+      "source": "20 Minutes",
+      "feed_rank": 7,
+      "url": "https://www.20minutes.fr/arts-stars/television/4261097-20261107-star-academy-2026-tout-monde-debout-elles-toile-adore-duo?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-06T23:08:50+00:00",
+      "category": "International",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Star Academy 2026 : « Tout le monde debout pour elles », la Toile a adoré leur duo ».",
+      "coverage_sources": [
+        "20 Minutes"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -669,7 +771,7 @@
       "title": "Tennis. Fils, Zverev, Alcaraz… Les huit qualifiés pour le Masters sont désormais connus",
       "summary": "La défaite de Taylor Fritz en quarts de finale du Rolex Paris Masters, ce vendredi 6 novembre, scelle définitivement les huit qualifiés pour le Masters. En l’absence de Jannik Sinner, toujours blessé au genou, le 9e mondial au classement ATP sera également de la partie.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/sport/tennis/tennis-fils-zverev-alcaraz-les-huit-qualifies-pour-le-masters-sont-desormais-connus-3202f012-da2d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:48:36+00:00",
       "category": "Sport",
@@ -717,7 +819,7 @@
       "title": "Rugby. L’Irlande écrase l’Argentine lors du championnat des Nations",
       "summary": "Les Irlandais ont arraché leur troisième victoire dans le Championnat des Nations face à des Pumas impuissants ce vendredi 6 novembre. Avec six essais inscrits (42-12), l’Irlande décroche une victoire bonifiée. Leurs prochains matches se joueront le samedi 14 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/rugby/rugby-lirlande-ecrase-largentine-lors-du-championnat-des-nations-3e4a3ca6-da30-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:45:31+00:00",
       "category": "Sport",
@@ -733,7 +835,7 @@
       "title": "Masters 1000 de Paris. Alcaraz renverse Fritz après avoir sauvé deux balles de match et file en demi-finales",
       "summary": "Au terme d’un combat de plus de deux heures, l’Espagnol Carlos Alcaraz, a renversé ce vendredi 6 novembre 2026, l’Américain Taylor Fritz (6-7, 7-5, 6-3), après avoir écarté deux balles de match dans la deuxième manche. Le numéro 3 mondial disputera pour la première fois les demi-finales du Masters 1000 de Paris.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/tennis/masters-paris-bercy/masters-1000-de-paris-alcaraz-renverse-fritz-apres-avoir-sauve-deux-balles-de-match-et-file-en-demi-finales-cf95f08c-da1d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:42:11+00:00",
       "category": "Sport",
@@ -765,7 +867,7 @@
       "title": "Guerre en Ukraine : Le bilan de la frappe russe à Komychouvakha grimpe à 50 morts et il pourrait être pire",
       "summary": "<p>A Komychouvakha, un village de la région de Zaporijjia situé à une quinzaine de kilomètres du front, une distribution d’aide alimentaire était en cours lundi lorsque plusieurs bombes planantes russes ont touché le bâtiment où elle se tenait, selon <a href=\"https://www.20minutes.fr/dossier/kiev\">Kiev</a>. Les secours ont annoncé vendredi que 50…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.20minutes.fr/monde/ukraine/4261095-20261106-guerre-ukraine-bilan-frappe-russe-komychouvakha-grimpe-50-morts-pourrait-etre-pire?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T22:39:13+00:00",
       "category": "International",
@@ -777,11 +879,27 @@
       "mention_count": 1
     },
     {
+      "id": "e5cd5a2a874b",
+      "title": "Tournée d'Assimi Goïta dans l'AES : la lutte contre le terrorisme au cœur des échanges",
+      "summary": "Le général Assimi Goïta a effectué jeudi une visite au Niger et au Burkina Faso, officiellement la visite avait pour objectif notamment le renforcement de la lutte contre de terrorisme dans l’espace commun aux trois pays réunis au sein de l’Alliance des Etats du Sahel.",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261106-tourn%C3%A9e-d-assimi-go%C3%AFta-dans-l-aes-la-lutte-contre-le-terrorisme-au-c%C5%93ur-des-%C3%A9changes",
+      "published_at": "2026-11-06T22:37:31+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Tournée d'Assimi Goïta dans l'AES : la lutte contre le terrorisme au cœur des échanges ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "d4530b91ac6d",
       "title": "OL. Négociations en bonne voie entre Lyon et Carlos Vicens, qui devrait succéder à Paulo Fonseca",
       "summary": "Orphelin de Paulo Fonseca, parti au Sporting Portugal après un tiers de saison, l’Olympique Lyonnais devrait rapidement officialiser l’arrivée de son nouvel entraîneur. D’après L’Équipe, les négociations avec Carlos Vicens, licencié par Braga le 20 octobre, sont en bonne voie.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/olympique-lyonnais/ol-negociations-en-bonnes-voies-entre-lyon-et-carlos-vicens-qui-devrait-succeder-a-paulo-fonseca-8e3710ec-da2e-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:36:28+00:00",
       "category": "Société",
@@ -797,7 +915,7 @@
       "title": "Ligue 1. Toulouse se rassure contre Strasbourg en ouverture de la 10e journée",
       "summary": "En ouverture de la 10e journée de Ligue 1 ce vendredi 6 novembre, Toulouse a battu Strasbourg 3 buts à 1 grâce à des réalisations de Santiago Hidalgo, Mark McKenzie et Thomas Jörgensen. Les Violets remontent provisoirement à la 10e place du championnat tandis que Strasbourg, désormais 13e, s’approche de la zone de relégation.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-toulouse-se-rassure-contre-strasbourg-en-ouverture-de-la-10e-journee-e5188450-da23-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:35:35+00:00",
       "category": "Sport",
@@ -829,7 +947,7 @@
       "title": "Pourquoi le footballeur Allan Saint-Maximin n’a pas voulu vendre son jeu de société à 26 millions d’euros",
       "summary": "Appelée Hélios, le jeu de cartes d’Allan Saint-Maximin avait attisé la curiosité d’un acheteur qui lui proposait de lui acheter pour 26 millions d’euros. Une offre que l’ancien joueur du RC Lens a refusée, ce qui a provoqué l’étonnement d’une partie du public. Sur un post Instagram, il explique les raisons.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/pourquoi-le-footballeur-allan-saint-maximin-na-pas-voulu-vendre-son-jeu-de-societe-a-26-millions-deuros-71ff6d3a-da19-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:23:52+00:00",
       "category": "Médias & communication",
@@ -852,10 +970,11 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Paraguay: le président Santiago Peña destitué, le vice-président Pedro Alliana lui succède ».",
       "coverage_sources": [
         "Le Monde",
-        "RFI"
+        "RFI",
+        "Ouest-France"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 3,
+      "mention_count": 3
     },
     {
       "id": "63c2db4fd190",
@@ -910,7 +1029,7 @@
       "title": "Ligue 2. Montpellier battu, Nancy en tête, les résultats du début de la 12e journée",
       "summary": "Vendredi 6 novembre, à l’occasion du début de la 12e journée, Montpellier perd à domicile face à Metz. Une occasion loupée pour passer à la tête du classement de Ligue 2. C’est finalement Nancy, le nouveau dauphin provisoire avec une victoire contre Sochaux. Voici les résultats de la soirée.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/ligue-2/ligue-2-montpellier-battu-nancy-en-tete-les-resultats-du-debut-de-la-12e-journee-90a0c0fc-da2a-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:13:30+00:00",
       "category": "Société",
@@ -942,27 +1061,11 @@
       "title": "Premier League. Le Français Thierno Barry n’arrête plus de marquer avec Everton",
       "summary": "Everton grimpe à la cinquième place en Premier League, ce vendredi 6 novembre, en renversant Coventry (3-1) grâce à un doublé de l’attaquant français Thierno Barry, désormais crédité de six buts sur ses sept derniers matches, toutes compétitions confondues.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/angleterre/premier-league-le-francais-thierno-barry-narrete-plus-de-marquer-avec-everton-6091a7ec-da2e-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:11:18+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Premier League. Le Français Thierno Barry n’arrête plus de marquer avec Everton » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "825f93af8d7f",
-      "title": "Football. Première Ligue : le FC Nantes lâche des points contre Toulouse",
-      "summary": "Dominatrices mais pas assez tranchantes, les Nantaises n’ont pas réussi à prendre à défaut les Toulousaines (1-1), ce vendredi 6 novembre.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/fc-nantes/football-premiere-ligue-le-fc-nantes-lache-des-points-contre-toulouse-4ce98224-da2d-11f1-a04a-6776b5256c5b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-06T22:10:24+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football. Première Ligue : le FC Nantes lâche des points contre Toulouse ».",
       "coverage_sources": [
         "Ouest-France"
       ],
@@ -1034,22 +1137,6 @@
       "mention_count": 1
     },
     {
-      "id": "693f08d96622",
-      "title": "Jordan Bardella accuse LFI de «tentation totalitaire» en souhaitant «fermer» CNews",
-      "summary": "Après l’attentat raciste de Trappes (Yvelines), Bally Bagayoko a appelé à interdire de parole le RN pendant la campagne présidentielle «à partir du moment où ils tiennent des propos racistes».",
-      "source": "Le Figaro",
-      "feed_rank": 3,
-      "url": "https://www.lefigaro.fr/politique/jordan-bardella-accuse-lfi-de-tentation-totalitaire-en-souhaitant-fermer-cnews-20261106",
-      "published_at": "2026-11-06T22:06:04+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Jordan Bardella accuse LFI de «tentation totalitaire» en souhaitant «fermer» CNews ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "b533e0738716",
       "title": "Intempéries dans le Gard : la ville de Sommières inondée pour la troisième fois... en un mois",
       "summary": "Dans le Gard, la ville de Sommières a aussi été touchée par les intempéries, un troisième épisode d'inondation depuis la fin septembre. Il est tombé 178 millimètres de pluie en 48 heures. Le Vidourle est sorti de son lit et a provoqué une crue à 4,5 mètres.",
@@ -1070,7 +1157,7 @@
       "title": "Voyage de Léon XIV en Amérique latine : en Uruguay, le pape évoque sa maladie pour défendre des soins « accessibles à chacun »",
       "summary": "Le souverain pontife, opéré en octobre d’un cancer du poumon, a déclaré être « plutôt en bonne forme » dans l’avion qui le menait vendredi à Montevideo, capitale de l’Uruguay et première étape de sa tournée.",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lemonde.fr/international/article/2026/11/06/voyage-de-leon-xiv-en-amerique-latine-en-uruguay-le-pape-evoque-sa-maladie-pour-defendre-des-soins-accessibles-a-chacun_6807867_3210.html",
       "published_at": "2026-11-06T22:02:24+00:00",
       "category": "Société",
@@ -1491,7 +1578,7 @@
       "title": "Cristiano Ronaldo et le Portugal, c'est fini !",
       "summary": "Après son départ du rassemblement juste après le match contre la Norvège, Cristiano Ronaldo a finalement décidé de prendre sa retraite internationale. Son bilan avec la sélection portugaise : 234 sélections et 146 buts. Était-il temps pour CR7 de quitter la Seleção ? Désormais, l'objectif pour la légende portugaise est d'atteindre la barre des 1 000 buts…",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini",
       "published_at": "2026-11-06T21:30:03+00:00",
       "category": "Société",
@@ -1588,7 +1675,7 @@
       "title": "JOJ Dakar 2026 : Khady Niang raconte les coulisses d'une cérémonie historique",
       "summary": "Une cérémonie historique pour le Sénégal et pour l'Afrique. Le 31 octobre 2026, Dakar a accueilli l'ouverture des premiers Jeux olympiques de la jeunesse organisés sur le continent africain. À travers « L'Envol de Sitoé », un spectacle mêlant danse, musique, traditions et création contemporaine, les artistes ont raconté une Afrique fière de son histoire…",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-khady-niang-raconte-les-coulisses-d-une-c%C3%A9r%C3%A9monie-historique",
       "published_at": "2026-11-06T21:22:31+00:00",
       "category": "Culture",
@@ -2067,6 +2154,23 @@
       "mention_count": 1
     },
     {
+      "id": "99a5c829d279",
+      "title": "Accident de car dans l’Ain : Bilan, causes, enquête… Le point sur le drame qui a fait au moins deux morts",
+      "summary": "<p>A Lent, dans l’Ain, <a href=\"https://www.20minutes.fr/societe/4260859-20261106-direct-accident-car-ain-deux-morts-16-blesses-dont-trois-graves-enquete-homicide-routier\">deux passagers sont morts et 29 personnes ont été blessées vendredi matin dans l’accident du car</a> qui reliait Lyon à Bourg-en-Bresse. Le véhicule a quitté la D22 vers 7h30 avant de…",
+      "source": "20 Minutes",
+      "feed_rank": 4,
+      "url": "https://www.20minutes.fr/faits_divers/4261082-20261106-accident-car-ain-bilan-causes-enquete-point-drame-fait-moins-deux-morts?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-06T20:27:04+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Accident de car dans l’Ain : Bilan, causes, enquête… Le point sur le drame qui a fait au moins deux morts ».",
+      "coverage_sources": [
+        "L'Obs",
+        "20 Minutes"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
       "id": "332818ef06ed",
       "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du vendredi 6 novembre",
       "summary": "L’Otan a assuré continuer de travailler pour obtenir une « paix juste et durable » en Ukraine. Donald Trump a prédit un prochain « très grand » accord avec la Russie qui « pourrait englober toute l’Europe ». Retrouvez l’actualité de la guerre en Ukraine de ce vendredi 6 novembre.",
@@ -2183,7 +2287,7 @@
       "title": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
       "summary": "<p>« Nos élèves <a href=\"https://www.20minutes.fr/societe/greve/4260066-20261103-colere-sociale-ca-va-etre-chaud-rattraper-retard-lyceens-prets-retourner-cours-malgre-blocus\">ont besoin d’étudier</a>. » Le ministre de l’<a href=\"https://www.20minutes.fr/dossier/education_nationale\">Éducation nationale</a>, <a…",
       "source": "20 Minutes",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/societe/4261085-20261106-colere-lyceens-ministre-promet-sanctions-quand-acces-cours-bloques?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T20:20:23+00:00",
       "category": "Politique",
@@ -2199,7 +2303,7 @@
       "title": "Résultats des Midterms, conséquences sur la politique étrangère US et mobilisation sociale en France",
       "summary": "Au sommaire de l'émission cette semaine, la claque de Donald Trump aux élections de mi mandat et le \"Bluenami\" historique des démocrates qui remportent les deux chambres de manière très nette. Quelles conséquences sur la politique étrangère des Etats-Unis, de la guerre en Iran à l'aide à Israël en passant par le dossier ukrainien? On en parle avec nos…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261106-r%C3%A9sultats-des-midterms-cons%C3%A9quences-sur-la-politique-%C3%A9trang%C3%A8re-us-et-mobilisation-sociale-en-france",
       "published_at": "2026-11-06T20:19:21+00:00",
       "category": "Politique",
@@ -2311,7 +2415,7 @@
       "title": "Jeffrey Hawkins : \"les midterms, un désaveu de politique étrangère mais aussi du trumpisme\"",
       "summary": "Véritable \"Bluenami\", ou \"tsunami bleu\" aux Etats-Unis. A l'issue des mid-terms, les démocrates ont remporté les deux chambres de manière très nette. Un résultat historique en forme de désaveu personnel pour Donald Trump. Alors quelles conséquences vont avoir ces résultats sur la politique étrangère des Etats-Unis, sur laquelle le président américain…",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261106-jeffrey-hawkins-les-midterms-un-d%C3%A9saveu-de-politique-%C3%A9trang%C3%A8re-mais-aussi-du-trumpisme",
       "published_at": "2026-11-06T20:09:06+00:00",
       "category": "Politique",
@@ -2494,22 +2598,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ain. Deux morts, dont une fillette, dans un accident de car : à Lent, le choc face à un drame « terrible » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0fb5ce911648",
-      "title": "Attentat de Trappes : les obsèques de Pengo Bossio Wangi se dérouleront samedi",
-      "summary": "La cérémonie publique, qui se tiendra de 16 heures à 17 heures au cimetière paysager de Guyancourt (Yvelines), n’est pas ouverte « aux journalistes » et « aux femmes et hommes politiques », selon le communiqué.",
-      "source": "Le Monde",
-      "feed_rank": 13,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/06/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-se-derouleront-samedi_6807863_3224.html",
-      "published_at": "2026-11-06T19:56:22+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Attentat de Trappes : les obsèques de Pengo Bossio Wangi se dérouleront samedi ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2714,7 +2802,7 @@
       "title": "Les prix de l’alimentation baissent un peu, sauf pour le riz et le sucre",
       "summary": "<p>Après plusieurs mois de hausse, les <a href=\"https://www.20minutes.fr/economie/prix-alimentaire/\">prix alimentaires</a> mondiaux ont reculé en octobre 2026. Dans son rapport mensuel publié vendredi 6 novembre, la <a href=\"https://www.20minutes.fr/dossier/fao\">FAO</a> fait état d’une baisse de 1,2 % de son indice par rapport à septembre. Sur un an, les…",
       "source": "20 Minutes",
-      "feed_rank": 14,
+      "feed_rank": 17,
       "url": "https://www.20minutes.fr/economie/4261079-20261106-prix-alimentation-baissent-peu-sauf-riz-sucre?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T19:36:37+00:00",
       "category": "Économie",
@@ -2778,7 +2866,7 @@
       "title": "Allemagne : Ilse Aigner, conservatrice bavaroise, pourrait devenir la première femme présidente de la République fédérale",
       "summary": "Le nom de la candidate retenue par la CDU du chancelier Friedrich Merz pour succéder au social-démocrate Frank-Walter Steinmeier a été éventé, vendredi, par plusieurs médias allemands. Participeront à l’élection, le 30 janvier 2027, les 630 députés du Bundestag et un nombre égal de délégués désignés par les Parlements des Länder.",
       "source": "Le Monde",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lemonde.fr/international/article/2026/11/06/allemagne-ilse-aigner-conservatrice-bavaroise-pourrait-devenir-la-premiere-femme-presidente-de-la-republique-federale_6807858_3210.html",
       "published_at": "2026-11-06T19:30:07+00:00",
       "category": "Médias & communication",
@@ -2788,29 +2876,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "da32d621b187",
-      "title": "Stephen Miller, figure de la droite identitaire, devient le nouveau directeur de cabinet de Trump",
-      "summary": "Donald Trump a annoncé vendredi qu'il nommait Stephen Miller, figure de la droite identitaire, au poste très stratégique de directeur de cabinet de la Maison Blanche. Ce fidèle conseiller du président américain est notamment l'architecte de la très offensive politique migratoire du gouvernement actuel.",
-      "source": "France 24",
-      "feed_rank": 5,
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261106-stephen-miller-figure-de-la-droite-identitaire-devient-le-nouveau-directeur-de-cabinet-de-trump",
-      "published_at": "2026-11-06T19:30:03+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Stephen Miller, figure de la droite identitaire, devient le nouveau directeur de cabinet de Trump ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "France 24",
-        "BFMTV",
-        "Ouest-France",
-        "Sud Ouest",
-        "La Croix"
-      ],
-      "coverage_count": 8,
-      "mention_count": 8
     },
     {
       "id": "4d0bd20c20e5",
@@ -3010,7 +3075,7 @@
       "title": "En Haïti, \"depuis l’arrivée des forces salvadoriennes, les gangs semblent paniqués\"",
       "summary": "Le déploiement de troupes salvadoriennes contre les gangs suscite un espoir chez une partie de la population haïtienne, comme le rapportent nos Observateurs. Dans les territoires qu'ils contrôlent, les gangs chercheraient à empêcher toute expression de soutien à l'opération menée par le président Nayib Bukele.",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261106-ha%C3%AFti-depuis-arriv%C3%A9e-forces-salvadoriennes-gangs-semblent-paniqu%C3%A9s",
       "published_at": "2026-11-06T19:08:05+00:00",
       "category": "Politique",
@@ -3170,7 +3235,7 @@
       "title": "Guerre en Ukraine : Avant les négociations pour la paix, Trump s’emballe et l’Europe calme le jeu",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://www.20minutes.fr/monde/ukraine/\">guerre en Ukraine</a> ? <em>20 Minutes</em> fait le point pour vous tous les soirs. Voici l’essentiel de ce vendredi 6 novembre 2026, au 1.717e jour du conflit.</p><h2>Le fait du jour</h2><p>Si de nouveaux pourparlers entre Russes et Ukrainiens doivent se…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/monde/ukraine/4261070-20261106-guerre-ukraine-avant-negociations-paix-trump-emballe-europe-calme-jeu?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T19:00:42+00:00",
       "category": "International",
@@ -3234,7 +3299,7 @@
       "title": "TikTok : L’UE somme le réseau social de modifier ses flux personnalisés, accusés d’effets « nocifs »",
       "summary": "<p>L’<a href=\"https://www.20minutes.fr/dossier/ue\">Union européenne</a> a sommé vendredi le réseau social <a href=\"https://www.20minutes.fr/high-tech/tiktok/\">TikTok</a> de modifier radicalement ses flux de vidéos personnalisés, accusés de nuire au bien-être et à la santé mentale des utilisateurs en les exposant à des spirales de contenus aux effets très…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 20,
       "url": "https://www.20minutes.fr/high-tech/by-the-web/4261073-20261106-tiktok-ue-somme-reseau-social-modifier-flux-personnalises-accuses-effets-nocifs?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T18:57:48+00:00",
       "category": "Médias & communication",
@@ -3346,7 +3411,7 @@
       "title": "Josep Borrell : \"Quelle voix européenne s'est élevée contre Trump et la guerre en Iran ?\"",
       "summary": "Cette semaine, Caroline de Camaret reçoit Josep Borrell, ancien Haut représentant de l'Union européenne (UE) pour les Affaires étrangères jusqu'en 2024. Également président du Parlement européen entre 2004 et 2007, il a aussi été l'ancien ministre socialiste des Affaires étrangères du gouvernement de Pedro Sanchez et préside désormais le Cidob (Barcelona…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-josep-borrell-quelle-voix-europ%C3%A9enne-s-est-%C3%A9lev%C3%A9e-contre-trump-et-la-guerre-en-iran",
       "published_at": "2026-11-06T18:49:37+00:00",
       "category": "Politique",
@@ -3378,7 +3443,7 @@
       "title": "Masters 1000 de Paris : « Un équilibre lié aux maths de très haut niveau »… Qualifié en demie, Van Assche la grosse tête",
       "summary": "<p><strong><em>De notre envoyé spécial à la Plénitude Arena,</em></strong></p><p>C’est une opération de mathématiques qui ne devrait pas vous donner trop de fil à retordre. Qualifié pour les <a…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 11,
       "url": "https://www.20minutes.fr/sport/tennis/4261031-20261106-masters-1000-paris-equilibre-lie-maths-tres-haut-niveau-qualifie-demie-van-assche-grosse-tete?at_medium=display&at_campaign=149",
       "published_at": "2026-11-06T18:49:09+00:00",
       "category": "Société",
@@ -3604,13 +3669,29 @@
       "title": "Médine, conscience et engagement",
       "summary": "Rendez-vous avec le rappeur Médine à l’occasion de la sortie de son recueil de titres \"Enfants du destin\", qui sortira le 11 décembre. Elle sera suivie d’une tournée française, notamment les 11 et 12 juin à la Salle Pleyel de Paris. Retour sur les prises de positions de Médine, ses engagements à travers l’art et ses actions humanitaires.",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261106-m%C3%A9dine-conscience-et-engagement",
       "published_at": "2026-11-06T18:30:50+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Médine, conscience et engagement ».",
       "coverage_sources": [
         "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "646eeb5fc7f3",
+      "title": "Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes",
+      "summary": "L’accès au lac Blanc et aux lacs des Chéserys, offrant une vue imprenable sur le massif du Mont-Blanc, devrait être soumis à une réservation obligatoire, avec des jauges de 600 à 1 000 personnes, à partir de l’été 2027, sur le modèle en place dans les calanques de Marseille.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/planete/article/2026/11/06/surfrequentation-a-chamonix-vers-l-instauration-de-quotas-touristiques-une-premiere-dans-les-alpes_6807854_3244.html",
+      "published_at": "2026-11-06T18:30:06+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3829,7 +3910,7 @@
       "title": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
       "summary": "Le ministre de l'Intérieur a annoncé vendredi la reconduction d'un dispositif de \"sécurité\" en vue des manifestations de samedi. 70 000 policiers et gendarmes seront déployés sur l'ensemble du territoire à l'occasion de cette nouvelle journée de mobilisation à l'initiative d'organisations syndicales et de jeunesse ainsi que des gilets jaunes.",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/france/20261106-manifestations-de-samedi-en-france-70-000-policiers-et-gendarmes-%C3%A0-nouveau-mobilis%C3%A9s",
       "published_at": "2026-11-06T18:18:03+00:00",
       "category": "Politique",
@@ -4026,7 +4107,7 @@
       "title": "Derrière l'évacuation de la ville ukrainienne d'Olechky, une opération de propagande russe ?",
       "summary": "Entre le 27 octobre et le 1er novembre, un cessez-le-feu a été instauré dans la ville ukrainienne d'Olechky, occupée par les Russes depuis le début de la guerre à grande échelle en 2022. Le but : permettre l'évacuation d'habitants pris au piège des combats et de la famine, dans une ville dévastée. Mais en marge de l'action humanitaire, la Russie a monté…",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20261106-derri%C3%A8re-l-%C3%A9vacuation-de-la-ville-ukrainienne-d-olechky-une-op%C3%A9ration-de-propagande-russe",
       "published_at": "2026-11-06T18:04:57+00:00",
       "category": "International",
@@ -4058,7 +4139,7 @@
       "title": "JOJ Dakar 2026 : Une équipe de réfugiés, une première dans l’histoire des JO de la jeunesse",
       "summary": "C'est une première dans l'histoire des Jeux olympiques de la jeunesse. Une équipe olympique de réfugiés prend part à la compétition. Six jeunes, six parcours différents et une même fierté. Celle de porter les couleurs de l'équipe olympique des réfugiés et de prendre leur place parmi les meilleurs jeunes sportifs du monde.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-une-%C3%A9quipe-de-r%C3%A9fugi%C3%A9s-une-premi%C3%A8re-dans-l-histoire-des-jo-de-la-jeunesse",
       "published_at": "2026-11-06T18:03:17+00:00",
       "category": "Sport",
@@ -4331,7 +4412,7 @@
       "title": "Élections de mi-mandat : \"C'est le début de la fin\" pour Donald Trump, déclare John Bolton",
       "summary": "Dans un entretien accordé à France 24, John Bolton, ancien conseiller à la sécurité nationale de Donald Trump lors de son premier mandat, réagit aux élections de mi-mandat, qui ont vu une large victoire du Parti démocrate. Il estime que \"c'est le début de la fin\" du rôle du président américain au sein du Parti républicain.",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/%C3%A9missions/l-entretien/20261106-%C3%A9lections-de-mi-mandat-c-est-le-d%C3%A9but-de-la-fin-pour-donald-trump-d%C3%A9clare-john-bolton",
       "published_at": "2026-11-06T17:53:03+00:00",
       "category": "Politique",
@@ -4491,7 +4572,7 @@
       "title": "Après les élections de mi-mandat : l'économie américaine à l'heure des comptes",
       "summary": "La déroute du camp Trump aux États-Unis est-elle d’abord celle de sa politique économique ? Au début de son second mandat, le président américain Donald Trump promettait un nouvel âge d'or et se posait en champion du pouvoir d'achat.",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261106-apr%C3%A8s-les-%C3%A9lections-de-mi-mandat-l-%C3%A9conomie-am%C3%A9ricaine-%C3%A0-l-heure-des-comptes",
       "published_at": "2026-11-06T17:40:55+00:00",
       "category": "Politique",
@@ -4862,22 +4943,6 @@
       "mention_count": 1
     },
     {
-      "id": "83885484b6a7",
-      "title": "«Nous attendons les casseurs de pied ferme»: les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques",
-      "summary": "Laurent Nuñez a annoncé vendredi que 70 000 policiers et gendarmes seront déployés à travers le pays. Avec les mêmes consignes de «grande fermeté» en cas de débordements.",
-      "source": "Le Figaro",
-      "feed_rank": 1,
-      "url": "https://www.lefigaro.fr/actualite-france/nous-attendons-les-casseurs-de-pied-ferme-les-forces-de-l-ordre-deploient-a-nouveau-un-dispositif-xxl-a-l-occasion-de-ce-samedi-a-hauts-risques-20261106",
-      "published_at": "2026-11-06T17:24:23+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Nous attendons les casseurs de pied ferme»: les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "6925fa6d56f8",
       "title": "Cet aspirateur laveur sans fil Carrefour Home coûte 119,99 € : une bonne affaire ?",
       "summary": "Un aspirateur laveur sans fil à moins de 120 € : c'est le prix affiché par Carrefour pour son modèle Home HWDVC51-26. Avec 40 minutes d'autonomie maximale et deux réservoirs distincts, cet appareil entend rendre le nettoyage des sols plus accessible. L'essentiel Prix : 119,99 € pour l'aspirateur laveur Carrefour Home HWDVC51-26. Équipement : deux…",
@@ -4978,7 +5043,7 @@
       "title": "Vols menacés : les fausses alertes à la bombe, une arme redoutable pour la guerre hybride ?",
       "summary": "La multiplication des fausses alertes à la bombe a créé de la confusion à travers toute l’Europe. Ces incidents ressemblent à de nouveaux épisodes de la guerre hybride menée par certains États comme la Russie en Europe, mais rien ne permet d’accuser formellement Moscou. Et puis, il y a cette étrange revendication des \"combattants de l’État masculin\", un…",
       "source": "France 24",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://www.france24.com/fr/europe/20261106-vols-menac%C3%A9s-fausses-alertes-bombe-arme-redoutable-guerre-hybride",
       "published_at": "2026-11-06T17:17:38+00:00",
       "category": "International",
@@ -5074,7 +5139,7 @@
       "title": "Midterms aux États-Unis : Trump dénonce des \"élections truquées\" sans avancer de preuve",
       "summary": "Lors d’un échange avec des journalistes à la Maison-Blanche ce jeudi 5 novembre, Donald Trump a assuré que les élections aux États-Unis étaient \"truquées\".",
       "source": "France 24",
-      "feed_rank": 16,
+      "feed_rank": 18,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-aux-%C3%A9tats-unis-trump-d%C3%A9nonce-des-%C3%A9lections-truqu%C3%A9es-sans-avancer-de-preuve",
       "published_at": "2026-11-06T17:09:31+00:00",
       "category": "Médias & communication",
@@ -5150,12 +5215,12 @@
       "mention_count": 1
     },
     {
-      "id": "9ec4a67ae831",
+      "id": "6bfa0085fe3f",
       "title": "Olivia Rodrigo se prend pour Mariah Carey et lance les festivités de Noël !",
       "summary": "Il semblerait qu'Olivia Rodrigo ait décidé de ne pas attendre décembre pour ouvrir ses cadeaux de Noël. Le 6 novembre, la chanteuse a dévoilé \"take me home (4 christmas)\", toujours sans majuscule, sa toute première...",
       "source": "Konbini",
       "feed_rank": 1,
-      "url": "http://www.konbini.com/popculture/olivia-rodrigo-se-prend-pour-mariah-carey-et-lance-les-festivites-de-noel/",
+      "url": "https://www.konbini.com/popculture/olivia-rodrigo-se-prend-pour-mariah-carey-et-lance-les-festivites-de-noel/",
       "published_at": "2026-11-06T17:07:40+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Olivia Rodrigo se prend pour Mariah Carey et lance les festivités de Noël ! ».",
@@ -5170,7 +5235,7 @@
       "title": "JOJ Dakar 2026 : Quatre questions à Clarisse Agbegnenou, athlète modèle des Jeux",
       "summary": "À l'occasion des Jeux Olympiques de la Jeunesse 2026 qui se déroulent à Dakar, le Comité international olympique a proposé à la judokate Clarisse Agbengenou d'être athlète modèle. Un rôle qu'elle a accepté avec plaisir dans le but d'encourager, d'encadrer et de donner des conseils aux jeunes athlètes de haut niveau.",
       "source": "France 24",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-quatre-questions-%C3%A0-clarisse-agbegnenou-athl%C3%A8te-mod%C3%A8le-des-jeux",
       "published_at": "2026-11-06T17:07:37+00:00",
       "category": "Sport",
@@ -5272,70 +5337,6 @@
       "published_at": "2026-11-06T17:01:48+00:00",
       "category": "Économie",
       "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Autoroute A69 : Quels sont les tronçons d’autoroute les plus chers en France ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "20 Minutes"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ede5d6120a8d",
-      "title": "Sondage : Emmanuel Macron devient le président le plus impopulaire de la Vème République, devant François Hollande",
-      "summary": "Record battu ! Emmanuel Macron détient désormais le record d’impopularité d’un chef d’État sous la Ve République, conservé jusqu’ici par François Hollande. « Il s’agit de la cote de confiance la plus basse jamais mesurée. » Selon le dernier sondage Elabe pour le journal Les Échos , publié jeudi 5 novembre, seulement 13 % des Français font désormais…",
-      "source": "Valeurs actuelles",
-      "feed_rank": 6,
-      "url": "https://www.valeursactuelles.com/politique/sondage-emmanuel-macron-devient-le-president-le-plus-impopulaire-de-la-veme-republique-devant-francois-hollande",
-      "published_at": "2026-11-06T17:01:16+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Sondage : Emmanuel Macron devient le président le plus impopulaire de la Vème République, devant François Hollande ».",
-      "coverage_sources": [
-        "Valeurs actuelles"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d657eb023fc8",
-      "title": "La mobilisation lycéenne fait école en Europe : l'Union européenne face aux colères sociales",
-      "summary": "L'Europe est en pleine ébullition sociale. À l'instar de la France, d'où sont partis les premiers mouvements lycéens, plusieurs pays de l'Union font face à des vagues de contestation dans la rue. L'Italie, la Belgique, la Grèce ou encore l'Allemagne connaissent des manifestations de plus ou moins grande ampleur.",
-      "source": "France 24",
-      "feed_rank": 18,
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-la-mobilisation-lyc%C3%A9enne-fait-%C3%A9cole-en-europe-l-union-europ%C3%A9enne-face-aux-col%C3%A8res-sociales",
-      "published_at": "2026-11-06T17:00:52+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « La mobilisation lycéenne fait école en Europe : l'Union européenne face aux colères sociales ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "59ad4d47924a",
-      "title": "L’info du jour | 6 novembre 2026 - Soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 6 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement.",
-      "source": "Euronews",
-      "feed_rank": 13,
-      "url": "https://fr.euronews.com/video/2026/11/06/linfo-du-jour-6-novembre-2026-soir",
-      "published_at": "2026-11-06T17:00:34+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « L’info du jour | 6 novembre 2026 - Soir » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Euronews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b9c5606fe613",
-      "title": "Météo : Les températures vont grimper en France la semaine prochaine, jusqu’à 25 °C attendus",
-      "summary": "<p>Les températures hivernales ont à peine eu le temps de pointer le bout de leur nez que <a href=\"https://www.20minutes.fr/dossier/rechauffement-climatique\">le mercure remonte déjà</a>. La Chaîne météo annonce notamment une « grande douceur » sur son compte X, à partir de la semaine prochaine, du lundi 9 au dimanche 15 novembre.</p><figure><blockquote…",
-      "source": "20 Minutes",
-      "feed_rank": 12,
-      "url": "https://www.20minutes.fr/societe/4261060-20261106-meteo-temperatures-vont-grimper-france-semaine-prochaine-jusqu-25-attendus?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-06T17:00:30+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Météo : Les températures vont grimper en France la semaine prochaine, jusqu’à 25 °C attendus » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "20 Minutes"
       ],
