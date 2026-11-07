@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-07T02:00:18.849966+00:00",
-  "last_attempt": "2026-11-07T02:00:18.849966+00:00",
+  "last_updated": "2026-11-07T03:00:21.199314+00:00",
+  "last_attempt": "2026-11-07T03:00:21.199314+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 901,
-  "unique_story_count": 814,
+  "unique_story_count": 813,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-07T02:00:18.849966+00:00",
-  "featured_window_end": "2026-11-07T02:00:18.849966+00:00",
+  "featured_window_start": "2026-10-07T03:00:21.199314+00:00",
+  "featured_window_end": "2026-11-07T03:00:21.199314+00:00",
   "featured_pool_count": 900,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "22d8ca43478c",
-      "title": "« Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques",
-      "summary": "Laurent Nuñez a annoncé vendredi que 70 000 policiers et gendarmes seront déployés à travers le pays. Avec les mêmes consignes de « grande fermeté » en cas de débordements.",
-      "source": "Le Figaro",
+      "id": "218e329c9d2c",
+      "title": "Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien",
+      "summary": "Les États-Unis ont annoncé vendredi 6 novembre 2026 offrir une récompense de 20 millions de dollars « et un possible déménagement » à toute personne apportant des informations sur le programme nucléaire iranien.",
+      "source": "Ouest-France",
       "feed_rank": 1,
-      "url": "https://www.lefigaro.fr/actualite-france/nous-attendons-les-casseurs-de-pied-ferme-les-forces-de-l-ordre-deploient-a-nouveau-un-dispositif-xxl-a-l-occasion-de-ce-samedi-a-hauts-risques-20261106",
-      "published_at": "2026-11-07T00:47:34+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "url": "https://www.ouest-france.fr/monde/iran/les-etats-unis-offrent-20-millions-de-dollars-pour-des-informations-sur-le-programme-nucleaire-iranien-c52dd8cc-da4e-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T02:49:15+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -69,9 +69,9 @@
         "INA – La Revue des médias"
       ],
       "coverage_count": 37,
-      "mention_count": 217,
-      "importance_score": 36.724,
-      "latest_coverage_at": "2026-11-07T01:03:00+00:00"
+      "mention_count": 226,
+      "importance_score": 36.804,
+      "latest_coverage_at": "2026-11-07T02:49:15+00:00"
     },
     {
       "id": "ada0e44cf317",
@@ -97,7 +97,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 14,
-      "importance_score": 23.361,
+      "importance_score": 23.355,
       "latest_coverage_at": "2026-11-06T22:02:35+00:00"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 10,
-      "importance_score": 22.963,
+      "importance_score": 22.955,
       "latest_coverage_at": "2026-11-06T22:50:43+00:00"
     },
     {
@@ -132,7 +132,7 @@
       "title": "Nouveau TGV : enfin il roule !",
       "summary": "Le nouveau TGV est arrivé. Il aurait dû être inauguré en 2023 et les voyageurs l’attendaient avec impatience. Ce matin du vendredi 6 novembre, le premier de ces trains est parti de la gare de Lyon. Il ne va pas plus vite que ses prédécesseurs, 320 kilomètres par heure maximum, mais la SNCF veut avant tout optimiser le nombre de sièges disponibles,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/transports/videos/video-nouveau-tgv-enfin-il-roule-69168-2474413.html",
       "published_at": "2026-11-06T20:40:18+00:00",
       "category": "Société",
@@ -149,7 +149,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 10,
-      "importance_score": 21.63,
+      "importance_score": 21.618,
       "latest_coverage_at": "2026-11-06T22:00:12+00:00"
     },
     {
@@ -174,38 +174,15 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.027,
+      "importance_score": 21.025,
       "latest_coverage_at": "2026-11-06T18:16:05+00:00"
-    },
-    {
-      "id": "7fcf4ef92ce0",
-      "title": "Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre",
-      "summary": "Un simple geste suffit parfois. Dans les couloirs du Sénat, Bruno Retailleau résume à un collègue son déjeuner du 21 octobre avec David Lisnard : le Vendéen mime une \"grosse tête\", signe de la suffisance supposée de son rival à l’élection présidentielle . Les deux hommes sont convenus lors de cette entrevue d’un gentlemen's agreement, mais leurs…",
-      "source": "L'Express",
-      "feed_rank": 3,
-      "url": "https://www.lexpress.fr/politique/presidentielle-2027-david-lisnard-le-grand-perturbateur-de-la-droite-et-du-centre-ZOCC74ZJYVFZPHONPRH5TIIGFY/",
-      "published_at": "2026-11-06T16:24:42+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : David Lisnard, le grand perturbateur de la droite et du centre ».",
-      "coverage_sources": [
-        "Le Monde",
-        "L'Express",
-        "LCP",
-        "Le JDD",
-        "Public Sénat",
-        "Valeurs actuelles"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 18.94,
-      "latest_coverage_at": "2026-11-06T16:31:16+00:00"
     },
     {
       "id": "95d24f67bd4c",
       "title": "Ouverture de l'A69 : les automobilistes prêts à payer 20 euros ?",
       "summary": "Dans le Tarn, l'autoroute A69 entre Castres et Toulouse a enfin ouvert au public, après des années de combat juridique et de manifestations. Mais les retards du chantier, un projet controversé vieux de près de 30 ans, ont fait exploser la facture. Si vous partez de Toulouse, il vous faudra payer 20,40 euros l'aller-retour. Le tarif crée l'indignation…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/conso-argent/videos/video-ouverture-de-l-a69-les-automobilistes-prets-a-payer-20-euros-30037-2474409.html",
       "published_at": "2026-11-06T20:25:15+00:00",
       "category": "Économie",
@@ -220,7 +197,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.905,
+      "importance_score": 18.894,
       "latest_coverage_at": "2026-11-06T20:25:15+00:00"
     },
     {
@@ -242,7 +219,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.162,
+      "importance_score": 18.16,
       "latest_coverage_at": "2026-11-06T17:01:16+00:00"
     },
     {
@@ -264,7 +241,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 18.099,
+      "importance_score": 18.097,
       "latest_coverage_at": "2026-11-06T21:16:05+00:00"
     },
     {
@@ -272,7 +249,7 @@
       "title": "\"Je me suis fait voler tout l'arrière\" : deux hommes condamnés après 126 vols de banquettes de voiture",
       "summary": "Deux hommes viennent d'être condamnés à trois ans de prison, dont deux fermes, pour avoir volé 126 banquettes arrière de voitures en quatre mois. Un trafic qui s'est amplifié ces derniers mois. Il faut dire que ces sièges se revendent très facilement sur des sites entre particuliers.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/justice-faits-divers/reportage-les-modeles-ciblees-etaient-toujours-les-memes-deux-hommes-condamnes-pour-avoir-vole-126-banquettes-arriere-de-voiture-2474390.html",
       "published_at": "2026-11-06T22:02:22+00:00",
       "category": "Société",
@@ -286,7 +263,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.03,
+      "importance_score": 18.012,
       "latest_coverage_at": "2026-11-06T22:02:22+00:00"
     },
     {
@@ -308,7 +285,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.91,
+      "importance_score": 17.907,
       "latest_coverage_at": "2026-11-06T22:24:16+00:00"
     },
     {
@@ -330,7 +307,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.579,
+      "importance_score": 17.577,
       "latest_coverage_at": "2026-11-06T18:49:20+00:00"
     },
     {
@@ -338,7 +315,7 @@
       "title": "Masters 1000 de Paris. Alcaraz renverse Fritz après avoir sauvé deux balles de match et file en demi-finales",
       "summary": "Au terme d’un combat de plus de deux heures, l’Espagnol Carlos Alcaraz, a renversé ce vendredi 6 novembre 2026, l’Américain Taylor Fritz (6-7, 7-5, 6-3), après avoir écarté deux balles de match dans la deuxième manche. Le numéro 3 mondial disputera pour la première fois les demi-finales du Masters 1000 de Paris.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/tennis/masters-paris-bercy/masters-1000-de-paris-alcaraz-renverse-fritz-apres-avoir-sauve-deux-balles-de-match-et-file-en-demi-finales-cf95f08c-da1d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:42:11+00:00",
       "category": "Sport",
@@ -352,7 +329,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.535,
+      "importance_score": 17.523,
       "latest_coverage_at": "2026-11-06T22:45:35+00:00"
     },
     {
@@ -373,7 +350,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.425,
+      "importance_score": 16.422,
       "latest_coverage_at": "2026-11-06T16:01:15+00:00"
     },
     {
@@ -394,7 +371,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.377,
+      "importance_score": 16.374,
       "latest_coverage_at": "2026-11-06T22:56:17+00:00"
     },
     {
@@ -415,29 +392,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.331,
+      "importance_score": 16.328,
       "latest_coverage_at": "2026-11-06T18:25:13+00:00"
-    },
-    {
-      "id": "24fbd17ffc0f",
-      "title": "Quatre personnes mises en examen après les cambriolages au musée Lalique et au musée de Montans",
-      "summary": "Ce vendredi 6 novembre, la Jirs de Nançy a annoncé la mise en examen de quatre personnes dans le cadre des enquêtes des cambriolages des musées Lalique et de Montans, en Alsace et dans le Tarn.",
-      "source": "BFMTV",
-      "feed_rank": 1,
-      "url": "https://www.bfmtv.com/police-justice/quatre-personnes-mises-en-examen-apres-les-cambriolages-au-musee-lalique-et-au-musee-de-montans_AD-202611060949.html",
-      "published_at": "2026-11-06T23:04:58+00:00",
-      "category": "Culture",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Quatre personnes mises en examen après les cambriolages au musée Lalique et au musée de Montans ».",
-      "coverage_sources": [
-        "Le Monde",
-        "BFMTV",
-        "Libération",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.286,
-      "latest_coverage_at": "2026-11-06T23:04:58+00:00"
     },
     {
       "id": "b1f55155ba63",
@@ -456,7 +412,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 9,
-      "importance_score": 16.189,
+      "importance_score": 16.187,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     },
     {
@@ -477,7 +433,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.166,
+      "importance_score": 16.163,
       "latest_coverage_at": "2026-11-06T21:10:14+00:00"
     },
     {
@@ -498,11 +454,70 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.084,
+      "importance_score": 16.081,
       "latest_coverage_at": "2026-11-06T20:25:26+00:00"
+    },
+    {
+      "id": "c6a6d867f72f",
+      "title": "Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués",
+      "summary": "<p>« Nos élèves <a href=\"https://www.20minutes.fr/societe/greve/4260066-20261103-colere-sociale-ca-va-etre-chaud-rattraper-retard-lyceens-prets-retourner-cours-malgre-blocus\">ont besoin d’étudier</a>. » Le ministre de l’<a href=\"https://www.20minutes.fr/dossier/education_nationale\">Éducation nationale</a>, <a…",
+      "source": "20 Minutes",
+      "feed_rank": 14,
+      "url": "https://www.20minutes.fr/societe/4261085-20261106-colere-lyceens-ministre-promet-sanctions-quand-acces-cours-bloques?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-06T20:20:23+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Colère de lycéens : Le ministre promet des sanctions quand les accès aux cours sont bloqués ».",
+      "coverage_sources": [
+        "L'Obs",
+        "20 Minutes",
+        "L'Humanité",
+        "Public Sénat"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 15.966,
+      "latest_coverage_at": "2026-11-06T20:20:23+00:00"
+    },
+    {
+      "id": "0904624502fa",
+      "title": "Route du rhum : Violette Dorange reste à quai",
+      "summary": "Contrainte de regagner terre quelques heures après le départ de la course à cause d’une collision de son voilier avec celui de Romain Pilliard, la navigatrice doit rendre les armes face à l’ampleur des réparations.",
+      "source": "Libération",
+      "feed_rank": 23,
+      "url": "https://www.liberation.fr/sports/route-du-rhum-violette-dorange-reste-a-quai-20261106_U3LMHSPXFVBS7F4B65WPRWJLQ4/",
+      "published_at": "2026-11-06T18:00:28+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Route du rhum : Violette Dorange reste à quai » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Libération",
+        "Midi Libre"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 15.868,
+      "latest_coverage_at": "2026-11-06T18:00:28+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "218e329c9d2c",
+      "title": "Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien",
+      "summary": "Les États-Unis ont annoncé vendredi 6 novembre 2026 offrir une récompense de 20 millions de dollars « et un possible déménagement » à toute personne apportant des informations sur le programme nucléaire iranien.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/iran/les-etats-unis-offrent-20-millions-de-dollars-pour-des-informations-sur-le-programme-nucleaire-iranien-c52dd8cc-da4e-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T02:49:15+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Les États-Unis offrent 20 millions de dollars pour des informations sur le programme nucléaire iranien ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Ouest-France"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
     {
       "id": "3fb44f4ac59c",
       "title": "Guerre en Iran : Washington offre 20 millions de dollars pour toute information sur le programme nucléaire de Téhéran",
@@ -626,6 +641,22 @@
       "mention_count": 1
     },
     {
+      "id": "addd410f1abc",
+      "title": "Nivat Soir du vendredi 6 novembre 2026",
+      "summary": "Au sommaire : Fausses alertes à la bombe : l'ombre de Moscou ? Manifs : le dispositif « reconduit » (Nunez). SMIC : « la barre des 1 500 euros nets » bientôt franchie ? Des bombes planantes russes font au moins 50 morts.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 2,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-nivat-soir-du-vendredi-6-novembre-2026-2474430.html",
+      "published_at": "2026-11-06T23:15:55+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Nivat Soir du vendredi 6 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "7d6ed85e52eb",
       "title": "EN DIRECT, guerre en Ukraine : des explosions entendues à Kiev, visée par au moins six missiles balistiques selon l’armée de l’air",
       "summary": "Plus tôt dans la soirée de vendredi, Volodymyr Zelensky avait averti que, selon les renseignements ukrainiens, la Russie préparait une nouvelle attaque contre les infrastructures énergétiques, les ponts sur le Dniepr et des installations civiles.",
@@ -742,7 +773,7 @@
       "title": "\"Star Academy\" : Vianney a préparé un week-end \"un peu spécial\" aux élèves, leur réaction est hilarante",
       "summary": "Fort de son expérience dans sa cabane dans les bois, Vianney souhaite faire vivre la même chose à ses filleuls de la \"Star Academy\". L'interprète de \"Pas là\" les convie à une mise au vert \"un peu différente\" de ce qu'ils ont l'habitude de vivre au Château. Toutes les prestations de la saison sont à retrouver sur TF1+.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.tf1info.fr/culture/programme-tv-tf1-star-academy-2026-vianney-a-prepare-un-week-end-un-peu-special-aux-eleves-leur-reaction-est-hilarante-2474427.html",
       "published_at": "2026-11-06T22:58:41+00:00",
       "category": "Société",
@@ -790,7 +821,7 @@
       "title": "Tennis. Fils, Zverev, Alcaraz… Les huit qualifiés pour le Masters sont désormais connus",
       "summary": "La défaite de Taylor Fritz en quarts de finale du Rolex Paris Masters, ce vendredi 6 novembre, scelle définitivement les huit qualifiés pour le Masters. En l’absence de Jannik Sinner, toujours blessé au genou, le 9e mondial au classement ATP sera également de la partie.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/tennis/tennis-fils-zverev-alcaraz-les-huit-qualifies-pour-le-masters-sont-desormais-connus-3202f012-da2d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:48:36+00:00",
       "category": "Sport",
@@ -838,7 +869,7 @@
       "title": "Rugby. L’Irlande écrase l’Argentine lors du championnat des Nations",
       "summary": "Les Irlandais ont arraché leur troisième victoire dans le Championnat des Nations face à des Pumas impuissants ce vendredi 6 novembre. Avec six essais inscrits (42-12), l’Irlande décroche une victoire bonifiée. Leurs prochains matches se joueront le samedi 14 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/rugby/rugby-lirlande-ecrase-largentine-lors-du-championnat-des-nations-3e4a3ca6-da30-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:45:31+00:00",
       "category": "Sport",
@@ -854,7 +885,7 @@
       "title": "Masters 1000 de Paris. Alcaraz renverse Fritz après avoir sauvé deux balles de match et file en demi-finales",
       "summary": "Au terme d’un combat de plus de deux heures, l’Espagnol Carlos Alcaraz, a renversé ce vendredi 6 novembre 2026, l’Américain Taylor Fritz (6-7, 7-5, 6-3), après avoir écarté deux balles de match dans la deuxième manche. Le numéro 3 mondial disputera pour la première fois les demi-finales du Masters 1000 de Paris.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/tennis/masters-paris-bercy/masters-1000-de-paris-alcaraz-renverse-fritz-apres-avoir-sauve-deux-balles-de-match-et-file-en-demi-finales-cf95f08c-da1d-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:42:11+00:00",
       "category": "Sport",
@@ -918,7 +949,7 @@
       "title": "OL. Négociations en bonne voie entre Lyon et Carlos Vicens, qui devrait succéder à Paulo Fonseca",
       "summary": "Orphelin de Paulo Fonseca, parti au Sporting Portugal après un tiers de saison, l’Olympique Lyonnais devrait rapidement officialiser l’arrivée de son nouvel entraîneur. D’après L’Équipe, les négociations avec Carlos Vicens, licencié par Braga le 20 octobre, sont en bonne voie.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/olympique-lyonnais/ol-negociations-en-bonnes-voies-entre-lyon-et-carlos-vicens-qui-devrait-succeder-a-paulo-fonseca-8e3710ec-da2e-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:36:28+00:00",
       "category": "Société",
@@ -934,7 +965,7 @@
       "title": "Ligue 1. Toulouse se rassure contre Strasbourg en ouverture de la 10e journée",
       "summary": "En ouverture de la 10e journée de Ligue 1 ce vendredi 6 novembre, Toulouse a battu Strasbourg 3 buts à 1 grâce à des réalisations de Santiago Hidalgo, Mark McKenzie et Thomas Jörgensen. Les Violets remontent provisoirement à la 10e place du championnat tandis que Strasbourg, désormais 13e, s’approche de la zone de relégation.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-toulouse-se-rassure-contre-strasbourg-en-ouverture-de-la-10e-journee-e5188450-da23-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:35:35+00:00",
       "category": "Sport",
@@ -966,7 +997,7 @@
       "title": "Pourquoi le footballeur Allan Saint-Maximin n’a pas voulu vendre son jeu de société à 26 millions d’euros",
       "summary": "Appelée Hélios, le jeu de cartes d’Allan Saint-Maximin avait attisé la curiosité d’un acheteur qui lui proposait de lui acheter pour 26 millions d’euros. Une offre que l’ancien joueur du RC Lens a refusée, ce qui a provoqué l’étonnement d’une partie du public. Sur un post Instagram, il explique les raisons.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/pourquoi-le-footballeur-allan-saint-maximin-na-pas-voulu-vendre-son-jeu-de-societe-a-26-millions-deuros-71ff6d3a-da19-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-06T22:23:52+00:00",
       "category": "Médias & communication",
@@ -1044,22 +1075,6 @@
       "mention_count": 1
     },
     {
-      "id": "e2e8c936c5e3",
-      "title": "Ligue 2. Montpellier battu, Nancy en tête, les résultats du début de la 12e journée",
-      "summary": "Vendredi 6 novembre, à l’occasion du début de la 12e journée, Montpellier perd à domicile face à Metz. Une occasion loupée pour passer à la tête du classement de Ligue 2. C’est finalement Nancy, le nouveau dauphin provisoire avec une victoire contre Sochaux. Voici les résultats de la soirée.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/ligue-2/ligue-2-montpellier-battu-nancy-en-tete-les-resultats-du-debut-de-la-12e-journee-90a0c0fc-da2a-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-06T22:13:30+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue 2. Montpellier battu, Nancy en tête, les résultats du début de la 12e journée » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "94dd9fd09763",
       "title": "Football - Ligue 2. GF38 : Max Marty et un préparateur physique expulsés et une fin de match électrique au Stade des Alpes",
       "summary": "Dans des dernières minutes à tension marquées par le troisième but du GF38 et deux expulsions sur le banc grenoblois, les Isérois ont réussi à préserver leur avantage et faire tomber Reims (3-2). Enfin, une fin de match leur a souri.",
@@ -1080,7 +1095,7 @@
       "title": "Mort du footballeur Jesús de Miguel : Zinédine Zidane \"espère qu'on ne reverra plus jamais ça sur un terrain\"",
       "summary": "L'attaquant de Tenerife, Jesus de Miguel, est décédé, mardi 3 novembre, après un choc violent avec le gardien adverse. En conférence de presse, Zinédine Zidane a confié sa tristesse après ce drame.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/sport/mort-du-footballeur-jesus-de-miguel-zinedine-zidane-espere-qu-on-ne-reverra-plus-jamais-ca-sur-un-terrain-2474422.html",
       "published_at": "2026-11-06T22:07:21+00:00",
       "category": "Société",
@@ -1144,7 +1159,7 @@
       "title": "Intempéries dans le Gard : la ville de Sommières inondée pour la troisième fois... en un mois",
       "summary": "Dans le Gard, la ville de Sommières a aussi été touchée par les intempéries, un troisième épisode d'inondation depuis la fin septembre. Il est tombé 178 millimètres de pluie en 48 heures. Le Vidourle est sorti de son lit et a provoqué une crue à 4,5 mètres.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.tf1info.fr/environnement-ecologie/videos/video-intemperies-dans-le-gard-la-ville-de-sommieres-inondee-pour-la-troisieme-fois-en-un-mois-8173-2474426.html",
       "published_at": "2026-11-06T22:05:10+00:00",
       "category": "Environnement",
@@ -1176,7 +1191,7 @@
       "title": "\"Je me suis fait voler tout l'arrière\" : deux hommes condamnés après 126 vols de banquettes de voiture",
       "summary": "Deux hommes viennent d'être condamnés à trois ans de prison, dont deux fermes, pour avoir volé 126 banquettes arrière de voitures en quatre mois. Un trafic qui s'est amplifié ces derniers mois. Il faut dire que ces sièges se revendent très facilement sur des sites entre particuliers.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/justice-faits-divers/reportage-les-modeles-ciblees-etaient-toujours-les-memes-deux-hommes-condamnes-pour-avoir-vole-126-banquettes-arriere-de-voiture-2474390.html",
       "published_at": "2026-11-06T22:02:22+00:00",
       "category": "Société",
@@ -1192,7 +1207,7 @@
       "title": "Nouveau TGV : confort, espace... les premiers passagers donnent leur avis !",
       "summary": "Nouveau TGV : confort, espace...les premiers passagers donnent leur avis !",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/transports/videos/video-nouveau-tgv-confort-espace-les-premiers-passagers-donnent-leur-avis-93479-2474424.html",
       "published_at": "2026-11-06T22:00:12+00:00",
       "category": "Sciences & tech",
@@ -1352,7 +1367,7 @@
       "title": "Pillages du 17 octobre : des commerces autorisés à ouvrir exceptionnellement le dimanche à Paris",
       "summary": "L'État a exceptionnellement autorisé l'ouverture dominicale de magasins parisiens, après les dégradations et pillages en marge de la mobilisation du 17 octobre. Le dispositif concerne certains commerces de onze arrondissements. La Ville de Paris avait recensé 451 commerces vandalisés.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.tf1info.fr/economie/pillages-du-17-octobre-des-commerces-autorises-a-ouvrir-exceptionnellement-le-dimanche-a-paris-2474418.html",
       "published_at": "2026-11-06T21:44:34+00:00",
       "category": "Économie",
@@ -1744,7 +1759,7 @@
       "title": "\"Ils ont coupé les fils\" : ils volent 126 banquettes arrière en quatre mois",
       "summary": "Deux hommes viennent d'être condamnés à deux ans de prison ferme, pour avoir volé 126 banquettes arrière de voitures en quatre mois. ➡️ Marie a été victime d'un vol de banquette arrière : 🗣️ \"Ils ont coupé les fils, je n'ai plus d'airbags\"",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-ils-ont-coupe-les-fils-ils-volent-126-banquettes-arriere-en-quatre-mois-2474420.html",
       "published_at": "2026-11-06T21:15:11+00:00",
       "category": "Société",
@@ -1776,7 +1791,7 @@
       "title": "\"Une nouvelle attaque en préparation\" : Volodymyr Zelensky désigne les prochaines cibles de la Russie en Ukraine",
       "summary": "Volodymyr Zelensky a prévenu, vendredi 6 novembre, que la Russie préparait de nouvelles attaques en Ukraine. Selon le président ukrainien, Moscou prévoit de cibler de nouvelles infrastructures civiles.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.tf1info.fr/international/une-nouvelle-attaque-en-preparation-volodymyr-zelensky-designe-les-prochaines-cibles-de-la-russie-en-ukraine-2474417.html",
       "published_at": "2026-11-06T21:13:16+00:00",
       "category": "Politique",
@@ -1872,7 +1887,7 @@
       "title": "Facile à trouver toute l'année, il s'adapte à toutes nos envies mais faut-il éplucher le champignon de Paris avant de le cuisiner ?",
       "summary": "Crus ou cuits, les champignons de Paris agrémentent mille recettes en entrée ou en plat de résistance et ont conquis le monde entier. Selon la préparation, on les épluche ou non avant de les cuisiner. C'est un ingrédient qui s'accorde avec tous les autres (ou presque).",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.tf1info.fr/nutrition/facile-a-trouver-toute-l-annee-il-s-adapte-a-toutes-nos-envies-mais-faut-il-eplucher-le-champignon-de-paris-avant-de-le-cuisiner-2279275.html",
       "published_at": "2026-11-06T21:00:04+00:00",
       "category": "International",
@@ -1894,19 +1909,18 @@
       "category": "Culture",
       "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Quatre personnes mises en examen après les cambriolages de plusieurs musées » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Le Monde",
         "BFMTV",
         "Libération"
       ],
-      "coverage_count": 3,
-      "mention_count": 3
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "d5a1a3945bf9",
       "title": "Maroc : le rappeur Maes bientôt libre ? Sa peine de prison réduite de sept à un an en appel",
       "summary": "La cour d'appel de Tanger a réduit de sept ans à un an de prison la peine du rappeur franco-marocain Maes, selon son avocat. Il était notamment accusé de tentative d'enlèvement et de séquestration. Des médias locaux estiment qu'il devrait être libéré, après près de deux ans passés en détention.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.tf1info.fr/international/maroc-le-rappeur-maes-bientot-libre-sa-peine-de-prison-reduite-de-sept-a-un-an-en-appel-2474399.html",
       "published_at": "2026-11-06T20:54:25+00:00",
       "category": "Médias & communication",
@@ -1954,7 +1968,7 @@
       "title": "Un concours... pour capturer des pythons !",
       "summary": "Dans les marécages de Floride, des aventuriers traquent les pythons. Des concours sont même organisés pour réguler la population de cette espèce invasive. Opossums, ratons laveurs et lynx sont décimés par ce serpent constricteur capable même d'engloutir un alligator. Ce serpent non venimeux est importé d'Asie dans les années 80 par des amateurs d'animaux…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.tf1info.fr/international/videos/video-un-concours-pour-capturer-des-pythons-39778-2474416.html",
       "published_at": "2026-11-06T20:45:20+00:00",
       "category": "Société",
@@ -1986,7 +2000,7 @@
       "title": "\"Je me sens en assez bonne forme\" : le pape Léon XIV rassure sur sa santé après son opération",
       "summary": "Le pape Léon XIV a atterri à Montevideo, en Uruguay, vendredi 6 novembre, pour une tournée sud-américaine. Il s'agit de la première étape d'un voyage de 12 jours qui doit l'emmener en Argentine et au Pérou. À son arrivée, le Saint-Père a assuré se sentir \"en assez bonne forme\" après son intervention chirurgicale mi-octobre.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.tf1info.fr/international/je-me-sens-en-assez-bonne-forme-le-pape-leon-xiv-rassure-sur-sa-sante-apres-son-operation-chirurgicale-cancer-poumon-2474398.html",
       "published_at": "2026-11-06T20:43:30+00:00",
       "category": "Société",
@@ -2019,7 +2033,7 @@
       "title": "Incendies, agressions, blocages : des proviseurs à bout",
       "summary": "Du côté des lycées, les violences ne faiblissent pas, avec encore des scènes inimaginables. À Lyon, la porte d’un lycée a été incendiée devant des élèves qui applaudissaient. À Nancy, un proviseur adjoint a été aspergé par un extincteur. Devant un lycée incendié en Haute-Garonne, une vingtaine de chefs d’établissement ont exprimé leur colère ce vendredi.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.tf1info.fr/societe/videos/video-incendies-agressions-blocages-des-proviseurs-a-bout-53403-2474411.html",
       "published_at": "2026-11-06T20:40:19+00:00",
       "category": "Société",
@@ -2035,7 +2049,7 @@
       "title": "Nouveau TGV : enfin il roule !",
       "summary": "Le nouveau TGV est arrivé. Il aurait dû être inauguré en 2023 et les voyageurs l’attendaient avec impatience. Ce matin du vendredi 6 novembre, le premier de ces trains est parti de la gare de Lyon. Il ne va pas plus vite que ses prédécesseurs, 320 kilomètres par heure maximum, mais la SNCF veut avant tout optimiser le nombre de sièges disponibles,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/transports/videos/video-nouveau-tgv-enfin-il-roule-69168-2474413.html",
       "published_at": "2026-11-06T20:40:18+00:00",
       "category": "Société",
@@ -2051,7 +2065,7 @@
       "title": "Championnat des nations : à quelle heure et sur quelle chaîne se brancher pour ne pas rater le choc entre l'Écosse et les All Blacks ?",
       "summary": "Dans la nouvelle compétition du rugby mondial, c'est le Sud qui accueille cet automne, et c'est à suivre sur les antennes du groupe TF1. Ce samedi à 15h, l'Écosse reçoit la Nouvelle-Zélande à Murrayfield. Le XV du Chardon, 2ᵉ de l'hémisphère Nord, défie les All Blacks, co-leaders du Sud avec 15 points.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.tf1info.fr/sport/programme-tv-championnat-des-nations-match-ecosse-nouvelle-zelande-a-quelle-heure-et-sur-quelle-chaine-ne-pas-manquer-le-choc-2474389.html",
       "published_at": "2026-11-06T20:34:03+00:00",
       "category": "Sport",
@@ -2099,7 +2113,7 @@
       "title": "Bienvenue en France au pays de la paperasse !",
       "summary": "Un agriculteur français passe en moyenne neuf heures par semaine, soit une journée entière, en dehors de ses champs. Il les consacre à toutes ses tâches administratives et aux formulaires à remplir qui ont été, en partie, à l'origine de la colère de la profession. Il existe des normes pour tout. On aurait pu penser que le papier allait disparaître au…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.tf1info.fr/societe/videos/video-bienvenue-en-france-au-pays-de-la-paperasse-11515-2474405.html",
       "published_at": "2026-11-06T20:30:20+00:00",
       "category": "Sciences & tech",
@@ -2115,7 +2129,7 @@
       "title": "Pérou : plus de 3 000 tarentules découvertes dans des bagages à l’aéroport de Lima",
       "summary": "Plus de 3 000 tarentules, dissimulées dans des chaussettes, ont été découvertes dans les bagages de trois voyageurs à l’aéroport de Lima : deux Allemands et un Polonais. Les autorités péruviennes soupçonnent un trafic illégal vers l’Europe, où certaines araignées pourraient se revendre près de 500 euros pièce. Les suspects ont été placés en garde à vue…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.tf1info.fr/international/videos/video-perou-plus-de-3-000-tarentules-decouvertes-dans-des-bagages-a-l-aeroport-de-lima-55869-2474407.html",
       "published_at": "2026-11-06T20:30:10+00:00",
       "category": "Économie",
@@ -2212,7 +2226,7 @@
       "title": "Supérettes : elles n'ont pas dit leur dernier mot !",
       "summary": "On croyait les magasins de proximité condamnés par les grandes surfaces et les sites de vente en ligne. Mais ces petites épiceries font de la résistance. En un an, leurs ventes ont augmenté de 5,6 % en zone urbaine et de près de 10 % en milieu rural. Malgré des prix parfois un peu plus élevés, ces supérettes séduisent les clients grâce aux nombreux…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.tf1info.fr/conso/videos/video-superettes-elles-n-ont-pas-dit-leur-dernier-mot-13796-2474401.html",
       "published_at": "2026-11-06T20:25:17+00:00",
       "category": "Économie",
@@ -2228,7 +2242,7 @@
       "title": "Safran : l'or rouge pousse aussi en France",
       "summary": "C'est une épice qui se mérite. Le safran est l'une des plus cheres au monde. Ce n'est pas un hasard si on le surnomme l'or rouge. C'est une plante éxotique que l'on cultive aussi en France. Pour obtenir quelques grammes de cette précieuse poudre, le procéssus est long et complexe. Le prix de l'épice est calculé par rapport au cout du travail local. Le…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.tf1info.fr/conso/videos/video-safran-l-or-rouge-pousse-aussi-en-france-42441-2474403.html",
       "published_at": "2026-11-06T20:25:16+00:00",
       "category": "Économie",
@@ -2244,7 +2258,7 @@
       "title": "Ouverture de l'A69 : les automobilistes prêts à payer 20 euros ?",
       "summary": "Dans le Tarn, l'autoroute A69 entre Castres et Toulouse a enfin ouvert au public, après des années de combat juridique et de manifestations. Mais les retards du chantier, un projet controversé vieux de près de 30 ans, ont fait exploser la facture. Si vous partez de Toulouse, il vous faudra payer 20,40 euros l'aller-retour. Le tarif crée l'indignation…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/conso-argent/videos/video-ouverture-de-l-a69-les-automobilistes-prets-a-payer-20-euros-30037-2474409.html",
       "published_at": "2026-11-06T20:25:15+00:00",
       "category": "Économie",
@@ -2324,7 +2338,7 @@
       "title": "\"Elle s'est écroulée sur moi\" : le témoignage bouleversant de l'adolescente qui a réconforté la mère endeuillée dans le drame de l'Ain",
       "summary": "Deux passagers, dont une fillette de sept ans, ont été tués, vendredi 6 novembre, dans l'accident d'un car dans l'Ain. Le chauffeur a déclaré en garde à vue s'être \"assoupi\" au volant. Le 20H de TF1 a recueilli les témoignages de deux rescapées encore sous le choc.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.tf1info.fr/justice-faits-divers/reportage-elle-s-est-ecroulee-sur-moi-accident-mortel-de-car-le-temoignage-bouleversant-de-l-adolescente-qui-a-reconforte-la-mere-endeuillee-dans-le-drame-de-l-ain-2474380.html",
       "published_at": "2026-11-06T20:19:14+00:00",
       "category": "Société",
@@ -2356,7 +2370,7 @@
       "title": "SMIC à 1 500 euros net : bientôt la hausse ?",
       "summary": "Le gouvernement envisage de revaloriser le salaire minimum à 1 500 euros nets par mois, conformément à la proposition du ministre du Travail, Jean-Pierre Farandou. Il passerait ainsi de 1 477,93 à 1 500 euros, soit une hausse d'environ 1,5 %, légèrement supérieure à l'inflation. De nombreux patrons de PME alertent sur le coût de cette mesure que…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.tf1info.fr/economie/videos/video-smic-a-1-500-euros-net-bientot-la-hausse-63965-2474397.html",
       "published_at": "2026-11-06T20:15:20+00:00",
       "category": "Politique",
@@ -2532,27 +2546,11 @@
       "title": "Météo du 6 novembre 2026 : Prévisions météo à 21h01",
       "summary": "Météo du vendredi 6 novembre 2026 à 21h01 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du vendredi 6 novembre 2026 à 21h01 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-6-novembre-2026-previsions-meteo-a-21h01-2474395.html",
       "published_at": "2026-11-06T20:03:18+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Météo du 6 novembre 2026 : Prévisions météo à 21h01 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0c49e7460919",
-      "title": "\"Un lien émotionnel avec une langue\" : comment les réseaux sociaux peuvent donner envie aux jeunes d'apprendre une langue étrangère",
-      "summary": "L'envie d’apprendre une langue étrangère ne naît plus seulement à l’école ou pendant un voyage. Une vidéo TikTok ou une chanson suscitent désormais la curiosité des jeunes. Une étude menée par l’application Babbel met en lumière cette évolution des habitudes, mais aussi les limites de ces nouvelles portes d’entrée vers les langues.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/societe/un-lien-emotionnel-avec-une-langue-comment-les-reseaux-sociaux-peuvent-donner-envie-aux-jeunes-d-apprendre-une-langue-etrangere-2474343.html",
-      "published_at": "2026-11-06T20:00:55+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « \"Un lien émotionnel avec une langue\" : comment les réseaux sociaux peuvent donner envie aux jeunes d'apprendre une langue étrangère ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
       ],
@@ -4876,11 +4874,12 @@
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Il faut casser le monopole Bolloré » : un magasin Relay de Paris « déménagé » pour dénoncer la « propagande » d’extrême droite dans les gares » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
+        "Le Monde",
         "Libération",
         "Sud Ouest"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 3,
+      "mention_count": 3
     },
     {
       "id": "97a36efc5bcd",
