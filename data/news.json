@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-08T22:00:18.731475+00:00",
-  "last_attempt": "2026-11-08T22:00:18.731475+00:00",
+  "last_updated": "2026-11-08T23:00:18.323688+00:00",
+  "last_attempt": "2026-11-08T23:00:18.323688+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 884,
-  "unique_story_count": 760,
+  "raw_article_count": 885,
+  "unique_story_count": 762,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,9 +13,9 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-08T22:00:18.731475+00:00",
-  "featured_window_end": "2026-11-08T22:00:18.731475+00:00",
-  "featured_pool_count": 883,
+  "featured_window_start": "2026-10-08T23:00:18.323688+00:00",
+  "featured_window_end": "2026-11-08T23:00:18.323688+00:00",
+  "featured_pool_count": 884,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
@@ -24,7 +24,7 @@
       "title": "Glucksmann affirme avoir refusé d'être premier ministre en 2024",
       "summary": "Invité sur BFMTV, le candidat de la gauche a déclaré avoir «refusé» d’être ministre d’Emmanuel Macron, y compris «premier ministre (...) post-dissolution». Une source au sein de l’exécutif a indiqué dans la soirée que cela avait «été évoqué sans donner lieu à une proposition formelle».",
       "source": "Le Figaro",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.lefigaro.fr/elections/presidentielles/glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024-20261108",
       "published_at": "2026-11-08T21:59:07+00:00",
       "category": "Politique",
@@ -68,29 +68,27 @@
         "Télérama"
       ],
       "coverage_count": 36,
-      "mention_count": 221,
-      "importance_score": 36.569,
-      "latest_coverage_at": "2026-11-08T21:59:07+00:00"
+      "mention_count": 210,
+      "importance_score": 36.471,
+      "latest_coverage_at": "2026-11-08T22:27:22+00:00"
     },
     {
-      "id": "36fbfaab446a",
-      "title": "Pologne. Attentat de Cracovie, trois Ardéchois au milieu de la tragédie : « On a entendu entre quatre et six coups de feu »",
-      "summary": "Depuis une semaine, trois Ardéchois passaient des vacances entre amis à Cracovie, en Pologne. Ce samedi 7 novembre, deux d’entre eux étaient dans une rue adjacente de la place du marché, lorsqu’un terroriste a ouvert le feu au hasard sur les passants. Ils sont sains et saufs. Ils racontent.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 1,
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/08/a-quelques-minutes-pres-on-etait-dans-le-bar-ou-il-a-fait-un-carton-trois-ardechois-a-cracovie-lors-de-l-attentat",
-      "published_at": "2026-11-08T20:56:00+00:00",
+      "id": "efc43fa5aff6",
+      "title": "Cracovie rouvre le site de la fusillade tandis que la ville pleure ses victimes",
+      "summary": "À Cracovie, la grande place du centre historique de Cracovie a rouvert au public dimanche 8 novembre, un peu plus de 24 heures après la fusillade qui a fait six morts et 15 blessés. Les habitants se recueillent devant des bougies, tandis que les impacts de balles restent visibles sur les vitrines.",
+      "source": "Euronews",
+      "feed_rank": 2,
+      "url": "https://fr.euronews.com/video/2026/11/08/cracovie-rouvre-le-site-de-la-fusillade-tandis-que-la-ville-pleure-ses-victimes",
+      "published_at": "2026-11-08T22:07:19+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pologne. Attentat de Cracovie, trois Ardéchois au milieu de la tragédie : « On a entendu entre quatre et six coups de feu » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Cracovie rouvre le site de la fusillade tandis que la ville pleure ses victimes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "France 24",
-        "Le Figaro",
         "Mediapart",
         "RFI",
         "TF1 Info (TF1 / LCI)",
-        "BFMTV",
         "Courrier International",
         "Euronews",
         "France Culture",
@@ -107,10 +105,10 @@
         "Midi Libre",
         "Paris Match"
       ],
-      "coverage_count": 23,
-      "mention_count": 30,
-      "importance_score": 29.877,
-      "latest_coverage_at": "2026-11-08T21:10:45+00:00"
+      "coverage_count": 21,
+      "mention_count": 28,
+      "importance_score": 29.195,
+      "latest_coverage_at": "2026-11-08T22:07:19+00:00"
     },
     {
       "id": "0421beabfb8f",
@@ -127,7 +125,6 @@
         "Franceinfo (TV)",
         "Le Monde",
         "Le Figaro",
-        "BFMTV",
         "CNews",
         "Libération",
         "RMC",
@@ -137,9 +134,9 @@
         "Le Dauphiné Libéré",
         "Midi Libre"
       ],
-      "coverage_count": 13,
-      "mention_count": 13,
-      "importance_score": 25.002,
+      "coverage_count": 12,
+      "mention_count": 12,
+      "importance_score": 24.431,
       "latest_coverage_at": "2026-11-08T20:13:01+00:00"
     },
     {
@@ -147,7 +144,7 @@
       "title": "Route du Rhum. La Team Banque-Populaire a lancé l’opération de récupération du voilier d’Armel Le Cléac’h",
       "summary": "Armel Le Cléac’h avait chaviré mercredi 4 novembre. Secouru par un cargo panaméen, il est désormais attendu aux États-Unis. En attendant, l’opération de récupération du voilier a déjà été lancée par la Team Banque-Populaire.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-la-team-banque-populaire-a-lance-loperation-de-recuperation-du-voilier-darmel-le-cleach-45e3077c-dbb6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:50:02+00:00",
       "category": "Économie",
@@ -166,9 +163,35 @@
         "Le JDD"
       ],
       "coverage_count": 11,
-      "mention_count": 15,
-      "importance_score": 24.079,
+      "mention_count": 14,
+      "importance_score": 23.927,
       "latest_coverage_at": "2026-11-08T21:50:02+00:00"
+    },
+    {
+      "id": "b3e078b02a45",
+      "title": "Tennis. La Tchèque Noskova bat Kostyuk pour le premier match du Masters WTA",
+      "summary": "La Tchèque Linda Noskova, lauréate de Wimbledon cette année, a battu dimanche 8 novembre, l’Ukrainienne Marta Kostyuk 6-2, 6-4, pour le premier match du Masters WTA, à Indian Wells (Californie).",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/sport/tennis/tennis-la-tcheque-noskova-bat-kostyuk-pour-le-premier-match-du-masters-wta-3506b888-dbc3-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T22:31:30+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Tennis. La Tchèque Noskova bat Kostyuk pour le premier match du Masters WTA ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24",
+        "RFI",
+        "Libération",
+        "Ouest-France",
+        "20 Minutes",
+        "Midi Libre",
+        "Paris Match"
+      ],
+      "coverage_count": 9,
+      "mention_count": 9,
+      "importance_score": 21.982,
+      "latest_coverage_at": "2026-11-08T22:31:30+00:00"
     },
     {
       "id": "fd9a6c20a3d8",
@@ -192,33 +215,8 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.035,
+      "importance_score": 21.033,
       "latest_coverage_at": "2026-11-08T19:21:26+00:00"
-    },
-    {
-      "id": "f77f8e28821e",
-      "title": "De l'ombre de la blessure à la lumière du succès : le retour victorieux de Carlos Alcaraz à Paris",
-      "summary": "L'Espagnol Carlos Alcaraz a remporté son premier Masters 1000 de Paris en dominant en deux sets l'Américain Ben Shelton (7-6, 7-5).",
-      "source": "Paris Match",
-      "feed_rank": 2,
-      "url": "https://www.parismatch.com/lombre-blessure-lumiere-succes-retour-victorieux-carlos-alcaraz-paris-7d4Yf5ieo2uvnYyAkL06wL",
-      "published_at": "2026-11-08T20:26:34+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « De l'ombre de la blessure à la lumière du succès : le retour victorieux de Carlos Alcaraz à Paris » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "France 24",
-        "RFI",
-        "Libération",
-        "20 Minutes",
-        "Midi Libre",
-        "Paris Match"
-      ],
-      "coverage_count": 8,
-      "mention_count": 8,
-      "importance_score": 21.027,
-      "latest_coverage_at": "2026-11-08T20:26:34+00:00"
     },
     {
       "id": "e096a65c8418",
@@ -241,15 +239,39 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.224,
+      "importance_score": 20.182,
       "latest_coverage_at": "2026-11-08T21:41:20+00:00"
+    },
+    {
+      "id": "e05abe3cee3d",
+      "title": "Essonne: la députée LFI Farida Amrani légèrement blessée par un tir de mortier dans un salon de coiffure",
+      "summary": "Farida Amrani, députée LFI, a été légèrement blessée par un tir de mortier dans un salon de coiffure de l'Essonne samedi, a indiqué le parquet d'Evry ce dimanche. Aucune interpellation n'a eu lieu.",
+      "source": "BFMTV",
+      "feed_rank": 3,
+      "url": "https://www.bfmtv.com/paris/essonne/essonne-la-deputee-lfi-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_AD-202611080453.html",
+      "published_at": "2026-11-08T22:51:20+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Essonne: la députée LFI Farida Amrani légèrement blessée par un tir de mortier dans un salon de coiffure ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Figaro",
+        "BFMTV",
+        "Le Dauphiné Libéré",
+        "Le JDD",
+        "Paris Match"
+      ],
+      "coverage_count": 7,
+      "mention_count": 7,
+      "importance_score": 20.139,
+      "latest_coverage_at": "2026-11-08T22:51:20+00:00"
     },
     {
       "id": "b0677f072243",
       "title": "Braquages d'usines de métaux précieux à Besançon: huit personnes mises en examen, le butin retrouvé",
       "summary": "La procureure anticriminalité organisée annonce, ce dimanche, que huit personnes ont été mises en examen après les braquages d'usines de métaux précieux en décembre 2025 et novembre 2026 à Besançon. Le butin, dont la valeur était estimée à plus de six millions d'euros, a été retrouvé.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 9,
       "url": "https://www.bfmtv.com/doubs/braquages-d-usines-de-metaux-precieux-a-besancon-huit-personnes-mises-en-examen-le-butin-retrouve_AD-202611080435.html",
       "published_at": "2026-11-08T21:47:39+00:00",
       "category": "Économie",
@@ -264,7 +286,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 9,
-      "importance_score": 19.657,
+      "importance_score": 19.583,
       "latest_coverage_at": "2026-11-08T21:47:39+00:00"
     },
     {
@@ -287,53 +309,31 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.361,
+      "importance_score": 19.358,
       "latest_coverage_at": "2026-11-08T21:24:55+00:00"
     },
     {
-      "id": "148c7971c584",
-      "title": "Essonne. Evry-Courcouronnes : la députée LFI Farida Amrani blessée par un mortier dans un salon de coiffure",
-      "summary": "Le parquet d’Evry a ouvert une enquête pour violences volontaires aggravées. L’élue, touchée à la cuisse, dénonce une « attaque d’une extrême gravité ».",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 15,
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/08/evry-courcouronnes-la-deputee-lfi-farida-amrani-blessee-par-un-mortier-dans-un-salon-de-coiffure",
-      "published_at": "2026-11-08T21:49:00+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Essonne. Evry-Courcouronnes : la députée LFI Farida Amrani blessée par un mortier dans un salon de coiffure ».",
+      "id": "f2d5a2e660a0",
+      "title": "Acte criminel : le domicile d'un policier incendié",
+      "summary": "Samedi 7 novembre, la maison d’un policier a été incendiée dans le Gers alors qu'il était en service. Il avait été menacé plusieurs fois. La porte a été forcée avec un parpaing et, dans le salon, un bidon de fioul et deux jerrycans de gasoil ont été retrouvés vidés. Le ministre de l’Intérieur Laurent Nuñez a réagi, y voyant une violence récurrente. Ces…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 20,
+      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-acte-criminel-le-domicile-d-un-policier-incendie-88420-2474646.html",
+      "published_at": "2026-11-08T19:45:20+00:00",
+      "category": "Politique",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Acte criminel : le domicile d'un policier incendié ».",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Figaro",
-        "Le Dauphiné Libéré",
+        "TF1 Info (TF1 / LCI)",
+        "CNews",
+        "Libération",
+        "La Dépêche du Midi",
         "Le JDD",
-        "Paris Match"
+        "Midi Libre"
       ],
       "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 18.973,
-      "latest_coverage_at": "2026-11-08T21:49:00+00:00"
-    },
-    {
-      "id": "5306e10dcb23",
-      "title": "Football. Cinq à la suite pour l'OM, qui enfonce un Lens endolori et poursuit sa folle remontée en Ligue 1",
-      "summary": "L’Olympique de Marseille a enchaîné une cinquième victoire de rang en Ligue 1, dimanche à Lens (2-1). Les Sang et Or, durement marqués par leur déroute en Ligue des champions cette semaine, ont réagi trop timidement.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 14,
-      "url": "https://www.ledauphine.com/sport/2026/11/08/l-om-enfonce-un-lens-endolori-et-poursuit-sa-folle-remontee-en-ligue-1",
-      "published_at": "2026-11-08T21:57:00+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football. Cinq à la suite pour l'OM, qui enfonce un Lens endolori et poursuit sa folle remontée en Ligue 1 ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "BFMTV",
-        "20 Minutes",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 5,
-      "mention_count": 6,
-      "importance_score": 18.194,
-      "latest_coverage_at": "2026-11-08T21:57:00+00:00"
+      "mention_count": 8,
+      "importance_score": 19.316,
+      "latest_coverage_at": "2026-11-08T19:45:20+00:00"
     },
     {
       "id": "97138f754b29",
@@ -354,7 +354,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.612,
+      "importance_score": 17.6,
       "latest_coverage_at": "2026-11-08T19:57:25+00:00"
     },
     {
@@ -362,7 +362,7 @@
       "title": "Le pape Léon XIV arrive en Argentine, où l’Église conteste l’austérité du président Javier Milei",
       "summary": "Le souverain pontife entame une visite de quatre jours en Argentine où l’Église catholique conteste fermement la politique économique du président ultralibéral",
       "source": "Sud Ouest",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.sudouest.fr/international/le-pape-arrive-en-argentine-ou-l-eglise-conteste-l-austerite-de-milei-31450805.php",
       "published_at": "2026-11-08T20:36:36+00:00",
       "category": "Politique",
@@ -375,7 +375,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.899,
+      "importance_score": 16.889,
       "latest_coverage_at": "2026-11-08T20:36:36+00:00"
     },
     {
@@ -396,8 +396,49 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.725,
+      "importance_score": 16.722,
       "latest_coverage_at": "2026-11-08T21:13:28+00:00"
+    },
+    {
+      "id": "fb280a19d5a0",
+      "title": "Victorieux à Bollaert, l'OM enfonce le RC Lens quatre jours après son naufrage contre Côme",
+      "summary": "Le club phocéen a eu le dernier mot, dimanche, dans l'affiche de clôture de la 10e journée de Ligue 1 (2-1).",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 9,
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/victorieux-a-bollaert-l-om-enfonce-le-rc-lens-quatre-jours-apres-son-naufrage-contre-come_8273783.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-08T21:39:41+00:00",
+      "category": "Sport",
+      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Victorieux à Bollaert, l'OM enfonce le RC Lens quatre jours après son naufrage contre Côme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "BFMTV",
+        "20 Minutes"
+      ],
+      "coverage_count": 4,
+      "mention_count": 5,
+      "importance_score": 16.714,
+      "latest_coverage_at": "2026-11-08T21:39:41+00:00"
+    },
+    {
+      "id": "e1da0e98b4b8",
+      "title": "Revalorisation du Smic: \"Je ne suis pas favorable à cela\", détaille Geoffroy Didier, président délégué LR de la région Île-de-France",
+      "summary": "Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre, au-delà de 1.500 euros nets contre 1.477 euros actuellement, a appris BFMTV ce dimanche 8 novembre.",
+      "source": "BFMTV",
+      "feed_rank": 4,
+      "url": "https://www.bfmtv.com/politique/video-revalorisation-du-smic-je-ne-suis-pas-favorable-a-cela-detaille-geoffroy-didier-president-delegue-lr-de-la-region-ile-de-france_VN-202611080450.html",
+      "published_at": "2026-11-08T22:34:34+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Revalorisation du Smic: \"Je ne suis pas favorable à cela\", détaille Geoffroy Didier, président délégué LR de la région Île-de-France » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV",
+        "La Dépêche du Midi",
+        "Midi Libre"
+      ],
+      "coverage_count": 3,
+      "mention_count": 6,
+      "importance_score": 15.43,
+      "latest_coverage_at": "2026-11-08T22:34:34+00:00"
     },
     {
       "id": "bfe04ea47a93",
@@ -416,8 +457,28 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.154,
+      "importance_score": 15.151,
       "latest_coverage_at": "2026-11-08T09:30:00+00:00"
+    },
+    {
+      "id": "7b7ebb33a4b9",
+      "title": "Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6",
+      "summary": "Longtemps bousculée par une équipe bayonnaise accrocheuse, La Rochelle a fini par trouver l’ouverture grâce au jeune Sacha Elissalde, décisif pour offrir l’essai de la victoire à Jules Favre. Succès précieux (22-18) pour les Maritimes qui reviennent à une longueur seulement des places qualificatives ce dimanche 8 novembre.",
+      "source": "Ouest-France",
+      "feed_rank": 4,
+      "url": "https://www.ouest-france.fr/sport/rugby/top-14/stade-rochelais/top-14-la-rochelle-sarrache-face-a-bayonne-et-entrevoit-de-nouveau-le-top-6-ac147a7a-dbc1-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T22:20:53+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro",
+        "BFMTV",
+        "Ouest-France"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.463,
+      "latest_coverage_at": "2026-11-08T22:31:48+00:00"
     },
     {
       "id": "51a2748e8296",
@@ -436,28 +497,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.237,
+      "importance_score": 14.234,
       "latest_coverage_at": "2026-11-08T17:00:00+00:00"
-    },
-    {
-      "id": "78020ddf3643",
-      "title": "Une femme de 59 ans avoue avoir tué au fusil de chasse sa mère de 89 ans atteinte d'une maladie neuro-dégénérative dans le Var",
-      "summary": "Dimanche 8 novembre, une octogénaire est retrouvée morte à son domicile de La Seyne-sur-Mer (Var). Sa fille de 59 ans, alcoolisée lors de son interpellation, a avoué lui avoir tiré dessus. La victime souffrait d'une...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 11,
-      "url": "https://www.ladepeche.fr/2026/11/08/une-femme-de-59-ans-avoue-avoir-tue-au-fusil-de-chasse-sa-mere-de-89-ans-atteinte-dune-maladie-neuro-degenerative-dans-le-var-13642754.php",
-      "published_at": "2026-11-08T16:32:37+00:00",
-      "category": "Société",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Une femme de 59 ans avoue avoir tué au fusil de chasse sa mère de 89 ans atteinte d'une maladie neuro-dégénérative dans le Var ».",
-      "coverage_sources": [
-        "Sud Ouest",
-        "La Dépêche du Midi",
-        "Paris Match"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.189,
-      "latest_coverage_at": "2026-11-08T16:32:37+00:00"
     },
     {
       "id": "cd7e72ba049e",
@@ -476,55 +517,273 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 13.817,
+      "importance_score": 13.814,
       "latest_coverage_at": "2026-11-08T14:21:07+00:00"
-    },
-    {
-      "id": "c95747ed6c90",
-      "title": "« Scrooge » : Johnny Depp, invité du 20H de TF1",
-      "summary": "Invité du 20H de TF1, Johnny Depp a fait la promotion du film « Scrooge », réalisé par Ti West, dont la sortie en salles est prévue ce mercredi 11 novembre. L'acteur américain y incarne l'un des personnages les plus détestés de la littérature anglaise. Il a évoqué notamment sa vision de la morale du conte et son goût pour les rôles à forte transformation…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 1,
-      "url": "https://www.tf1info.fr/culture/videos/video-scrooge-johnny-depp-invite-du-20h-de-tf1-81974-2474675.html",
-      "published_at": "2026-11-08T21:50:22+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « « Scrooge » : Johnny Depp, invité du 20H de TF1 ».",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
-        "Paris Match"
-      ],
-      "coverage_count": 2,
-      "mention_count": 4,
-      "importance_score": 13.103,
-      "latest_coverage_at": "2026-11-08T21:50:22+00:00"
-    },
-    {
-      "id": "bc740387d86d",
-      "title": "Le Mans-Monaco: \"Un ami m’a conseillé\", Coulibaly justifie sa célébration \"étranglement\", qui avait coûté cher à son coéquipier",
-      "summary": "Après avoir reproduit la même célébration que Paris Brunner ce dimanche après avoir marqué face au Mans lors de la 10e journée de Ligue 1, Mamadou Coulibaly a expliqué les raisons qui l'ont poussé à faire le même geste que son coéquipier, alors que ce dernier avait été sanctionné.",
-      "source": "BFMTV",
-      "feed_rank": 4,
-      "url": "https://rmcsport.bfmtv.com/football/ligue-1/le-mans-monaco-un-ami-m-a-conseille-coulibaly-justifie-sa-celebration-etranglement-qui-avait-coute-cher-a-son-coequipier_AV-202611080434.html",
-      "published_at": "2026-11-08T21:42:47+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Le Mans-Monaco: \"Un ami m’a conseillé\", Coulibaly justifie sa célébration \"étranglement\", qui avait coûté cher à son coéquipier » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV",
-        "Ouest-France"
-      ],
-      "coverage_count": 2,
-      "mention_count": 3,
-      "importance_score": 12.687,
-      "latest_coverage_at": "2026-11-08T21:42:47+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "f1282e31aa18",
+      "title": "«Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune en deux",
+      "summary": "REPORTAGE - Dans ce bourg de 1700 âmes des Hauts-de-Seine, le chantier de l’A13 va condamner, du 16 novembre à août 2027, le passage sous un pont. Or, il s’agit de l’une des dernières voies permettant aux riverains de rejoindre les communes voisines de l’Ouest sans détour important. Les habitants craignent de se retrouver coupés de tout et de tous.",
+      "source": "Le Figaro",
+      "feed_rank": 20,
+      "url": "https://www.lefigaro.fr/actualite-france/bloquer-une-autoroute-pendant-neuf-mois-il-n-y-a-qu-en-france-que-l-on-voit-cela-a-marnes-la-coquette-la-fermeture-de-l-a13-coupe-la-commune-en-deux-20261108",
+      "published_at": "2026-11-08T22:57:16+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune e » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1f61b7def818",
+      "title": "\"Rester sereins et humbles surtout\": à l'OM, pas d'euphorie malgré la bonne série et la quatrième place",
+      "summary": "L'OM a fait tomber un RC Lens encore blessé ce dimanche soir (2-1), dans l'affiche de la 10e journée de championnat. Grâce à sa cinquième victoire de suite en Ligue 1, Marseille se retrouve propulsé à la quatrième place du classement. Mais pas question de tomber dans l'euphorie côté marseillais.",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/rester-sereins-et-humbles-surtout-a-l-om-pas-d-euphorie-malgre-la-bonne-serie-et-la-quatrieme-place_AP-202611080454.html",
+      "published_at": "2026-11-08T22:52:28+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « \"Rester sereins et humbles surtout\": à l'OM, pas d'euphorie malgré la bonne série et la quatrième place ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0cdd85e8d1c3",
+      "title": "Liga : le Barça renverse l’Atlético et conforte sa place de leader",
+      "summary": "Les Barcelonais l’ont emporté sur le terrain de l’Atlético Madrid ce dimanche, lors de la 12e journée de Liga.",
+      "source": "Le Figaro",
+      "feed_rank": 12,
+      "url": "https://www.lefigaro.fr/sports/football/espagne/liga-le-barca-renverse-l-atletico-et-conforte-sa-place-de-leader-20261108",
+      "published_at": "2026-11-08T22:33:57+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Liga : le Barça renverse l’Atlético et conforte sa place de leader » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "c54c8dee628b",
+      "title": "Liga. Avec un doublé de Fermin Lopez, le FC Barcelone s’impose face à l’Atlético de Madrid et reprend la tête de la Liga",
+      "summary": "Grâce à deux buts de Fermin Lopez, le FC Barcelone s’est offert le choc du week-end en Liga face à l’Atlético de Madrid (1-2). Il reprend ainsi trois points d’avance sur le Real Madrid en tête du championnat.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/football/espagne/fc-barcelone/liga-le-fc-barcelone-simpose-face-a-latletico-de-madrid-et-reprend-les-commandes-de-la-liga-038536cc-dbbe-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T22:32:07+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Liga. Avec un doublé de Fermin Lopez, le FC Barcelone s’impose face à l’Atlético de Madrid et reprend la tête de la Liga ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "378d50f028ba",
+      "title": "Top 14 : La Rochelle à la relance",
+      "summary": "Battus lors de leurs deux dernières sorties, les hommes de Ronan O’Gara ont dominé Bayonne ce dimanche, à Marcel-Deflandre, lors du dernier match de la neuvième journée.",
+      "source": "Le Figaro",
+      "feed_rank": 13,
+      "url": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-la-rochelle-a-la-relance-20261108",
+      "published_at": "2026-11-08T22:31:48+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Top 14 : La Rochelle à la relance ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b3e078b02a45",
+      "title": "Tennis. La Tchèque Noskova bat Kostyuk pour le premier match du Masters WTA",
+      "summary": "La Tchèque Linda Noskova, lauréate de Wimbledon cette année, a battu dimanche 8 novembre, l’Ukrainienne Marta Kostyuk 6-2, 6-4, pour le premier match du Masters WTA, à Indian Wells (Californie).",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/sport/tennis/tennis-la-tcheque-noskova-bat-kostyuk-pour-le-premier-match-du-masters-wta-3506b888-dbc3-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T22:31:30+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Tennis. La Tchèque Noskova bat Kostyuk pour le premier match du Masters WTA ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "be6e7d860989",
+      "title": "Présidentielle 2027 : dans le Sud-Est, les rivaux Édouard Philippe et Gabriel Attal s’opposent sur la primaire",
+      "summary": "REPORTAGE - Sur la Côte d’Azur, le candidat d’Horizons a accéléré sa campagne, mais son concurrent de Renaissance conteste sa position dominante sur la droite et le centre.",
+      "source": "Le Figaro",
+      "feed_rank": 17,
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dans-le-sud-est-les-rivaux-edouard-philippe-et-gabriel-attal-s-opposent-sur-la-primaire-20261108",
+      "published_at": "2026-11-08T22:27:22+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : dans le Sud-Est, les rivaux Édouard Philippe et Gabriel Attal s’opposent sur la primaire ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0acecd12cbcd",
+      "title": "« Vous êtes la honte… » : le RC Lens n’est pas parvenu à faire oublier l’affront de Côme contre l’OM",
+      "summary": "Le RC Lens espérait rebondir après sa déroute historique face à Côme (1-9) en Ligue des champions, ce dimanche 8 novembre, mais les Sang et Or ont subi une nouvelle défaite, face à Marseille (1-2), devant leur public qui avait sorti les banderoles. « Plus jamais ça », a aussi prévenu leur président Joseph Oughourlian qui a fait écrire ces mots dans les…",
+      "source": "Ouest-France",
+      "feed_rank": 3,
+      "url": "https://www.ouest-france.fr/sport/football/rc-lens/vous-etes-la-honte-le-rc-lens-nest-pas-parvenu-a-faire-oublier-laffront-de-come-contre-lom-4e99aa14-dbbc-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T22:23:47+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « « Vous êtes la honte… » : le RC Lens n’est pas parvenu à faire oublier l’affront de Côme contre l’OM » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "7b7ebb33a4b9",
+      "title": "Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6",
+      "summary": "Longtemps bousculée par une équipe bayonnaise accrocheuse, La Rochelle a fini par trouver l’ouverture grâce au jeune Sacha Elissalde, décisif pour offrir l’essai de la victoire à Jules Favre. Succès précieux (22-18) pour les Maritimes qui reviennent à une longueur seulement des places qualificatives ce dimanche 8 novembre.",
+      "source": "Ouest-France",
+      "feed_rank": 4,
+      "url": "https://www.ouest-france.fr/sport/rugby/top-14/stade-rochelais/top-14-la-rochelle-sarrache-face-a-bayonne-et-entrevoit-de-nouveau-le-top-6-ac147a7a-dbc1-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T22:20:53+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "222accf77e1e",
+      "title": "Amsterdam : une foule nombreuse pour Gaza réclame des sanctions contre Israël",
+      "summary": "Des dizaines de milliers de personnes, beaucoup vêtues de rouge, ont défilé à Amsterdam, aux Pays-Bas, le dimanche 8 novembre, pour exiger que le gouvernement néerlandais prenne des mesures plus fermes contre Israël à propos de la guerre à Gaza.",
+      "source": "Euronews",
+      "feed_rank": 1,
+      "url": "https://fr.euronews.com/video/2026/11/08/amsterdam-une-foule-nombreuse-pour-gaza-reclame-des-sanctions-contre-israel",
+      "published_at": "2026-11-08T22:20:25+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Amsterdam : une foule nombreuse pour Gaza réclame des sanctions contre Israël ».",
+      "coverage_sources": [
+        "Euronews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e0e1c9c8c325",
+      "title": "Primaire : face aux extrêmes, l'union ou la défaite ? - 08/11",
+      "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "source": "BFMTV",
+      "feed_rank": 5,
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-primaire-face-aux-extremes-l-union-ou-la-defaite-08-11_VN-202611080446.html",
+      "published_at": "2026-11-08T22:20:11+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Primaire : face aux extrêmes, l'union ou la défaite ? - 08/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a0961242a2d7",
+      "title": "Football - Régional 1. Chavanay remporte le choc face à Villars et devient nouveau leader",
+      "summary": "En infligeant sa première défaite à l’US Villars (2-0) dimanche, Chavanay s’empare du fauteuil de leader de la poule A de Régional 1.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 14,
+      "url": "https://www.ledauphine.com/sport/2026/11/08/chavanay-nouveau-leader",
+      "published_at": "2026-11-08T22:20:00+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football - Régional 1. Chavanay remporte le choc face à Villars et devient nouveau leader ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "7186d42ffdd1",
+      "title": "Meuse. Un homme armé d’un sabre retrouvé mort chez lui après l’intervention des gendarmes",
+      "summary": "Après qu’il a frappé un gendarme, au moins un militaire a fait usage de son arme. Une autopsie doit déterminer si les tirs sont à l’origine de sa mort.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 15,
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/08/un-homme-arme-d-un-sabre-retrouve-mort-chez-lui-apres-l-intervention-des-gendarmes",
+      "published_at": "2026-11-08T22:15:00+00:00",
+      "category": "Société",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Meuse. Un homme armé d’un sabre retrouvé mort chez lui après l’intervention des gendarmes ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "efc43fa5aff6",
+      "title": "Cracovie rouvre le site de la fusillade tandis que la ville pleure ses victimes",
+      "summary": "À Cracovie, la grande place du centre historique de Cracovie a rouvert au public dimanche 8 novembre, un peu plus de 24 heures après la fusillade qui a fait six morts et 15 blessés. Les habitants se recueillent devant des bougies, tandis que les impacts de balles restent visibles sur les vitrines.",
+      "source": "Euronews",
+      "feed_rank": 2,
+      "url": "https://fr.euronews.com/video/2026/11/08/cracovie-rouvre-le-site-de-la-fusillade-tandis-que-la-ville-pleure-ses-victimes",
+      "published_at": "2026-11-08T22:07:19+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Cracovie rouvre le site de la fusillade tandis que la ville pleure ses victimes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Euronews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6ce700d8e07a",
+      "title": "Foot : une tribune cède en Norvège, un supporter de Bodo/Glimt blessé",
+      "summary": "SCAN SPORT - L’incident s’est déroulé ce dimanche lors d’un match de D1 norvégienne entre Tromso et Bodo/Glimt.",
+      "source": "Le Figaro",
+      "feed_rank": 11,
+      "url": "https://www.lefigaro.fr/sports/football/foot-une-tribune-cede-en-norvege-un-supporter-de-bodo-glimt-blesse-20261108",
+      "published_at": "2026-11-08T22:06:02+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Foot : une tribune cède en Norvège, un supporter de Bodo/Glimt blessé ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "76611f2690ce",
+      "title": "\"Les artistes ont le droit d'exprimer leurs convictions politiques\", déclare Jérémie Patrier-Leitus, porte-parole d'Édouard Philippe",
+      "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann…",
+      "source": "BFMTV",
+      "feed_rank": 7,
+      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-les-artistes-ont-le-droit-d-exprimer-leurs-convictions-politiques-declare-jeremie-patrier-leitus-porte-parole-d-edouard-philippe_VN-202611080439.html",
+      "published_at": "2026-11-08T22:01:04+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « \"Les artistes ont le droit d'exprimer leurs convictions politiques\", déclare Jérémie Patrier-Leitus, porte-parole d'Édouard Philippe ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "c39a1d8727c6",
       "title": "Glucksmann affirme avoir refusé d'être premier ministre en 2024",
       "summary": "Invité sur BFMTV, le candidat de la gauche a déclaré avoir «refusé» d’être ministre d’Emmanuel Macron, y compris «premier ministre (...) post-dissolution». Une source au sein de l’exécutif a indiqué dans la soirée que cela avait «été évoqué sans donner lieu à une proposition formelle».",
       "source": "Le Figaro",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.lefigaro.fr/elections/presidentielles/glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024-20261108",
       "published_at": "2026-11-08T21:59:07+00:00",
       "category": "Politique",
@@ -541,33 +800,17 @@
       "mention_count": 6
     },
     {
-      "id": "0cdd85e8d1c3",
-      "title": "Liga : le Barça renverse l’Atlético et conforte sa place de leader",
-      "summary": "Les Barcelonais l’ont emporté sur le terrain de l’Atlético Madrid ce dimanche, lors de la 12e journée de Liga.",
-      "source": "Le Figaro",
-      "feed_rank": 11,
-      "url": "https://www.lefigaro.fr/sports/football/espagne/liga-le-barca-renverse-l-atletico-et-conforte-sa-place-de-leader-20261108",
-      "published_at": "2026-11-08T21:57:44+00:00",
+      "id": "88854ac1b9a3",
+      "title": "Un homme meurt après une intervention de la gendarmerie dans la Meuse",
+      "summary": "Un homme armé d’un sabre est décédé à son domicile après avoir agressé un gendarme et essuyé des tirs des forces de l’ordre",
+      "source": "Sud Ouest",
+      "feed_rank": 1,
+      "url": "https://www.sudouest.fr/faits-divers/un-homme-meurt-apres-une-intervention-de-la-gendarmerie-dans-la-meuse-31451556.php",
+      "published_at": "2026-11-08T21:57:42+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Liga : le Barça renverse l’Atlético et conforte sa place de leader » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Un homme meurt après une intervention de la gendarmerie dans la Meuse » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "378d50f028ba",
-      "title": "Top 14 : La Rochelle à la relance",
-      "summary": "Battus lors de leurs deux dernières sorties, les hommes de Ronan O’Gara ont dominé Bayonne ce dimanche, à Marcel-Deflandre, lors du dernier match de la neuvième journée.",
-      "source": "Le Figaro",
-      "feed_rank": 12,
-      "url": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-la-rochelle-a-la-relance-20261108",
-      "published_at": "2026-11-08T21:57:13+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Top 14 : La Rochelle à la relance ».",
-      "coverage_sources": [
-        "Le Figaro"
+        "Sud Ouest"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -577,7 +820,7 @@
       "title": "Football. Cinq à la suite pour l'OM, qui enfonce un Lens endolori et poursuit sa folle remontée en Ligue 1",
       "summary": "L’Olympique de Marseille a enchaîné une cinquième victoire de rang en Ligue 1, dimanche à Lens (2-1). Les Sang et Or, durement marqués par leur déroute en Ligue des champions cette semaine, ont réagi trop timidement.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.ledauphine.com/sport/2026/11/08/l-om-enfonce-un-lens-endolori-et-poursuit-sa-folle-remontee-en-ligue-1",
       "published_at": "2026-11-08T21:57:00+00:00",
       "category": "Médias & communication",
@@ -609,7 +852,7 @@
       "title": "Route du Rhum. La Team Banque-Populaire a lancé l’opération de récupération du voilier d’Armel Le Cléac’h",
       "summary": "Armel Le Cléac’h avait chaviré mercredi 4 novembre. Secouru par un cargo panaméen, il est désormais attendu aux États-Unis. En attendant, l’opération de récupération du voilier a déjà été lancée par la Team Banque-Populaire.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-la-team-banque-populaire-a-lance-loperation-de-recuperation-du-voilier-darmel-le-cleach-45e3077c-dbb6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:50:02+00:00",
       "category": "Économie",
@@ -621,27 +864,11 @@
       "mention_count": 1
     },
     {
-      "id": "148c7971c584",
-      "title": "Essonne. Evry-Courcouronnes : la députée LFI Farida Amrani blessée par un mortier dans un salon de coiffure",
-      "summary": "Le parquet d’Evry a ouvert une enquête pour violences volontaires aggravées. L’élue, touchée à la cuisse, dénonce une « attaque d’une extrême gravité ».",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 15,
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/08/evry-courcouronnes-la-deputee-lfi-farida-amrani-blessee-par-un-mortier-dans-un-salon-de-coiffure",
-      "published_at": "2026-11-08T21:49:00+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Essonne. Evry-Courcouronnes : la députée LFI Farida Amrani blessée par un mortier dans un salon de coiffure ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "4b6ae427397b",
       "title": "Tennis de table. Pro B : Nantes inflige une correction au co-leader caennais",
       "summary": "Dans un match où Caen arrivait clairement en favori, le Nantes TT a réussi un exploit majuscule et se remet la tête à l’endroit. En l’emportant 3-1 face au co-leader, ce dimanche 8 novembre, les Nantais ont montré leur vrai visage et prouvent qu’ils ont un effectif taillé pour la première partie du classement.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/tennis-de-table/nantes-tt/tennis-de-table-pro-b-nantes-inflige-une-correction-au-co-leader-caennais-9aa28d78-dbbb-11f1-a04a-6776b5256c5b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:48:03+00:00",
       "category": "Sport",
@@ -696,7 +923,7 @@
       "title": "Le Mans-Monaco: \"Un ami m’a conseillé\", Coulibaly justifie sa célébration \"étranglement\", qui avait coûté cher à son coéquipier",
       "summary": "Après avoir reproduit la même célébration que Paris Brunner ce dimanche après avoir marqué face au Mans lors de la 10e journée de Ligue 1, Mamadou Coulibaly a expliqué les raisons qui l'ont poussé à faire le même geste que son coéquipier, alors que ce dernier avait été sanctionné.",
       "source": "BFMTV",
-      "feed_rank": 4,
+      "feed_rank": 10,
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/le-mans-monaco-un-ami-m-a-conseille-coulibaly-justifie-sa-celebration-etranglement-qui-avait-coute-cher-a-son-coequipier_AV-202611080434.html",
       "published_at": "2026-11-08T21:42:47+00:00",
       "category": "Médias & communication",
@@ -712,7 +939,7 @@
       "title": "Premier League. William Saliba a rejoué ce dimanche avec les U21 d’Arsenal, retour imminent avec l’équipe première",
       "summary": "Le défenseur de l’équipe de France, qui n’avait pas rejoué depuis la demi-finale de Coupe du monde perdue par la France cet été contre l’Espagne, a fait son retour sur les terrains ce dimanche, aux côtés des U21 d’Arsenal. Il ne devrait plus tarder à retrouver l’équipe première.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/angleterre/arsenal/premier-league-william-saliba-a-rejoue-ce-dimanche-avec-les-u21-darsenal-retour-imminent-avec-lequipe-premiere-b4352bbc-dbb9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:42:41+00:00",
       "category": "International",
@@ -728,29 +955,13 @@
       "title": "Cinq morts à Gaza à la suite de pluies diluviennes",
       "summary": "D’importantes pluies ont touché l’enclave palestinienne au cours des deux derniers jours, causant la mort d’au moins cinq personnes dont trois enfants.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/monde/gaza/cinq-morts-a-gaza-a-la-suite-de-pluies-diluviennes-2d5bc388-dbbb-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:41:20+00:00",
       "category": "International",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Cinq morts à Gaza à la suite de pluies diluviennes ».",
       "coverage_sources": [
         "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "80b65ccab583",
-      "title": "Meuse: un homme abattu après avoir attaqué un gendarme avec un sabre",
-      "summary": "Les forces de l’ordre se sont rendues à son domicile après avoir été alertées, car l’individu portait une arme blanche sur la voie publique et menaçait ses voisins.",
-      "source": "Le Figaro",
-      "feed_rank": 13,
-      "url": "https://www.lefigaro.fr/faits-divers/meuse-un-homme-abattu-apres-avoir-attaque-un-gendarme-avec-un-sabre-20261108",
-      "published_at": "2026-11-08T21:40:32+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Meuse: un homme abattu après avoir attaqué un gendarme avec un sabre » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -825,7 +1036,7 @@
       "title": "Pétition contre Cnews : plus d’un million de personnes ont déjà signé l’appel à fermer la chaîne de télévision",
       "summary": "Une pétition qui réclame le retrait de la chaîne CNews de l’audiovisuel français connaît une forte accélération avant un vote décisif des députés",
       "source": "Sud Ouest",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.sudouest.fr/politique/petition-contre-cnews-plus-d-un-million-de-personnes-ont-deja-signe-l-appel-a-fermer-la-chaine-de-television-31451427.php",
       "published_at": "2026-11-08T21:33:10+00:00",
       "category": "Politique",
@@ -841,7 +1052,7 @@
       "title": "Ligue 1. « Une dédicace à un ami » : après Paris Brunner, un Monégasque signe une nouvelle célébration polémique",
       "summary": "Auteur de l’ouverture du score au Mans (1-1), ce dimanche 8 novembre, le milieu monégasque Mamadou Coulibaly a célébré son but avec un doigt tendu devant sa gorge, imitant le geste qui avait valu à son coéquipier Paris Brunner, deux matches de suspension en septembre dernier.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/monaco/ligue-1-une-dedicace-a-un-ami-apres-paris-brunner-un-monegasque-signe-une-nouvelle-celebration-polemique-ee42648a-dbb6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:31:31+00:00",
       "category": "Sport",
@@ -873,7 +1084,7 @@
       "title": "17 octobre : il a retrouvé la trace d'un des voleurs - 08/11",
       "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 11,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-17-octobre-il-a-retrouve-la-trace-d-un-des-voleurs-08-11_VN-202611080427.html",
       "published_at": "2026-11-08T21:27:11+00:00",
       "category": "Société",
@@ -921,7 +1132,7 @@
       "title": "Donald Trump reconnaît une politique d’expulsions d’immigrés « trop dure »",
       "summary": "Interrogé à la télévision américaine après la lourde défaite du camp républicain lors des élections de mi-mandat, Donald Trump a reconnu quelques erreurs dans sa politique, notamment en matière de gestion de l’immigration.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-reconnait-une-politique-dexpulsions-dimmigres-trop-dure-8bf976b0-dbb6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:22:54+00:00",
       "category": "Politique",
@@ -954,7 +1165,7 @@
       "title": "« C’est un caprice de gosse » : à Cergy, la mobilisation s’organise contre le projet de parcs d’attractions d’Emmanuel Macron et du prince héritier saoudien",
       "summary": "Des dizaines de défenseurs de l’environnement se sont rassemblés dans le Val-d’Oise pour dénoncer un mégaprojet de parcs à thème jugé inutile et néfaste pour le territoire",
       "source": "Sud Ouest",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.sudouest.fr/politique/emmanuel-macron/c-est-un-caprice-de-gosse-a-cergy-la-mobilisation-s-organise-contre-le-projet-de-parcs-d-attractions-d-emmanuel-macron-et-du-prince-heritier-saoudien-31451311.php",
       "published_at": "2026-11-08T21:21:35+00:00",
       "category": "Société",
@@ -1002,7 +1213,7 @@
       "title": "Alertes à la bombe visant des avions en Europe: le parquet de Paris a ouvert une enquête",
       "summary": "Le parquet de Paris annonce, ce samedi, l'ouverture d'une enquête après les alertes à la bombe visant des avions. Il évoque également un potentiel \"lien\" avec des puissances étrangères.",
       "source": "BFMTV",
-      "feed_rank": 6,
+      "feed_rank": 12,
       "url": "https://www.bfmtv.com/police-justice/video-alertes-a-la-bombe-visant-des-avions-en-europe-le-parquet-de-paris-a-ouvert-une-enquete_VN-202611080418.html",
       "published_at": "2026-11-08T21:10:45+00:00",
       "category": "International",
@@ -1018,29 +1229,13 @@
       "title": "Rugby - Nationale 2. « Le meilleur match de la saison » : Annonay s'offre Langon et reste dans le top 5",
       "summary": "Grosse performance d’Annonay à domicile ce dimanche. En effet, les Annonéens sont venus à bout du deuxième, Langon (24-16), devant un public venu en nombre et satisfait par le niveau de la rencontre.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 18,
+      "feed_rank": 20,
       "url": "https://www.ledauphine.com/sport/2026/11/08/annonay-demontre-une-belle-solidite",
       "published_at": "2026-11-08T21:06:00+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Rugby - Nationale 2. « Le meilleur match de la saison » : Annonay s'offre Langon et reste dans le top 5 ».",
       "coverage_sources": [
         "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ea99ab351149",
-      "title": "XV de France. Victime d’une luxation de l’épaule, Romain Ntamack éloigné des terrains au moins deux mois",
-      "summary": "Sorti grimaçant de douleur samedi 7 novembre lors de la victoire du XV de France face aux Fidjiens (54-17), Romain Ntamack est dorénavant fixé sur sa blessure. Le demi d’ouverture des Bleus souffre d’une luxation de l’épaule gauche, qui devrait l’éloigner des terrains au moins deux mois.",
-      "source": "Ouest-France",
-      "feed_rank": 7,
-      "url": "https://www.ouest-france.fr/sport/rugby/romain-ntamack/xv-de-france-victime-dune-luxation-de-lepaule-romain-ntamack-eloigne-des-terrains-au-moins-deux-mois-9d7e2884-dbb3-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T21:05:33+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « XV de France. Victime d’une luxation de l’épaule, Romain Ntamack éloigné des terrains au moins deux mois » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1101,49 +1296,17 @@
       "mention_count": 2
     },
     {
-      "id": "e9501ee349ff",
-      "title": "Football - Régional 2. Seyssins-Échirolles : un derby fou et un match nul logique",
-      "summary": "Malgré l’ouverture du score, Échirolles a été bousculé en première période par une remarquable équipe de Seyssins. Après le repos, les visiteurs ont totalement dominé les débats, pour finalement obtenir logiquement, ce dimanche, le point du match nul (3-3).",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 19,
-      "url": "https://www.ledauphine.com/sport/2026/11/08/seyssins-echirolles-un-derby-fou",
-      "published_at": "2026-11-08T20:59:00+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football - Régional 2. Seyssins-Échirolles : un derby fou et un match nul logique ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1c9c4f0d7e96",
-      "title": "Prime de Noël : la date et les montants annoncés par le gouvernement",
+      "id": "81d1fea8b3ec",
+      "title": "Prime de Noël 2026 : la date et les montants annoncés par le gouvernement",
       "summary": "Le ministre du Travail Jean-Pierre Farandou a confirmé ce dimanche le versement en décembre prochain de la prime de Noël. Son montant sera identique aux années précédentes.",
       "source": "TF1 Info (TF1 / LCI)",
       "feed_rank": 4,
       "url": "https://www.tf1info.fr/conso-argent/prime-de-noel-la-date-et-les-montants-annonces-par-le-gouvernement-2474665.html",
       "published_at": "2026-11-08T20:57:28+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Prime de Noël : la date et les montants annoncés par le gouvernement » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Prime de Noël 2026 : la date et les montants annoncés par le gouvernement » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bef7a0f767f4",
-      "title": "« C’est une machine de propagande » : la pétition pour supprimer « CNews » dépasse le million de signatures",
-      "summary": "Une pétition lancée en juin sur le site internet de l’Assemblée nationale, appelant à « supprimer CNews de l’audiovisuel français », a dépassé largement le million de signatures ce dimanche 8 novembre.",
-      "source": "Ouest-France",
-      "feed_rank": 8,
-      "url": "https://programmetv.ouest-france.fr/chaines/programme-tv-cnews-226/cest-une-machine-de-propagande-la-petition-pour-supprimer-cnews-depasse-le-million-de-signatures-a39c0a88-d9e7-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T20:56:52+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « C’est une machine de propagande » : la pétition pour supprimer « CNews » dépasse le million de signatures » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1158,22 +1321,6 @@
       "published_at": "2026-11-08T20:56:00+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pologne. Attentat de Cracovie, trois Ardéchois au milieu de la tragédie : « On a entendu entre quatre et six coups de feu » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "acfdc4b8886c",
-      "title": "Allemagne. Ilse Aigner en passe de devenir la première femme présidente du pays",
-      "summary": "Friedrich Merz doit proposer lundi la présidente du parlement bavarois, également soutenue par le SPD, pour succéder à Frank-Walter Steinmeier.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 20,
-      "url": "https://www.ledauphine.com/politique/2026/11/08/ilse-aigner-en-passe-de-devenir-la-premiere-femme-presidente-du-pays",
-      "published_at": "2026-11-08T20:56:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Allemagne. Ilse Aigner en passe de devenir la première femme présidente du pays » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Dauphiné Libéré"
       ],
@@ -1197,27 +1344,11 @@
       "mention_count": 1
     },
     {
-      "id": "869257b0a24a",
-      "title": "Football. La tribune des supporters du club de Bodo/Glimt s’effondre",
-      "summary": "Lors du match de première division norvégienne entre Tromsø et Bodø/Glimt, ce dimanche 8 novembre, une tribune des visiteurs s’est effondrée. Une personne est hospitalisée.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/sport/football/football-la-tribune-des-supporters-du-club-de-bodo-glimt-seffondre-178a0834-dbad-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T20:54:41+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football. La tribune des supporters du club de Bodo/Glimt s’effondre ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "636843a11a00",
       "title": "Le témoignage sur BFMTV d'un commerçant qui a contacté l'un des individus ayant cambriolé son commerce le 17 octobre",
       "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann…",
       "source": "BFMTV",
-      "feed_rank": 7,
+      "feed_rank": 13,
       "url": "https://www.bfmtv.com/societe/video-le-temoignage-sur-bfmtv-d-un-commercant-qui-a-contacte-l-un-des-individus-ayant-cambriole-son-commerce-le-17-octobre_VN-202611080413.html",
       "published_at": "2026-11-08T20:53:54+00:00",
       "category": "Politique",
@@ -1240,22 +1371,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Supprimer CNews » : qui est Lucas Massoni, l’initiateur de la pétition qui a franchi le million de signataires ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "L'Obs"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "f2f518c3c2e1",
-      "title": "Route du Rhum. « Je ne boude pas mon plaisir » : Louis Burton, arrivé 3e, donne rendez-vous pour 2030",
-      "summary": "Louis Burton (Ultim Armand Thiery) est arrivé en troisième position à Pointe-à-Pitre ce dimanche 8 novembre. Voici les premières réactions du Malouin après son arrivée en Guadeloupe, après sa première Route du Rhum chez les Ultim.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/voile/louis-burton/route-du-rhum-je-ne-boude-pas-mon-plaisir-louis-burton-arrive-3e-donne-rendez-vous-pour-2030-b7fb5d76-dba4-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T20:52:21+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Route du Rhum. « Je ne boude pas mon plaisir » : Louis Burton, arrivé 3e, donne rendez-vous pour 2030 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1329,7 +1444,7 @@
       "title": "\"Il faut mettre la question des classes sociales au cœur de notre réflexion sur notre modèle de développement\", détaille Thomas Piketty, économiste et directeur d'études à l'EHESS",
       "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann…",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 15,
       "url": "https://www.bfmtv.com/economie/video-il-faut-mettre-la-question-des-classes-sociales-au-c-ur-de-notre-reflexion-sur-notre-modele-de-developpement-detaille-thomas-piketty-economiste-et-directeur-d-etudes-a-l-ehess_VN-202611080411.html",
       "published_at": "2026-11-08T20:43:05+00:00",
       "category": "Politique",
@@ -1338,7 +1453,7 @@
         "BFMTV"
       ],
       "coverage_count": 1,
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "2fff20cdefe1",
@@ -1413,7 +1528,7 @@
       "title": "Le pape Léon XIV arrive en Argentine, où l’Église conteste l’austérité du président Javier Milei",
       "summary": "Le souverain pontife entame une visite de quatre jours en Argentine où l’Église catholique conteste fermement la politique économique du président ultralibéral",
       "source": "Sud Ouest",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.sudouest.fr/international/le-pape-arrive-en-argentine-ou-l-eglise-conteste-l-austerite-de-milei-31450805.php",
       "published_at": "2026-11-08T20:36:36+00:00",
       "category": "Politique",
@@ -1557,7 +1672,7 @@
       "title": "États-Unis : face à Donald Trump, les démocrates en ordre de bataille pour la présidentielle 2028",
       "summary": "RÉCIT - Portée par la victoire de leur parti aux élections de mi-mandat, la nouvelle génération de démocrates commence à envisager une candidature pour la présidentielle de 2028.",
       "source": "Le Figaro",
-      "feed_rank": 9,
+      "feed_rank": 14,
       "url": "https://www.lefigaro.fr/international/etats-unis-face-a-donald-trump-les-democrates-en-ordre-de-bataille-pour-la-presidentielle-2028-20261108",
       "published_at": "2026-11-08T20:08:28+00:00",
       "category": "Politique",
@@ -1653,7 +1768,7 @@
       "title": "Lens-OM: l'énorme boulette lensoise pour l'ouverture du score, scénario catastrophe après l'humiliation face à Côme",
       "summary": "Quatre jours après avoir encaissé une raclée historique face à Côme (9-1) en Ligue des champions, le RC Lens a concédé l'ouverture du score face à l'OM ce dimanche, dans l'affiche de la 10e journée de Ligue 1. Tout a très mal démarré pour les Lensois, qui ont concédé le premier but sur une énorme boulette.",
       "source": "BFMTV",
-      "feed_rank": 11,
+      "feed_rank": 17,
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/lens-om-l-enorme-boulette-lensoise-pour-l-ouverture-du-score-scenario-catastrophe-apres-l-humiliation-face-a-come_AV-202611080408.html",
       "published_at": "2026-11-08T20:01:06+00:00",
       "category": "Sport",
@@ -1750,7 +1865,7 @@
       "title": "Éditorial : C’est l’effet papillon",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "Sud Ouest",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.sudouest.fr/redaction/editorial/editorial-c-est-l-effet-papillon-31448669.php",
       "published_at": "2026-11-08T19:57:44+00:00",
       "category": "Société",
@@ -1866,22 +1981,6 @@
       "mention_count": 1
     },
     {
-      "id": "334d6a71b1de",
-      "title": "« Je trouverai un moyen de vous faire venir » : sous le mur de Berlin, ces tunnels par lesquels des centaines d’habitants de la RDA sont passés à l’Ouest",
-      "summary": "TÉMOIGNAGE - 37 ans après la chute du Mur, Anita Möller raconte au Figaro son évasion en septembre 1962 par le biais d’un des 19 tunnels ayant abouti sur plus de 70 tentatives.",
-      "source": "Le Figaro",
-      "feed_rank": 16,
-      "url": "https://www.lefigaro.fr/international/je-trouverai-un-moyen-de-vous-faire-venir-sous-le-mur-de-berlin-ces-tunnels-par-lesquels-des-centaines-d-habitants-de-la-rda-sont-passes-a-l-ouest-20261108",
-      "published_at": "2026-11-08T19:48:24+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Je trouverai un moyen de vous faire venir » : sous le mur de Berlin, ces tunnels par lesquels des centaines d’habitants de la RDA sont passés à l’Ou » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "f2d5a2e660a0",
       "title": "Acte criminel : le domicile d'un policier incendié",
       "summary": "Samedi 7 novembre, la maison d’un policier a été incendiée dans le Gers alors qu'il était en service. Il avait été menacé plusieurs fois. La porte a été forcée avec un parpaing et, dans le salon, un bidon de fioul et deux jerrycans de gasoil ont été retrouvés vidés. Le ministre de l’Intérieur Laurent Nuñez a réagi, y voyant une violence récurrente. Ces…",
@@ -1893,13 +1992,12 @@
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Acte criminel : le domicile d'un policier incendié ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)",
-        "BFMTV",
         "Libération",
         "Le JDD",
         "Midi Libre"
       ],
-      "coverage_count": 5,
-      "mention_count": 5
+      "coverage_count": 4,
+      "mention_count": 4
     },
     {
       "id": "b9a4b3b027d3",
@@ -1940,7 +2038,7 @@
       "title": "\"Sur la réduction de la dépense publique, il n'y a pas d'effort c'est un leurre\", estime Serge Grouard, maire DVD d'Orléans",
       "summary": "Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre, au-delà de 1.500 euros nets contre 1.477 euros actuellement, a appris BFMTV ce dimanche 8 novembre.",
       "source": "BFMTV",
-      "feed_rank": 12,
+      "feed_rank": 18,
       "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-sur-la-reduction-de-la-depense-publique-il-n-y-a-pas-d-effort-c-est-un-leurre-estime-serge-grouard-maire-dvd-d-orleans_VN-202611080400.html",
       "published_at": "2026-11-08T19:42:52+00:00",
       "category": "Politique",
@@ -2004,7 +2102,7 @@
       "title": "Présidentielle 2027 : Glucksmann assure qu’il va « mettre fin » à l’« hégémonie culturelle, idéologique et politique » de Mélenchon sur la gauche",
       "summary": "Invité dimanche du « Grand Oral BFMTV-Le Figaro », le candidat social-démocrate à l’Élysée s’est posé en défenseur d’une gauche « démocratique », ni mélenchoniste ni macroniste.",
       "source": "Le Figaro",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.lefigaro.fr/elections/presidentielles/ils-ne-le-supportent-pas-glucksmann-assure-qu-il-va-mettre-fin-a-l-hegemonie-culturelle-ideologique-et-politique-de-melenchon-sur-la-gauche-20261108",
       "published_at": "2026-11-08T19:30:06+00:00",
       "category": "Politique",
@@ -2037,7 +2135,7 @@
       "title": "INFO BFMTV. Des heurts avec la police après des rodéos urbains dans les Yvelines, au moins quatre personnes interpellées",
       "summary": "Des heurts entre personnes qui participaient à des rodéos urbains et la police ont éclaté à Chanteloup-les-Vignes (Yvelines) ce dimanche soir. Au moins quatre personnes ont été interpellées.",
       "source": "BFMTV",
-      "feed_rank": 13,
+      "feed_rank": 19,
       "url": "https://www.bfmtv.com/police-justice/info-bfmtv-des-heurts-avec-la-police-apres-des-rodeos-urbains-dans-les-yvelines-au-moins-quatre-personnes-interpellees_AN-202611080394.html",
       "published_at": "2026-11-08T19:28:14+00:00",
       "category": "Société",
@@ -2069,7 +2167,7 @@
       "title": "«Sa faiblesse, c’était sa gentillesse» : ce que l’on sait du meurtre barbare de Jimmy, égorgé dans son appartement à Paris",
       "summary": "REPORTAGE - Samedi soir, Jimmy P., 54 ans, a été retrouvé mort dans son appartement de la Cité du Souvenir, dans le 14e arrondissement de la capitale. Ses voisins racontent cet homme solitaire et évoquent ses fréquentations qui lui ont peut-être coûté la vie.",
       "source": "Le Figaro",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/faits-divers/sa-faiblesse-c-etait-sa-gentillesse-ce-que-l-on-sait-du-meurtre-barbare-de-jimmy-egorge-dans-son-appartement-a-paris-20261108",
       "published_at": "2026-11-08T19:27:15+00:00",
       "category": "Société",
@@ -2085,7 +2183,7 @@
       "title": "Raphaël Glucksmann, candidat PS-Place Publique en 2027, était l’invité du Grand Oral 2027",
       "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann…",
       "source": "BFMTV",
-      "feed_rank": 15,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-raphael-glucksmann-candidat-ps-place-publique-en-2027-etait-l-invite-du-grand-oral-2027_VN-202611080396.html",
       "published_at": "2026-11-08T19:26:31+00:00",
       "category": "Politique",
@@ -2306,15 +2404,15 @@
       "mention_count": 1
     },
     {
-      "id": "109b84652aef",
-      "title": "DIRECT. La Rochelle-Bayonne: les Rochelais viennent à bout des Basques et se rapprochent du top 6",
+      "id": "5638e98bc4b6",
+      "title": "La Rochelle-Bayonne: les Rochelais viennent à bout des Basques et se rapprochent du top 6",
       "summary": "En clôture de la 9e journée de Top 14, La Rochelle est venu à bout de l'Aviron Bayonnais 22-18 dans un duel de milieu de tableau et remonte à la 7e place. A noter l'exploit personnel de Sacha Elissalde, fils de Jean-Baptiste, qui a fait basculer la rencontre en offrant l'essai de la gagne à Favre.",
       "source": "BFMTV",
-      "feed_rank": 1,
+      "feed_rank": 8,
       "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-la-rochelle-bayonne-suivez-le-dernier-match-de-la-9e-journee-de-top-14-en-live_LS-202611080344.html",
       "published_at": "2026-11-08T18:57:00+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « DIRECT. La Rochelle-Bayonne: les Rochelais viennent à bout des Basques et se rapprochent du top 6 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La Rochelle-Bayonne: les Rochelais viennent à bout des Basques et se rapprochent du top 6 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "BFMTV"
       ],
@@ -2408,7 +2506,7 @@
       "title": "L’éditorial de Philippe Gélie : «Donald Trump, M. Muscle à la Maison-Blanche»",
       "summary": "Roué, le président américain tente d’attirer les démocrates dans le piège de la confrontation, et se barricade.",
       "source": "Le Figaro",
-      "feed_rank": 10,
+      "feed_rank": 15,
       "url": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-m-muscle-a-la-maison-blanche-20261108",
       "published_at": "2026-11-08T18:45:00+00:00",
       "category": "Politique",
@@ -2489,7 +2587,7 @@
       "title": "Jusqu'à 23°C attendus: retour de la douceur la semaine prochaine, malgré la grisaille et des averses",
       "summary": "Les températures vont remonter en début de semaine, notamment par le Sud à partir de lundi. Cependant, malgré ces températures au-dessus des normales de saison, il ne fera pas plus beau.",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/meteo/jusqu-a-23-c-attendus-retour-de-la-douceur-la-semaine-prochaine-malgre-la-grisaille-et-des-averses_AV-202611080381.html",
       "published_at": "2026-11-08T18:37:19+00:00",
       "category": "Société",
@@ -2533,22 +2631,6 @@
       "mention_count": 1
     },
     {
-      "id": "ef939bcd126e",
-      "title": "Smic revalorisé: \"On ne dit pas la vérité aux Français\", dénonce Robert Ménard, maire DVD de Béziers",
-      "summary": "Le Smic va être revalorisé de façon anticipée au 1er décembre, au-delà de 1.500 nets par mois, a appris BFMTV ce dimanche.",
-      "source": "BFMTV",
-      "feed_rank": 21,
-      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-smic-revalorise-on-ne-dit-pas-la-verite-aux-francais-denonce-robert-menard-maire-dvd-de-beziers_VN-202611080379.html",
-      "published_at": "2026-11-08T18:31:01+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Smic revalorisé: \"On ne dit pas la vérité aux Français\", dénonce Robert Ménard, maire DVD de Béziers » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "5cc37af3b5bb",
       "title": "Accident de car près de Bourg-en Bresse : le chauffeur mis en examen pour «homicide involontaire»",
       "summary": "Le chauffeur du car, dont l'accident a provoqué la mort d'une fillette de sept ans et d'un jeune majeur, a été mis en examen pour «homicide involontaire», a indiqué dimanche le parquet. Nouvelle avancée dans l'affaire de l'accident de car près de Bourg-en Bresse. Le conducteur, âgé de 26 ans, a été mis en examen ce dimanche pour «homicide involontaire…",
@@ -2563,7 +2645,6 @@
         "Franceinfo (TV)",
         "Le Monde",
         "Le Figaro",
-        "BFMTV",
         "CNews",
         "Libération",
         "Sud Ouest",
@@ -2572,8 +2653,8 @@
         "Le Dauphiné Libéré",
         "Midi Libre"
       ],
-      "coverage_count": 12,
-      "mention_count": 12
+      "coverage_count": 11,
+      "mention_count": 11
     },
     {
       "id": "3c5883caf1d0",
@@ -2587,6 +2668,22 @@
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Céline Martelet, reporter : « C’est la première fois que je suis frappée par un homme, un policier, en France » ».",
       "coverage_sources": [
         "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2a00f5416267",
+      "title": "Sébastien Lecornu à la manœuvre d’une conférence sociale incertaine",
+      "summary": "DÉCRYPTAGE - La colère sociale qui agite le pays à moins de six mois de l’élection présidentielle est difficile à manier pour l’exécutif.",
+      "source": "Le Figaro",
+      "feed_rank": 1,
+      "url": "https://www.lefigaro.fr/elections/presidentielles/sebastien-lecornu-a-la-manoeuvre-d-une-conference-sociale-incertaine-20261108",
+      "published_at": "2026-11-08T18:30:00+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Sébastien Lecornu à la manœuvre d’une conférence sociale incertaine ».",
+      "coverage_sources": [
+        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2624,22 +2721,6 @@
       "mention_count": 1
     },
     {
-      "id": "2bc6f6893573",
-      "title": "“Le contact n’a jamais été rompu” et \"sa place est avec nous\", déclare Raphaël Glucksmann au sujet de François Hollande",
-      "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV",
-      "source": "BFMTV",
-      "feed_rank": 22,
-      "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-contact-n-a-jamais-ete-rompu-et-sa-place-est-avec-nous-declare-raphael-glucksmann-au-sujet-de-francois-hollande_VN-202611080374.html",
-      "published_at": "2026-11-08T18:28:51+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « “Le contact n’a jamais été rompu” et \"sa place est avec nous\", déclare Raphaël Glucksmann au sujet de François Hollande ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "f619766ddcbf",
       "title": "REPORTAGE. Photo étrange, phénomènes inexpliqués : que se passe-t-il dans ce château près de Toulouse ? Notre nuit dans la maison du \"fantôme de Dorothée\"…",
       "summary": "De nombreux événements inexpliqués, des témoignages surprenants ainsi qu'une étrange photo entourent les nuits du château de Bonrepos-Riquet, au nord de Toulouse. La demeure où vécut le créateur du canal du Midi...",
@@ -2651,38 +2732,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « REPORTAGE. Photo étrange, phénomènes inexpliqués : que se passe-t-il dans ce château près de Toulouse ? Notre nuit dans la maison du \"fantôme de Dorot » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "08052e976889",
-      "title": "Jean-Pierre Robin : « Abondante et peu rémunérée, l’épargne des Français au secours des comptes publics »",
-      "summary": "Le gouvernement a annoncé vouloir relever, à partir de février 2027, le plafond et le taux de rémunération du livret A.",
-      "source": "Le Figaro",
-      "feed_rank": 17,
-      "url": "https://www.lefigaro.fr/conjoncture/jean-pierre-robin-abondante-et-peu-remuneree-l-epargne-des-francais-au-secours-des-comptes-publics-20261108",
-      "published_at": "2026-11-08T18:27:41+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Jean-Pierre Robin : « Abondante et peu rémunérée, l’épargne des Français au secours des comptes publics » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4e8aacd2a446",
-      "title": "Guerre en Ukraine: \"Jean-Luc Mélenchon récite les éléments de langage fournis par le Kremlin\", dénonce Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle",
-      "summary": "Raphaël Glucksmann, candidat PS - Place Publique à la présidentielle, était l’invité du Grand Oral 2027 ce dimanche 8 novembre sur BFMTV",
-      "source": "BFMTV",
-      "feed_rank": 24,
-      "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-guerre-en-ukraine-jean-luc-melenchon-recite-les-elements-de-langage-fournis-par-le-kremlin-denonce-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611080373.html",
-      "published_at": "2026-11-08T18:26:20+00:00",
-      "category": "International",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Guerre en Ukraine: \"Jean-Luc Mélenchon récite les éléments de langage fournis par le Kremlin\", dénonce Raphaël Glucksmann, candidat PS - Place Publiqu ».",
-      "coverage_sources": [
-        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2811,10 +2860,14 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
-        "Franceinfo (TV)"
+        "Franceinfo (TV)",
+        "Le Figaro",
+        "BFMTV",
+        "Le Dauphiné Libéré",
+        "Le JDD"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 6,
+      "mention_count": 6
     },
     {
       "id": "f08912c6f67d",
@@ -2981,7 +3034,7 @@
       "title": "Brésil : dix morts, dont cinq enfants, après la chute d'une voiture surchargée dans un lac",
       "summary": "Le gouvernement de l'État de Rio de Janeiro a confirmé la mort de dix personnes, dont cinq enfants. Selon la presse brésilienne, un bébé figure également parmi les victimes.",
       "source": "Euronews",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://fr.euronews.com/2026/11/08/bresil-dix-morts-dont-cinq-enfants-apres-la-chute-dune-voiture-surchargee-dans-un-lac",
       "published_at": "2026-11-08T17:59:49+00:00",
       "category": "Politique",
@@ -3029,7 +3082,7 @@
       "title": "Nouvelle célébration polémique à Monaco: Coulibaly reproduit le geste de Brunner, qui avait été sanctionné en septembre",
       "summary": "Comme son coéquipier Paris Brunner en septembre, Mamadou Coulibaly a célébré un but de Monaco contre Le Mans ce dimanche en mimant un tranchage de gorge. Un geste qui pourrait lui valoir d'être sanctionné par la commission de discipline de la LFP.",
       "source": "BFMTV",
-      "feed_rank": 10,
+      "feed_rank": 16,
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/nouvelle-celebration-polemique-a-monaco-coulibaly-reproduit-le-geste-de-brunner-qui-avait-ete-sanctionne-en-septembre_AV-202611080362.html",
       "published_at": "2026-11-08T17:53:59+00:00",
       "category": "Société",
@@ -3045,7 +3098,7 @@
       "title": "Russie : le VIH atteint un stade d'épidémie généralisée dans 27 régions",
       "summary": "Dans 27 régions de Russie, le VIH se propage désormais au sein de la population générale, et non plus seulement parmi les groupes à risque, selon Rospotrebnadzor, agence sanitaire russe. De nombreuses personnes ignorent qu'elles sont infectées.",
       "source": "Euronews",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://fr.euronews.com/2026/11/08/russie-le-vih-atteint-un-stade-depidemie-generalisee-dans-27-regions",
       "published_at": "2026-11-08T17:52:35+00:00",
       "category": "International",
@@ -3121,11 +3174,27 @@
       "mention_count": 1
     },
     {
+      "id": "bc0bfdded6bc",
+      "title": "Présidentielle 2027 : à Saint-Raphaël, les candidats de droite se croisent sans s’accorder",
+      "summary": "REPORTAGE - À l’occasion de la neuvième édition des Rencontres de l’avenir dans le Var, les principales têtes d’affiche à l’élection présidentielle ont campé sur leurs positions, en faveur ou non d’une primaire.",
+      "source": "Le Figaro",
+      "feed_rank": 18,
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-a-saint-raphael-les-candidats-de-droite-se-croisent-sans-s-accorder-20261108",
+      "published_at": "2026-11-08T17:45:00+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : à Saint-Raphaël, les candidats de droite se croisent sans s’accorder ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "90c249974855",
       "title": "Afrique du Sud : l’ANC enregistre le pire score électoral de son histoire aux municipales",
       "summary": "Le Congrès national africain s’effondre à 30,76 % des voix lors des élections municipales, ouvrant la voie à de complexes négociations de coalition dans les grandes villes du pays",
       "source": "Sud Ouest",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.sudouest.fr/international/afrique-du-sud-l-anc-enregistre-le-pire-score-electoral-de-son-histoire-aux-municipales-31448087.php",
       "published_at": "2026-11-08T17:44:23+00:00",
       "category": "Politique",
@@ -3169,22 +3238,6 @@
       ],
       "coverage_count": 3,
       "mention_count": 3
-    },
-    {
-      "id": "c50b4b4b5331",
-      "title": "«Nous n’avions jamais connu d’actes de terrorisme aussi brutaux» : la Pologne sous le choc après une fusillade meurtrière à Cracovie",
-      "summary": "Des policiers sont en faction, dimanche, devant le domicile de Michal O., à Ostrowiec Swietokrzyski, après la découverte des corps sans vie de ses parents et de sa sœur.",
-      "source": "Le Figaro",
-      "feed_rank": 18,
-      "url": "https://www.lefigaro.fr/international/la-pologne-sous-le-choc-apres-une-fusillade-meurtriere-a-cracovie-20261108",
-      "published_at": "2026-11-08T17:39:41+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Nous n’avions jamais connu d’actes de terrorisme aussi brutaux» : la Pologne sous le choc après une fusillade meurtrière à Cracovie » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
     },
     {
       "id": "74d08cf98d70",
@@ -3481,7 +3534,7 @@
       "title": "Au moins quatre morts et des dizaines de blessés dans une collision entre deux trains",
       "summary": "Une collision ferroviaire au sud du Caire a fait au moins quatre morts et 88 blessés, relançant le débat sur la sécurité du réseau ferré égyptien",
       "source": "Sud Ouest",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.sudouest.fr/international/au-moins-quatre-morts-et-des-dizaines-de-blesses-dans-une-collision-entre-deux-trains-31447261.php",
       "published_at": "2026-11-08T17:15:54+00:00",
       "category": "Société",
@@ -3593,29 +3646,13 @@
       "title": "Midterms 2026 aux États-Unis : qu’est-ce que le « Millennial optimism » ravivé par la victoire démocrate ?",
       "summary": "Après la victoire des démocrates au Congrès, la jeune génération américaine oscille entre nostalgie optimiste et exigences concrètes pour l’avenir",
       "source": "Sud Ouest",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.sudouest.fr/etudiant/midterms-2026-aux-etats-unis-qu-est-ce-que-le-millennial-optimism-ravive-par-la-victoire-democrate-31445782.php",
       "published_at": "2026-11-08T17:11:55+00:00",
       "category": "International",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Midterms 2026 aux États-Unis : qu’est-ce que le « Millennial optimism » ravivé par la victoire démocrate ? ».",
       "coverage_sources": [
         "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "f1282e31aa18",
-      "title": "«Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune en deux",
-      "summary": "REPORTAGE - Dans ce bourg de 1700 âmes des Hauts-de-Seine, le chantier de l’A13 va condamner, du 16 novembre à août 2027, le passage sous un pont. Or, il s’agit de l’une des dernières voies permettant aux riverains de rejoindre les communes voisines de l’Ouest sans détour important. Les habitants craignent de se retrouver coupés de tout et de tous.",
-      "source": "Le Figaro",
-      "feed_rank": 14,
-      "url": "https://www.lefigaro.fr/actualite-france/bloquer-une-autoroute-pendant-neuf-mois-il-n-y-a-qu-en-france-que-l-on-voit-cela-a-marnes-la-coquette-la-fermeture-de-l-a13-coupe-la-commune-en-deux-20261108",
-      "published_at": "2026-11-08T17:11:05+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune e » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4124,7 +4161,7 @@
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 7 et 8 novembre",
       "summary": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/08/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-7-et-8-novembre_6808453_4355770.html",
       "published_at": "2026-11-08T16:40:41+00:00",
       "category": "Société",
@@ -4210,12 +4247,10 @@
       "category": "Société",
       "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Une femme de 59 ans avoue avoir tué au fusil de chasse sa mère de 89 ans atteinte d'une maladie neuro-dégénérative dans le Var ».",
       "coverage_sources": [
-        "Sud Ouest",
-        "La Dépêche du Midi",
-        "Paris Match"
+        "La Dépêche du Midi"
       ],
-      "coverage_count": 3,
-      "mention_count": 3
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "a3c8c4e81ebe",
@@ -4254,7 +4289,7 @@
       "title": "Nématode du pin dans les Landes : “La stratégie de lutte que nous poursuivons est celle de l’éradication, désormais sans coupe rase »",
       "summary": "Alors que la cour européenne effectue un audit dans le massif sur la gestion des foyers de nématode du pin en France, Virginie Alavoine, directrice de la Draaf Nouvelle-Aquitaine revient sur la stratégie",
       "source": "Sud Ouest",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.sudouest.fr/economie/eco-et-entreprises/nematode-du-pin-la-strategie-de-lutte-que-nous-poursuivons-est-celle-de-l-eradication-desormais-sans-coupe-rase-30664377.php",
       "published_at": "2026-11-08T16:30:00+00:00",
       "category": "Société",
@@ -4382,7 +4417,7 @@
       "title": "Capri: rare double trombe marine filmée au-dessus des rochers Faraglioni",
       "summary": "Une rare double trombe marine s'est formée samedi au-dessus des emblématiques rochers des Faraglioni, tandis que de lourds nuages couvraient l'île italienne.",
       "source": "Euronews",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://fr.euronews.com/video/2026/11/08/capri-rare-double-trombe-marine-filmee-au-dessus-des-rochers-faraglioni",
       "published_at": "2026-11-08T16:20:20+00:00",
       "category": "Société",
@@ -4495,7 +4530,7 @@
       "title": "Gilets jaunes : les deux chefs de file interpellés samedi sont sortis libres de garde à vue",
       "summary": "Benjamin Ball, membre de la coordination des gilets jaunes et la porte-parole du mouvement Azelma Sigaux, interpellés samedi devant l’Assemblée nationale, sont sortis libres ce dimanche",
       "source": "Sud Ouest",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.sudouest.fr/societe/gilets-jaunes-les-deux-chefs-de-file-interpelles-samedi-sont-sortis-libres-de-garde-a-vue-31445114.php",
       "published_at": "2026-11-08T16:06:59+00:00",
       "category": "Société",
@@ -4527,7 +4562,7 @@
       "title": "À la Féminine de Pau : Marion Barreau Barrère mène à nouveau la course en tête",
       "summary": "La course solidaire de 7 kilomètres organisée par le Club Universitaire Palois a réuni plus de 1 500 participantes classées ce dimanche 8 novembre dans la cité royale. Marion Barreau Barrère s’est imposée",
       "source": "Sud Ouest",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/a-la-feminine-de-pau-marion-barreau-barrere-mene-a-nouveau-la-course-en-tete-31444211.php",
       "published_at": "2026-11-08T16:05:34+00:00",
       "category": "Société",
@@ -4801,7 +4836,7 @@
       "title": "ENTRETIEN. « Il faut, pour qu’une population accepte des pertes humaines, qu’elle soit sûre de la victoire ou que les enjeux soient suffisants », juge le général Dominique Trinquand",
       "summary": "« Pour quoi sommes-nous prêts à nous battre ? » Accompagné de Camille Boutron et Céline Marangé, le général Dominique Trinquand en débattra le samedi 14 novembre, dans le cadre des 6e Rencontres Michel",
       "source": "Sud Ouest",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.sudouest.fr/lot-et-garonne/entretien-il-faut-pour-qu-une-population-accepte-des-pertes-humaines-qu-elle-soit-sure-de-la-victoire-ou-que-les-enjeux-soient-suffisants-juge-le-general-dominique-trinquand-31382230.php",
       "published_at": "2026-11-08T16:00:00+00:00",
       "category": "Société",
@@ -4909,6 +4944,22 @@
       "mention_count": 1
     },
     {
+      "id": "ca121d0af98a",
+      "title": "Une femme reconnaît avoir tué sa mère de 89 ans en lui tirant dessus avec un fusil de chasse à La Seyne-sur-Mer",
+      "summary": "Une femme de 59 ans a été placée en garde à vue ce dimanche 8 novembre après la mort par balle de sa mère de 89 ans, à La Seyne-sur-Mer, dans le Var. Elle a avoué être l'auteur des tirs.",
+      "source": "Paris Match",
+      "feed_rank": 11,
+      "url": "https://www.parismatch.com/femme-reconnait-avoir-tue-sa-mere-89-ans-en-lui-tirant-dessus-avec-fusil-chasse-seyne-sur-mer-3PmhGMrkDvXg6dN9xoXtCK",
+      "published_at": "2026-11-08T15:52:24+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Une femme reconnaît avoir tué sa mère de 89 ans en lui tirant dessus avec un fusil de chasse à La Seyne-sur-Mer » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Paris Match"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "1a66e7f95ba7",
       "title": "\"Un hommage aux Ukrainiens\" : les \"Carnets d’Ukraine\" de Michel Hazanavicus adaptés sur scène",
       "summary": "Le comédien Hugo Becker donne vie aux témoignages recueillis par le réalisateur Michel Hazanavicius près de la ligne de front. Dans \"Carnet d'Ukraine\", mis en scène au Studio Marigny à Paris par Julien Gélas, une galerie de portraits raconte le quotidien de celles et ceux qui vivent avec la guerre.",
@@ -4929,7 +4980,7 @@
       "title": "Bassin de Lacq : le projet E-CHO à 2 milliards d’euros à l’épreuve de l’enquête publique à partir du 9 novembre",
       "summary": "Du 9 novembre au 21 décembre, les habitants sont invités à se prononcer sur le projet de carburants bas carbone porté par Elyse Energy. Entre promesses de réindustrialisation et craintes environnementales,",
       "source": "Sud Ouest",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/bassin-de-lacq-le-projet-e-cho-a-2-milliards-d-euros-a-l-epreuve-de-l-enquete-publique-a-partir-du-9-novembre-31427174.php",
       "published_at": "2026-11-08T15:44:03+00:00",
       "category": "Économie",
@@ -5345,55 +5396,6 @@
       "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Isma et Noah : les créateurs de contenu luttent avec les lycéens ».",
       "coverage_sources": [
         "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4a935b14d891",
-      "title": "La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump",
-      "summary": "Les élections de mi-mandat ont été marquées par une vague bleue, dont l'ampleur a sidéré les observateurs et assommé les républicains.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 18,
-      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-victoire-des-democrates-est-un-gigantesque-pas-en-arriere-dans-l-histoire-des-etats-unis-affirme-donald-trump_8273432.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-08T15:00:57+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
-      "id": "de1e451eb30d",
-      "title": "Dix excellents programmes télé à regarder la semaine du 8 au 14 novembre",
-      "summary": "Pas facile de s’y retrouver entre les propositions des chaînes. Films, séries, documentaires, spectacles, sport… Repérez dès maintenant les temps forts du programme télé de la semaine, du 8 au 14 novembre.",
-      "source": "Télérama",
-      "feed_rank": 7,
-      "url": "https://www.telerama.fr/television/dix-excellents-programmes-tele-a-regarder-la-semaine-du-8-au-14-novembre-7033779.php",
-      "published_at": "2026-11-08T15:00:11+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Dix excellents programmes télé à regarder la semaine du 8 au 14 novembre ».",
-      "coverage_sources": [
-        "Télérama"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d818a23d32be",
-      "title": "Henri Cartier-Bresson en 1970 : « Je cherchais à prendre sur le vif des photos comme des flagrants délits ! »",
-      "summary": "A l’automne 1970, le Grand-Palais consacrait une exposition majeure au grand photographe Henri Cartier-Bresson, alors que paraissait son ouvrage « Vive la France » écrit avec François Nourissier. Dans cette chronique, publiée à cette occasion dans « le Nouvel Observateur », le critique d’art André Fermigier brossait le portrait intime d’un géant de…",
-      "source": "L'Obs",
-      "feed_rank": 11,
-      "url": "https://www.nouvelobs.com/culture/20261108.OBS119961/henri-cartier-bresson-en-1970-je-cherchais-a-prendre-sur-le-vif-des-photos-comme-des-flagrants-delits.html",
-      "published_at": "2026-11-08T15:00:08+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Henri Cartier-Bresson en 1970 : « Je cherchais à prendre sur le vif des photos comme des flagrants délits ! » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
