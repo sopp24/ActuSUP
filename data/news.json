@@ -1,34 +1,35 @@
 {
-  "last_updated": "2026-11-08T00:00:18.959472+00:00",
-  "last_attempt": "2026-11-08T00:00:18.959472+00:00",
+  "last_updated": "2026-11-08T01:00:34.093594+00:00",
+  "last_attempt": "2026-11-08T01:00:34.093594+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 902,
-  "unique_story_count": 776,
+  "raw_article_count": 897,
+  "unique_story_count": 778,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
     "Les Échos",
     "La Voix du Nord",
-    "Le Point"
+    "Le Point",
+    "TF1 Info (TF1 / LCI)"
   ],
-  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-08T00:00:18.959472+00:00",
-  "featured_window_end": "2026-11-08T00:00:18.959472+00:00",
-  "featured_pool_count": 900,
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point, TF1 Info (TF1 / LCI). La sélection peut donc être incomplète.",
+  "featured_window_start": "2026-10-08T01:00:34.093594+00:00",
+  "featured_window_end": "2026-11-08T01:00:34.093594+00:00",
+  "featured_pool_count": 896,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "e0ef4279f5e5",
-      "title": "Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne",
-      "summary": "En déplacement dans le sud-est de la France depuis vendredi 6 novembre, le candidat Horizons à la présidentielle, Édouard Philippe, a lancé samedi 7 novembre à La Ciotat (Bouches-du-Rhône) son « Grand Tour ». Cette tournée doit le conduire dans toutes les régions du pays, à la rencontre de 200 à 300 Français à chaque étape. Le candidat espère ainsi…",
-      "source": "RFI",
-      "feed_rank": 3,
-      "url": "https://www.rfi.fr/fr/france/20261107-pr%C3%A9sidentielle-en-france-%C3%A9douard-philippe-d%C3%A9bute-son-grand-tour-pour-relancer-sa-campagne",
-      "published_at": "2026-11-07T23:36:49+00:00",
+      "id": "384ba42cf623",
+      "title": "« Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp",
+      "summary": "REPORTAGE - Dans les Bouches-du-Rhône, samedi, Édouard Philippe a dénoncé le projet de l’Insoumis, après plusieurs jours d’affrontements à distance sur l’immigration. Une manière pour le candidat d’Horizons, en baisse dans les sondages, de mobiliser son électorat pour s’imposer sans primaire.",
+      "source": "Le Figaro",
+      "feed_rank": 18,
+      "url": "https://www.lefigaro.fr/elections/presidentielles/vision-communautariste-police-de-la-pensee-la-semaine-ou-edouard-philippe-a-cible-jean-luc-melenchon-pour-unir-son-camp-20261107",
+      "published_at": "2026-11-08T00:21:09+00:00",
       "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne ».",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -71,26 +72,25 @@
         "INA – La Revue des médias"
       ],
       "coverage_count": 39,
-      "mention_count": 250,
-      "importance_score": 37.392,
-      "latest_coverage_at": "2026-11-07T23:36:49+00:00"
+      "mention_count": 246,
+      "importance_score": 37.359,
+      "latest_coverage_at": "2026-11-08T00:21:09+00:00"
     },
     {
-      "id": "1971e305b83a",
-      "title": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, le patron de l'UFC",
-      "summary": "Le président américain a annoncé samedi avoir proposé le poste de porte-parole de la Maison Blanche à Dana White. Ce proche de Donald Trump dirige l'UFC, principale organisation mondiale d'arts martiaux mixtes (MMA). Le poste est vacant depuis la mi-octobre.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
-      "url": "https://www.tf1info.fr/international/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-le-patron-de-l-ufc-mma-2474552.html",
-      "published_at": "2026-11-07T21:50:52+00:00",
+      "id": "a24622bb8db3",
+      "title": "Et s'il acceptait la folle proposition de Trump? Une réunion évoquée entre le président des Etats-Unis et Dana White pour le poste de porte-parole de la Maison Blanche",
+      "summary": "Après le message de Donald Trump le suppliant de devenir le nouveau porte-parole de la Maison Blanche, Dana White devrait rencontrer le président des Etats-Unis lundi. Selon TMZ, l'objet de la réunion entre le patron de l'UFC et Trump serait bien cette folle proposition. CNN assure cependant que le boss des sports de combat aurait refusé l'offre.",
+      "source": "BFMTV",
+      "feed_rank": 15,
+      "url": "https://rmcsport.bfmtv.com/sports-de-combat/mma/ufc/et-s-il-acceptait-la-folle-proposition-de-trump-dana-white-reflechirait-serieusement-a-devenir-porte-parole-de-la-maison-blanche_AV-202611070536.html",
+      "published_at": "2026-11-07T21:53:21+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, le patron de l'UFC » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Et s'il acceptait la folle proposition de Trump? Une réunion évoquée entre le président des Etats-Unis et Dana White pour le poste de porte-parole de  ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "Le Monde",
         "RFI",
-        "TF1 Info (TF1 / LCI)",
         "BFMTV",
         "CNews",
         "Courrier International",
@@ -107,10 +107,37 @@
         "Midi Libre",
         "Public Sénat"
       ],
-      "coverage_count": 20,
-      "mention_count": 26,
-      "importance_score": 28.769,
+      "coverage_count": 19,
+      "mention_count": 25,
+      "importance_score": 28.36,
       "latest_coverage_at": "2026-11-07T21:53:21+00:00"
+    },
+    {
+      "id": "f0fd855fb3dd",
+      "title": "Championnat des nations. « L’équipe va devoir s’adapter » à l’absence de Romain Ntamack, affirme Antoine Dupont",
+      "summary": "Le XV de France « va devoir s’adapter » à l’absence de son ouvreur Romain Ntamack, a estimé samedi le capitaine du XV de France Antoine Dupont, après la sortie sur blessure de son partenaire de charnière, touché à l’épaule, qui manquera la fin du Championnat des nations.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/championnat-des-nations-lequipe-va-devoir-sadapter-a-labsence-de-romain-ntamack-affirme-antoine-dupont-b7c02998-db06-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T00:01:42+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations. « L’équipe va devoir s’adapter » à l’absence de Romain Ntamack, affirme Antoine Dupont ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Le Figaro",
+        "TF1 Info (TF1 / LCI)",
+        "Ouest-France",
+        "20 Minutes",
+        "La Dépêche du Midi",
+        "Le Dauphiné Libéré",
+        "Le JDD",
+        "Midi Libre",
+        "Paris Match"
+      ],
+      "coverage_count": 10,
+      "mention_count": 18,
+      "importance_score": 24.168,
+      "latest_coverage_at": "2026-11-08T00:01:42+00:00"
     },
     {
       "id": "db708a423f58",
@@ -135,34 +162,8 @@
       ],
       "coverage_count": 9,
       "mention_count": 25,
-      "importance_score": 23.861,
+      "importance_score": 23.858,
       "latest_coverage_at": "2026-11-07T19:50:22+00:00"
-    },
-    {
-      "id": "bafea8de4bfe",
-      "title": "France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack",
-      "summary": "Une semaine avant d’affronter les redoutables Springboks, le XV de France a lancé sa deuxième partie du Championnat des nations en dominant les Fidjiens, ce samedi, à Lyon. Mais a perdu un nouveau joueur : l’ouvreur toulousain.",
-      "source": "Le Figaro",
-      "feed_rank": 8,
-      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
-      "published_at": "2026-11-07T23:04:55+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack ».",
-      "coverage_sources": [
-        "Le Monde",
-        "Le Figaro",
-        "TF1 Info (TF1 / LCI)",
-        "20 Minutes",
-        "La Dépêche du Midi",
-        "Le Dauphiné Libéré",
-        "Le JDD",
-        "Midi Libre",
-        "Paris Match"
-      ],
-      "coverage_count": 9,
-      "mention_count": 17,
-      "importance_score": 23.426,
-      "latest_coverage_at": "2026-11-07T23:26:43+00:00"
     },
     {
       "id": "1e306f1dec93",
@@ -186,7 +187,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.175,
+      "importance_score": 21.172,
       "latest_coverage_at": "2026-11-07T19:55:15+00:00"
     },
     {
@@ -210,32 +211,31 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.349,
+      "importance_score": 20.346,
       "latest_coverage_at": "2026-11-07T21:42:24+00:00"
     },
     {
-      "id": "8e081a5d7413",
-      "title": "Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation",
-      "summary": "Au lendemain de sa destitution, l’ancien président du Paraguay Santiago Peña a été inculpé par la justice après avoir été jugé responsable d’une crise bancaire spectaculaire dans son pays. Il a également été placé en détention préventive.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/monde/paraguay/crise-bancaire-au-paraguay-le-president-destitue-santiago-pena-inculpe-par-la-justice-de-son-pays-7bd9350a-dad9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T21:54:53+00:00",
+      "id": "b462c253ed4f",
+      "title": "Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays",
+      "summary": "La crise bancaire a éclaté mardi avec la mise sous tutelle pour insolvabilité d'une banque en ligne, gelant ainsi les dépôts de près de trois millions de personnes.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 15,
+      "url": "https://www.franceinfo.fr/monde/ameriques/l-ex-president-du-paraguay-entendu-par-la-justice-dans-le-cadre-de-la-crise-bancaire-qui-secoue-le-pays_8272526.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-07T17:26:16+00:00",
       "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation ».",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Tout juste destitué, l'ex-président du Paraguay entendu par la justice dans le cadre de la crise bancaire qui secoue le pays ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "Euronews",
         "L'Express",
-        "Ouest-France",
         "La Croix",
         "Paris Match"
       ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.068,
-      "latest_coverage_at": "2026-11-07T21:54:53+00:00"
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 18.899,
+      "latest_coverage_at": "2026-11-07T17:26:16+00:00"
     },
     {
       "id": "dc5f146b6652",
@@ -256,7 +256,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 9,
-      "importance_score": 18.705,
+      "importance_score": 18.697,
       "latest_coverage_at": "2026-11-07T23:00:01+00:00"
     },
     {
@@ -264,7 +264,7 @@
       "title": "Voile. Route du Rhum : en détresse, Benoît Sineau a été secouru « sain et sauf » par un concurrent",
       "summary": "Le skippeur du bateau Ekinox-Rhétores a déclenché sa balise de détresse, alors qu'« aucune communication n'a pu être établie avec lui », a fait savoir l'organisation. Dans la soirée, il a été secouru par un concurrent, qui avait été dérouté.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ledauphine.com/sport/2026/11/07/route-du-rhum-le-skipper-benoit-sineau-en-detresse-plusieurs-bateaux-deroutes",
       "published_at": "2026-11-07T20:54:00+00:00",
       "category": "Médias & communication",
@@ -278,7 +278,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.186,
+      "importance_score": 18.175,
       "latest_coverage_at": "2026-11-07T21:02:40+00:00"
     },
     {
@@ -300,7 +300,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.609,
+      "importance_score": 17.606,
       "latest_coverage_at": "2026-11-07T17:33:37+00:00"
     },
     {
@@ -321,7 +321,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.65,
+      "importance_score": 16.648,
       "latest_coverage_at": "2026-11-07T15:09:22+00:00"
     },
     {
@@ -342,7 +342,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.203,
+      "importance_score": 16.2,
       "latest_coverage_at": "2026-11-07T16:36:53+00:00"
     },
     {
@@ -363,7 +363,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.137,
+      "importance_score": 16.134,
       "latest_coverage_at": "2026-11-07T16:47:17+00:00"
     },
     {
@@ -384,7 +384,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 15.74,
+      "importance_score": 15.738,
       "latest_coverage_at": "2026-11-07T09:57:01+00:00"
     },
     {
@@ -392,7 +392,7 @@
       "title": "Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes",
       "summary": "Le Paris SG n’a battu que d’un but Troyes (1-0), pourtant mal classé, samedi soir à domicile lors de la 10e journée de Ligue 1, parce que « ce type de match est toujours difficile », selon son entraîneur Luis Enrique.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-ce-type-de-match-est-toujours-difficile-estime-luis-enrique-apres-le-succes-du-psg-contre-troyes-afdf7796-db02-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T23:35:40+00:00",
       "category": "Sport",
@@ -404,7 +404,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.81,
+      "importance_score": 14.784,
       "latest_coverage_at": "2026-11-07T23:35:40+00:00"
     },
     {
@@ -424,7 +424,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.627,
+      "importance_score": 14.624,
       "latest_coverage_at": "2026-11-07T15:21:20+00:00"
     },
     {
@@ -444,7 +444,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.278,
+      "importance_score": 14.276,
       "latest_coverage_at": "2026-11-07T23:10:25+00:00"
     },
     {
@@ -464,7 +464,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.275,
+      "importance_score": 14.272,
       "latest_coverage_at": "2026-11-07T16:10:12+00:00"
     },
     {
@@ -483,7 +483,7 @@
       ],
       "coverage_count": 2,
       "mention_count": 7,
-      "importance_score": 13.883,
+      "importance_score": 13.88,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     },
     {
@@ -503,11 +503,43 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 13.822,
+      "importance_score": 13.819,
       "latest_coverage_at": "2026-11-07T18:12:22+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "384ba42cf623",
+      "title": "« Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp",
+      "summary": "REPORTAGE - Dans les Bouches-du-Rhône, samedi, Édouard Philippe a dénoncé le projet de l’Insoumis, après plusieurs jours d’affrontements à distance sur l’immigration. Une manière pour le candidat d’Horizons, en baisse dans les sondages, de mobiliser son électorat pour s’imposer sans primaire.",
+      "source": "Le Figaro",
+      "feed_rank": 18,
+      "url": "https://www.lefigaro.fr/elections/presidentielles/vision-communautariste-police-de-la-pensee-la-semaine-ou-edouard-philippe-a-cible-jean-luc-melenchon-pour-unir-son-camp-20261107",
+      "published_at": "2026-11-08T00:21:09+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f0fd855fb3dd",
+      "title": "Championnat des nations. « L’équipe va devoir s’adapter » à l’absence de Romain Ntamack, affirme Antoine Dupont",
+      "summary": "Le XV de France « va devoir s’adapter » à l’absence de son ouvreur Romain Ntamack, a estimé samedi le capitaine du XV de France Antoine Dupont, après la sortie sur blessure de son partenaire de charnière, touché à l’épaule, qui manquera la fin du Championnat des nations.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/championnat-des-nations-lequipe-va-devoir-sadapter-a-labsence-de-romain-ntamack-affirme-antoine-dupont-b7c02998-db06-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-08T00:01:42+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations. « L’équipe va devoir s’adapter » à l’absence de Romain Ntamack, affirme Antoine Dupont ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "e0ef4279f5e5",
       "title": "Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne",
@@ -529,13 +561,29 @@
       "title": "Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes",
       "summary": "Le Paris SG n’a battu que d’un but Troyes (1-0), pourtant mal classé, samedi soir à domicile lors de la 10e journée de Ligue 1, parce que « ce type de match est toujours difficile », selon son entraîneur Luis Enrique.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-ce-type-de-match-est-toujours-difficile-estime-luis-enrique-apres-le-succes-du-psg-contre-troyes-afdf7796-db02-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T23:35:40+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes ».",
       "coverage_sources": [
         "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a4640c349344",
+      "title": "Rugby. Le CSBJ arrache le derby : « Bourgoin reste Bourgoin ! »",
+      "summary": "Dans un derby haché du Nord-Isère face au solide CS Vienne, ce samedi 7 novembre au stade Pierre-Rajon, le CS Bourgoin-Jallieu a enrayé sa série de trois défaites de rang (victoire 23-16). Dans les tribunes, 6 011 supporters assistaient au retour de cette affiche, après deux saisons d’absence.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 8,
+      "url": "https://www.ledauphine.com/sport/2026/11/08/le-csbj-arrache-le-derby-bourgoin-reste-bourgoin",
+      "published_at": "2026-11-07T23:32:00+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Rugby. Le CSBJ arrache le derby : « Bourgoin reste Bourgoin ! » ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -609,7 +657,7 @@
       "title": "Augmentation du Smic : le ministre du Travail estime qu’une forte hausse pourrait « nuire à l’emploi »",
       "summary": "Interrogé sur la question de la revalorisation du Smic après les manifestations de grande ampleur de ces derniers jours, afin d’aider les salariés à faire face au coût de la vie, le ministre du Travail joue la prudence en estimant ne pas vouloir « nuire à l’emploi ».",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/economie/salaires/augmentation-du-smic-le-ministre-du-travail-estime-quune-forte-hausse-pourrait-nuire-a-lemploi-a54cd746-daf9-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T23:15:15+00:00",
       "category": "Politique",
@@ -769,7 +817,7 @@
       "title": "Mort de Jesus de Miguel. « Parler de toi au passé, c’est injuste » : l’émotion submerge tout le football espagnol",
       "summary": "Quatre jours après le drame qui a coûté la vie à Jesus de Miguel, le CF Tenerife a réuni des milliers de personnes pour un hommage bouleversant ce samedi 7 novembre. Entre chants, larmes et souvenirs, le football espagnol a rendu un dernier salut à l’un des siens.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/football/espagne/mort-de-jesus-de-miguel-parler-de-toi-au-passe-cest-injuste-lemotion-submerge-tout-le-football-espagnol-090420c0-dafd-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:57:36+00:00",
       "category": "Sport",
@@ -865,7 +913,7 @@
       "title": "Rugby. Retour réussi pour Dupont, la première ligne au rendez-vous : les notes des Bleus face aux Fidji",
       "summary": "Le XV de France a fait pleuvoir les essais sur les Fidjiens samedi soir (54-17) grâce un Antoine Dupont de retour en forme et surtout à sa première ligne emmenée par Jean-Baptiste Gros.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 12,
+      "feed_rank": 11,
       "url": "https://www.ledauphine.com/sport/2026/11/07/retour-reussi-pour-dupont-la-premiere-ligne-au-rendez-vous-les-notes-des-bleus-face-aux-fidji",
       "published_at": "2026-11-07T22:49:00+00:00",
       "category": "Sport",
@@ -977,7 +1025,7 @@
       "title": "Rugby. Les Bleus écrasent les Fidji, reprennent la tête du Championnat des nations... mais perdent Ntamack",
       "summary": "Le XV de France a bien débuté la deuxième partie du Championnat des nations, en écrasant les Fidji 54-17 à Lyon ce samedi, sous la houlette d'un grand Antoine Dupont. Mais le capitaine a perdu son compère de la charnière Romain Ntamack, sorti blessé.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 13,
+      "feed_rank": 12,
       "url": "https://www.ledauphine.com/sport/2026/11/07/le-xv-de-france-de-retour-face-aux-fidji-pour-garder-la-tete-dans-le-championnat-des-nations-suivez-notre-direct",
       "published_at": "2026-11-07T22:30:00+00:00",
       "category": "Sport",
@@ -1025,7 +1073,7 @@
       "title": "Masters 1000 de Paris. « Je me suis donné à fond » : Luca Van Assche n’a pas de regret après sa défaite en demi-finales",
       "summary": "Battu en demi-finales du Masters 1000 de Paris par Ben Shelton au terme d’une bataille intense, ce samedi 7 novembre, Luca Van Assche a conclu le meilleur tournoi de sa carrière (5-7, 6-3, 6-4). S’il a eu des occasions pour se hisser en finale, le Français de 22 ans demeure satisfait de sa semaine malgré la déception.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/tennis/luca-van-assche/masters-1000-de-paris-je-me-suis-donne-a-fond-luca-van-assche-na-pas-de-regret-apres-sa-defaite-en-demi-finales-174999e2-daf5-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:22:25+00:00",
       "category": "Société",
@@ -1057,7 +1105,7 @@
       "title": "Trois soldats tués dans une attaque de drones explosifs en Colombie",
       "summary": "Une base militaire colombienne a été visée par une attaque de drones chargés d’explosifs, dans le nord du pays. Au moins trois soldats ont été tués par les frappes.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/monde/colombie/trois-soldats-tues-dans-une-attaque-de-drones-explosifs-en-colombie-0d1c87d8-daf8-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:21:13+00:00",
       "category": "Société",
@@ -1089,7 +1137,7 @@
       "title": "Liga. Avec un Kylian Mbappé encore buteur, le Real Madrid gagne à Valence et met la pression sur Barcelone et l’Atlético",
       "summary": "Au terme d’une rencontre marquée par un hommage poignant à Jesus de Miguel, décédé en début de semaine après un effroyable choc en plein match, le Real Madrid s’est facilement imposé sur le terrain de Valence, ce samedi 7 novembre. Kylian Mbappé a marqué pour le septième match de suite avec les Merengues.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/espagne/liga-avec-un-kylian-mbappe-encore-buteur-le-real-madrid-gagne-a-valence-et-met-la-pression-sur-barcelone-et-latletico-024affcc-daf5-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:13:15+00:00",
       "category": "Médias & communication",
@@ -1121,7 +1169,7 @@
       "title": "Route du Rhum. Talent, travail, méthode et réussite… Les ingrédients de la victoire incontestable de Tom Laperche",
       "summary": "Ce dimanche 8 novembre, à 0 h 30 h, le skipper de SVR Lazartigue, filait vers la bouée de les côtes de Basse-Terre et n’était plus qu’à quelques milles de l’arrivée. Une victoire éclatante s’offrait au successeur de François Gabart.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-talent-travail-methode-et-reussite-les-ingredients-de-la-victoire-incontestable-de-tom-laperche-7f8bed96-daa7-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:10:14+00:00",
       "category": "Société",
@@ -1203,7 +1251,7 @@
       "title": "Ligue 1. Le PSG s’impose sans briller face à Troyes et consolide sa place de leader avant la trêve internationale",
       "summary": "Le PSG a battu Troyes (1-0), ce samedi 7 novembre, enregistrant ainsi un onzième succès consécutif toutes compétitions confondues. Largement dominateur mais peu inspiré devant le but troyen, le double champion d’Europe consolide néanmoins sa place de leader avant la trêve internationale.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-le-psg-simpose-sans-briller-face-a-troyes-et-consolide-sa-place-de-leader-avant-la-treve-internationale-64e95b44-daf3-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T21:59:13+00:00",
       "category": "Sport",
@@ -1254,27 +1302,11 @@
       "title": "Fusillade en Pologne : idéologie d’extrême droite, neuf morts, deuil national… Ce que l’on sait de l’attaque à Cracovie",
       "summary": "Un individu a fait irruption, samedi, à bord de son véhicule sur une place fréquentée de Cracovie et a ouvert le feu sur les passants, tuant au moins six personnes et en blessant une quinzaine d’autres. Trois cadavres ont également été retrouvés au domicile du tireur.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/europe/pologne/fusillade-en-pologne-ideologie-dextreme-droite-neuf-morts-deuil-national-ce-que-lon-sait-de-lattaque-a-cracovie-c475c8a4-daee-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T21:55:02+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Fusillade en Pologne : idéologie d’extrême droite, neuf morts, deuil national… Ce que l’on sait de l’attaque à Cracovie » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "8e081a5d7413",
-      "title": "Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation",
-      "summary": "Au lendemain de sa destitution, l’ancien président du Paraguay Santiago Peña a été inculpé par la justice après avoir été jugé responsable d’une crise bancaire spectaculaire dans son pays. Il a également été placé en détention préventive.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/monde/paraguay/crise-bancaire-au-paraguay-le-president-destitue-santiago-pena-inculpe-par-la-justice-de-son-pays-7bd9350a-dad9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T21:54:53+00:00",
-      "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation ».",
       "coverage_sources": [
         "Ouest-France"
       ],
@@ -1491,14 +1523,12 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "Le Monde",
-        "TF1 Info (TF1 / LCI)",
         "CNews",
         "Le Dauphiné Libéré",
         "Midi Libre"
       ],
-      "coverage_count": 7,
-      "mention_count": 7
+      "coverage_count": 5,
+      "mention_count": 5
     },
     {
       "id": "dc35ec75342e",
@@ -1538,7 +1568,7 @@
       "title": "Social. Mobilisation sociale : entre 146 000 et 250 000 manifestants en France, 46 000 à 75 000 à Paris",
       "summary": "Deux jours après la grève du 5 novembre, syndicats, organisations de jeunesse et gilets jaunes appellent à un quatrième samedi de mobilisation contre la vie chère. Revivez cette journée.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.ledauphine.com/social/2026/11/07/mobilisation-du-7-novembre-acte-iv-contre-la-vie-chere-70-000-policiers-et-gendarmes-deployes",
       "published_at": "2026-11-07T21:06:00+00:00",
       "category": "Société",
@@ -1650,7 +1680,7 @@
       "title": "Voile. Route du Rhum : en détresse, Benoît Sineau a été secouru « sain et sauf » par un concurrent",
       "summary": "Le skippeur du bateau Ekinox-Rhétores a déclenché sa balise de détresse, alors qu'« aucune communication n'a pu être établie avec lui », a fait savoir l'organisation. Dans la soirée, il a été secouru par un concurrent, qui avait été dérouté.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ledauphine.com/sport/2026/11/07/route-du-rhum-le-skipper-benoit-sineau-en-detresse-plusieurs-bateaux-deroutes",
       "published_at": "2026-11-07T20:54:00+00:00",
       "category": "Médias & communication",
@@ -1698,6 +1728,22 @@
       "mention_count": 1
     },
     {
+      "id": "0178fea8517b",
+      "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+      "summary": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter « la gauche cinglée ».",
+      "source": "Le Monde",
+      "feed_rank": 9,
+      "url": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+      "published_at": "2026-11-07T20:53:11+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "ae6b271d66de",
       "title": "Israël : Gadi Eisenkot chargé de former un gouvernement",
       "summary": "Le président israélien a chargé samedi Gadi ⁠Eisenkot, principal ​adversaire du Premier ministre Benjamin Netanyahu, de tenter de former un nouveau gouvernement. Cette mission, qui sera officiellement confiée par le président Isaac Herzog dimanche, s'annonce difficile : l'ancien général âgé de 66 ans aura en effet la lourde tâche de rallier un minimum de…",
@@ -1715,12 +1761,11 @@
         "Le Figaro",
         "Mediapart",
         "RFI",
-        "TF1 Info (TF1 / LCI)",
         "Sud Ouest",
         "20 Minutes"
       ],
-      "coverage_count": 10,
-      "mention_count": 12
+      "coverage_count": 9,
+      "mention_count": 11
     },
     {
       "id": "77fe3e9b9078",
@@ -2049,22 +2094,6 @@
       "mention_count": 1
     },
     {
-      "id": "521a220dc57c",
-      "title": "Météo du 7 novembre 2026 : Prévisions météo à 20h50",
-      "summary": "Météo du samedi 7 novembre 2026 à 20h50 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du samedi 7 novembre 2026 à 20h50 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
-      "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-7-novembre-2026-previsions-meteo-a-20h50-2474528.html",
-      "published_at": "2026-11-07T19:52:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Météo du 7 novembre 2026 : Prévisions météo à 20h50 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "864113e53cb4",
       "title": "« Il est l’heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
       "summary": "Au Bourget, en Seine-Saint-Denis, les insoumis n’ont pas simplement présenté leur programme. Ils l’ont mis en scène. Samedi 7 novembre, pour dévoiler la nouvelle édition de son programme, L’Avenir en commun , La France insoumise a orchestré une démonstration de force qui tient autant du meeting politique que du spectacle immersif. Devant une salle…",
@@ -2076,6 +2105,22 @@
       "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « « Il est l’heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France » ».",
       "coverage_sources": [
         "Public Sénat"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "521a220dc57c",
+      "title": "Météo du 7 novembre 2026 : Prévisions météo à 20h50",
+      "summary": "Météo du samedi 7 novembre 2026 à 20h50 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du samedi 7 novembre 2026 à 20h50 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 17,
+      "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-7-novembre-2026-previsions-meteo-a-20h50-2474528.html",
+      "published_at": "2026-11-07T19:52:11+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Météo du 7 novembre 2026 : Prévisions météo à 20h50 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2209,27 +2254,11 @@
       "mention_count": 1
     },
     {
-      "id": "384ba42cf623",
-      "title": "« Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp",
-      "summary": "REPORTAGE - Dans les Bouches-du-Rhône, samedi, Édouard Philippe a dénoncé le projet de l’Insoumis, après plusieurs jours d’affrontements à distance sur l’immigration. Une manière pour le candidat d’Horizons, en baisse dans les sondages, de mobiliser son électorat pour s’imposer sans primaire.",
-      "source": "Le Figaro",
-      "feed_rank": 18,
-      "url": "https://www.lefigaro.fr/elections/presidentielles/vision-communautariste-police-de-la-pensee-la-semaine-ou-edouard-philippe-a-cible-jean-luc-melenchon-pour-unir-son-camp-20261107",
-      "published_at": "2026-11-07T19:45:34+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "99f32b8a2660",
       "title": "Rugby - Nationale. « C’était tendu jusqu’à la fin » : le CSBJ arrache la victoire, le CS Vienne sauve un point de bonus dans le derby du Nord-Isère",
       "summary": "Au terme d'un match très disputé, le CS Bourgoin-Jallieu a remporté le derby du Nord-Isère contre le CS Vienne (23-16), ce samedi au stade Pierre-Rajon, pour le compte de la 10e journée de Nationale.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 10,
+      "feed_rank": 16,
       "url": "https://www.ledauphine.com/sport/2026/11/07/la-logique-csbj-ou-la-surprise-cs-vienne-suivez-le-derby-du-nord-isere",
       "published_at": "2026-11-07T19:45:00+00:00",
       "category": "Sport",
@@ -2293,7 +2322,7 @@
       "title": "Moyen-Orient. En Israël, l’opposition au défi de trouver une coalition",
       "summary": "Sans majorité à la Knesset, l’opposition menée par Gadi Eisenkot doit trouver une majorité pour espérer gouverner. Un exercice d’équilibriste qui nécessite de naviguer entre ses propres lignes rouges et celles de ses alliés potentiels.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.ledauphine.com/politique/2026/11/08/en-israel-l-opposition-au-defi-de-trouver-une-coalition",
       "published_at": "2026-11-07T19:40:00+00:00",
       "category": "International",
@@ -2710,7 +2739,7 @@
       "title": "Consommation. Le chocolat reste cher, malgré la baisse des cours du cacao",
       "summary": "Le chocolat a beaucoup augmenté ces dernières années. Pour ce réveillon 2026-2027, pas de baisse des prix en vue, en raison du décalage dans le temps entre l’achat des fèves et la vente en rayon, ainsi que de la hausse des coûts de production.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.ledauphine.com/economie/2026/11/07/le-chocolat-reste-cher-malgre-la-baisse-des-cours-du-cacao",
       "published_at": "2026-11-07T19:00:00+00:00",
       "category": "Économie",
@@ -2775,7 +2804,7 @@
       "title": "Espagne. Mort du footballeur Jesus de Miguel : son club s'engage à soutenir financièrement sa fille jusqu'à ses 18 ans",
       "summary": "Victime d’un choc violent avec le gardien du FC Andorra Jesus Owono lundi, lors d’un match de seconde division espagnole, l’avant-centre de Tenerife Jesus de Miguel est décédé mardi matin. Son club s'est engagé à subvenir financièrement aux besoins de la fille de son attaquant jusqu'à ses 18 ans, selon The Athletic.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.ledauphine.com/sport/2026/11/07/mort-du-footballeur-jesus-de-miguel-son-club-s-engage-a-soutenir-financierement-sa-fille-jusqu-a-ses-18-ans",
       "published_at": "2026-11-07T18:52:00+00:00",
       "category": "Sport",
@@ -2952,7 +2981,7 @@
       "title": "En images. Déguisements insolites, 1500 participants, vainqueurs surprises... Revivez le 42e Marathon des Gorges de l’Ardèche",
       "summary": "Après quelques heures d’incertitude autour de la tenue de l’événement, la 42e édition du Marathon international des Gorges de l’Ardèche a bien eu lieu ce samedi 7 novembre. Près de 1 500 participants ont pris le départ des différentes épreuves dans des conditions idéales.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.ledauphine.com/sport/2026/11/07/deguisements-insolites-1500-participants-vainqueurs-surprises-decouvres-nos-images-du-42e-marathon-des-gorges-de-l-ardeche",
       "published_at": "2026-11-07T18:24:00+00:00",
       "category": "International",
@@ -3470,6 +3499,22 @@
       "mention_count": 1
     },
     {
+      "id": "c021273991e3",
+      "title": "Du changement au gouvernement : Mathieu Lefèvre remplace Maud Bregeon, Arnaud Viala nommé ministre de la Ruralité",
+      "summary": "L’actuelle porte-parole part en congé maternité. Le président Horizons du département de l’Aveyron, Arnaud Viala, va être nommé ministre de la Ruralité en remplacement de Michel Fournier.",
+      "source": "Le Figaro",
+      "feed_rank": 17,
+      "url": "https://www.lefigaro.fr/politique/du-changement-au-gouvernement-mathieu-lefevre-remplace-maud-bregeon-arnaud-viala-nomme-ministre-de-la-ruralite-20261107",
+      "published_at": "2026-11-07T17:36:30+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Du changement au gouvernement : Mathieu Lefèvre remplace Maud Bregeon, Arnaud Viala nommé ministre de la Ruralité » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "f763500ef90c",
       "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
       "summary": "Le tireur, un Polonais de 24 ans « fasciné par les idéologies d’extrême droite » d’après le premier ministre, a ouvert le feu « au hasard » sur la grande place de la vieille ville. Deux jours de deuil national ont été décrétés.",
@@ -3823,13 +3868,11 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "Le Figaro",
         "CNews",
-        "Sud Ouest",
-        "Le Dauphiné Libéré"
+        "Sud Ouest"
       ],
-      "coverage_count": 6,
-      "mention_count": 6
+      "coverage_count": 4,
+      "mention_count": 4
     },
     {
       "id": "bb127e959e03",
@@ -4920,7 +4963,6 @@
         "Le Figaro",
         "Mediapart",
         "RFI",
-        "TF1 Info (TF1 / LCI)",
         "Sud Ouest",
         "20 Minutes",
         "La Croix",
@@ -4928,8 +4970,8 @@
         "Midi Libre",
         "Paris Match"
       ],
-      "coverage_count": 11,
-      "mention_count": 13
+      "coverage_count": 10,
+      "mention_count": 12
     },
     {
       "id": "7522e1851f6e",
@@ -5328,54 +5370,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Uruguay, le pape Léon XIV appelle à \"transmettre la joie de la foi\" aux générations futures » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cb5ee5aeabb8",
-      "title": "Tennis : comment le Rolex Paris Masters est devenu le tournoi le plus rapide du circuit",
-      "summary": "Décrié pour sa lenteur en 2025 après son déménagement à la Paris La Défense Arena, le Rolex Paris Masters a radicalement changé de visage cette année pour redevenir le tournoi le plus rapide du circuit, toutes catégories confondues. Pendant longtemps, le Rolex Paris Masters a cultivé une identité bien à lui. Celle d'un tournoi indoor où les gros serveurs…",
-      "source": "CNews",
-      "feed_rank": 18,
-      "url": "https://www.cnews.fr/sport/2026-11-07/tennis-comment-le-rolex-paris-masters-est-devenu-le-tournoi-le-plus-rapide-du",
-      "published_at": "2026-11-07T14:32:57+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Tennis : comment le Rolex Paris Masters est devenu le tournoi le plus rapide du circuit ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "fd7e53681d5e",
-      "title": "Méconnaissance de leurs droits, peur des représailles, précarité… Les primogrévistes face à de multiples défis",
-      "summary": "L’information est importante pour faire grossir les rangs des primogrévistes. Dans les entreprises c’est un travail de longue haleine et, pour les structures syndicales, accueillir les jeunes travailleuses et travailleurs massivement entrés dans le mouvement est une gageure.",
-      "source": "L'Humanité",
-      "feed_rank": 14,
-      "url": "https://www.humanite.fr/vie-quotidienne/droit-de-greve/meconnaissance-de-leurs-droits-peur-des-represailles-precarite-les-primogrevistes-face-a-de-multiples-defis",
-      "published_at": "2026-11-07T14:27:00+00:00",
-      "category": "Économie",
-      "communication_angle": "L'évolution de cette entreprise peut modifier son positionnement, ses attentes d'investisseurs ou la confiance de ses clients et salariés. Les communicants doivent relier les chiffres à une stratégie lisible, sans transformer une annonce ponctuelle en promesse excessive. Sujet suivi : « Méconnaissance de leurs droits, peur des représailles, précarité… Les primogrévistes face à de multiples défis ».",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "7223af31e07d",
-      "title": "Livret A : pourquoi relever le plafond à 30 000 euros fait-il débat ?",
-      "summary": "Le gouvernement envisage d’augmenter le plafond du placement préféré des Français pour financer l’adaptation au dérèglement climatique, une mesure qui fait débat",
-      "source": "Sud Ouest",
-      "feed_rank": 20,
-      "url": "https://www.sudouest.fr/economie/mon-argent/livret-a-pourquoi-relever-le-plafond-a-30-000-euros-fait-il-debat-31426389.php",
-      "published_at": "2026-11-07T14:26:33+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Livret A : pourquoi relever le plafond à 30 000 euros fait-il débat ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Sud Ouest"
       ],
       "coverage_count": 1,
       "mention_count": 1
