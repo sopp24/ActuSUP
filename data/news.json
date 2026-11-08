@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-07T23:00:20.332985+00:00",
-  "last_attempt": "2026-11-07T23:00:20.332985+00:00",
+  "last_updated": "2026-11-08T00:00:18.959472+00:00",
+  "last_attempt": "2026-11-08T00:00:18.959472+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 902,
-  "unique_story_count": 775,
+  "unique_story_count": 776,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-07T23:00:20.332985+00:00",
-  "featured_window_end": "2026-11-07T23:00:20.332985+00:00",
+  "featured_window_start": "2026-10-08T00:00:18.959472+00:00",
+  "featured_window_end": "2026-11-08T00:00:18.959472+00:00",
   "featured_pool_count": 900,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "f6ae6d53fae4",
-      "title": "Pologne: une fusillade à Cracovie fait au moins 6 morts et une quinzaine de blessés, le tireur «fasciné par les idéologies d’extrême droite» neutralisé",
-      "summary": "Un tireur à bord d’une voiture a ouvert le feu sur des piétons à Cracovie, faisant six morts et une quinzaine de blessés, avant d’être neutralisé. 3 corps supplémentaires, qui pourraient être ceux de sa famille, ont également été retrouvés dans son appartement.",
-      "source": "Le Figaro",
-      "feed_rank": 1,
-      "url": "https://www.lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
-      "published_at": "2026-11-07T22:57:29+00:00",
+      "id": "e0ef4279f5e5",
+      "title": "Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne",
+      "summary": "En déplacement dans le sud-est de la France depuis vendredi 6 novembre, le candidat Horizons à la présidentielle, Édouard Philippe, a lancé samedi 7 novembre à La Ciotat (Bouches-du-Rhône) son « Grand Tour ». Cette tournée doit le conduire dans toutes les régions du pays, à la rencontre de 200 à 300 Français à chaque étape. Le candidat espère ainsi…",
+      "source": "RFI",
+      "feed_rank": 3,
+      "url": "https://www.rfi.fr/fr/france/20261107-pr%C3%A9sidentielle-en-france-%C3%A9douard-philippe-d%C3%A9bute-son-grand-tour-pour-relancer-sa-campagne",
+      "published_at": "2026-11-07T23:36:49+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pologne: une fusillade à Cracovie fait au moins 6 morts et une quinzaine de blessés, le tireur «fasciné par les idéologies d’extrême droite» neutralis » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -71,37 +71,46 @@
         "INA – La Revue des médias"
       ],
       "coverage_count": 39,
-      "mention_count": 271,
-      "importance_score": 37.535,
-      "latest_coverage_at": "2026-11-07T22:57:29+00:00"
+      "mention_count": 250,
+      "importance_score": 37.392,
+      "latest_coverage_at": "2026-11-07T23:36:49+00:00"
     },
     {
-      "id": "356b6ee99929",
-      "title": "Rugby : les Bleus surclassent les Fidji (54-17), Ntamack blessé avant les Boks",
-      "summary": "Le XV de France a lancé son Championnat des nations par une démonstration face aux Fidji (54-17), avec huit essais et un Antoine Dupont décisif. Mais la blessure à l’épaule de Romain Ntamack assombrit la victoire des Bleus, attendus vendredi pour un choc majeur face à l’Afrique du Sud.",
-      "source": "Le JDD",
-      "feed_rank": 1,
-      "url": "https://www.lejdd.fr/sport/rugby-les-bleus-surclassent-les-fidji-54-17-ntamack-blesse-avant-les-boks-188115",
-      "published_at": "2026-11-07T22:57:46+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Rugby : les Bleus surclassent les Fidji (54-17), Ntamack blessé avant les Boks ».",
+      "id": "1971e305b83a",
+      "title": "Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, le patron de l'UFC",
+      "summary": "Le président américain a annoncé samedi avoir proposé le poste de porte-parole de la Maison Blanche à Dana White. Ce proche de Donald Trump dirige l'UFC, principale organisation mondiale d'arts martiaux mixtes (MMA). Le poste est vacant depuis la mi-octobre.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 3,
+      "url": "https://www.tf1info.fr/international/donald-trump-propose-le-poste-de-porte-parole-de-la-maison-blanche-a-dana-white-le-patron-de-l-ufc-mma-2474552.html",
+      "published_at": "2026-11-07T21:50:52+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Donald Trump propose le poste de porte-parole de la Maison Blanche à Dana White, le patron de l'UFC » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "Le Monde",
-        "Le Figaro",
+        "RFI",
         "TF1 Info (TF1 / LCI)",
+        "BFMTV",
+        "CNews",
+        "Courrier International",
+        "Euronews",
+        "L'Express",
+        "L'Obs",
+        "L'Opinion",
+        "Libération",
+        "Sud Ouest",
         "20 Minutes",
         "La Dépêche du Midi",
         "Le Dauphiné Libéré",
         "Le JDD",
         "Midi Libre",
-        "Paris Match"
+        "Public Sénat"
       ],
-      "coverage_count": 11,
-      "mention_count": 18,
-      "importance_score": 24.738,
-      "latest_coverage_at": "2026-11-07T22:57:46+00:00"
+      "coverage_count": 20,
+      "mention_count": 26,
+      "importance_score": 28.769,
+      "latest_coverage_at": "2026-11-07T21:53:21+00:00"
     },
     {
       "id": "db708a423f58",
@@ -126,8 +135,34 @@
       ],
       "coverage_count": 9,
       "mention_count": 25,
-      "importance_score": 23.863,
+      "importance_score": 23.861,
       "latest_coverage_at": "2026-11-07T19:50:22+00:00"
+    },
+    {
+      "id": "bafea8de4bfe",
+      "title": "France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack",
+      "summary": "Une semaine avant d’affronter les redoutables Springboks, le XV de France a lancé sa deuxième partie du Championnat des nations en dominant les Fidjiens, ce samedi, à Lyon. Mais a perdu un nouveau joueur : l’ouvreur toulousain.",
+      "source": "Le Figaro",
+      "feed_rank": 8,
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
+      "published_at": "2026-11-07T23:04:55+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Le Figaro",
+        "TF1 Info (TF1 / LCI)",
+        "20 Minutes",
+        "La Dépêche du Midi",
+        "Le Dauphiné Libéré",
+        "Le JDD",
+        "Midi Libre",
+        "Paris Match"
+      ],
+      "coverage_count": 9,
+      "mention_count": 17,
+      "importance_score": 23.426,
+      "latest_coverage_at": "2026-11-07T23:26:43+00:00"
     },
     {
       "id": "1e306f1dec93",
@@ -151,40 +186,15 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.183,
+      "importance_score": 21.175,
       "latest_coverage_at": "2026-11-07T19:55:15+00:00"
-    },
-    {
-      "id": "8e081a5d7413",
-      "title": "Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation",
-      "summary": "Au lendemain de sa destitution, l’ancien président du Paraguay Santiago Peña a été inculpé par la justice après avoir été jugé responsable d’une crise bancaire spectaculaire dans son pays. Il a également été placé en détention préventive.",
-      "source": "Ouest-France",
-      "feed_rank": 8,
-      "url": "https://www.ouest-france.fr/monde/paraguay/crise-bancaire-au-paraguay-le-president-destitue-santiago-pena-inculpe-par-la-justice-de-son-pays-7bd9350a-dad9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T21:54:53+00:00",
-      "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "RFI",
-        "Euronews",
-        "L'Express",
-        "Ouest-France",
-        "La Croix",
-        "Paris Match"
-      ],
-      "coverage_count": 8,
-      "mention_count": 8,
-      "importance_score": 21.057,
-      "latest_coverage_at": "2026-11-07T21:54:53+00:00"
     },
     {
       "id": "69307e345696",
       "title": "\"C'est notre fils à tous\": aux obsèques de Pengo Bossio Wangi, tué par un terroriste à Trappes, une foule de proches et anonymes réunis",
       "summary": "Les obsèques de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, se sont déroulées ce samedi. Des centaines de personnes sont venues rendre hommage à ce jeune homme de 26 ans.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/paris/yvelines/c-est-notre-fils-a-tous-aux-obseques-de-pengo-bossio-wangi-tue-par-un-terroriste-a-trappes-une-foule-de-proches-et-anonymes-reunis_AD-202611070532.html",
       "published_at": "2026-11-07T21:42:24+00:00",
       "category": "Société",
@@ -200,32 +210,54 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.437,
+      "importance_score": 20.349,
       "latest_coverage_at": "2026-11-07T21:42:24+00:00"
     },
     {
-      "id": "9f6cfda40310",
-      "title": "Un Aveyronnais fait son entrée au gouvernement : qui est Arnaud Viala, nouveau ministre délégué chargé de la Ruralité qui remplace Michel Fournier ?",
-      "summary": "Le président du Conseil départemental de l’Aveyron, Arnaud Viala, fait son entrée au gouvernement au poste de ministre délégué chargé de la Ruralité. Membre du parti Horizons, l'ancien député prend la suite de Michel...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 1,
-      "url": "https://www.ladepeche.fr/2026/11/07/un-aveyronnais-fait-son-entree-au-gouvernement-qui-est-arnaud-viala-nouveau-ministre-delegue-charge-de-la-ruralite-qui-remplace-michel-fournier-13641769.php",
-      "published_at": "2026-11-07T18:44:38+00:00",
+      "id": "8e081a5d7413",
+      "title": "Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation",
+      "summary": "Au lendemain de sa destitution, l’ancien président du Paraguay Santiago Peña a été inculpé par la justice après avoir été jugé responsable d’une crise bancaire spectaculaire dans son pays. Il a également été placé en détention préventive.",
+      "source": "Ouest-France",
+      "feed_rank": 10,
+      "url": "https://www.ouest-france.fr/monde/paraguay/crise-bancaire-au-paraguay-le-president-destitue-santiago-pena-inculpe-par-la-justice-de-son-pays-7bd9350a-dad9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T21:54:53+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Un Aveyronnais fait son entrée au gouvernement : qui est Arnaud Viala, nouveau ministre délégué chargé de la Ruralité qui remplace Michel Fournier ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "Le Figaro",
-        "CNews",
-        "Sud Ouest",
-        "La Dépêche du Midi",
-        "Le Dauphiné Libéré"
+        "Euronews",
+        "L'Express",
+        "Ouest-France",
+        "La Croix",
+        "Paris Match"
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.174,
-      "latest_coverage_at": "2026-11-07T18:44:38+00:00"
+      "importance_score": 20.068,
+      "latest_coverage_at": "2026-11-07T21:54:53+00:00"
+    },
+    {
+      "id": "dc5f146b6652",
+      "title": "Rolex Paris Masters : Van Assche craque face à Shelton, Alcaraz l’attend en finale",
+      "summary": "Alors qu’il menait 3-1 dans le dernier set, Luca Van Assche a cédé face à Ben Shelton (5-7, 6-3, 6-4) en demi-finale du Rolex Paris Masters. Malgré cette désillusion, le Français de 22 ans confirme sa progression à ce niveau. L’Américain retrouvera Carlos Alcaraz en finale ce dimanche.",
+      "source": "Le JDD",
+      "feed_rank": 1,
+      "url": "https://www.lejdd.fr/sport/rolex-paris-masters-van-assche-craque-face-a-shelton-alcaraz-lattend-en-finale-188118",
+      "published_at": "2026-11-07T23:00:01+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Rolex Paris Masters : Van Assche craque face à Shelton, Alcaraz l’attend en finale » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Ouest-France",
+        "20 Minutes",
+        "Le JDD"
+      ],
+      "coverage_count": 5,
+      "mention_count": 9,
+      "importance_score": 18.705,
+      "latest_coverage_at": "2026-11-07T23:00:01+00:00"
     },
     {
       "id": "8f852d0de7a8",
@@ -246,7 +278,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.189,
+      "importance_score": 18.186,
       "latest_coverage_at": "2026-11-07T21:02:40+00:00"
     },
     {
@@ -268,29 +300,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.612,
+      "importance_score": 17.609,
       "latest_coverage_at": "2026-11-07T17:33:37+00:00"
-    },
-    {
-      "id": "ecb409fe8937",
-      "title": "Masters 1000 de Paris. « Je me suis donné à fond » : Luca Van Assche n’a pas de regret après sa défaite en demi-finales",
-      "summary": "Battu en demi-finales du Masters 1000 de Paris par Ben Shelton au terme d’une bataille intense, ce samedi 7 novembre, Luca Van Assche a conclu le meilleur tournoi de sa carrière (5-7, 6-3, 6-4). S’il a eu des occasions pour se hisser en finale, le Français de 22 ans demeure satisfait de sa semaine malgré la déception.",
-      "source": "Ouest-France",
-      "feed_rank": 2,
-      "url": "https://www.ouest-france.fr/sport/tennis/luca-van-assche/masters-1000-de-paris-je-me-suis-donne-a-fond-luca-van-assche-na-pas-de-regret-apres-sa-defaite-en-demi-finales-174999e2-daf5-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T22:22:25+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Masters 1000 de Paris. « Je me suis donné à fond » : Luca Van Assche n’a pas de regret après sa défaite en demi-finales » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Ouest-France",
-        "20 Minutes"
-      ],
-      "coverage_count": 4,
-      "mention_count": 8,
-      "importance_score": 17.265,
-      "latest_coverage_at": "2026-11-07T22:22:25+00:00"
     },
     {
       "id": "7e0631763298",
@@ -310,7 +321,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.653,
+      "importance_score": 16.65,
       "latest_coverage_at": "2026-11-07T15:09:22+00:00"
     },
     {
@@ -331,7 +342,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.205,
+      "importance_score": 16.203,
       "latest_coverage_at": "2026-11-07T16:36:53+00:00"
     },
     {
@@ -352,7 +363,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.139,
+      "importance_score": 16.137,
       "latest_coverage_at": "2026-11-07T16:47:17+00:00"
     },
     {
@@ -373,8 +384,28 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 15.743,
+      "importance_score": 15.74,
       "latest_coverage_at": "2026-11-07T09:57:01+00:00"
+    },
+    {
+      "id": "9a69ed784292",
+      "title": "Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes",
+      "summary": "Le Paris SG n’a battu que d’un but Troyes (1-0), pourtant mal classé, samedi soir à domicile lors de la 10e journée de Ligue 1, parce que « ce type de match est toujours difficile », selon son entraîneur Luis Enrique.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-ce-type-de-match-est-toujours-difficile-estime-luis-enrique-apres-le-succes-du-psg-contre-troyes-afdf7796-db02-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T23:35:40+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Ouest-France"
+      ],
+      "coverage_count": 3,
+      "mention_count": 4,
+      "importance_score": 14.81,
+      "latest_coverage_at": "2026-11-07T23:35:40+00:00"
     },
     {
       "id": "90364cf9ac0a",
@@ -393,8 +424,28 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.63,
+      "importance_score": 14.627,
       "latest_coverage_at": "2026-11-07T15:21:20+00:00"
+    },
+    {
+      "id": "c6bb504796f7",
+      "title": "En Afrique du Sud, les hommes sont invités à s'emparer de la question des violences faites aux femmes",
+      "summary": "L'Afrique du Sud est l'un des pays avec le plus haut taux de féminicides au monde. Récemment, une série de meurtres a fait craindre la présence d'un tueur en série qui visait les femmes. Mais l'enquête patine, et presque aucun de ces meurtres qui a frappé la région de Johannesburg n’'a encore été élucidé. Ce fléau des violences basées sur le genre a été…",
+      "source": "RFI",
+      "feed_rank": 11,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261107-en-afrique-du-sud-les-hommes-sont-invit%C3%A9s-%C3%A0-s-emparer-de-la-question-des-violences-faites-aux-femmes",
+      "published_at": "2026-11-07T23:10:25+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « En Afrique du Sud, les hommes sont invités à s'emparer de la question des violences faites aux femmes ».",
+      "coverage_sources": [
+        "France 24",
+        "RFI",
+        "Libération"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.278,
+      "latest_coverage_at": "2026-11-07T23:10:25+00:00"
     },
     {
       "id": "193f207d3fd7",
@@ -413,48 +464,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.277,
+      "importance_score": 14.275,
       "latest_coverage_at": "2026-11-07T16:10:12+00:00"
-    },
-    {
-      "id": "9e1da5ff4687",
-      "title": "Ligue 1. Le PSG s’impose sans briller face à Troyes et consolide sa place de leader avant la trêve internationale",
-      "summary": "Le PSG a battu Troyes (1-0), ce samedi 7 novembre, enregistrant ainsi un onzième succès consécutif toutes compétitions confondues. Largement dominateur mais peu inspiré devant le but troyen, le double champion d’Europe consolide néanmoins sa place de leader avant la trêve internationale.",
-      "source": "Ouest-France",
-      "feed_rank": 6,
-      "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-le-psg-simpose-sans-briller-face-a-troyes-et-consolide-sa-place-de-leader-avant-la-treve-internationale-64e95b44-daf3-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T21:59:13+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Ligue 1. Le PSG s’impose sans briller face à Troyes et consolide sa place de leader avant la trêve internationale » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Ouest-France"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.263,
-      "latest_coverage_at": "2026-11-07T21:59:13+00:00"
-    },
-    {
-      "id": "7a12730cf14b",
-      "title": "Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30%",
-      "summary": "Municipales en Afrique du Sud. Plus de 99 % des bulletins ont été dépouillés. Les résultats seront annoncés demain, après vérification de près de 200 contestations. Mais les tendances sont claires : l’ANC est en recul historique, en passant à peine la barre des 30 %. Avec 24,6 %, l’Alliance démocratique de Geordin Hill-Lewis, maire du Cap, s’impose comme…",
-      "source": "France 24",
-      "feed_rank": 1,
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261107-municipales-en-afrique-du-sud-d%C3%A9route-historique-de-l-anc-qui-passe-%C3%A0-peine-les-30",
-      "published_at": "2026-11-07T21:30:18+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30% ».",
-      "coverage_sources": [
-        "France 24",
-        "RFI",
-        "Libération"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.139,
-      "latest_coverage_at": "2026-11-07T21:30:18+00:00"
     },
     {
       "id": "b1f55155ba63",
@@ -472,7 +483,7 @@
       ],
       "coverage_count": 2,
       "mention_count": 7,
-      "importance_score": 13.886,
+      "importance_score": 13.883,
       "latest_coverage_at": "2026-11-05T18:29:56+00:00"
     },
     {
@@ -492,17 +503,257 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 13.825,
+      "importance_score": 13.822,
       "latest_coverage_at": "2026-11-07T18:12:22+00:00"
     }
   ],
   "articles": [
     {
+      "id": "e0ef4279f5e5",
+      "title": "Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne",
+      "summary": "En déplacement dans le sud-est de la France depuis vendredi 6 novembre, le candidat Horizons à la présidentielle, Édouard Philippe, a lancé samedi 7 novembre à La Ciotat (Bouches-du-Rhône) son « Grand Tour ». Cette tournée doit le conduire dans toutes les régions du pays, à la rencontre de 200 à 300 Français à chaque étape. Le candidat espère ainsi…",
+      "source": "RFI",
+      "feed_rank": 3,
+      "url": "https://www.rfi.fr/fr/france/20261107-pr%C3%A9sidentielle-en-france-%C3%A9douard-philippe-d%C3%A9bute-son-grand-tour-pour-relancer-sa-campagne",
+      "published_at": "2026-11-07T23:36:49+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle en France: Édouard Philippe débute son «Grand Tour» pour relancer sa campagne ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "9a69ed784292",
+      "title": "Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes",
+      "summary": "Le Paris SG n’a battu que d’un but Troyes (1-0), pourtant mal classé, samedi soir à domicile lors de la 10e journée de Ligue 1, parce que « ce type de match est toujours difficile », selon son entraîneur Luis Enrique.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-ce-type-de-match-est-toujours-difficile-estime-luis-enrique-apres-le-succes-du-psg-contre-troyes-afdf7796-db02-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T23:35:40+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue 1. « Ce type de match est toujours difficile », estime Luis Enrique après le succès du PSG contre Troyes ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e2222bc5b91e",
+      "title": "Le Large, nouveau paquebot culturel, amarre sur l'île Seguin aux portes de Paris",
+      "summary": "Plus de 30 ans après la fermeture des usines Renault, l'île Seguin entame un nouveau chapitre de son histoire. Un nouveau centre d'art contemporain vient d'y jeter l'ancre. Son nom : le Large. Dans un bâtiment spectaculaire de 5 000 m² imaginé comme un vaste lieu de création et de partage, l'exposition inaugurale Moteur imaginaire explore la mémoire…",
+      "source": "RFI",
+      "feed_rank": 12,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20261107-le-large-nouveau-paquebot-culturel-amarre-sur-l-%C3%AEle-seguin-aux-portes-de-paris",
+      "published_at": "2026-11-07T23:27:23+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le Large, nouveau paquebot culturel, amarre sur l'île Seguin aux portes de Paris » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0807a6ef7cc8",
+      "title": "Les notes des Bleus après France-Fidji : Dupont le patron, Moefana en bulldozer, Falatea efficace",
+      "summary": "À l’issue de la victoire des Tricolores ce samedi face aux Fidjiens (54-17), retrouvez les notes des joueurs français attribuées par nos spécialistes rugby.",
+      "source": "Le Figaro",
+      "feed_rank": 7,
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-fidji-dupont-le-patron-moefana-en-bulldozer-falatea-efficace-20261107",
+      "published_at": "2026-11-07T23:26:43+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Les notes des Bleus après France-Fidji : Dupont le patron, Moefana en bulldozer, Falatea efficace ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "8be487d8b142",
+      "title": "Coalition du bloc central : une bonne idée ? - 07/11",
+      "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-coalition-du-bloc-central-une-bonne-idee-07-11_VN-202611070573.html",
+      "published_at": "2026-11-07T23:26:11+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Coalition du bloc central : une bonne idée ? - 07/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "83a78d3c4f9e",
+      "title": "Israël: dans le désert du Néguev, les Bédouins se sont mobilisés aux législatives face aux démolitions",
+      "summary": "Dimanche 8 novembre, le président israélien Isaac Herzog confiera à Gadi Eisenkot la charge de former un gouvernement. Le rival de Benyamin Netanyahu est soutenu par six partis, dont des partis arabes. Les électeurs arabes israéliens se sont particulièrement mobilisés lors de ces législatives. Habituellement, ils ne sont pas si nombreux à aller voter.…",
+      "source": "RFI",
+      "feed_rank": 5,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261107-isra%C3%ABl-dans-le-d%C3%A9sert-du-n%C3%A9guev-les-b%C3%A9douins-se-sont-mobilis%C3%A9s-aux-l%C3%A9gislatives-face-aux-d%C3%A9molitions",
+      "published_at": "2026-11-07T23:16:19+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Israël: dans le désert du Néguev, les Bédouins se sont mobilisés aux législatives face aux démolitions ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a437a213fde6",
+      "title": "Augmentation du Smic : le ministre du Travail estime qu’une forte hausse pourrait « nuire à l’emploi »",
+      "summary": "Interrogé sur la question de la revalorisation du Smic après les manifestations de grande ampleur de ces derniers jours, afin d’aider les salariés à faire face au coût de la vie, le ministre du Travail joue la prudence en estimant ne pas vouloir « nuire à l’emploi ».",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/economie/salaires/augmentation-du-smic-le-ministre-du-travail-estime-quune-forte-hausse-pourrait-nuire-a-lemploi-a54cd746-daf9-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-07T23:15:15+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Augmentation du Smic : le ministre du Travail estime qu’une forte hausse pourrait « nuire à l’emploi » ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "c6bb504796f7",
+      "title": "En Afrique du Sud, les hommes sont invités à s'emparer de la question des violences faites aux femmes",
+      "summary": "L'Afrique du Sud est l'un des pays avec le plus haut taux de féminicides au monde. Récemment, une série de meurtres a fait craindre la présence d'un tueur en série qui visait les femmes. Mais l'enquête patine, et presque aucun de ces meurtres qui a frappé la région de Johannesburg n’'a encore été élucidé. Ce fléau des violences basées sur le genre a été…",
+      "source": "RFI",
+      "feed_rank": 11,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261107-en-afrique-du-sud-les-hommes-sont-invit%C3%A9s-%C3%A0-s-emparer-de-la-question-des-violences-faites-aux-femmes",
+      "published_at": "2026-11-07T23:10:25+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « En Afrique du Sud, les hommes sont invités à s'emparer de la question des violences faites aux femmes ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "bafea8de4bfe",
+      "title": "France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack",
+      "summary": "Une semaine avant d’affronter les redoutables Springboks, le XV de France a lancé sa deuxième partie du Championnat des nations en dominant les Fidjiens, ce samedi, à Lyon. Mais a perdu un nouveau joueur : l’ouvreur toulousain.",
+      "source": "Le Figaro",
+      "feed_rank": 8,
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
+      "published_at": "2026-11-07T23:04:55+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "43605114fdfa",
+      "title": "France-Fidji : en vidéo, le résumé de la rencontre et les huit essais des Bleus",
+      "summary": "EN VIDÉO - Découvrez les essais tricolores à l’occasion de la rencontre de Championnat des nations contre les Fidji, ce samedi, au Groupama Stadium.",
+      "source": "Le Figaro",
+      "feed_rank": 10,
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-gros-falatea-grandidier-nkanang-les-essais-des-bleus-en-video-20261107",
+      "published_at": "2026-11-07T23:04:52+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Fidji : en vidéo, le résumé de la rencontre et les huit essais des Bleus ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1d2d0c5ba319",
+      "title": "Jaojoby, un artiste majeur, une vie dédiée à Madagascar et au salegy",
+      "summary": "Rencontre en tête-à-tête à Antananarivo avec un prince de la musique malgache. Jaojoby règne depuis près de 50 ans, avec d'autres rares élus, sur un patrimoine culturel de la grande île : le salegy.",
+      "source": "RFI",
+      "feed_rank": 13,
+      "url": "https://www.rfi.fr/fr/podcasts/les-p%C3%A9pites-musicales-de-rfi/20261107-jaojoby-un-artiste-majeur-une-vie-d%C3%A9di%C3%A9e-%C3%A0-madagascar-et-au-salegy",
+      "published_at": "2026-11-07T23:04:31+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Jaojoby, un artiste majeur, une vie dédiée à Madagascar et au salegy ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2453279fd6ea",
+      "title": "L’hôpital psychiatrique : dedans, dehors 2 : Peut-on guérir la folie ? Le débat psychiatrique en 1946",
+      "summary": "En 1946, la psychiatrie française est à un tournant. Les traumatismes de guerre, la hausse de la délinquance juvénile et les nouvelles méthodes thérapeutiques invitent à une autre prise en charge des maladies mentales et à la fin de l'asile traditionnel. Des experts débattent du sujet.",
+      "source": "France Culture",
+      "feed_rank": 2,
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/peut-on-guerir-la-folie-le-debat-psychiatrique-en-1946-6769686",
+      "published_at": "2026-11-07T23:03:43+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « L’hôpital psychiatrique : dedans, dehors 2 : Peut-on guérir la folie ? Le débat psychiatrique en 1946 ».",
+      "coverage_sources": [
+        "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 3
+    },
+    {
+      "id": "5efff042f8cc",
+      "title": "Maison Kanty's, la mode ivoirienne tissée de souvenirs et de savoir-faire",
+      "summary": "William Mackenzie, cofondateur et directeur artistique de la marque ivoirienne Maison Kanty's, crée avec Thierry Aguy des collections inspirées de leur vécu et de leur héritage culturel. La maison valorise l'artisanat local et les matières innovantes dans une démarche écoresponsable, récompensée cette année par un prix à Africa Fashion Up. Elle…",
+      "source": "RFI",
+      "feed_rank": 17,
+      "url": "https://www.rfi.fr/fr/podcasts/100-cr%C3%A9ation/20261107-maison-kanty-s-la-mode-ivoirienne-tiss%C3%A9e-de-souvenirs-et-de-savoir-faire",
+      "published_at": "2026-11-07T23:02:50+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Maison Kanty's, la mode ivoirienne tissée de souvenirs et de savoir-faire » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "dc5f146b6652",
+      "title": "Rolex Paris Masters : Van Assche craque face à Shelton, Alcaraz l’attend en finale",
+      "summary": "Alors qu’il menait 3-1 dans le dernier set, Luca Van Assche a cédé face à Ben Shelton (5-7, 6-3, 6-4) en demi-finale du Rolex Paris Masters. Malgré cette désillusion, le Français de 22 ans confirme sa progression à ce niveau. L’Américain retrouvera Carlos Alcaraz en finale ce dimanche.",
+      "source": "Le JDD",
+      "feed_rank": 1,
+      "url": "https://www.lejdd.fr/sport/rolex-paris-masters-van-assche-craque-face-a-shelton-alcaraz-lattend-en-finale-188118",
+      "published_at": "2026-11-07T23:00:01+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Rolex Paris Masters : Van Assche craque face à Shelton, Alcaraz l’attend en finale » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le JDD"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3b9545ab1e5b",
+      "title": "La Force multinationale pour l'Ukraine s'incarne en Pologne avec l'exercice militaire «Koalicja»",
+      "summary": "L'exercice militaire « Koalicja » (« coalition » en polonais) commence lundi 9 novembre en Pologne. C'est le premier du genre pour la Force multinationale pour l'Ukraine. Pendant deux semaines, les alliés de Kiev, pilotés par la France et le Royaume-Uni, vont mener des manœuvres grandeur nature destinées à éprouver leur aptitude à se déployer et opérer…",
+      "source": "RFI",
+      "feed_rank": 4,
+      "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261107-la-force-multinationale-pour-l-ukraine-s-incarne-en-pologne-avec-l-exercice-militaire-koalicja",
+      "published_at": "2026-11-07T22:58:01+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « La Force multinationale pour l'Ukraine s'incarne en Pologne avec l'exercice militaire «Koalicja» ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "356b6ee99929",
       "title": "Rugby : les Bleus surclassent les Fidji (54-17), Ntamack blessé avant les Boks",
       "summary": "Le XV de France a lancé son Championnat des nations par une démonstration face aux Fidji (54-17), avec huit essais et un Antoine Dupont décisif. Mais la blessure à l’épaule de Romain Ntamack assombrit la victoire des Bleus, attendus vendredi pour un choc majeur face à l’Afrique du Sud.",
       "source": "Le JDD",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.lejdd.fr/sport/rugby-les-bleus-surclassent-les-fidji-54-17-ntamack-blesse-avant-les-boks-188115",
       "published_at": "2026-11-07T22:57:46+00:00",
       "category": "Sport",
@@ -518,13 +769,29 @@
       "title": "Mort de Jesus de Miguel. « Parler de toi au passé, c’est injuste » : l’émotion submerge tout le football espagnol",
       "summary": "Quatre jours après le drame qui a coûté la vie à Jesus de Miguel, le CF Tenerife a réuni des milliers de personnes pour un hommage bouleversant ce samedi 7 novembre. Entre chants, larmes et souvenirs, le football espagnol a rendu un dernier salut à l’un des siens.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/sport/football/espagne/mort-de-jesus-de-miguel-parler-de-toi-au-passe-cest-injuste-lemotion-submerge-tout-le-football-espagnol-090420c0-dafd-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:57:36+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Mort de Jesus de Miguel. « Parler de toi au passé, c’est injuste » : l’émotion submerge tout le football espagnol ».",
       "coverage_sources": [
         "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "276bf42b91b3",
+      "title": "\"Encore temps de faire passer la France avant les égos\": 66 parlementaires appellent à une primaire contre les \"extrêmes\"",
+      "summary": "66 parlementaires, majoritairement de Renaissance, appellent à une \"primaire des démocrates et républicains\" dans une tribune publiée dans La Tribune Dimanche ce samedi.",
+      "source": "BFMTV",
+      "feed_rank": 4,
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/encore-temps-de-faire-passer-la-france-avant-les-egos-66-parlementaires-appellent-a-une-primaire-contre-les-extremes_AD-202611070562.html",
+      "published_at": "2026-11-07T22:57:19+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Encore temps de faire passer la France avant les égos\": 66 parlementaires appellent à une primaire contre les \"extrêmes\" » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -541,6 +808,22 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Fusillade en Pologne : 3 corps supplémentaires retrouvés au domicile du tireur » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "05f158142525",
+      "title": "Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji",
+      "summary": "Les hommes de Fabien Galthié ont étrillé les joueurs du Pacifique, samedi, au Groupama Stadium de Décines-Charpieu. Mais ils ont perdu leur ouvreur Romain Ntamack, à six jours du choc contre l’Afrique du Sud.",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
+      "published_at": "2026-11-07T22:50:47+00:00",
+      "category": "Économie",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji ».",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -566,7 +849,7 @@
       "title": "Manifestations : comment LFI fait de la rue un tremplin pour Mélenchon en 2027",
       "summary": "Omniprésente dans les cortèges de la mobilisation sociale et lycéenne, La France insoumise entend transformer la colère en force électorale. Avec sa stratégie de « révolution citoyenne », Jean-Luc Mélenchon mise sur la rue, au risque de se voir associé à ses franges les plus radicales.",
       "source": "Le JDD",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.lejdd.fr/politique/manifestations-comment-lfi-fait-de-la-rue-un-tremplin-pour-melenchon-en-2027-188097",
       "published_at": "2026-11-07T22:49:41+00:00",
       "category": "Société",
@@ -578,11 +861,27 @@
       "mention_count": 1
     },
     {
+      "id": "5efc073beae8",
+      "title": "Rugby. Retour réussi pour Dupont, la première ligne au rendez-vous : les notes des Bleus face aux Fidji",
+      "summary": "Le XV de France a fait pleuvoir les essais sur les Fidjiens samedi soir (54-17) grâce un Antoine Dupont de retour en forme et surtout à sa première ligne emmenée par Jean-Baptiste Gros.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 12,
+      "url": "https://www.ledauphine.com/sport/2026/11/07/retour-reussi-pour-dupont-la-premiere-ligne-au-rendez-vous-les-notes-des-bleus-face-aux-fidji",
+      "published_at": "2026-11-07T22:49:00+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Rugby. Retour réussi pour Dupont, la première ligne au rendez-vous : les notes des Bleus face aux Fidji ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "d75361cd1234",
       "title": "Présidentielle 2027 : tout ce qui n’est pas Mélenchon n’est pas la gauche",
       "summary": "HÉGÉMONIE. L’ogre insoumis est en train, méthodiquement, de dévorer les communistes, avant d’engloutir les écologistes. Le candidat PS-Place publique Glucksmann est rejeté vers le centre.",
       "source": "Le JDD",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lejdd.fr/politique/presidentielle-2027-tout-ce-qui-nest-pas-melenchon-nest-pas-la-gauche-188100",
       "published_at": "2026-11-07T22:48:36+00:00",
       "category": "Société",
@@ -594,11 +893,27 @@
       "mention_count": 1
     },
     {
+      "id": "fbad1aa59217",
+      "title": "146 000 manifestants, 360 interpellations (Intérieur) - 07/11",
+      "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "source": "BFMTV",
+      "feed_rank": 6,
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-146-000-manifestants-360-interpellations-interieur-07-11_VN-202611070563.html",
+      "published_at": "2026-11-07T22:44:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « 146 000 manifestants, 360 interpellations (Intérieur) - 07/11 ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "b11df861f58a",
       "title": "Présidentielle 2027 : au Bourget, Mélenchon prône une «libération culturelle»",
-      "summary": "GRAND SOIR. Devant quelque 20 000 sympathisants réunis au Bourget, Jean-Luc Mélenchon a appelé à une « libération culturelle » pour dénoncer le « fascisme » et le « néolibéralisme ». Dans une atmosphère militante, le leader insoumis a multiplié les références à 1789 et rendu hommage à Robespierre.",
+      "summary": "GRAND SOIR. Devant quelque 20 000 sympathisants réunis au Bourget, Jean-Luc Mélenchon a appelé à une « libération culturelle » pour dénoncer le « fascisme » et le « néolibéralisme ». Dans une atmosphère électrique, le leader insoumis a multiplié les références à 1789 et rendu hommage à Robespierre.",
       "source": "Le JDD",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.lejdd.fr/politique/presidentielle-2027-au-bourget-melenchon-prone-une-liberation-culturelle-188094",
       "published_at": "2026-11-07T22:42:02+00:00",
       "category": "Société",
@@ -610,17 +925,49 @@
       "mention_count": 1
     },
     {
-      "id": "0807a6ef7cc8",
-      "title": "Les notes des Bleus après France-Fidji : Dupont le patron, Moefana en bulldozer, Falatea efficace",
-      "summary": "À l’issue de la victoire des Tricolores ce samedi face aux Fidjiens (54-17), retrouvez les notes des joueurs français attribuées par nos spécialistes rugby.",
-      "source": "Le Figaro",
-      "feed_rank": 7,
-      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-fidji-dupont-le-patron-moefana-en-bulldozer-falatea-efficace-20261107",
-      "published_at": "2026-11-07T22:38:22+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Les notes des Bleus après France-Fidji : Dupont le patron, Moefana en bulldozer, Falatea efficace ».",
+      "id": "98b7a080458d",
+      "title": "Budget pour la France: \"Comment vous voulez construire un compromis, quand ceux qui représentent le gouvernement ne sont pas présents ?\", dénonce Dieynaba Diop, porte-parole du PS",
+      "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les…",
+      "source": "BFMTV",
+      "feed_rank": 9,
+      "url": "https://www.bfmtv.com/politique/video-budget-pour-la-france-comment-vous-voulez-construire-un-compromis-quand-ceux-qui-representent-le-gouvernement-ne-sont-pas-presents-denonce-dieynaba-diop-porte-parole-du-ps_VN-202611070552.html",
+      "published_at": "2026-11-07T22:39:21+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget pour la France: \"Comment vous voulez construire un compromis, quand ceux qui représentent le gouvernement ne sont pas présents ?\", dénonce Diey ».",
       "coverage_sources": [
-        "Le Figaro"
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d1115e196263",
+      "title": "Jean-Pierre Farandou, ministre du Travail, déclare à La Tribune Dimanche que \"porter le Smic à 1.700 euros net détruirait plus de 230.000 emplois\"",
+      "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les…",
+      "source": "BFMTV",
+      "feed_rank": 10,
+      "url": "https://www.bfmtv.com/politique/video-jean-pierre-farandou-ministre-du-travail-declare-a-la-tribune-dimanche-que-porter-le-smic-a-1-700-euros-net-detruirait-plus-de-230-000-emplois_VN-202611070550.html",
+      "published_at": "2026-11-07T22:39:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Jean-Pierre Farandou, ministre du Travail, déclare à La Tribune Dimanche que \"porter le Smic à 1.700 euros net détruirait plus de 230.000 emplois\" ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d1fcfe51b1bb",
+      "title": "Manifestations en France ce 7 novembre: \"Les grandes villes ont été émaillées de nombreux incidents\", détaille le ministère de l'Intérieur dans un communiqué",
+      "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les…",
+      "source": "BFMTV",
+      "feed_rank": 11,
+      "url": "https://www.bfmtv.com/politique/video-manifestations-en-france-ce-7-novembre-les-grandes-villes-ont-ete-emaillees-de-nombreux-incidents-detaille-le-ministere-de-l-interieur-dans-un-communique_VN-202611070551.html",
+      "published_at": "2026-11-07T22:38:34+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Manifestations en France ce 7 novembre: \"Les grandes villes ont été émaillées de nombreux incidents\", détaille le ministère de l'Intérieur dans un com ».",
+      "coverage_sources": [
+        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -630,7 +977,7 @@
       "title": "Rugby. Les Bleus écrasent les Fidji, reprennent la tête du Championnat des nations... mais perdent Ntamack",
       "summary": "Le XV de France a bien débuté la deuxième partie du Championnat des nations, en écrasant les Fidji 54-17 à Lyon ce samedi, sous la houlette d'un grand Antoine Dupont. Mais le capitaine a perdu son compère de la charnière Romain Ntamack, sorti blessé.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.ledauphine.com/sport/2026/11/07/le-xv-de-france-de-retour-face-aux-fidji-pour-garder-la-tete-dans-le-championnat-des-nations-suivez-notre-direct",
       "published_at": "2026-11-07T22:30:00+00:00",
       "category": "Sport",
@@ -658,11 +1005,27 @@
       "mention_count": 1
     },
     {
+      "id": "fc65d485367a",
+      "title": "L'assaillant \"fasciné par l'extrême droite\", tirs \"au hasard\", au moins six morts... Ce que l'on sait de la fusillade en Pologne, qualifiée de \"terroriste\" par le Premier ministre",
+      "summary": "Une fusillade s'est produite à Cracovie en Pologne, ce samedi 7 novembre, faisant au moins six morts et 16 personnes blessées. Le tireur a été \"neutralisé\", selon les autorités. À son domicile, trois autres corps ont été retrouvés. Le Premier ministre a qualifié l'attaque \"d'attentat terroriste\".",
+      "source": "BFMTV",
+      "feed_rank": 12,
+      "url": "https://www.bfmtv.com/international/europe/l-assaillant-fascine-par-l-extreme-droite-tirs-au-hasard-au-moins-six-morts-ce-que-l-on-sait-de-la-fusillade-en-pologne-qualifiee-de-terroriste-par-le-premier-ministre_AD-202611070545.html",
+      "published_at": "2026-11-07T22:24:18+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « L'assaillant \"fasciné par l'extrême droite\", tirs \"au hasard\", au moins six morts... Ce que l'on sait de la fusillade en Pologne, qualifiée de \"terror » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "ecb409fe8937",
       "title": "Masters 1000 de Paris. « Je me suis donné à fond » : Luca Van Assche n’a pas de regret après sa défaite en demi-finales",
       "summary": "Battu en demi-finales du Masters 1000 de Paris par Ben Shelton au terme d’une bataille intense, ce samedi 7 novembre, Luca Van Assche a conclu le meilleur tournoi de sa carrière (5-7, 6-3, 6-4). S’il a eu des occasions pour se hisser en finale, le Français de 22 ans demeure satisfait de sa semaine malgré la déception.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/tennis/luca-van-assche/masters-1000-de-paris-je-me-suis-donne-a-fond-luca-van-assche-na-pas-de-regret-apres-sa-defaite-en-demi-finales-174999e2-daf5-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:22:25+00:00",
       "category": "Société",
@@ -694,29 +1057,13 @@
       "title": "Trois soldats tués dans une attaque de drones explosifs en Colombie",
       "summary": "Une base militaire colombienne a été visée par une attaque de drones chargés d’explosifs, dans le nord du pays. Au moins trois soldats ont été tués par les frappes.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/monde/colombie/trois-soldats-tues-dans-une-attaque-de-drones-explosifs-en-colombie-0d1c87d8-daf8-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:21:13+00:00",
       "category": "Société",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Trois soldats tués dans une attaque de drones explosifs en Colombie ».",
       "coverage_sources": [
         "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "146eced52d44",
-      "title": "France-Fidji : Gros, Falatea, Grandidier-Nkanang… Les essais des Bleus en vidéo",
-      "summary": "EN VIDÉO - Découvrez les essais tricolores à l’occasion de la rencontre de Championnat des nations contre les Fidji, ce samedi, au Groupama Stadium.",
-      "source": "Le Figaro",
-      "feed_rank": 10,
-      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-gros-falatea-grandidier-nkanang-les-essais-des-bleus-en-video-20261107",
-      "published_at": "2026-11-07T22:19:04+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Fidji : Gros, Falatea, Grandidier-Nkanang… Les essais des Bleus en vidéo ».",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -742,7 +1089,7 @@
       "title": "Liga. Avec un Kylian Mbappé encore buteur, le Real Madrid gagne à Valence et met la pression sur Barcelone et l’Atlético",
       "summary": "Au terme d’une rencontre marquée par un hommage poignant à Jesus de Miguel, décédé en début de semaine après un effroyable choc en plein match, le Real Madrid s’est facilement imposé sur le terrain de Valence, ce samedi 7 novembre. Kylian Mbappé a marqué pour le septième match de suite avec les Merengues.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/espagne/liga-avec-un-kylian-mbappe-encore-buteur-le-real-madrid-gagne-a-valence-et-met-la-pression-sur-barcelone-et-latletico-024affcc-daf5-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:13:15+00:00",
       "category": "Médias & communication",
@@ -772,31 +1119,15 @@
     {
       "id": "2acca8bca6f3",
       "title": "Route du Rhum. Talent, travail, méthode et réussite… Les ingrédients de la victoire incontestable de Tom Laperche",
-      "summary": "Ce samedi 7 novembre, à 23 h, le skipper de SVR Lazartigue, longeait les côtes de Basse-Terre et n’était plus qu’à quelques milles de l’arrivée. Une victoire éclatante s’offrait au successeur de François Gabart.",
+      "summary": "Ce dimanche 8 novembre, à 0 h 30 h, le skipper de SVR Lazartigue, filait vers la bouée de les côtes de Basse-Terre et n’était plus qu’à quelques milles de l’arrivée. Une victoire éclatante s’offrait au successeur de François Gabart.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-talent-travail-methode-et-reussite-les-ingredients-de-la-victoire-incontestable-de-tom-laperche-7f8bed96-daa7-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T22:10:14+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Route du Rhum. Talent, travail, méthode et réussite… Les ingrédients de la victoire incontestable de Tom Laperche » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bafea8de4bfe",
-      "title": "France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack",
-      "summary": "Une semaine avant d’affronter les redoutables Springboks, le XV de France a lancé sa deuxième partie du Championnat des nations en dominant les Fidjiens, ce samedi, à Lyon. Mais a perdu un nouveau joueur : l’ouvreur toulousain.",
-      "source": "Le Figaro",
-      "feed_rank": 8,
-      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
-      "published_at": "2026-11-07T22:08:39+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Fidji : du travail bien fait par les Bleus, mais la tuile Ntamack ».",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -852,11 +1183,27 @@
       "mention_count": 1
     },
     {
+      "id": "7acf2c3f2c72",
+      "title": "Alain Madelin : \"Un état d'exaspération extraordinaire\" - 07/11",
+      "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "source": "BFMTV",
+      "feed_rank": 13,
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-alain-madelin-un-etat-d-exasperation-extraordinaire-07-11_VN-202611070539.html",
+      "published_at": "2026-11-07T21:59:41+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Alain Madelin : \"Un état d'exaspération extraordinaire\" - 07/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "9e1da5ff4687",
       "title": "Ligue 1. Le PSG s’impose sans briller face à Troyes et consolide sa place de leader avant la trêve internationale",
       "summary": "Le PSG a battu Troyes (1-0), ce samedi 7 novembre, enregistrant ainsi un onzième succès consécutif toutes compétitions confondues. Largement dominateur mais peu inspiré devant le but troyen, le double champion d’Europe consolide néanmoins sa place de leader avant la trêve internationale.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/paris-sg/ligue-1-le-psg-simpose-sans-briller-face-a-troyes-et-consolide-sa-place-de-leader-avant-la-treve-internationale-64e95b44-daf3-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T21:59:13+00:00",
       "category": "Sport",
@@ -907,7 +1254,7 @@
       "title": "Fusillade en Pologne : idéologie d’extrême droite, neuf morts, deuil national… Ce que l’on sait de l’attaque à Cracovie",
       "summary": "Un individu a fait irruption, samedi, à bord de son véhicule sur une place fréquentée de Cracovie et a ouvert le feu sur les passants, tuant au moins six personnes et en blessant une quinzaine d’autres. Trois cadavres ont également été retrouvés au domicile du tireur.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/europe/pologne/fusillade-en-pologne-ideologie-dextreme-droite-neuf-morts-deuil-national-ce-que-lon-sait-de-lattaque-a-cracovie-c475c8a4-daee-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T21:55:02+00:00",
       "category": "Société",
@@ -923,7 +1270,7 @@
       "title": "Crise bancaire au Paraguay : le Président destitué Santiago Peña placé en détention après son inculpation",
       "summary": "Au lendemain de sa destitution, l’ancien président du Paraguay Santiago Peña a été inculpé par la justice après avoir été jugé responsable d’une crise bancaire spectaculaire dans son pays. Il a également été placé en détention préventive.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/monde/paraguay/crise-bancaire-au-paraguay-le-president-destitue-santiago-pena-inculpe-par-la-justice-de-son-pays-7bd9350a-dad9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-07T21:54:53+00:00",
       "category": "Politique",
@@ -937,9 +1284,9 @@
     {
       "id": "a24622bb8db3",
       "title": "Et s'il acceptait la folle proposition de Trump? Une réunion évoquée entre le président des Etats-Unis et Dana White pour le poste de porte-parole de la Maison Blanche",
-      "summary": "Après le message de Donald Trump le suppliant de devenir le nouveau porte-parole de la Maison Blanche, Dana White devrait rencontrer le président des Etats-Unis lundi. Selon TMZ, l'objet de la réunion entre le patron de l'UFC et Trump serait bien cette folle proposition.",
+      "summary": "Après le message de Donald Trump le suppliant de devenir le nouveau porte-parole de la Maison Blanche, Dana White devrait rencontrer le président des Etats-Unis lundi. Selon TMZ, l'objet de la réunion entre le patron de l'UFC et Trump serait bien cette folle proposition. CNN assure cependant que le boss des sports de combat aurait refusé l'offre.",
       "source": "BFMTV",
-      "feed_rank": 2,
+      "feed_rank": 15,
       "url": "https://rmcsport.bfmtv.com/sports-de-combat/mma/ufc/et-s-il-acceptait-la-folle-proposition-de-trump-dana-white-reflechirait-serieusement-a-devenir-porte-parole-de-la-maison-blanche_AV-202611070536.html",
       "published_at": "2026-11-07T21:53:21+00:00",
       "category": "Politique",
@@ -1000,27 +1347,11 @@
       "mention_count": 1
     },
     {
-      "id": "7ddd5bc25505",
-      "title": "Serie A. L’AS Rome revient à un point de la Lazio en tête du Calcio",
-      "summary": "L’AS Rome s’est emparée au moins pour quelques heures de la deuxième place du Championnat d’Italie grâce à son succès face à Sassuolo (3-0), ce samedi 7 novembre.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/sport/football/italie/as-rome/serie-a-las-rome-revient-a-un-point-de-la-lazio-5c8ecb54-daf4-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T21:46:13+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Serie A. L’AS Rome revient à un point de la Lazio en tête du Calcio ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "69307e345696",
       "title": "\"C'est notre fils à tous\": aux obsèques de Pengo Bossio Wangi, tué par un terroriste à Trappes, une foule de proches et anonymes réunis",
       "summary": "Les obsèques de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, se sont déroulées ce samedi. Des centaines de personnes sont venues rendre hommage à ce jeune homme de 26 ans.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/paris/yvelines/c-est-notre-fils-a-tous-aux-obseques-de-pengo-bossio-wangi-tue-par-un-terroriste-a-trappes-une-foule-de-proches-et-anonymes-reunis_AD-202611070532.html",
       "published_at": "2026-11-07T21:42:24+00:00",
       "category": "Société",
@@ -1066,37 +1397,22 @@
       "mention_count": 2
     },
     {
-      "id": "c7af755a66fd",
-      "title": "F1. La grille de départ du Grand Prix du Brésil, avec Lando Norris en pole position et de nombreuses pénalités",
-      "summary": "Sortant vainqueur d’une séance de qualifications dantesques ce samedi 7 novembre, Lando Norris a signé sa troisième pole position de suite au Brésil. Le champion du monde 2025 s’élancera devant Kimi Antonelli, son successeur, lors d’un Grand Prix marqué par de nombreuses pénalités, ce dimanche.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/formule-1/f1-la-grille-de-depart-du-grand-prix-du-bresil-avec-lando-norris-en-pole-position-et-de-nombreuses-penalites-7bb50006-daf0-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-07T21:35:58+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « F1. La grille de départ du Grand Prix du Brésil, avec Lando Norris en pole position et de nombreuses pénalités ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "d304fcbcbd3d",
       "title": "Députés communistes qui soutiennent Jean-Luc Mélenchon: \"Ce n'est pas très élégant ce qu'ils ont fait, il n'y a même pas eu un petit coup de fil\", déclare Fabien Roussel, candidat PCF à la présidentielle",
       "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre. Édouard Philippe (Horizons) a participé à un débat aux Rencontres de l'Avenir dans le Var. Fabien Roussel, candidat PCF à la présidentielle était aussi l'invité de BFMTV ce samedi 7 novembre.",
       "source": "BFMTV",
-      "feed_rank": 7,
+      "feed_rank": 20,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-deputes-communistes-qui-soutiennent-jean-luc-melenchon-ce-n-est-pas-tres-elegant-ce-qu-ils-ont-fait-il-n-y-a-meme-pas-eu-un-petit-coup-de-fil-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070528.html",
       "published_at": "2026-11-07T21:34:50+00:00",
       "category": "Politique",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Députés communistes qui soutiennent Jean-Luc Mélenchon: \"Ce n'est pas très élégant ce qu'ils ont fait, il n'y a même pas eu un petit coup de fil\", déc ».",
       "coverage_sources": [
         "BFMTV",
+        "Libération",
         "LCP"
       ],
-      "coverage_count": 2,
-      "mention_count": 17
+      "coverage_count": 3,
+      "mention_count": 13
     },
     {
       "id": "7a12730cf14b",
@@ -1151,7 +1467,7 @@
       "title": "Marc Garcia (Allotech Inondation) : Allotech Inondation, des panneaux anti-inondation - 07/11",
       "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 7 novembre, Marc Garcia, président fondateur d'Allotech Inondation, s'est penché sur la présentation des panneaux anti-inondation sur mesure, conçus aussi bien pour les habitations que pour les commerces, et qui s’installent en quelques secondes seulement, dans l'émission Paroles d'entreprises présentée par Vincent…",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-marc-garcia-allotech-inondation-allotech-inondation-des-panneaux-anti-inondation-07-11_VN-202611070525.html",
       "published_at": "2026-11-07T21:20:42+00:00",
       "category": "Médias & communication",
@@ -1189,27 +1505,11 @@
       "title": "Résultats Loto FDJ: le tirage du samedi 7 novembre 2026",
       "summary": "Le troisième tirage du Loto de la semaine s'est déroulé ce samedi 7 novembre 2026. Les résultats sont disponibles ci-dessous.",
       "source": "BFMTV",
-      "feed_rank": 10,
+      "feed_rank": 22,
       "url": "https://www.bfmtv.com/loto/resultats-loto-fdj-le-tirage-du-samedi-7-novembre-2026_AN-202611070057.html",
       "published_at": "2026-11-07T21:20:00+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Résultats Loto FDJ: le tirage du samedi 7 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0de303f899df",
-      "title": "Une conférence sociale pour calmer la colère ? - 07/11",
-      "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
-      "source": "BFMTV",
-      "feed_rank": 14,
-      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-une-conference-sociale-pour-calmer-la-colere-07-11_VN-202611070523.html",
-      "published_at": "2026-11-07T21:08:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Une conférence sociale pour calmer la colère ? - 07/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "BFMTV"
       ],
@@ -1370,7 +1670,7 @@
       "title": "Polémique autour du prix de la Liberté 2026, décerné au peuple iranien et remis à Reza Pahlavi",
       "summary": "À Francfort, le Prix de la Liberté 2026 a été décerné, samedi 7 novembre, au peuple iranien. La fondation allemande Friedrich-Naumann a récompensé « les centaines de milliers de personnes qui ont risqué leur vie pour renverser le régime criminel des mollahs ». La distinction a été remise à Reza Pahlavi, le fils du chah d'Iran déchu. Un choix qui pose la…",
       "source": "RFI",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261107-pol%C3%A9mique-autour-du-prix-de-la-libert%C3%A9-2026-d%C3%A9cern%C3%A9-au-peuple-iranien-et-remis-%C3%A0-reza-pahlavi",
       "published_at": "2026-11-07T20:53:48+00:00",
       "category": "Économie",
@@ -1396,26 +1696,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "e1171c44e44f",
-      "title": "« Même si vous ne m’aimez pas » : au Bourget, la démonstration de force de Jean-Luc Mélenchon",
-      "summary": "Devant plus de 20 000 personnes selon les organisateurs, le candidat insoumis a présenté samedi la version actualisée de son programme L'Avenir en commun. Pour espérer battre Marine Le Pen, il compte sur des « causes communes » plutôt que sur des concessions.",
-      "source": "L'Opinion",
-      "feed_rank": 1,
-      "url": "https://www.lopinion.fr/politique/meme-si-vous-ne-maimez-pas-au-bourget-la-demonstration-de-force-de-jean-luc-melenchon",
-      "published_at": "2026-11-07T20:46:18+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Même si vous ne m’aimez pas » : au Bourget, la démonstration de force de Jean-Luc Mélenchon ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Figaro",
-        "L'Opinion",
-        "Libération"
-      ],
-      "coverage_count": 5,
-      "mention_count": 5
     },
     {
       "id": "ae6b271d66de",
@@ -1544,7 +1824,7 @@
       "title": "Mali: plusieurs dizaines de milliers d'orpailleurs expulsés de Guinée pris en charge au Mali",
       "summary": "Plusieurs dizaines de milliers d'orpailleurs expulsés de Guinée sont arrivés au Mali ces derniers jours. Cet afflux massif fait suite aux mesures prises le 2 novembre par Conakry pour mettre fin à l'orpaillage illégal. Les autorités maliennes de transition, avec le soutien de partenaires internationaux, ont mis en place des dispositifs d'urgence pour…",
       "source": "RFI",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.rfi.fr/fr/afrique/20261107-mali-plusieurs-dizaines-de-milliers-d-orpailleurs-expuls%C3%A9s-de-guin%C3%A9e-pris-en-charge-au-mali",
       "published_at": "2026-11-07T20:35:24+00:00",
       "category": "International",
@@ -1576,45 +1856,13 @@
       "title": "Vaucluse. Trentenaire tué à Caumont-sur-Durance : un homme placé en détention provisoire",
       "summary": "Grâce à un gros travail d’investigation de la brigade de recherche d’Avignon, trois femmes et un homme ont été interpellés le 5 novembre vers 7 h du matin à L’Isle-sur-la-Sorgue.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/07/meurtre-a-caumont-sur-durance-un-jeune-homme-place-en-detention-provisoire",
       "published_at": "2026-11-07T20:32:00+00:00",
       "category": "Sciences & tech",
       "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Vaucluse. Trentenaire tué à Caumont-sur-Durance : un homme placé en détention provisoire ».",
       "coverage_sources": [
         "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "f236c8237dbc",
-      "title": "INFO BFMTV. Hauts-de-Seine: un jeune homme en urgence absolue après un rodéo urbain et l'intervention de la police",
-      "summary": "Un jeune homme âgé d'une vingtaine d'années a été grièvement blessé ce samedi à Chaville (Hauts-de-Seine) après un rodéo urbain et l'intervention de la police, a appris BFMTV de sources concordantes. Il aurait percuté une barrière en tentant de fuir les forces de l'ordre, selon une source police.",
-      "source": "BFMTV",
-      "feed_rank": 19,
-      "url": "https://www.bfmtv.com/paris/hauts-de-seine/info-bfm-tv-hauts-de-seine-un-jeune-homme-en-urgence-absolue-apres-un-rodeo-urbain-et-l-intervention-de-la-police_AN-202611070508.html",
-      "published_at": "2026-11-07T20:31:55+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « INFO BFMTV. Hauts-de-Seine: un jeune homme en urgence absolue après un rodéo urbain et l'intervention de la police ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "645cfd832b76",
-      "title": "Crise sociale: \"Est-ce qu'aujourd'hui, le gouvernement aura la capacité de recevoir d'autres personnes que celles qu'il a l'habitude de recevoir ?\", se demande Jérôme Rodrigues, membre du mouvement des Gilets Jaunes",
-      "summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire. Comme les semaines précédentes, \"les préfets ont pris des arrêtés d'interdiction de manifestation dans les…",
-      "source": "BFMTV",
-      "feed_rank": 20,
-      "url": "https://www.bfmtv.com/societe/manifestations/video-crise-sociale-est-ce-qu-aujourd-hui-le-gouvernement-aura-la-capacite-de-recevoir-d-autres-personnes-que-celles-qu-il-a-l-habitude-de-recevoir-se-demande-jerome-rodrigues-membre-du-mouvement-des-gilets-jaunes_VN-202611070507.html",
-      "published_at": "2026-11-07T20:30:13+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Crise sociale: \"Est-ce qu'aujourd'hui, le gouvernement aura la capacité de recevoir d'autres personnes que celles qu'il a l'habitude de recevoir ?\", s ».",
-      "coverage_sources": [
-        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1720,7 +1968,7 @@
       "title": "Walking with J. Les chemins de John Berger",
       "summary": "En 2026, John Berger aurait eu cent ans. L'Expérience rend un hommage mobile à l'écrivain britannique engagé, romancier, nouvelliste, poète, peintre, critique d'art et scénariste : marchons sur ses traces en Haute-Savoie, avec celles et ceux qui ont croisé ses chemins.",
       "source": "France Culture",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/l-experience/walking-with-j-les-chemins-de-john-berger-9315086",
       "published_at": "2026-11-07T20:00:31+00:00",
       "category": "Société",
@@ -1736,7 +1984,7 @@
       "title": "Aquilino Morelle : «Mélenchon joue de cet antiracisme radicalisé, racialiste et extrémiste»",
       "summary": "Pour Aquilino Morelle, Jean-Luc Mélenchon mise sur les fractures françaises et la mobilisation des électeurs issus de l’immigration pour accéder à l’Élysée en 2027. L’ancien conseiller de François Hollande décrypte ce pari électoral et juge une victoire face à Marine Le Pen impossible.",
       "source": "Le JDD",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.lejdd.fr/politique/aquilino-morelle-melenchon-joue-de-cet-antiracisme-radicalise-racialiste-et-extremiste-188058",
       "published_at": "2026-11-07T20:00:06+00:00",
       "category": "Société",
@@ -1933,29 +2181,13 @@
       "title": "La ventriloquie, un art et une technique",
       "summary": "Pendant longtemps on a cru que les ventriloques parlaient avec leur ventre, comme peut le laisser penser l'étymologie du mot. Or, les ventriloques utilisent une technique vocale qui repose sur leur diaphragme, la respiration et leur langue. Un art très ancien qui pourrait remonter à l'Antiquité.",
       "source": "France Culture",
-      "feed_rank": 2,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/l-almanach-de-l-etrange/la-ventriloquie-un-art-et-une-technique-6107306",
       "published_at": "2026-11-07T19:50:00+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La ventriloquie, un art et une technique » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Culture"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "627e4cd3cb75",
-      "title": "Présidentielle 2027: \"Mettre de l'eau dans mon vin? Je ne le ferai pas\", assure Jean-Luc Mélenchon (LFI)",
-      "summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme, samedi 7 novembre. Évacuant les appels à se montrer \"moins clivant\" et les pronostics qui le donnent perdant en cas de second tour de l’élection présidentielle face à Marine Le Pen, Jean-Luc Mélenchon prévient qu’il…",
-      "source": "BFMTV",
-      "feed_rank": 23,
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas-assure-jean-luc-melenchon-lfi_VN-202611070496.html",
-      "published_at": "2026-11-07T19:48:33+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: \"Mettre de l'eau dans mon vin? Je ne le ferai pas\", assure Jean-Luc Mélenchon (LFI) ».",
-      "coverage_sources": [
-        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2045,7 +2277,7 @@
       "title": "États-Unis : vainqueurs des midterms, les démocrates face au casse-tête de 2028",
       "summary": "Les démocrates ont repris les deux chambres du Congrès et conquis des bastions républicains. Mais leur victoire masque de profondes fractures entre gauche radicale des villes et candidats modérés des campagnes. Pour 2028, aucun prétendant ne semble capable de réunir ces deux Amériques.",
       "source": "Le JDD",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.lejdd.fr/International/etats-unis-vainqueurs-des-midterms-les-democrates-face-au-casse-tete-de-2028-188001",
       "published_at": "2026-11-07T19:40:04+00:00",
       "category": "International",
@@ -2061,7 +2293,7 @@
       "title": "Moyen-Orient. En Israël, l’opposition au défi de trouver une coalition",
       "summary": "Sans majorité à la Knesset, l’opposition menée par Gadi Eisenkot doit trouver une majorité pour espérer gouverner. Un exercice d’équilibriste qui nécessite de naviguer entre ses propres lignes rouges et celles de ses alliés potentiels.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.ledauphine.com/politique/2026/11/08/en-israel-l-opposition-au-defi-de-trouver-une-coalition",
       "published_at": "2026-11-07T19:40:00+00:00",
       "category": "International",
@@ -2089,6 +2321,22 @@
       "mention_count": 1
     },
     {
+      "id": "d5de23ea4f45",
+      "title": "20H Haddad du samedi 7 novembre 2026",
+      "summary": "Au sommaire : Colère sociale, cortèges calmes, dispersion tendue à Paris. \"Il faut tout changer\" Jean-Luc Mélenchon dévoile son programme. Frappes massives : l'Ukraine sous le déluge de feu russe.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 24,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-20h-haddad-du-samedi-7-novembre-2026-2474557.html",
+      "published_at": "2026-11-07T19:33:00+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « 20H Haddad du samedi 7 novembre 2026 ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "8581083ecb9c",
       "title": "L’analyse de MHR-LOU : \"Oh pétard qu’ils ont eu chaud\", les Montpelliérains terminent cet interminable bloc en beauté malgré le contenu",
       "summary": "C’était chaud, mais c’est passé. Le Montpellier Hérault Rugby s’est fait bouger par Lyon ce samedi 7 novembre (21-19), lors de la 9e journée de Top 14. Mais à la fin, les hommes de Joan Caudullo enchaînent un...",
@@ -2109,7 +2357,7 @@
       "title": "Émeutes : comment Beauvau mobilise l’arsenal administratif contre l’ultragauche",
       "summary": "Deux télégrammes confidentiels consultés par le JDD détaillent les consignes de Beauvau face aux émeutes : drones, restrictions et couvre-feux envisagés. Une centaine d’activistes d’ultragauche sont soumis à des mesures de surveillance antiterroristes, dont l’usage suscite des recours.",
       "source": "Le JDD",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lejdd.fr/Societe/emeutes-comment-beauvau-mobilise-larsenal-antiterroriste-contre-lultragauche-188082",
       "published_at": "2026-11-07T19:30:07+00:00",
       "category": "Société",
@@ -2125,7 +2373,7 @@
       "title": "Assassinats, enlèvements… Le rapport confidentiel sur la brutalité du crime organisé",
       "summary": "Dans un rapport confidentiel consulté par le JDD, la police judiciaire décrit un crime organisé plus jeune, plus mobile et plus violent. Tueurs recrutés en ligne, rapts suivis de mutilations, magistrats menacés : les réseaux multiplient les méthodes pour s’enrichir et imposer leur loi.",
       "source": "Le JDD",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lejdd.fr/Societe/assassinats-enlevements-le-rapport-confidentiel-sur-la-brutalite-du-crime-organise-188040",
       "published_at": "2026-11-07T19:30:04+00:00",
       "category": "Politique",
@@ -2446,7 +2694,7 @@
       "title": "Emploi : \"On ne recrute pas assez sur les compétences\", comment une mauvaise embauche peut coûter jusqu’à un an de salaire",
       "summary": "Une mauvaise embauche peut coûter très (très) cher à une entreprise. C’est l’un des enseignements de la dernière étude de YouGov pour Indeed. Contacté par TF1info, Eric Gras, spécialiste du marché de l’emploi chez Indeed France, nous explique pourquoi.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/vie-pro/emploi-on-ne-recrute-pas-assez-sur-les-competences-comment-une-mauvaise-embauche-peut-couter-jusqu-a-un-an-de-salaire-2474338.html",
       "published_at": "2026-11-07T19:00:15+00:00",
       "category": "Économie",
@@ -2462,7 +2710,7 @@
       "title": "Consommation. Le chocolat reste cher, malgré la baisse des cours du cacao",
       "summary": "Le chocolat a beaucoup augmenté ces dernières années. Pour ce réveillon 2026-2027, pas de baisse des prix en vue, en raison du décalage dans le temps entre l’achat des fèves et la vente en rayon, ainsi que de la hausse des coûts de production.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.ledauphine.com/economie/2026/11/07/le-chocolat-reste-cher-malgre-la-baisse-des-cours-du-cacao",
       "published_at": "2026-11-07T19:00:00+00:00",
       "category": "Économie",
@@ -2478,7 +2726,7 @@
       "title": "\"Singulières\" ou l'art brut au féminin",
       "summary": "Visible jusqu'au 2 février 2027 au LaM de Lille (Lille Métropole Musée d'art moderne, d'art contemporain et d'art brut, une fascinante exposition explore plus de deux siècles d'Art Brut au féminin.",
       "source": "France Culture",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/mauvais-genres/singulieres-ou-l-art-brut-au-feminin-6847404",
       "published_at": "2026-11-07T19:00:00+00:00",
       "category": "Culture",
@@ -2527,7 +2775,7 @@
       "title": "Espagne. Mort du footballeur Jesus de Miguel : son club s'engage à soutenir financièrement sa fille jusqu'à ses 18 ans",
       "summary": "Victime d’un choc violent avec le gardien du FC Andorra Jesus Owono lundi, lors d’un match de seconde division espagnole, l’avant-centre de Tenerife Jesus de Miguel est décédé mardi matin. Son club s'est engagé à subvenir financièrement aux besoins de la fille de son attaquant jusqu'à ses 18 ans, selon The Athletic.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.ledauphine.com/sport/2026/11/07/mort-du-footballeur-jesus-de-miguel-son-club-s-engage-a-soutenir-financierement-sa-fille-jusqu-a-ses-18-ans",
       "published_at": "2026-11-07T18:52:00+00:00",
       "category": "Sport",
@@ -2559,7 +2807,7 @@
       "title": "L'AVANT-SCENE, émission du samedi 07 novembre 2026",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "France Culture",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/l-avant-scene/l-avant-scene-emission-du-samedi-07-novembre-2026-7467622",
       "published_at": "2026-11-07T18:46:00+00:00",
       "category": "Société",
@@ -2576,7 +2824,7 @@
       "title": "Présidentielle 2027 : pourquoi la campagne s’enlise à six mois du premier tour",
       "summary": "Multiplication des candidatures, primaire incertaine, projets inaudibles : la droite et le centre peinent à mener leur campagne. La crise sociale occupe tout l’espace, au profit de Marine Le Pen, qui se pose en candidate de l’ordre, et de Jean-Luc Mélenchon, qui attise la contestation.",
       "source": "Le JDD",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lejdd.fr/politique/presidentielle-2027-pourquoi-la-campagne-senlise-a-six-mois-du-premier-tour-188067",
       "published_at": "2026-11-07T18:45:05+00:00",
       "category": "Société",
@@ -2624,7 +2872,7 @@
       "title": "Entrepreneurs chrétiens : ces dirigeants qui font vivre leur foi dans l’entreprise",
       "summary": "Réunis à Paris le 5 novembre, les Entrepreneurs et dirigeants chrétiens ont récompensé quatre initiatives au service du bien commun. Pour leur président, Arnaud Guirouvet, ces projets illustrent une ambition : faire vivre sa foi en entreprise, sans renoncer à la performance économique.",
       "source": "Le JDD",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.lejdd.fr/economie/entrepreneurs-chretiens-ces-dirigeants-qui-font-vivre-leur-foi-dans-lentreprise-188025",
       "published_at": "2026-11-07T18:38:56+00:00",
       "category": "Politique",
@@ -2704,7 +2952,7 @@
       "title": "En images. Déguisements insolites, 1500 participants, vainqueurs surprises... Revivez le 42e Marathon des Gorges de l’Ardèche",
       "summary": "Après quelques heures d’incertitude autour de la tenue de l’événement, la 42e édition du Marathon international des Gorges de l’Ardèche a bien eu lieu ce samedi 7 novembre. Près de 1 500 participants ont pris le départ des différentes épreuves dans des conditions idéales.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.ledauphine.com/sport/2026/11/07/deguisements-insolites-1500-participants-vainqueurs-surprises-decouvres-nos-images-du-42e-marathon-des-gorges-de-l-ardeche",
       "published_at": "2026-11-07T18:24:00+00:00",
       "category": "International",
@@ -2759,10 +3007,17 @@
       "category": "Politique",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Avec une nouvelle démonstration de force de Jean-Luc Mélenchon, les insoumis s'y voient déjà ».",
       "coverage_sources": [
-        "France 24"
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24",
+        "Le Figaro",
+        "BFMTV",
+        "L'Obs",
+        "L'Opinion",
+        "Libération"
       ],
-      "coverage_count": 1,
-      "mention_count": 1
+      "coverage_count": 8,
+      "mention_count": 8
     },
     {
       "id": "68006a2e116b",
@@ -2849,29 +3104,13 @@
       "title": "Alertes à la bombe, 11-Novembre à l’école… Les trois infos société de la semaine",
       "summary": "Plus de cinquante vols visés par des alertes à la bombe en Europe, un hommage aux morts pour la France désormais obligatoire à l’école et la mairie de Paris condamnée pour sa promotion de l’euthanasie : le service Société du JDD revient sur les trois actualités à retenir cette semaine.",
       "source": "Le JDD",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lejdd.fr/Societe/alertes-a-la-bombe-11-novembre-a-lecole-les-trois-infos-societe-de-la-semaine-188052",
       "published_at": "2026-11-07T18:10:25+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Alertes à la bombe, 11-Novembre à l’école… Les trois infos société de la semaine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le JDD"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3ae6f3c045e5",
-      "title": "France-Fidji : revivez la large victoire du XV de France face aux Fidjiens, entachée par la blessure de Romain Ntamack",
-      "summary": "Les hommes de Fabien Galthié ont débuté le mois de novembre par une large victoire, samedi, à Décines-Charpieu (54-17). Confronté à une vague de blessure, le sélectionneur devra néanmoins probablement se passer de Ntamack face à l’Afrique du Sud, vendredi.",
-      "source": "Le Monde",
-      "feed_rank": 4,
-      "url": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
-      "published_at": "2026-11-07T18:10:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « France-Fidji : revivez la large victoire du XV de France face aux Fidjiens, entachée par la blessure de Romain Ntamack » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3171,7 +3410,7 @@
       "title": "Dropdead Chaos, metal brûlant",
       "summary": "Pour sa carte blanche dans \"Comme un samedi\", Maxime Chattam invite le groupe de metal français Dropdead Chaos à faire trembler les murs du studio 105 de la Maison de la radio.",
       "source": "France Culture",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi-le-live/dropdead-chaos-metal-brulant-2031496",
       "published_at": "2026-11-07T17:43:00+00:00",
       "category": "Société",
@@ -3187,29 +3426,13 @@
       "title": "JOJ 2026: dans la chaude atmosphère du basket à Dakar",
       "summary": "Les épreuves de basket 3x3 ont débuté depuis le vendredi 6 novembre aux Jeux olympiques de la jeunesse au Sénégal. La ferveur est plus qu’au rendez-vous à Dakar où la foule ne cesse de mettre l’ambiance, l’une des plus belles de ces JOJ.",
       "source": "RFI",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.rfi.fr/fr/sports/20261107-joj-2026-dans-la-chaude-atmosph%C3%A8re-du-basket-%C3%A0-dakar",
       "published_at": "2026-11-07T17:41:42+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « JOJ 2026: dans la chaude atmosphère du basket à Dakar ».",
       "coverage_sources": [
         "RFI"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cb1f5445dcbb",
-      "title": "« Ici est la force » : au Bourget, Mélenchon met sa Nouvelle France au programme",
-      "summary": "Le candidat insoumis et ses lieutenants ont déroulé samedi en meeting en Seine-Saint-Denis le programme présidentiel du mouvement devant vingt mille sympathisants galvanisés par la dynamique autour de la campagne.",
-      "source": "L'Obs",
-      "feed_rank": 2,
-      "url": "https://www.nouvelobs.com/politique/20261107.OBS119939/ici-est-la-force-au-bourget-melenchon-met-sa-nouvelle-france-au-programme.html",
-      "published_at": "2026-11-07T17:39:12+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Ici est la force » : au Bourget, Mélenchon met sa Nouvelle France au programme ».",
-      "coverage_sources": [
-        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3480,7 +3703,7 @@
       "title": "Mercedes confie ses bornes au français Electra… Les cinq infos éco de la semaine",
       "summary": "Partenariat entre Mercedes-Benz et Electra, initiative de Nutriset pour les étudiants, diversification des bureaux de tabac, proposition de l’Institut Montaigne pour soutenir le pouvoir d’achat et nouvelle édition du salon du Made in France… Voici les informations économiques à retenir cette semaine.",
       "source": "Le JDD",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lejdd.fr/economie/mercedes-confie-ses-bornes-au-francais-electra-les-cinq-infos-eco-de-la-semaine-188019",
       "published_at": "2026-11-07T17:17:00+00:00",
       "category": "Économie",
@@ -3512,7 +3735,7 @@
       "title": "Appels à censurer CNews : «La gauche transforme les opinions divergentes en pensée dissidente»",
       "summary": "Les discours de personnalités appelant à la fermeture de CNews et à la mise au ban de ses journalistes s'inscrivent dans la continuité historique d'une gauche persuadée d'incarner le bien absolu par tous les moyens possibles, estime l'historien Jean-François Chemain*.",
       "source": "Le JDD",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.lejdd.fr/Societe/appels-a-censurer-cnews-la-gauche-transforme-les-opinions-divergentes-en-pensee-dissidente-188004",
       "published_at": "2026-11-07T17:15:20+00:00",
       "category": "Médias & communication",
@@ -3560,29 +3783,13 @@
       "title": "Requin, metal et jeu de rôle avec Maxime Chattam",
       "summary": "Cinéma d'horreur, tueurs en série, chant guttural et maître du jeu sont au programme de cette carte blanche enregistrée en public au studio 105 de la Maison de la radio. Saurez-vous trouver la sortie ?",
       "source": "France Culture",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi/comme-un-samedi-emission-du-samedi-07-novembre-2026-1303828",
       "published_at": "2026-11-07T17:10:00+00:00",
       "category": "Culture",
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Requin, metal et jeu de rôle avec Maxime Chattam ».",
       "coverage_sources": [
         "France Culture"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5e224f9eea30",
-      "title": "Témoignages. Infertilité : « Notre parcours pour devenir parents est devenu un véritable combat »",
-      "summary": "Délais d’attente, examens à répétition, traitements éprouvants et espoirs parfois déçus… Le désir d’enfant ne se concrétise pas toujours aussi facilement qu’on l’imagine. Deux femmes racontent leur parcours.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 20,
-      "url": "https://www.ledauphine.com/sante/2026/11/07/infertilite-notre-parcours-pour-devenir-parents-est-devenu-un-veritable-combat",
-      "published_at": "2026-11-07T17:06:00+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Témoignages. Infertilité : « Notre parcours pour devenir parents est devenu un véritable combat » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4045,7 +4252,7 @@
       "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
       "summary": "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire.",
       "source": "Le Monde",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
       "published_at": "2026-11-07T16:30:10+00:00",
       "category": "Sciences & tech",
@@ -4093,7 +4300,7 @@
       "title": "Chez Drouant, un nazi français au menu du Goncourt 2/2 : Surprise au dessert",
       "summary": "En 1953, alors que Marc Augier, alias Saint-Loup, est en lice pour le Goncourt, le passé collaborationniste de cet ancien engagé de la Waffen-SS refait surface. À l’heure du dessert, la surprise est de taille : la police s’invite chez Drouant !",
       "source": "France Culture",
-      "feed_rank": 8,
+      "feed_rank": 11,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-mysteres-des-lieux/surprise-au-dessert-3828305",
       "published_at": "2026-11-07T16:30:00+00:00",
       "category": "Société",
@@ -4223,7 +4430,7 @@
       "title": "Pau : quatre mineurs poursuivis après des tirs de mortier sur des policiers",
       "summary": "Le parquet de Pau a ouvert une information judiciaire contre quatre mineurs placés en garde à vue après avoir blessé quatre policiers jeudi en marge de la mobilisation lycéenne.",
       "source": "Le JDD",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lejdd.fr/Societe/pau-quatre-mineurs-poursuivis-apres-des-tirs-de-mortier-sur-des-policiers-188046",
       "published_at": "2026-11-07T16:10:07+00:00",
       "category": "Société",
@@ -4399,7 +4606,7 @@
       "title": "Edwin Pindi, président du club de football de Troyes : « Même sous pavillon étranger, il y a un vrai respect de l’identité locale »",
       "summary": "Alors que la formation auboise affronte le PSG au Parc des Princes, samedi, en Ligue 1, son dirigeant revient, dans un entretien au « Monde », sur les relations avec son puissant propriétaire, le City Football Group, également à la tête des Skyblues outre-Manche.",
       "source": "Le Monde",
-      "feed_rank": 16,
+      "feed_rank": 14,
       "url": "https://www.lemonde.fr/sport/article/2026/11/07/edwin-pindi-president-du-club-de-football-de-troyes-meme-sous-pavillon-etranger-il-y-a-un-vrai-respect-de-l-identite-locale_6808295_3242.html",
       "published_at": "2026-11-07T16:00:11+00:00",
       "category": "Politique",
@@ -4447,7 +4654,7 @@
       "title": "Chez Drouant, un nazi français au menu du Goncourt 1/2 : Le salon des secrets",
       "summary": "Artistes, écrivains, hommes politiques, cocottes : tout Paris se presse chez Drouant. Mais dans le salon ovale, à l’abri des oreilles indiscrètes, les jurés du Goncourt font et défont les réputations depuis 1914. Certains s’y croient déjà couronnés… et déchantent !",
       "source": "France Culture",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-mysteres-des-lieux/le-salon-des-secrets-8663522",
       "published_at": "2026-11-07T16:00:00+00:00",
       "category": "Politique",
@@ -4703,7 +4910,7 @@
       "title": "Pologne: six morts dans une fusillade à Cracovie, le tireur «fasciné par les idéologies d'extrême droite»",
       "summary": "Une fusillade a éclaté, samedi 7 novembre à Cracovie, la deuxième ville de Pologne. Un homme a ouvert le feu sur la place du marché principal de Cracovie et a tiré au hasard sur des passants. Selon le dernier bilan de la police, au moins six personnes ont été tuées, et on compte une dizaine de blessés. Le tireur a été interpellé. Deux jours de deuil…",
       "source": "RFI",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.rfi.fr/fr/europe/20261107-pologne-fusillade-dans-le-centre-de-cracovie-le-tireur-interpell%C3%A9",
       "published_at": "2026-11-07T15:24:18+00:00",
       "category": "Société",
@@ -5002,7 +5209,7 @@
       "title": "Adam Smith au pouvoir : il n'y a pas que l'argent qui compte",
       "summary": "Et si Adam Smith était bien plus qu'un père du libéralisme économique ? Pour lui, l'économie doit servir la société et s'appuyer sur la sympathie, la justice et le travail. Comment réconcilier aujourd'hui croissance économique et bien commun ?",
       "source": "France Culture",
-      "feed_rank": 10,
+      "feed_rank": 13,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/adam-smith-au-pouvoir-l-economie-au-service-de-la-societe-8386934",
       "published_at": "2026-11-07T15:00:00+00:00",
       "category": "Économie",
@@ -5066,7 +5273,7 @@
       "title": "Union européenne: «Chine, la défaite de l'Occident», de Pierre-Antoine Donnet",
       "summary": "L'Europe est-elle en voie de vassalisation industrielle par la Chine ? Lundi 12 octobre, l'Union européenne a annoncé un accord avec Pékin pour plafonner à 350 000 le nombre de véhicules hybrides importés de Chine chaque année. Le dossier des véhicules hybrides est un des plus sensibles entre l'Union européenne et la Chine. Ces modèles sont devenus l'un…",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 16,
       "url": "https://www.rfi.fr/fr/podcasts/livre-international/20261107-union-europ%C3%A9enne-chine-la-d%C3%A9faite-de-l-occident-de-pierre-antoine-donnet",
       "published_at": "2026-11-07T14:47:02+00:00",
       "category": "Médias & communication",
@@ -5169,198 +5376,6 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Livret A : pourquoi relever le plafond à 30 000 euros fait-il débat ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "154670f47665",
-      "title": "“Il y a un vrai phénomène Jean-Luc Mélenchon. Mais inarrêtable ? Non”",
-      "summary": "Acclamé dans les manifestations, le candidat à la présidentielle de La France insoumise vient de recevoir le soutien de nombreux députés communistes et donne ce samedi une grande assemblée au Bourget. Mais même avec un programme qui résonne avec les aspirations des Français, son jeu politique est dangereux à plusieurs égards, estime Joëlle Meskens,…",
-      "source": "Courrier International",
-      "feed_rank": 4,
-      "url": "https://www.courrierinternational.com/article/entretien-il-y-a-un-vrai-phenomene-jean-luc-melenchon-mais-inarretable-non_285480",
-      "published_at": "2026-11-07T14:26:22+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « “Il y a un vrai phénomène Jean-Luc Mélenchon. Mais inarrêtable ? Non” ».",
-      "coverage_sources": [
-        "Courrier International"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "615e785dc94d",
-      "title": "Brigitte Bardot : sa Mini Moke introuvable à la Madrague, son veuf mis en demeure",
-      "summary": "À la Madrague, la Mini Moke de Brigitte Bardot est introuvable, tout comme des bijoux, des pièces d’or et quelque 30 000 euros en liquide. Le veuf de la vedette, Bernard d’Ormale, a été mis en demeure de restituer le véhicule. La fondation l’accuse d’avoir commencé à vider la demeure.",
-      "source": "Le JDD",
-      "feed_rank": 16,
-      "url": "https://www.lejdd.fr/Societe/brigitte-bardot-sa-mini-moke-introuvable-a-la-madrague-son-veuf-mis-en-demeure-187998",
-      "published_at": "2026-11-07T14:25:32+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Brigitte Bardot : sa Mini Moke introuvable à la Madrague, son veuf mis en demeure » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le JDD"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a0a412a92130",
-      "title": "« Ce voyage devait être maintenu » : en Uruguay, l'accueil triomphal de Léon XIV après son cancer",
-      "summary": "EN IMAGES - Le pape Léon XIV est arrivé en Uruguay vendredi 6 novembre pour une tournée en Amérique latine de 12 jours. Un long voyage auquel le Saint-Père a refusé de renoncer, seulement trois semaines après son opération du poumon et l’annonce de son cancer,",
-      "source": "Paris Match",
-      "feed_rank": 16,
-      "url": "https://www.parismatch.com/voyage-devait-etre-maintenu-en-uruguay-laccueil-triomphal-leon-xiv-apres-lannonce-son-cancer-5lA048KsxbZY2COHF3WZ7d",
-      "published_at": "2026-11-07T14:25:20+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « « Ce voyage devait être maintenu » : en Uruguay, l'accueil triomphal de Léon XIV après son cancer ».",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a16afb84c2a0",
-      "title": "Legs : animaux, recherche médicale… Qui sont les gagnants de la générosité testamentaire ?",
-      "summary": "En moyenne, les libéralités (legs et assurance-vie) représentent 8 % des ressources des associations et fondations. La protection des animaux et la recherche médicale sont les premiers à en bénéficier.",
-      "source": "La Croix",
-      "feed_rank": 10,
-      "url": "https://www.la-croix.com/economie/legs-animaux-recherche-medicale-qui-sont-les-gagnants-de-la-generosite-testamentaire-20261107",
-      "published_at": "2026-11-07T14:25:16+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Legs : animaux, recherche médicale… Qui sont les gagnants de la générosité testamentaire ? ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "93a6d6d32567",
-      "title": "7 000 participants à 14 heures, selon le ministère de l’Intérieur",
-      "summary": "Selon la place Beauvau, 7 000 manifestants participaient à 68 actions, à 14 heures, ce samedi 7 novembre. Des chiffres bien plus bas que ceux annoncés le 17 octobre, date de « l’acte I » - ce jour-là, le ministère annonçait 67 000 manifestants à la même heure. Sur le même thème France, Toulouse, le 29&nbsp;septembre 2026. Des travailleurs issus de…",
-      "source": "L'Humanité",
-      "feed_rank": 15,
-      "url": "https://www.humanite.fr/-/-/7000-participants-a-14-heures-selon-le-ministere-de-linterieur",
-      "published_at": "2026-11-07T14:17:22+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « 7 000 participants à 14 heures, selon le ministère de l’Intérieur ».",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4caf56208882",
-      "title": "À la Concorde, plus de policiers que de gilets jaunes",
-      "summary": "Le dispositif policier place de la Concorde, à Paris, contraste avec le très faible nombre de participants - une trentaine de gilets jaunes, qui ont organisé un sit-in sur la place. Il y a au moins dix fois plus de CRS que de manifestants. Ces derniers, méfiants vis-à-vis des syndicats, avaient voulu marquer leur distance en…",
-      "source": "L'Humanité",
-      "feed_rank": 16,
-      "url": "https://www.humanite.fr/-/-/a-la-concorde-plus-de-policiers-que-de-gilets-jaunes",
-      "published_at": "2026-11-07T14:13:06+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « À la Concorde, plus de policiers que de gilets jaunes ».",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4452a4ce9bfc",
-      "title": "COP31 en Turquie pour répondre à une crise climatique toujours plus dévastatrice",
-      "summary": "Le monde a rendez-vous à partir de lundi en Turquie pour répondre à une crise climatique toujours plus dévastatrice, mais la tâche s'annonce ardue tant les divisions sont nombreuses, sur la géopolitique, la finance ou l'avenir des énergies fossiles.",
-      "source": "France 24",
-      "feed_rank": 19,
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-cop31-en-turquie-pour-r%C3%A9pondre-%C3%A0-une-crise-climatique-toujours-plus-d%C3%A9vastatrice",
-      "published_at": "2026-11-07T14:12:54+00:00",
-      "category": "Environnement",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « COP31 en Turquie pour répondre à une crise climatique toujours plus dévastatrice ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d4a58c73d9ee",
-      "title": "Donald Trump nomme son nouveau conseiller «anti-immigration» à la Maison-Blanche",
-      "summary": "Stephen Miller devient le nouveau directeur de cabinet de Donald Trump. Proche du milliardaire depuis de nombreuses années, il est connu pour ses idées anti-immigration. Après la déroute des élections de mi-mandat, Donald Trump réorganise son staff. Le président des États-Unis a décidé de changer de directeur de cabinet. Stéphane Miller, l’un de ses…",
-      "source": "CNews",
-      "feed_rank": 19,
-      "url": "https://www.cnews.fr/monde/2026-11-07/donald-trump-nomme-son-nouveau-conseiller-anti-immigration-la-maison-blanche",
-      "published_at": "2026-11-07T14:11:47+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Donald Trump nomme son nouveau conseiller «anti-immigration» à la Maison-Blanche ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "34fffbb3434b",
-      "title": "Briançonnais. Barrage de Pont Baldy : 60 ans après sa construction, un ouvrage sous haute surveillance",
-      "summary": "L’ouvrage a 60 ans. Il retient cinq hectares d’eau pour une production annuelle mesurée entre 15 et 18 millions de kWh. Le barrage de Pont Baldy est exploité et entretenu par la société locale Énergie développement services du Briançonnais. Hautement surveillé, l’édifice est « sain ».",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 5,
-      "url": "https://www.ledauphine.com/economie/2026/11/07/barrage-de-pont-baldy-60-ans-apres-sa-construction-un-ouvrage-sous-haute-surveillance",
-      "published_at": "2026-11-07T14:10:00+00:00",
-      "category": "Société",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Briançonnais. Barrage de Pont Baldy : 60 ans après sa construction, un ouvrage sous haute surveillance ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "299bde8bec46",
-      "title": "Pendant des siècles, les marins ont raconté avoir vu cet étrange phénomène en mer : ils disaient vrai !",
-      "summary": "Il apparaît parfois au-dessus de la mer, sous la forme d'un flash aussi intense que furtif. Longtemps pris pour une légende, ce phénomène est bien réel.",
-      "source": "Futura",
-      "feed_rank": 5,
-      "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-pendant-siecles-marins-ont-raconte-avoir-vu-cet-etrange-phenomene-mer-ils-disaient-vrai-139130/#xtor%3DRSS-8",
-      "published_at": "2026-11-07T14:07:54+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pendant des siècles, les marins ont raconté avoir vu cet étrange phénomène en mer : ils disaient vrai ! » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Futura"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "53ed7871031c",
-      "title": "Présidentielle 2027 : Marine Le Pen, Bruno Retailleau, David Lisnard… les Français font plus confiance à des candidats de droite, selon un sondage",
-      "summary": "Dix points séparent Marine Le Pen de son premier poursuivant. À six mois de la présidentielle, la figure du Rassemblement national arrive en tête des personnalités auxquelles les Français font confiance pour affronter les grands défis à venir. Selon cette enquête Ifop réalisée pour les Rencontres de l’avenir et présentée vendredi 6 novembre à…",
-      "source": "Valeurs actuelles",
-      "feed_rank": 9,
-      "url": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-bruno-retailleau-david-lisnard-les-francais-font-plus-confiance-a-des-candidats-de-droite-selon-un-sondage",
-      "published_at": "2026-11-07T14:06:49+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : Marine Le Pen, Bruno Retailleau, David Lisnard… les Français font plus confiance à des candidats de droite, selon un sondage ».",
-      "coverage_sources": [
-        "Valeurs actuelles"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "32e25391470e",
-      "title": "Direct- Manifestation du 7 novembre : « Tout ce que nous voulons, c’est une meilleure vie »",
-      "summary": "Deux jours après une journée de grève et de manifestations très suivie, à l’initiative des syndicats, plusieurs appels ont été lancés pour faire de ce samedi un « acte IV » de la mobilisation contre la vie chère.",
-      "source": "L'Obs",
-      "feed_rank": 9,
-      "url": "https://www.nouvelobs.com/societe/20261107.OBS119929/direct-manifestation-du-7-novembre-tout-ce-que-nous-voulons-c-est-une-meilleure-vie.html",
-      "published_at": "2026-11-07T14:06:17+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Direct- Manifestation du 7 novembre : « Tout ce que nous voulons, c’est une meilleure vie » ».",
-      "coverage_sources": [
-        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
