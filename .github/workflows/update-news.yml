@@ -95,21 +95,16 @@ jobs:
           # Nettoyer le paramètre d'authentification Git avant la suite.
           git config --global --unset-all http.https://github.com/.extraheader || true
 
-          # Auto-chaînage : programmer la prochaine collecte à la prochaine
-          # heure pleine, heure de Paris (Europe/Paris).
+          # Auto-chaînage : programmer une collecte à chaque demi-heure,
+          # sur les heures rondes et les demi-heures (00 et 30), heure de Paris.
+          # L'écart Europe/Paris-UTC étant toujours un nombre entier d'heures,
+          # l'alignement Unix sur 1 800 secondes conserve les créneaux locaux
+          # à :00 et :30, y compris lors des changements d'heure.
           NOW_EPOCH="$(date +%s)"
-          SECONDS_IN_HOUR="$(( NOW_EPOCH % 3600 ))"
-          if [ "$SECONDS_IN_HOUR" -eq 0 ]; then
-            WAIT_SECONDS=0
-          else
-            WAIT_SECONDS="$(( 3600 - SECONDS_IN_HOUR ))"
-          fi
-          if [ "$WAIT_SECONDS" -gt 0 ]; then
-            echo "Prochaine collecte dans ${WAIT_SECONDS} secondes."
-            sleep "$WAIT_SECONDS"
-          else
-            echo "La prochaine heure pleine est atteinte : relance immédiate."
-          fi
+          SECONDS_IN_HALF_HOUR="$(( NOW_EPOCH % 1800 ))"
+          WAIT_SECONDS="$(( 1800 - SECONDS_IN_HALF_HOUR ))"
+          echo "Prochaine collecte dans ${WAIT_SECONDS} secondes (prochain :00 ou :30)."
+          sleep "$WAIT_SECONDS"
 
           echo "Programmation de la prochaine collecte via workflow_dispatch."
           curl --fail --silent --show-error -X POST \
