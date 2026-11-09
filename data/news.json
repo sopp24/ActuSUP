@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-09T23:50:16.124137+00:00",
-  "last_attempt": "2026-11-09T23:50:16.124137+00:00",
+  "last_updated": "2026-11-09T23:55:40.421606+00:00",
+  "last_attempt": "2026-11-09T23:55:40.421606+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 888,
-  "unique_story_count": 783,
+  "unique_story_count": 782,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-10T23:50:16.124137+00:00",
-  "featured_window_end": "2026-11-09T23:50:16.124137+00:00",
+  "featured_window_start": "2026-10-10T23:55:40.421606+00:00",
+  "featured_window_end": "2026-11-09T23:55:40.421606+00:00",
   "featured_pool_count": 885,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
@@ -134,7 +134,7 @@
       ],
       "coverage_count": 15,
       "mention_count": 18,
-      "importance_score": 26.508,
+      "importance_score": 26.507,
       "latest_coverage_at": "2026-11-09T21:35:22+00:00"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 11,
-      "importance_score": 23.319,
+      "importance_score": 23.318,
       "latest_coverage_at": "2026-11-09T23:27:49+00:00"
     },
     {
@@ -412,7 +412,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.848,
+      "importance_score": 16.847,
       "latest_coverage_at": "2026-11-09T20:20:19+00:00"
     },
     {
@@ -456,6 +456,27 @@
       "mention_count": 4,
       "importance_score": 16.369,
       "latest_coverage_at": "2026-11-09T22:14:08+00:00"
+    },
+    {
+      "id": "61077bdb6b05",
+      "title": "Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février",
+      "summary": "Paul Biya, 93 ans et doyen mondial des chefs d’Etat, a été réélu président du Cameroun pour la huitième fois en 2025. Cette dernière élection, contestée par l’opposition, avait été réprimée dans le sang.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html",
+      "published_at": "2026-11-09T22:06:32+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "France 24"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.186,
+      "latest_coverage_at": "2026-11-09T22:06:32+00:00"
     },
     {
       "id": "a169a19873a0",
@@ -518,26 +539,6 @@
       "mention_count": 4,
       "importance_score": 14.69,
       "latest_coverage_at": "2026-11-09T21:35:20+00:00"
-    },
-    {
-      "id": "5ad7e56710b8",
-      "title": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot ?",
-      "summary": "Avec seulement sept députés, Avigdor Liberman tente à nouveau de s'imposer comme le faiseur de roi de la politique israélienne. Le chef d'Israël Beitenou, un parti ultranationaliste membre de la coalition d'opposition, refuse toute inclusion des 19 députés issus des partis arabes dans la formation du prochain gouvernement. Gadi Eisenkot, le leader de…",
-      "source": "France 24",
-      "feed_rank": 11,
-      "url": "https://www.france24.com/fr/moyen-orient/20261109-israel-avigdor-liberman-principal-obstacle-gouvernement-eisenkot-netanyahu",
-      "published_at": "2026-11-09T18:25:37+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot ? ».",
-      "coverage_sources": [
-        "France 24",
-        "RFI",
-        "L'Opinion"
-      ],
-      "coverage_count": 3,
-      "mention_count": 4,
-      "importance_score": 14.67,
-      "latest_coverage_at": "2026-11-09T18:25:37+00:00"
     }
   ],
   "articles": [
@@ -1484,10 +1485,11 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
+        "Le Monde",
         "France 24"
       ],
-      "coverage_count": 3,
-      "mention_count": 3
+      "coverage_count": 4,
+      "mention_count": 4
     },
     {
       "id": "f98f308bac85",
@@ -3499,22 +3501,6 @@
       "mention_count": 1
     },
     {
-      "id": "33a27acc59f5",
-      "title": "Le maire de Fréjus, David Rachline, interdit la chasse et le foie gras et suscite l’ire du RN",
-      "summary": "L’ancien numéro trois du Rassemblement national, écarté des instances dirigeantes, promeut dans sa ville le végétarisme et un autre choix que le foie gras. Une atteinte à « l’art de vivre à la française », selon certains élus d’extrême droite.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/09/le-maire-de-frejus-david-rachline-interdit-la-chasse-et-le-foie-gras-et-suscite-l-ire-du-rn_6808696_823448.html",
-      "published_at": "2026-11-09T19:00:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Le maire de Fréjus, David Rachline, interdit la chasse et le foie gras et suscite l’ire du RN » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "a64fc5ff1942",
       "title": "« L'avenir en commun » de Jean-Luc Mélenchon, un programme de crise européenne",
       "summary": "Si elles étaient appliquées, les mesures du programme de la France insoumise pourraient mettre la France au ban de l'UE",
@@ -5386,6 +5372,22 @@
       "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « «Une seconde avant Noël», la comédie musicale à voir en famille aux Folies Bergère dès le 11 décembre ».",
       "coverage_sources": [
         "CNews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b8409694edd9",
+      "title": "Les auteurs du futur seront-ils des IA ?",
+      "summary": "Et si votre livre préféré de l’année était écrit par une intelligence artificielle ? C’est ce qui aurait pu arriver avec le livre de Thélyson Orélien, \"C’était ça ou mourir\", dont l’écriture avec l’IA a été confirmée par son éditeur.",
+      "source": "France Culture",
+      "feed_rank": 4,
+      "url": "https://www.radiofrance.fr/franceculture/les-auteurs-du-futur-seront-ils-des-ia-7485880",
+      "published_at": "2026-11-09T17:24:44+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Les auteurs du futur seront-ils des IA ? ».",
+      "coverage_sources": [
+        "France Culture"
       ],
       "coverage_count": 1,
       "mention_count": 1
