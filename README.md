@@ -8,7 +8,7 @@ Site statique responsive conçu pour GitHub Pages. Le site affiche des articles 
 - Résumé RSS, média d’origine, date et lien vers l’article.
 - Angle « Pourquoi c’est important en communication ».
 - Baromètre des 20 sujets les plus couverts sur les 30 derniers jours.
-- Collecte automatique en chaîne toutes les dix minutes via GitHub Actions, avec lancement manuel possible.
+- Collecte automatique toutes les 30 minutes (à `:00` et `:30`, heure de Paris) via la planification native GitHub Actions, avec lancement manuel possible.
 - Heure de la dernière collecte affichée en heure de Paris.
 - Icônes de site, de signet mobile et manifeste web.
 
