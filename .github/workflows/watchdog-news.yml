@@ -11,7 +11,8 @@ on:
 
   # Vérification de secours indépendante de la fin du collecteur.
   schedule:
-    - cron: "0 * * * *"
+    # Décalé de 7 minutes pour éviter le pic de charge du début d'heure.
+    - cron: "7 * * * *"
       timezone: "Europe/Paris"
 
   # Réagir à la fin d’une collecte et relancer uniquement les échecs.
@@ -114,8 +115,8 @@ jobs:
             SUCCESS_AGE=999999
           fi
 
-          # Le collecteur peut attendre la prochaine heure pleine. Au-delà de
-          # 78 minutes, une exécution est considérée comme bloquée (timeout : 80 min).
+          # La collecte est limitée à 25 minutes. Au-delà de 26 minutes,
+          # une exécution encore active est considérée comme bloquée.
           ACTIVE="$(printf '%s' "${RUNS}" | jq -c \
             '[.workflow_runs[] | select(.status == "in_progress" or .status == "queued")][0] // empty')"
 
@@ -125,7 +126,7 @@ jobs:
             ACTIVE_TS="$(date -u -d "${ACTIVE_TIME}" +%s)"
             ACTIVE_AGE="$((NOW - ACTIVE_TS))"
 
-            if [ "${ACTIVE_AGE}" -lt 4680 ]; then
+            if [ "${ACTIVE_AGE}" -lt 1560 ]; then
               echo "Collecte active depuis ${ACTIVE_AGE} secondes : on la laisse terminer."
               exit 0
             fi
