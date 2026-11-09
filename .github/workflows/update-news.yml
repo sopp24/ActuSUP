@@ -8,7 +8,11 @@ on:
       - "fetch_news.py"
       - "requirements.txt"
   schedule:
-    - cron: "0,30 * * * *"
+    # Une exécution au début de chaque heure.
+    - cron: "0 * * * *"
+      timezone: "Europe/Paris"
+    # Une seconde exécution à la demi-heure.
+    - cron: "30 * * * *"
       timezone: "Europe/Paris"
   workflow_dispatch:
 
