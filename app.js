@@ -283,7 +283,7 @@ function renderFeatured(data) {
     const sources = Number(data.featured_sources_count || 0);
     featuredMeta.textContent = stories.length
       ? `${stories.length} sujets retenus parmi ${pool} articles récents · ${sources} sources suivies`
-      : "En attente des articles de la dernière semaine";
+      : "En attente des articles du mois";
   }
   if (featuredEmpty) featuredEmpty.hidden = stories.length > 0;
   stories.forEach((story, index) => {
@@ -460,7 +460,7 @@ if (featuredToggle && featuredDetails) {
     const expanded = featuredToggle.getAttribute("aria-expanded") !== "true";
     featuredToggle.setAttribute("aria-expanded", String(expanded));
     featuredDetails.hidden = !expanded;
-    featuredToggle.textContent = expanded ? "Masquer les 20 actus de la semaine" : "Voir les 20 actus de la semaine";
+    featuredToggle.textContent = expanded ? "Masquer les 20 actus du mois" : "Voir les 20 actus du mois";
   });
 }
 document.querySelectorAll(".category-chip").forEach(button => button.addEventListener("click", () => setCategory(button.dataset.category)));
