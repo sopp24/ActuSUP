@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-09T03:00:20.788836+00:00",
-  "last_attempt": "2026-11-09T03:00:20.788836+00:00",
+  "last_updated": "2026-11-09T04:00:19.275133+00:00",
+  "last_attempt": "2026-11-09T04:00:19.275133+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 883,
-  "unique_story_count": 757,
+  "unique_story_count": 756,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-09T03:00:20.788836+00:00",
-  "featured_window_end": "2026-11-09T03:00:20.788836+00:00",
+  "featured_window_start": "2026-10-09T04:00:19.275133+00:00",
+  "featured_window_end": "2026-11-09T04:00:19.275133+00:00",
   "featured_pool_count": 882,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
     {
-      "id": "b8c4e467d1da",
-      "title": "États-Unis : Son ami du MMA porte-parole de la Maison-Blanche ? Une blague, avoue Trump",
-      "summary": "<p>Qui sera le prochain ou la prochaine porte-parole de la Maison-Blanche ? Le mystère reste entier. Car si <a href=\"https://www.20minutes.fr/monde/etats-unis/4261229-20261108-trump-veut-patron-mma-comme-porte-parole-maison-blanche\">Dana White tenait jusqu’à présent la corde</a>, Donald Trump a semblé dimanche avoir changé d’avis.</p><p>Le président des…",
+      "id": "ade55311c785",
+      "title": "La pétition appelant à fermer CNews passe la barre du million de signatures",
+      "summary": "<p>À deux jours d’un vote de députés sur le classement sans suite ou l’examen de cette demande, <a href=\"https://www.20minutes.fr/arts-stars/medias/4259653-20261102-cnews-plus-500-000-signatures-petition-suppression-chaine-chances-aboutir\">la pétition appelant à « supprimer CNews de l’audiovisuel français »</a> continue de prendre de l’ampleur. Elle a en…",
       "source": "20 Minutes",
       "feed_rank": 1,
-      "url": "https://www.20minutes.fr/monde/etats-unis/4261385-20261109-etats-unis-ami-mma-porte-parole-maison-blanche-blague-avoue-trump?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-09T02:55:45+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « États-Unis : Son ami du MMA porte-parole de la Maison-Blanche ? Une blague, avoue Trump ».",
+      "url": "https://www.20minutes.fr/politique/assemblee_nationale/4261386-20261109-petition-appelant-fermer-cnews-passe-barre-million-signatures?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-09T03:47:26+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « La pétition appelant à fermer CNews passe la barre du million de signatures ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -67,9 +67,9 @@
         "Télérama"
       ],
       "coverage_count": 35,
-      "mention_count": 199,
-      "importance_score": 36.205,
-      "latest_coverage_at": "2026-11-09T02:55:45+00:00"
+      "mention_count": 202,
+      "importance_score": 36.238,
+      "latest_coverage_at": "2026-11-09T03:47:26+00:00"
     },
     {
       "id": "efc43fa5aff6",
@@ -106,7 +106,7 @@
       ],
       "coverage_count": 21,
       "mention_count": 27,
-      "importance_score": 29.108,
+      "importance_score": 29.1,
       "latest_coverage_at": "2026-11-08T22:07:19+00:00"
     },
     {
@@ -114,7 +114,7 @@
       "title": "Route du Rhum. La Team Banque-Populaire a lancé l’opération de récupération du voilier d’Armel Le Cléac’h",
       "summary": "Armel Le Cléac’h avait chaviré mercredi 4 novembre. Secouru par un cargo panaméen, il est désormais attendu aux États-Unis. En attendant, l’opération de récupération du voilier a déjà été lancée par la Team Banque-Populaire.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-la-team-banque-populaire-a-lance-loperation-de-recuperation-du-voilier-darmel-le-cleach-45e3077c-dbb6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:50:02+00:00",
       "category": "Économie",
@@ -134,7 +134,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 14,
-      "importance_score": 23.917,
+      "importance_score": 23.881,
       "latest_coverage_at": "2026-11-08T21:50:02+00:00"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.729,
+      "importance_score": 23.718,
       "latest_coverage_at": "2026-11-08T20:13:01+00:00"
     },
     {
@@ -170,7 +170,7 @@
       "title": "Au moins 35 morts au Sénégal dans le naufrage d’une pirogue de migrants",
       "summary": "Le naufrage d’une pirogue au large du Sénégal a causé la mort d’au moins 35 personnes selon les secouristes. Le bilan est toutefois provisoire et pourrait s’alourdir.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/monde/senegal/au-moins-35-morts-au-senegal-dans-le-naufrage-dune-pirogue-de-migrants-e28aea26-dbc6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T23:17:20+00:00",
       "category": "Société",
@@ -189,7 +189,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 10,
-      "importance_score": 22.805,
+      "importance_score": 22.77,
       "latest_coverage_at": "2026-11-08T23:17:20+00:00"
     },
     {
@@ -197,7 +197,7 @@
       "title": "Tennis. La Tchèque Noskova bat Kostyuk pour le premier match du Masters WTA",
       "summary": "La Tchèque Linda Noskova, lauréate de Wimbledon cette année, a battu dimanche 8 novembre, l’Ukrainienne Marta Kostyuk 6-2, 6-4, pour le premier match du Masters WTA, à Indian Wells (Californie).",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/tennis/tennis-la-tcheque-noskova-bat-kostyuk-pour-le-premier-match-du-masters-wta-3506b888-dbc3-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T22:31:30+00:00",
       "category": "Sport",
@@ -215,7 +215,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 21.915,
+      "importance_score": 21.897,
       "latest_coverage_at": "2026-11-08T22:31:30+00:00"
     },
     {
@@ -223,7 +223,7 @@
       "title": "Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
       "summary": "<p>Samedi, à Évry-Courcouronnes, Farida Amrani a été victime d’une « attaque » qu’elle juge « d’une extrême gravité ». La députée <a href=\"https://www.20minutes.fr/politique/france-insoumise/\">LFI</a> de l’Essonne a en effet été légèrement blessée par un tir de mortier dans un salon de coiffure.</p><p>Une enquête a été ouverte pour violences volontaires…",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/societe/4261366-20261109-essonne-deputee-lfi-blessee-tir-mortier-salon-coiffure?at_medium=display&at_campaign=149",
       "published_at": "2026-11-09T00:15:27+00:00",
       "category": "Société",
@@ -240,32 +240,8 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.178,
+      "importance_score": 21.17,
       "latest_coverage_at": "2026-11-09T00:15:27+00:00"
-    },
-    {
-      "id": "e096a65c8418",
-      "title": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées",
-      "summary": "Dans la bande de Gaza, déjà confrontée aux bombardements et à une situation humanitaire catastrophique, les habitants ont également dû faire face à des inondations, ce week-end du 7-8 novembre. Des pluies torrentielles se sont abattues sur le territoire palestinien, affectant 70 000 personnes vivant sous des tentes, selon les autorités locales.",
-      "source": "RFI",
-      "feed_rank": 1,
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261108-gaza-des-pluies-torrentielles-inondent-les-camps-de-d%C3%A9plac%C3%A9s-70-000-personnes-affect%C3%A9es",
-      "published_at": "2026-11-08T21:36:26+00:00",
-      "category": "Environnement",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "RFI",
-        "Euronews",
-        "Ouest-France",
-        "Midi Libre",
-        "Paris Match"
-      ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.158,
-      "latest_coverage_at": "2026-11-08T21:41:20+00:00"
     },
     {
       "id": "7e607df575d0",
@@ -287,7 +263,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.355,
+      "importance_score": 19.299,
       "latest_coverage_at": "2026-11-08T21:24:55+00:00"
     },
     {
@@ -310,7 +286,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 8,
-      "importance_score": 19.288,
+      "importance_score": 19.286,
       "latest_coverage_at": "2026-11-08T19:45:20+00:00"
     },
     {
@@ -332,7 +308,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.518,
+      "importance_score": 18.476,
       "latest_coverage_at": "2026-11-09T01:55:13+00:00"
     },
     {
@@ -354,7 +330,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 8,
-      "importance_score": 18.368,
+      "importance_score": 18.353,
       "latest_coverage_at": "2026-11-08T21:47:39+00:00"
     },
     {
@@ -376,7 +352,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.58,
+      "importance_score": 17.568,
       "latest_coverage_at": "2026-11-08T19:57:25+00:00"
     },
     {
@@ -397,8 +373,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 17.052,
+      "importance_score": 17.049,
       "latest_coverage_at": "2026-11-08T22:42:30+00:00"
+    },
+    {
+      "id": "bfe04ea47a93",
+      "title": "Retraite par capitalisation : \"Il faut un dispositif simple, transparent et compréhensible\"",
+      "summary": "Selon l’économiste américain Paul Krugman, prix Nobel d’économie en 2008, la défiance des investisseurs étrangers à l’égard de la France - qui se traduit par une hausse de ses taux d’emprunt sur les marchés - serait liée à « une incapacité persistante à regarder en face la réalité des retraites ». Parler d’une incapacité à réformer le système actuel…",
+      "source": "L'Express",
+      "feed_rank": 9,
+      "url": "https://www.lexpress.fr/argent/retraite-par-capitalisation-il-faut-un-dispositif-simple-transparent-et-comprehensible-XQX56VPVMRGAVAF4BQCC3Z5764/",
+      "published_at": "2026-11-08T09:30:00+00:00",
+      "category": "Société",
+      "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Retraite par capitalisation : \"Il faut un dispositif simple, transparent et compréhensible\" ».",
+      "coverage_sources": [
+        "L'Express",
+        "LCP",
+        "Public Sénat",
+        "Next.ink"
+      ],
+      "coverage_count": 4,
+      "mention_count": 7,
+      "importance_score": 16.848,
+      "latest_coverage_at": "2026-11-08T09:30:00+00:00"
     },
     {
       "id": "e1da0e98b4b8",
@@ -417,28 +414,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.328,
+      "importance_score": 15.325,
       "latest_coverage_at": "2026-11-08T22:34:34+00:00"
-    },
-    {
-      "id": "bfe04ea47a93",
-      "title": "Retraite par capitalisation : \"Il faut un dispositif simple, transparent et compréhensible\"",
-      "summary": "Selon l’économiste américain Paul Krugman, prix Nobel d’économie en 2008, la défiance des investisseurs étrangers à l’égard de la France - qui se traduit par une hausse de ses taux d’emprunt sur les marchés - serait liée à « une incapacité persistante à regarder en face la réalité des retraites ». Parler d’une incapacité à réformer le système actuel…",
-      "source": "L'Express",
-      "feed_rank": 9,
-      "url": "https://www.lexpress.fr/argent/retraite-par-capitalisation-il-faut-un-dispositif-simple-transparent-et-comprehensible-XQX56VPVMRGAVAF4BQCC3Z5764/",
-      "published_at": "2026-11-08T09:30:00+00:00",
-      "category": "Société",
-      "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Retraite par capitalisation : \"Il faut un dispositif simple, transparent et compréhensible\" ».",
-      "coverage_sources": [
-        "L'Express",
-        "LCP",
-        "Public Sénat"
-      ],
-      "coverage_count": 3,
-      "mention_count": 6,
-      "importance_score": 15.14,
-      "latest_coverage_at": "2026-11-08T09:30:00+00:00"
     },
     {
       "id": "fb280a19d5a0",
@@ -457,15 +434,35 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.808,
+      "importance_score": 14.805,
       "latest_coverage_at": "2026-11-08T21:39:41+00:00"
+    },
+    {
+      "id": "e096a65c8418",
+      "title": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées",
+      "summary": "Dans la bande de Gaza, déjà confrontée aux bombardements et à une situation humanitaire catastrophique, les habitants ont également dû faire face à des inondations, ce week-end du 7-8 novembre. Des pluies torrentielles se sont abattues sur le territoire palestinien, affectant 70 000 personnes vivant sous des tentes, selon les autorités locales.",
+      "source": "RFI",
+      "feed_rank": 1,
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261108-gaza-des-pluies-torrentielles-inondent-les-camps-de-d%C3%A9plac%C3%A9s-70-000-personnes-affect%C3%A9es",
+      "published_at": "2026-11-08T21:36:26+00:00",
+      "category": "Environnement",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "RFI"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.386,
+      "latest_coverage_at": "2026-11-08T21:36:26+00:00"
     },
     {
       "id": "d4d0dacc2272",
       "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 25 octobre 2026, au 1.718 jour du conflit.</p><h2>Le fait du jour</h2><p>Les Européens et la France seront bel et bien présents lors des…",
       "source": "20 Minutes",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:16:22+00:00",
       "category": "International",
@@ -477,7 +474,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.34,
+      "importance_score": 14.315,
       "latest_coverage_at": "2026-11-08T18:16:22+00:00"
     },
     {
@@ -497,37 +494,133 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.223,
+      "importance_score": 14.205,
       "latest_coverage_at": "2026-11-08T17:00:00+00:00"
     },
     {
-      "id": "cd7e72ba049e",
-      "title": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic",
-      "summary": "Le but est de \"traquer les cargaisons, grâce à des outils comme l'intelligence artificielle\", a expliqué dimanche le ministre des Affaires étrangères, Jean-Noël Barrot.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 23,
-      "url": "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-08T14:21:07+00:00",
+      "id": "037e7329de9b",
+      "title": "Brésil : dix morts, dont cinq enfants, après la chute d'une voiture surchargée dans un lac",
+      "summary": "Le gouvernement de l'État de Rio de Janeiro a confirmé la mort de dix personnes, dont cinq enfants. Selon la presse brésilienne, un bébé figure également parmi les victimes.",
+      "source": "Euronews",
+      "feed_rank": 3,
+      "url": "https://fr.euronews.com/2026/11/08/bresil-dix-morts-dont-cinq-enfants-apres-la-chute-dune-voiture-surchargee-dans-un-lac",
+      "published_at": "2026-11-08T17:59:49+00:00",
       "category": "Politique",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic ».",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Brésil : dix morts, dont cinq enfants, après la chute d'une voiture surchargée dans un lac ».",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "20 Minutes"
+        "Euronews",
+        "Midi Libre",
+        "Paris Match"
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 13.758,
-      "latest_coverage_at": "2026-11-08T14:21:07+00:00"
+      "importance_score": 14.193,
+      "latest_coverage_at": "2026-11-08T17:59:49+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "1928585e322b",
+      "title": "Seedtag déploie le ciblage neuro-contextuel",
+      "summary": "Seedtag déploie le ciblage neuro-contextuel Seedtag déploie le ciblage neuro-contextuel echaronnat lun 09/11/2026 - 05:00 Business Date parution Le 09 novembre 2026 à 12:00",
+      "source": "CB News",
+      "feed_rank": 1,
+      "url": "https://www.cbnews.fr/lq6793966c/seedtag-deploie-le-ciblage-neuro-contextuel.html",
+      "published_at": "2026-11-09T04:00:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Seedtag déploie le ciblage neuro-contextuel » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "CB News"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "642fb737d9f8",
+      "title": "Israël : chargé de former un gouvernement “d’urgence nationale”, Eisenkot tend la main à Nétanyahou et à ses alliés",
+      "summary": "Arrivé deuxième aux législatives du 27 octobre mais soutenu théoriquement par une majorité de députés, l’ancien chef d’état-major dispose de quatre semaines pour réunir 61 sièges, au prix d’alliances contradictoires.",
+      "source": "Courrier International",
+      "feed_rank": 1,
+      "url": "https://www.courrierinternational.com/article/politique-israel-charge-de-former-un-gouvernement-d-urgence-nationale-eisenkot-tend-la-main-a-netanyahou-et-a-ses-allies_285915",
+      "published_at": "2026-11-09T03:32:48+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Israël : chargé de former un gouvernement “d’urgence nationale”, Eisenkot tend la main à Nétanyahou et à ses alliés ».",
+      "coverage_sources": [
+        "Courrier International"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b7d8d4bc68c7",
+      "title": "MediaReach, un tournant dans la mesure cross-vidéo",
+      "summary": "MediaReach, un tournant dans la mesure cross-vidéo MediaReach, un tournant dans la mesure cross-vidéo echaronnat lun 09/11/2026 - 04:30 Business Date parution Le 09 novembre 2026 à 12:00",
+      "source": "CB News",
+      "feed_rank": 2,
+      "url": "https://www.cbnews.fr/lq6780817c/mediareach-un-tournant-dans-la-mesure-cross-video.html",
+      "published_at": "2026-11-09T03:30:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « MediaReach, un tournant dans la mesure cross-vidéo » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "CB News"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6fcd9b7971b1",
+      "title": "Vidéo. Souvenons-nous, en 1938, la « nuit de Cristal » marquait le début de la Shoah",
+      "summary": "ÉPHÉMÉRIDE DU 9 NOVEMBRE – Voici tout ce qu’il faut savoir pour bien commencer la journée… Aujourd’hui, on fête les Théodore.",
+      "source": "Sud Ouest",
+      "feed_rank": 1,
+      "url": "https://www.sudouest.fr/redaction/ephemeride/video-souvenons-nous-en-1938-la-nuit-de-cristal-marquait-le-debut-de-la-shoah-31292889.php",
+      "published_at": "2026-11-09T03:30:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Vidéo. Souvenons-nous, en 1938, la « nuit de Cristal » marquait le début de la Shoah » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Sud Ouest"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "74e701b77203",
+      "title": "De provocateur star à gourou déchu condamné pour viol : Russell Brand fixé sur sa peine lundi",
+      "summary": "Humoriste et animateur vedette ayant bâti sa célébrité sur la provocation, reconverti en gourou complotiste avant d’être rattrapé par la justice, le Britannique Russell Brand va être fixé ce lundi sur sa peine après avoir été reconnu coupable de viol et d’agressions sexuelles au Royaume-Uni.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/europe/royaume-uni/de-provocateur-star-a-gourou-dechu-condamne-pour-viol-russell-brand-fixe-sur-sa-peine-lundi-96ad422a-dbc1-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-09T03:18:02+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « De provocateur star à gourou déchu condamné pour viol : Russell Brand fixé sur sa peine lundi ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "16c86706ab1f",
+      "title": "Petite supplique en noir et blanc",
+      "summary": "Dans sa chronique, Alain Rémond cherche à comprendre pourquoi notre monde se détériore au point de nous priver du bonheur simple de vivre pleinement chaque nouvelle journée. Mais la rencontre au Vatican entre Bob Dylan et le pape ravive chez lui l’espoir d’un message inspirant pour le monde.",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/a-vif/petite-supplique-en-noir-et-blanc-20261106",
+      "published_at": "2026-11-09T03:00:15+00:00",
+      "category": "International",
+      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Petite supplique en noir et blanc » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "La Croix"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "0ae514a687a3",
       "title": "Dossier audio - Novembre 2026",
       "summary": "Dossier audio - Novembre 2026 Anonyme (non vérifié) lun 09/11/2026 - 04:00 Dossier audio - Novembre 2026 Date parution Le 09 novembre 2026 à 12:00 Date de création mer 28/10/2026 - 21:06 Cover story Corps Radio, podcasts, podcasts vidéo, audio digital... Le marché de l'audio fait face à de véritables enjeux et défis dans un environnement en pleine…",
       "source": "CB News",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.cbnews.fr/lq6821780c/dossier-audio-novembre-2026.html",
       "published_at": "2026-11-09T03:00:03+00:00",
       "category": "Environnement",
@@ -543,7 +636,7 @@
       "title": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
       "summary": "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre les Etats-Unis et la Chine. La firme a lancé une enquête interne.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 6,
       "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
       "published_at": "2026-11-09T02:21:10+00:00",
       "category": "Économie",
@@ -575,7 +668,7 @@
       "title": "Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens»",
       "summary": "Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens» Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens» echaronnat lun 09/11/2026 - 03:00 Business Date parution Le 09 novembre 2026 à 12:00",
       "source": "CB News",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.cbnews.fr/lq6792631c/edouard-schmidt-magnite-2027-lannee-du-programmatique-pour-les-home-screens.html",
       "published_at": "2026-11-09T02:00:02+00:00",
       "category": "Société",
@@ -607,7 +700,7 @@
       "title": "Smic, Parcoursup… Lecornu au front pour tenter de calmer la colère sociale",
       "summary": "<p>À moins de<a href=\"https://www.20minutes.fr/politique/4260946-20261107-presidentielle-2027-disent-derniers-sondages-cinq-mois-premier-tour\"> six mois de la présidentielle</a>, les manifestations continuent de s’enchaîner en France. La colère sociale est vive face notamment à la hausse des prix des carburants dans le sillage de <a…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 2,
       "url": "https://www.20minutes.fr/politique/4261380-20261109-smic-parcoursup-lecornu-front-tenter-calmer-colere-sociale?at_medium=display&at_campaign=149",
       "published_at": "2026-11-09T01:44:47+00:00",
       "category": "Politique",
@@ -639,7 +732,7 @@
       "title": "Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
       "summary": "<p>Samedi, à Évry-Courcouronnes, Farida Amrani a été victime d’une « attaque » qu’elle juge « d’une extrême gravité ». La députée <a href=\"https://www.20minutes.fr/politique/france-insoumise/\">LFI</a> de l’Essonne a en effet été légèrement blessée par un tir de mortier dans un salon de coiffure.</p><p>Une enquête a été ouverte pour violences volontaires…",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/societe/4261366-20261109-essonne-deputee-lfi-blessee-tir-mortier-salon-coiffure?at_medium=display&at_campaign=149",
       "published_at": "2026-11-09T00:15:27+00:00",
       "category": "Société",
@@ -667,7 +760,24 @@
       "category": "Politique",
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Colombie : l'ex-président Petro accusé d'avoir accordé des contrats en échange de relations sexuelles » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "Le Figaro"
+        "Le Figaro",
+        "Ouest-France"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "20836620e334",
+      "title": "Ligue 1 : Marseille s’impose à Lens et signe une cinquième victoire consécutive, les Sang et Or s’enfoncent dans la crise",
+      "summary": "Dans les autres matchs de dimanche, Lille a conforté sa place de dauphin au classement grâce à son succès contre Rennes (2-1). Lyon, totalement inoffensif, a chuté à Brest (2-0), en très grande forme.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/09/ligue-1-marseille-s-impose-a-lens-et-signe-une-cinquieme-victoire-consecutive-les-sang-et-or-s-enfoncent-dans-la-crise_6808498_3242.html",
+      "published_at": "2026-11-09T00:02:55+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue 1 : Marseille s’impose à Lens et signe une cinquième victoire consécutive, les Sang et Or s’enfoncent dans la crise ».",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -677,7 +787,7 @@
       "title": "Face à Javier Milei, le pape appelle à mettre « l’économie au service de la personne » et à « chercher des compromis »",
       "summary": "Lors de sa visite en Argentine le pape Léon XIV a plaidé pour une économie au service de la personne et a appelé les dirigeants à observer « le soin apporté à la parole » dans la vie publique et à la « recherche patiente de compromis », prenant ainsi le contrepied du président ultralibéral Javier Milei.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/societe/religions/pape-leon-xiv/face-a-javier-milei-le-pape-appelle-a-mettre-leconomie-au-service-de-la-personne-et-a-chercher-des-compromis-1a71d70e-dbc4-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T23:54:53+00:00",
       "category": "Politique",
@@ -917,7 +1027,7 @@
       "title": "Liga. Avec un doublé de Fermin Lopez, le FC Barcelone s’impose face à l’Atlético de Madrid et reprend la tête de la Liga",
       "summary": "Grâce à deux buts de Fermin Lopez, le FC Barcelone s’est offert le choc du week-end en Liga face à l’Atlético de Madrid (1-2). Il reprend ainsi trois points d’avance sur le Real Madrid en tête du championnat.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/football/espagne/fc-barcelone/liga-le-fc-barcelone-simpose-face-a-latletico-de-madrid-et-reprend-les-commandes-de-la-liga-038536cc-dbbe-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T22:32:07+00:00",
       "category": "Sport",
@@ -933,7 +1043,7 @@
       "title": "Tennis. La Tchèque Noskova bat Kostyuk pour le premier match du Masters WTA",
       "summary": "La Tchèque Linda Noskova, lauréate de Wimbledon cette année, a battu dimanche 8 novembre, l’Ukrainienne Marta Kostyuk 6-2, 6-4, pour le premier match du Masters WTA, à Indian Wells (Californie).",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/tennis/tennis-la-tcheque-noskova-bat-kostyuk-pour-le-premier-match-du-masters-wta-3506b888-dbc3-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T22:31:30+00:00",
       "category": "Sport",
@@ -965,7 +1075,7 @@
       "title": "« Vous êtes la honte… » : le RC Lens n’est pas parvenu à faire oublier l’affront de Côme contre l’OM",
       "summary": "Le RC Lens espérait rebondir après sa déroute historique face à Côme (1-9) en Ligue des champions, ce dimanche 8 novembre, mais les Sang et Or ont subi une nouvelle défaite, face à Marseille (1-2), devant leur public qui avait sorti les banderoles. « Plus jamais ça », a aussi prévenu leur président Joseph Oughourlian qui a fait écrire ces mots dans les…",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/rc-lens/vous-etes-la-honte-le-rc-lens-nest-pas-parvenu-a-faire-oublier-laffront-de-come-contre-lom-4e99aa14-dbbc-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T22:23:47+00:00",
       "category": "Politique",
@@ -981,7 +1091,7 @@
       "title": "Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6",
       "summary": "Longtemps bousculée par une équipe bayonnaise accrocheuse, La Rochelle a fini par trouver l’ouverture grâce au jeune Sacha Elissalde, décisif pour offrir l’essai de la victoire à Jules Favre. Succès précieux (22-18) pour les Maritimes qui reviennent à une longueur seulement des places qualificatives ce dimanche 8 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/rugby/top-14/stade-rochelais/top-14-la-rochelle-sarrache-face-a-bayonne-et-entrevoit-de-nouveau-le-top-6-ac147a7a-dbc1-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T22:20:53+00:00",
       "category": "Société",
@@ -1097,7 +1207,7 @@
       "title": "Un homme meurt après une intervention de la gendarmerie dans la Meuse",
       "summary": "Un homme armé d’un sabre est décédé à son domicile après avoir agressé un gendarme et essuyé des tirs des forces de l’ordre",
       "source": "Sud Ouest",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.sudouest.fr/faits-divers/un-homme-meurt-apres-une-intervention-de-la-gendarmerie-dans-la-meuse-31451556.php",
       "published_at": "2026-11-08T21:57:42+00:00",
       "category": "Société",
@@ -1145,7 +1255,7 @@
       "title": "Route du Rhum. La Team Banque-Populaire a lancé l’opération de récupération du voilier d’Armel Le Cléac’h",
       "summary": "Armel Le Cléac’h avait chaviré mercredi 4 novembre. Secouru par un cargo panaméen, il est désormais attendu aux États-Unis. En attendant, l’opération de récupération du voilier a déjà été lancée par la Team Banque-Populaire.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-la-team-banque-populaire-a-lance-loperation-de-recuperation-du-voilier-darmel-le-cleach-45e3077c-dbb6-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:50:02+00:00",
       "category": "Économie",
@@ -1161,7 +1271,7 @@
       "title": "Tennis de table. Pro B : Nantes inflige une correction au co-leader caennais",
       "summary": "Dans un match où Caen arrivait clairement en favori, le Nantes TT a réussi un exploit majuscule et se remet la tête à l’endroit. En l’emportant 3-1 face au co-leader, ce dimanche 8 novembre, les Nantais ont montré leur vrai visage et prouvent qu’ils ont un effectif taillé pour la première partie du classement.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/tennis-de-table/nantes-tt/tennis-de-table-pro-b-nantes-inflige-une-correction-au-co-leader-caennais-9aa28d78-dbbb-11f1-a04a-6776b5256c5b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-08T21:48:03+00:00",
       "category": "Sport",
@@ -1204,13 +1314,12 @@
         "RFI",
         "Courrier International",
         "Euronews",
-        "L'Obs",
         "20 Minutes",
         "La Dépêche du Midi",
         "Paris Match"
       ],
-      "coverage_count": 8,
-      "mention_count": 9
+      "coverage_count": 7,
+      "mention_count": 8
     },
     {
       "id": "bc740387d86d",
@@ -1224,38 +1333,6 @@
       "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Le Mans-Monaco: \"Un ami m’a conseillé\", Coulibaly justifie sa célébration \"étranglement\", qui avait coûté cher à son coéquipier » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "755cc9ef1933",
-      "title": "Premier League. William Saliba a rejoué ce dimanche avec les U21 d’Arsenal, retour imminent avec l’équipe première",
-      "summary": "Le défenseur de l’équipe de France, qui n’avait pas rejoué depuis la demi-finale de Coupe du monde perdue par la France cet été contre l’Espagne, a fait son retour sur les terrains ce dimanche, aux côtés des U21 d’Arsenal. Il ne devrait plus tarder à retrouver l’équipe première.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/sport/football/angleterre/arsenal/premier-league-william-saliba-a-rejoue-ce-dimanche-avec-les-u21-darsenal-retour-imminent-avec-lequipe-premiere-b4352bbc-dbb9-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T21:42:41+00:00",
-      "category": "International",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Premier League. William Saliba a rejoué ce dimanche avec les U21 d’Arsenal, retour imminent avec l’équipe première ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ed00068358ef",
-      "title": "Cinq morts à Gaza à la suite de pluies diluviennes",
-      "summary": "D’importantes pluies ont touché l’enclave palestinienne au cours des deux derniers jours, causant la mort d’au moins cinq personnes dont trois enfants.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/monde/gaza/cinq-morts-a-gaza-a-la-suite-de-pluies-diluviennes-2d5bc388-dbbb-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T21:41:20+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Cinq morts à Gaza à la suite de pluies diluviennes ».",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1330,7 +1407,7 @@
       "title": "Pétition contre Cnews : plus d’un million de personnes ont déjà signé l’appel à fermer la chaîne de télévision",
       "summary": "Une pétition qui réclame le retrait de la chaîne CNews de l’audiovisuel français connaît une forte accélération avant un vote décisif des députés",
       "source": "Sud Ouest",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.sudouest.fr/politique/petition-contre-cnews-plus-d-un-million-de-personnes-ont-deja-signe-l-appel-a-fermer-la-chaine-de-television-31451427.php",
       "published_at": "2026-11-08T21:33:10+00:00",
       "category": "Politique",
@@ -1426,7 +1503,7 @@
       "title": "« C’est un caprice de gosse » : à Cergy, la mobilisation s’organise contre le projet de parcs d’attractions d’Emmanuel Macron et du prince héritier saoudien",
       "summary": "Des dizaines de défenseurs de l’environnement se sont rassemblés dans le Val-d’Oise pour dénoncer un mégaprojet de parcs à thème jugé inutile et néfaste pour le territoire",
       "source": "Sud Ouest",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.sudouest.fr/politique/emmanuel-macron/c-est-un-caprice-de-gosse-a-cergy-la-mobilisation-s-organise-contre-le-projet-de-parcs-d-attractions-d-emmanuel-macron-et-du-prince-heritier-saoudien-31451311.php",
       "published_at": "2026-11-08T21:21:35+00:00",
       "category": "Société",
@@ -1549,11 +1626,12 @@
         "Le Monde",
         "France 24",
         "Le Figaro",
+        "20 Minutes",
         "LCP",
         "Le Dauphiné Libéré"
       ],
-      "coverage_count": 7,
-      "mention_count": 7
+      "coverage_count": 8,
+      "mention_count": 8
     },
     {
       "id": "a0c4df29a56b",
@@ -1664,6 +1742,22 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Le témoignage sur BFMTV d'un commerçant qui a contacté l'un des individus ayant cambriolé son commerce le 17 octobre ».",
       "coverage_sources": [
         "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d2ea4e2c7194",
+      "title": "« Supprimer CNews » : qui est Lucas Massoni, l’initiateur de la pétition qui a franchi le million de signataires ?",
+      "summary": "Sa pétition, qui pointe les nombreux manquements de la chaîne à ses engagements et appelle l’Arcom à lui retirer sa fréquence TNT, a franchi le million de signataires. Auprès du « Nouvel Obs », ce consultant indépendant retrace le parcours du texte et défend sa démarche.",
+      "source": "L'Obs",
+      "feed_rank": 1,
+      "url": "https://www.nouvelobs.com/medias/20261108.OBS119971/supprimer-cnews-qui-est-lucas-massoni-l-initiateur-de-la-petition-qui-a-franchi-le-million-de-signataires.html",
+      "published_at": "2026-11-08T20:53:24+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Supprimer CNews » : qui est Lucas Massoni, l’initiateur de la pétition qui a franchi le million de signataires ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1837,7 +1931,7 @@
       "title": "Le pape Léon XIV arrive en Argentine, où l’Église conteste l’austérité du président Javier Milei",
       "summary": "Le souverain pontife entame une visite de quatre jours en Argentine où l’Église catholique conteste fermement la politique économique du président ultralibéral",
       "source": "Sud Ouest",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.sudouest.fr/international/le-pape-arrive-en-argentine-ou-l-eglise-conteste-l-austerite-de-milei-31450805.php",
       "published_at": "2026-11-08T20:36:36+00:00",
       "category": "Politique",
@@ -2174,7 +2268,7 @@
       "title": "Éditorial : C’est l’effet papillon",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "Sud Ouest",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.sudouest.fr/redaction/editorial/editorial-c-est-l-effet-papillon-31448669.php",
       "published_at": "2026-11-08T19:57:44+00:00",
       "category": "Société",
@@ -2223,7 +2317,7 @@
       "title": "Présidentielle 2027 : Wauquiez pour un seul candidat, Roussel candidat malgré les départs et Glucksmann balance sur 2024",
       "summary": "<p>Vous avez passé un bon dimanche ? On se réjouit pour vous, nous, on a suivi les émissions politiques du jour, lu les pages politiques des quotidiens… Bref, on a scruté les petites phrases, les faits et les gestes de la présidentielle 2027. Voici ce qu’il faut retenir à 161 jours du 18 avril 2027, date du premier tour.</p><h2>Le plot twist du…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.20minutes.fr/politique/4261353-20261108-presidentielle-2027-wauquiez-seul-candidat-roussel-candidat-malgre-departs-glucksmann-balance-2024?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T19:54:44+00:00",
       "category": "Culture",
@@ -2931,6 +3025,22 @@
       "mention_count": 10
     },
     {
+      "id": "3c5883caf1d0",
+      "title": "Céline Martelet, reporter : « C’est la première fois que je suis frappée par un homme, un policier, en France »",
+      "summary": "Jeudi 5 novembre à Nation, deux journalistes ont été prises pour cible lors d’une charge policière à la fin de la manifestation lycéenne.",
+      "source": "L'Obs",
+      "feed_rank": 2,
+      "url": "https://www.nouvelobs.com/social/20261108.OBS119970/celine-martelet-reporter-c-est-la-premiere-fois-que-je-suis-frappee-par-un-homme-un-policier-en-france.html",
+      "published_at": "2026-11-08T18:30:10+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Céline Martelet, reporter : « C’est la première fois que je suis frappée par un homme, un policier, en France » ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "2a00f5416267",
       "title": "Sébastien Lecornu à la manœuvre d’une conférence sociale incertaine",
       "summary": "DÉCRYPTAGE - La colère sociale qui agite le pays à moins de six mois de l’élection présidentielle est difficile à manier pour l’exécutif.",
@@ -3079,7 +3189,7 @@
       "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 25 octobre 2026, au 1.718 jour du conflit.</p><h2>Le fait du jour</h2><p>Les Européens et la France seront bel et bien présents lors des…",
       "source": "20 Minutes",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:16:22+00:00",
       "category": "International",
@@ -3159,7 +3269,7 @@
       "title": "Lens-OM : Abdallah replonge les Lensois dans la déprime, Marseille ne s'arrête plus...Le match à revivre en direct",
       "summary": "L'OM s'est imposé au finish face à des Lensois qui concluent leur semaine de l'horreur par une nouvelle déconvenue (2-1)",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/sport/football/4261272-20261108-direct-lens-om-apres-9-buts-encaisses-c1-sang-or-doivent-revanche-public?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:02:36+00:00",
       "category": "Sport",
@@ -3214,22 +3324,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « De Lenny Kravitz à Khloé Kardashian en passant par le « No Nut November »… L’abstinence sexuelle a-t-elle des vertus ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0161ccbd0bca",
-      "title": "Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire »",
-      "summary": "Soutenu par les syndicats et porté par une revendication d’inclusion, le mouvement lycéen est le signe qu’une génération entière s’érige en sujet politique, analyse le chercheur dans un entretien au « Monde ».",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
-      "published_at": "2026-11-08T18:00:11+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire » ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3415,7 +3509,7 @@
       "title": "Afrique du Sud : l’ANC enregistre le pire score électoral de son histoire aux municipales",
       "summary": "Le Congrès national africain s’effondre à 30,76 % des voix lors des élections municipales, ouvrant la voie à de complexes négociations de coalition dans les grandes villes du pays",
       "source": "Sud Ouest",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.sudouest.fr/international/afrique-du-sud-l-anc-enregistre-le-pire-score-electoral-de-son-histoire-aux-municipales-31448087.php",
       "published_at": "2026-11-08T17:44:23+00:00",
       "category": "Politique",
@@ -3513,7 +3607,7 @@
       "title": "Israël, un possible tournant démocratique",
       "summary": "Gadi Eizenkot a été désigné dimanche 8 novembre pour former un nouveau gouvernement en Israël. Il devra décider s’il s’appuie sur les partis arabes, qui ont dix-neuf élus à la Knesset. Cela marquerait une rupture avec l’idéologie du suprémacisme juif, qui a proliféré avec la précédente majorité.",
       "source": "La Croix",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.la-croix.com/international/israel-un-possible-tournant-democratique-20261108",
       "published_at": "2026-11-08T17:35:10+00:00",
       "category": "Politique",
@@ -3755,7 +3849,7 @@
       "title": "Au moins quatre morts et des dizaines de blessés dans une collision entre deux trains",
       "summary": "Une collision ferroviaire au sud du Caire a fait au moins quatre morts et 88 blessés, relançant le débat sur la sécurité du réseau ferré égyptien",
       "source": "Sud Ouest",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.sudouest.fr/international/au-moins-quatre-morts-et-des-dizaines-de-blesses-dans-une-collision-entre-deux-trains-31447261.php",
       "published_at": "2026-11-08T17:15:54+00:00",
       "category": "Société",
@@ -3771,7 +3865,7 @@
       "title": "À La France insoumise, la « révolution citoyenne » à l’épreuve du réel",
       "summary": "Porté par des sondages favorables, le mouvement de Jean-Luc Mélenchon se projette déjà vers le pouvoir et promet une « révolution citoyenne ». Mais derrière cette ambition, son fonctionnement interne et son rapport aux institutions interrogent.",
       "source": "La Croix",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.la-croix.com/politique/a-la-france-insoumise-la-revolution-citoyenne-a-l-epreuve-du-reel-20261108",
       "published_at": "2026-11-08T17:15:38+00:00",
       "category": "Société",
@@ -3867,7 +3961,7 @@
       "title": "Midterms 2026 aux États-Unis : qu’est-ce que le « Millennial optimism » ravivé par la victoire démocrate ?",
       "summary": "Après la victoire des démocrates au Congrès, la jeune génération américaine oscille entre nostalgie optimiste et exigences concrètes pour l’avenir",
       "source": "Sud Ouest",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.sudouest.fr/etudiant/midterms-2026-aux-etats-unis-qu-est-ce-que-le-millennial-optimism-ravive-par-la-victoire-democrate-31445782.php",
       "published_at": "2026-11-08T17:11:55+00:00",
       "category": "International",
@@ -3975,6 +4069,22 @@
       "mention_count": 1
     },
     {
+      "id": "24885e9af4a3",
+      "title": "Attentat meurtrier en Pologne, mouvement social en France, meeting de Mélenchon... Cinq infos à retenir du week-end",
+      "summary": "Vous n’avez pas suivi l’actualité de ce week-end des 7 et 8 novembre ? « Le Nouvel Obs » vous a préparé une séance de rattrapage.",
+      "source": "L'Obs",
+      "feed_rank": 3,
+      "url": "https://www.nouvelobs.com/monde/20261108.OBS119969/attentat-meurtrier-en-pologne-mouvement-social-en-france-meeting-de-melenchon-cinq-infos-a-retenir-du-week-end.html",
+      "published_at": "2026-11-08T17:04:41+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Attentat meurtrier en Pologne, mouvement social en France, meeting de Mélenchon... Cinq infos à retenir du week-end ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "1c2635407b31",
       "title": "Tennis: Carlos Alcaraz impérial en finale du Rolex Paris Masters face à Ben Shelton",
       "summary": "Le numéro 2 mondial Carlos Alcaraz a remporté ce dimanche 8 novembre le Rolex Paris Masters pour la première fois de sa riche carrière en battant en finale l’Américain Ben Shelton 7-6 (7-5), 7-5. L’Espagnol fait le plein de confiance avant le début des ATP Finals de Turin qui débute dans une semaine.",
@@ -4037,6 +4147,22 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre en Ukraine : comment la Russie arrive à transformer en quelques semaines des champs vides en base de lancement pour tirer une centaine de drone ».",
       "coverage_sources": [
         "La Dépêche du Midi"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "8281200300d8",
+      "title": "« Au nom des enfants perdus » : un combat malheureusement sans fin",
+      "summary": "Ce poignant documentaire revient sur le combat du journaliste Alexis Danan pour dénoncer les mauvais traitements infligés aux enfants dans les maisons de correction en France dans les années 1930. Ce soir à 22h50 sur France 5.",
+      "source": "L'Obs",
+      "feed_rank": 4,
+      "url": "https://www.nouvelobs.com/teleobs/20261108.OBS119968/au-nom-des-enfants-perdus-un-combat-malheureusement-sans-fin.html",
+      "published_at": "2026-11-08T17:00:04+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « « Au nom des enfants perdus » : un combat malheureusement sans fin ».",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4126,7 +4252,7 @@
       "title": "Léon XIV en Argentine : l’Église catholique, principal contre-pouvoir à la politique ultralibérale de Javier Milei",
       "summary": "Dans le cadre de son voyage en Amérique latine, du 6 au 17 novembre 2026, Léon XIV arrive en Argentine dimanche 8 novembre. L’Église catholique y émerge comme l’une des principales forces d’opposition à la politique d’austérité de Javier Milei.",
       "source": "La Croix",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.la-croix.com/religion/leon-xiv-en-argentine-l-eglise-catholique-principal-contre-pouvoir-a-la-politique-ultraliberale-de-javier-milei-20261108",
       "published_at": "2026-11-08T16:59:50+00:00",
       "category": "Politique",
@@ -4174,7 +4300,7 @@
       "title": "Vainqueur de la Route du Rhum, Tom Laperche a rejoint “le paradis des marins solitaires”",
       "summary": "Âgé de 29 ans, le Breton a remporté la célèbre course transatlantique, qu’il a bouclée en un temps record à bord de son trimaran SVR-Lazartigue, samedi 7 novembre, à l’arrivée en Guadeloupe. La presse étrangère applaudit ce “petit prodige”.",
       "source": "Courrier International",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.courrierinternational.com/article/voile-vainqueur-de-la-route-du-rhum-tom-laperche-a-rejoint-le-paradis-des-marins-solitaires_285783",
       "published_at": "2026-11-08T16:57:50+00:00",
       "category": "Société",
@@ -4206,7 +4332,7 @@
       "title": "Carlos Alcaraz a désormais tout gagné à Paris, Shelton n’a rien pu faire en finale",
       "summary": "<p>C&#x27;était presque écrit d’avance, dès lors qu’il était parvenu <a href=\"https://www.20minutes.fr/sport/tennis/4261098-20261107-masters-1000-paris-balles-match-sauvees-points-fou-comment-carlos-alcaraz-encore-revenu-enfer\">à renverser Taylor Fritz</a> un peu miraculeusement en quarts de finale. L’Espagnol <a…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/sport/tennis/4261303-20261108-carlos-alcaraz-desormais-tout-gagne-paris-shelton-rien-pu-faire-finale?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T16:54:23+00:00",
       "category": "Société",
@@ -4261,6 +4387,22 @@
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Domicile d'un policier incendié à Auch : Marine Le Pen et Eric Ciotti expriment leur indignation ».",
       "coverage_sources": [
         "CNews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2758303c2eab",
+      "title": "« Les Pleins Pouvoirs » : Clint Eastwood et Gene Hackman dans un duel sans merci",
+      "summary": "Sous les apparences d’un polar classique, le cinéaste interroge la morale des puissants et signe quelques séquences d’une beauté remarquable. Ce soir à 21h sur Arte et disponible à la demande sur Arte.tv.",
+      "source": "L'Obs",
+      "feed_rank": 5,
+      "url": "https://www.nouvelobs.com/teleobs/20261108.OBS119967/les-pleins-pouvoirs-clint-eastwood-et-gene-hackman-dans-un-duel-sans-merci.html",
+      "published_at": "2026-11-08T16:45:05+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Les Pleins Pouvoirs » : Clint Eastwood et Gene Hackman dans un duel sans merci » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4330,6 +4472,22 @@
       "mention_count": 1
     },
     {
+      "id": "87f87aadd6da",
+      "title": "« Israël a besoin d’un gouvernement stable » : le leader de l’opposition Gadi Eisenkot a désormais 28 jours pour former une coalition",
+      "summary": "Après de longues négociations, Gadi Eisenkot, chef du bloc de l’opposition à Benjamin Netanyahou, va disposer de 28 jours pour former un gouvernement. Quelle alliance pourra-t-il former ?",
+      "source": "L'Obs",
+      "feed_rank": 24,
+      "url": "https://www.nouvelobs.com/monde/20261108.OBS119948/deux-semaines-apres-les-legislatives-en-israel-le-leader-de-l-opposition-charge-de-former-un-gouvernement.html",
+      "published_at": "2026-11-08T16:37:27+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Israël a besoin d’un gouvernement stable » : le leader de l’opposition Gadi Eisenkot a désormais 28 jours pour former une coalition ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "c6315afad8c3",
       "title": "« C'est la mort qui va nous séparer » : Sophie Marceau au chevet de son premier amour, elle confie son émotion",
       "summary": "Invitée de l'émission « Sept à huit » de ce dimanche 8 novembre, l'actrice Sophie Marceau est revenue en toute transparence sur sa longue et parfois douloureuse relation amoureuse avec le réalisateur Andrzej Żuławski.",
@@ -4350,7 +4508,7 @@
       "title": "Le pape en Uruguay : Léon XIV aux sources latino-américaines de son pontificat",
       "summary": "En Uruguay du 6 au 8 novembre pour la première étape de son voyage en Amérique latine, le pape a parlé du peuple, des pauvres et de la mission, les mots d’un continent qui a façonné le pontificat de François.",
       "source": "La Croix",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.la-croix.com/religion/le-pape-en-uruguay-leon-xiv-aux-sources-latino-americaines-de-son-pontificat-20261108",
       "published_at": "2026-11-08T16:33:32+00:00",
       "category": "Société",
@@ -4398,7 +4556,7 @@
       "title": "« Novembre » : Jean Dujardin au cœur d’une enquête sous haute tension",
       "summary": "Cédric Jimenez restitue l’enquête menée après les attentats de Paris avec une efficacité redoutable, sans céder au spectaculaire. Ce soir à 21h10 sur France 2 et disponible à la demande sur France.tv.",
       "source": "L'Obs",
-      "feed_rank": 1,
+      "feed_rank": 6,
       "url": "https://www.nouvelobs.com/teleobs/20261108.OBS119966/novembre-jean-dujardin-au-c-ur-d-une-enquete-sous-haute-tension.html",
       "published_at": "2026-11-08T16:30:10+00:00",
       "category": "Société",
@@ -4414,7 +4572,7 @@
       "title": "Nématode du pin dans les Landes : “La stratégie de lutte que nous poursuivons est celle de l’éradication, désormais sans coupe rase »",
       "summary": "Alors que la cour européenne effectue un audit dans le massif sur la gestion des foyers de nématode du pin en France, Virginie Alavoine, directrice de la Draaf Nouvelle-Aquitaine revient sur la stratégie",
       "source": "Sud Ouest",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.sudouest.fr/economie/eco-et-entreprises/nematode-du-pin-la-strategie-de-lutte-que-nous-poursuivons-est-celle-de-l-eradication-desormais-sans-coupe-rase-30664377.php",
       "published_at": "2026-11-08T16:30:00+00:00",
       "category": "Société",
@@ -4510,7 +4668,7 @@
       "title": "El Nino : comment le phénomène climatique menace l’agriculture et la sécurité alimentaire",
       "summary": "Sécheresses, inondations… Si le pic de ce phénomène cyclique naturel n’est pas encore atteint, les aléas climatiques qu’il génère se répercutent déjà sur les récoltes et les cheptels. Selon le Programme alimentaire mondial, 49 millions de personnes pourraient glisser dans l’insécurité alimentaire.",
       "source": "La Croix",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.la-croix.com/planete/el-nino-comment-le-phenomene-climatique-menace-l-agriculture-et-la-securite-alimentaire-20261108",
       "published_at": "2026-11-08T16:20:50+00:00",
       "category": "Environnement",
@@ -4526,7 +4684,7 @@
       "title": "“Finie la complaisance” : avec les partisans du PiS autour du Tribunal constitutionnel polonais",
       "summary": "Depuis plusieurs semaines, des sympathisants du président nationaliste Karol Nawrocki campent devant le Tribunal constitutionnel, qu’ils estiment menacé par le gouvernement de Donald Tusk. Le week-end dernier, des échauffourées ont éclaté. Quelques jours plus tard, le journal libéral “Gazeta Wyborcza” est retourné sur place.",
       "source": "Courrier International",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.courrierinternational.com/article/reportage-finie-la-complaisance-avec-les-partisans-du-pis-autour-du-tribunal-constitutionnel-polonais_285464",
       "published_at": "2026-11-08T16:20:37+00:00",
       "category": "Politique",
@@ -4623,7 +4781,7 @@
       "title": "Lucie, 34 ans : « Le management toxique que j’ai subi a finalement eu un effet positif sur ma vie »",
       "summary": "En écho à la 3e édition de « Faut qu’on parle », qui propose aux Français de rencontrer un voisin qui ne pense pas comme eux, Lucie (1), 34 ans, raconte comment un management toxique et un conflit de valeurs avec son entreprise l’ont conduite à changer de métier.",
       "source": "La Croix",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.la-croix.com/culture/lucie-34-ans-le-management-toxique-que-j-ai-subi-a-finalement-eu-un-effet-positif-sur-ma-vie-20261108",
       "published_at": "2026-11-08T16:10:32+00:00",
       "category": "Économie",
@@ -4655,29 +4813,13 @@
       "title": "Gilets jaunes : les deux chefs de file interpellés samedi sont sortis libres de garde à vue",
       "summary": "Benjamin Ball, membre de la coordination des gilets jaunes et la porte-parole du mouvement Azelma Sigaux, interpellés samedi devant l’Assemblée nationale, sont sortis libres ce dimanche",
       "source": "Sud Ouest",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.sudouest.fr/societe/gilets-jaunes-les-deux-chefs-de-file-interpelles-samedi-sont-sortis-libres-de-garde-a-vue-31445114.php",
       "published_at": "2026-11-08T16:06:59+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Gilets jaunes : les deux chefs de file interpellés samedi sont sortis libres de garde à vue » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "c3a580220269",
-      "title": "La retraite à 60 ans de la France insoumise, projet crédible ou « saut dans le vide » ?",
-      "summary": "La retraite à 60 ans est l’une des propositions phare de Jean-Luc Mélenchon, en vue de la présidentielle de 2027. Comment compte-t-il s’y prendre ?",
-      "source": "L'Obs",
-      "feed_rank": 21,
-      "url": "https://www.nouvelobs.com/politique/20261108.OBS119946/la-retraite-a-60-ans-de-la-france-insoumise-projet-credible-ou-saut-dans-le-vide.html",
-      "published_at": "2026-11-08T16:06:05+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « La retraite à 60 ans de la France insoumise, projet crédible ou « saut dans le vide » ? ».",
-      "coverage_sources": [
-        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4703,7 +4845,7 @@
       "title": "À la Féminine de Pau : Marion Barreau Barrère mène à nouveau la course en tête",
       "summary": "La course solidaire de 7 kilomètres organisée par le Club Universitaire Palois a réuni plus de 1 500 participantes classées ce dimanche 8 novembre dans la cité royale. Marion Barreau Barrère s’est imposée",
       "source": "Sud Ouest",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/a-la-feminine-de-pau-marion-barreau-barrere-mene-a-nouveau-la-course-en-tete-31444211.php",
       "published_at": "2026-11-08T16:05:34+00:00",
       "category": "Société",
@@ -4833,7 +4975,7 @@
       "title": "« Ils ont gâché ma vie » : les confidences de Michel Zecler, passé à tabac par trois policiers",
       "summary": "A la veille du procès, qui s’ouvrira lundi 9 novembre, devant la cour criminelle de Paris des trois membres des forces de l’ordre qui l’ont roué de coups en novembre 2020 dans son studio d’enregistrement, le producteur de musique Michel Zecler confie son incompréhension intacte, fait part de sa colère face aux violences policières et raconte sa lutte…",
       "source": "L'Obs",
-      "feed_rank": 2,
+      "feed_rank": 7,
       "url": "https://www.nouvelobs.com/justice/20261108.OBS119965/ils-ont-gache-ma-vie-les-confidences-de-michel-zecler-passe-a-tabac-par-trois-policiers.html",
       "published_at": "2026-11-08T16:00:27+00:00",
       "category": "Société",
@@ -4865,7 +5007,7 @@
       "title": "Maxime Chattam, maître du thriller : « Il n’y a rien de plus facile à contrôler que les gens qui ont peur »",
       "summary": "Il a travaillé comme veilleur de nuit, a rêvé d’être agent secret et a vendu 10 millions de livres. Portrait de l’écrivain qui publie son nouveau thriller.",
       "source": "L'Obs",
-      "feed_rank": 3,
+      "feed_rank": 8,
       "url": "https://www.nouvelobs.com/bibliobs/20261108.OBS119964/maxime-chattam-maitre-du-thriller-il-n-y-a-rien-de-plus-facile-a-controler-que-les-gens-qui-ont-peur.html",
       "published_at": "2026-11-08T16:00:18+00:00",
       "category": "Culture",
@@ -4929,7 +5071,7 @@
       "title": "Faut-il créer un ministère de la Sieste ?",
       "summary": "Cette semaine, notre journaliste explique comment elle a découvert que sa passion pour le repos de l’après-midi constituait aussi une arme politique.",
       "source": "L'Obs",
-      "feed_rank": 4,
+      "feed_rank": 9,
       "url": "https://www.nouvelobs.com/rue89/20261108.OBS119963/faut-il-creer-un-ministere-de-la-sieste.html",
       "published_at": "2026-11-08T16:00:11+00:00",
       "category": "Médias & communication",
@@ -4977,7 +5119,7 @@
       "title": "ENTRETIEN. « Il faut, pour qu’une population accepte des pertes humaines, qu’elle soit sûre de la victoire ou que les enjeux soient suffisants », juge le général Dominique Trinquand",
       "summary": "« Pour quoi sommes-nous prêts à nous battre ? » Accompagné de Camille Boutron et Céline Marangé, le général Dominique Trinquand en débattra le samedi 14 novembre, dans le cadre des 6e Rencontres Michel",
       "source": "Sud Ouest",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.sudouest.fr/lot-et-garonne/entretien-il-faut-pour-qu-une-population-accepte-des-pertes-humaines-qu-elle-soit-sure-de-la-victoire-ou-que-les-enjeux-soient-suffisants-juge-le-general-dominique-trinquand-31382230.php",
       "published_at": "2026-11-08T16:00:00+00:00",
       "category": "Société",
@@ -5041,7 +5183,7 @@
       "title": "En Israël, Gadi Eizenkot cherche la clé du prochain attelage gouvernemental",
       "summary": "Investi dimanche 8 novembre par le président Isaac Herzog, Gadi Eizenkot a vingt-huit jours pour former le prochain gouvernement et rassembler ses alliés. Une mission délicate, alors que les résultats des dernières législatives n’ont dégagé aucune majorité claire.",
       "source": "La Croix",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.la-croix.com/international/en-israel-gadi-eizenkot-cherche-la-cle-du-prochain-attelage-gouvernemental-20261108",
       "published_at": "2026-11-08T15:56:09+00:00",
       "category": "Politique",
@@ -5112,22 +5254,6 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « \"Un hommage aux Ukrainiens\" : les \"Carnets d’Ukraine\" de Michel Hazanavicus adaptés sur scène ».",
       "coverage_sources": [
         "France Inter"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "83033620b058",
-      "title": "Bassin de Lacq : le projet E-CHO à 2 milliards d’euros à l’épreuve de l’enquête publique à partir du 9 novembre",
-      "summary": "Du 9 novembre au 21 décembre, les habitants sont invités à se prononcer sur le projet de carburants bas carbone porté par Elyse Energy. Entre promesses de réindustrialisation et craintes environnementales,",
-      "source": "Sud Ouest",
-      "feed_rank": 20,
-      "url": "https://www.sudouest.fr/pyrenees-atlantiques/bassin-de-lacq-le-projet-e-cho-a-2-milliards-d-euros-a-l-epreuve-de-l-enquete-publique-a-partir-du-9-novembre-31427174.php",
-      "published_at": "2026-11-08T15:44:03+00:00",
-      "category": "Économie",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Bassin de Lacq : le projet E-CHO à 2 milliards d’euros à l’épreuve de l’enquête publique à partir du 9 novembre ».",
-      "coverage_sources": [
-        "Sud Ouest"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5262,134 +5388,6 @@
       "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Présidentielle 2027 : Sur les réseaux sociaux, les chiffres de la surpuissance de Jean-Luc Mélenchon ».",
       "coverage_sources": [
         "Valeurs actuelles"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0f1590410771",
-      "title": "Thérèse Desqueyroux, l’empoisonneuse de Mauriac 2/6 : Délit de faciès",
-      "summary": "Au début du 20e siècle, alors que François Mauriac écrit Thérèse Desqueyroux, les affaires d'empoisonnements sont largement médiatisées. Retour, en archives, sur quelques grandes figures d'empoisonneuses des 19e et 20e siècles.",
-      "source": "France Culture",
-      "feed_rank": 7,
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/salle-des-archives/delit-de-facies-5218987",
-      "published_at": "2026-11-08T15:30:02+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Thérèse Desqueyroux, l’empoisonneuse de Mauriac 2/6 : Délit de faciès » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Culture"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cecff68ed08b",
-      "title": "Si elle veut reconquérir le marché du gaz européen, la Russie doit agir vite",
-      "summary": "Dans un contexte de reprise des négociations sur l’issue de la guerre en Ukraine, l’État russe n’exclut pas le redémarrage des livraisons de gaz vers l’Europe. Une déclaration d’intention qui se distingue des appels répétés à privilégier d’autres partenaires économiques, en particulier en Asie. Selon le magazine russe “Monocle”, le pays peut…",
-      "source": "Courrier International",
-      "feed_rank": 3,
-      "url": "https://www.courrierinternational.com/article/vu-de-moscou-si-elle-veut-reconquerir-le-marche-du-gaz-europeen-la-russie-doit-agir-vite_285275",
-      "published_at": "2026-11-08T15:30:00+00:00",
-      "category": "Économie",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Si elle veut reconquérir le marché du gaz européen, la Russie doit agir vite ».",
-      "coverage_sources": [
-        "Courrier International"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0c11e7ba63b1",
-      "title": "Présidentielle 2027 : en cas d'élection de Jean-Luc Mélenchon, LFI appliquerait des décrets immédiats",
-      "summary": "En cas de victoire à l'élection présidentielle de 2027, La France Insoumise (LFI) prévoit d'instaurer immédiatement un «état d'urgence sociale» pour gouverner par décrets. LFI met en garde. Les principaux lieutenants de Jean-Luc Mélenchon ont justifié, ce dimanche, leur volonté d'instaurer un «état d'urgence sociale» dans la foulée de l'élection…",
-      "source": "CNews",
-      "feed_rank": 21,
-      "url": "https://www.cnews.fr/france/2026-11-08/presidentielle-2027-en-cas-delection-de-jean-luc-melenchon-lfi-appliquerait-des",
-      "published_at": "2026-11-08T15:28:52+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : en cas d'élection de Jean-Luc Mélenchon, LFI appliquerait des décrets immédiats ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cd5c0ca33224",
-      "title": "Présidentielle 2027 : vers un \"candidat unique\" avant Noël ? Les partis de droite et du centre de plus en plus tentés par une primaire",
-      "summary": "À moins de six mois de l’élection présidentielle, Laurent Wauquiez, chef des députés LR, a appelé le 8 novembre 2026 à l’union des candidats de droite pour désigner un \"candidat unique\" avant Noël. Cette initiative...",
-      "source": "Midi Libre",
-      "feed_rank": 5,
-      "url": "https://www.midilibre.fr/2026/11/08/presidentielle-2027-vers-un-candidat-unique-avant-noel-les-partis-de-droite-et-du-centre-de-plus-en-plus-tentes-par-une-primaire-13642623.php",
-      "published_at": "2026-11-08T15:28:40+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : vers un \"candidat unique\" avant Noël ? Les partis de droite et du centre de plus en plus tentés par une primaire ».",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d51b80528a2d",
-      "title": "En Grèce, des professeurs se mobilisent contre la diffusion d’idées d’extrême droite à l’école",
-      "summary": "Des professeurs et des parents d’élèves inquiets ont mis sur pied un réseau national de lutte contre la montée de l’idéologie néonazie dans l’enceinte des établissements.",
-      "source": "La Croix",
-      "feed_rank": 8,
-      "url": "https://www.la-croix.com/international/en-grece-des-professeurs-se-mobilisent-contre-la-diffusion-d-idees-dextreme-droite-a-lecole-20261108",
-      "published_at": "2026-11-08T15:25:58+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Grèce, des professeurs se mobilisent contre la diffusion d’idées d’extrême droite à l’école » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "deeeee3d682e",
-      "title": "Japon : un homme animé d’une «rancœur envers la société» poignarde un employé de librairie",
-      "summary": "Un employé de librairie a été poignardé dimanche dans le centre d’Osaka, au Japon, par un homme de 33 ans. Interpellé sur place, le suspect a expliqué aux policiers qu’il nourrissait une «rancœur envers la société». Un homme poignardé au Japon. Les faits se sont déroulés dans une librairie de l’enseigne nationale Maruzen & Junkudo, située en plein cœur…",
-      "source": "CNews",
-      "feed_rank": 22,
-      "url": "https://www.cnews.fr/monde/2026-11-08/japon-un-homme-anime-dune-rancoeur-envers-la-societe-poignarde-un-employe-de",
-      "published_at": "2026-11-08T15:23:01+00:00",
-      "category": "Société",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Japon : un homme animé d’une «rancœur envers la société» poignarde un employé de librairie ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1b2d228343d6",
-      "title": "Attaque terroriste en Pologne : ce que l’on sait de l’attentat d’extrême droite qui a fait 9 morts à Cracovie",
-      "summary": "Un attentat sans précédent a fait six morts et une quinzaine de blessés dans le centre-ville de Cracovie, le 7 novembre. Les corps sans vie des parents et de la petite sœur de l’assaillant ont aussi été retrouvés chez lui, portant le bilan à neuf morts. L’auteur de l’attaque terroriste, Michael O., serait « fasciné par les idéologies d’extrême droite »,…",
-      "source": "L'Humanité",
-      "feed_rank": 13,
-      "url": "https://www.humanite.fr/monde/attentats/attaque-terroriste-en-pologne-ce-que-lon-sait-de-lattentat-dextreme-droite-qui-a-fait-9-morts-a-cracovie",
-      "published_at": "2026-11-08T15:22:23+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Attaque terroriste en Pologne : ce que l’on sait de l’attentat d’extrême droite qui a fait 9 morts à Cracovie » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d4d2b156d627",
-      "title": "Le niveau de toxicité de l’air des ongleries inquiète, révèle une étude",
-      "summary": "Une étude, publiée le 5 novembre 2026 dans «Risk Analysis», a révélé que le niveau de toxicité de l’air des salons de soins pour les ongles atteignait des pics inquiétants. La santé des employés d'ongleries menacée. Selon une étude scientifique dirigée par Anthony Michel Lerardi de l’École supérieure de santé publique et de politique sanitaire de…",
-      "source": "CNews",
-      "feed_rank": 23,
-      "url": "https://www.cnews.fr/sante/2026-11-08/le-niveau-de-toxicite-de-lair-des-ongleries-inquiete-revele-une-etude-1950220",
-      "published_at": "2026-11-08T15:16:33+00:00",
-      "category": "Politique",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Le niveau de toxicité de l’air des ongleries inquiète, révèle une étude ».",
-      "coverage_sources": [
-        "CNews"
       ],
       "coverage_count": 1,
       "mention_count": 1
