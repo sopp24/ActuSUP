@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-09T01:00:18.199071+00:00",
-  "last_attempt": "2026-11-09T01:00:18.199071+00:00",
+  "last_updated": "2026-11-09T02:00:19.720817+00:00",
+  "last_attempt": "2026-11-09T02:00:19.720817+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 884,
-  "unique_story_count": 764,
+  "unique_story_count": 763,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-09T01:00:18.199071+00:00",
-  "featured_window_end": "2026-11-09T01:00:18.199071+00:00",
+  "featured_window_start": "2026-10-09T02:00:19.720817+00:00",
+  "featured_window_end": "2026-11-09T02:00:19.720817+00:00",
   "featured_pool_count": 883,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
@@ -26,7 +26,7 @@
       "source": "Le Monde",
       "feed_rank": 12,
       "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
-      "published_at": "2026-11-08T23:34:07+00:00",
+      "published_at": "2026-11-08T23:34:04+00:00",
       "category": "Politique",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre ».",
       "coverage_sources": [
@@ -68,8 +68,8 @@
       ],
       "coverage_count": 35,
       "mention_count": 202,
-      "importance_score": 36.227,
-      "latest_coverage_at": "2026-11-08T23:34:07+00:00"
+      "importance_score": 36.232,
+      "latest_coverage_at": "2026-11-09T01:03:00+00:00"
     },
     {
       "id": "efc43fa5aff6",
@@ -106,7 +106,7 @@
       ],
       "coverage_count": 21,
       "mention_count": 27,
-      "importance_score": 29.123,
+      "importance_score": 29.117,
       "latest_coverage_at": "2026-11-08T22:07:19+00:00"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 14,
-      "importance_score": 23.919,
+      "importance_score": 23.906,
       "latest_coverage_at": "2026-11-08T21:50:02+00:00"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.759,
+      "importance_score": 23.752,
       "latest_coverage_at": "2026-11-08T20:13:01+00:00"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 10,
-      "importance_score": 22.788,
+      "importance_score": 22.785,
       "latest_coverage_at": "2026-11-08T23:17:20+00:00"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 21.941,
+      "importance_score": 21.928,
       "latest_coverage_at": "2026-11-08T22:31:30+00:00"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.195,
+      "importance_score": 21.187,
       "latest_coverage_at": "2026-11-09T00:15:27+00:00"
     },
     {
@@ -264,7 +264,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.163,
+      "importance_score": 20.16,
       "latest_coverage_at": "2026-11-08T21:41:20+00:00"
     },
     {
@@ -287,31 +287,8 @@
       ],
       "coverage_count": 6,
       "mention_count": 9,
-      "importance_score": 19.527,
+      "importance_score": 19.524,
       "latest_coverage_at": "2026-11-08T21:47:39+00:00"
-    },
-    {
-      "id": "7e607df575d0",
-      "title": "\"Une avalanche de coups\": six ans après, 3 policiers jugés pour l'agression du producteur Michel Zecler",
-      "summary": "C’est l’une des affaires de violences policières qui avait choqué jusqu’au plus haut sommet de l’État. Il y a 6 ans, Michel Zecler, un producteur de musique, avait été passé à tabac dans le SAS de son studio. La scène avait été filmée par les images de vidéoprotection du studio de musique. Le procès de trois des policiers présents s’ouvre ce lundi 9…",
-      "source": "RMC",
-      "feed_rank": 1,
-      "url": "https://rmc.bfmtv.com/actualites/police-justice/faits-divers/une-avalanche-de-coups-six-ans-apres-3-policiers-juges-pour-l-agression-du-producteur-michel-zecler_AD-202611080423.html",
-      "published_at": "2026-11-08T21:24:55+00:00",
-      "category": "Société",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Une avalanche de coups\": six ans après, 3 policiers jugés pour l'agression du producteur Michel Zecler ».",
-      "coverage_sources": [
-        "Le Monde",
-        "Mediapart",
-        "L'Obs",
-        "RMC",
-        "20 Minutes",
-        "L'Humanité"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 19.345,
-      "latest_coverage_at": "2026-11-08T21:24:55+00:00"
     },
     {
       "id": "f2d5a2e660a0",
@@ -333,21 +310,21 @@
       ],
       "coverage_count": 6,
       "mention_count": 8,
-      "importance_score": 19.299,
+      "importance_score": 19.297,
       "latest_coverage_at": "2026-11-08T19:45:20+00:00"
     },
     {
-      "id": "2a54b7d1c556",
-      "title": "Face à Javier Milei, le pape appelle à mettre « l’économie au service de la personne » et à « chercher des compromis »",
-      "summary": "Lors de sa visite en Argentine le pape Léon XIV a plaidé pour une économie au service de la personne et a appelé les dirigeants à observer « le soin apporté à la parole » dans la vie publique et à la « recherche patiente de compromis », prenant ainsi le contrepied du président ultralibéral Javier Milei.",
-      "source": "Ouest-France",
+      "id": "ca27132b0c29",
+      "title": "À Buenos Aires, Léon XIV s’inquiète pour l’avenir de la démocratie en Argentine",
+      "summary": "Face au président Javier Milei, le pape a expliqué dimanche soir à Buenos Aires que si la démocratie était «un héritage», elle devait être préservée et renforcée.",
+      "source": "Le Figaro",
       "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/societe/religions/pape-leon-xiv/face-a-javier-milei-le-pape-appelle-a-mettre-leconomie-au-service-de-la-personne-et-a-chercher-des-compromis-1a71d70e-dbc4-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T23:54:53+00:00",
+      "url": "https://www.lefigaro.fr/international/a-buenos-aires-leon-xiv-s-inquiete-pour-l-avenir-de-la-democratie-en-argentine-20261109",
+      "published_at": "2026-11-09T01:55:13+00:00",
       "category": "Politique",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Face à Javier Milei, le pape appelle à mettre « l’économie au service de la personne » et à « chercher des compromis » ».",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « À Buenos Aires, Léon XIV s’inquiète pour l’avenir de la démocratie en Argentine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "RFI",
+        "Le Figaro",
         "Ouest-France",
         "Sud Ouest",
         "La Croix",
@@ -355,8 +332,30 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.373,
-      "latest_coverage_at": "2026-11-08T23:54:53+00:00"
+      "importance_score": 18.52,
+      "latest_coverage_at": "2026-11-09T01:55:13+00:00"
+    },
+    {
+      "id": "0f179ad8304a",
+      "title": "« J’ai été traité de ”sale nègre” » : on fait le point sur l’affaire Michel Zecler, dont le procès des policiers agresseurs s’ouvre ce lundi",
+      "summary": "Les trois policiers qui avaient passé à tabac le producteur de musique, en novembre 2020, comparaissent devant la cour criminelle de Paris, accusés de « violences volontaires » et « faux en écriture publique ». Nié par les accusés, le caractère raciste des faits n’a pas été retenu par la justice.",
+      "source": "L'Humanité",
+      "feed_rank": 2,
+      "url": "https://www.humanite.fr/politique/igpn/jai-ete-traite-de-sale-negre-on-fait-le-point-sur-laffaire-michel-zecler-dont-le-proces-des-policiers-agresseurs-souvre-ce-lundi",
+      "published_at": "2026-11-08T18:37:52+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « J’ai été traité de ”sale nègre” » : on fait le point sur l’affaire Michel Zecler, dont le procès des policiers agresseurs s’ouvre ce lundi ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Mediapart",
+        "L'Obs",
+        "20 Minutes",
+        "L'Humanité"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.982,
+      "latest_coverage_at": "2026-11-08T18:37:52+00:00"
     },
     {
       "id": "97138f754b29",
@@ -377,19 +376,19 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.585,
+      "importance_score": 17.582,
       "latest_coverage_at": "2026-11-08T19:57:25+00:00"
     },
     {
-      "id": "dc310c7c991d",
-      "title": "Formule 1 : pourquoi Charles Leclerc a-t-il écopé d’une pénalité après le Grand Prix du Brésil ?",
-      "summary": "Charles Leclerc a écopé d’une pénalité des commissaires de course, ce dimanche, après le Grand Prix du Brésil, rétrogradant de la 7 e à la 8 e place. Mauvaise nouvelle pour Charles Leclerc. Loin de pouvoir batailler pour la victoire, le Monégasque a écopé d’une pénalité de cinq secondes, ce dimanche, après le Grand Brésil remporté par Lando Norris. Le…",
+      "id": "4c4745d72ac0",
+      "title": "Formule 1 : Lando Norris explose une bouteille de champagne sur le podium après sa victoire au Grand Prix du Brésil (vidéo)",
+      "summary": "Vainqueur du Grand Prix du Brésil, le pilote britannique Lando Norris a explosé sa bouteille de champagne au moment de célébrer sa 3 e victoire de la saison sur le podium. Au moment de célébrer la 14 e victoire de sa carrière, la 3 e de la saison, le champion du monde 2025 a explosé sa bouteille de champagne en voulant la taper contre le sol. Mais…",
       "source": "CNews",
-      "feed_rank": 1,
-      "url": "https://www.cnews.fr/sport/2026-11-08/formule-1-pourquoi-charles-leclerc-t-il-ecope-dune-penalite-apres-le-grand-prix-du",
-      "published_at": "2026-11-08T22:42:30+00:00",
+      "feed_rank": 3,
+      "url": "https://www.cnews.fr/sport/2026-11-08/formule-1-lando-norris-explose-une-bouteille-de-champagne-sur-le-podium-apres-sa",
+      "published_at": "2026-11-08T21:13:28+00:00",
       "category": "Économie",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Formule 1 : pourquoi Charles Leclerc a-t-il écopé d’une pénalité après le Grand Prix du Brésil ? ».",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Formule 1 : Lando Norris explose une bouteille de champagne sur le podium après sa victoire au Grand Prix du Brésil (vidéo) ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -397,9 +396,9 @@
         "Paris Match"
       ],
       "coverage_count": 4,
-      "mention_count": 6,
-      "importance_score": 17.057,
-      "latest_coverage_at": "2026-11-08T22:42:30+00:00"
+      "mention_count": 5,
+      "importance_score": 16.696,
+      "latest_coverage_at": "2026-11-08T21:13:28+00:00"
     },
     {
       "id": "e1da0e98b4b8",
@@ -418,7 +417,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.333,
+      "importance_score": 15.331,
       "latest_coverage_at": "2026-11-08T22:34:34+00:00"
     },
     {
@@ -438,7 +437,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.145,
+      "importance_score": 15.143,
       "latest_coverage_at": "2026-11-08T09:30:00+00:00"
     },
     {
@@ -458,7 +457,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.813,
+      "importance_score": 14.81,
       "latest_coverage_at": "2026-11-08T21:39:41+00:00"
     },
     {
@@ -466,7 +465,7 @@
       "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 25 octobre 2026, au 1.718 jour du conflit.</p><h2>Le fait du jour</h2><p>Les Européens et la France seront bel et bien présents lors des…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:16:22+00:00",
       "category": "International",
@@ -478,7 +477,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.403,
+      "importance_score": 14.377,
       "latest_coverage_at": "2026-11-08T18:16:22+00:00"
     },
     {
@@ -498,7 +497,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.228,
+      "importance_score": 14.226,
       "latest_coverage_at": "2026-11-08T17:00:00+00:00"
     },
     {
@@ -518,11 +517,91 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 13.794,
+      "importance_score": 13.776,
       "latest_coverage_at": "2026-11-08T14:21:07+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "9c0bc677a04e",
+      "title": "Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens»",
+      "summary": "Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens» Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens» echaronnat lun 09/11/2026 - 03:00 Business Date parution Le 09 novembre 2026 à 12:00",
+      "source": "CB News",
+      "feed_rank": 1,
+      "url": "https://www.cbnews.fr/lq6792631c/edouard-schmidt-magnite-2027-lannee-du-programmatique-pour-les-home-screens.html",
+      "published_at": "2026-11-09T02:00:02+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Edouard Schmidt (Magnite): «2027, l’année du programmatique pour les home screens» » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "CB News"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ca27132b0c29",
+      "title": "À Buenos Aires, Léon XIV s’inquiète pour l’avenir de la démocratie en Argentine",
+      "summary": "Face au président Javier Milei, le pape a expliqué dimanche soir à Buenos Aires que si la démocratie était «un héritage», elle devait être préservée et renforcée.",
+      "source": "Le Figaro",
+      "feed_rank": 1,
+      "url": "https://www.lefigaro.fr/international/a-buenos-aires-leon-xiv-s-inquiete-pour-l-avenir-de-la-democratie-en-argentine-20261109",
+      "published_at": "2026-11-09T01:55:13+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « À Buenos Aires, Léon XIV s’inquiète pour l’avenir de la démocratie en Argentine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "9c913b8987e6",
+      "title": "Smic, Parcoursup… Lecornu au front pour tenter de calmer la colère sociale",
+      "summary": "<p>À moins de<a href=\"https://www.20minutes.fr/politique/4260946-20261107-presidentielle-2027-disent-derniers-sondages-cinq-mois-premier-tour\"> six mois de la présidentielle</a>, les manifestations continuent de s’enchaîner en France. La colère sociale est vive face notamment à la hausse des prix des carburants dans le sillage de <a…",
+      "source": "20 Minutes",
+      "feed_rank": 2,
+      "url": "https://www.20minutes.fr/politique/4261380-20261109-smic-parcoursup-lecornu-front-tenter-calmer-colere-sociale?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-09T01:44:47+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Smic, Parcoursup… Lecornu au front pour tenter de calmer la colère sociale ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "36ccf55471c9",
+      "title": "Romain Laleix (Arcom): «Le DAB+, avenir de la diffusion souveraine de la radio»",
+      "summary": "Romain Laleix (Arcom): «Le DAB+, avenir de la diffusion souveraine de la radio» Romain Laleix (Arcom): «Le DAB+, avenir de la diffusion souveraine de la radio» cb_drupal lun 09/11/2026 - 02:30 Cover story Date parution Le 09 novembre 2026 à 12:00",
+      "source": "CB News",
+      "feed_rank": 2,
+      "url": "https://www.cbnews.fr/lq6821607c/romain-laleix-arcom-le-dab-avenir-de-la-diffusion-souveraine-de-la-radio.html",
+      "published_at": "2026-11-09T01:30:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Romain Laleix (Arcom): «Le DAB+, avenir de la diffusion souveraine de la radio» ».",
+      "coverage_sources": [
+        "CB News"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a4cb9242f185",
+      "title": "Playlist Sound System du lundi 09 novembre 2026",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "France Inter",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-lundi-09-novembre-2026-9515323",
+      "published_at": "2026-11-09T01:03:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Playlist Sound System du lundi 09 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 2
+    },
     {
       "id": "01c31a8df0b6",
       "title": "Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
@@ -550,7 +629,7 @@
       "title": "Colombie : l'ex-président Petro accusé d'avoir accordé des contrats en échange de relations sexuelles",
       "summary": "L’affaire est arrivée jusqu’à la Cour suprême après qu’une femme a déposé plainte, affirmant qu’elle-même et une trentaine de personnes ont obtenu des contrats publics en échange de relations sexuelles avec Gustavo Petro.",
       "source": "Le Figaro",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/international/colombie-l-ex-president-petro-accuse-d-avoir-accorde-des-contrats-en-echange-de-relations-sexuelles-20261109",
       "published_at": "2026-11-09T00:08:06+00:00",
       "category": "Politique",
@@ -616,7 +695,7 @@
       "source": "Le Monde",
       "feed_rank": 12,
       "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
-      "published_at": "2026-11-08T23:34:07+00:00",
+      "published_at": "2026-11-08T23:34:04+00:00",
       "category": "Politique",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre ».",
       "coverage_sources": [
@@ -646,7 +725,7 @@
       "title": "Lens-Marseille : Genesio voit juste, Thauvin surnage pendant que Lens se noie encore… Les tops et les flops",
       "summary": "DÉCRYPTAGE - Marseille s’est imposé à Bollaert (2-1) ce dimanche soir, lors de la 10e journée de Ligue 1. Retour sur les tops et les flops de cette rencontre sous haute tension.",
       "source": "Le Figaro",
-      "feed_rank": 12,
+      "feed_rank": 11,
       "url": "https://www.lefigaro.fr/sports/football/ligue-1/lens-marseille-genesio-voit-juste-thauvin-surnage-pendant-que-lens-se-noie-encore-les-tops-et-les-flops-20261108",
       "published_at": "2026-11-08T23:14:41+00:00",
       "category": "Sport",
@@ -786,6 +865,22 @@
       "mention_count": 1
     },
     {
+      "id": "2156ef105eec",
+      "title": "Paracyclisme : le triplé fou de Tifany Huot-Marchand aux Mondiaux sur piste",
+      "summary": "La paracycliste française de 32 ans Tifany Huot-Marchand est devenue triple championne du monde sur piste. Une résurrection pour cette ancienne patineuse de vitesse, victime d'un terrible accident en compétition en 2022. Les médecins lui avaient annoncé qu'elle ne pourrait probablement plus jamais marcher. Après une longue rééducation, Tifany s'est…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-paracyclisme-le-tripl%C3%A9-fou-de-tifany-huot-marchand-aux-mondiaux-sur-piste",
+      "published_at": "2026-11-08T22:49:10+00:00",
+      "category": "International",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Paracyclisme : le triplé fou de Tifany Huot-Marchand aux Mondiaux sur piste ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "f1de38fe8366",
       "title": "Donald Trump estime maintenant que la politique américaine d’expulsions d’immigrés a été « trop dure »",
       "summary": "Sous pression après la défaite républicaine, le président américain laisse entrevoir un possible changement de ton sur l’immigration, sans toutefois annoncer de mesures concrètes.",
@@ -854,7 +949,7 @@
       "title": "Présidentielle 2027 : dans le Sud-Est, les rivaux Édouard Philippe et Gabriel Attal s’opposent sur la primaire",
       "summary": "REPORTAGE - Sur la Côte d’Azur, le candidat d’Horizons a accéléré sa campagne, mais son concurrent de Renaissance conteste sa position dominante sur la droite et le centre.",
       "source": "Le Figaro",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dans-le-sud-est-les-rivaux-edouard-philippe-et-gabriel-attal-s-opposent-sur-la-primaire-20261108",
       "published_at": "2026-11-08T22:27:22+00:00",
       "category": "Société",
@@ -982,7 +1077,7 @@
       "title": "Glucksmann affirme avoir refusé d'être premier ministre en 2024",
       "summary": "Invité sur BFMTV, le candidat de la gauche a déclaré avoir «refusé» d’être ministre d’Emmanuel Macron, y compris «premier ministre (...) post-dissolution». Une source au sein de l’exécutif a indiqué dans la soirée que cela avait «été évoqué sans donner lieu à une proposition formelle».",
       "source": "Le Figaro",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.lefigaro.fr/elections/presidentielles/glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024-20261108",
       "published_at": "2026-11-08T21:59:07+00:00",
       "category": "Politique",
@@ -1186,7 +1281,7 @@
       "title": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
       "summary": "Alors que la guerre se poursuit dans l'Est, cinq grandes figures de l'opposition, réunies au sein de la coalition C64, veulent rencontrer Félix Tshisekedi et Joseph Kabila pour préparer un dialogue national. Mais le pouvoir menace de poursuites ceux qui rencontreraient l'ancien président à Goma. Peut-on encore réunir les acteurs de cette crise autour…",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
       "published_at": "2026-11-08T21:37:48+00:00",
       "category": "Politique",
@@ -1250,7 +1345,7 @@
       "title": "RDC : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
       "summary": "En République démocratique du Congo, la crise politique s'intensifie sur fond de guerre dans l'Est. La coalition d'opposition C64 souhaite rencontrer le président Félix Tshisekedi et son prédécesseur Joseph Kabila pour préparer un dialogue national. Mais Kinshasa menace de poursuites les opposants qui iraient rencontrer l'ancien chef de l'État à Goma, où…",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
       "published_at": "2026-11-08T21:30:57+00:00",
       "category": "Politique",
@@ -1294,22 +1389,6 @@
       "mention_count": 1
     },
     {
-      "id": "7e607df575d0",
-      "title": "\"Une avalanche de coups\": six ans après, 3 policiers jugés pour l'agression du producteur Michel Zecler",
-      "summary": "C’est l’une des affaires de violences policières qui avait choqué jusqu’au plus haut sommet de l’État. Il y a 6 ans, Michel Zecler, un producteur de musique, avait été passé à tabac dans le SAS de son studio. La scène avait été filmée par les images de vidéoprotection du studio de musique. Le procès de trois des policiers présents s’ouvre ce lundi 9…",
-      "source": "RMC",
-      "feed_rank": 1,
-      "url": "https://rmc.bfmtv.com/actualites/police-justice/faits-divers/une-avalanche-de-coups-six-ans-apres-3-policiers-juges-pour-l-agression-du-producteur-michel-zecler_AD-202611080423.html",
-      "published_at": "2026-11-08T21:24:55+00:00",
-      "category": "Société",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Une avalanche de coups\": six ans après, 3 policiers jugés pour l'agression du producteur Michel Zecler ».",
-      "coverage_sources": [
-        "RMC"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "5d8bd94ddb3c",
       "title": "L'actrice et artiste pluridisciplinaire Angèle Metzger, révélation de la série « Chair tendre » meurt accidentellement",
       "summary": "Selon nos confrères du « Parisien », la jeune comédienne Angèle Metzger est décédée à la suite d'une chute accidentelle, samedi, à l'âge de 27 ans.",
@@ -1346,7 +1425,7 @@
       "title": "Patronat et syndicats reçus lundi à Matignon : la colère va-t-elle retomber ?",
       "summary": "Au menu de Présidentielle 2027: la conférence sociale organisée à Matignon, la démonstration de force de Jean-Luc Mélenchon et la cacophonie de la droite et du centre. Avec nos invités : Dorian Dreuil, expert associé à l'Observatoire de la vie politique de la Fondation Jean-Jaurès et Anthony Berthelier, journaliste politique au HuffPost.",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-patronat-et-syndicats-re%C3%A7us-lundi-%C3%A0-matignon-la-col%C3%A8re-va-t-elle-retomber",
       "published_at": "2026-11-08T21:18:42+00:00",
       "category": "Médias & communication",
@@ -1641,7 +1720,7 @@
       "title": "Samy Cohen: \"Eisenkot est populaire car il représente un apaisement de la vie politique israélienne\"",
       "summary": "En Israël, Gadi Eisenkot a été missionné par le président Herzog pour former le prochain gouvernement, dix jours après le résultat des législatives à l'issue desquelles aucune majorité claire ne s'est dégagée. La tâche de l'ancien chef d'Etat-major s'annonce particulièrement complexe. Il affiche sa détermination à réussir et tend même la main au Likoud…",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261108-samy-cohen-eisenkot-est-populaire-car-il-repr%C3%A9sente-un-apaisement-de-la-vie-politique-isra%C3%A9lienne",
       "published_at": "2026-11-08T20:44:06+00:00",
       "category": "Politique",
@@ -1901,7 +1980,7 @@
       "title": "États-Unis : face à Donald Trump, les démocrates en ordre de bataille pour la présidentielle 2028",
       "summary": "RÉCIT - Portée par la victoire de leur parti aux élections de mi-mandat, la nouvelle génération de démocrates commence à envisager une candidature pour la présidentielle de 2028.",
       "source": "Le Figaro",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lefigaro.fr/international/etats-unis-face-a-donald-trump-les-democrates-en-ordre-de-bataille-pour-la-presidentielle-2028-20261108",
       "published_at": "2026-11-08T20:08:28+00:00",
       "category": "Politique",
@@ -1965,7 +2044,7 @@
       "title": "La radio de Yannick Haenel",
       "summary": "Yannick Haenel est écrivain, et il vient de publier nouveau roman, « La solitude des professeurs est infini ». Ce soir, il ne va pas parler de littérature, mais quand même de poésie, à travers le punk, le rock, le jazz, la variété… Ce soir, il fait sa Radio de…",
       "source": "France Inter",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/la-radio-de/la-radio-de-du-dimanche-08-novembre-2026-5287120",
       "published_at": "2026-11-08T20:04:40+00:00",
       "category": "Culture",
@@ -2143,7 +2222,7 @@
       "title": "Présidentielle 2027 : Wauquiez pour un seul candidat, Roussel candidat malgré les départs et Glucksmann balance sur 2024",
       "summary": "<p>Vous avez passé un bon dimanche ? On se réjouit pour vous, nous, on a suivi les émissions politiques du jour, lu les pages politiques des quotidiens… Bref, on a scruté les petites phrases, les faits et les gestes de la présidentielle 2027. Voici ce qu’il faut retenir à 161 jours du 18 avril 2027, date du premier tour.</p><h2>Le plot twist du…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.20minutes.fr/politique/4261353-20261108-presidentielle-2027-wauquiez-seul-candidat-roussel-candidat-malgre-departs-glucksmann-balance-2024?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T19:54:44+00:00",
       "category": "Culture",
@@ -2331,7 +2410,7 @@
       "title": "Présidentielle 2027 : Glucksmann assure qu’il va « mettre fin » à l’« hégémonie culturelle, idéologique et politique » de Mélenchon sur la gauche",
       "summary": "Invité dimanche du « Grand Oral BFMTV-Le Figaro », le candidat social-démocrate à l’Élysée s’est posé en défenseur d’une gauche « démocratique », ni mélenchoniste ni macroniste.",
       "source": "Le Figaro",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lefigaro.fr/elections/presidentielles/ils-ne-le-supportent-pas-glucksmann-assure-qu-il-va-mettre-fin-a-l-hegemonie-culturelle-ideologique-et-politique-de-melenchon-sur-la-gauche-20261108",
       "published_at": "2026-11-08T19:30:06+00:00",
       "category": "Politique",
@@ -2396,7 +2475,7 @@
       "title": "«Sa faiblesse, c’était sa gentillesse» : ce que l’on sait du meurtre barbare de Jimmy, égorgé dans son appartement à Paris",
       "summary": "REPORTAGE - Samedi soir, Jimmy P., 54 ans, a été retrouvé mort dans son appartement de la Cité du Souvenir, dans le 14e arrondissement de la capitale. Ses voisins racontent cet homme solitaire et évoquent ses fréquentations qui lui ont peut-être coûté la vie.",
       "source": "Le Figaro",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.lefigaro.fr/faits-divers/sa-faiblesse-c-etait-sa-gentillesse-ce-que-l-on-sait-du-meurtre-barbare-de-jimmy-egorge-dans-son-appartement-a-paris-20261108",
       "published_at": "2026-11-08T19:27:15+00:00",
       "category": "Société",
@@ -2524,7 +2603,7 @@
       "title": "Dans un dessin animé, est-ce qu'un personnage est toujours dessiné par le même dessinateur pour rester identique ?",
       "summary": "C'est Raphaël, 15 ans, qui s'interroge. Un dessinateur de dessin animé est là pour lui répondre !",
       "source": "France Inter",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-dimanche-08-novembre-2026-6949631",
       "published_at": "2026-11-08T19:09:10+00:00",
       "category": "Société",
@@ -2556,7 +2635,7 @@
       "title": "Qu'est-ce que cela ferait si les microbes n'existaient pas ?",
       "summary": "Arthur, 10 ans, se demande ce qui se passerait si tous les microbes disparaissaient de la planète. Geneviève Herry-Arnaud, microbiologiste à l'Université de Bretagne occidentale, lui explique pourquoi ces minuscules organismes jouent un rôle bien plus important qu'on ne l'imagine !",
       "source": "France Inter",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-dimanche-08-novembre-2026-1792349",
       "published_at": "2026-11-08T19:05:40+00:00",
       "category": "Société",
@@ -2734,7 +2813,7 @@
       "title": "L’éditorial de Philippe Gélie : «Donald Trump, M. Muscle à la Maison-Blanche»",
       "summary": "Roué, le président américain tente d’attirer les démocrates dans le piège de la confrontation, et se barricade.",
       "source": "Le Figaro",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-m-muscle-a-la-maison-blanche-20261108",
       "published_at": "2026-11-08T18:45:00+00:00",
       "category": "Politique",
@@ -2872,7 +2951,7 @@
       "title": "Sébastien Lecornu à la manœuvre d’une conférence sociale incertaine",
       "summary": "DÉCRYPTAGE - La colère sociale qui agite le pays à moins de six mois de l’élection présidentielle est difficile à manier pour l’exécutif.",
       "source": "Le Figaro",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.lefigaro.fr/elections/presidentielles/sebastien-lecornu-a-la-manoeuvre-d-une-conference-sociale-incertaine-20261108",
       "published_at": "2026-11-08T18:30:00+00:00",
       "category": "Société",
@@ -2952,7 +3031,7 @@
       "title": "A quoi tenons-nous vraiment ?",
       "summary": "Dans un monde de fractures, d’alertes climatiques, de progrès technologiques qui parfois nous dépassent, un monde dans lequel nous pouvons avoir le sentiment d’être déboussolés, désemparés, et avoir du mal à penser à l’avenir…à quoi sommes-nous vraiment attachés ?",
       "source": "France Inter",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-dimanche-08-novembre-2026-6518726",
       "published_at": "2026-11-08T18:22:40+00:00",
       "category": "International",
@@ -3016,7 +3095,7 @@
       "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 25 octobre 2026, au 1.718 jour du conflit.</p><h2>Le fait du jour</h2><p>Les Européens et la France seront bel et bien présents lors des…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:16:22+00:00",
       "category": "International",
@@ -3096,7 +3175,7 @@
       "title": "Lens-OM : Abdallah replonge les Lensois dans la déprime, Marseille ne s'arrête plus...Le match à revivre en direct",
       "summary": "L'OM s'est imposé au finish face à des Lensois qui concluent leur semaine de l'horreur par une nouvelle déconvenue (2-1)",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.20minutes.fr/sport/football/4261272-20261108-direct-lens-om-apres-9-buts-encaisses-c1-sang-or-doivent-revanche-public?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:02:36+00:00",
       "category": "Sport",
@@ -3288,7 +3367,7 @@
       "title": "A Libourne, un café mortel !",
       "summary": "Dans la place du dimanche 08 novembre 2026",
       "source": "France Inter",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/dans-la-place/dans-la-place-du-dimanche-08-novembre-2026-6605252",
       "published_at": "2026-11-08T17:50:10+00:00",
       "category": "Société",
@@ -3336,7 +3415,7 @@
       "title": "Présidentielle 2027 : à Saint-Raphaël, les candidats de droite se croisent sans s’accorder",
       "summary": "REPORTAGE - À l’occasion de la neuvième édition des Rencontres de l’avenir dans le Var, les principales têtes d’affiche à l’élection présidentielle ont campé sur leurs positions, en faveur ou non d’une primaire.",
       "source": "Le Figaro",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-a-saint-raphael-les-candidats-de-droite-se-croisent-sans-s-accorder-20261108",
       "published_at": "2026-11-08T17:45:00+00:00",
       "category": "Société",
@@ -3531,7 +3610,7 @@
       "title": "Régine, une diva",
       "summary": "Comme chaque dimanche, Paola Puerari nous fait le portrait d’une personnalité. Et ce soir, c’est celui d’une femme qui a régné sur les nuits parisiennes vue par sa petite-fille, qui vient de lui consacrer un livre.",
       "source": "France Inter",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-paola-puerari/chronique-de-paola-puerari-du-dimanche-08-novembre-2026-4245232",
       "published_at": "2026-11-08T17:30:25+00:00",
       "category": "Culture",
@@ -3676,7 +3755,7 @@
       "title": "La présentation du programme de Jean-Luc Mélenchon au Bourget",
       "summary": "Jean-Luc Mélenchon le candidat de La France insoumise présentait hier au Bourget son programme \"L’Avenir en commun\", publié vendredi avec près de 1000 propositions. Une présentation devant près de 20 000 sympathisants.",
       "source": "France Inter",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/conversation/la-conversation-du-dimanche-08-novembre-2026-3932070",
       "published_at": "2026-11-08T17:16:09+00:00",
       "category": "Société",
@@ -3788,7 +3867,7 @@
       "title": "En Israël, Eisenkot invite le Likoud de Netanyahu à participer à une coalition",
       "summary": "Officiellement chargé dimanche de former le prochain gouvernement israélien, l'ex-haut gradé centriste Gadi Eisenkot a appelé à l'unité face à une \"crise historique\", dont il tient Benjamin Netanyahu pour responsable. Il s'est néanmoins dit ouvert à une coalition avec des élus du Likoud, mais aussi du parti d'extrême droite de Bezalel Smotrich.",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/moyen-orient/20261108-en-isra%C3%ABl-eisenkot-invite-le-likoud-de-netanyahu-%C3%A0-participer-%C3%A0-une-coalition",
       "published_at": "2026-11-08T17:12:03+00:00",
       "category": "Politique",
@@ -4059,22 +4138,6 @@
       "mention_count": 1
     },
     {
-      "id": "2601eb45e4bb",
-      "title": "Le 18/20 du dimanche du dimanche 08 novembre 2026",
-      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
-      "source": "France Inter",
-      "feed_rank": 8,
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20/le-18-20-du-dimanche-du-dimanche-08-novembre-2026-5508370",
-      "published_at": "2026-11-08T17:00:00+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le 18/20 du dimanche du dimanche 08 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Inter"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "a9253c88a06f",
       "title": "Israël : Gadi Eisenkot investi par le président Isaac Herzog pour constituer un gouvernement",
       "summary": "Portrait de l'ancien chef d'État-major, choisi par Isaac Herzog pour former un gouvernement, après sa victoire aux élections législatives.",
@@ -4191,7 +4254,7 @@
       "title": "Carlos Alcaraz a désormais tout gagné à Paris, Shelton n’a rien pu faire en finale",
       "summary": "<p>C&#x27;était presque écrit d’avance, dès lors qu’il était parvenu <a href=\"https://www.20minutes.fr/sport/tennis/4261098-20261107-masters-1000-paris-balles-match-sauvees-points-fou-comment-carlos-alcaraz-encore-revenu-enfer\">à renverser Taylor Fritz</a> un peu miraculeusement en quarts de finale. L’Espagnol <a…",
       "source": "20 Minutes",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.20minutes.fr/sport/tennis/4261303-20261108-carlos-alcaraz-desormais-tout-gagne-paris-shelton-rien-pu-faire-finale?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T16:54:23+00:00",
       "category": "Société",
@@ -4335,7 +4398,7 @@
       "title": "Sport intense: jusqu'où peut-on pousser son corps et quels sont les risques pour la santé?",
       "summary": "Dimanche dernier à New York, une marathonienne de 24 ans est décédée après s'être effondrée à quelques kilomètres de l'arrivée, son père évoquant une rhabdomyolyse. Si le sport régulier reste bénéfique, des efforts extrêmes peuvent entraîner des complications rares mais redoutables. Qu'est-ce que la rhabdomyolyse, quels sont les dangers d'un effort trop…",
       "source": "RMC",
-      "feed_rank": 2,
+      "feed_rank": 1,
       "url": "https://rmc.bfmtv.com/actualites/societe/sante/sport-intense-jusqu-ou-peut-on-pousser-son-corps-et-quels-sont-les-risques-pour-la-sante_AV-202611080310.html",
       "published_at": "2026-11-08T16:40:27+00:00",
       "category": "Société",
@@ -4736,7 +4799,7 @@
       "title": "Avec Paul de Saint-Sernin et Camille Lorente : \"J'ai été réduit à ma noblesse\"",
       "summary": "Ils ont fait des études de journalisme, ils sont devenus humoristes, le repas Chez la belle-famille s'annonce riche !",
       "source": "France Inter",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/chez-la-belle-famille/chez-la-belle-famille-du-dimanche-08-novembre-2026-9710882",
       "published_at": "2026-11-08T16:04:40+00:00",
       "category": "Médias & communication",
@@ -4818,7 +4881,7 @@
       "title": "Route du Rhum : \"Franchement, c'est un rêve d'enfant\", savoure Laperche",
       "summary": "\"Franchement, c'est un rêve d'enfant. J'ai toujours vu des images incroyables des arrivées ici, celles des grands champions depuis des décennies. Mon rêve était de courir un jour dans cette catégorie reine des multicoques et de jouer la victoire au scratch\" déclare Tom Laperche à son arrivée triomphante.",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-franchement-c-est-un-r%C3%AAve-d-enfant-savoure-laperche",
       "published_at": "2026-11-08T16:03:00+00:00",
       "category": "Société",
@@ -5122,7 +5185,7 @@
       "title": "\"Un hommage aux Ukrainiens\" : les \"Carnets d’Ukraine\" de Michel Hazanavicus adaptés sur scène",
       "summary": "Le comédien Hugo Becker donne vie aux témoignages recueillis par le réalisateur Michel Hazanavicius près de la ligne de front. Dans \"Carnet d'Ukraine\", mis en scène au Studio Marigny à Paris par Julien Gélas, une galerie de portraits raconte le quotidien de celles et ceux qui vivent avec la guerre.",
       "source": "France Inter",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/un-hommage-aux-ukrainiens-les-carnets-d-ukraine-de-michel-hazanavicus-adapte-sur-scene-3107322",
       "published_at": "2026-11-08T15:48:10+00:00",
       "category": "International",
@@ -5256,7 +5319,7 @@
       "title": "Ukraine/Donbass: Mélenchon \"s'est fait porte-parole du Kremlin\", selon le ministre des Affaires étrangères",
       "summary": "Le leader de la France insoumise Jean-Luc Mélenchon \"s'est tout simplement fait le porte-parole du Kremlin\" en estimant qu'il fallait consulter sur leur sort les populations du Donbass, région de l'est de l'Ukraine en grande partie occupée par les Russes, a estimé dimanche le chef de la diplomatie française.",
       "source": "RMC",
-      "feed_rank": 3,
+      "feed_rank": 2,
       "url": "https://rmc.bfmtv.com/actualites/politique/ukraine-donbass-melenchon-s-est-fait-porte-parole-du-kremlin-selon-le-ministre-des-affaires-etrangeres_AD-202611080307.html",
       "published_at": "2026-11-08T15:31:38+00:00",
       "category": "Politique",
@@ -5327,70 +5390,6 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : en cas d'élection de Jean-Luc Mélenchon, LFI appliquerait des décrets immédiats ».",
       "coverage_sources": [
         "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cd5c0ca33224",
-      "title": "Présidentielle 2027 : vers un \"candidat unique\" avant Noël ? Les partis de droite et du centre de plus en plus tentés par une primaire",
-      "summary": "À moins de six mois de l’élection présidentielle, Laurent Wauquiez, chef des députés LR, a appelé le 8 novembre 2026 à l’union des candidats de droite pour désigner un \"candidat unique\" avant Noël. Cette initiative...",
-      "source": "Midi Libre",
-      "feed_rank": 5,
-      "url": "https://www.midilibre.fr/2026/11/08/presidentielle-2027-vers-un-candidat-unique-avant-noel-les-partis-de-droite-et-du-centre-de-plus-en-plus-tentes-par-une-primaire-13642623.php",
-      "published_at": "2026-11-08T15:28:40+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : vers un \"candidat unique\" avant Noël ? Les partis de droite et du centre de plus en plus tentés par une primaire ».",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d51b80528a2d",
-      "title": "En Grèce, des professeurs se mobilisent contre la diffusion d’idées d’extrême droite à l’école",
-      "summary": "Des professeurs et des parents d’élèves inquiets ont mis sur pied un réseau national de lutte contre la montée de l’idéologie néonazie dans l’enceinte des établissements.",
-      "source": "La Croix",
-      "feed_rank": 8,
-      "url": "https://www.la-croix.com/international/en-grece-des-professeurs-se-mobilisent-contre-la-diffusion-d-idees-dextreme-droite-a-lecole-20261108",
-      "published_at": "2026-11-08T15:25:58+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Grèce, des professeurs se mobilisent contre la diffusion d’idées d’extrême droite à l’école » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "deeeee3d682e",
-      "title": "Japon : un homme animé d’une «rancœur envers la société» poignarde un employé de librairie",
-      "summary": "Un employé de librairie a été poignardé dimanche dans le centre d’Osaka, au Japon, par un homme de 33 ans. Interpellé sur place, le suspect a expliqué aux policiers qu’il nourrissait une «rancœur envers la société». Un homme poignardé au Japon. Les faits se sont déroulés dans une librairie de l’enseigne nationale Maruzen & Junkudo, située en plein cœur…",
-      "source": "CNews",
-      "feed_rank": 22,
-      "url": "https://www.cnews.fr/monde/2026-11-08/japon-un-homme-anime-dune-rancoeur-envers-la-societe-poignarde-un-employe-de",
-      "published_at": "2026-11-08T15:23:01+00:00",
-      "category": "Société",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Japon : un homme animé d’une «rancœur envers la société» poignarde un employé de librairie ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1b2d228343d6",
-      "title": "Attaque terroriste en Pologne : ce que l’on sait de l’attentat d’extrême droite qui a fait 9 morts à Cracovie",
-      "summary": "Un attentat sans précédent a fait six morts et une quinzaine de blessés dans le centre-ville de Cracovie, le 7 novembre. Les corps sans vie des parents et de la petite sœur de l’assaillant ont aussi été retrouvés chez lui, portant le bilan à neuf morts. L’auteur de l’attaque terroriste, Michael O., serait « fasciné par les idéologies d’extrême droite »,…",
-      "source": "L'Humanité",
-      "feed_rank": 13,
-      "url": "https://www.humanite.fr/monde/attentats/attaque-terroriste-en-pologne-ce-que-lon-sait-de-lattentat-dextreme-droite-qui-a-fait-9-morts-a-cracovie",
-      "published_at": "2026-11-08T15:22:23+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Attaque terroriste en Pologne : ce que l’on sait de l’attentat d’extrême droite qui a fait 9 morts à Cracovie » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "L'Humanité"
       ],
       "coverage_count": 1,
       "mention_count": 1
