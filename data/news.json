@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-09T00:00:20.373148+00:00",
-  "last_attempt": "2026-11-09T00:00:20.373148+00:00",
+  "last_updated": "2026-11-09T01:00:18.199071+00:00",
+  "last_attempt": "2026-11-09T01:00:18.199071+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 885,
+  "raw_article_count": 884,
   "unique_story_count": 764,
   "sources_configured": 46,
   "sources_with_errors": [
@@ -13,9 +13,9 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-09T00:00:20.373148+00:00",
-  "featured_window_end": "2026-11-09T00:00:20.373148+00:00",
-  "featured_pool_count": 884,
+  "featured_window_start": "2026-10-09T01:00:18.199071+00:00",
+  "featured_window_end": "2026-11-09T01:00:18.199071+00:00",
+  "featured_pool_count": 883,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 31 jours",
   "featured_news": [
@@ -67,8 +67,8 @@
         "Télérama"
       ],
       "coverage_count": 35,
-      "mention_count": 205,
-      "importance_score": 36.257,
+      "mention_count": 202,
+      "importance_score": 36.227,
       "latest_coverage_at": "2026-11-08T23:34:07+00:00"
     },
     {
@@ -105,8 +105,8 @@
         "Paris Match"
       ],
       "coverage_count": 21,
-      "mention_count": 28,
-      "importance_score": 29.19,
+      "mention_count": 27,
+      "importance_score": 29.123,
       "latest_coverage_at": "2026-11-08T22:07:19+00:00"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 14,
-      "importance_score": 23.918,
+      "importance_score": 23.919,
       "latest_coverage_at": "2026-11-08T21:50:02+00:00"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.77,
+      "importance_score": 23.759,
       "latest_coverage_at": "2026-11-08T20:13:01+00:00"
     },
     {
@@ -179,6 +179,7 @@
         "France Info (Radio)",
         "Franceinfo (TV)",
         "France 24",
+        "Le Figaro",
         "RFI",
         "L'Obs",
         "Libération",
@@ -186,9 +187,9 @@
         "L'Humanité",
         "Midi Libre"
       ],
-      "coverage_count": 9,
-      "mention_count": 9,
-      "importance_score": 21.992,
+      "coverage_count": 10,
+      "mention_count": 10,
+      "importance_score": 22.788,
       "latest_coverage_at": "2026-11-08T23:17:20+00:00"
     },
     {
@@ -214,15 +215,40 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 21.964,
+      "importance_score": 21.941,
       "latest_coverage_at": "2026-11-08T22:31:30+00:00"
+    },
+    {
+      "id": "01c31a8df0b6",
+      "title": "Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
+      "summary": "<p>Samedi, à Évry-Courcouronnes, Farida Amrani a été victime d’une « attaque » qu’elle juge « d’une extrême gravité ». La députée <a href=\"https://www.20minutes.fr/politique/france-insoumise/\">LFI</a> de l’Essonne a en effet été légèrement blessée par un tir de mortier dans un salon de coiffure.</p><p>Une enquête a été ouverte pour violences volontaires…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/societe/4261366-20261109-essonne-deputee-lfi-blessee-tir-mortier-salon-coiffure?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-09T00:15:27+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Figaro",
+        "BFMTV",
+        "20 Minutes",
+        "Le Dauphiné Libéré",
+        "Le JDD",
+        "Paris Match"
+      ],
+      "coverage_count": 8,
+      "mention_count": 8,
+      "importance_score": 21.195,
+      "latest_coverage_at": "2026-11-09T00:15:27+00:00"
     },
     {
       "id": "e096a65c8418",
       "title": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées",
       "summary": "Dans la bande de Gaza, déjà confrontée aux bombardements et à une situation humanitaire catastrophique, les habitants ont également dû faire face à des inondations, ce week-end du 7-8 novembre. Des pluies torrentielles se sont abattues sur le territoire palestinien, affectant 70 000 personnes vivant sous des tentes, selon les autorités locales.",
       "source": "RFI",
-      "feed_rank": 2,
+      "feed_rank": 1,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261108-gaza-des-pluies-torrentielles-inondent-les-camps-de-d%C3%A9plac%C3%A9s-70-000-personnes-affect%C3%A9es",
       "published_at": "2026-11-08T21:36:26+00:00",
       "category": "Environnement",
@@ -238,32 +264,8 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.159,
+      "importance_score": 20.163,
       "latest_coverage_at": "2026-11-08T21:41:20+00:00"
-    },
-    {
-      "id": "e05abe3cee3d",
-      "title": "Essonne: la députée LFI Farida Amrani légèrement blessée par un tir de mortier dans un salon de coiffure",
-      "summary": "Farida Amrani, députée LFI, a été légèrement blessée par un tir de mortier dans un salon de coiffure de l'Essonne samedi, a indiqué le parquet d'Evry ce dimanche. Aucune interpellation n'a eu lieu.",
-      "source": "BFMTV",
-      "feed_rank": 6,
-      "url": "https://www.bfmtv.com/paris/essonne/essonne-la-deputee-lfi-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_AD-202611080453.html",
-      "published_at": "2026-11-08T22:51:20+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Essonne: la députée LFI Farida Amrani légèrement blessée par un tir de mortier dans un salon de coiffure ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Figaro",
-        "BFMTV",
-        "Le Dauphiné Libéré",
-        "Le JDD",
-        "Paris Match"
-      ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.136,
-      "latest_coverage_at": "2026-11-08T22:51:20+00:00"
     },
     {
       "id": "b0677f072243",
@@ -285,7 +287,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 9,
-      "importance_score": 19.534,
+      "importance_score": 19.527,
       "latest_coverage_at": "2026-11-08T21:47:39+00:00"
     },
     {
@@ -308,7 +310,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.356,
+      "importance_score": 19.345,
       "latest_coverage_at": "2026-11-08T21:24:55+00:00"
     },
     {
@@ -331,7 +333,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 8,
-      "importance_score": 19.302,
+      "importance_score": 19.299,
       "latest_coverage_at": "2026-11-08T19:45:20+00:00"
     },
     {
@@ -353,7 +355,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 7,
-      "importance_score": 18.402,
+      "importance_score": 18.373,
       "latest_coverage_at": "2026-11-08T23:54:53+00:00"
     },
     {
@@ -375,7 +377,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.588,
+      "importance_score": 17.585,
       "latest_coverage_at": "2026-11-08T19:57:25+00:00"
     },
     {
@@ -396,29 +398,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 17.06,
+      "importance_score": 17.057,
       "latest_coverage_at": "2026-11-08T22:42:30+00:00"
-    },
-    {
-      "id": "fb280a19d5a0",
-      "title": "Victorieux à Bollaert, l'OM enfonce le RC Lens quatre jours après son naufrage contre Côme",
-      "summary": "Le club phocéen a eu le dernier mot, dimanche, dans l'affiche de clôture de la 10e journée de Ligue 1 (2-1).",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 9,
-      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/victorieux-a-bollaert-l-om-enfonce-le-rc-lens-quatre-jours-apres-son-naufrage-contre-come_8273783.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-08T21:39:41+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Victorieux à Bollaert, l'OM enfonce le RC Lens quatre jours après son naufrage contre Côme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "BFMTV",
-        "20 Minutes"
-      ],
-      "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.675,
-      "latest_coverage_at": "2026-11-08T21:39:41+00:00"
     },
     {
       "id": "e1da0e98b4b8",
@@ -437,7 +418,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.336,
+      "importance_score": 15.333,
       "latest_coverage_at": "2026-11-08T22:34:34+00:00"
     },
     {
@@ -457,15 +438,35 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.148,
+      "importance_score": 15.145,
       "latest_coverage_at": "2026-11-08T09:30:00+00:00"
+    },
+    {
+      "id": "fb280a19d5a0",
+      "title": "Victorieux à Bollaert, l'OM enfonce le RC Lens quatre jours après son naufrage contre Côme",
+      "summary": "Le club phocéen a eu le dernier mot, dimanche, dans l'affiche de clôture de la 10e journée de Ligue 1 (2-1).",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 9,
+      "url": "https://www.franceinfo.fr/sports/foot/ligue-1/victorieux-a-bollaert-l-om-enfonce-le-rc-lens-quatre-jours-apres-son-naufrage-contre-come_8273783.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-08T21:39:41+00:00",
+      "category": "Sport",
+      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Victorieux à Bollaert, l'OM enfonce le RC Lens quatre jours après son naufrage contre Côme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "BFMTV"
+      ],
+      "coverage_count": 3,
+      "mention_count": 4,
+      "importance_score": 14.813,
+      "latest_coverage_at": "2026-11-08T21:39:41+00:00"
     },
     {
       "id": "d4d0dacc2272",
       "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 25 octobre 2026, au 1.718 jour du conflit.</p><h2>Le fait du jour</h2><p>Les Européens et la France seront bel et bien présents lors des…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:16:22+00:00",
       "category": "International",
@@ -477,28 +478,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.429,
+      "importance_score": 14.403,
       "latest_coverage_at": "2026-11-08T18:16:22+00:00"
-    },
-    {
-      "id": "7b7ebb33a4b9",
-      "title": "Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6",
-      "summary": "Longtemps bousculée par une équipe bayonnaise accrocheuse, La Rochelle a fini par trouver l’ouverture grâce au jeune Sacha Elissalde, décisif pour offrir l’essai de la victoire à Jules Favre. Succès précieux (22-18) pour les Maritimes qui reviennent à une longueur seulement des places qualificatives ce dimanche 8 novembre.",
-      "source": "Ouest-France",
-      "feed_rank": 6,
-      "url": "https://www.ouest-france.fr/sport/rugby/top-14/stade-rochelais/top-14-la-rochelle-sarrache-face-a-bayonne-et-entrevoit-de-nouveau-le-top-6-ac147a7a-dbc1-11f1-81f5-8e32b0872d76?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-08T22:20:53+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Top 14. La Rochelle s’arrache face à Bayonne et entrevoit de nouveau le Top 6 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro",
-        "BFMTV",
-        "Ouest-France"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.386,
-      "latest_coverage_at": "2026-11-08T23:21:30+00:00"
     },
     {
       "id": "51a2748e8296",
@@ -517,11 +498,85 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.231,
+      "importance_score": 14.228,
       "latest_coverage_at": "2026-11-08T17:00:00+00:00"
+    },
+    {
+      "id": "cd7e72ba049e",
+      "title": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic",
+      "summary": "Le but est de \"traquer les cargaisons, grâce à des outils comme l'intelligence artificielle\", a expliqué dimanche le ministre des Affaires étrangères, Jean-Noël Barrot.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 23,
+      "url": "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-08T14:21:07+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "20 Minutes"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 13.794,
+      "latest_coverage_at": "2026-11-08T14:21:07+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "01c31a8df0b6",
+      "title": "Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
+      "summary": "<p>Samedi, à Évry-Courcouronnes, Farida Amrani a été victime d’une « attaque » qu’elle juge « d’une extrême gravité ». La députée <a href=\"https://www.20minutes.fr/politique/france-insoumise/\">LFI</a> de l’Essonne a en effet été légèrement blessée par un tir de mortier dans un salon de coiffure.</p><p>Une enquête a été ouverte pour violences volontaires…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/societe/4261366-20261109-essonne-deputee-lfi-blessee-tir-mortier-salon-coiffure?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-09T00:15:27+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Essonne : Une députée LFI blessée par un tir de mortier dans un salon de coiffure ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Figaro",
+        "BFMTV",
+        "20 Minutes",
+        "Le Dauphiné Libéré",
+        "Le JDD"
+      ],
+      "coverage_count": 7,
+      "mention_count": 7
+    },
+    {
+      "id": "26ce73173f72",
+      "title": "Colombie : l'ex-président Petro accusé d'avoir accordé des contrats en échange de relations sexuelles",
+      "summary": "L’affaire est arrivée jusqu’à la Cour suprême après qu’une femme a déposé plainte, affirmant qu’elle-même et une trentaine de personnes ont obtenu des contrats publics en échange de relations sexuelles avec Gustavo Petro.",
+      "source": "Le Figaro",
+      "feed_rank": 7,
+      "url": "https://www.lefigaro.fr/international/colombie-l-ex-president-petro-accuse-d-avoir-accorde-des-contrats-en-echange-de-relations-sexuelles-20261109",
+      "published_at": "2026-11-09T00:08:06+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Colombie : l'ex-président Petro accusé d'avoir accordé des contrats en échange de relations sexuelles » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "20836620e334",
+      "title": "Ligue 1 : Marseille s’impose à Lens et signe une cinquième victoire consécutive, les Sang et Or s’enfoncent dans la crise",
+      "summary": "Dans les autres matchs de dimanche, Lille a conforté sa place de dauphin au classement grâce à son succès contre Rennes (2-1). Lyon, totalement inoffensif, a chuté à Brest (2-0), en très grande forme.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/09/ligue-1-marseille-s-impose-a-lens-et-signe-une-cinquieme-victoire-consecutive-les-sang-et-or-s-enfoncent-dans-la-crise_6808498_3242.html",
+      "published_at": "2026-11-09T00:02:55+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue 1 : Marseille s’impose à Lens et signe une cinquième victoire consécutive, les Sang et Or s’enfoncent dans la crise ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "2a54b7d1c556",
       "title": "Face à Javier Milei, le pape appelle à mettre « l’économie au service de la personne » et à « chercher des compromis »",
@@ -571,15 +626,31 @@
       "mention_count": 1
     },
     {
-      "id": "378d50f028ba",
-      "title": "Top 14 : La Rochelle à la relance",
-      "summary": "Battus lors de leurs deux dernières sorties, les hommes de Ronan O’Gara ont dominé Bayonne ce dimanche, à Marcel-Deflandre, lors du dernier match de la neuvième journée.",
+      "id": "fefffea18d62",
+      "title": "France: règles douloureuses après les manifestations, les gaz lacrymogènes en question",
+      "summary": "La France s'enfonce dans un automne très social avec la poursuite des manifestations contre la vie chère et en soutien à la contestation lycéenne. Des mobilisations qui se terminent régulièrement dans un nuage de gaz lacrymogènes, utilisés par les forces de l'ordre pour disperser les manifestants. Mais depuis plusieurs jours, des milliers de femmes…",
+      "source": "RFI",
+      "feed_rank": 9,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261108-france-r%C3%A8gles-douloureuses-apr%C3%A8s-les-manifestations-les-gaz-lacrymog%C3%A8nes-en-question",
+      "published_at": "2026-11-08T23:16:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « France: règles douloureuses après les manifestations, les gaz lacrymogènes en question ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "402b73d9214b",
+      "title": "Lens-Marseille : Genesio voit juste, Thauvin surnage pendant que Lens se noie encore… Les tops et les flops",
+      "summary": "DÉCRYPTAGE - Marseille s’est imposé à Bollaert (2-1) ce dimanche soir, lors de la 10e journée de Ligue 1. Retour sur les tops et les flops de cette rencontre sous haute tension.",
       "source": "Le Figaro",
-      "feed_rank": 13,
-      "url": "https://www.lefigaro.fr/sports/rugby/top-14/top-14-la-rochelle-a-la-relance-20261108",
-      "published_at": "2026-11-08T23:21:30+00:00",
+      "feed_rank": 12,
+      "url": "https://www.lefigaro.fr/sports/football/ligue-1/lens-marseille-genesio-voit-juste-thauvin-surnage-pendant-que-lens-se-noie-encore-les-tops-et-les-flops-20261108",
+      "published_at": "2026-11-08T23:14:41+00:00",
       "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Top 14 : La Rochelle à la relance ».",
+      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Lens-Marseille : Genesio voit juste, Thauvin surnage pendant que Lens se noie encore… Les tops et les flops » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
       ],
@@ -619,17 +690,49 @@
       "mention_count": 1
     },
     {
-      "id": "f1282e31aa18",
-      "title": "«Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune en deux",
-      "summary": "REPORTAGE - Dans ce bourg de 1700 âmes des Hauts-de-Seine, le chantier de l’A13 va condamner, du 16 novembre à août 2027, le passage sous un pont. Or, il s’agit de l’une des dernières voies permettant aux riverains de rejoindre les communes voisines de l’Ouest sans détour important. Les habitants craignent de se retrouver coupés de tout et de tous.",
-      "source": "Le Figaro",
-      "feed_rank": 20,
-      "url": "https://www.lefigaro.fr/actualite-france/bloquer-une-autoroute-pendant-neuf-mois-il-n-y-a-qu-en-france-que-l-on-voit-cela-a-marnes-la-coquette-la-fermeture-de-l-a13-coupe-la-commune-en-deux-20261108",
-      "published_at": "2026-11-08T23:05:27+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Bloquer une autoroute pendant neuf mois, il n’y a qu’en France que l’on voit cela !» : à Marnes-la-Coquette, la fermeture de l’A13 coupe la commune e » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "a29b89b53201",
+      "title": "Midterms 2026: à Atlanta, la joie des électeurs afro-américains après la victoire de Keisha Lance Bottoms",
+      "summary": "Aux États-Unis, mardi 3 novembre, les Américains ont voté pour les élections de mi-mandat, avec pour résultat une immense victoire des démocrates, qui prennent le contrôle du Congrès. Ils ont aussi remporté des postes de gouverneur qui étaient en jeu. Et l'élection de certains candidats a marqué l'histoire du pays : Gina Hinojosa devient la première…",
+      "source": "RFI",
+      "feed_rank": 6,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261108-midterms-2026-%C3%A0-atlanta-la-joie-des-%C3%A9lecteurs-afro-am%C3%A9ricains-apr%C3%A8s-la-victoire-de-keisha-lance-bottoms",
+      "published_at": "2026-11-08T23:06:34+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Midterms 2026: à Atlanta, la joie des électeurs afro-américains après la victoire de Keisha Lance Bottoms ».",
       "coverage_sources": [
-        "Le Figaro"
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "dee24f2ca797",
+      "title": "La baisse des prix du soufre se poursuit, faute de demande suffisante",
+      "summary": "La baisse des prix du soufre, qui a débuté en août, se poursuit. L'acide sulfurique, utilisé dans le secteur minier et dans celui des engrais, suit aussi la même pente baissière, mais les difficultés d'approvisionnement depuis la guerre en Iran ne sont pas pour autant résolues. L'offre disponible sur le marché est en effet toujours restreinte.",
+      "source": "RFI",
+      "feed_rank": 12,
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261108-la-baisse-des-prix-du-soufre-se-poursuit-faute-de-demande-suffisante",
+      "published_at": "2026-11-08T23:02:52+00:00",
+      "category": "Économie",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « La baisse des prix du soufre se poursuit, faute de demande suffisante ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "531d113fbcfe",
+      "title": "Le théâtre jouissif de Lazare: «Mon actrice principale», une langue truculente au service de la mémoire",
+      "summary": "Les massacres de Sétif et Guelma en pleine guerre d'Algérie en 1945 ont été longtemps tus. Lazare les évoque dans sa dernière pièce, Mon actrice principale, dans le récit que raconte sa mère, témoin et victime du drame alors qu'elle n'était qu'une enfant de huit ans. La pièce fait aussi revivre un personnage phare de l'histoire franco-algérienne inspiré…",
+      "source": "RFI",
+      "feed_rank": 13,
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261108-le-th%C3%A9%C3%A2tre-jouissif-de-lazare-mon-actrice-principale-une-langue-truculente-au-service-de-la-m%C3%A9moire",
+      "published_at": "2026-11-08T23:02:50+00:00",
+      "category": "Société",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Le théâtre jouissif de Lazare: «Mon actrice principale», une langue truculente au service de la mémoire ».",
+      "coverage_sources": [
+        "RFI"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -710,22 +813,6 @@
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Formule 1 : pourquoi Charles Leclerc a-t-il écopé d’une pénalité après le Grand Prix du Brésil ? ».",
       "coverage_sources": [
         "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0cdd85e8d1c3",
-      "title": "Liga : le Barça renverse l’Atlético et conforte sa place de leader",
-      "summary": "Les Barcelonais l’ont emporté sur le terrain de l’Atlético Madrid ce dimanche, lors de la 12e journée de Liga.",
-      "source": "Le Figaro",
-      "feed_rank": 12,
-      "url": "https://www.lefigaro.fr/sports/football/espagne/liga-le-barca-renverse-l-atletico-et-conforte-sa-place-de-leader-20261108",
-      "published_at": "2026-11-08T22:33:57+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Liga : le Barça renverse l’Atlético et conforte sa place de leader » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -875,22 +962,6 @@
       "mention_count": 1
     },
     {
-      "id": "6ce700d8e07a",
-      "title": "Foot : une tribune cède en Norvège, un supporter de Bodo/Glimt blessé",
-      "summary": "SCAN SPORT - L’incident s’est déroulé ce dimanche lors d’un match de D1 norvégienne entre Tromso et Bodo/Glimt.",
-      "source": "Le Figaro",
-      "feed_rank": 11,
-      "url": "https://www.lefigaro.fr/sports/football/foot-une-tribune-cede-en-norvege-un-supporter-de-bodo-glimt-blesse-20261108",
-      "published_at": "2026-11-08T22:06:02+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Foot : une tribune cède en Norvège, un supporter de Bodo/Glimt blessé ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "76611f2690ce",
       "title": "\"Les artistes ont le droit d'exprimer leurs convictions politiques\", déclare Jérémie Patrier-Leitus, porte-parole d'Édouard Philippe",
       "summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre. Au lendemain du meeting de Jean-Luc Mélenchon (LFI) au Bourget, Manuel Bompard était l'invité de BFM Politique. Raphaël Glucksmann…",
@@ -1028,7 +1099,7 @@
       "title": "États-Unis: Donald Trump veut Dana White, «féroce» patron de l'UFC, comme porte-parole de la Maison Blanche",
       "summary": "Toujours à la recherche d'un porte-parole pour la Maison-Blanche, Donald Trump a proposé le poste à Dana White, son ami et président de l'Ultimate Fighting Championship (UFC), organisation majeure d'arts martiaux mixtes. Le président des États-Unis a dit vouloir un « combattant féroce et guerrier » pour faire face aux journalistes. Une annonce choc pour…",
       "source": "RFI",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261108-%C3%A9tats-unis-donald-trump-veut-dana-white-f%C3%A9roce-patron-de-l-ufc-comme-porte-parole-de-la-maison-blanche",
       "published_at": "2026-11-08T21:44:45+00:00",
       "category": "Médias & communication",
@@ -1147,7 +1218,7 @@
       "title": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées",
       "summary": "Dans la bande de Gaza, déjà confrontée aux bombardements et à une situation humanitaire catastrophique, les habitants ont également dû faire face à des inondations, ce week-end du 7-8 novembre. Des pluies torrentielles se sont abattues sur le territoire palestinien, affectant 70 000 personnes vivant sous des tentes, selon les autorités locales.",
       "source": "RFI",
-      "feed_rank": 2,
+      "feed_rank": 1,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261108-gaza-des-pluies-torrentielles-inondent-les-camps-de-d%C3%A9plac%C3%A9s-70-000-personnes-affect%C3%A9es",
       "published_at": "2026-11-08T21:36:26+00:00",
       "category": "Environnement",
@@ -2072,7 +2143,7 @@
       "title": "Présidentielle 2027 : Wauquiez pour un seul candidat, Roussel candidat malgré les départs et Glucksmann balance sur 2024",
       "summary": "<p>Vous avez passé un bon dimanche ? On se réjouit pour vous, nous, on a suivi les émissions politiques du jour, lu les pages politiques des quotidiens… Bref, on a scruté les petites phrases, les faits et les gestes de la présidentielle 2027. Voici ce qu’il faut retenir à 161 jours du 18 avril 2027, date du premier tour.</p><h2>Le plot twist du…",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/politique/4261353-20261108-presidentielle-2027-wauquiez-seul-candidat-roussel-candidat-malgre-departs-glucksmann-balance-2024?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T19:54:44+00:00",
       "category": "Culture",
@@ -2325,7 +2396,7 @@
       "title": "«Sa faiblesse, c’était sa gentillesse» : ce que l’on sait du meurtre barbare de Jimmy, égorgé dans son appartement à Paris",
       "summary": "REPORTAGE - Samedi soir, Jimmy P., 54 ans, a été retrouvé mort dans son appartement de la Cité du Souvenir, dans le 14e arrondissement de la capitale. Ses voisins racontent cet homme solitaire et évoquent ses fréquentations qui lui ont peut-être coûté la vie.",
       "source": "Le Figaro",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lefigaro.fr/faits-divers/sa-faiblesse-c-etait-sa-gentillesse-ce-que-l-on-sait-du-meurtre-barbare-de-jimmy-egorge-dans-son-appartement-a-paris-20261108",
       "published_at": "2026-11-08T19:27:15+00:00",
       "category": "Société",
@@ -2362,6 +2433,22 @@
       "published_at": "2026-11-08T19:26:10+00:00",
       "category": "Économie",
       "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « 18H Darius Rochebin du dimanche 8 novembre 2026 ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "9bc23e26c721",
+      "title": "20H Haddad du dimanche 8 novembre 2026",
+      "summary": "Au sommaire : Colère sociale, réunion décisive à Matignon demain ? Une star de la MMA bientôt à la Maison Blanche ? Primaire avant 2027, droite et centre vont y aller ? Fusillade en Pologne, le profil glaçant du tireur.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 24,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-20h-haddad-du-dimanche-8-novembre-2026-2474678.html",
+      "published_at": "2026-11-08T19:24:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « 20H Haddad du dimanche 8 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
       ],
@@ -2525,22 +2612,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Une chute de 13 mètres, un homme filmé près du corps : le mystère Antoine de Massy, membre de la famille princière de Monaco, retrouvé mort » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Valeurs actuelles"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "7a09a968ffab",
-      "title": "COP31 : pourquoi l'électrification, au cœur de la conférence internationale sur le climat, fait débat",
-      "summary": "La COP31 s'ouvre, lundi 9 novembre, en Turquie, et le pays hôte a fait de l'électrification un sujet central de la conférence internationale. En pleine crise de l'énergie, le sujet est considéré comme \"fédérateur\", permettant à la fois d'améliorer les objectifs climatiques, de sécurité énergétique, de compétitivité et de pouvoir d'achat. Mais l'Union…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/environnement-ecologie/cop31-pourquoi-l-electrification-au-coeur-de-la-conference-internationale-sur-le-climat-fait-debat-2474278.html",
-      "published_at": "2026-11-08T19:00:00+00:00",
-      "category": "Économie",
-      "communication_angle": "La hausse des prix touche directement les arbitrages quotidiens et la perception de la valeur. Les marques doivent examiner la sensibilité au prix, justifier leurs promesses par des bénéfices tangibles et éviter les messages déconnectés des contraintes vécues. Sujet suivi : « COP31 : pourquoi l'électrification, au cœur de la conférence internationale sur le climat, fait débat ».",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2945,7 +3016,7 @@
       "title": "Guerre en Ukraine : Des centaines de milliers d’Ukrainiens sans électricité, l’Europe invitée aux pourparlers",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 25 octobre 2026, au 1.718 jour du conflit.</p><h2>Le fait du jour</h2><p>Les Européens et la France seront bel et bien présents lors des…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/monde/ukraine/4261341-20261108-guerre-ukraine-centaines-milliers-ukrainiens-electricite-europe-invitee-pourparlers?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:16:22+00:00",
       "category": "International",
@@ -2971,27 +3042,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "9ded6717b567",
-      "title": "La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure",
-      "summary": "La députée a été \"légèrement touchée aux jambes\" par ce tir de mortier qui s'est produit samedi dans un salon de coiffure Evry-Courcouronnes (Essonne) et se trouve \"particulièrement choquée\" par cet évènement, selon la même source.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 20,
-      "url": "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-08T18:11:13+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Figaro",
-        "BFMTV",
-        "Le Dauphiné Libéré",
-        "Le JDD"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6
     },
     {
       "id": "f08912c6f67d",
@@ -3042,15 +3092,15 @@
       "mention_count": 1
     },
     {
-      "id": "67584bef5c4c",
-      "title": "EN DIRECT Lens-OM : Udol pas verni, les Marseillais pas loin de se faire surpendrre",
-      "summary": "Lens affronte l'OM en clôture de la 10e journée de Ligue 1 dans un contexte très lourd après le passage de l'ouragan Côme en milieu de semaine",
+      "id": "8850ed1470e1",
+      "title": "Lens-OM : Abdallah replonge les Lensois dans la déprime, Marseille ne s'arrête plus...Le match à revivre en direct",
+      "summary": "L'OM s'est imposé au finish face à des Lensois qui concluent leur semaine de l'horreur par une nouvelle déconvenue (2-1)",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/sport/football/4261272-20261108-direct-lens-om-apres-9-buts-encaisses-c1-sang-or-doivent-revanche-public?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T18:02:36+00:00",
       "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « EN DIRECT Lens-OM : Udol pas verni, les Marseillais pas loin de se faire surpendrre » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Lens-OM : Abdallah replonge les Lensois dans la déprime, Marseille ne s'arrête plus...Le match à revivre en direct ».",
       "coverage_sources": [
         "20 Minutes"
       ],
@@ -3101,22 +3151,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « De Lenny Kravitz à Khloé Kardashian en passant par le « No Nut November »… L’abstinence sexuelle a-t-elle des vertus ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0161ccbd0bca",
-      "title": "Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire »",
-      "summary": "Soutenu par les syndicats et porté par une revendication d’inclusion, le mouvement lycéen est le signe qu’une génération entière s’érige en sujet politique, analyse le chercheur dans un entretien au « Monde ».",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/idees/article/2026/11/08/samuel-hayat-historien-les-jeunes-ont-eux-memes-conscience-d-etre-en-train-de-faire-l-histoire_6808462_3232.html",
-      "published_at": "2026-11-08T18:00:11+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Samuel Hayat, historien : « Les jeunes ont eux-mêmes conscience d’être en train de faire l’histoire » ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3638,6 +3672,22 @@
       "mention_count": 1
     },
     {
+      "id": "94246a85413e",
+      "title": "La présentation du programme de Jean-Luc Mélenchon au Bourget",
+      "summary": "Jean-Luc Mélenchon le candidat de La France insoumise présentait hier au Bourget son programme \"L’Avenir en commun\", publié vendredi avec près de 1000 propositions. Une présentation devant près de 20 000 sympathisants.",
+      "source": "France Inter",
+      "feed_rank": 7,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/conversation/la-conversation-du-dimanche-08-novembre-2026-3932070",
+      "published_at": "2026-11-08T17:16:09+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « La présentation du programme de Jean-Luc Mélenchon au Bourget ».",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "a194afc4bb3e",
       "title": "Au moins quatre morts et des dizaines de blessés dans une collision entre deux trains",
       "summary": "Une collision ferroviaire au sud du Caire a fait au moins quatre morts et 88 blessés, relançant le débat sur la sécurité du réseau ferré égyptien",
@@ -3882,7 +3932,7 @@
       "title": "Tennis: Carlos Alcaraz impérial en finale du Rolex Paris Masters face à Ben Shelton",
       "summary": "Le numéro 2 mondial Carlos Alcaraz a remporté ce dimanche 8 novembre le Rolex Paris Masters pour la première fois de sa riche carrière en battant en finale l’Américain Ben Shelton 7-6 (7-5), 7-5. L’Espagnol fait le plein de confiance avant le début des ATP Finals de Turin qui débute dans une semaine.",
       "source": "RFI",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.rfi.fr/fr/sports/20261108-tennis-carlos-alcaraz-imp%C3%A9rial-en-finale-du-rolex-paris-masters-face-%C3%A0-ben-shelton",
       "published_at": "2026-11-08T17:02:38+00:00",
       "category": "Sport",
@@ -4141,7 +4191,7 @@
       "title": "Carlos Alcaraz a désormais tout gagné à Paris, Shelton n’a rien pu faire en finale",
       "summary": "<p>C&#x27;était presque écrit d’avance, dès lors qu’il était parvenu <a href=\"https://www.20minutes.fr/sport/tennis/4261098-20261107-masters-1000-paris-balles-match-sauvees-points-fou-comment-carlos-alcaraz-encore-revenu-enfer\">à renverser Taylor Fritz</a> un peu miraculeusement en quarts de finale. L’Espagnol <a…",
       "source": "20 Minutes",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/sport/tennis/4261303-20261108-carlos-alcaraz-desormais-tout-gagne-paris-shelton-rien-pu-faire-finale?at_medium=display&at_campaign=149",
       "published_at": "2026-11-08T16:54:23+00:00",
       "category": "Société",
@@ -4157,7 +4207,7 @@
       "title": "JOJ 2026: La ferveur sénégalaise autour des sports collectifs",
       "summary": "Avec le basket 3X3 et le futsal qui ont débuté ce week-end, les supporters sénégalais mettent une ambiance de feu au complexe Tour de l’Œuf et à Diamniadio, à la Dakar Arena pour soutenir leurs athlètes. Retour sur un bel engouement pour un public venu nombreux assister aux épreuves.",
       "source": "RFI",
-      "feed_rank": 13,
+      "feed_rank": 17,
       "url": "https://www.rfi.fr/fr/sports/20261108-joj-2026-la-ferveur-s%C3%A9n%C3%A9galaise-autour-des-sports-collectifs",
       "published_at": "2026-11-08T16:50:38+00:00",
       "category": "Sport",
@@ -4461,7 +4511,7 @@
       "title": "Qui sont les candidats en lice pour succéder à Christine Lagarde à la tête de la BCE?",
       "summary": "Qui succédera à Christine Lagarde à la tête de la Banque centrale européenne (BCE) ? Après l'annonce fin octobre 2026 de son départ anticipé, prévu le 7 février 2027, deux candidats sont officiellement en lice : le Néerlandais Klaas Knot et l'Espagnol Pablo Hernandez de Cos. Les négociations entre les 21 pays membres de la zone euro débutent ce lundi 9…",
       "source": "RFI",
-      "feed_rank": 6,
+      "feed_rank": 10,
       "url": "https://www.rfi.fr/fr/europe/20261108-qui-sont-les-candidats-en-lice-pour-succ%C3%A9der-%C3%A0-christine-lagarde-%C3%A0-la-t%C3%AAte-de-la-bce",
       "published_at": "2026-11-08T16:29:13+00:00",
       "category": "Économie",
@@ -4784,7 +4834,7 @@
       "title": "Supercoupe de la CAF: l'USM Alger remporte le trophée pour la deuxième fois de son histoire en battant le Mamelodi Sundowns",
       "summary": "L’USM Alger a soulevé son premier titre de la saison en battant les Sud-Africains du Mamelodi Sundowns ce dimanche 8 novembre au stade Loftus Versfeld de Pretoria dans le cadre de la Supercoupe de la CAF. C’est le second sacre du club algérien dans la compétition après 2023.",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.rfi.fr/fr/afrique-foot/20261108-supercoupe-de-la-caf-l-usm-alger-remporte-le-troph%C3%A9e-pour-la-deuxi%C3%A8me-fois-de-son-histoire-en-battant-le-mamelodi-sundowns",
       "published_at": "2026-11-08T16:02:50+00:00",
       "category": "Société",
@@ -5120,7 +5170,7 @@
       "title": "Israël: Eisenkot, officiellement chargé de former le prochain gouvernement, tend la main à Netanyahu",
       "summary": "Le président israélien, Isaac Herzog, a officiellement remis, dimanche 8 novembre 2026, à Gadi Eisenkot, chef du principal bloc d'opposition au Premier ministre sortant Benyamin Netanyahu, le mandat de former le prochain gouvernement. « Nous traversons l'une des périodes les plus critiques que la démocratie israélienne ait jamais connues », a déclaré le…",
       "source": "RFI",
-      "feed_rank": 3,
+      "feed_rank": 2,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261108-isra%C3%ABl-eisenkot-officiellement-charg%C3%A9-de-former-le-prochain-gouvernement-tend-la-main-%C3%A0-netanyahu",
       "published_at": "2026-11-08T15:40:41+00:00",
       "category": "Politique",
@@ -5344,57 +5394,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "d4d2b156d627",
-      "title": "Le niveau de toxicité de l’air des ongleries inquiète, révèle une étude",
-      "summary": "Une étude, publiée le 5 novembre 2026 dans «Risk Analysis», a révélé que le niveau de toxicité de l’air des salons de soins pour les ongles atteignait des pics inquiétants. La santé des employés d'ongleries menacée. Selon une étude scientifique dirigée par Anthony Michel Lerardi de l’École supérieure de santé publique et de politique sanitaire de…",
-      "source": "CNews",
-      "feed_rank": 23,
-      "url": "https://www.cnews.fr/sante/2026-11-08/le-niveau-de-toxicite-de-lair-des-ongleries-inquiete-revele-une-etude-1950220",
-      "published_at": "2026-11-08T15:16:33+00:00",
-      "category": "Politique",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Le niveau de toxicité de l’air des ongleries inquiète, révèle une étude ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "87ef9eb47f4a",
-      "title": "Exposition : au Musée des Confluences, un face-à-face inédit avec la Corée du Nord",
-      "summary": "En exposant une quarantaine de portraits d’habitants, à la fois cliniques et théâtraux, le photographe Stéphan Gladieu ouvre une fenêtre humaine sur l’une des dictatures les plus fermées du monde, dans cette exposition à voir jusqu’en janvier 2028 au Musée des Confluences de Lyon.",
-      "source": "La Croix",
-      "feed_rank": 9,
-      "url": "https://www.la-croix.com/culture/exposition-au-musee-des-confluences-un-face-a-face-inedit-avec-la-coree-du-nord-20261108",
-      "published_at": "2026-11-08T15:11:27+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Exposition : au Musée des Confluences, un face-à-face inédit avec la Corée du Nord » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "16ba3a89a034",
-      "title": "La Pologne en deuil confrontée au \"terrorisme de l'intérieur\"",
-      "summary": "Drapeaux en berne, bougies et recueillement : la Pologne en deuil s'est réveillée choquée, au lendemain de la tuerie perpétrée à Cracovie par un jeune \"fasciné\" par les idées d'extrême droite, qui a abattu six personnes : quatre Polonais, une citoyenne autrichienne et un citoyen britannique.",
-      "source": "France Inter",
-      "feed_rank": 11,
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-pologne-en-deuil-confrontee-au-terrorisme-de-l-interieur-5018807",
-      "published_at": "2026-11-08T15:10:35+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La Pologne en deuil confrontée au \"terrorisme de l'intérieur\" » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France 24",
-        "Mediapart",
-        "France Inter",
-        "RMC"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4
     }
   ]
 }
