@@ -7,7 +7,7 @@ Site statique responsive conçu pour GitHub Pages. Le site affiche des articles 
 - Tri des articles par date ou par média et affichage progressif.
 - Résumé RSS, média d’origine, date et lien vers l’article.
 - Angle « Pourquoi c’est important en communication ».
-- Baromètre des 20 sujets les plus couverts sur les sept derniers jours.
+- Baromètre des 20 sujets les plus couverts sur les 30 derniers jours.
 - Collecte automatique en chaîne toutes les dix minutes via GitHub Actions, avec lancement manuel possible.
 - Heure de la dernière collecte affichée en heure de Paris.
 - Icônes de site, de signet mobile et manifeste web.
