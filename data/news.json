@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-11T01:38:12.129823+00:00",
-  "last_attempt": "2026-11-11T01:38:12.129823+00:00",
+  "last_updated": "2026-11-11T02:11:08.095569+00:00",
+  "last_attempt": "2026-11-11T02:11:08.095569+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 898,
-  "unique_story_count": 777,
+  "unique_story_count": 776,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-12T01:38:12.129823+00:00",
-  "featured_window_end": "2026-11-11T01:38:12.129823+00:00",
+  "featured_window_start": "2026-10-12T02:11:08.095569+00:00",
+  "featured_window_end": "2026-11-11T02:11:08.095569+00:00",
   "featured_pool_count": 896,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
@@ -60,12 +60,13 @@
         "Paris Match",
         "Public Sénat",
         "Valeurs actuelles",
-        "Konbini"
+        "Konbini",
+        "INA – La Revue des médias"
       ],
-      "coverage_count": 31,
-      "mention_count": 193,
-      "importance_score": 35.393,
-      "latest_coverage_at": "2026-11-11T01:00:58+00:00"
+      "coverage_count": 32,
+      "mention_count": 194,
+      "importance_score": 35.592,
+      "latest_coverage_at": "2026-11-11T01:31:26+00:00"
     },
     {
       "id": "4039a9cd5c72",
@@ -98,7 +99,7 @@
       ],
       "coverage_count": 17,
       "mention_count": 29,
-      "importance_score": 28.006,
+      "importance_score": 27.993,
       "latest_coverage_at": "2026-11-10T22:52:29+00:00"
     },
     {
@@ -114,7 +115,6 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "Le Figaro",
         "Mediapart",
         "RFI",
         "France Culture",
@@ -128,9 +128,9 @@
         "Reporterre",
         "Télérama"
       ],
-      "coverage_count": 15,
-      "mention_count": 18,
-      "importance_score": 26.273,
+      "coverage_count": 14,
+      "mention_count": 17,
+      "importance_score": 25.763,
       "latest_coverage_at": "2026-11-10T19:28:47+00:00"
     },
     {
@@ -159,23 +159,22 @@
       ],
       "coverage_count": 12,
       "mention_count": 14,
-      "importance_score": 24.665,
+      "importance_score": 24.676,
       "latest_coverage_at": "2026-11-11T01:09:08+00:00"
     },
     {
-      "id": "c938d0fa0765",
-      "title": "La justice américaine inculpe trois « agents iraniens » pour un « projet d’attentat » sur une base britannique",
-      "summary": "Les États-Unis ont annoncé mardi 10 novembre 2026 avoir inculpé trois « agents iraniens » pour un « projet d’attentat », dont un responsable présumé des Brigades du Hezbollah, déjà incarcéré aux États-Unis et accusé d’avoir préparé en septembre une attaque contre une base aérienne britannique utilisée par l’armée américaine pour frapper l’Iran.",
-      "source": "Ouest-France",
-      "feed_rank": 3,
-      "url": "https://www.ouest-france.fr/monde/etats-unis/la-justice-americaine-inculpe-trois-agents-iraniens-pour-un-projet-dattentat-sur-une-base-britannique-95683dd2-dd58-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-10T23:33:41+00:00",
-      "category": "Société",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « La justice américaine inculpe trois « agents iraniens » pour un « projet d’attentat » sur une base britannique ».",
+      "id": "35a62ff79a02",
+      "title": "Un militaire américain arrêté en Angleterre, soupçonné d’espionnage au profit de la Russie",
+      "summary": "Le suspect de 41 ans est soupçonné d’avoir enfreint plusieurs articles de la loi britannique de 2023 sur la sécurité nationale, qui concernent l’obtention ou la divulgation d’informations protégées et l’assistance à un service de renseignement étranger.",
+      "source": "Le Monde",
+      "feed_rank": 13,
+      "url": "https://www.lemonde.fr/international/article/2026/11/11/un-militaire-americain-arrete-en-angleterre-soupconne-d-espionnage-au-profit-de-la-russie_6808915_3210.html",
+      "published_at": "2026-11-11T01:55:06+00:00",
+      "category": "Politique",
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Un militaire américain arrêté en Angleterre, soupçonné d’espionnage au profit de la Russie ».",
       "coverage_sources": [
         "Le Monde",
         "France 24",
-        "Le Figaro",
         "RFI",
         "BFMTV",
         "CNews",
@@ -184,10 +183,10 @@
         "Ouest-France",
         "Le Dauphiné Libéré"
       ],
-      "coverage_count": 10,
+      "coverage_count": 9,
       "mention_count": 14,
-      "importance_score": 23.543,
-      "latest_coverage_at": "2026-11-10T23:33:41+00:00"
+      "importance_score": 22.942,
+      "latest_coverage_at": "2026-11-11T01:55:06+00:00"
     },
     {
       "id": "4d7b295ad1d6",
@@ -211,7 +210,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.071,
+      "importance_score": 21.07,
       "latest_coverage_at": "2026-11-10T19:30:05+00:00"
     },
     {
@@ -236,8 +235,30 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.034,
+      "importance_score": 21.032,
       "latest_coverage_at": "2026-11-11T00:29:32+00:00"
+    },
+    {
+      "id": "9354dd718f58",
+      "title": "«Succès à tout prix, argent, obsession de l’apparence, quête effrénée du plaisir» : Léon XIV dénonce les «idoles de notre temps»",
+      "summary": "Devant un million de jeunes argentins réunis mardi soir à Buenos Aires, le pape a renouvelé son appel à la «sainteté». Il quitte l’Argentine ce mercredi pour le Pérou, dernière étape de son périple en Amérique latine.",
+      "source": "Le Figaro",
+      "feed_rank": 5,
+      "url": "https://www.lefigaro.fr/actualite-france/succes-a-tout-prix-argent-obsession-de-l-apparence-quete-effrenee-du-plaisir-leon-xiv-denonce-les-idoles-de-notre-temps-20261111",
+      "published_at": "2026-11-11T01:50:01+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « «Succès à tout prix, argent, obsession de l’apparence, quête effrénée du plaisir» : Léon XIV dénonce les «idoles de notre temps» » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro",
+        "CNews",
+        "Courrier International",
+        "Euronews",
+        "Le JDD"
+      ],
+      "coverage_count": 5,
+      "mention_count": 6,
+      "importance_score": 18.269,
+      "latest_coverage_at": "2026-11-11T01:50:01+00:00"
     },
     {
       "id": "7dde1252ae38",
@@ -258,51 +279,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.09,
+      "importance_score": 18.089,
       "latest_coverage_at": "2026-11-10T21:22:14+00:00"
-    },
-    {
-      "id": "084f3ffad428",
-      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
-      "summary": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
-      "published_at": "2026-11-10T18:43:56+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondi ».",
-      "coverage_sources": [
-        "Le Monde",
-        "L'Obs",
-        "L'Opinion",
-        "Le Monde Informatique",
-        "Next.ink"
-      ],
-      "coverage_count": 5,
-      "mention_count": 6,
-      "importance_score": 17.77,
-      "latest_coverage_at": "2026-11-10T18:43:56+00:00"
-    },
-    {
-      "id": "469985cc009e",
-      "title": "«Les limites du corps ne peuvent éteindre le zèle» pastoral : en Argentine, Léon XIV évoque son cancer",
-      "summary": "Le pape Léon XIV a évoqué ce mardi 10 novembre en Argentine sa récente opération pour un cancer du poumon. Il affirmé, s'adressant aux membres de l'Église catholique locale, que les limites du corps «ne peuvent éteindre le zèle» pastoral. Le pape Léon XIV, modèle d'abnégation. Quelques semaines après avoir subi une opération au Vatican pour un nodule…",
-      "source": "CNews",
-      "feed_rank": 4,
-      "url": "https://www.cnews.fr/monde/2026-11-10/les-limites-du-corps-ne-peuvent-eteindre-le-zele-pastoral-en-argentine-leon-xiv",
-      "published_at": "2026-11-10T21:48:00+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Les limites du corps ne peuvent éteindre le zèle» pastoral : en Argentine, Léon XIV évoque son cancer » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "CNews",
-        "Courrier International",
-        "Euronews",
-        "Le JDD"
-      ],
-      "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.763,
-      "latest_coverage_at": "2026-11-10T22:20:06+00:00"
     },
     {
       "id": "265cf487dd42",
@@ -322,7 +300,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.497,
+      "importance_score": 16.495,
       "latest_coverage_at": "2026-11-10T20:18:04+00:00"
     },
     {
@@ -343,8 +321,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.382,
+      "importance_score": 16.38,
       "latest_coverage_at": "2026-11-10T23:39:01+00:00"
+    },
+    {
+      "id": "2a01d37ae0b5",
+      "title": "Ce que révèle vraiment l'affaire Jensen Huang pour le géant Nvidia",
+      "summary": "Le géant de la tech vacille après des soupçons d'espionnage visant son patron, qui ont fait chuter l'action de 8%. Au cœur de la guerre technologique, le point vulnérable reste l’humain",
+      "source": "L'Opinion",
+      "feed_rank": 8,
+      "url": "https://www.lopinion.fr/economie/ce-que-revele-vraiment-laffaire-jensen-huang-pour-le-geant-nvidia",
+      "published_at": "2026-11-10T14:14:58+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Ce que révèle vraiment l'affaire Jensen Huang pour le géant Nvidia ».",
+      "coverage_sources": [
+        "L'Obs",
+        "L'Opinion",
+        "Le Monde Informatique",
+        "Next.ink"
+      ],
+      "coverage_count": 4,
+      "mention_count": 5,
+      "importance_score": 16.263,
+      "latest_coverage_at": "2026-11-10T14:14:58+00:00"
     },
     {
       "id": "a7d82a92fa80",
@@ -364,7 +363,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.038,
+      "importance_score": 16.037,
       "latest_coverage_at": "2026-11-10T16:10:12+00:00"
     },
     {
@@ -384,7 +383,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.617,
+      "importance_score": 14.615,
       "latest_coverage_at": "2026-11-10T20:09:41+00:00"
     },
     {
@@ -392,7 +391,7 @@
       "title": "« Koh-Lanta » : Qui a été éliminé lors de l’épreuve d’orientation, juste avant les poteaux ?",
       "summary": "<p>C’est la dernière ligne droite pour « <a href=\"https://www.20minutes.fr/arts-stars/television/4247974-20260923-adapte-pourquoi-tirage-sort-koh-lanta-all-stars-mixte-non-genre\">Koh-Lanta All Stars</a> ». Après plus de deux mois de diffusion, l’aventure touche bientôt à sa fin au Panama. La semaine dernière, <a…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/arts-stars/television/4261610-20261111-koh-lanta-elimine-lors-epreuve-orientation-juste-avant-poteaux?at_medium=display&at_campaign=149",
       "published_at": "2026-11-10T23:07:36+00:00",
       "category": "Société",
@@ -404,7 +403,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.594,
+      "importance_score": 14.547,
       "latest_coverage_at": "2026-11-10T23:07:36+00:00"
     },
     {
@@ -412,7 +411,7 @@
       "title": "« En Espagne, l’accès au logement, au cœur d’un appel à la grève générale, concentre les colères »",
       "summary": "L’appel à la grève, le 11 novembre, pour l’encadrement des loyers et la création de logements sociaux s’inspire des grands mouvements et des conquêtes sociales obtenues dans le pays par la rue, analyse le géographe Diego Miralles Buil, dans une tribune au « Monde ».",
       "source": "Le Monde",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.lemonde.fr/idees/article/2026/11/10/en-espagne-l-acces-au-logement-au-c-ur-d-un-appel-a-la-greve-generale-concentre-les-coleres_6808898_3232.html",
       "published_at": "2026-11-10T19:00:08+00:00",
       "category": "Société",
@@ -424,8 +423,28 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.537,
+      "importance_score": 14.52,
       "latest_coverage_at": "2026-11-10T19:00:08+00:00"
+    },
+    {
+      "id": "eb609ad10b0e",
+      "title": "Reportage. « La bataille n’est pas finie » : quand les enseignants se joignent aux lycéens et étudiants dans la rue",
+      "summary": "À Paris, quelques milliers de personnes, munies de parapluies, ont commencé à défiler dans une ambiance bon enfant, du Panthéon vers la Place d’Italie. Entre 2 000 et 4 000 personnes étaient attendues, selon une note interne du renseignement consultée par l’AFP. Selon le ministère de l’Éducation ce matin, 1,6% des enseignants étaient en grève ce mardi,…",
+      "source": "Public Sénat",
+      "feed_rank": 3,
+      "url": "https://www.publicsenat.fr/actualites/education/reportage-la-bataille-nest-pas-finie-quand-les-enseignants-se-joignent-aux-lyceens-et-etudiants-dans-la-rue",
+      "published_at": "2026-11-10T17:25:51+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Reportage. « La bataille n’est pas finie » : quand les enseignants se joignent aux lycéens et étudiants dans la rue ».",
+      "coverage_sources": [
+        "RFI",
+        "Le JDD",
+        "Public Sénat"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.501,
+      "latest_coverage_at": "2026-11-10T17:25:51+00:00"
     },
     {
       "id": "d27a5602ef60",
@@ -444,7 +463,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.392,
+      "importance_score": 14.39,
       "latest_coverage_at": "2026-11-10T21:41:26+00:00"
     },
     {
@@ -464,7 +483,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.248,
+      "importance_score": 14.246,
       "latest_coverage_at": "2026-11-10T19:22:36+00:00"
     },
     {
@@ -484,31 +503,44 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.243,
+      "importance_score": 14.242,
       "latest_coverage_at": "2026-11-10T23:15:15+00:00"
-    },
-    {
-      "id": "d0cd3d313753",
-      "title": "Le milliardaire tchèque Daniel Kretinsky remporte son OPA sur Fnac Darty",
-      "summary": "A l’issue de l’offre publique d’achat lancée le 26 janvier, l’homme d’afaires, à travers sa société EP Group, devient l’actionnaire de contrôle du distributeur français de produits culturels, électroménagers et électroniques avec 69,3 % du capital.",
-      "source": "Le Monde",
-      "feed_rank": 8,
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-milliardaire-tcheque-daniel-kretinsky-remporte-son-opa-sur-fnac-darty_6808902_3234.html",
-      "published_at": "2026-11-10T19:33:20+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le milliardaire tchèque Daniel Kretinsky remporte son OPA sur Fnac Darty » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde",
-        "La Croix",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.233,
-      "latest_coverage_at": "2026-11-10T19:33:20+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "9354dd718f58",
+      "title": "«Succès à tout prix, argent, obsession de l’apparence, quête effrénée du plaisir» : Léon XIV dénonce les «idoles de notre temps»",
+      "summary": "Devant un million de jeunes argentins réunis mardi soir à Buenos Aires, le pape a renouvelé son appel à la «sainteté». Il quitte l’Argentine ce mercredi pour le Pérou, dernière étape de son périple en Amérique latine.",
+      "source": "Le Figaro",
+      "feed_rank": 5,
+      "url": "https://www.lefigaro.fr/actualite-france/succes-a-tout-prix-argent-obsession-de-l-apparence-quete-effrenee-du-plaisir-leon-xiv-denonce-les-idoles-de-notre-temps-20261111",
+      "published_at": "2026-11-11T01:50:01+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « «Succès à tout prix, argent, obsession de l’apparence, quête effrénée du plaisir» : Léon XIV dénonce les «idoles de notre temps» » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "8bd868f33899",
+      "title": "Un juge américain refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC, permettant à la procédure de se poursuivre",
+      "summary": "Le président américain reproche au groupe audiovisuel public britannique d’avoir réalisé un montage vidéo trompeur de ses propos. « La question de savoir si (…) il a subi des dommages (…) est remise à plus tard », lors d’un jugement sur le fond, écrit le juge.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/economie/article/2026/11/11/un-juge-americain-refuse-de-rejeter-la-plainte-pour-diffamation-de-donald-trump-contre-la-bbc-permettant-a-la-procedure-de-se-poursuivre_6808914_3234.html",
+      "published_at": "2026-11-11T01:34:12+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Un juge américain refuse de rejeter la plainte pour diffamation de Donald Trump contre la BBC, permettant à la procédure de se poursuivre » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde",
+        "Le Figaro"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
     {
       "id": "2f659b8003d2",
       "title": "En Haïti, le président du Salvador Nayib Bukele mène l'offensive contre les gangs",
@@ -521,6 +553,22 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « En Haïti, le président du Salvador Nayib Bukele mène l'offensive contre les gangs ».",
       "coverage_sources": [
         "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "02cac3dd642a",
+      "title": "Brésil : amende d’1,2 million d’euros contre Meta pour traitement inégal entre Lula et Bolsonaro lors de la présidentielle",
+      "summary": "Le tribunal électoral du Brésil n’a toutefois pas retenu d’éventuelle ingérence «délibérée» au profit du candidat de droite, comme l’avait dénoncé l’équipe du président réélu.",
+      "source": "Le Figaro",
+      "feed_rank": 13,
+      "url": "https://www.lefigaro.fr/international/bresil-amende-d-1-2-million-d-euros-contre-meta-pour-traitement-inegal-entre-lula-et-bolsonaro-lors-de-la-presidentielle-20261111",
+      "published_at": "2026-11-11T01:31:26+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Brésil : amende d’1,2 million d’euros contre Meta pour traitement inégal entre Lula et Bolsonaro lors de la présidentielle ».",
+      "coverage_sources": [
+        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -546,7 +594,7 @@
       "title": "États-Unis : Hegseth sauve sa peau à la tête du Pentagone, Trump aux anges",
       "summary": "<p>Aux États-Unis, Pete Hegseth va pouvoir politiquement souffler, tout du moins quelques mois. <a href=\"https://www.20minutes.fr/monde/etats-unis/4261782-20261109-etats-unis-congres-lance-procedure-destitution-contre-pete-hegseth-ministre-defense\">La procédure de destitution à son encontre</a> a été tuée dans l’œuf mardi par les députés républicains,…",
       "source": "20 Minutes",
-      "feed_rank": 9,
+      "feed_rank": 1,
       "url": "https://www.20minutes.fr/monde/etats-unis/4262099-20261111-etats-unis-hegseth-sauve-peau-tete-pentagone-trump-anges?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T01:09:08+00:00",
       "category": "International",
@@ -594,13 +642,29 @@
       "title": "Etats-Unis : Proche de Trump, le conservateur Jim Jordan prend la tête des représentants républicains",
       "summary": "<p>Après la perte de leur majorité au <a href=\"https://www.20minutes.fr/dossier/congres\">Congrès</a> lors <a href=\"https://www.20minutes.fr/dossier/midterms\">midterms</a> du 3 novembre, les républicains ont choisi un proche de <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> pour diriger leur camp à la Chambre des représentants.…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.20minutes.fr/monde/etats-unis/4262087-20261111-etats-unis-proche-trump-conservateur-jim-jordan-prend-tete-representants-republicains?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T00:59:33+00:00",
       "category": "Politique",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Etats-Unis : Proche de Trump, le conservateur Jim Jordan prend la tête des représentants républicains ».",
       "coverage_sources": [
         "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "31da225d625f",
+      "title": "Intelligence artificielle : des géants du secteur adoptent une charte visant à protéger les plus jeunes",
+      "summary": "La charte non contraignante et notamment soutenue par les géants américains OpenAI et Anthropic, contient notamment l’interdiction pour les IA de créer des contenus à caractère sexuel non consentis et pédocriminels.",
+      "source": "Le Figaro",
+      "feed_rank": 14,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-des-geants-du-secteur-adoptent-une-charte-visant-a-proteger-les-plus-jeunes-20261111",
+      "published_at": "2026-11-11T00:52:27+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Intelligence artificielle : des géants du secteur adoptent une charte visant à protéger les plus jeunes ».",
+      "coverage_sources": [
+        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -658,7 +722,7 @@
       "title": "Les députés américains tuent dans l’œuf une procédure de destitution contre Peter Hegseth, Trump salue «un grand patriote»",
       "summary": "Le ministre américain de la Défense avait qualifié mardi de «mise en scène politique» la procédure de destitution initiée par un député à son encontre pour entre autres sa gestion de la guerre contre l’Iran.",
       "source": "Le Figaro",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.lefigaro.fr/international/etats-unis-le-secretaire-d-etat-a-la-defense-pete-hegseth-qualifie-la-procedure-de-destitution-contre-lui-de-farce-20261110",
       "published_at": "2026-11-10T23:54:32+00:00",
       "category": "Politique",
@@ -804,7 +868,7 @@
       "title": "« Koh-Lanta » : Qui a été éliminé lors de l’épreuve d’orientation, juste avant les poteaux ?",
       "summary": "<p>C’est la dernière ligne droite pour « <a href=\"https://www.20minutes.fr/arts-stars/television/4247974-20260923-adapte-pourquoi-tirage-sort-koh-lanta-all-stars-mixte-non-genre\">Koh-Lanta All Stars</a> ». Après plus de deux mois de diffusion, l’aventure touche bientôt à sa fin au Panama. La semaine dernière, <a…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/arts-stars/television/4261610-20261111-koh-lanta-elimine-lors-epreuve-orientation-juste-avant-poteaux?at_medium=display&at_campaign=149",
       "published_at": "2026-11-10T23:07:36+00:00",
       "category": "Société",
@@ -907,22 +971,6 @@
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « La Chine à la recherche des meilleurs reproducteurs bovins ».",
       "coverage_sources": [
         "RFI"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bc397566e05d",
-      "title": "Incident près de la base aérienne de Fairford en Angleterre : Washington inculpe trois «agents iraniens»",
-      "summary": "Des policiers gardent une zone près de la base aérienne de RAF Fairford, après que la police a déclaré un incident majeur à la base et arrêté plusieurs hommes soupçonnés d’infractions en vertu de la loi sur les explosifs, le 29 septembre.",
-      "source": "Le Figaro",
-      "feed_rank": 17,
-      "url": "https://www.lefigaro.fr/international/incident-pres-de-la-base-aerienne-de-fairford-en-angleterre-washington-inculpe-trois-agents-iraniens-20261110",
-      "published_at": "2026-11-10T22:58:56+00:00",
-      "category": "Société",
-      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Incident près de la base aérienne de Fairford en Angleterre : Washington inculpe trois «agents iraniens» ».",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1349,14 +1397,15 @@
       "category": "Société",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Un militaire américain, soupçonné d'espionnage pour la Russie, arrêté en Angleterre ».",
       "coverage_sources": [
+        "Le Monde",
         "France 24",
         "RFI",
         "BFMTV",
         "CNews",
         "Le Dauphiné Libéré"
       ],
-      "coverage_count": 5,
-      "mention_count": 5
+      "coverage_count": 6,
+      "mention_count": 6
     },
     {
       "id": "dd1d230458fb",
@@ -1427,7 +1476,7 @@
       "title": "La tempête Charles arrive au Portugal, placé en alerte mercredi par crainte de « phénomènes météorologiques extrêmes »",
       "summary": "Les autorités portugaises ont placé la partie sud du pays, dont Lisbonne, en alerte rouge mardi soir. « Ne sous-estimez pas la dangerosité et les risques associés » a averti le premier ministre, Luis Montenegro, alors que des inondations pourraient avoir lieu.",
       "source": "Le Monde",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/international/article/2026/11/10/la-tempete-charles-arrive-au-portugal-place-en-alerte-mercredi-par-crainte-de-phenomenes-meteorologiques-extremes_6808908_3210.html",
       "published_at": "2026-11-10T21:46:31+00:00",
       "category": "Politique",
@@ -1532,38 +1581,6 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Dr. Donald et Mr. Trump : la folle lettre du milliardaire à Joe Biden en 2021 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "335990f34c5e",
-      "title": "« Il s’est relevé alors qu’il était au bord du gouffre » : après la tempête judiciaire et médiatique, Johnny Depp va-t-il retrouver sa couronne à Hollywood ?",
-      "summary": "ENQUÊTE - Six ans après avoir remporté un procès scabreux face à son ex-épouse, l’acteur revient sur le devant de la scène avec le film Scrooge. Un retour ayant valeur de test pour l’ancienne superstar, qui a trouvé refuge en Europe et dans la peinture.",
-      "source": "Le Figaro",
-      "feed_rank": 18,
-      "url": "https://www.lefigaro.fr/cinema/il-s-est-releve-alors-qu-il-etait-au-bord-du-gouffre-apres-la-tempete-judiciaire-et-mediatique-johnny-depp-va-t-il-retrouver-sa-couronne-a-hollywood-20261110",
-      "published_at": "2026-11-10T21:30:00+00:00",
-      "category": "Culture",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Il s’est relevé alors qu’il était au bord du gouffre » : après la tempête judiciaire et médiatique, Johnny Depp va-t-il retrouver sa couronne à Holl ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3464057e9750",
-      "title": "Canada : quatre ours liés à l'attaque mortelle d'une mère et de sa fille",
-      "summary": "Ces quatre ours, une mère et ses trois petits, ont été «abattus» après la découverte des corps des deux filles, parties marcher sur un sentier de randonnée non loin de leur domicile.",
-      "source": "Le Figaro",
-      "feed_rank": 16,
-      "url": "https://www.lefigaro.fr/international/canada-quatre-ours-lies-a-l-attaque-mortelle-d-une-mere-et-de-sa-fille-20261110",
-      "published_at": "2026-11-10T21:28:05+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité demande de rendre un sujet technique compréhensible sans promettre davantage que ce que les faits établissent. Le communicant doit expliquer les usages, les limites et les questions éthiques. Pour travailler ce cas, partez du sujet précis — « Canada : quatre ours liés à l'attaque mortelle d'une mère et de sa fille » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1705,7 +1722,7 @@
       "title": "Présidentielle : Retailleau propose de fixer la primaire aux 31 janvier et 7 février 2027, «le temps d’en définir les modalités et de faire campagne»",
       "summary": "INFO LE FIGARO - Le candidat LR à l’Élysée a adressé mardi un courrier à Gabriel Attal, Édouard Philippe et David Lisnard pour accélérer la tenue d’une primaire et offrir «une alternative claire à tous ces électeurs déboussolés» face au match annoncé entre LFI et le RN.",
       "source": "Le Figaro",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-retailleau-propose-de-fixer-la-primaire-aux-31-janvier-et-7-fevrier-le-temps-d-en-definir-les-modalites-et-de-faire-campagne-20261110",
       "published_at": "2026-11-10T21:08:17+00:00",
       "category": "Sport",
@@ -3146,7 +3163,7 @@
       "title": "« En Espagne, l’accès au logement, au cœur d’un appel à la grève générale, concentre les colères »",
       "summary": "L’appel à la grève, le 11 novembre, pour l’encadrement des loyers et la création de logements sociaux s’inspire des grands mouvements et des conquêtes sociales obtenues dans le pays par la rue, analyse le géographe Diego Miralles Buil, dans une tribune au « Monde ».",
       "source": "Le Monde",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.lemonde.fr/idees/article/2026/11/10/en-espagne-l-acces-au-logement-au-c-ur-d-un-appel-a-la-greve-generale-concentre-les-coleres_6808898_3232.html",
       "published_at": "2026-11-10T19:00:08+00:00",
       "category": "Société",
@@ -3190,6 +3207,22 @@
       "mention_count": 1
     },
     {
+      "id": "ac27b80747cc",
+      "title": "Teddy Riner candidat : « Opération téléguidée » par l’Elysée, ou « révélateur d’une crise politique profonde » ?",
+      "summary": "Teddy Riner veut tout. Les médailles d’or et les dorures de l’Elysée. Avec un slogan – « la France qu’on veut » – aussi iconoclaste que sa candidature surprise, Teddy Riner est-il le facteur X de 2027 ? Celui qui viendra faire turbuler le système ? Un agent disruptif qui vient réveiller une drôle de campagne ? Le troisième homme que personne n’attendait…",
+      "source": "Public Sénat",
+      "feed_rank": 1,
+      "url": "https://www.publicsenat.fr/actualites/politique/teddy-riner-candidat-operation-teleguidee-par-lelysee-ou-revelateur-dune-crise-politique-profonde",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Teddy Riner candidat : « Opération téléguidée » par l’Elysée, ou « révélateur d’une crise politique profonde » ? ».",
+      "coverage_sources": [
+        "Public Sénat"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "36d899cf395b",
       "title": "Pétition contre CNews: l’Assemblée étouffe, le débat public suffoque",
       "summary": "Les députés macronistes, de droite et d’extrême droite ont réduit au silence le million de signataires de la pétition demandant la fermeture de la chaîne de Vincent Bolloré. Le texte ne suscitera donc aucun débat dans l’hémicycle. Et finit dans une poubelle, à l’image d’un espace public gangrené par le racisme.",
@@ -3201,22 +3234,6 @@
       "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Pétition contre CNews: l’Assemblée étouffe, le débat public suffoque ».",
       "coverage_sources": [
         "Mediapart"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3e5eb23d0c54",
-      "title": "«Demander la fermeture d’une chaîne est plus qu’inquiétant dans une démocratie» : la pétition anti-CNews soutenue par LFI fait l’unanimité contre elle dans le PAF",
-      "summary": "RÉCIT - Les députés ont classé le texte soutenu par LFI, qui réclamait la fermeture de la chaîne. Une initiative « lunaire », selon un dirigeant de France Télévisions.",
-      "source": "Le Figaro",
-      "feed_rank": 19,
-      "url": "https://www.lefigaro.fr/medias/demander-la-fermeture-d-une-chaine-est-plus-qu-inquietant-dans-une-democratie-la-petition-anti-cnews-soutenue-par-lfi-fait-l-unanimite-contre-elle-dans-le-paf-20261110",
-      "published_at": "2026-11-10T18:59:32+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « «Demander la fermeture d’une chaîne est plus qu’inquiétant dans une démocratie» : la pétition anti-CNews soutenue par LFI fait l’unanimité contre elle ».",
-      "coverage_sources": [
-        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3414,6 +3431,22 @@
       "mention_count": 1
     },
     {
+      "id": "810067660ac0",
+      "title": "Une hausse de 6 centimes du paquet de gâteaux : la taxe sur les produits trop sucrés votée au Sénat, après exclusion des produits artisanaux",
+      "summary": "Le Sénat adoucit légèrement la taxe sur les produits sucrés, inscrite dans le projet de loi de financement de la Sécurité (PLFSS) pour 2027. L’article 8, qui prévoit d’étendre l’actuelle taxe soda aux produits industriels les plus sucrés, a été adopté ce 10 novembre en fin d’après-midi, après avoir subi quelques modifications de son champ d’application.…",
+      "source": "Public Sénat",
+      "feed_rank": 2,
+      "url": "https://www.publicsenat.fr/actualites/sante/une-hausse-de-6-centimes-du-paquet-de-gateau-la-taxe-sur-les-produits-trop-sucres-votee-au-senat-apres-exclusion-des-produits-artisanaux",
+      "published_at": "2026-11-10T18:45:26+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Une hausse de 6 centimes du paquet de gâteaux : la taxe sur les produits trop sucrés votée au Sénat, après exclusion des produits artisanaux ».",
+      "coverage_sources": [
+        "Public Sénat"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "dce862c08539",
       "title": "« À mort les gwers », « Pendez les Blancs » : l’Inalco ferme son campus après des slogans racistes et des appels à la violence",
       "summary": "Des slogans haineux, des pancartes brandies par des silhouettes cagoulées. Sur le compte Instagram « inalcolere », des étudiants mécontents ont publié leurs revendications, à coups de « À mort les gwers » et de « Pendez les Blancs ». Face à cette escalade, la direction de l’Institut national des langues et civilisations orientales (Inalco) a tranché : le…",
@@ -3425,22 +3458,6 @@
       "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « « À mort les gwers », « Pendez les Blancs » : l’Inalco ferme son campus après des slogans racistes et des appels à la violence ».",
       "coverage_sources": [
         "Valeurs actuelles"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "084f3ffad428",
-      "title": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
-      "summary": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte également marqué par les inquiétudes sur le secteur de l’intelligence artificielle.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
-      "published_at": "2026-11-10T18:43:56+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondi ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4153,22 +4170,6 @@
       "mention_count": 1
     },
     {
-      "id": "bb685fee210a",
-      "title": "Plusieurs milliers de migrants africains arrivent aux Canaries, « l’état d’urgence » décrété sur l’une des îles espagnoles",
-      "summary": "L’archipel a vu affluer près de 6 000 personnes au cours des dix premiers jours du mois de novembre, pour l’essentiel sur l’île d’El Hierro, qui compte 12 000 habitants. Cet afflux s’explique en partie par la fermeture d’autres voies migratoires.",
-      "source": "Le Monde",
-      "feed_rank": 14,
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/10/plusieurs-milliers-de-migrants-africains-arrivent-aux-canaries-l-etat-d-urgence-decrete-sur-l-une-des-iles-espagnoles_6808888_3212.html",
-      "published_at": "2026-11-10T18:00:07+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Plusieurs milliers de migrants africains arrivent aux Canaries, « l’état d’urgence » décrété sur l’une des îles espagnoles » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "419c1854cd7e",
       "title": "Sondage : 57% des Français estiment que la candidature de Teddy Riner à l'élection présidentielle est une «mauvaise chose»",
       "summary": "Selon un sondage de l’institut CSA pour CNEWS, Europe 1 et le Journal du dimanche publié ce mardi, 57% des Français considèrent que la candidature du judoka français Teddy Riner est une «mauvaise chose». Une annonce qui a surpris l’opinion publique et la classe politique. Ce lundi, le judoka Teddy Riner s’est déclaré candidat à la prochaine élection…",
@@ -4307,7 +4308,7 @@
       "title": "Ni droite ni gauche, réseaux, encouragements d’Emmanuel Macron : derrière la candidature de Teddy Riner, l’ombre du camp présidentiel",
       "summary": "Le champion olympique français de judo (+100 kg) est félicité par le président de la République Emmanuel Macron lors de la «parade des champions», le 14 septembre 2024, aux Champs-Élysées, à Paris.",
       "source": "Le Figaro",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.lefigaro.fr/elections/presidentielles/ni-droite-ni-gauche-reseaux-encouragements-d-emmanuel-macron-derriere-la-candidature-de-teddy-riner-l-ombre-du-camp-presidentiel-20261110",
       "published_at": "2026-11-10T17:52:51+00:00",
       "category": "Société",
@@ -4435,7 +4436,7 @@
       "title": "Guillaume Tabard : « Teddy Riner candidat à la présidentielle, offre politique nouvelle ou grosse ficelle de communication »",
       "summary": "CONTRE-POINT - Le judoka peut croire que sa popularité est un atout que les autres n’ont pas. Mais ce qui fait la force consensuelle d’un champion sportif est d’être aimé des Français parce qu’il fédère par-delà les sensibilités politiques.",
       "source": "Le Figaro",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-teddy-riner-candidat-a-la-presidentielle-offre-politique-nouvelle-ou-grosse-ficelle-de-communication-20261110",
       "published_at": "2026-11-10T17:47:00+00:00",
       "category": "Médias & communication",
@@ -4732,6 +4733,22 @@
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football : avec la famille Arnault, le « petit » Paris FC rêve de faire de l’ombre à l’ogre PSG ».",
       "coverage_sources": [
         "La Croix"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "eb609ad10b0e",
+      "title": "Reportage. « La bataille n’est pas finie » : quand les enseignants se joignent aux lycéens et étudiants dans la rue",
+      "summary": "À Paris, quelques milliers de personnes, munies de parapluies, ont commencé à défiler dans une ambiance bon enfant, du Panthéon vers la Place d’Italie. Entre 2 000 et 4 000 personnes étaient attendues, selon une note interne du renseignement consultée par l’AFP. Selon le ministère de l’Éducation ce matin, 1,6% des enseignants étaient en grève ce mardi,…",
+      "source": "Public Sénat",
+      "feed_rank": 3,
+      "url": "https://www.publicsenat.fr/actualites/education/reportage-la-bataille-nest-pas-finie-quand-les-enseignants-se-joignent-aux-lyceens-et-etudiants-dans-la-rue",
+      "published_at": "2026-11-10T17:25:51+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Reportage. « La bataille n’est pas finie » : quand les enseignants se joignent aux lycéens et étudiants dans la rue ».",
+      "coverage_sources": [
+        "Public Sénat"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5344,22 +5361,6 @@
       "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « « Personne n’a le droit de trier parmi les journalistes » : la ministre de la Culture réagit aux polémiques visant CNews ».",
       "coverage_sources": [
         "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2a56a1a76156",
-      "title": "L’info du jour | 10 novembre 2026 - Soir",
-      "summary": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 10 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divertissement.",
-      "source": "Euronews",
-      "feed_rank": 10,
-      "url": "https://fr.euronews.com/video/2026/11/10/linfo-du-jour-10-novembre-2026-soir",
-      "published_at": "2026-11-10T17:00:34+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « L’info du jour | 10 novembre 2026 - Soir » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Euronews"
       ],
       "coverage_count": 1,
       "mention_count": 1
