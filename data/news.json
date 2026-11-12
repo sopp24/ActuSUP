@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-11T23:14:52.152584+00:00",
-  "last_attempt": "2026-11-11T23:14:52.152584+00:00",
+  "last_updated": "2026-11-12T00:56:38.017126+00:00",
+  "last_attempt": "2026-11-12T00:56:38.017126+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 899,
-  "unique_story_count": 772,
+  "unique_story_count": 775,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-12T23:14:52.152584+00:00",
-  "featured_window_end": "2026-11-11T23:14:52.152584+00:00",
+  "featured_window_start": "2026-10-13T00:56:38.017126+00:00",
+  "featured_window_end": "2026-11-12T00:56:38.017126+00:00",
   "featured_pool_count": 897,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "c0c0969a6eb5",
-      "title": "Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe",
-      "summary": "Des courriers électroniques menaçants ont été envoyés à des milliers d’établissements scolaires, mercredi 11 novembre. Les autorités de Belfast, de Dublin et d’Edimbourg ont minimisé le danger, mais en Italie le gouvernement voudrait quand même sensibiliser davantage les citoyens aux risques de la guerre hybride.",
-      "source": "Le Monde",
-      "feed_rank": 6,
-      "url": "https://www.lemonde.fr/international/article/2026/11/11/les-ecoles-italiennes-irlandaises-et-ecossaises-visees-par-des-alertes-a-la-bombe_6809033_3210.html",
-      "published_at": "2026-11-11T22:30:54+00:00",
+      "id": "2c995c1afa12",
+      "title": "États-Unis: le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis 150 ans",
+      "summary": "Le démocrate Scott Colom a remporté un siège au Sénat américain dans le Mississippi, selon les projections de l'agence américaine AP. Il devient ainsi le premier sénateur noir à être élu en près de 150 ans dans cet État du Sud.",
+      "source": "RFI",
+      "feed_rank": 1,
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans",
+      "published_at": "2026-11-12T00:14:07+00:00",
       "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Les écoles italiennes, irlandaises et écossaises visées par des alertes à la bombe ».",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « États-Unis: le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis 150 ans ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -48,6 +48,7 @@
         "L'Obs",
         "L'Opinion",
         "Libération",
+        "Ouest-France",
         "RMC",
         "Sud Ouest",
         "20 Minutes",
@@ -61,24 +62,24 @@
         "Paris Match",
         "Public Sénat",
         "Konbini",
-        "CB News",
+        "Reporterre",
         "INA – La Revue des médias"
       ],
-      "coverage_count": 33,
-      "mention_count": 121,
-      "importance_score": 34.87,
-      "latest_coverage_at": "2026-11-11T22:58:13+00:00"
+      "coverage_count": 34,
+      "mention_count": 114,
+      "importance_score": 34.983,
+      "latest_coverage_at": "2026-11-12T00:14:07+00:00"
     },
     {
-      "id": "e0d69d0772f4",
-      "title": "Donald Trump profite du 11-Novembre pour défendre la guerre en Iran",
-      "summary": "Au cours de la cérémonie du 11 Novembre depuis le cimetière militaire national d’Arlington, Donald Trump a défendu son ministre de la Défense visé par une procédure de destitution, mais aussi justifié l’intervention militaire en Iran.",
-      "source": "Ouest-France",
-      "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-profite-du-11-novembre-pour-defendre-la-guerre-en-iran-403aec92-de20-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-11T23:06:07+00:00",
+      "id": "33c7aacae19d",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix",
+      "summary": "« Aujourd’hui, cette fenêtre d’opportunité existe réellement, où tous les participants actuellement engagés dans le processus de négociation souhaitent véritablement obtenir un résultat avant 2027 », a estimé mercredi le président ukrainien. En visite en Irlande, il doit s’entretenir jeudi avec les émissaires américains, Jared Kushner et Steve Witkoff,…",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-juge-une-avancee-possible-avant-la-fin-de-l-annee-dans-les-pourparlers-de-paix_6808609_3210.html",
+      "published_at": "2026-11-12T00:10:19+00:00",
       "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Donald Trump profite du 11-Novembre pour défendre la guerre en Iran ».",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -97,7 +98,6 @@
         "L'Opinion",
         "Libération",
         "Ouest-France",
-        "RMC",
         "Sud Ouest",
         "20 Minutes",
         "L'Humanité",
@@ -109,41 +109,10 @@
         "Reporterre",
         "Télérama"
       ],
-      "coverage_count": 28,
-      "mention_count": 56,
-      "importance_score": 32.369,
-      "latest_coverage_at": "2026-11-11T23:06:07+00:00"
-    },
-    {
-      "id": "62072aad45a1",
-      "title": "FORUM BFMTV - Mouvement lycéen: \"Je vois mes élèves très inquiets sur l'avenir\", témoigne Farid, enseignant",
-      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
-      "source": "BFMTV",
-      "feed_rank": 2,
-      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-mouvement-lyceen-je-vois-mes-eleves-tres-inquiets-sur-l-avenir-temoigne-farid-enseignant_VN-202611110843.html",
-      "published_at": "2026-11-11T22:56:25+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « FORUM BFMTV - Mouvement lycéen: \"Je vois mes élèves très inquiets sur l'avenir\", témoigne Farid, enseignant ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "Mediapart",
-        "BFMTV",
-        "Courrier International",
-        "France Culture",
-        "L'Obs",
-        "L'Opinion",
-        "Libération",
-        "Ouest-France",
-        "RMC",
-        "20 Minutes",
-        "La Croix"
-      ],
-      "coverage_count": 14,
-      "mention_count": 40,
-      "importance_score": 27.362,
-      "latest_coverage_at": "2026-11-11T22:56:25+00:00"
+      "coverage_count": 27,
+      "mention_count": 48,
+      "importance_score": 31.817,
+      "latest_coverage_at": "2026-11-12T00:10:19+00:00"
     },
     {
       "id": "4cbd8779d0a2",
@@ -171,9 +140,40 @@
         "Midi Libre"
       ],
       "coverage_count": 13,
-      "mention_count": 20,
-      "importance_score": 25.828,
+      "mention_count": 23,
+      "importance_score": 26.045,
       "latest_coverage_at": "2026-11-11T22:30:51+00:00"
+    },
+    {
+      "id": "e9c1e4525bc1",
+      "title": "Nos appareils électroménagers ciblés par les pirates ?",
+      "summary": "Nous sommes nombreux à nous servir de notre téléphone pour gérer à distance les appareils électroménagers dans nos maisons. Notre intérieur est de plus en plus connecté, donc de plus en plus exposé aux cybercriminels. Le chef de l'Agence européenne pour la cybersécurité alerte sur de possibles piratages. Un seul appareil vulnérable sur un réseau, c'est…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 21,
+      "url": "https://www.tf1info.fr/high-tech/videos/video-nos-appareils-electromenagers-cibles-par-les-pirates-32855-2475318.html",
+      "published_at": "2026-11-11T19:55:14+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Nos appareils électroménagers ciblés par les pirates ? ».",
+      "coverage_sources": [
+        "France 24",
+        "Mediapart",
+        "TF1 Info (TF1 / LCI)",
+        "Courrier International",
+        "France Inter",
+        "L'Express",
+        "L'Opinion",
+        "RMC",
+        "La Croix",
+        "LCP",
+        "Midi Libre",
+        "Public Sénat",
+        "Le Monde Informatique",
+        "Next.ink"
+      ],
+      "coverage_count": 14,
+      "mention_count": 16,
+      "importance_score": 25.549,
+      "latest_coverage_at": "2026-11-11T19:55:14+00:00"
     },
     {
       "id": "c2b46fde3e22",
@@ -203,38 +203,8 @@
       ],
       "coverage_count": 14,
       "mention_count": 14,
-      "importance_score": 25.518,
+      "importance_score": 25.51,
       "latest_coverage_at": "2026-11-11T22:37:55+00:00"
-    },
-    {
-      "id": "e9c1e4525bc1",
-      "title": "Nos appareils électroménagers ciblés par les pirates ?",
-      "summary": "Nous sommes nombreux à nous servir de notre téléphone pour gérer à distance les appareils électroménagers dans nos maisons. Notre intérieur est de plus en plus connecté, donc de plus en plus exposé aux cybercriminels. Le chef de l'Agence européenne pour la cybersécurité alerte sur de possibles piratages. Un seul appareil vulnérable sur un réseau, c'est…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
-      "url": "https://www.tf1info.fr/high-tech/videos/video-nos-appareils-electromenagers-cibles-par-les-pirates-32855-2475318.html",
-      "published_at": "2026-11-11T19:55:14+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Nos appareils électroménagers ciblés par les pirates ? ».",
-      "coverage_sources": [
-        "France 24",
-        "Mediapart",
-        "TF1 Info (TF1 / LCI)",
-        "Courrier International",
-        "France Inter",
-        "L'Express",
-        "L'Opinion",
-        "La Croix",
-        "LCP",
-        "Midi Libre",
-        "Public Sénat",
-        "Le Monde Informatique",
-        "Next.ink"
-      ],
-      "coverage_count": 13,
-      "mention_count": 15,
-      "importance_score": 24.997,
-      "latest_coverage_at": "2026-11-11T19:55:14+00:00"
     },
     {
       "id": "9c376068a2be",
@@ -260,8 +230,58 @@
       ],
       "coverage_count": 10,
       "mention_count": 11,
-      "importance_score": 23.16,
+      "importance_score": 23.151,
       "latest_coverage_at": "2026-11-11T22:53:01+00:00"
+    },
+    {
+      "id": "f20b30401a26",
+      "title": "Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle",
+      "summary": "Les proches de Christophe Gleizes reçus dans la journée par Jean-Noël Barrot, le ministre des Affaires étrangères. Le journaliste français est détenu depuis 500 jours en Algérie, condamné pour apologie du terrorisme. Un match de foot à Paris était organisé en son hommage.",
+      "source": "France 24",
+      "feed_rank": 3,
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "published_at": "2026-11-11T21:37:52+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24",
+        "RFI",
+        "TF1 Info (TF1 / LCI)",
+        "Euronews",
+        "France Inter",
+        "L'Obs",
+        "Télérama"
+      ],
+      "coverage_count": 9,
+      "mention_count": 12,
+      "importance_score": 22.498,
+      "latest_coverage_at": "2026-11-11T22:00:12+00:00"
+    },
+    {
+      "id": "20f61a194013",
+      "title": "FORUM BFMTV - Face aux violences, comment sortir de l’engrenage?",
+      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-face-aux-violences-comment-sortir-de-l-engrenage_VN-202611110855.html",
+      "published_at": "2026-11-11T23:08:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « FORUM BFMTV - Face aux violences, comment sortir de l’engrenage? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Mediapart",
+        "BFMTV",
+        "France Culture",
+        "L'Obs",
+        "L'Opinion",
+        "RMC",
+        "La Croix"
+      ],
+      "coverage_count": 7,
+      "mention_count": 24,
+      "importance_score": 22.32,
+      "latest_coverage_at": "2026-11-11T23:08:03+00:00"
     },
     {
       "id": "45955266e5c0",
@@ -282,39 +302,12 @@
         "CNews",
         "Euronews",
         "20 Minutes",
-        "La Dépêche du Midi",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 10,
-      "mention_count": 10,
-      "importance_score": 22.836,
-      "latest_coverage_at": "2026-11-11T20:51:09+00:00"
-    },
-    {
-      "id": "f20b30401a26",
-      "title": "Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle",
-      "summary": "Les proches de Christophe Gleizes reçus dans la journée par Jean-Noël Barrot, le ministre des Affaires étrangères. Le journaliste français est détenu depuis 500 jours en Algérie, condamné pour apologie du terrorisme. Un match de foot à Paris était organisé en son hommage.",
-      "source": "France 24",
-      "feed_rank": 1,
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
-      "published_at": "2026-11-11T21:37:52+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "France 24",
-        "RFI",
-        "TF1 Info (TF1 / LCI)",
-        "Euronews",
-        "France Inter",
-        "L'Obs",
-        "Télérama"
+        "La Dépêche du Midi"
       ],
       "coverage_count": 9,
-      "mention_count": 12,
-      "importance_score": 22.529,
-      "latest_coverage_at": "2026-11-11T22:00:12+00:00"
+      "mention_count": 9,
+      "importance_score": 21.997,
+      "latest_coverage_at": "2026-11-11T20:51:09+00:00"
     },
     {
       "id": "891b5363572c",
@@ -337,15 +330,38 @@
       ],
       "coverage_count": 7,
       "mention_count": 12,
-      "importance_score": 20.864,
+      "importance_score": 20.86,
       "latest_coverage_at": "2026-11-11T21:13:58+00:00"
+    },
+    {
+      "id": "a61803d44b57",
+      "title": "Équipe de France : Zidane confirme le forfait de Mbappé contre l’Italie en Ligue des nations",
+      "summary": "<p>Zinédine Zidane a donc fait jouer le principe de précaution : <a href=\"https://www.20minutes.fr/sport/football/4261881-20261110-ballon-or-harry-kane-absent-equipe-annee-elue-joueurs-kylian-mbappe-bien-present\">Kylian Mbappé</a> ne sera pas sur le terrain avec les Bleus ce jeudi à partir de 20h45. Victime d’une gêne aux ischio-jambiers, le capitaine de…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/sport/football/4262246-20261112-equipe-france-zidane-confirme-forfait-mbappe-contre-italie-ligue-nations?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-12T00:19:59+00:00",
+      "category": "Sport",
+      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Équipe de France : Zidane confirme le forfait de Mbappé contre l’Italie en Ligue des nations » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "TF1 Info (TF1 / LCI)",
+        "CNews",
+        "20 Minutes",
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 6,
+      "mention_count": 8,
+      "importance_score": 19.656,
+      "latest_coverage_at": "2026-11-12T00:19:59+00:00"
     },
     {
       "id": "e273dede0cc3",
       "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
       "summary": "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires.",
       "source": "Le Monde",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
       "published_at": "2026-11-11T20:07:54+00:00",
       "category": "Politique",
@@ -359,15 +375,37 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.847,
+      "importance_score": 17.814,
       "latest_coverage_at": "2026-11-11T20:07:54+00:00"
+    },
+    {
+      "id": "c93a6e50fc01",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+      "summary": "Le candidat « insoumis » a, lors de son meeting du 7 novembre, évoqué la possibilité d’un référendum sur la cession du Donbass à la Russie pour résoudre le conflit. Le chef de file de La France insoumise a vivement répondu aux critiques mercredi 11 novembre dans un « discours sur la paix ».",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
+      "published_at": "2026-11-11T19:20:46+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles » ».",
+      "coverage_sources": [
+        "Le Monde",
+        "L'Express",
+        "L'Opinion",
+        "LCP",
+        "CB News"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.776,
+      "latest_coverage_at": "2026-11-11T19:20:46+00:00"
     },
     {
       "id": "8e883d5bb4c9",
       "title": "Procès du triple narchomicide de 2020 : le parquet général dénonce des « meurtres d’une sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
       "summary": "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… Méthode habituelle des criminels et du narcobanditisme en particulier » et a requis, le 11 novembre, de lourdes peines à l’égard des accusés.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
       "published_at": "2026-11-11T19:37:09+00:00",
       "category": "Société",
@@ -381,7 +419,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.772,
+      "importance_score": 17.758,
       "latest_coverage_at": "2026-11-11T19:42:20+00:00"
     },
     {
@@ -403,7 +441,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.704,
+      "importance_score": 17.699,
       "latest_coverage_at": "2026-11-11T18:16:05+00:00"
     },
     {
@@ -424,29 +462,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.891,
+      "importance_score": 16.886,
       "latest_coverage_at": "2026-11-11T16:00:12+00:00"
     },
     {
-      "id": "d704ade882b5",
-      "title": "Le collectif de victimes de Bétharram s'associe à l'artiste JR pour une grande installation devant Notre-Dame de Paris intitulée \"Les Visages de Bétharram\"",
-      "summary": "Cette nouvelle œuvre sera exposée sur une large partie du parvis de la cathédrale à l'été 2027. Elle sera constituée de visages de victimes.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 15,
-      "url": "https://www.franceinfo.fr/culture/arts-expos/le-collectif-de-victimes-de-betharram-s-associe-a-l-artiste-jr-pour-une-grande-installation-devant-notre-dame-de-paris-intitulee-les-visages-de-betharram_8278325.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-11T20:55:35+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Le collectif de victimes de Bétharram s'associe à l'artiste JR pour une grande installation devant Notre-Dame de Paris intitulée \"Les Visages de Bétha » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "a67d6d82a23e",
+      "title": "COP31 : à Antalya, la présidence turque lance la chasse au méthane, agent du chaos climatique",
+      "summary": "Ce gaz, deuxième contributeur au changement climatique après le CO2, est notamment émis par les industries du pétrole et du gaz, l’agriculture et les décharges. Au sommet onusien, les pays sont appelés à renforcer leurs engagements en matière de lutte contre ce gaz climaticide.",
+      "source": "Libération",
+      "feed_rank": 7,
+      "url": "https://www.liberation.fr/environnement/climat/cop31-a-antalya-la-presidence-turque-lance-la-chasse-au-methane-agent-du-chaos-climatique-20261111_XF6CZR6AUZERTDTX3OY4F56W3E/",
+      "published_at": "2026-11-11T19:01:41+00:00",
+      "category": "Économie",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « COP31 : à Antalya, la présidence turque lance la chasse au méthane, agent du chaos climatique ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "RMC",
-        "Sud Ouest"
+        "Libération",
+        "Reporterre"
       ],
       "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.491,
-      "latest_coverage_at": "2026-11-11T20:55:35+00:00"
+      "mention_count": 6,
+      "importance_score": 16.803,
+      "latest_coverage_at": "2026-11-11T19:01:41+00:00"
     },
     {
       "id": "bd67a971f8af",
@@ -466,7 +504,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.426,
+      "importance_score": 16.247,
       "latest_coverage_at": "2026-11-11T20:30:22+00:00"
     },
     {
@@ -474,7 +512,7 @@
       "title": "Avec des rafales à moins de 100 km/h, la tempête Charles a balayé le Portugal sans l’intensité redoutée",
       "summary": "La tempête Charles a finalement traversé le pays ibérique avec moins d’intensité que prévu mercredi 11 novembre. Une personne a toutefois été blessée et quatre ont été évacuées.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/europe/portugal/avec-des-rafales-a-moins-de-100-km-h-la-tempete-charles-a-balaye-le-portugal-sans-lintensite-redoutee-cf64107a-de10-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T21:16:15+00:00",
       "category": "Société",
@@ -487,79 +525,184 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.185,
+      "importance_score": 16.146,
       "latest_coverage_at": "2026-11-11T21:16:15+00:00"
     },
     {
-      "id": "27578f33fa5e",
-      "title": "«Une corde me maintenait en vie» : Armel Le Cléac’h revient sur son violent chavirage sur la Route du Rhum 2026",
-      "summary": "Moins de trois jours après le départ de la Route du Rhum 2026, Armel Le Cléac’h a chaviré au nord-ouest des Açores alors qu’il occupait la 2e place dans la catégorie Ultim. Sa course a basculé «en quelques secondes». Moins de trois jours après le départ de la Route du Rhum 2026, Armel Le Cléac’h (49 ans), qui faisait partie des favoris de la catégorie…",
-      "source": "CNews",
-      "feed_rank": 10,
-      "url": "https://www.cnews.fr/sport/2026-11-11/une-corde-me-maintenait-en-vie-armel-le-cleach-revient-sur-son-violent-chavirage",
-      "published_at": "2026-11-11T18:00:50+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « «Une corde me maintenait en vie» : Armel Le Cléac’h revient sur son violent chavirage sur la Route du Rhum 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "4503f66e13cc",
+      "title": "En Israël, Gadi Eisenkot appelle Benyamin Netanyahou à faire preuve de responsabilité sur les décisions sécuritaires",
+      "summary": "Gadi Eisenkot, chargé de former le prochain gouvernement en Israël après les élections législatives, a exhorté mercredi 11 novembre l’actuel Premier ministre Benyamin Netanyahou à « faire preuve de responsabilité » sur les décisions sécuritaires, une allusion à une éventuelle attaque israélienne contre l’Iran.",
+      "source": "Ouest-France",
+      "feed_rank": 6,
+      "url": "https://www.ouest-france.fr/monde/israel/en-israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-responsabilite-sur-les-decisions-securitaires-fddf689e-de17-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-11T21:53:36+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « En Israël, Gadi Eisenkot appelle Benyamin Netanyahou à faire preuve de responsabilité sur les décisions sécuritaires ».",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "CNews",
-        "Creapills"
+        "Le Monde",
+        "BFMTV",
+        "Courrier International",
+        "Ouest-France"
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.039,
-      "latest_coverage_at": "2026-11-11T18:00:50+00:00"
-    },
-    {
-      "id": "a67d6d82a23e",
-      "title": "COP31 : à Antalya, la présidence turque lance la chasse au méthane, agent du chaos climatique",
-      "summary": "Ce gaz, deuxième contributeur au changement climatique après le CO2, est notamment émis par les industries du pétrole et du gaz, l’agriculture et les décharges. Au sommet onusien, les pays sont appelés à renforcer leurs engagements en matière de lutte contre ce gaz climaticide.",
-      "source": "Libération",
-      "feed_rank": 7,
-      "url": "https://www.liberation.fr/environnement/climat/cop31-a-antalya-la-presidence-turque-lance-la-chasse-au-methane-agent-du-chaos-climatique-20261111_XF6CZR6AUZERTDTX3OY4F56W3E/",
-      "published_at": "2026-11-11T19:01:41+00:00",
-      "category": "Économie",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « COP31 : à Antalya, la présidence turque lance la chasse au méthane, agent du chaos climatique ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Libération",
-        "Reporterre"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.007,
-      "latest_coverage_at": "2026-11-11T19:01:41+00:00"
-    },
-    {
-      "id": "cb9ff4f0e6be",
-      "title": "Augmenter le smic risque-t-il de provoquer « une trappe à bas salaire » ?",
-      "summary": "<p>Pour essayer de calmer <a href=\"https://www.20minutes.fr/societe/4258536-20261031-envie-perdre-main-comment-peur-manifester-lentement-introduite-france\">la colère sociale,</a> Sébastien Lecornu a annoncé ce lundi <a…",
-      "source": "20 Minutes",
-      "feed_rank": 14,
-      "url": "https://www.20minutes.fr/economie/4261868-20261111-augmenter-smic-risque-provoquer-trappe-bas-salaire?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-11T07:17:36+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Augmenter le smic risque-t-il de provoquer « une trappe à bas salaire » ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "20 Minutes",
-        "LCP",
-        "Public Sénat"
-      ],
-      "coverage_count": 3,
-      "mention_count": 9,
-      "importance_score": 15.878,
-      "latest_coverage_at": "2026-11-11T07:17:36+00:00"
+      "importance_score": 16.113,
+      "latest_coverage_at": "2026-11-11T21:53:36+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "0a12471b79a9",
+      "title": "Un immeuble s’effondre à New York, tuant au moins une personne",
+      "summary": "Un immeuble d’habitation s’est en partie effondré à proximité d’un chantier dans le quartier de Flatbush à Brooklyn, causant la mort d’au moins une personne et faisant plusieurs blessés graves.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/etats-unis/new-york/un-immeuble-seffondre-a-new-york-tuant-au-moins-une-personne-ad3b327e-de2b-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-12T00:22:51+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Un immeuble s’effondre à New York, tuant au moins une personne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a61803d44b57",
+      "title": "Équipe de France : Zidane confirme le forfait de Mbappé contre l’Italie en Ligue des nations",
+      "summary": "<p>Zinédine Zidane a donc fait jouer le principe de précaution : <a href=\"https://www.20minutes.fr/sport/football/4261881-20261110-ballon-or-harry-kane-absent-equipe-annee-elue-joueurs-kylian-mbappe-bien-present\">Kylian Mbappé</a> ne sera pas sur le terrain avec les Bleus ce jeudi à partir de 20h45. Victime d’une gêne aux ischio-jambiers, le capitaine de…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/sport/football/4262246-20261112-equipe-france-zidane-confirme-forfait-mbappe-contre-italie-ligue-nations?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-12T00:19:59+00:00",
+      "category": "Sport",
+      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Équipe de France : Zidane confirme le forfait de Mbappé contre l’Italie en Ligue des nations » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "33c7aacae19d",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix",
+      "summary": "« Aujourd’hui, cette fenêtre d’opportunité existe réellement, où tous les participants actuellement engagés dans le processus de négociation souhaitent véritablement obtenir un résultat avant 2027 », a estimé mercredi le président ukrainien. En visite en Irlande, il doit s’entretenir jeudi avec les émissaires américains, Jared Kushner et Steve Witkoff,…",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-juge-une-avancee-possible-avant-la-fin-de-l-annee-dans-les-pourparlers-de-paix_6808609_3210.html",
+      "published_at": "2026-11-12T00:10:19+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix ».",
+      "coverage_sources": [
+        "Le Monde",
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "089a5455e6ff",
+      "title": "Les démocrates remportent un nouveau siège au Sénat avec la victoire de Scott Colom dans le Mississippi",
+      "summary": "La débâcle des républicains se poursuit lors des élections de mi-mandat aux États-Unis. Le démocrate ⁠Scott Colom est ‌crédité d’une ‌victoire historique dans le Mississippi face à la sénatrice ‌républicaine sortante ⁠Cindy Hyde-Smith.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://www.ouest-france.fr/monde/etats-unis/elections-americaines/les-democrates-remportent-un-nouveau-siege-au-senat-avec-la-victoire-de-scott-colom-dans-le-mississippi-6772015e-de27-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-12T00:06:22+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Les démocrates remportent un nouveau siège au Sénat avec la victoire de Scott Colom dans le Mississippi ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d54af7a0c4c2",
+      "title": "États-Unis : après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat",
+      "summary": "Plus d'une semaine après le scrutin des midterms aux États-Unis, le démocrate Scott Colom a remporté sur le fil la course pour le poste de sénateur du Mississippi. Il devient ainsi le premier sénateur noir à être élu en près de 150 ans dans cet État du Sud. Ce siège vient renforcer encore davantage la majorité démocrate au Congrès.",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
+      "published_at": "2026-11-11T23:38:41+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « États-Unis : après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat ».",
+      "coverage_sources": [
+        "France 24",
+        "RFI"
+      ],
+      "coverage_count": 2,
+      "mention_count": 3
+    },
+    {
+      "id": "ea15bc7d06b5",
+      "title": "Rapport annuel sur pauvreté : pour 63 % des Français, la solidarité doit se mériter",
+      "summary": "Le rapport annuel du Secours catholique sur la pauvreté fait apparaître que près de deux tiers des Français estiment que les aides sociales sont mal réparties et ne s’adressent pas aux personnes qui les méritent.",
+      "source": "Ouest-France",
+      "feed_rank": 3,
+      "url": "https://www.ouest-france.fr/economie/social/aides-sociales/rapport-annuel-sur-pauvrete-pour-63-pourcent-des-francais-la-solidarite-doit-se-meriter-a1e97f36-de24-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-11T23:33:45+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Rapport annuel sur pauvreté : pour 63 % des Français, la solidarité doit se mériter » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "886f9ff9424a",
+      "title": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
+      "summary": "Selon le « Wall Street Jounal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces nécessaires à la révolution de l’intelligence artificielle.",
+      "source": "Le Monde",
+      "feed_rank": 3,
+      "url": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
+      "published_at": "2026-11-11T23:30:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec  » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "47ad4fce6c56",
+      "title": "La Birmanie veut attirer les investissements étatsuniens vers ses gisements de terres rares",
+      "summary": "Le gouvernement birman, dirigé par les militaires, exhorte les États-Unis à intensifier leurs efforts de rapprochement et à accélérer leurs investissements dans les mines de terres rares de ce pays ravagé par la guerre. La Birmanie est devenue l'un des principaux fournisseurs mondiaux de terres rares lourdes, ces minerais indispensables à la fabrication…",
+      "source": "RFI",
+      "feed_rank": 19,
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261111-la-birmanie-veut-attirer-les-investissements-%C3%A9tatsuniens-vers-ses-gisements-de-terres-rares",
+      "published_at": "2026-11-11T23:09:50+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « La Birmanie veut attirer les investissements étatsuniens vers ses gisements de terres rares ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1b6a4c3d0083",
+      "title": "En Côte d’Ivoire, la mosquée de Bouna renoue avec sa splendeur",
+      "summary": "L’Afrique de l’Ouest compte des dizaines de mosquées de style soudanais : Djenné au Mali, Bobo-Dioulasso au Burkina Faso, Larabanga au Ghana. Identifiables par leur construction en terre et leur architecture particulière, certaines sont classées au patrimoine mondial de l’Unesco, d’autres non. Ces dernières, moins protégées, se dégradent au fil du temps.…",
+      "source": "RFI",
+      "feed_rank": 20,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261111-en-c%C3%B4te-d-ivoire-la-mosqu%C3%A9e-de-bouna-renoue-avec-sa-splendeur",
+      "published_at": "2026-11-11T23:08:50+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Côte d’Ivoire, la mosquée de Bouna renoue avec sa splendeur » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "e0d69d0772f4",
       "title": "Donald Trump profite du 11-Novembre pour défendre la guerre en Iran",
       "summary": "Au cours de la cérémonie du 11 Novembre depuis le cimetière militaire national d’Arlington, Donald Trump a défendu son ministre de la Défense visé par une procédure de destitution, mais aussi justifié l’intervention militaire en Iran.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-profite-du-11-novembre-pour-defendre-la-guerre-en-iran-403aec92-de20-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T23:06:07+00:00",
       "category": "Politique",
@@ -571,11 +714,59 @@
       "mention_count": 1
     },
     {
+      "id": "ec1bb7799175",
+      "title": "Comment le coton d'Afrique de l'Ouest peut-il reconquérir des parts de marché?",
+      "summary": "Le coton africain peut-il résister au coton brésilien ? Le Brésil a encore accru sa présence au Bangladesh la saison dernière, au détriment du coton de la zone franc qui a vu sa part de marché baisser de 40 % à 28 %. Cette année, la production brésilienne sera encore importante mais de moins bonne qualité et donc un peu moins « menaçante ». Il y a une…",
+      "source": "RFI",
+      "feed_rank": 21,
+      "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261111-comment-le-coton-d-afrique-de-l-ouest-peut-il-reconqu%C3%A9rir-des-parts-de-march%C3%A9",
+      "published_at": "2026-11-11T23:05:50+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Comment le coton d'Afrique de l'Ouest peut-il reconquérir des parts de marché? ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "141232784ed6",
+      "title": "En République tchèque, des manifestations pour défendre la liberté des médias publics",
+      "summary": "Le gouvernement tchèque s’est engagé dans un bras de fer très controversé pour tenter de réformer l’audiovisuel public et son financement. La coalition du Premier ministre Andrej Babis a fait de la suppression de la redevance audiovisuelle une priorité, sans pour autant avoir déterminé précisément de quelle manière la radio et la télévision publiques…",
+      "source": "RFI",
+      "feed_rank": 22,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261111-en-r%C3%A9publique-tch%C3%A8que-des-manifestations-pour-d%C3%A9fendre-la-libert%C3%A9-des-m%C3%A9dias-publics",
+      "published_at": "2026-11-11T23:03:50+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « En République tchèque, des manifestations pour défendre la liberté des médias publics ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "7ba14336f78b",
+      "title": "«La Vie après Siham» de Namir Abdel Messeeh: «Un film comme une forme de mémoire reconstituée»",
+      "summary": "Depuis 15 ans, c'est l'un des événements qui promeut le cinéma arabe en France : le Festival du film franco-arabe de Noisy-le-Sec, en banlieue parisienne. Jusqu'au 17 novembre 2026, une trentaine de films seront projetés, avec cette année l'Égypte à l'honneur. Au programme : des standards de Youssef Chahine aussi bien que la vitalité du cinéma…",
+      "source": "RFI",
+      "feed_rank": 23,
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261111-la-vie-apr%C3%A8s-siham-de-namir-abdel-messeeh-un-film-comme-une-forme-de-m%C3%A9moire-reconstitu%C3%A9e",
+      "published_at": "2026-11-11T23:01:50+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « «La Vie après Siham» de Namir Abdel Messeeh: «Un film comme une forme de mémoire reconstituée» ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "2c93864ecb24",
       "title": "Louise, 57 ans, aidée par le Secours catholique : « Etre pauvre, au RSA, ce n’est pas profiter du système, c’est vivre dans le stress »",
       "summary": "Dans son rapport annuel publié jeudi 12 novembre, l’association invite à « comprendre la pauvreté », qui est « multidimensionnelle » comme en témoigne le quotidien de Louise, rencontrée par « Le Monde », où les difficultés matérielles se doublent de maltraitances et d’isolement.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lemonde.fr/societe/article/2026/11/12/louise-57-ans-aidee-par-le-secours-catholique-etre-pauvre-au-rsa-ce-n-est-pas-profiter-du-systeme-c-est-vivre-dans-le-stress_6809034_3224.html",
       "published_at": "2026-11-11T23:01:09+00:00",
       "category": "International",
@@ -623,7 +814,7 @@
       "title": "Paris. À l’Élysée, deux gardes d’honneur s’effondrent l’un après l’autre devant Emmanuel Macron",
       "summary": "La scène, filmée par la télévision slovaque, s’est produite mercredi lors de l’accueil du président Peter Pellegrini. Leur état de santé n’est pas connu.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 12,
+      "feed_rank": 11,
       "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/11/a-l-elysee-deux-gardes-d-honneur-s-effondrent-l-un-apres-l-autre-devant-emmanuel-macron",
       "published_at": "2026-11-11T22:55:00+00:00",
       "category": "Politique",
@@ -635,11 +826,27 @@
       "mention_count": 1
     },
     {
+      "id": "ca5557e9b952",
+      "title": "Le Paraguay restitue une partie de leurs avoirs à tous les clients de Ueno Bank",
+      "summary": "La Banque centrale du Paraguay (BCP) a annoncé mercredi 11 novembre avoir restitué au moins une partie de leurs avoirs à la totalité des épargnants de Ueno Bank, même si la plus grande partie des fonds déposés reste en attente de récupération.",
+      "source": "RFI",
+      "feed_rank": 10,
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-le-paraguay-restitue-une-partie-de-leurs-avoirs-%C3%A0-tous-les-clients-de-ueno-bank",
+      "published_at": "2026-11-11T22:54:16+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Le Paraguay restitue une partie de leurs avoirs à tous les clients de Ueno Bank » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "155a5283babc",
       "title": "Pologne: la Marche de l’indépendance a pris un tournant plus politique que jamais",
       "summary": "« Dieu, honneur, patrie » : 250 000 personnes, selon la police, le double, selon les organisateurs, ont participé mercredi 11 novembre à Varsovie à une marche « patriotique » et nationaliste à l'occasion de la fête de l'indépendance polonaise.",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.rfi.fr/fr/europe/20261111-pologne-la-marche-de-l-ind%C3%A9pendance-a-pris-un-tournant-plus-politique-que-jamais",
       "published_at": "2026-11-11T22:51:55+00:00",
       "category": "Politique",
@@ -655,7 +862,7 @@
       "title": "Euroligue. Grâce à un panier de Hifi au buzzer, Paris vient à bout du Fenerbahçe, champion d’Europe 2025",
       "summary": "Ce mercredi 11 novembre à l’Accor Arena, le Paris Basketball a signé un exploit majuscule en venant à bout, en prolongation, du club turc, champion d’Europe 2025. Le club de la capitale peut toujours prétendre aux play-in.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/basket/paris-basketball/euroligue-grace-a-un-panier-de-hifi-au-buzzer-paris-vient-a-bout-de-fenerbahce-4858cdc0-de1d-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T22:47:28+00:00",
       "category": "Société",
@@ -671,7 +878,7 @@
       "title": "Le chef du Pentagone, Pete Hegseth, réprimandé par un soldat devant la tombe du Soldat inconnu à Arlington",
       "summary": "Le ministre américain de la Défense, Pete Hegseth, a été réprimandé par un soldat alors qu'il se recueillait devant la tombe du Soldat inconnu ce mercredi 11 novembre à Arlington. Le chef du Pentagone faisait partie d'un groupe qui a été jugé trop bruyant.",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/le-chef-du-pentagone-pete-hegseth-reprimande-par-un-soldat-devant-la-tombe-du-soldat-inconnu-a-arlington_AN-202611110835.html",
       "published_at": "2026-11-11T22:41:44+00:00",
       "category": "Politique",
@@ -752,7 +959,7 @@
       "title": "Liban: plus d'un million de personnes en état d'insécurité alimentaire aiguë, alerte l'ONU",
       "summary": "Des agences des Nations unies ont indiqué mercredi 11 novembre que plus d'un million de personnes sont confrontées à une insécurité alimentaire aiguë au Liban. Les organisations onusiennes ont mis en garde contre une détérioration de la situation dans les prochains mois et ont appelé à une « action urgente » pour y remédier.",
       "source": "RFI",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261111-liban-plus-d-un-million-de-personnes-en-%C3%A9tat-d-ins%C3%A9curit%C3%A9-alimentaire-aigu%C3%AB-alerte-l-onu",
       "published_at": "2026-11-11T22:20:40+00:00",
       "category": "International",
@@ -768,7 +975,7 @@
       "title": "Un immeuble s'effondre dans le quartier de Brooklyn à New York, un bilan provisoire fait état d'un mort et plusieurs blessés",
       "summary": "Des opérations de secours sont menées dans le quartier de Brroklyn, où un immeuble s'est effondré.",
       "source": "BFMTV",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/un-immeuble-s-effondre-a-new-york-des-operations-de-secours-en-cours_AN-202611110830.html",
       "published_at": "2026-11-11T22:14:53+00:00",
       "category": "Société",
@@ -800,7 +1007,7 @@
       "title": "FORUM BFMTV - “Tant que l’on n’a pas ces 10 milliards d’euros, on continuera de bloquer nos établissements”, déclare Marius Mesnil, co-secrétaire général de l’Union Syndicale Lycéenne",
       "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-tant-que-l-on-n-a-pas-ces-10-milliards-d-euros-on-continuera-de-bloquer-nos-etablissements-declare-marius-mesnil-co-secretaire-general-de-l-union-syndicale-lyceenne_VN-202611110823.html",
       "published_at": "2026-11-11T22:06:35+00:00",
       "category": "Société",
@@ -816,7 +1023,7 @@
       "title": "Écoles italiennes visées par des alertes à la bombe: Giorgia Meloni a indiqué que \"rien\" n'a été trouvé dans les établissements",
       "summary": "Des milliers d'écoles en Italie ont été visées par de fausses alertes à la bombe ce mercredi, provoquant notamment l'évacuation de plusieurs établissements dans le pays. La présidente du Conseil italien a finalement déclaré que \"rien\" n'a été trouvé, à ce stade, dans les écoles.",
       "source": "BFMTV",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.bfmtv.com/international/europe/italie/ecoles-italiennes-visees-par-des-alertes-a-la-bombe-giorgia-meloni-a-indique-que-rien-n-a-ete-trouve-dans-les-etablissements_AD-202611110821.html",
       "published_at": "2026-11-11T22:06:01+00:00",
       "category": "Société",
@@ -834,7 +1041,7 @@
       "title": "\"Je ne veux pas que nous détournions le regard\": Lewis Hamilton interpelle Israël sur la situation humanitaire à Gaza",
       "summary": "En visite à la frontière entre l'Egypte et Gaza, Lewis Hamilton a exprimé son indignation face aux obstacles que rencontrent les travailleurs humanitaires officiant dans la bande de Gaza, dévastée par la guerre avec Israël. Le septuple champion du monde de F1 a exhorté l'État hébreu de respecter \"ses obligations au titre du cessez-le-feu\".",
       "source": "BFMTV",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://rmcsport.bfmtv.com/auto-moto/f1/je-ne-veux-pas-que-nous-detournions-le-regard-le-cri-d-alarme-de-lewis-hamilton-sur-la-situation-humanitaire-a-gaza_AV-202611110819.html",
       "published_at": "2026-11-11T22:03:12+00:00",
       "category": "Sport",
@@ -883,7 +1090,7 @@
       "title": "Yémen: frappes contre Aden, capitale provisoire du gouvernement soutenu par l'Arabie saoudite",
       "summary": "Des frappes de missiles et de drones ont visé mercredi 11 novembre Aden, où siège le gouvernement yéménite internationalement reconnu, visant notamment un camp de la coalition militaire dirigée par Riyad, selon des sources policières.",
       "source": "RFI",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261111-y%C3%A9men-frappes-de-drones-et-de-missiles-contre-aden-capitale-provisoire-du-gouvernement-y%C3%A9m%C3%A9nite",
       "published_at": "2026-11-11T21:54:43+00:00",
       "category": "Politique",
@@ -916,7 +1123,7 @@
       "title": "En Israël, Gadi Eisenkot appelle Benyamin Netanyahou à faire preuve de responsabilité sur les décisions sécuritaires",
       "summary": "Gadi Eisenkot, chargé de former le prochain gouvernement en Israël après les élections législatives, a exhorté mercredi 11 novembre l’actuel Premier ministre Benyamin Netanyahou à « faire preuve de responsabilité » sur les décisions sécuritaires, une allusion à une éventuelle attaque israélienne contre l’Iran.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/monde/israel/en-israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-responsabilite-sur-les-decisions-securitaires-fddf689e-de17-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T21:53:36+00:00",
       "category": "Politique",
@@ -981,7 +1188,7 @@
       "title": "Guerre en Ukraine. Zelensky voit une « fenêtre d’opportunité » pour un cessez-le-feu en Ukraine avant 2027",
       "summary": "Le président ukrainien attend jeudi à Dublin les émissaires américains, qui doivent d’abord voir Vladimir Poutine à Moscou après les pourparlers d’Abou Dhabi.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 13,
+      "feed_rank": 12,
       "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/11/11/pourparlers-a-abou-dhabi-kiev-et-moscou-s-accordent-sur-un-vaste-echange-de-prisonniers",
       "published_at": "2026-11-11T21:41:00+00:00",
       "category": "Politique",
@@ -1013,7 +1220,7 @@
       "title": "Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle",
       "summary": "Les proches de Christophe Gleizes reçus dans la journée par Jean-Noël Barrot, le ministre des Affaires étrangères. Le journaliste français est détenu depuis 500 jours en Algérie, condamné pour apologie du terrorisme. Un match de foot à Paris était organisé en son hommage.",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
       "published_at": "2026-11-11T21:37:52+00:00",
       "category": "Médias & communication",
@@ -1046,7 +1253,7 @@
       "title": "Cyclisme. Le Danemark accueillera les Championnats d’Europe 2027",
       "summary": "Ce mercredi 11 novembre, l’Union européenne de cyclisme a annoncé que le Danemark organiserait les Championnats d’Europe 2027 du 28 septembre au 3 octobre prochain, dix ans après ceux organisés à Herning.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/cyclisme/cyclisme-le-danemark-accueillera-les-championnats-deurope-2027-7a566886-de14-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T21:33:10+00:00",
       "category": "Sport",
@@ -1062,7 +1269,7 @@
       "title": "Grève nationale en Espagne: 120.000 manifestants à Madrid pour le logement et le pouvoir d'achat",
       "summary": "C’est la première grève nationale de 24 heures dans le pays depuis 2012. Organisée par les syndicats, elle vise à intensifier la pression sur la question de l’accès au logement, à quelques semaines d'élections anticipées.",
       "source": "BFMTV",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.bfmtv.com/societe/manifestations/video-greve-nationale-en-espagne-120-000-manifestants-a-madrid-pour-le-logement-et-le-pouvoir-d-achat_VN-202611110808.html",
       "published_at": "2026-11-11T21:30:48+00:00",
       "category": "Politique",
@@ -1094,7 +1301,7 @@
       "title": "COP31 : Gisements de pétrole, prix écologique des guerres, absences… Ce qu’il faut retenir de ce mercredi",
       "summary": "<p><a href=\"https://www.20minutes.fr/planete/cop/4262005-20261110-pendant-temps-cop31-attentes-faibles-regrette-commission-europeenne\">La COP31 </a>est organisée à Antalya, en Turquie et près de 200 pays autour d’un objectif : faire avancer les engagements pour limiter le <a…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/planete/cop/4262235-20261111-cop31-gisements-petrole-prix-ecologique-guerres-absences-faut-retenir-mercredi?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T21:25:57+00:00",
       "category": "Économie",
@@ -1126,7 +1333,7 @@
       "title": "Pas-de-Calais. Calais : un salarié de 44 ans meurt après une chute dans une cuve d’une usine de déchets",
       "summary": "L’homme effectuait une opération de maintenance mardi matin. Son corps n’a pu être extrait que vers 18 heures, au terme d’une intervention très complexe.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 14,
+      "feed_rank": 13,
       "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/11/calais-un-salarie-de-44-ans-meurt-apres-une-chute-dans-une-cuve-d-une-usine-de-dechets",
       "published_at": "2026-11-11T21:21:00+00:00",
       "category": "Société",
@@ -1142,7 +1349,7 @@
       "title": "Lula et Delcy Rodríguez promettent de relancer les relations entre Brésil et Venezuela",
       "summary": "Le Brésil et le Venezuela se sont engagés à renouer leurs relations dans les mois à venir, notamment par le biais d’investissements pétroliers.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/monde/bresil/lula-et-delcy-rodriguez-promettent-de-relancer-les-relations-entre-bresil-et-venezuela-6e2c6b24-de13-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T21:20:13+00:00",
       "category": "International",
@@ -1154,17 +1361,17 @@
       "mention_count": 1
     },
     {
-      "id": "a085b68bf01f",
-      "title": "Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes",
-      "summary": "Le président du conseil exécutif et la présidente de l’Assemblée de Corse, qui reprochent au gouvernement de ne pas avoir répondu à des propositions adoptées le 4 novembre, avaient annoncé qu’ils ne participeraient pas à la réunion.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
-      "published_at": "2026-11-11T21:20:11+00:00",
+      "id": "e01cbac20c43",
+      "title": "🔴 Des milliers d'écoles italiennes ont reçu mercredi par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles, sans qu'aucun \"danger concret\" n'ait été identifié, selon la Première ministre italienne. ",
+      "summary": "Italie : des milliers d'écoles visées par de fausses alertes à la bombe",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 6,
+      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-des-milliers-d-ecoles-italiennes-ont-recu-mercredi-par-mail-de-fausses-alertes-a-la-bombe-ayant-conduit-a-l-evacuation-de-certaines-d-entre-elles-sans-qu-aucun-danger-concret-n-ait-ete-identifie-selon-la-premiere-ministre-italienne-des-94079-2475341.html",
+      "published_at": "2026-11-11T21:20:10+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « 🔴 Des milliers d'écoles italiennes ont reçu mercredi par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles,  ».",
       "coverage_sources": [
-        "Le Monde"
+        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1174,7 +1381,7 @@
       "title": "Résultats Loto FDJ: le tirage du mercredi 11 novembre 2026",
       "summary": "Ce mercredi 11 novembre 2026, le deuxième tirage du Loto de la semaine a été effectué. Les résultats sont consultables ici.",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.bfmtv.com/loto/resultats-loto-fdj-le-tirage-du-mercredi-11-novembre-2026_AN-202611110077.html",
       "published_at": "2026-11-11T21:20:00+00:00",
       "category": "Société",
@@ -1206,7 +1413,7 @@
       "title": "Avec des rafales à moins de 100 km/h, la tempête Charles a balayé le Portugal sans l’intensité redoutée",
       "summary": "La tempête Charles a finalement traversé le pays ibérique avec moins d’intensité que prévu mercredi 11 novembre. Une personne a toutefois été blessée et quatre ont été évacuées.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/europe/portugal/avec-des-rafales-a-moins-de-100-km-h-la-tempete-charles-a-balaye-le-portugal-sans-lintensite-redoutee-cf64107a-de10-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-11T21:16:15+00:00",
       "category": "Société",
@@ -1238,7 +1445,7 @@
       "title": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
       "summary": "Yossi Dagan, qui dirige une structure représentant les colonies juives en Samarie, au nord de la Cisjordanie occupée, s'est vu refuser l'entrée sur le territoire français à cause de son \"rôle actif dans la mise en uvre de la politique de colonisation de la Cisjordanie\", selon le ministère français des Affaires étrangères.",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
       "published_at": "2026-11-11T21:12:37+00:00",
       "category": "Politique",
@@ -1336,7 +1543,7 @@
       "title": "Un salarié tombé dans une cuve de traitement de déchets à Calais retrouvé mort après une journée de recherches",
       "summary": "Mercredi 11 novembre, un salarié est tombé dans une cuve de traitement de déchets à Calais. Il a été retrouvé mort après une journée de recherches.",
       "source": "BFMTV",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.bfmtv.com/grand-littoral/un-salarie-tombe-dans-une-cuve-de-traitement-de-dechets-a-calais-retrouve-mort-apres-une-journee-de-recherches_AN-202611110783.html",
       "published_at": "2026-11-11T21:02:14+00:00",
       "category": "Sciences & tech",
@@ -1397,27 +1604,11 @@
       "mention_count": 1
     },
     {
-      "id": "d81d03d4196e",
-      "title": "Volley. Montpellier et Mulhouse remportent la Supercoupe 2026",
-      "summary": "Ce mercredi 11 novembre, les deux finales de Supercoupe ont été disputées au Palais des Sports de Gentilly à Nancy. Le MHSC, champion de France en titre, l’a emporté chez les hommes face au Paris Volley. Le VMA a quant à lui conservé son titre en dominant Vandoeuvre-Nancy.",
-      "source": "Ouest-France",
-      "feed_rank": 8,
-      "url": "https://www.ouest-france.fr/sport/volley/volley-montpellier-et-mulhouse-remportent-la-supercoupe-2026-967d8630-de0e-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-11T21:00:07+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Volley. Montpellier et Mulhouse remportent la Supercoupe 2026 ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "3e96b482c96e",
       "title": "Espagne. Grève générale pour le logement : 120 000 manifestants à Madrid, à trois semaines des législatives",
       "summary": "Des dizaines de milliers de personnes ont aussi défilé à Barcelone mercredi. Les syndicats saluent une mobilisation « massive », le patronat parle d’« échec ».",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 16,
+      "feed_rank": 15,
       "url": "https://www.ledauphine.com/social/2026/11/11/greve-generale-pour-le-logement-120-000-manifestants-a-madrid-a-trois-semaines-des-legislatives",
       "published_at": "2026-11-11T20:58:00+00:00",
       "category": "Société",
@@ -1482,7 +1673,7 @@
       "title": "Une nouvelle génération de munitions russes low cost inquiète l’Ukraine",
       "summary": "Dan-T, Filin, Geran-5… Leurs noms ne vous disent peut-être rien, mais en Ukraine, ils sont sur toutes les lèvres. Petites, rapides et peu coûteuses, ces nouvelles munitions russes sont spécialement conçues pour déborder les défenses anti-aériennes ukrainiennes afin d'effectuer des frappes en profondeur.",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/europe/20261111-nouvelle-g%C3%A9n%C3%A9ration-munitions-russes-low-cost-inqui%C3%A8te-ukraine",
       "published_at": "2026-11-11T20:48:44+00:00",
       "category": "International",
@@ -1494,27 +1685,11 @@
       "mention_count": 1
     },
     {
-      "id": "e3d7dcd08fa6",
-      "title": "Ligue 1. Valérien Ismaël pressenti comme le successeur de Didier Digard au Havre",
-      "summary": "Depuis la mise à pied de Didier Digard le 1er novembre, Jaïr Karam assurait l’intérim sur le banc du HAC. Un intérim qui devrait bientôt prendre fin, l’entraîneur franco-allemand Valérien Ismaël étant proche de prendre les rênes de l’équipe, selon des informations de L’Équipe.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/sport/football/le-havre-ac/ligue-1-valerien-ismael-pressenti-comme-le-successeur-de-didier-digard-au-havre-ab844504-de0a-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-11T20:46:09+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette actualité génère des émotions et rassemble des communautés engagées. Elle invite à observer le récit médiatique, les partenaires associés et les effets possibles sur l'image des personnes ou organisations concernées. Pour travailler ce cas, partez du sujet précis — « Ligue 1. Valérien Ismaël pressenti comme le successeur de Didier Digard au Havre » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "9754d558a7a5",
       "title": "Nvidia : espionnage ou affaire d'État ?",
       "summary": "C'est une affaire d’espionnage qui défraie la chronique aux États-Unis et sur les réseaux sociaux en Chine. Jensen Huang, le patron de Nvidia, est sur la sellette après la révélation de sa liaison avec Alice Huang, soupçonnée d’être une espionne qui travaille pour Pékin. Nvidia est le leader mondial des microprocesseurs avec plus de 4000 milliards de…",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261111-nvidia-espionnage-ou-affaire-d-%C3%A9tat",
       "published_at": "2026-11-11T20:45:33+00:00",
       "category": "Médias & communication",
@@ -1546,7 +1721,7 @@
       "title": "Attentat raciste à Trappes : Quatre personnalités de gauche fichées chez le suspect",
       "summary": "<p>Un post-it, quatre noms et quatre numéros de téléphone. Au domicile de Kévin Tessier, <a href=\"https://www.20minutes.fr/faits_divers/4262224-20261111-attentat-raciste-trappes-terroriste-dit-avoir-agi-france\">auteur de l’attentat raciste meurtrier</a> dans <a…",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.20minutes.fr/politique/4262232-20261111-attentat-raciste-trappes-quatre-personnalites-gauche-fichees-chez-suspect?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T20:42:29+00:00",
       "category": "Société",
@@ -1576,33 +1751,17 @@
       "mention_count": 1
     },
     {
-      "id": "a8a9ed241a1b",
-      "title": "Quatre journalistes et députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
+      "id": "bec7cbd02dc3",
+      "title": "Deux journalistes et deux députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou",
       "summary": "Les députés Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin, du « Monde », et Paul Gogo ont été ciblés « en raison de leur participation au harcèlement de Xenia Fedorova », propagandiste du Kremlin et salariée du groupe Bolloré, selon les termes du ministère russe des affaires étrangères.",
       "source": "Le Monde",
       "feed_rank": 5,
       "url": "https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html",
       "published_at": "2026-11-11T20:40:01+00:00",
       "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Quatre journalistes et députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou ».",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Deux journalistes et deux députés français interdits de séjour en Russie, une nouvelle étape dans la dégradation des relations entre Paris et Moscou ».",
       "coverage_sources": [
         "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "29a99cf65402",
-      "title": "Italie - France. Ce qu’il faut retenir du point presse de Zinédine Zidane avant le choc de Ligue des Nations",
-      "summary": "Le forfait de Kylian Mbappé, ses souvenirs d’Italie, les jeunes… Tour d’horizon des sujets évoqués par Zinédine Zidane en conférence de presse ce mercredi 11 novembre, à la veille du choc Italie - France en Ligue des Nations.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/italie-france-ce-quil-faut-retenir-du-point-presse-de-zinedine-zidane-avant-le-choc-de-ligue-des-nations-6976605e-de0d-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-11T20:39:12+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Italie - France. Ce qu’il faut retenir du point presse de Zinédine Zidane avant le choc de Ligue des Nations ».",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1612,7 +1771,7 @@
       "title": "Handball - Division 2 féminine. Un large succès avec une défense de fer : Chambéry/La Motte-Servolex en maîtrise totale à Nîmes",
       "summary": "À Nîmes ce mercredi, Chambéry/La Motte-Servolex a signé une deuxième victoire de suite au terme d’un match totalement maîtrisé (25-34). Un succès qui leur permet d’avoir un bilan à l’équilibre après huit journées.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 17,
+      "feed_rank": 16,
       "url": "https://www.ledauphine.com/sport/2026/11/11/chambery-la-motte-servolex-en-maitrise-totale",
       "published_at": "2026-11-11T20:39:00+00:00",
       "category": "Sport",
@@ -1624,11 +1783,34 @@
       "mention_count": 1
     },
     {
+      "id": "5a60f7ba127e",
+      "title": "Alertes à la bombe : des centaines d'écoles évacuées",
+      "summary": "\"Nous sommes venus vous anéantir... Je viens de déposer dans votre établissement un puissant engin explosif à déclenchement à distance\", c'est le mail envoyé à plus de 6 000 établissements scolaires en Italie. Au moins 300 écoles, collèges et lycées sont évacués sur décision de leur chef d'établissement. Des mails similaires ont été reçus aujourd'hui…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 10,
+      "url": "https://www.tf1info.fr/international/videos/video-alertes-a-la-bombe-des-centaines-d-ecoles-evacuees-5437-2475333.html",
+      "published_at": "2026-11-11T20:35:15+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Alertes à la bombe : des centaines d'écoles évacuées ».",
+      "coverage_sources": [
+        "France 24",
+        "TF1 Info (TF1 / LCI)",
+        "Euronews",
+        "L'Express",
+        "L'Opinion",
+        "L'Humanité",
+        "La Croix",
+        "Le JDD"
+      ],
+      "coverage_count": 8,
+      "mention_count": 9
+    },
+    {
       "id": "48b02e68fb6a",
       "title": "Pourquoi les défis qui consistent à manger des aliments ultrapimentés sont des jeux dangereux",
       "summary": "<p><strong>Des défis, qui consistent à consommer des produits extrêmement pimentés, sont viraux sur les réseaux sociaux. Les participants à ces jeux s’exposent à des risques réels pour leur santé alerte sandra sinno-Tellier, médecin de santé publique à l&#x27;Anses.</strong></p><p>Longtemps utilisé pour relever les plats et conserver les aliments, le <a…",
       "source": "20 Minutes",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.20minutes.fr/sante/4261904-20261111-pourquoi-defis-consistent-manger-aliments-ultrapimentes-jeux-dangereux?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T20:32:39+00:00",
       "category": "Société",
@@ -1692,7 +1874,7 @@
       "title": "Guerre au Moyen-Orient. Déjà 200 milliards de dollars de dégâts dans les pays du Golfe, la facture pourrait quadrupler",
       "summary": "Les pertes économiques de la région pourraient atteindre 790 milliards de dollars d’ici 2030, selon un rapport d’Allianz Trade publié ce mercredi.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 18,
+      "feed_rank": 17,
       "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/11/11/la-guerre-avec-l-iran-a-cause-200-milliards-de-dollars-de-degats-dans-les-pays-du-golfe",
       "published_at": "2026-11-11T20:30:00+00:00",
       "category": "Économie",
@@ -1708,7 +1890,7 @@
       "title": "Espagne : des dizaines de milliers de manifestants en clôture d’une journée de grève générale pour le logement",
       "summary": "<p>Le droit d’avoir un toit a fait battre le pavé à 175.000 personnes en Espagne. Madrid et Barcelone ont connu ce mercredi une importante mobilisation <a href=\"https://www.20minutes.fr/monde/espagne/4260944-20261111-pays-tellement-divise-espagne-greve-generale-logement-avant-elections-legislatives\">contre la crise du logement</a> et la baisse du pouvoir…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/monde/espagne/4262230-20261111-espagne-dizaines-milliers-manifestants-cloture-journee-greve-generale-logement?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T20:27:47+00:00",
       "category": "Politique",
@@ -1819,11 +2001,27 @@
       "mention_count": 1
     },
     {
+      "id": "d798e58aa34a",
+      "title": "Attentat de Trappes : Aymeric Caron réagit à sa présence sur une liste faite par l'assaillant",
+      "summary": "INFO RMC/BFM - Kevin Tessier, l'auteur de l'attentat de Trappes, avait dressé une liste de plusieurs personnalités de gauche : Sandrine Rousseau, David Guiraud, Assa Traoré et Aymeric Caron. Le député REV-NFP de Paris Aymeric Caron a réagi auprès de RMC.",
+      "source": "RMC",
+      "feed_rank": 1,
+      "url": "https://rmc.bfmtv.com/actualites/police-justice/video-attentat-de-trappes-aymeric-caron-reagit-a-sa-presence-sur-une-liste-faite-par-l-assaillant_VN-202611110759.html",
+      "published_at": "2026-11-11T20:12:22+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Attentat de Trappes : Aymeric Caron réagit à sa présence sur une liste faite par l'assaillant » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "a963fdecae60",
       "title": "Équipe de France. « Je deviens Harry Kane par moments » : Dayot Upamecano évoque son rôle sur un terrain",
       "summary": "Fer de lance de la défense tricolore, Dayot Upamecano ne se sent pas arrivé pour autant et estime encore avoir à progresser. Référence mondiale à son poste, le central s’est même mis à peser offensivement cette saison.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 19,
+      "feed_rank": 18,
       "url": "https://www.ledauphine.com/sport/2026/11/11/dayot-upamecano-je-deviens-harry-kane-par-moments",
       "published_at": "2026-11-11T20:11:00+00:00",
       "category": "Société",
@@ -1861,19 +2059,18 @@
       "category": "Politique",
       "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « 11-Novembre : polémique sur les commémorations à l'école ».",
       "coverage_sources": [
-        "RFI",
         "TF1 Info (TF1 / LCI)",
         "L'Obs"
       ],
-      "coverage_count": 3,
-      "mention_count": 3
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "e273dede0cc3",
       "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante",
       "summary": "Formalisée dans un courrier aux présidents d’université, la mesure du premier ministre reste loin des revendications des organisations étudiantes, qui réclament 250 000 places supplémentaires.",
       "source": "Le Monde",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html",
       "published_at": "2026-11-11T20:07:54+00:00",
       "category": "Politique",
@@ -2133,7 +2330,7 @@
       "title": "Colère sociale : Lecornu tente d’apaiser la mobilisation étudiante avec 5.000 places supplémentaires",
       "summary": "<p><a href=\"https://www.20minutes.fr/societe/4258073-20261029-colere-lyceens-pourquoi-propositions-gouvernement-devraient-accentuer-mobilisations-non-calmer\">La colère ne retombe pas sur les campus</a>. Alors que les <a…",
       "source": "20 Minutes",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/societe/4262225-20261111-colere-sociale-lecornu-tente-apaiser-mobilisation-etudiante-5-000-places-supplementaires?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T19:44:42+00:00",
       "category": "Société",
@@ -2181,7 +2378,7 @@
       "title": "Coupe de France de football. GF38 : de très nombreux absents, du changement chez les gardiens et un mauvais souvenir… les infos avant le déplacement à Chambéry",
       "summary": "Dans le cadre du 7e tour de la Coupe de France, le Grenoble Foot 38 (Ligue 2) se déplace à Chambéry jeudi soir (19 heures). Voici ce qu’il faut savoir avant cette rencontre.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 20,
+      "feed_rank": 19,
       "url": "https://www.ledauphine.com/sport/2026/11/11/gf38-de-tres-nombreux-absents-du-changement-chez-les-gardiens-et-un-mauvais-souvenir-les-infos-avant-le-deplacement-a-chambery",
       "published_at": "2026-11-11T19:40:00+00:00",
       "category": "Sport",
@@ -2197,7 +2394,7 @@
       "title": "Procès du triple narchomicide de 2020 : le parquet général dénonce des « meurtres d’une sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
       "summary": "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… Méthode habituelle des criminels et du narcobanditisme en particulier » et a requis, le 11 novembre, de lourdes peines à l’égard des accusés.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
       "published_at": "2026-11-11T19:37:09+00:00",
       "category": "Société",
@@ -2243,6 +2440,22 @@
       "mention_count": 3
     },
     {
+      "id": "e8b716717c5b",
+      "title": "Pétanque - Championnat national des clubs. Élue municipale, internationale et capitaine de Valensolles : les 1000 vies de la Drômoise Emma Talagrand",
+      "summary": "Emma Talagrand (21 ans) va prendre part au Final Four du championnat national des clubs ce week-end. Une plongée dans l’inconnue pour l’Ardéchoise, capitaine de Valensolles, qui n’a jamais pris part à une épreuve de tel niveau.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 20,
+      "url": "https://www.ledauphine.com/sport/2026/11/11/elue-municipale-internationale-et-capitaine-de-valensolles-les-1000-vies-de-la-dromoise-emma-talagrand",
+      "published_at": "2026-11-11T19:35:00+00:00",
+      "category": "Sport",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Pétanque - Championnat national des clubs. Élue municipale, internationale et capitaine de Valensolles : les 1000 vies de la Drômoise Emma Talagrand ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "39d99022b616",
       "title": "\"J’en ai des frissons\", \"Une libération\", \"Match référence\"… les réactions après le succès du MHSC VB en SuperCoupe face à Paris",
       "summary": "Le MHSC VB a remporté la SuperCoupe de France en battant Paris 3-0, ce mercredi 11 novembre, à Nancy. Ce troisième titre de l’histoire du club héraultais offre un succès référence et un soulagement majeur aux joueurs...",
@@ -2286,6 +2499,22 @@
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Privé de vols commerciaux, le secrétaire d'État américain Marco Rubio aurait dépensé plus de 1,2 million de dollars d’argent public pour assister aux  ».",
       "coverage_sources": [
         "La Dépêche du Midi"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4337be158e70",
+      "title": "Les infections sexuellement transmissibles progressent: pourquoi personne ne doit se croire à l'abri",
+      "summary": "En Russie, les autorités sanitaires décrivent une épidémie de VIH désormais généralisée dans 27 régions, tandis que la France n'est pas épargnée. Les diagnostics d'IST bactériennes, notamment les gonococcies, les infections à chlamydia et la syphilis, sont en forte progression.",
+      "source": "RMC",
+      "feed_rank": 2,
+      "url": "https://rmc.bfmtv.com/actualites/societe/sante/les-infections-sexuellement-transmissibles-progressent-pourquoi-personne-ne-doit-se-croire-a-l-abri_AV-202611110593.html",
+      "published_at": "2026-11-11T19:30:13+00:00",
+      "category": "International",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Les infections sexuellement transmissibles progressent: pourquoi personne ne doit se croire à l'abri ».",
+      "coverage_sources": [
+        "RMC"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2359,7 +2588,7 @@
       "title": "Israël : Gadi Eisenkot appelle Benyamin Nétanyahou à faire « preuve de retenue et de prudence » quant à de possibles nouvelles attaques en Iran",
       "summary": "Chargé de former un nouveau gouvernement, le chef de l’opposition israélienne a demandé au premier ministre sortant, qui est toujours chargé des affaires courantes, de « faire preuve de responsabilité nationale », alors que M. Nétanyahou évoquait mardi la « menace nucléaire » de l’Iran.",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html",
       "published_at": "2026-11-11T19:21:03+00:00",
       "category": "Politique",
@@ -2645,22 +2874,6 @@
       "mention_count": 1
     },
     {
-      "id": "0363259537dc",
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Irlande, où il doit notamment s’entretenir avec les émissaires américains après les négociations à Abou Dhabi",
-      "summary": "« Les négociations ont été difficiles », selon Kyrylo Boudanov, chef de cabinet du président ukrainien, qui faisait partie de la délégation dépêchée à Abou Dhabi. « L’ensemble des objectifs que nous nous sommes fixés seront atteints », a pour sa part déclaré le négociateur russe Vladimir Medinski.",
-      "source": "Le Monde",
-      "feed_rank": 2,
-      "url": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-irlande-ou-il-doit-notamment-s-entretenir-avec-les-emissaires-americains-apres-les-negociations-a-abou-dhabi_6808609_3210.html",
-      "published_at": "2026-11-11T18:54:42+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Irlande, où il doit notamment s’entretenir avec les émissaires américains après les né ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "815e537b1942",
       "title": "Présidentielle 2027. Christine Lagarde créditée de 14 % en cas de candidature, Teddy Riner de 2 %, selon un sondage",
       "summary": "Christine Lagarde, qui ne s'est pas déclarée candidate à l'élection présidentielle, pourrait être créditée de 14 % selon un sondage Cluster 17. Teddy Riner est crédité de 2 % des intentions de voix.",
@@ -2681,7 +2894,7 @@
       "title": "JOJ Dakar 2026 : Olypro, l'influenceur qui fait briller le quartier de la Médina 🇸🇳",
       "summary": "📱 Avec plus de 150 000 followers et des millions de j’aime sur ses vidéos, Olypro99 est l'influenceur qui fait rayonner son quartier de la #Médina, à #Dakar.🔥 Son engagement lui a même permis de porter la #flamme olympique des #Jeux de la Jeunesse, une belle fierté pour celui qui veut mettre sa notoriété au service de son quartier.",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-joj-dakar-2026-olypro-l-influenceur-qui-fait-briller-le-quartier-de-la-m%C3%A9dina-%F0%9F%87%B8%F0%9F%87%B3",
       "published_at": "2026-11-11T18:49:06+00:00",
       "category": "Médias & communication",
@@ -2713,7 +2926,7 @@
       "title": "JOJ Dakar 2026 : Stéphie Tsimba première médaillé olympique de la RDC",
       "summary": "🇨🇩 Il y a quelques années, Stéphanie Nsimba découvrait la lutte. Aujourd'hui, elle fait briller les couleurs de la RDC. Médaillée de bronze en lutte de plage aux JOJ Dakar 2026, elle offre à son pays sa première médaille de ces Jeux. Et elle ne compte pas s'arrêter là.",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-joj-dakar-2026-st%C3%A9phie-tsimba-premi%C3%A8re-m%C3%A9daill%C3%A9-olympique-de-la-rdc",
       "published_at": "2026-11-11T18:44:58+00:00",
       "category": "Sport",
@@ -2832,6 +3045,22 @@
       "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Sophie Binet, secrétaire générale de la CGT en visite à Montpellier : \"Ce n’est pas le moment de ranger ses baskets\" ».",
       "coverage_sources": [
         "Midi Libre"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3c2a1368cb1f",
+      "title": "Présidentielle 2027: Raphaël Glucksmann veut un million de voitures électriques à 100 euros par mois",
+      "summary": "Une proposition pour la France: Raphaël Glucksmann, candidat PS-Place Publique à la présidentielle, propose la mise en place d'un dispositif de leasing social pour un million de voitures électriques compactes en cinq ans. La proposition s'adresse potentiellement à 10 millions de Français.",
+      "source": "RMC",
+      "feed_rank": 3,
+      "url": "https://rmc.bfmtv.com/actualites/politique/raphael-glucksmann-un-million-de-voitures-electriques-a-100-euros-par-mois_AV-202611110579.html",
+      "published_at": "2026-11-11T18:30:52+00:00",
+      "category": "Économie",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: Raphaël Glucksmann veut un million de voitures électriques à 100 euros par mois ».",
+      "coverage_sources": [
+        "RMC"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2989,7 +3218,7 @@
       "title": "Attentat raciste à Trappes : Le terroriste dit avoir agi « pour la France »",
       "summary": "<p>« Moi, je suis du bon côté. » En garde à vue, Kévin Tessier n’a pas caché le caractère raciste de son attentat. L’homme de 39 ans, auteur de l’attaque qui a fait <a href=\"https://www.20minutes.fr/justice/4259934-20261103-attentat-raciste-yvelines-arme-kevin-achetee-clandestinement-entrainait-tir\">un mort et sept blessés à Trappes et La Verrière</a>,…",
       "source": "20 Minutes",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.20minutes.fr/faits_divers/4262224-20261111-attentat-raciste-trappes-terroriste-dit-avoir-agi-france?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T18:22:17+00:00",
       "category": "Société",
@@ -3053,7 +3282,7 @@
       "title": "De la fuite d’Hitler en soucoupe volante au mythe des Illuminati, un essai plonge dans les croyances irrationnelles de l’extrême droite",
       "summary": "Dans son livre « Irrationnelle. La longue histoire de l’extrême droite avec l’irrationalisme », le politiste et historien Stéphane François revient sur le rôle central de l’ésotérisme dans les cultures politiques d’extrême droite.",
       "source": "Le Monde",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lemonde.fr/idees/article/2026/11/11/de-la-fuite-d-hitler-en-soucoupe-volante-au-mythe-des-illuminati-un-essai-plonge-dans-les-croyances-irrationnelles-de-l-extreme-droite_6809017_3232.html",
       "published_at": "2026-11-11T18:15:16+00:00",
       "category": "Politique",
@@ -3294,7 +3523,7 @@
       "title": "« Passer par les émotions, plus que par l’intellect » : le Théâtre de la Cité internationale, à Paris, tente de sensibiliser le public aux urgences écologiques",
       "summary": "Sous l’impulsion d’un duo de directrices, Frédérique Aït-Touati et Nathalie Vimeux, une alliance inédite entre artistes et scientifiques est mise sur pied.",
       "source": "Le Monde",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/culture/article/2026/11/11/passer-par-les-emotions-plus-que-par-l-intellect-le-theatre-de-la-cite-internationale-a-paris-tente-de-sensibiliser-le-public-aux-urgences-ecologiques_6809013_3246.html",
       "published_at": "2026-11-11T18:00:09+00:00",
       "category": "Sciences & tech",
@@ -3375,7 +3604,7 @@
       "title": "Après l'Argentine, le pape Léon XIV arrive au Pérou, sa patrie d'adoption",
       "summary": "C'est la dernière étape de sa tournée en Amérique latine : le pape François a quitté l'Argentine pour le Pérou où il est arrivé mercredi. Au-delà de la ferveur suscitée par son retour dans son pays d'adoption, certains fidèles espèrent un message de réconfort dans un pays frappé par la criminalité et l'extorsion.",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-apr%C3%A8s-l-argentine-le-pape-l%C3%A9on-xiv-arrive-au-p%C3%A9rou-sa-patrie-d-adoption",
       "published_at": "2026-11-11T17:58:06+00:00",
       "category": "Société",
@@ -3406,9 +3635,9 @@
     {
       "id": "23ebcd32d296",
       "title": "Face à la Russie, les États-Unis veulent renforcer leur influence dans l'océan Indien",
-      "summary": "Le déplacement d'un haut responsable du commandement militaire américain pour l’Afrique (Africom) au Mozambique et à Madagascar, entre le 3 et le 7 novembre, illustre la volonté de Washington de rester un partenaire influent dans l'océan Indien. Car cette région stratégique attise aussi les convoitises de la Russie.",
+      "summary": "Le déplacement d'un haut responsable du commandement militaire américain pour l’Afrique (Africom) à Madagascar et au Mozambique, entre le 3 et le 7 novembre, illustre la volonté de Washington de rester un partenaire influent dans l'océan Indien. Car cette région stratégique attise aussi les convoitises de la Russie.",
       "source": "RFI",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.rfi.fr/fr/afrique/20261111-face-%C3%A0-la-russie-les-%C3%A9tats-unis-veulent-renforcer-leur-influence-dans-l-oc%C3%A9an-indien",
       "published_at": "2026-11-11T17:53:13+00:00",
       "category": "International",
@@ -3453,11 +3682,10 @@
         "CNews",
         "Euronews",
         "20 Minutes",
-        "La Dépêche du Midi",
-        "Le Dauphiné Libéré"
+        "La Dépêche du Midi"
       ],
-      "coverage_count": 9,
-      "mention_count": 9
+      "coverage_count": 8,
+      "mention_count": 8
     },
     {
       "id": "77adf191ae5c",
@@ -3572,22 +3800,6 @@
       "mention_count": 1
     },
     {
-      "id": "ee447bd24db6",
-      "title": "Foot: Sepp Blatter, ancien président de la Fifa, attaque avec virulence Gianni Infantino",
-      "summary": "L'ancien président de la Fifa Sepp Blatter a frontalement attaqué son successeur Gianni Infantino, le qualifiant de « dictateur » sans « aucune limite » et suggérant de l'envoyer « en psychiatrie », dans un entretien paru mercredi 11 novembre dans le magazine allemand Der Spiegel.",
-      "source": "RFI",
-      "feed_rank": 17,
-      "url": "https://www.rfi.fr/fr/sports/20261111-fifa-sepp-blatter-ancien-pr%C3%A9sident-de-la-fifa-attaque-avec-virulence-gianni-infantino",
-      "published_at": "2026-11-11T17:42:55+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Foot: Sepp Blatter, ancien président de la Fifa, attaque avec virulence Gianni Infantino » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "RFI"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "78a65b7ffc6d",
       "title": "Attentat de Trappes : « Ça pouvait me servir un jour », une liste de personnalités de gauche retrouvée au domicile de Kévin T.",
       "summary": "Une liste de personnalités de gauche aurait été retrouvée au domicile de Kevin T., auteur des tirs ayant assassiné un homme et blessé sept personnes à Trappes (Yvelines) le 23 octobre, selon « Le Monde » et BFM TV. Des « gauchistes » et des « ennemis de la France », aurait justifié l’homme de 39 ans auprès des enquêteurs.",
@@ -3672,7 +3884,7 @@
       "title": "Guerre en Ukraine : Quatre Français bannis par Moscou et pluie de drones sur un port russe",
       "summary": "<p>Vous avez raté les derniers événements sur <a href=\"https://www.20minutes.fr/monde/ukraine/\">la guerre en Ukraine ?</a> <em>20 Minutes </em>fait le point pour vous tous les soirs. Voici l’essentiel de ce mercredi 11 novembre 2026, au 1.721e jour du conflit.</p><h2>Le fait du jour</h2><p>Les députés français Sacha Houlié et Arthur Delaporte, ainsi que…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/monde/ukraine/4262222-20261111-guerre-ukraine-quatre-francais-bannis-moscou-pluie-drones-port-russe?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T17:38:26+00:00",
       "category": "Médias & communication",
@@ -3834,11 +4046,27 @@
       "mention_count": 1
     },
     {
+      "id": "ce0e74138ae3",
+      "title": "Le prosecco détrône le champagne dans les supermarchés français, une première",
+      "summary": "D'après une étude menée par le cabinet Circana, entre juillet 2025 et juillet 2026, 25,31 millions de bouteilles de prosecco ont été vendues, contre 25,23 millions de bouteilles de champagne. Les bulles italiennes devancent ainsi les bulles françaises de 80.000 bouteilles.",
+      "source": "RMC",
+      "feed_rank": 4,
+      "url": "https://rmc.bfmtv.com/actualites/societe/le-prosecco-detrone-le-champagne-dans-les-supermarches-francais-une-premiere_AV-202611110576.html",
+      "published_at": "2026-11-11T17:30:15+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le prosecco détrône le champagne dans les supermarchés français, une première » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "c6b25fe995aa",
       "title": "Midterms 2026 : au Texas, l’improbable victoire du démocrate Bobby Pulido, star de la musique tex-mex",
       "summary": "Le chanteur américain, star de ce genre musical apprécié des Latinos, vient d’être élu dans un territoire qui avait largement voté pour Donald Trump en 2024. Jeudi 12 novembre, il est en lice pour une nouvelle récompense aux Latin Grammy Awards.",
       "source": "Le Monde",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lemonde.fr/international/article/2026/11/11/midterms-2026-aux-etats-unis-l-improbable-victoire-de-bobby-pulido-star-de-la-musique-tex-mex_6809009_3210.html",
       "published_at": "2026-11-11T17:30:04+00:00",
       "category": "Politique",
@@ -4047,7 +4275,7 @@
       "title": "COP31 : en Turquie, les îles du Pacifique veulent faire entendre leur voix",
       "summary": "En première ligne du dérèglement climatique, les petits États insulaires du Pacifique sont présentés comme le troisième acteur majeur de la COP31, aux côtés de la Turquie et de l'Australie. L'occasion pour eux de tenter de peser dans les négociations, notamment sur l'épineuse question du financement climatique.",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/plan%C3%A8te/20261111-cop31-turquie-%C3%AEles-pacifique-veulent-faire-entendre-leur-voix",
       "published_at": "2026-11-11T17:14:58+00:00",
       "category": "Société",
@@ -4111,7 +4339,7 @@
       "title": "Accords d’Abraham: une coopération militaire massive et assumée entre Israël et certains de ses alliés arabes",
       "summary": "Le Maroc et les Émirats arabes unis sont deux des pays signataires des « Accords d’Abraham » de normalisation avec l’État hébreu, depuis 2020. Les dirigeants émiriens et marocains assument une coopération militaire étroite avec Israël, en dépit des critiques internationales qui visent ce pays en raison de ses guerres menées depuis octobre 2023.",
       "source": "RFI",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261111-accords-d-abraham-une-coop%C3%A9ration-militaire-massive-et-assum%C3%A9e-entre-isra%C3%ABl-et-certains-de-ses-alli%C3%A9s-arabes",
       "published_at": "2026-11-11T17:13:22+00:00",
       "category": "International",
@@ -4175,7 +4403,7 @@
       "title": "Colombie : Des dégâts matériels après une attaque à l’explosif visant une chaîne de radio et de télévision",
       "summary": "<p><a href=\"https://www.20minutes.fr/monde/pologne/4262015-20261110-attrape-bras-pris-fuite-francais-vacances-assistent-attentat-cracovie\">L’attaque</a> a semé la panique en Colombie. Les autorités ont donné l’alerte après que le siège d’une chaîne de radio et de télévision a été attaqué à l’explosif à Cali, dans l’ouest de <a…",
       "source": "20 Minutes",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.20minutes.fr/monde/4262221-20261111-colombie-degats-materiels-apres-attaque-explosif-visant-chaine-radio-television?at_medium=display&at_campaign=149",
       "published_at": "2026-11-11T17:08:59+00:00",
       "category": "Société",
@@ -4379,6 +4607,22 @@
       "mention_count": 2
     },
     {
+      "id": "3e62de8608f9",
+      "title": "\"J'ai une maison de 190m2 avec un abri de jardin, une piscine et un garage et je suis à 3 995 euros de foncier...\"",
+      "summary": "🏠 \"J'ai une maison de 190m2 avec un abri de jardin, une piscine et un garage et je suis à 3 995 euros de foncier ! La rue est défoncée, ce n'est pas refait, on s'en fout... Les éboueurs passent quand ils ont envie et je ne suis même pas éligible à la fibre... donc 3 995 euros pour des prestations de m*rde !\" : Marc est dépité de voir le fisc s'attaquer…",
+      "source": "RMC",
+      "feed_rank": 5,
+      "url": "https://rmc.bfmtv.com/actualites/economie/video-j-ai-une-maison-de-190m2-avec-un-abri-de-jardin-une-piscine-et-un-garage-et-je-suis-a-3-995-euros-de-foncier_VN-202611110628.html",
+      "published_at": "2026-11-11T17:00:03+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « \"J'ai une maison de 190m2 avec un abri de jardin, une piscine et un garage et je suis à 3 995 euros de foncier...\" » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "cadce9a2d60f",
       "title": "Le 18/20 : un jour dans le monde du mercredi 11 novembre 2026",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
@@ -4439,6 +4683,22 @@
       "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Voile à l'école : l'autre bataille culturelle chez les insoumis ».",
       "coverage_sources": [
         "L'Express"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "61984807b6f7",
+      "title": "Italie : plus de six mille écoles visées par des alertes à la bombe",
+      "summary": "La plupart des établissements scolaires italiens ont reçu aujourd'hui un mail de menaces annonçant la présence d'explosifs dans leurs locaux. Plus de 300 écoles ont été évacuées, mais rien n'a été trouvé. Selon la Première ministre italienne Giorgia Meloni, il n'y a \"aucun danger concret\".",
+      "source": "France Culture",
+      "feed_rank": 5,
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/evacuations-massives-d-ecoles-dans-toute-l-italie-a-la-suite-d-une-serie-de-fausses-alertes-a-la-bombe-8788362",
+      "published_at": "2026-11-11T17:00:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Italie : plus de six mille écoles visées par des alertes à la bombe ».",
+      "coverage_sources": [
+        "France Culture"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4528,7 +4788,7 @@
       "title": "Les Péruviens attendent la venue du pape Léon XIV",
       "summary": "Après son passage en Argentine, le pape Léon XIV est attendu au Pérou, un pays où il fut missionnaire et évêque pendant 20 ans. Le Pérou est le point culminant de la tournée papale en Amérique latine. Elle l'y mènera notamment dans l'ancienne capitale inca, Cuzco, dans la forêt amazonienne et le verra renouer avec sa vie de Robert Francis Prevost dans…",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-p%C3%A9ruviens-attendent-la-venue-du-pape-l%C3%A9on-xiv",
       "published_at": "2026-11-11T16:54:19+00:00",
       "category": "Environnement",
@@ -4620,6 +4880,22 @@
       "mention_count": 1
     },
     {
+      "id": "a09b2c3275ab",
+      "title": "INFO RMC-BFMTV : Aymeric Caron, Sandrine Rousseau, David Guiraud, Assa Traoré ... Les personnalités listées par le suspect de l'attentat de Trappes réagissent",
+      "summary": "\"C'est grave que les autorités ne nous préviennent pas\". Selon les informations de RMC et BFMTV, les députés Sandrine Rousseau et Aymeric Caron, le maire de Roubaix David Guiraud et la militante Assa Traoré ont vu leur nom être inscrit sur un post-it par le suspect de l'attentat terroriste et raciste de Trappes, Kevin Tessier.",
+      "source": "RMC",
+      "feed_rank": 6,
+      "url": "https://rmc.bfmtv.com/actualites/politique/info-rmc-bfmtv-aymeric-caron-sandrine-rousseau-david-guiraud-assa-traore-les-personnalites-listees-par-l-auteur-de-l-attentat-de-trappes-reagissent_AN-202611110616.html",
+      "published_at": "2026-11-11T16:50:38+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « INFO RMC-BFMTV : Aymeric Caron, Sandrine Rousseau, David Guiraud, Assa Traoré ... Les personnalités listées par le suspect de l'attentat de Trappes ré » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "65157c05caad",
       "title": "L’acteur Stacy Keach, à la fois Mike Hammer et Hemingway, est mort à 85 ans",
       "summary": "For Editorial Use Only Mandatory Credit: Photo by THA/Shutterstock (15073136vs) Studio Publicity Still from \"Mickey Spillane's Mike Hammer\" Stacy Keach 1984 Archival Hollywood/shutterstock_editorial_Stacy_Keach_dies_aged_85_15073136vs/For Editorial Use Only/2611110256",
@@ -4656,7 +4932,7 @@
       "title": "L'Iran menace de représailles en cas d'attaques américaines depuis des bases européennes",
       "summary": "Téhéran a menacé mercredi de frapper toute base militaire d'où décolleraient des avions de combat américains cherchant à bombarder l'Iran, \"même située dans un pays européen ou dans une autre région éloignée\". De son côté, Donald Trump a profité mercredi des commémorations consacrées aux anciens combattants du 11-Novembre aux États-Unis pour défendre la…",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/europe/20261111-iran-menace-r%C3%A9pr%C3%A9sailles-cas-attaques-am%C3%A9ricaines-depuis-bases-europe",
       "published_at": "2026-11-11T16:48:16+00:00",
       "category": "International",
@@ -4785,7 +5061,7 @@
       "title": "11-Novembre : Washington célèbre aussi ses anciens combattants",
       "summary": "Le 11 novembre, a lieu le \"Veterans Day\", jour où les anciens combattants de l'armée américaine sont à l'honneur. Les précisions de Matthieu Mabin, correspondant de France 24 à Washington.",
       "source": "France 24",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-washington-c%C3%A9l%C3%A8bre-aussi-ses-anciens-combattants",
       "published_at": "2026-11-11T16:42:04+00:00",
       "category": "Société",
@@ -4925,6 +5201,22 @@
       "mention_count": 1
     },
     {
+      "id": "ed0e4ec4eb0a",
+      "title": "\"Ça a changé, je peux sortir le matin\": à Marseille, le quartier de la Paternelle ne vit enfin plus au rythme du narcotrafic",
+      "summary": "\"Il y avait beaucoup de dealers. Je me souviens même que, quand on appelait les policiers, ils évitaient de venir. Ils avaient extrêmement peur. Maintenant, ça a changé, et bien. Je peux sortir le matin, à 4 ou 5 heures, je n'ai pas peur !\", savoure Sonia, 20 ans, habitante des Paternelles depuis ses 13 ans.",
+      "source": "RMC",
+      "feed_rank": 7,
+      "url": "https://rmc.bfmtv.com/actualites/societe/ca-a-change-je-peux-sortir-le-matin-a-marseille-le-quartier-de-la-paternelle-ne-vit-enfin-plus-au-rythme-du-narcotrafic_AV-202611110572.html",
+      "published_at": "2026-11-11T16:30:10+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Ça a changé, je peux sortir le matin\": à Marseille, le quartier de la Paternelle ne vit enfin plus au rythme du narcotrafic » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "805c18639a30",
       "title": "« Eldorado » : l’allégorie d’une société en crise",
       "summary": "S’inspirant de l’affaire des « avions renifleurs », cette passionnante mini-série retrace ce scandale politico-financier de manière particulièrement crédible et émouvante. Disponible sur Arte.tv.",
@@ -5053,7 +5345,7 @@
       "title": "Éliminatoires CAN 2026: Cédric Bakambu vers le record de buts avec la RDC?",
       "summary": "De retour en sélection, Cédric Bakambu abordera cette trêve internationale sans club, mais avec l’espoir de battre le record de buts de la RDC détenu par Dieumerci Mbokani.",
       "source": "RFI",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.rfi.fr/fr/afrique-foot/20261111-%C3%A9liminatoires-can-2026-c%C3%A9dric-bakambu-vers-le-record-de-buts-avec-la-rdc",
       "published_at": "2026-11-11T16:27:16+00:00",
       "category": "Société",
@@ -5101,7 +5393,7 @@
       "title": "11-Novembre : le Bleuet de France, symbole de mémoire",
       "summary": "Ludovic de Foucaud, journaliste à France 24, nous en dit plus sur la signification du Bleuet de France, symbole en hommage aux Morts pour la France.",
       "source": "France 24",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-le-bleuet-de-france-symbole-de-m%C3%A9moire",
       "published_at": "2026-11-11T16:23:51+00:00",
       "category": "Médias & communication",
@@ -5124,294 +5416,6 @@
       "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Le venin de ce crapaud du désert inspire un spray nasal contre les dépressions sévères : les premiers résultats surprennent ».",
       "coverage_sources": [
         "Futura"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "c47b513b268c",
-      "title": "Affaire Fedorova : Moscou déclare persona non grata deux journalistes et deux députés français",
-      "summary": "Le Monde et Ouest-France ont dénoncé mercredi \"une entrave à la liberté d'informer\", après l'annonce par la Russie d'interdire l'accès à son territoire aux journalistes Ariane Chemin et Paul Gogo. Deux députés, également visés par la mesure, évoquent une \"tentative d'intimidation\". Il leur est reproché d'avoir appelé à l'expulsion de la journaliste russe…",
-      "source": "France 24",
-      "feed_rank": 16,
-      "url": "https://www.france24.com/fr/europe/20261111-affaire-fedorova-moscou-d%C3%A9clare-deux-journalistes-et-deux-d%C3%A9put%C3%A9s-fran%C3%A7ais-persona-non-grata",
-      "published_at": "2026-11-11T16:23:01+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Affaire Fedorova : Moscou déclare persona non grata deux journalistes et deux députés français ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4e8f868dfc9d",
-      "title": "Baisse de la TVA, blocage des prix, aides ciblées… Terra Nova évalue les propositions des partis face à la crise des carburants",
-      "summary": "Le think tank progressiste a analysé dans une étude publiée ce mercredi 11 novembre les solutions soumises par les différents partis politiques pour faire face au prix exorbitant de l’essence.",
-      "source": "Libération",
-      "feed_rank": 20,
-      "url": "https://www.liberation.fr/politique/elections/baisse-de-la-tva-blocage-des-prix-aides-ciblees-terra-nova-evalue-les-propositions-des-partis-face-a-la-crise-des-carburants-20261111_S2ZFXKUR3JALFLVS2VFRFOQCGI/",
-      "published_at": "2026-11-11T16:21:42+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Baisse de la TVA, blocage des prix, aides ciblées… Terra Nova évalue les propositions des partis face à la crise des carburants ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "132117b2d38c",
-      "title": "En Syrie, sur la route embouteillée du pétrole irakien",
-      "summary": "Face au blocage du détroit d’Ormuz, le pays renforce sa collaboration avec l’Irak voisin, se positionnant comme itinéraire alternatif pour le transport de carburant au Moyen Orient, notamment via le port de Banias.",
-      "source": "Libération",
-      "feed_rank": 21,
-      "url": "https://www.liberation.fr/international/moyen-orient/en-syrie-sur-la-route-embouteillee-du-petrole-irakien-20261111_FP66SLM2JZGLHG4C722ABVALMM/",
-      "published_at": "2026-11-11T16:21:30+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « En Syrie, sur la route embouteillée du pétrole irakien ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "f4bb8fbe84fe",
-      "title": "Haïti: les militaires salvadoriens frappent le quartier général d'un chef de gang",
-      "summary": "Déployés en Haïti pour participer à la lutte contre les gangs, les militaires salvadoriens ont mené leur première opération d'envergure. Selon le président du Salvador, Nayib Bukele, ils ont détruit le quartier général de Wilson Joseph, chef du gang 400 Mawozo, dans la banlieue de Port-au-Prince. Cette intervention, largement médiatisée par le dirigeant…",
-      "source": "RFI",
-      "feed_rank": 3,
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-ha%C3%AFti-les-militaires-salvadoriens-frappent-le-quartier-g%C3%A9n%C3%A9ral-d-un-chef-de-gang",
-      "published_at": "2026-11-11T16:21:19+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Haïti: les militaires salvadoriens frappent le quartier général d'un chef de gang ».",
-      "coverage_sources": [
-        "RFI"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5eb599fd1462",
-      "title": "\"Il y a des bouchers qui commencent à en réclamer\" : de 170 à 1 076 vaches en 35 ans, la mirandaise s'affiche au Sommet de l'élevage de Cournon d'Auvergne, ses débouchés locaux en pleine expansion",
-      "summary": "Longtemps menacée de disparition, la Mirandaise regagne du terrain dans les élevages gersois. En octobre, deux vaches de Daniel Danflous ont participé au Sommet de l'élevage, à Cournon-d'Auvergne (Puy-de-Dôme)....",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 12,
-      "url": "https://www.ladepeche.fr/2026/11/11/il-y-a-des-bouchers-qui-commencent-a-en-reclamer-de-170-a-1-076-vaches-en-35-ans-la-mirandaise-saffiche-au-sommet-de-lelevage-de-cournon-dauvergne-ses-13644501.php",
-      "published_at": "2026-11-11T16:21:02+00:00",
-      "category": "Société",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Il y a des bouchers qui commencent à en réclamer\" : de 170 à 1 076 vaches en 35 ans, la mirandaise s'affiche au Sommet de l'élevage de Cournon d'Auve ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5fc28fdfea08",
-      "title": "Vagues-submersion : voici les 6 départements placés en vigilance jaune ce jeudi en raison de la tempête Charles",
-      "summary": "L'institut national de météorologie a placé six départements en vigilance jaune pour vague-submersion, ce jeudi 12 novembre. La tempête Charles sera suivie de près. Des vagues imposantes vont déferler sur certaines plages françaises. Dans ce sens, Météo-France a émis six alertes jaune. Toutes concernent le Sud-Est du pays qui sera touché par la tempête…",
-      "source": "CNews",
-      "feed_rank": 25,
-      "url": "https://www.cnews.fr/france/2026-11-11/vagues-submersion-voici-les-6-departements-places-en-vigilance-jaune-ce-jeudi-en",
-      "published_at": "2026-11-11T16:18:17+00:00",
-      "category": "Société",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Vagues-submersion : voici les 6 départements placés en vigilance jaune ce jeudi en raison de la tempête Charles ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "02bc24cea371",
-      "title": "Présidentielle 2027 : à droite, Teddy Riner sème le trouble",
-      "summary": "L’arrivée dans la campagne du judoka a été saluée par Edouard Philippe et Gabriel Attal. Mais cette candidature pourrait vite les embarrasser tant ses premières positions sonnent très macronistes.",
-      "source": "Libération",
-      "feed_rank": 22,
-      "url": "https://www.liberation.fr/politique/elections/a-droite-riner-seme-le-trouble-20261111_A33KEHULKBBR5NEWLIECFAZV2I/",
-      "published_at": "2026-11-11T16:15:53+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : à droite, Teddy Riner sème le trouble ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b06b65e8aab1",
-      "title": "Comment les 0,1 % des Français les plus riches ont réussi un nouveau hold-up fiscal",
-      "summary": "Selon une note statistique de Bercy, les Crésus français paraissent être parvenus à déjouer la contribution différentielle sur les hauts revenus. À la pointe du sommet, les impôts ont baissé de 9,2 % l’année dernière.",
-      "source": "L'Humanité",
-      "feed_rank": 14,
-      "url": "https://www.humanite.fr/social-et-economie/capital-vs-travail/comment-les-01-des-francais-les-plus-riches-ont-reussi-un-nouveau-hold-up-fiscal",
-      "published_at": "2026-11-11T16:15:45+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Comment les 0,1 % des Français les plus riches ont réussi un nouveau hold-up fiscal ».",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cf4a0b37bbe3",
-      "title": "\"Arrête-toi immédiatement !\" : elle consulte les résultats du loto en voiture et découvre stupéfaite qu’elle vient de gagner 12 millions d’euros",
-      "summary": "Un couple vendéen a remporté 12 millions d’euros au Loto \"Mission Nature\" le 22 octobre, après avoir joué au Super U de Boufféré, à Montaigu-Vendée. Les heureux gagnants, qui ont découvert leur victoire en voiture,...",
-      "source": "Midi Libre",
-      "feed_rank": 25,
-      "url": "https://www.midilibre.fr/2026/11/11/arrete-toi-immediatement-elle-consulte-les-resultats-du-loto-en-voiture-et-decouvre-stupefaite-quelle-vient-de-gagner-12-millions-deuros-13647359.php",
-      "published_at": "2026-11-11T16:14:45+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Arrête-toi immédiatement !\" : elle consulte les résultats du loto en voiture et découvre stupéfaite qu’elle vient de gagner 12 millions d’euros » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4eeefec5a8cd",
-      "title": "J. D. Vance est sans doute cuit pour 2028",
-      "summary": "Les élections de mi-mandat ont sonné le glas des ambitions du vice-président des États-Unis, estime ce journaliste conservateur à la tête de la revue en ligne iconoclaste “Compact” et qui signe cette tribune du “New York Times”. Vance a beau vouloir prendre ses distances avec Donald Trump après la déroute républicaine, sa position paraît trop intenable…",
-      "source": "Courrier International",
-      "feed_rank": 5,
-      "url": "https://www.courrierinternational.com/article/opinion-j-d-vance-est-sans-doute-cuit-pour-2028_285983",
-      "published_at": "2026-11-11T16:14:31+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « J. D. Vance est sans doute cuit pour 2028 ».",
-      "coverage_sources": [
-        "Courrier International"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "fb5a86290d46",
-      "title": "\"Comment vais-je réussir à tout payer ?\": elle trie rigoureusement ses déchets mais voit sa facture doubler à cause du déficit de sa commune",
-      "summary": "À Thiaville-sur-Meurthe, dans le Grand Est, la redevance incitative pour le tri des déchets va doubler en 2027, passant de 180 à 360 euros par an. Cette hausse vise à combler un déficit de 1,2 million d’euros de la...",
-      "source": "Midi Libre",
-      "feed_rank": 23,
-      "url": "https://www.midilibre.fr/2026/11/11/comment-vais-je-reussir-a-tout-payer-elle-trie-rigoureusement-ses-dechets-mais-voit-sa-facture-doubler-a-cause-du-deficit-de-sa-commune-13647478.php",
-      "published_at": "2026-11-11T16:14:31+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « \"Comment vais-je réussir à tout payer ?\": elle trie rigoureusement ses déchets mais voit sa facture doubler à cause du déficit de sa commune » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "27a8f91158a8",
-      "title": "«Je suis mort depuis mes 5 ans» : les lettres retrouvées dans la cellule du suspect de l’attentat de Trappes après sa tentative de suicide",
-      "summary": "INFO LE FIGARO - Après la tentative de suicide de Kevin Tessier, deux lettres manuscrites ont été découvertes dans la cellule de l’auteur présumé de l’attentat raciste de Trappes. Le Figaro les a consultées.",
-      "source": "Le Figaro",
-      "feed_rank": 5,
-      "url": "https://www.lefigaro.fr/faits-divers/je-suis-mort-depuis-mes-5-ans-les-lettres-retrouvees-dans-la-cellule-du-suspect-de-l-attentat-de-trappes-apres-sa-tentative-de-suicide-20261111",
-      "published_at": "2026-11-11T16:08:43+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité demande de rendre un sujet technique compréhensible sans promettre davantage que ce que les faits établissent. Le communicant doit expliquer les usages, les limites et les questions éthiques. Pour travailler ce cas, partez du sujet précis — « «Je suis mort depuis mes 5 ans» : les lettres retrouvées dans la cellule du suspect de l’attentat de Trappes après sa tentative de suicide » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ce0ab9aa3000",
-      "title": "Malgré une hausse de 1 % des recettes de l'impôt sur le revenu en 2025, les 10 % de Français les plus aisés ont vu leur impôt reculer",
-      "summary": "En 2025, malgré une hausse de 1 % des recettes de l'impôt sur le revenu à 92,6 milliards d'euros, les contribuables les plus aisés ont vu leur facture fiscale baisser. La création de la contribution différentielle sur...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 24,
-      "url": "https://www.ladepeche.fr/2026/11/11/malgre-une-hausse-de-1-des-recettes-de-limpot-sur-le-revenu-en-2025-les-10-de-francais-les-plus-aises-ont-vu-leur-impot-reculer-13647442.php",
-      "published_at": "2026-11-11T16:06:14+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Malgré une hausse de 1 % des recettes de l'impôt sur le revenu en 2025, les 10 % de Français les plus aisés ont vu leur impôt reculer ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "41fce314c6ee",
-      "title": "Présidentielle 2027 : quelles sont les chances d’Éric Zemmour, à nouveau candidat ?",
-      "summary": "Le polémiste d’extrême droite Éric Zemmour a annoncé, mardi 10 novembre 2026, sa candidature à l’élection présidentielle de 2027. Mais sa marge de manœuvre est bien moindre qu’en 2022, face à la vague de popularité sur laquelle surfe le Rassemblement national.",
-      "source": "La Croix",
-      "feed_rank": 11,
-      "url": "https://www.la-croix.com/politique/presidentielle-2027-quelles-sont-les-chances-d-eric-zemmour-a-nouveau-candidat-20261111",
-      "published_at": "2026-11-11T16:05:46+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : quelles sont les chances d’Éric Zemmour, à nouveau candidat ? ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "902641728451",
-      "title": "Pourquoi plus de 1 800 places de stationnement vont bientôt être supprimées à Toulouse ?",
-      "summary": "D’ici au 31 décembre 2026, Toulouse et les communes de la métropole doivent supprimer les places de stationnement situées à moins de cinq mètres des passages piétons. Plus de 1 800 emplacements sont concernés. Un...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 25,
-      "url": "https://www.ladepeche.fr/2026/11/11/pourquoi-plus-de-1-800-places-de-stationnement-vont-bientot-etre-supprimees-a-toulouse-13647393.php",
-      "published_at": "2026-11-11T16:05:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pourquoi plus de 1 800 places de stationnement vont bientôt être supprimées à Toulouse ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "684502224a45",
-      "title": "L'électroménager, prochaine cible des cyberattaques ?",
-      "summary": "Après la cyberattaque qui a frappé les réfrigérateurs de supermarchés dans plusieurs pays, les appareils électroménagers équipant les logements pourraient être la prochaine cible, a prévenu mardi Juhan Lepassaar, chef de l'agence européenne de cybersécurité (Enisa), dans un entretien à l'Agence France Presse.",
-      "source": "France 24",
-      "feed_rank": 17,
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-l-%C3%A9lectrom%C3%A9nager-prochaine-cible-des-cyberattaques",
-      "published_at": "2026-11-11T16:02:42+00:00",
-      "category": "Société",
-      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « L'électroménager, prochaine cible des cyberattaques ? ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5f4f9f9119f5",
-      "title": "Quand il y a 100 ans la ravissante princesse Astrid de Suède épousait à Bruxelles le futur roi Léopold III",
-      "summary": "FLASHBACK EN IMAGE – Le 10 novembre 1926, il y a tout juste 100 ans, la princesse Astrid de Suède épousait religieusement à Bruxelles le prince héritier Léopold de Belgique en présence de nombreuses têtes couronnées. Et le Plat pays était en liesse.",
-      "source": "Paris Match",
-      "feed_rank": 7,
-      "url": "https://www.parismatch.com/quand-il-y-100-ans-ravissante-princesse-astrid-suede-epousait-bruxelles-futur-roi-leopold-iii-1xPv86vtdx0SSXm4wTGj57",
-      "published_at": "2026-11-11T16:02:07+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Quand il y a 100 ans la ravissante princesse Astrid de Suède épousait à Bruxelles le futur roi Léopold III » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "aa6f041d9976",
-      "title": "Virginie Ledoyen et Joyce Jonathan inaugurent les vitrines de Noël du Printemps à Paris",
-      "summary": "EN IMAGES. Oui, c'est déjà (bientôt) Noël. Les vitrines se parent de leurs plus beaux atours. Mardi, ce sont celles du grand magasin du Printemps, à Paris, qui ont été inaugurées.",
-      "source": "Paris Match",
-      "feed_rank": 8,
-      "url": "https://www.parismatch.com/virginie-ledoyen-joyce-jonathan-inaugurent-vitrines-noel-printemps-paris-4R6vOrt2CDZV3z9aEXMeT7",
-      "published_at": "2026-11-11T16:01:22+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Virginie Ledoyen et Joyce Jonathan inaugurent les vitrines de Noël du Printemps à Paris » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Paris Match"
       ],
       "coverage_count": 1,
       "mention_count": 1
