@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-11-12T23:47:15.425598+00:00",
-  "last_attempt": "2026-11-12T23:47:15.425598+00:00",
+  "last_updated": "2026-11-13T02:19:14.147111+00:00",
+  "last_attempt": "2026-11-13T02:19:14.147111+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 861,
-  "unique_story_count": 766,
+  "raw_article_count": 906,
+  "unique_story_count": 806,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
     "Les Échos",
     "La Voix du Nord",
-    "Le Point",
-    "Public Sénat",
-    "LCP"
+    "Le Point"
   ],
-  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point, Public Sénat, LCP. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-13T23:47:15.425598+00:00",
-  "featured_window_end": "2026-11-12T23:47:15.425598+00:00",
-  "featured_pool_count": 859,
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
+  "featured_window_start": "2026-10-14T02:19:14.147111+00:00",
+  "featured_window_end": "2026-11-13T02:19:14.147111+00:00",
+  "featured_pool_count": 904,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "975771557605",
-      "title": "Marine Tondelier souhaite un monde \"sans l'arme atomique\" mais estime que ce n'est \"pas le moment\" du désarmement",
-      "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.",
-      "source": "BFMTV",
-      "feed_rank": 1,
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-marine-tondelier-souhaite-un-monde-sans-l-arme-atomique-mais-estime-que-ce-n-est-pas-le-moment-du-desarmement_VN-202611121021.html",
-      "published_at": "2026-11-12T23:39:35+00:00",
+      "id": "b07f26e9b1f7",
+      "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
+      "summary": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après avoir fait étape à Moscou pour des entretiens avec son homologue russe, Vladimir Poutine.",
+      "source": "Le Monde",
+      "feed_rank": 11,
+      "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html",
+      "published_at": "2026-11-13T01:06:43+00:00",
       "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Marine Tondelier souhaite un monde \"sans l'arme atomique\" mais estime que ce n'est \"pas le moment\" du désarmement ».",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires am ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "Le Monde",
         "France 24",
         "Le Figaro",
+        "Mediapart",
         "RFI",
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
         "CNews",
+        "Courrier International",
         "Euronews",
         "France Culture",
         "France Inter",
@@ -55,27 +55,30 @@
         "L'Humanité",
         "La Croix",
         "La Dépêche du Midi",
+        "LCP",
         "Le Dauphiné Libéré",
         "Le JDD",
         "Midi Libre",
         "Paris Match",
-        "Valeurs actuelles"
+        "Public Sénat",
+        "Valeurs actuelles",
+        "Reporterre"
       ],
-      "coverage_count": 28,
-      "mention_count": 96,
-      "importance_score": 33.416,
-      "latest_coverage_at": "2026-11-12T23:39:35+00:00"
+      "coverage_count": 33,
+      "mention_count": 116,
+      "importance_score": 34.793,
+      "latest_coverage_at": "2026-11-13T01:13:08+00:00"
     },
     {
-      "id": "bdace1491708",
-      "title": "Web Summit Lisbon : départ de Jensen Huang, risque de bulle IA et crise de la dette US redoutée",
-      "summary": "La démission de Jensen Huang à la tête de Nvidia, le risque de bulle de l'IA et la dette américaine ont dominé la dernière journée du Web Summit à Lisbonne, des panélistes animés par Euronews avertissant que les marchés de la dette publique pourraient déclencher la prochaine crise financière.",
-      "source": "Euronews",
-      "feed_rank": 2,
-      "url": "https://fr.euronews.com/2026/11/12/web-summit-lisbon-depart-de-jensen-huang-risque-de-bulle-ia-et-crise-de-la-dette-us-redout",
-      "published_at": "2026-11-12T21:31:49+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Web Summit Lisbon : départ de Jensen Huang, risque de bulle IA et crise de la dette US redoutée ».",
+      "id": "bdd92847ed46",
+      "title": "Affaire Nvidia : jusqu’au bout, Donald Trump a exhorté Jensen Huang à se battre, selon le New York Times",
+      "summary": "Selon le quotidien new-yorkais, le président américain a appelé mardi le patron de Nvidia pour l’encourager à se battre.",
+      "source": "Le Figaro",
+      "feed_rank": 3,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-jusqu-au-bout-donald-trump-a-exhorte-jensen-huang-a-se-battre-selon-le-new-york-times-20261113",
+      "published_at": "2026-11-13T00:52:55+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Affaire Nvidia : jusqu’au bout, Donald Trump a exhorté Jensen Huang à se battre, selon le New York Times » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -102,68 +105,47 @@
         "Télérama"
       ],
       "coverage_count": 23,
-      "mention_count": 46,
-      "importance_score": 30.783,
-      "latest_coverage_at": "2026-11-12T21:31:49+00:00"
+      "mention_count": 47,
+      "importance_score": 30.82,
+      "latest_coverage_at": "2026-11-13T00:52:55+00:00"
     },
     {
-      "id": "8c10f1a253eb",
-      "title": "France-Italie : le résumé de la première défaite des Bleus sous Zinédine Zidane, surpris par les Azzurri en Ligue des nations",
-      "summary": "Face à l’Italie, les Bleus se sont inclinés pour la première fois (1-3) depuis l’arrivée de Zinédine Zidane sur le banc, jeudi à Milan. Ils devront au moins accrocher le nul face à la Turquie, dimanche à Bordeaux, pour se qualifier en quarts de finale de la compétition.",
-      "source": "Le Monde",
-      "feed_rank": 4,
-      "url": "https://www.lemonde.fr/football/article/2026/11/12/france-italie-le-resume-de-la-premiere-defaite-des-bleus-sous-zinedine-zidane-surpris-par-les-azzurri-en-ligue-des-nations_6809168_1616938.html",
-      "published_at": "2026-11-12T22:15:13+00:00",
+      "id": "a48798962138",
+      "title": "EN IMAGES Italie - France : Le calvaire de Gusto, la vista de Da Cunha et d’Olise… Les notes des Bleus après ce couac",
+      "summary": "<p>On était méchamment impatients de retrouver les Bleus de <a href=\"https://www.20minutes.fr/sport/zinedine_zidane/\">Zinédine Zidane</a>, ce jeudi en Italie, au vu du long et rafraîchissant premier rassemblement international. Et là, un mois après <a…",
+      "source": "20 Minutes",
+      "feed_rank": 2,
+      "url": "https://www.20minutes.fr/diaporama/diaporama-4262432-images-italie-france-calvaire-gusto-vista-da-cunha-olise-notes-bleus-apres-couac?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-13T00:04:56+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « France-Italie : le résumé de la première défaite des Bleus sous Zinédine Zidane, surpris par les Azzurri en Ligue des nations » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « EN IMAGES Italie - France : Le calvaire de Gusto, la vista de Da Cunha et d’Olise… Les notes des Bleus après ce couac » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "Le Monde",
         "France 24",
-        "Le Figaro",
         "RFI",
         "TF1 Info (TF1 / LCI)",
         "CNews",
         "France Inter",
+        "L'Obs",
         "Ouest-France",
+        "RMC",
         "Sud Ouest",
         "20 Minutes",
-        "Le Dauphiné Libéré",
-        "Le JDD",
-        "Midi Libre"
-      ],
-      "coverage_count": 15,
-      "mention_count": 25,
-      "importance_score": 27.157,
-      "latest_coverage_at": "2026-11-12T22:56:30+00:00"
-    },
-    {
-      "id": "23d27aaa6ba5",
-      "title": "Justice. Attentat de Trappes : citées sur la liste du tireur, Assa Traoré et Sandrine Rousseau portent plainte",
-      "summary": "Après l’attentat raciste de Trappes, plusieurs personnalités dont les coordonnées figuraient dans le téléphone du suspect dénoncent ne pas avoir été alertées par les autorités. Rachid Guiraud, Assa Traoré, Sandrine Rousseau et Aymeric Caron ont annoncé des démarches judiciaires pour obtenir des réponses.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 16,
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/12/attentat-de-trappes-citees-sur-la-liste-du-tireur-assa-traore-et-sandrine-rousseau-portent-plainte",
-      "published_at": "2026-11-12T20:52:00+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Justice. Attentat de Trappes : citées sur la liste du tireur, Assa Traoré et Sandrine Rousseau portent plainte ».",
-      "coverage_sources": [
-        "Le Figaro",
-        "Mediapart",
-        "Libération",
-        "Sud Ouest",
-        "L'Humanité",
+        "La Croix",
         "LCP",
         "Le Dauphiné Libéré",
+        "Le JDD",
         "Midi Libre",
         "Paris Match",
-        "Reporterre"
+        "Public Sénat",
+        "Valeurs actuelles"
       ],
-      "coverage_count": 10,
-      "mention_count": 13,
-      "importance_score": 23.435,
-      "latest_coverage_at": "2026-11-12T21:36:18+00:00"
+      "coverage_count": 21,
+      "mention_count": 49,
+      "importance_score": 30.34,
+      "latest_coverage_at": "2026-11-13T00:04:56+00:00"
     },
     {
       "id": "bfae02a54dbc",
@@ -189,7 +171,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 10,
-      "importance_score": 22.982,
+      "importance_score": 22.943,
       "latest_coverage_at": "2026-11-12T22:49:14+00:00"
     },
     {
@@ -214,7 +196,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.196,
+      "importance_score": 21.189,
       "latest_coverage_at": "2026-11-12T21:18:49+00:00"
     },
     {
@@ -234,19 +216,44 @@
         "L'Obs",
         "L'Opinion",
         "L'Humanité",
+        "LCP",
         "Reporterre"
+      ],
+      "coverage_count": 8,
+      "mention_count": 8,
+      "importance_score": 21.124,
+      "latest_coverage_at": "2026-11-12T20:44:47+00:00"
+    },
+    {
+      "id": "19ee70ce8a9b",
+      "title": "Des milliers d’utilisateurs face à une panne des applications de Microsoft",
+      "summary": "<p><a href=\"https://www.20minutes.fr/high-tech/microsoft/\">Microsoft</a> a un problème. Des dizaines de milliers d’utilisateurs ne pouvaient pas accéder à leurs e-mails jeudi en raison d’une panne de la messagerie Outlook.</p><p>Le groupe américain a d’abord indiqué enquêter sur des signalements de panne « dans les Amériques », puis a précisé avoir «…",
+      "source": "20 Minutes",
+      "feed_rank": 5,
+      "url": "https://www.20minutes.fr/high-tech/4262534-20261113-milliers-utilisateurs-face-panne-applications-microsoft?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-13T00:11:40+00:00",
+      "category": "International",
+      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Des milliers d’utilisateurs face à une panne des applications de Microsoft » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde",
+        "Le Figaro",
+        "BFMTV",
+        "Euronews",
+        "Ouest-France",
+        "20 Minutes",
+        "Next.ink"
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.092,
-      "latest_coverage_at": "2026-11-12T20:44:47+00:00"
+      "importance_score": 20.382,
+      "latest_coverage_at": "2026-11-13T00:11:40+00:00"
     },
     {
       "id": "3110fa1d7871",
       "title": "Affaire Marion Wagon: le pôle cold case de Nanterre lance un appel à témoin pour retrouver un homme aperçu à Agen",
       "summary": "Ce jeudi 12 novembre, trente presque jours pour jour après la disparition de Marion Wagon, le pôle cold case de Nanterre lance un appel à témoin pour retrouver un homme.",
       "source": "BFMTV",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.bfmtv.com/police-justice/affaire-marion-wagon-le-pole-cold-case-de-nanterre-lance-un-appel-a-temoin-pour-retrouver-un-homme-apercu-a-agen_AN-202611121001.html",
       "published_at": "2026-11-12T23:08:04+00:00",
       "category": "Société",
@@ -261,7 +268,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 7,
-      "importance_score": 19.474,
+      "importance_score": 19.453,
       "latest_coverage_at": "2026-11-12T23:08:04+00:00"
     },
     {
@@ -269,7 +276,7 @@
       "title": "Mort de Quentin Deranque: un des suspects remis en liberté sous contrôle judiciaire",
       "summary": "Un homme né en 1999 qui avait été mis en examen dans l'enquête sur la mort de Quentin Deranque, battu à mort par plusieurs personnes cagoulées en février à Lyon, a été remis en liberté sous contrôle judiciaire. Son maintien sous écrou avait déjà fait l'objet d'un désaccord.",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.bfmtv.com/police-justice/mort-de-quentin-deranque-un-des-suspects-remis-en-liberte-sous-controle-judiciaire_AD-202611120996.html",
       "published_at": "2026-11-12T23:01:14+00:00",
       "category": "Société",
@@ -284,15 +291,59 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.215,
+      "importance_score": 19.14,
       "latest_coverage_at": "2026-11-12T23:01:14+00:00"
+    },
+    {
+      "id": "b516c6530096",
+      "title": "« Si nous continuons ainsi, la France subira le même sort que la Grèce ! » : Nicolas Dupont-Aignan présente son programme économique",
+      "summary": "Singulier retournement de situation. En 2017, Marine Le Pen se disait prête à quitter, si nécessaire, l’Union européenne et l’euro, au terme d’un référendum organisé six mois après son élection, à l’issue d’une négociation avec Bruxelles, sur le modèle de ce qu’avait tenté David Cameron au Royaume-Uni. Nicolas Dupont-Aignan, lui aussi candidat à…",
+      "source": "Valeurs actuelles",
+      "feed_rank": 3,
+      "url": "https://www.valeursactuelles.com/clubvaleurs/politique/si-nous-continuons-ainsi-la-france-subira-le-meme-sort-que-la-grece-nicolas-dupont-aignan-presente-son-programme-economique",
+      "published_at": "2026-11-12T18:58:52+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Si nous continuons ainsi, la France subira le même sort que la Grèce ! » : Nicolas Dupont-Aignan présente son programme économique ».",
+      "coverage_sources": [
+        "L'Opinion",
+        "RMC",
+        "Le JDD",
+        "Public Sénat",
+        "Valeurs actuelles"
+      ],
+      "coverage_count": 5,
+      "mention_count": 6,
+      "importance_score": 17.998,
+      "latest_coverage_at": "2026-11-12T18:58:52+00:00"
+    },
+    {
+      "id": "2bdcd5d44eca",
+      "title": "Procès des parents de l’« inconnue de l’A10 » : « Je suis un vaurien. Je n’ai pas pu protéger mes enfants »",
+      "summary": "Accusé de complicité des actes de torture et de barbarie reprochés à Halima El Bakhti, sur leur fille Inass, dont le corps a été retrouvé en bordure de l’A10 en 1987, Ahmed Touloub a expliqué son silence par la « peur » que lui inspirait son ex-épouse, depuis un mariage plus subi que choisi.",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/13/proces-des-parents-de-l-inconnue-de-l-a10-je-suis-un-vaurien-je-n-ai-pas-pu-proteger-mes-enfants_6809259_3224.html",
+      "published_at": "2026-11-13T01:53:33+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Procès des parents de l’« inconnue de l’A10 » : « Je suis un vaurien. Je n’ai pas pu protéger mes enfants » ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "Sud Ouest",
+        "20 Minutes"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.955,
+      "latest_coverage_at": "2026-11-13T01:53:33+00:00"
     },
     {
       "id": "080b24eb539e",
       "title": "Mississippi : les démocrates remportent un siège au Sénat",
       "summary": "Dans le Mississippi, Scott Colom devient le premier sénateur noir élu depuis près de 150 ans dans cet État du Sud, marqué par l’histoire de la ségrégation. Sa victoire, qui s’inscrit dans la vague bleue des élections de mi-mandat, est-elle un tournant politique et symbolique ? Comment expliquer ce résultat dans un État où la population noire représente…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat",
       "published_at": "2026-11-12T19:11:55+00:00",
       "category": "Médias & communication",
@@ -306,30 +357,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.549,
+      "importance_score": 17.515,
       "latest_coverage_at": "2026-11-12T19:11:55+00:00"
-    },
-    {
-      "id": "79edeae95aba",
-      "title": "Crues : la Haute-Corse rétrogradée en vigilance jaune",
-      "summary": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles qui a donné lieu en Corse à des précipitations ayant « un caractère orageux intense » ayant « engendré une montée très rapide et importante sur l’amont du [fleuve] Tavignano » dans le « secteur de Corte ».",
-      "source": "Le Monde",
-      "feed_rank": 13,
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/crues-la-haute-corse-retrogradee-en-vigilance-jaune_6809126_3245.html",
-      "published_at": "2026-11-12T23:00:05+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Crues : la Haute-Corse rétrogradée en vigilance jaune » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "CNews",
-        "Libération"
-      ],
-      "coverage_count": 5,
-      "mention_count": 5,
-      "importance_score": 17.542,
-      "latest_coverage_at": "2026-11-12T23:00:05+00:00"
     },
     {
       "id": "68d4a4d7803d",
@@ -350,71 +379,29 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.441,
+      "importance_score": 17.434,
       "latest_coverage_at": "2026-11-12T19:46:40+00:00"
     },
     {
-      "id": "b516c6530096",
-      "title": "« Si nous continuons ainsi, la France subira le même sort que la Grèce ! » : Nicolas Dupont-Aignan présente son programme économique",
-      "summary": "Singulier retournement de situation. En 2017, Marine Le Pen se disait prête à quitter, si nécessaire, l’Union européenne et l’euro, au terme d’un référendum organisé six mois après son élection, à l’issue d’une négociation avec Bruxelles, sur le modèle de ce qu’avait tenté David Cameron au Royaume-Uni. Nicolas Dupont-Aignan, lui aussi candidat à…",
-      "source": "Valeurs actuelles",
-      "feed_rank": 3,
-      "url": "https://www.valeursactuelles.com/clubvaleurs/politique/si-nous-continuons-ainsi-la-france-subira-le-meme-sort-que-la-grece-nicolas-dupont-aignan-presente-son-programme-economique",
-      "published_at": "2026-11-12T18:58:52+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Si nous continuons ainsi, la France subira le même sort que la Grèce ! » : Nicolas Dupont-Aignan présente son programme économique ».",
-      "coverage_sources": [
-        "L'Opinion",
-        "RMC",
-        "Le JDD",
-        "Valeurs actuelles"
-      ],
-      "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.493,
-      "latest_coverage_at": "2026-11-12T18:58:52+00:00"
-    },
-    {
-      "id": "0c0cf8b77c7d",
-      "title": "Une panne majeure touche la messagerie Outlook de Microsoft, des dizaines de milliers d'utilisateurs touchés",
-      "summary": "\"Nous recherchons sans relâche toutes les pistes pour limiter l'impact\" pour les utilisateurs, a affirmé sur X Microsoft.",
-      "source": "BFMTV",
+      "id": "d1787c0aabb9",
+      "title": "Violences policières lors des manifestations : Laurent Nuñez s’engage à protéger les journalistes et faire respecter le droit d’informer",
+      "summary": "Plusieurs plaintes pénales ont été déposées par des reporters blessés lors des récentes manifestations en France. Le ministre de l’intérieur, qui a rencontré une intersyndicale de la profession, a promis que le rappel des règles du maintien de l’ordre sera adressé à toutes les forces de police dès vendredi.",
+      "source": "Le Monde",
       "feed_rank": 12,
-      "url": "https://www.bfmtv.com/tech/une-panne-majeure-touche-la-messagerie-outlook-de-microsoft-des-dizaines-de-milliers-d-utilisateurs-touches_AD-202611120992.html",
-      "published_at": "2026-11-12T22:57:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Une panne majeure touche la messagerie Outlook de Microsoft, des dizaines de milliers d'utilisateurs touchés » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/13/violences-policieres-lors-des-manifestations-laurent-nunez-s-engage-a-proteger-les-journalistes-et-faire-respecter-le-droit-d-informer_6809257_3224.html",
+      "published_at": "2026-11-13T00:37:10+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Violences policières lors des manifestations : Laurent Nuñez s’engage à protéger les journalistes et faire respecter le droit d’informer ».",
       "coverage_sources": [
-        "Le Figaro",
-        "BFMTV",
-        "Euronews",
-        "Next.ink"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.452,
-      "latest_coverage_at": "2026-11-12T22:57:03+00:00"
-    },
-    {
-      "id": "edfb586a4482",
-      "title": "« Petite martyre de l'A 10 » : la mère « ne se rappelle plus », le père a eu « peur »… Ce que révèlent les parents au huitième jour du procès",
-      "summary": "Les parents d’Inass Touloub, retrouvée morte au bord de l'A 10 en 1987, ont fait face à leurs responsabilités, entre pertes de mémoire et aveux d’impuissance, lors de leur procès ouvert début novembre",
-      "source": "Sud Ouest",
-      "feed_rank": 14,
-      "url": "https://www.sudouest.fr/faits-divers/petite-martyre-de-l-a-10-la-mere-ne-se-rappelle-plus-le-pere-a-eu-peur-ce-que-revelent-les-parents-au-huitieme-jour-du-proces-31500806.php",
-      "published_at": "2026-11-12T18:46:19+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Petite martyre de l'A 10 » : la mère « ne se rappelle plus », le père a eu « peur »… Ce que révèlent les parents au huitième jour du procès ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
+        "Le Monde",
+        "Ouest-France",
         "Sud Ouest",
-        "20 Minutes"
+        "L'Humanité"
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.371,
-      "latest_coverage_at": "2026-11-12T18:46:19+00:00"
+      "importance_score": 16.507,
+      "latest_coverage_at": "2026-11-13T00:37:10+00:00"
     },
     {
       "id": "d2ead6185f86",
@@ -434,7 +421,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.28,
+      "importance_score": 16.285,
       "latest_coverage_at": "2026-11-12T19:00:00+00:00"
     },
     {
@@ -442,7 +429,7 @@
       "title": "À New York, l'effondrement d'un immeuble fait de nombreux morts et blessés",
       "summary": "Au moins huit personnes ont péri et 19 ont été blessées mercredi soir dans un quartier populaire de New York quand un immeuble de trois étages comptant quatre appartements et un local commercial est tombé sur un chantier d'excavation voisin, pendant que des ouvriers étaient en train de creuser.",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-new-york-flatbush-effondrement-immeuble-morts-blesses",
       "published_at": "2026-11-12T22:48:09+00:00",
       "category": "Société",
@@ -455,7 +442,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.234,
+      "importance_score": 16.192,
       "latest_coverage_at": "2026-11-12T22:48:09+00:00"
     },
     {
@@ -476,74 +463,370 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.05,
+      "importance_score": 16.043,
       "latest_coverage_at": "2026-11-12T18:32:46+00:00"
     },
     {
-      "id": "6d3532dae795",
-      "title": "\"S'attaquer au proviseur, c'est s'attaquer à l'État\": l'histoire méconnue des chefs d'établissement",
-      "summary": "Appelés à se rassembler ce vendredi 13 novembre après une quarantaine de agressions recensées, les proviseurs de lycées expriment leur ras-le-bol face au mouvement lycéen. Un métier hautement symbolique, créé par Napoléon en 1802, dont la fonction a traversé l'histoire de France.",
-      "source": "RMC",
-      "feed_rank": 5,
-      "url": "https://rmc.bfmtv.com/actualites/societe/s-attaquer-au-proviseur-c-est-s-attaquer-a-l-etat-l-histoire-meconnue-des-chefs-d-etablissement_AV-202611120683.html",
-      "published_at": "2026-11-12T16:06:03+00:00",
+      "id": "8db3eb04e22e",
+      "title": "La Haute-Corse n'est plus concernée par une vigilance orange aux crues depuis jeudi soir",
+      "summary": "L'eau était très fortement montée sur le fleuve Tavignano jeudi après-midi, d'environ neuf mètres en seulement trois heures.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 11,
+      "url": "https://www.franceinfo.fr/environnement/meteo/le-departement-de-la-haute-corse-place-en-vigilance-orange-aux-crues_8279591.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-12T22:26:59+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « \"S'attaquer au proviseur, c'est s'attaquer à l'État\": l'histoire méconnue des chefs d'établissement ».",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La Haute-Corse n'est plus concernée par une vigilance orange aux crues depuis jeudi soir » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "L'Obs",
-        "RMC",
-        "La Croix"
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "CNews",
+        "Libération"
       ],
-      "coverage_count": 3,
-      "mention_count": 5,
-      "importance_score": 15.122,
-      "latest_coverage_at": "2026-11-12T16:57:50+00:00"
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 15.962,
+      "latest_coverage_at": "2026-11-12T22:26:59+00:00"
     },
     {
-      "id": "49f220f88e2d",
-      "title": "Les journalistes français demandent le respect du droit d’informer lors des manifestations",
-      "summary": "Les représentants des médias ont rencontré le ministre de l’Intérieur pour lui remettre une lettre ouverte à la suite de plusieurs plaintes pénales déposées par des reporters blessés lors des dernières manifestations et lui demander de respecter le droit d’informer.",
-      "source": "Ouest-France",
-      "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/medias/les-journalistes-francais-demandent-le-respect-du-droit-dinformer-lors-des-manifestations-ca09ea94-dee9-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-12T23:32:58+00:00",
+      "id": "fad19450d767",
+      "title": "Deutsche Telekom lance son film de Noël",
+      "summary": "Deutsche Telekom lance son film de Noël Deutsche Telekom lance son film de Noël thierry.wojciak jeu 12/11/2026 - 19:06 Marques",
+      "source": "CB News",
+      "feed_rank": 7,
+      "url": "https://www.cbnews.fr/marques/deutsche-telekom-lance-son-film-noel",
+      "published_at": "2026-11-12T18:06:02+00:00",
       "category": "Médias & communication",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Les journalistes français demandent le respect du droit d’informer lors des manifestations ».",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Deutsche Telekom lance son film de Noël ».",
       "coverage_sources": [
-        "Ouest-France",
-        "Sud Ouest",
-        "L'Humanité"
+        "Konbini",
+        "Télérama",
+        "CB News"
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.754,
-      "latest_coverage_at": "2026-11-12T23:32:58+00:00"
+      "importance_score": 14.594,
+      "latest_coverage_at": "2026-11-12T18:06:02+00:00"
+    },
+    {
+      "id": "48ee5844e02a",
+      "title": "Une quarantaine de pays européens inscrivent leurs \"principes-clés\" de sécurité dans une \"charte\"",
+      "summary": "Cette déclaration, qui a été adoptée jeudi par 39 Etats, dont la France, l'Allemagne et l'Ukraine, acte \"la nécessité d'un sursaut au fond de cette Europe large\", a estimé Emmanuel Macron.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 7,
+      "url": "https://www.franceinfo.fr/monde/europe/une-quarantaine-de-pays-europeens-inscrivent-leurs-principes-cles-de-securite-dans-une-charte_8280113.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-12T22:24:59+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Une quarantaine de pays européens inscrivent leurs \"principes-clés\" de sécurité dans une \"charte\" ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Sud Ouest"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.591,
+      "latest_coverage_at": "2026-11-12T22:24:59+00:00"
     }
   ],
   "articles": [
     {
-      "id": "49f220f88e2d",
-      "title": "Les journalistes français demandent le respect du droit d’informer lors des manifestations",
-      "summary": "Les représentants des médias ont rencontré le ministre de l’Intérieur pour lui remettre une lettre ouverte à la suite de plusieurs plaintes pénales déposées par des reporters blessés lors des dernières manifestations et lui demander de respecter le droit d’informer.",
-      "source": "Ouest-France",
-      "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/medias/les-journalistes-francais-demandent-le-respect-du-droit-dinformer-lors-des-manifestations-ca09ea94-dee9-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-12T23:32:58+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Les journalistes français demandent le respect du droit d’informer lors des manifestations ».",
+      "id": "3023cab7a44b",
+      "title": "Sommet de l’Apec : Sanae Takaichi se rendra en Chine pour la première fois depuis son arrivée au pouvoir",
+      "summary": "La première ministre japonaise participera au sommet de l’Apec à Shenzhen, a annoncé vendredi le gouvernement nippon.",
+      "source": "Le Figaro",
+      "feed_rank": 13,
+      "url": "https://www.lefigaro.fr/international/sommet-de-l-apec-sanae-takaichi-se-rendra-en-chine-pour-la-premiere-fois-depuis-son-arrivee-au-pouvoir-20261113",
+      "published_at": "2026-11-13T02:11:07+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Sommet de l’Apec : Sanae Takaichi se rendra en Chine pour la première fois depuis son arrivée au pouvoir ».",
       "coverage_sources": [
-        "Ouest-France",
-        "Sud Ouest"
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3bd97fc27314",
+      "title": "«Valorisons les femmes !» : à Lima, l’appel de Léon XIV contre le machisme",
+      "summary": "Jeudi à Lima, le pape a dénoncé les violences faites aux femmes jusque dans leur foyer et plaidé pour qu’elles prennent davantage de responsabilités dans l’Église. Un engagement qui remonte à ses années d’évêque à Chiclayo, dans le nord du Pérou.",
+      "source": "Le Figaro",
+      "feed_rank": 11,
+      "url": "https://www.lefigaro.fr/international/valorisons-les-femmes-a-lima-l-appel-de-leon-xiv-contre-le-machisme-20261113",
+      "published_at": "2026-11-13T02:02:02+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Valorisons les femmes !» : à Lima, l’appel de Léon XIV contre le machisme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2bdcd5d44eca",
+      "title": "Procès des parents de l’« inconnue de l’A10 » : « Je suis un vaurien. Je n’ai pas pu protéger mes enfants »",
+      "summary": "Accusé de complicité des actes de torture et de barbarie reprochés à Halima El Bakhti, sur leur fille Inass, dont le corps a été retrouvé en bordure de l’A10 en 1987, Ahmed Touloub a expliqué son silence par la « peur » que lui inspirait son ex-épouse, depuis un mariage plus subi que choisi.",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/13/proces-des-parents-de-l-inconnue-de-l-a10-je-suis-un-vaurien-je-n-ai-pas-pu-proteger-mes-enfants_6809259_3224.html",
+      "published_at": "2026-11-13T01:53:33+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Procès des parents de l’« inconnue de l’A10 » : « Je suis un vaurien. Je n’ai pas pu protéger mes enfants » ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "39534a54265f",
+      "title": "Un sabre laser utilisé par Dark Vador dans la première trilogie de « Star Wars » vendu près de 5 millions de dollars",
+      "summary": "L’accessoire, apparu notamment dans la fameuse scène de « L’Empire contre-attaque » durant laquelle Dark Vador déclare « Je suis ton père » à Luke Skywalker, établit un nouveau record aux enchères pour un objet de collection de la saga cinématographique.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/culture/article/2026/11/13/un-sabre-laser-utilise-par-dark-vador-dans-la-premiere-trilogie-de-star-wars-vendu-pres-de-5-millions-de-dollars_6809258_3246.html",
+      "published_at": "2026-11-13T01:42:24+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Un sabre laser utilisé par Dark Vador dans la première trilogie de « Star Wars » vendu près de 5 millions de dollars » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "5d82bc72e1b6",
+      "title": "En Haïti, la police reprend aux gangs le stade de l'équipe nationale de football",
+      "summary": "La police haïtienne a annoncé jeudi avoir repris, avec l'aide de mercenaires étrangers, le \"contrôle total\" du stade Sylvio-Cator de Port-au-Prince, tombé aux mains des gangs en 2024. Le site a ensuite été placé sous la protection de militaires salvadoriens.",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261113-haiti-police-reprend-gangs-stade-equipe-nationale-football-sylvio-cator-salvador",
+      "published_at": "2026-11-13T01:21:56+00:00",
+      "category": "Société",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « En Haïti, la police reprend aux gangs le stade de l'équipe nationale de football ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b3f19b597ab8",
+      "title": "Guerre en Ukraine : Fin de la mise à l’écart des Européens dans les négociations avec la Russie",
+      "summary": "<p>Les Européens vont pouvoir un peu plus peser dans les discussions pour mettre fin à la guerre entre la Russie et l’Ukraine. Ils seront en effet présents lors de la « prochaine réunion » des « négociations », a annoncé jeudi soir le président ukrainien Volodymyr Zelensky après avoir rencontré <a…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/monde/ukraine/4262547-20261113-guerre-ukraine-fin-mise-ecart-europeens-negociations-russie?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-13T01:13:08+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre en Ukraine : Fin de la mise à l’écart des Européens dans les négociations avec la Russie ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b07f26e9b1f7",
+      "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
+      "summary": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après avoir fait étape à Moscou pour des entretiens avec son homologue russe, Vladimir Poutine.",
+      "source": "Le Monde",
+      "feed_rank": 11,
+      "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html",
+      "published_at": "2026-11-13T01:06:43+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires am ».",
+      "coverage_sources": [
+        "Le Monde",
+        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 2,
       "mention_count": 2
+    },
+    {
+      "id": "43794a2288e4",
+      "title": "La playlist soundsystem de Juliette Lorphelin",
+      "summary": "La playlist de nouveautés de notre programmatrice musicale, Juliette Lorphelin.",
+      "source": "France Inter",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-vendredi-13-novembre-2026-5553458",
+      "published_at": "2026-11-13T01:03:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La playlist soundsystem de Juliette Lorphelin » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "bdd92847ed46",
+      "title": "Affaire Nvidia : jusqu’au bout, Donald Trump a exhorté Jensen Huang à se battre, selon le New York Times",
+      "summary": "Selon le quotidien new-yorkais, le président américain a appelé mardi le patron de Nvidia pour l’encourager à se battre.",
+      "source": "Le Figaro",
+      "feed_rank": 3,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/affaire-nvidia-jusqu-au-bout-donald-trump-a-exhorte-jensen-huang-a-se-battre-selon-le-new-york-times-20261113",
+      "published_at": "2026-11-13T00:52:55+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Affaire Nvidia : jusqu’au bout, Donald Trump a exhorté Jensen Huang à se battre, selon le New York Times » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d1787c0aabb9",
+      "title": "Violences policières lors des manifestations : Laurent Nuñez s’engage à protéger les journalistes et faire respecter le droit d’informer",
+      "summary": "Plusieurs plaintes pénales ont été déposées par des reporters blessés lors des récentes manifestations en France. Le ministre de l’intérieur, qui a rencontré une intersyndicale de la profession, a promis que le rappel des règles du maintien de l’ordre sera adressé à toutes les forces de police dès vendredi.",
+      "source": "Le Monde",
+      "feed_rank": 12,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/13/violences-policieres-lors-des-manifestations-laurent-nunez-s-engage-a-proteger-les-journalistes-et-faire-respecter-le-droit-d-informer_6809257_3224.html",
+      "published_at": "2026-11-13T00:37:10+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Violences policières lors des manifestations : Laurent Nuñez s’engage à protéger les journalistes et faire respecter le droit d’informer ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Ouest-France",
+        "Sud Ouest"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3
+    },
+    {
+      "id": "4dd8dda5727b",
+      "title": "Au procès de l’explosion de la rue de Trévise, à Paris, les vies brisées des victimes",
+      "summary": "Blessés physiques et psychologiques ont raconté l’explosion du 12 janvier 2019 et ses conséquences sur leurs vies près de huit ans après. Delphine Bürkli, la maire du 9ᵉ arrondissement, qui s’est battue pour qu’ils soient correctement indemnisés, a dénoncé la « survictimisation » dont ils ont fait l’objet.",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/13/au-proces-de-l-explosion-de-la-rue-de-trevise-a-paris-les-vies-brisees-des-victimes_6809224_3224.html",
+      "published_at": "2026-11-13T00:33:34+00:00",
+      "category": "Politique",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Au procès de l’explosion de la rue de Trévise, à Paris, les vies brisées des victimes ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "19ee70ce8a9b",
+      "title": "Des milliers d’utilisateurs face à une panne des applications de Microsoft",
+      "summary": "<p><a href=\"https://www.20minutes.fr/high-tech/microsoft/\">Microsoft</a> a un problème. Des dizaines de milliers d’utilisateurs ne pouvaient pas accéder à leurs e-mails jeudi en raison d’une panne de la messagerie Outlook.</p><p>Le groupe américain a d’abord indiqué enquêter sur des signalements de panne « dans les Amériques », puis a précisé avoir «…",
+      "source": "20 Minutes",
+      "feed_rank": 5,
+      "url": "https://www.20minutes.fr/high-tech/4262534-20261113-milliers-utilisateurs-face-panne-applications-microsoft?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-13T00:11:40+00:00",
+      "category": "International",
+      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Des milliers d’utilisateurs face à une panne des applications de Microsoft » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "417cc9f94ff3",
+      "title": "Présidentielle 2027: que propose Marine Tondelier ?",
+      "summary": "Ce jeudi 12 novembre, BFMTV a organisé sa deuxième soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek: « Vous Président ». L’invitée est Marine Tondelier, candidate Les Écologistes à l’élection présidentielle. L’émission est consacrée à la personnalité du candidat, à sa vision de la fonction présidentielle et à son projet pour la…",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-que-propose-marine-tondelier_VN-202611130088.html",
+      "published_at": "2026-11-13T00:08:45+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: que propose Marine Tondelier ? ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "21e2e8027804",
+      "title": "Une panne majeure touche la messagerie Outlook de Microsoft",
+      "summary": "Une panne a touché Microsoft 365, Outlook et Teams pour des milliers d’utilisateurs américains au cours de la journée de jeudi, la perturbation touchant également les services d’IA d’OpenAI et d’Anthropic.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/high-tech/microsoft/une-panne-majeure-touche-la-messagerie-outlook-de-microsoft-dc5d0186-deee-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-13T00:08:41+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Une panne majeure touche la messagerie Outlook de Microsoft » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV",
+        "Ouest-France"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "a48798962138",
+      "title": "EN IMAGES Italie - France : Le calvaire de Gusto, la vista de Da Cunha et d’Olise… Les notes des Bleus après ce couac",
+      "summary": "<p>On était méchamment impatients de retrouver les Bleus de <a href=\"https://www.20minutes.fr/sport/zinedine_zidane/\">Zinédine Zidane</a>, ce jeudi en Italie, au vu du long et rafraîchissant premier rassemblement international. Et là, un mois après <a…",
+      "source": "20 Minutes",
+      "feed_rank": 2,
+      "url": "https://www.20minutes.fr/diaporama/diaporama-4262432-images-italie-france-calvaire-gusto-vista-da-cunha-olise-notes-bleus-apres-couac?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-13T00:04:56+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « EN IMAGES Italie - France : Le calvaire de Gusto, la vista de Da Cunha et d’Olise… Les notes des Bleus après ce couac » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "01a0b0823614",
+      "title": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
+      "summary": "Parti du Honduras, le groupe a franchi sans difficulté la frontière mexicaine dimanche et traverse actuellement l’Etat du Chiapas, dans le sud du pays. Il espère rejoindre les Etats-Unis, où le Parti républicain du président a subi une défaite écrasante aux midterms.",
+      "source": "Le Monde",
+      "feed_rank": 13,
+      "url": "https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html",
+      "published_at": "2026-11-13T00:01:12+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b7b9e704620e",
+      "title": "Activités hybrides : \"Nous savons qu'il y a ceux qui utiliseraient de telles attaques pour créer la confusion (...) : nous ne les laisserons pas faire\" déclare Micheál Martin",
+      "summary": "La Communauté politique européenne se réunit ce jeudi 12 novembre, en sommet à Dublin en Irlande, pour sa 9e édition. Le président Emmanuel Macron souhaite y définir, avec l'ensemble des représentants européens et internationaux présents, des \"principes-clés\" sur le futur de la sécurité de la \"Grande Europe\".",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://www.bfmtv.com/international/europe/irlande/video-activites-hybrides-nous-savons-qu-il-y-a-ceux-qui-utiliseraient-de-telles-attaques-pour-creer-la-confusion-nous-ne-les-laisserons-pas-faire-declare-micheal-martin_VN-202611121024.html",
+      "published_at": "2026-11-12T23:50:54+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Activités hybrides : \"Nous savons qu'il y a ceux qui utiliseraient de telles attaques pour créer la confusion (...) : nous ne les laisserons pas faire ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2238337d6fbc",
+      "title": "Une panne mondiale d’Outlook perturbe l’accès aux e-mails",
+      "summary": "Microsoft affirme travailler « sans relâche » pour régler la panne qui influence également certaines fonctions des assistants d’intelligence artificielle, dont Copilot, son propre assistant IA, mais aussi Claude et ChatGPT.",
+      "source": "Le Monde",
+      "feed_rank": 14,
+      "url": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
+      "published_at": "2026-11-12T23:36:49+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Une panne mondiale d’Outlook perturbe l’accès aux e-mails ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "1c9ce9ffcaaf",
       "title": "\"Vous avez répondu à certaines de mes questions\", \"L'union de la gauche, ça m'intéresse\": les électeurs indécis tirent leurs conclusions après avoir échangé avec Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
       "summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h. Dans l'émission \"Vous présidente\", elle sera interrogée sur ses idées pour la France et répondra à des électeurs indécis avant l'élection.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-vous-avez-repondu-a-certaines-de-mes-questions-l-union-de-la-gauche-ca-m-interesse-les-electeurs-indecis-tirent-leurs-conclusions-apres-avoir-echange-avec-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611121011.html",
       "published_at": "2026-11-12T23:15:49+00:00",
       "category": "Politique",
@@ -552,7 +835,7 @@
         "BFMTV"
       ],
       "coverage_count": 1,
-      "mention_count": 16
+      "mention_count": 15
     },
     {
       "id": "ad66bff69bbc",
@@ -655,7 +938,7 @@
       "title": "Une opération policière internationale contre le dark web entraîne 350 arrestations",
       "summary": "Les polices de plusieurs pays ont arrêté 354 personnes et saisi d’importantes quantités de drogues, d’armes à feu et d’argent liquide dans le cadre d’une vaste opération internationale ciblant les utilisateurs du « dark web ».",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/societe/police/une-operation-policiere-internationale-contre-le-dark-web-entraine-350-arrestations-08ed9420-dee7-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T23:02:29+00:00",
       "category": "Société",
@@ -671,7 +954,7 @@
       "title": "Smic, coalition à gauche, immigration, nucléaire... Ce qu'il faut retenir de l'entretien de Marine Tondelier sur BFMTV",
       "summary": "La candidate écologiste à la présidentielle était l'invitée de \"Vous Présidente\" ce jeudi 12 novembre au soir sur BFMTV. Du nucléaire au mouvement des lycéens en passant par le Smic, Marine Tondelier a défendu son programme pour 2027.",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/smic-coalition-a-gauche-immigration-nuclaire-ce-qu-il-faut-retenir-de-l-entretien-de-marine-tondelier-sur-bfmtv_AV-202611120997.html",
       "published_at": "2026-11-12T23:01:26+00:00",
       "category": "Société",
@@ -703,7 +986,7 @@
       "title": "Mort de Quentin Deranque: un des suspects remis en liberté sous contrôle judiciaire",
       "summary": "Un homme né en 1999 qui avait été mis en examen dans l'enquête sur la mort de Quentin Deranque, battu à mort par plusieurs personnes cagoulées en février à Lyon, a été remis en liberté sous contrôle judiciaire. Son maintien sous écrou avait déjà fait l'objet d'un désaccord.",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.bfmtv.com/police-justice/mort-de-quentin-deranque-un-des-suspects-remis-en-liberte-sous-controle-judiciaire_AD-202611120996.html",
       "published_at": "2026-11-12T23:01:14+00:00",
       "category": "Société",
@@ -736,23 +1019,6 @@
       "mention_count": 2
     },
     {
-      "id": "79edeae95aba",
-      "title": "Crues : la Haute-Corse rétrogradée en vigilance jaune",
-      "summary": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles qui a donné lieu en Corse à des précipitations ayant « un caractère orageux intense » ayant « engendré une montée très rapide et importante sur l’amont du [fleuve] Tavignano » dans le « secteur de Corte ».",
-      "source": "Le Monde",
-      "feed_rank": 13,
-      "url": "https://www.lemonde.fr/planete/article/2026/11/13/crues-la-haute-corse-retrogradee-en-vigilance-jaune_6809126_3245.html",
-      "published_at": "2026-11-12T23:00:05+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Crues : la Haute-Corse rétrogradée en vigilance jaune » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde",
-        "Libération"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
       "id": "d2b4d97659e5",
       "title": "Déshonneur(s)",
       "summary": "Certains licenciements témoignent d’une époque. Celui d’Olivier Nora, écarté de Grasset le 14 avril, révélait une entreprise de conquête idéologique extrême. La nomination de Lise Boëll, patronne de Fayard et éditrice de Jordan Bardella, Éric Zemmour, Philippe de Villiers ou Sarah Knafo, à la tête de la maison du 61, rue des Saints-Pères vient d’enfoncer…",
@@ -769,59 +1035,11 @@
       "mention_count": 1
     },
     {
-      "id": "0c0cf8b77c7d",
-      "title": "Une panne majeure touche la messagerie Outlook de Microsoft, des dizaines de milliers d'utilisateurs touchés",
-      "summary": "\"Nous recherchons sans relâche toutes les pistes pour limiter l'impact\" pour les utilisateurs, a affirmé sur X Microsoft.",
-      "source": "BFMTV",
-      "feed_rank": 12,
-      "url": "https://www.bfmtv.com/tech/une-panne-majeure-touche-la-messagerie-outlook-de-microsoft-des-dizaines-de-milliers-d-utilisateurs-touches_AD-202611120992.html",
-      "published_at": "2026-11-12T22:57:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Une panne majeure touche la messagerie Outlook de Microsoft, des dizaines de milliers d'utilisateurs touchés » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "8bd789629768",
-      "title": "Italie-France : faillite collective, erreur de coaching, retour de Mbappé… Les vérités de Zidane après le revers des Bleus à Milan",
-      "summary": "Le sélectionneur de l’équipe de France a répondu aux médias après le premier revers de son mandat, jeudi, en Italie (3-1), lors de la 5e journée de Ligue des nations.",
-      "source": "Le Figaro",
-      "feed_rank": 12,
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/italie-france-faillite-collective-erreur-de-coaching-retour-de-mbappe-les-verites-de-zidane-apres-le-revers-des-bleus-a-milan-20261112",
-      "published_at": "2026-11-12T22:56:30+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'évolution de cette entreprise peut modifier son positionnement, ses attentes d'investisseurs ou la confiance de ses clients et salariés. Les communicants doivent relier les chiffres à une stratégie lisible, sans transformer une annonce ponctuelle en promesse excessive. Sujet suivi : « Italie-France : faillite collective, erreur de coaching, retour de Mbappé… Les vérités de Zidane après le revers des Bleus à Milan ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "49fccd5d07e8",
-      "title": "Les notes des Bleus en Italie : Gusto trop mauvais, Doué et Olise intermittents du spectacle, Jacquet dépassé",
-      "summary": "Dans un match longtemps maîtrisé mais plombé par des erreurs individuelles, l’équipe de France s’est inclinée en Italie jeudi soir, lors de la 5e journée de Ligue des nations.",
-      "source": "Le Figaro",
-      "feed_rank": 14,
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/les-notes-des-bleus-en-italie-gusto-trop-mauvais-doue-et-olise-intermittents-du-spectacle-jacquet-depasse-20261112",
-      "published_at": "2026-11-12T22:56:30+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Les notes des Bleus en Italie : Gusto trop mauvais, Doué et Olise intermittents du spectacle, Jacquet dépassé ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "b3d93be0c0d3",
       "title": "Ligue des nations. L’Espagne championne du monde prolonge sa série d’invincibilité XXL contre la République tchèque",
       "summary": "L’Espagne poursuit son sans-faute dans la compétition et a battu la République tchèque (2-0), ce jeudi 12 novembre, avant d’affronter l’Angleterre dimanche. Elle est déjà qualifiée pour les quarts de finale. Un nul lui suffirait pour préserver sa première place.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-nations/ligue-des-nations-lespagne-championne-du-monde-prolonge-sa-serie-dinvincibilite-xxl-contre-la-republique-tcheque-7acf6070-deea-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:55:46+00:00",
       "category": "Culture",
@@ -837,7 +1055,7 @@
       "title": "Politique européenne : \"Il n'y a aucune division\" car \"nous nous sommes engagés dans ces discussions diplomatiques et nous travaillons en équipe\", affirme le président du Conseil européen",
       "summary": "La Communauté politique européenne se réunit ce jeudi 12 novembre, en sommet à Dublin, pour sa 9e édition. Le président Emmanuel Macron souhaite y définir, avec l'ensemble des représentants européens et internationaux présents, des \"principes-clés\" sur le futur de la sécurité de la \"Grande Europe\".",
       "source": "BFMTV",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/international/europe/ukraine/video-politique-europeenne-il-n-y-a-aucune-division-car-nous-nous-sommes-engages-dans-ces-discussions-diplomatiques-et-nous-travaillons-en-equipe-affirme-le-president-du-conseil-europeen_VN-202611120990.html",
       "published_at": "2026-11-12T22:53:40+00:00",
       "category": "Politique",
@@ -877,7 +1095,7 @@
       "title": "À New York, l'effondrement d'un immeuble fait de nombreux morts et blessés",
       "summary": "Au moins huit personnes ont péri et 19 ont été blessées mercredi soir dans un quartier populaire de New York quand un immeuble de trois étages comptant quatre appartements et un local commercial est tombé sur un chantier d'excavation voisin, pendant que des ouvriers étaient en train de creuser.",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-new-york-flatbush-effondrement-immeuble-morts-blesses",
       "published_at": "2026-11-12T22:48:09+00:00",
       "category": "Société",
@@ -893,7 +1111,7 @@
       "title": "Guerre en Ukraine: Volodymyr Zelensky et les États-Unis veulent voir l'Europe à la tables des négociations",
       "summary": "Le président ukrainien et les émissaires américains de Donald Trump souhaitent voir les Européens à la \"prochaine réunion\" des \"négociations\" pour mettre fin à la guerre entre la Russie et l'Ukraine.",
       "source": "BFMTV",
-      "feed_rank": 16,
+      "feed_rank": 18,
       "url": "https://www.bfmtv.com/international/europe/ukraine/guerre-en-ukraine-volodymyr-zelensky-et-les-etats-unis-veulent-voir-l-europe-a-la-tables-des-negociations_AD-202611120984.html",
       "published_at": "2026-11-12T22:42:29+00:00",
       "category": "Politique",
@@ -909,7 +1127,7 @@
       "title": "Italie - France. Victime d’un vilain coup de coude, Désiré Doué a une dent déchaussée",
       "summary": "Désiré Doué a été victime d’un coup de coude de Davide Frattesi lors du choc de Ligue des nations ce jeudi 12 novembre entre l’Italie et la France. L’attaquant parisien s’est déchaussé une incisive.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/italie-france-victime-dun-vilain-coup-de-coude-desire-doue-a-une-dent-dechaussee-091c79d4-dee7-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:41:39+00:00",
       "category": "Société",
@@ -925,7 +1143,7 @@
       "title": "\"J'ai été choquée, j'ai eu peur\": des témoins du braquage de la bijouterie de luxe à Paris racontent la scène",
       "summary": "Une bijouterie parisienne du 2e arrondissement a été braquée ce jeudi 12 novembre au matin. Le suspects sont en fuite.",
       "source": "BFMTV",
-      "feed_rank": 19,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/police-justice/j-ai-ete-choquee-j-ai-eu-peur-des-temoins-du-braquage-de-la-bijouterie-de-luxe-a-paris-racontent-la-scene_AV-202611120978.html",
       "published_at": "2026-11-12T22:37:22+00:00",
       "category": "Société",
@@ -941,7 +1159,7 @@
       "title": "Ligue des nations. Prince William, Ballon d’or, folle série : Harry Kane qualifie l’Angleterre en quart de finale",
       "summary": "Le capitaine de l’Angleterre Harry Kane, élu récemment Ballon d’or 2026, a porté sa sélection contre la Croatie (2-1), ce jeudi 12 novembre, en Ligue des nations. L’équipe de Thomas Tuchel est qualifiée pour les quarts de finale et doit s’imposer contre l’Espagne, dimanche, pour espérer prendre la première place du groupe.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-nations/ligue-des-nations-prince-william-ballon-dor-folle-serie-harry-kane-qualifie-langleterre-en-quart-de-finale-bd2ceb80-da68-11f1-a45f-49114163a350?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:35:54+00:00",
       "category": "Culture",
@@ -957,7 +1175,7 @@
       "title": "Guerre en Ukraine : Zelensky affirme que l'Europe sera à la table des «prochaines» négociations",
       "summary": "Le président ukrainien Volodymyr Zelensky entouré des émissaires américains Jared Kushner, gendre du président Donald Trump (à gauche), et l’homme d’affaires Steve Witkoff (à droite), à Baldonnel, le 12 novembre 2026.",
       "source": "Le Figaro",
-      "feed_rank": 13,
+      "feed_rank": 16,
       "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-zelensky-affirme-que-l-europe-sera-a-la-table-des-prochaines-negociations-20261112",
       "published_at": "2026-11-12T22:34:38+00:00",
       "category": "International",
@@ -975,7 +1193,7 @@
       "title": "VRAI/FAUX. Y a-t-il 2.3 millions de travailleurs pauvres en France, comme l'affirme Marine Tondelier?",
       "summary": "Sur BFMTV, la candidate écologiste à la présidentielle est revenue sur sa volonté d'augmenter le Smic à 2.000 euros brut. Une façon de pallier, notamment, le nombre de travailleurs pauvres dans le pays.",
       "source": "BFMTV",
-      "feed_rank": 22,
+      "feed_rank": 24,
       "url": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/vrai-faux-y-a-t-il-2-3-millions-de-travailleurs-pauvres-en-france-comme-l-affirme-marine-tondelier_AV-202611120977.html",
       "published_at": "2026-11-12T22:32:23+00:00",
       "category": "Économie",
@@ -991,7 +1209,7 @@
       "title": "Football. La fédération jordanienne accepte que le match contre l’Australie soit délocalisé au Qatar",
       "summary": "En raison de la guerre au Moyen-Orient, le match de préparation à la Coupe d’Asie entre l’Australie et la Jordanie prévue le 19 novembre va être délocalisé à Doha, au Qatar, pour assurer notamment la sécurité des Socceroos.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/football-la-federation-jordanienne-accepte-que-le-match-contre-laustralie-soit-delocalise-au-qatar-45c58cf4-dee7-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:29:18+00:00",
       "category": "Sport",
@@ -1058,29 +1276,13 @@
       "title": "VIDÉO. Arda Güler inscrit un coup franc splendide avec la Turquie contre la Belgique en Ligue des nations",
       "summary": "À domicile contre la Belgique dans le cadre de la cinquième journée de la Ligue des nations, Arda Güler a ouvert le score pour la Turquie d’une frappe enroulée majestueuse sur coup franc, ce jeudi 12 novembre. Un bijou qui n’a empêché la défaite des siens (1-2), toujours derniers du Groupe 1 avec zéro point.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/turquie/video-arda-gueler-inscrit-un-coup-franc-splendide-avec-la-turquie-contre-la-belgique-en-ligue-des-nations-82387722-dee3-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:22:57+00:00",
       "category": "Société",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « VIDÉO. Arda Güler inscrit un coup franc splendide avec la Turquie contre la Belgique en Ligue des nations ».",
       "coverage_sources": [
         "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "af1724161907",
-      "title": "Effondrements de la rue d'Aubagne à Marseille: au procès en appel, les experts dénoncent \"le silence complet\" de la mairie",
-      "summary": "Jeudi 12 novembre, au procès des effondrements de la rue d'Aubagne où six personnes sont mortes en 2018, les experts déplorent un manque de réaction face à leurs alertes.",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://www.bfmtv.com/marseille/effondrements-de-la-rue-d-aubagne-a-marseille-au-proces-en-appel-les-experts-denoncent-le-silence-complet-de-la-mairie_AD-202611120973.html",
-      "published_at": "2026-11-12T22:21:49+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Effondrements de la rue d'Aubagne à Marseille: au procès en appel, les experts dénoncent \"le silence complet\" de la mairie ».",
-      "coverage_sources": [
-        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1106,7 +1308,7 @@
       "title": "Mort de Jesus de Miguel. Jesus Owono souhaite entrer en contact avec la famille du joueur décédé en plein match",
       "summary": "Auteur d’un mauvais geste lors d’un match de deuxième division espagnole qui a entraîné la mort de Jesus de Miguel le 3 novembre dernier, le gardien Jesus Owono n’a toujours pas repris l’entraînement avec son club du FC Andorre. Selon Marca, il souhaiterait pouvoir échanger avec la famille de l’ancien attaquant de Tenerife.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/mort-de-jesus-de-miguel-jesus-owono-souhaite-entrer-en-contact-avec-la-famille-du-joueur-decede-en-plein-match-65898cd6-dee0-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:17:31+00:00",
       "category": "Société",
@@ -1138,7 +1340,7 @@
       "title": "Italie - France. « Rien d’inquiétant » mais « frustrés » : les Bleus relativisent leur défaite en Ligue des nations",
       "summary": "Zinédine Zidane a subi sa première défaite à la tête des Bleus. L’équipe de France a été piégée en Italie, ce jeudi 12 novembre, lors de la 5e journée de la Ligue des nations. Les Tricolores n’ont pas caché leur frustration après cette défaite, mais n’affichent pas d’inquiétude. Ils veulent vite tourner la page.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/italie-france-rien-dinquietant-mais-frustres-les-bleus-relativisent-leur-defaite-en-ligue-des-nations-98097ef0-dee0-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-12T22:08:36+00:00",
       "category": "Société",
@@ -1177,22 +1379,6 @@
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Royaume-Uni. Relations avec l’UE : Andy Burnham se bat pour un « bon accord » à huit jours d’un sommet crucial ».",
       "coverage_sources": [
         "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ac428de7e476",
-      "title": "Italie - France. Les notes des Bleus : un naufrage défensif symbolisé par le calvaire de Malo Gusto",
-      "summary": "L’équipe de France de Zinédine Zidane a concédé sa première défaite, ce jeudi 12 novembre à Milan, face à l’Italie (3-1) en Ligue des nations. Alors qu’ils menaient, les Bleus ont été renversés par la Squadra Azzurra, qui a su punir leurs nombreuses lacunes défensives, symbolisées par une (nouvelle) prestation totalement ratée de Malo Gusto, de retour au…",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/italie-france-les-notes-des-bleus-un-naufrage-defensif-symbolise-par-le-calvaire-de-malo-gusto-eea26860-dee2-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-12T22:03:18+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Italie - France. Les notes des Bleus : un naufrage défensif symbolisé par le calvaire de Malo Gusto » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1348,7 +1534,7 @@
       "title": "Mauritanie : ces images satellite ne montrent pas des bateaux de migrants",
       "summary": "Images satellites de bateaux à l'appui, des publications sur les réseaux sociaux assurent que de très nombreuses embarcations de migrants s'apprêtent à quitter le port de Nouadhibou en Mauritanie pour gagner l'archipel espagnol des Canaries. Si les clichés partagés sont authentiques, reste qu'ils sont anciens et montrent en réalité des bateaux de pêche.",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261112-mauritanie-ces-images-satellite-ne-montrent-pas-des-bateaux-de-migrants",
       "published_at": "2026-11-12T21:45:19+00:00",
       "category": "Médias & communication",
@@ -1396,7 +1582,7 @@
       "title": "Ligue des nations : la France renversée par l'Italie, la qualification en danger",
       "summary": "L'équipe de France a été battue jeudi par l'Italie lors de la cinquième journée de la Ligue des nations. Une première défaite de Zinedine Zidane comme sélectionneur qui rebat les cartes : les Bleus devront s'imposer dimanche s'ils veulent se qualifier pour les quarts de finale.",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/sports/20261112-ligue-nations-france-renversee-italie-qualification",
       "published_at": "2026-11-12T21:40:31+00:00",
       "category": "Société",
@@ -1412,7 +1598,7 @@
       "title": "Une enquête ouverte après la découverte de deux corps en bord de plage près de Marseille",
       "summary": "Selon le procureur d’Aix-en-Provence Jean-Luc Blachon, les corps ont été «retrouvés dans l’eau, en bord de plage, à 600 mètres l’un de l’autre, l’un entièrement nu, l’autre partiellement déshabillé».",
       "source": "Le Figaro",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://www.lefigaro.fr/marseille/une-enquete-ouverte-apres-la-decouverte-de-deux-corps-en-bord-de-plage-pres-de-marseille-20261112",
       "published_at": "2026-11-12T21:40:26+00:00",
       "category": "Sciences & tech",
@@ -1540,7 +1726,7 @@
       "title": "Nvidia : Sa fille, Tim Cook… Qui pour remplacer Jensen Huang ?",
       "summary": "<p>Un fauteuil particulièrement convoité. <a href=\"https://www.20minutes.fr/monde/4262418-20261112-nvidia-patron-jensen-huang-demissionne\">Après le départ de Jensen Huang</a>, qui a dirigé Nvidia depuis sa création en 1993, le conseil d’administration du géant américain des puces électroniques doit trouver un nouveau patron. Le dirigeant de 63 ans a…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/economie/4262526-20261112-nvidia-fille-tim-cook-remplacer-jensen-huang?at_medium=display&at_campaign=149",
       "published_at": "2026-11-12T21:20:33+00:00",
       "category": "Société",
@@ -1633,23 +1819,6 @@
       "mention_count": 1
     },
     {
-      "id": "902b6577d466",
-      "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
-      "summary": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après avoir fait étape à Moscou pour des entretiens avec son homologue russe, Vladimir Poutine.",
-      "source": "Le Monde",
-      "feed_rank": 10,
-      "url": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html",
-      "published_at": "2026-11-12T21:10:19+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires am ».",
-      "coverage_sources": [
-        "Le Monde",
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
       "id": "c703d3a355b1",
       "title": "Coupe de France de football. « On a fait un très grand match » : le GF38 se sort du piège chambérien et se qualifie pour le 8e tour",
       "summary": "Grâce à des buts de Moussa Djitté et Yohann Magnin dans le dernier quart d'heure, les Grenoblois ont fait respecter, ce jeudi, la logique et la hiérachie en venant finalement à bout de valeureux Chambériens (2-0) et se qualifier pour le huitième tour. Ils affronteront Seyssinet (R1) ou Nîmes (Ligue 3) opposés dimanche.",
@@ -1670,7 +1839,7 @@
       "title": "Niro pour son nouvel album \"Mentalité\"",
       "summary": "Près de vingt ans après ses débuts, Niro reste l’une des figures incontournables du rap français. Avec Mentalité, son nouvel album de 18 titres, il explore ses doutes et ses fragilités sans rien perdre de sa force.",
       "source": "France Inter",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/a-la-reguliere/a-la-reguliere-du-jeudi-12-novembre-2026-7869478",
       "published_at": "2026-11-12T21:04:50+00:00",
       "category": "Société",
@@ -1783,7 +1952,7 @@
       "title": "Éliminatoires de la CAN 2027 : le Sénégal, le Cameroun et la Côte d'Ivoire déroulent",
       "summary": "Pas de faux pas pour les géants du continent africain. Le Sénégal, le Cameroun et la Côte d'Ivoire se sont tous imposés à domicile lors de la troisième journée des éliminatoires de la CAN 2027.",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/sports/20261112-eliminatoires-can-2027-senegal-cameroun-cote-ivoire",
       "published_at": "2026-11-12T20:57:52+00:00",
       "category": "Société",
@@ -1815,7 +1984,7 @@
       "title": "Hauts-de-Seine : Enquête de l’IGPN après la « collision » entre un jeune à moto et une voiture de police",
       "summary": "<p>La version de la police et celle du parquet diffèrent. Un jeune homme de 19 ans à moto a été grièvement blessé après une collision avec un <a href=\"https://www.20minutes.fr/societe/4262144-20261111-gouvernement-jusqu-fin-semaine-pourquoi-syndicat-police-alliance-lance-ultimatum-nunez\">véhicule de police</a>, samedi dernier à Chaville (Hauts-de-Seine).…",
       "source": "20 Minutes",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/societe/4262525-20261112-hauts-seine-enquete-igpn-apres-collision-entre-jeune-moto-voiture-police?at_medium=display&at_campaign=149",
       "published_at": "2026-11-12T20:55:08+00:00",
       "category": "Société",
@@ -1832,7 +2001,7 @@
       "title": "Près de 40 000 enfants handicapés sans AESH à la rentrée 2026 : une action de groupe en cours pour « ouvrir une brèche »",
       "summary": "L’association Une école inclusive pour tous avait lancé, en décembre 2025, une action en justice visant le non-respect par l’Etat de ses obligations dans dix départements. Selon des données du ministère de l’éducation, la situation reste très tendue dans le Val-de-Marne, la Savoie ou le Bas-Rhin.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lemonde.fr/societe/article/2026/11/12/pres-de-40-000-enfants-handicapes-sans-aesh-a-la-rentree-2026-une-action-de-groupe-en-cours-pour-ouvrir-une-breche_6809160_3224.html",
       "published_at": "2026-11-12T20:54:18+00:00",
       "category": "Société",
@@ -1913,7 +2082,7 @@
       "title": "Plusieurs logiciels de Microsoft affectés par une panne, des utilisateurs du monde entier concernés",
       "summary": "Vers 20 heures (heure française), plus de 90.000 Américains assuraient ne plus pouvoir accéder à Outlook, le service de messagerie développé par Microsoft, qui a confirmé l’incident dans la soirée.",
       "source": "Le Figaro",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.lefigaro.fr/secteur/high-tech/le-systeme-de-messagerie-microsoft-outlook-affecte-par-une-panne-des-utilisateurs-du-monde-entier-concernes-20261112",
       "published_at": "2026-11-12T20:44:11+00:00",
       "category": "International",
@@ -2252,7 +2421,7 @@
       "title": "Bob Dylan - Tonnerre sur la route 4/4 : Bob Dylan, un concert idéal de la tournée \"Rolling Thunder Revue\" (1976), 2ème partie",
       "summary": "Dans cette émission, ultime volet de la célébration d’une des périodes les plus riches, et pas forcément la plus connue, d’un géant dont on peut dire qu’on aura eu le privilège d’être le contemporain : Bob Dylan, raconté par Michka Assayas.",
       "source": "France Inter",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/very-good-trip/very-good-trip-du-jeudi-12-novembre-2026-2170040",
       "published_at": "2026-11-12T20:04:50+00:00",
       "category": "Société",
@@ -2398,7 +2567,7 @@
       "title": "«Il a dupé tout le monde» : après l’attentat de Trappes, Kevin Tessier, «la bête noire» racontée par sa famille",
       "summary": "ENQUÊTE - De la cour de maternelle de Guyancourt à l’attentat de Trappes, les proches de Kevin Tessier décrivent aux enquêteurs un homme instable, isolé, rongé par la maladie et une haine raciste croissante. Et une famille qui n’a rien vu venir. Le Figaro a consulté leurs auditions.",
       "source": "Le Figaro",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lefigaro.fr/faits-divers/il-a-dupe-tout-le-monde-apres-l-attentat-de-trappes-kevin-tessier-la-bete-noire-racontee-par-sa-famille-20261112",
       "published_at": "2026-11-12T20:00:00+00:00",
       "category": "Société",
@@ -2462,7 +2631,7 @@
       "title": "Web Summit de Lisbonne : les robots sont partout !",
       "summary": "🤖 Ils sont partout au Web Summit de Lisbonne ! Des robots capables de travailler sur les chaînes de production aux assistants du quotidien, l’intelligence artificielle et la robotique accélèrent à grands pas. Jusqu’où iront-ils ? Héloïse Mélan est allée découvrir les robots de demain. 🚀",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-web-summit-de-lisbonne-les-robots-sont-partout",
       "published_at": "2026-11-12T19:52:41+00:00",
       "category": "Sciences & tech",
@@ -2517,6 +2686,22 @@
       "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « LCI Direct du jeudi 12 novembre 2026 ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "5d061810e82c",
+      "title": "« Les actes délictueux seront judiciarisés » : face à l’intensification des violences aux abords et dans les lycées, le gouvernement promet des sanctions",
+      "summary": "De nouveaux incidents impliquant des tirs de mortiers d’artifice ont eu lieu ce jeudi dans plusieurs lycées de France. Le ministre Edouard Geffray menace les auteurs de sanctions tandis que le Premier ministre Sebastien Lecornu fustige des « complicités » au sein même de certains établissements.",
+      "source": "L'Obs",
+      "feed_rank": 1,
+      "url": "https://www.nouvelobs.com/politique/20261112.OBS120086/les-actes-delictueux-seront-judiciarises-face-a-l-intensification-des-violences-aux-abords-et-dans-les-lycees-le-gouvernement-promet-des-sanctions.html",
+      "published_at": "2026-11-12T19:49:13+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Les actes délictueux seront judiciarisés » : face à l’intensification des violences aux abords et dans les lycées, le gouvernement promet des sancti ».",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2750,7 +2935,7 @@
       "title": "Laure Mandeville : « En Russie, les automates, les révoltés et les silencieux »",
       "summary": "ANALYSE - Dans une autocratie poutinienne où le rouleau compresseur de la répression s’abat sur tous ceux qui osent critiquer le pouvoir et la guerre contre l’Ukraine, il n’y a que peu de choix : se soumettre, courir le risque de la révolte, qui mène à la prison, à l’exil parfois à la mort, ou se taire. Mais les silencieux pourraient-ils changer un jour…",
       "source": "Le Figaro",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.lefigaro.fr/vox/monde/laure-mandeville-en-russie-les-automates-les-revoltes-et-les-silencieux-20261112",
       "published_at": "2026-11-12T19:30:00+00:00",
       "category": "International",
@@ -2815,7 +3000,7 @@
       "title": "Guerre hybride : comment riposter ?",
       "summary": "Les autorités françaises accusent le groupe iranien Shahid Kaveh des cyberattaques visant les réfrigérateurs de supermarchés et souhaitent des sanctions européennes contre Téhéran, qui nie toute implication. Hier, des alertes à la bombe ont ciblé des milliers d’écoles en Italie, en Irlande et au Royaume-Uni. Il s’agit du dernier épisode en date d’une…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261112-guerre-hybride-comment-riposter",
       "published_at": "2026-11-12T19:26:16+00:00",
       "category": "Culture",
@@ -2863,7 +3048,7 @@
       "title": "Bouches-du-Rhône : Deux corps, dont un « entièrement nu », retrouvés sur une plage à l’ouest de Marseille",
       "summary": "<p>Deux corps dans l’eau, à quelques centaines de mètres de distance. L’un était entièrement nu, l’autre partiellement déshabillé. Les dépouilles d’un homme et d’une femme ont été découvertes jeudi matin en bord de plage à Sausset-les-Pins, à une quarantaine de kilomètres à l’ouest <a…",
       "source": "20 Minutes",
-      "feed_rank": 14,
+      "feed_rank": 17,
       "url": "https://www.20minutes.fr/faits_divers/faits-divers-marseille/4262517-20261112-bouches-rhone-deux-corps-dont-entierement-nu-retrouves-plage-ouest-marseille?at_medium=display&at_campaign=149",
       "published_at": "2026-11-12T19:23:46+00:00",
       "category": "Sciences & tech",
@@ -2992,7 +3177,7 @@
       "title": "«J’ai fait ce que j’avais à faire» : face aux enquêteurs et au psychiatre, les divagations racistes et la froide détermination du suspect de l’attentat de Trappes",
       "summary": "ENQUÊTE - Après ses revendications ouvertement racistes en garde à vue, Kevin Tessier a adopté un comportement à la fois détaché, provocant et confus. Le Figaro lève le voile sur la trajectoire de cet homme suspecté d’avoir tué un homme et blessé sept autres personnes.",
       "source": "Le Figaro",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lefigaro.fr/faits-divers/j-ai-fait-ce-que-j-avais-a-faire-face-aux-enqueteurs-et-au-psychiatre-les-divagations-racistes-et-la-froide-determination-de-kevin-tessier-20261111",
       "published_at": "2026-11-12T19:15:05+00:00",
       "category": "Société",
@@ -3072,7 +3257,7 @@
       "title": "Mississippi : les démocrates remportent un siège au Sénat",
       "summary": "Dans le Mississippi, Scott Colom devient le premier sénateur noir élu depuis près de 150 ans dans cet État du Sud, marqué par l’histoire de la ségrégation. Sa victoire, qui s’inscrit dans la vague bleue des élections de mi-mandat, est-elle un tournant politique et symbolique ? Comment expliquer ce résultat dans un État où la population noire représente…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat",
       "published_at": "2026-11-12T19:11:55+00:00",
       "category": "Médias & communication",
@@ -3105,7 +3290,7 @@
       "title": "Philippe Jaenada, depuis 10 ans je vais à mon bureau en sautillant.",
       "summary": "De l'humour potache à la consécration suprême du Prix Goncourt, Philippe Jaenada a tracé une trajectoire littéraire unique. Enquêteur minutieux et avocat des causes perdues, il redonne vie aux fantômes du passé à travers des récits aussi documentés que bouleversants.",
       "source": "France Inter",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/rien-ne-s-oppose-a-la-nuit/rien-ne-s-oppose-a-la-nuit-du-jeudi-12-novembre-2026-3919860",
       "published_at": "2026-11-12T19:09:11+00:00",
       "category": "Économie",
@@ -3169,7 +3354,7 @@
       "title": "Pourquoi tout le monde est différent ?",
       "summary": "Alix, 5 ans, a posé une question : pourquoi sommes-nous tous différents ? Pour y répondre, Evelyne Heyer, professeure d’anthropologie génétique au Muséum national d’histoire naturelle, nous emmène dans le monde invisible de l’ADN, avec une bonne surprise : être différent, c’est une chance.",
       "source": "France Inter",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-jeudi-12-novembre-2026-6297562",
       "published_at": "2026-11-12T19:05:40+00:00",
       "category": "International",
@@ -3314,7 +3499,7 @@
       "title": "L’éditorial de Gaëtan de Capèle : « Crise chez Nvidia, la folle machine de l’IA »",
       "summary": "La fragilisation de l’entreprise la plus stratégique de la tech mondiale mérite une sérieuse réflexion avant que survienne la catastrophe.",
       "source": "Le Figaro",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.lefigaro.fr/vox/economie/l-editorial-de-gaetan-de-capele-crise-chez-nvidia-la-folle-machine-de-l-ia-20261112",
       "published_at": "2026-11-12T19:00:40+00:00",
       "category": "Société",
@@ -3359,17 +3544,17 @@
       "mention_count": 1
     },
     {
-      "id": "37e49ec43334",
-      "title": "Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie",
-      "summary": "Une seule contamination entre rongeur et humain, mais où et quand ? Quatre mois après la fin de la crise sanitaire déclenchée par la survenue de cas à bord d’un navire de croisière, un article publié jeudi dans la revue « Science » apporte quelques réponses… et beaucoup de questions. Un consortium d’experts s’est intéressé aux génomes des virus retrouvés…",
-      "source": "Le Monde",
-      "feed_rank": 11,
-      "url": "https://www.lemonde.fr/sciences/article/2026/11/12/decrypter-le-genome-du-hantavirus-andes-une-etape-essentielle-pour-retracer-le-parcours-de-l-epidemie_6809156_1650684.html",
+      "id": "1594a58eb6f5",
+      "title": "Services publics : entre open bar et cure d’austérité, le grand écart des candidats",
+      "summary": "Ce jeudi, les principaux candidats à la présidentielle, Marine Le Pen exceptée, ont exposé leur vision des services publics lors d’un grand oral sur franceinfo",
+      "source": "L'Opinion",
+      "feed_rank": 1,
+      "url": "https://www.lopinion.fr/politique/services-publics-entre-open-bar-et-cure-dausterite-le-grand-ecart-des-candidats",
       "published_at": "2026-11-12T19:00:00+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité demande de rendre un sujet technique compréhensible sans promettre davantage que ce que les faits établissent. Le communicant doit expliquer les usages, les limites et les questions éthiques. Pour travailler ce cas, partez du sujet précis — « Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Services publics : entre open bar et cure d’austérité, le grand écart des candidats ».",
       "coverage_sources": [
-        "Le Monde"
+        "L'Opinion"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3379,27 +3564,11 @@
       "title": "Budget de la Sécu : au Sénat, la crise sociale bouscule l'examen du texte",
       "summary": "Les sénateurs ont reporté la réforme des allégements généraux. Ils pourraient également renoncer à sous-indexer les pensions. Le tout représenterait près de 4 milliards d'euros d'économies perdues",
       "source": "L'Opinion",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.lopinion.fr/economie/budget-de-la-secu-au-senat-la-crise-sociale-bouscule-lexamen-du-texte",
       "published_at": "2026-11-12T19:00:00+00:00",
       "category": "Politique",
       "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget de la Sécu : au Sénat, la crise sociale bouscule l'examen du texte ».",
-      "coverage_sources": [
-        "L'Opinion"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1594a58eb6f5",
-      "title": "Services publics : entre open bar et cure d’austérité, le grand écart des candidats",
-      "summary": "Ce jeudi, les principaux candidats à la présidentielle, Marine Le Pen exceptée, ont exposé leur vision des services publics lors d’un grand oral sur franceinfo",
-      "source": "L'Opinion",
-      "feed_rank": 2,
-      "url": "https://www.lopinion.fr/politique/services-publics-entre-open-bar-et-cure-dausterite-le-grand-ecart-des-candidats",
-      "published_at": "2026-11-12T19:00:00+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Services publics : entre open bar et cure d’austérité, le grand écart des candidats ».",
       "coverage_sources": [
         "L'Opinion"
       ],
@@ -3572,7 +3741,7 @@
       "title": "Teddy Riner candidat : \"Il faut être clair avec l'opinion publique\" (Victorin Lurel)",
       "summary": "🎙️Le sénateur PS de la Guadeloupe Victorin Lurel a réagi a la candidature à l'élection présidentielle 2027 du sportif Teddy Riner. Retrouvez l'émission intégrale ce samedi midi sur le site de France 24.",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-teddy-riner-candidat-il-faut-%C3%AAtre-clair-avec-l-opinion-publique-victorin-lurel",
       "published_at": "2026-11-12T18:45:11+00:00",
       "category": "Politique",
@@ -3697,15 +3866,15 @@
       "mention_count": 2
     },
     {
-      "id": "f8e45e5df174",
-      "title": "Listé par le terroriste de Trappes, Aymeric Carron \"'accuse\" Laurent Nuñez de \"laisser pourrir la situation\" à propos de menaces visant des personnalités de gauche",
+      "id": "ec91ce8f4134",
+      "title": "Listé par le terroriste de Trappes, Aymeric Caron \"'accuse\" Laurent Nuñez de \"laisser pourrir la situation\" à propos de menaces visant des personnalités de gauche",
       "summary": "Par Soizic BONVARLET , le Jeudi 12 novembre 2026 à 19:39 Sandrine Rousseau, Aymeric Caron, David Guiraud, Assa Traoré... Une liste de noms et de numéros de téléphone de personnalités de gauche a été retrouvée lors de la perquisition au domicile de Kevin T., l'auteur de l'attentat raciste perpétré à Trappes le 23 octobre. Les trois élus et la militante,…",
       "source": "LCP",
       "feed_rank": 1,
-      "url": "https://lcp.fr/actualites/liste-par-le-terroriste-de-trappes-aymeric-carron-accuse-laurent-nunez-de-laisser",
+      "url": "https://lcp.fr/actualites/liste-par-le-terroriste-de-trappes-aymeric-caron-accuse-laurent-nunez-de-laisser-pourrir",
       "published_at": "2026-11-12T18:39:03+00:00",
       "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Listé par le terroriste de Trappes, Aymeric Carron \"'accuse\" Laurent Nuñez de \"laisser pourrir la situation\" à propos de menaces visant des personnali » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Listé par le terroriste de Trappes, Aymeric Caron \"'accuse\" Laurent Nuñez de \"laisser pourrir la situation\" à propos de menaces visant des personnalit » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "LCP"
       ],
@@ -3761,6 +3930,22 @@
       "mention_count": 1
     },
     {
+      "id": "83ad57655f31",
+      "title": "Sibyle Veil, patronne de Radio France : « Prétendre que cette direction n’est pas indépendante est irresponsable »",
+      "summary": "A la tête de Radio France depuis 2018, Sibyle Veil doit composer avec les offensives politiques, la défiance d'une partie des équipes et les critiques sur ses choix. Un exercice du pouvoir sous tension pour la présidente du groupe public.",
+      "source": "L'Obs",
+      "feed_rank": 2,
+      "url": "https://www.nouvelobs.com/medias/20261112.OBS120085/sibyle-veil-patronne-de-radio-france-pretendre-que-cette-direction-n-est-pas-independante-est-irresponsable.html",
+      "published_at": "2026-11-12T18:30:11+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Sibyle Veil, patronne de Radio France : « Prétendre que cette direction n’est pas indépendante est irresponsable » ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "36cb5cc48b75",
       "title": "Lina Berthelier, Miss Auvergne 2026 : une gymnaste de retour à la compétition après « une épreuve physique et psychologique »",
       "summary": "PORTRAIT DE MISS - L’élection de Miss France 2027 se tiendra le 12 décembre prochain au Futuroscope. Il est donc temps de faire plus ample connaissance avec les candidates. Lina Berthelier, Miss Auvergne 2026, a répondu aux questions de Paris Match.",
@@ -3777,29 +3962,11 @@
       "mention_count": 1
     },
     {
-      "id": "f689092c61ae",
-      "title": "Ligue des nations : première défaite des Bleus de Zidane contre l'Italie (3-1), la qualification se jouera dimanche",
-      "summary": "L'équipe de France s'est inclinée jeudi en Italie (3-1) pour la première fois sous l'ère Zidane. Les Bleus perdent aussi la première place du groupe A au profit de leur adversaire du soir. La qualification pour les quarts de finale de la Ligue des nations se jouera dimanche soir contre la Turquie (sur TF1, TF1+ et TF1info).",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 1,
-      "url": "https://www.tf1info.fr/sport/en-direct-italie-france-amoindris-les-bleus-de-zidane-visent-les-quarts-de-finale-de-la-ligue-des-nations-2475530.html",
-      "published_at": "2026-11-12T18:30:06+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des nations : première défaite des Bleus de Zidane contre l'Italie (3-1), la qualification se jouera dimanche » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde",
-        "TF1 Info (TF1 / LCI)",
-        "20 Minutes"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3
-    },
-    {
       "id": "89a1e474fc85",
       "title": "Affaire Nvidia : les dangereuses liaisons de Jensen Huang embarrassent l’Administration Trump",
       "summary": "RÉCIT - Dans un domaine aussi stratégique, l’inaction du gouvernement américain face à la compromission de l’un des plus influents patrons de la Silicon Valley soulève des critiques au Congrès.",
       "source": "Le Figaro",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lefigaro.fr/international/affaire-nvidia-les-dangereuses-liaisons-de-jensen-huang-embarrassent-l-administration-trump-20261112",
       "published_at": "2026-11-12T18:30:00+00:00",
       "category": "Politique",
@@ -3831,7 +3998,7 @@
       "title": "Violences dans les lycées : Sébastien Lecornu évoque \"complicités\" au sein des \"personnels de l'Éducation nationale\"",
       "summary": "Des personnels de l'Éducation nationale sont \"complices\" des violences qui émaillent le mouvement ces derniers jours, affirme ce jeudi Sébastien Lecornu. \"Ce sont des agents du service public qui tolèrent la violence contre d'autres agents de service public\", dénonce le Premier ministre.",
       "source": "France Inter",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/lycees-le-gouvernement-hausse-le-ton-face-a-une-intensification-des-violences-5302526",
       "published_at": "2026-11-12T18:30:00+00:00",
       "category": "Politique",
@@ -3927,7 +4094,7 @@
       "title": "La révolution des robots a commencé",
       "summary": "Des robots dans les usines, des robots pour faire le ménage ou des livraisons, et bientôt, des robots humanoïdes, c’est la prochaine révolution industrielle, et la Chine est à la pointe. Les robots vont-ils bientôt faire partie de notre quotidien ?",
       "source": "France Inter",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-jeudi-12-novembre-2026-3160992",
       "published_at": "2026-11-12T18:19:00+00:00",
       "category": "Sciences & tech",
@@ -3959,7 +4126,7 @@
       "title": "Midterms dans le Mississipi : quand un électron libre du Parti démocrate marque l'Histoire",
       "summary": "Le candidat démocrate Scott Colom a remporté la course sénatoriale dans le Mississipi, devenant le premier sénateur noir de cet État ultra-conservateur depuis près de 150 ans. Une victoire historique pour ce procureur réputé pour son franc-parler, qui avait axé sa campagne sur le pouvoir d'achat et la \"reconquête\" de l'Amérique rurale.",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-victoire-de-colom-dans-le-mississipi-quand-un-%C3%A9lectron-libre-du-parti-d%C3%A9mocrate-marque-l-histoire",
       "published_at": "2026-11-12T18:18:50+00:00",
       "category": "Médias & communication",
@@ -4055,7 +4222,7 @@
       "title": "Guerre en Ukraine : Poutine inflexible face aux Américains et Starshield de nouveau bridé",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://http^://www.20minutes.fr/monde/ukraine\">guerre en Ukraine</a> ? 20 Minutes fait le point pour vous tous les soirs. Voici l’essentiel de ce jeudi 12 novembre 2026, au 1.722e jour du conflit.</p><h2>Le fait du jour</h2><p><a href=\"https://www.20minutes.fr/monde/vladimir_poutine/\">Vladimir…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/monde/ukraine/4262513-20261112-guerre-ukraine-poutine-inflexible-face-americains-starshield-nouveau-bride?at_medium=display&at_campaign=149",
       "published_at": "2026-11-12T18:11:19+00:00",
       "category": "International",
@@ -4442,27 +4609,11 @@
       "title": "Entre la France et l’Algérie, les échanges commerciaux s’effondrent, nouvel effet de la crise entre les deux pays",
       "summary": "Conséquence des tensions diplomatiques entre les deux Etats, les exportations françaises vers l’Algérie subissent une baisse sans précédent. Des secteurs comme les produits sidérurgiques ou alimentaires sont ciblés par les autorités algériennes.",
       "source": "Le Monde",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lemonde.fr/afrique/article/2026/11/12/entre-la-france-et-l-algerie-les-echanges-commerciaux-s-effondrent-nouvel-effet-de-la-crise-entre-les-deux-pays_6809148_3212.html",
       "published_at": "2026-11-12T18:00:20+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Entre la France et l’Algérie, les échanges commerciaux s’effondrent, nouvel effet de la crise entre les deux pays » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9205bb59e445",
-      "title": "Au Royaume-Uni, deux affaires de violences sexuelles interrogent à nouveau la « culture du silence » dans les médias et la culture",
-      "summary": "La ministre de la culture britannique va recevoir des dirigeants du monde culturel et médiatique afin de leur demander de mieux protéger « les femmes et les lanceurs d’alerte » contre les « abus de pouvoir ». La BBC, qui a employé Russell Brand et David Walliams, deux hommes mis en cause à des degrés divers, a renouvelé ses excuses pour les « manquements…",
-      "source": "Le Monde",
-      "feed_rank": 12,
-      "url": "https://www.lemonde.fr/international/article/2026/11/12/au-royaume-uni-deux-affaires-de-violences-sexuelles-interrogent-a-nouveau-la-culture-du-silence-dans-les-medias-et-la-culture_6809149_3210.html",
-      "published_at": "2026-11-12T18:00:20+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Au Royaume-Uni, deux affaires de violences sexuelles interrogent à nouveau la « culture du silence » dans les médias et la culture ».",
       "coverage_sources": [
         "Le Monde"
       ],
@@ -4506,7 +4657,7 @@
       "title": "« Si ça avait été moi, j’aurais pu mourir » : l’émotion de Stomy Bugsy au procès des policiers qui ont agressé Michel Zecler",
       "summary": "Au procès des trois fonctionnaires qui ont passé à tabac Michel Zecler fin 2020 à Paris, la cour criminelle a entendu ce jeudi son ami le rappeur Stomy Bugsy. L’artiste a insisté sur l’importance du traumatisme dont souffre le producteur de rap depuis les faits.",
       "source": "L'Obs",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.nouvelobs.com/justice/20261112.OBS120084/si-ca-avait-ete-moi-j-aurais-pu-mourir-l-emotion-de-stomy-bugsy-au-proces-des-policiers-qui-ont-agresse-michel-zecler.html",
       "published_at": "2026-11-12T18:00:04+00:00",
       "category": "Société",
@@ -4698,7 +4849,7 @@
       "title": "CAN 2027 : après une démonstration à domicile, la RD Congo a déjà un pied en Afrique de l'Est",
       "summary": "La RD Congo continue son sans-faute dans les qualifications de la CAN 2027. Au stade des Martyrs de Kinshasa, la Sierra-Leone a été la victime du jour des Léopards (3-1). Les hommes de Sebastien Desabre sont quasiment qualifiés pour la prochaine Coupe d'Afrique qui aura lieu au Kenya, en Tanzanie et en Ouganda.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/sports/20261112-can-2027-apr%C3%A8s-une-d%C3%A9monstration-%C3%A0-domicile-la-rd-congo-a-d%C3%A9j%C3%A0-un-pied-en-afrique-de-l-est",
       "published_at": "2026-11-12T17:54:13+00:00",
       "category": "International",
@@ -4714,7 +4865,7 @@
       "title": "Un jeudi soir sur la terre du jeudi 12 novembre 2026",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "France Inter",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/un-jeudi-soir-sur-la-terre/un-jeudi-soir-sur-la-terre-du-jeudi-12-novembre-2026-2401022",
       "published_at": "2026-11-12T17:52:15+00:00",
       "category": "Société",
@@ -4762,7 +4913,7 @@
       "title": "Candidature de Teddy Riner, primaire de la droite et du centre",
       "summary": "Le judoka Teddy Riner est candidat à la présidentielle. Emmanuel Macron s'est réjoui de cette annonce. L'objectif est maintenant de transformer sa popularité en voix. L'arrivée du sportif dans la course à l'Elysée, peut-elle affaiblir d'autres candidats ? Pendant ce temps, les discussions se poursuivent autour d'une primaire du centre et de la droite.…",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261112-candidature-de-teddy-riner-primaire-de-la-droite-et-du-centre",
       "published_at": "2026-11-12T17:48:15+00:00",
       "category": "Politique",
@@ -4826,7 +4977,7 @@
       "title": "« C’est vraiment triste, Jensen Huang est l’un des nôtres » : le choc et la désillusion à Taïwan, île natale du PDG déchu de Nvidia",
       "summary": "REPORTAGE - La démission du charismatique PDG de Nvidia, annoncée ce jeudi, à la suite de ses affaires extraconjugales mêlées de soupçons d’espionnage, plonge les Taïwanais dans le désarroi.",
       "source": "Le Figaro",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.lefigaro.fr/conjoncture/c-est-vraiment-triste-jensen-huang-est-l-un-des-notres-le-choc-et-la-desillusion-a-taiwan-ile-natale-du-pdg-dechu-de-nvidia-20261112",
       "published_at": "2026-11-12T17:45:00+00:00",
       "category": "Société",
@@ -4858,7 +5009,7 @@
       "title": "Spéciale COP 31 : au Vietnam, « Pour rentrer chez nous, on est obligés de prendre une barque ».",
       "summary": "Au Vietnam, depuis le début de l’année, les inondations ont déjà causé la mort ou la disparition de 63 personnes, et 85 millions de dollars de dégâts. Face aux épisodes de pluies extrêmes qui vont s’intensifier, le pays cherche à s’adapter.",
       "source": "France Inter",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-12-novembre-2026-1674290",
       "published_at": "2026-11-12T17:41:26+00:00",
       "category": "Environnement",
@@ -5082,7 +5233,7 @@
       "title": "Attentat de Trappes : les avocats du mis en cause, Kevin Tessier, s’expriment pour la première fois",
       "summary": "EXCLUSIF - Alors qu’ils défendent un homme qui revendique ouvertement la portée raciste de ses crimes, Mes Baptiste Bellet et Eliott Amzallag s’élancent dans une instruction complexe et très scrutée sur les plans politique et médiatique.",
       "source": "Le Figaro",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lefigaro.fr/faits-divers/attentat-de-trappes-les-avocats-du-mis-en-cause-kevin-tessier-s-expriment-pour-la-premiere-fois-20261112",
       "published_at": "2026-11-12T17:30:00+00:00",
       "category": "Politique",
@@ -5114,7 +5265,7 @@
       "title": "Israël interdit l'entrée sur son territoire à Mélenchon, Paris dénonce une \"décision démagogique\"",
       "summary": "Le leader de LFI et candidat à l'élection présidentielle en France, Jean-Luc Mélenchon, a reçu l'interdiction d'entrer en Israël, a fait savoir le ministère israélien des Affaires étrangères, accusant son parti de tenir une \"position extrêmement hostile à Israël\". Le chef de la diplomatie française, Jean-Noël Barrot a dénoncé \"une décision démagogique\".",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
       "published_at": "2026-11-12T17:25:25+00:00",
       "category": "Politique",
@@ -5140,22 +5291,6 @@
       ],
       "coverage_count": 17,
       "mention_count": 17
-    },
-    {
-      "id": "443f7ef6fbae",
-      "title": "Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité »",
-      "summary": "Le pape est arrivé à Lima mercredi, pour une tournée de cinq jours dans le pays où il a passé vingt ans. Il a rappelé à la nouvelle présidente, Keiko Fujimori, qui revendique l’héritage de son père, l’autocrate Alberto Fujimori, l’importance de respecter les libertés et la diversité des Péruviens.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html",
-      "published_at": "2026-11-12T17:24:08+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité » ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
     },
     {
       "id": "a5a3c8aab028",
@@ -5190,11 +5325,27 @@
       "mention_count": 1
     },
     {
+      "id": "02cba1b92c37",
+      "title": "Dépression Charles : la Haute-Corse placée en vigilance orange aux crues jeudi et vendredi",
+      "summary": "Météo France a évoqué dans son bulletin de 16 heures de ce jeudi 12 novembre «une montée très rapide et importante sur l’amont du fleuve Tavignano» dans le «secteur de Corte».",
+      "source": "Libération",
+      "feed_rank": 23,
+      "url": "https://www.liberation.fr/environnement/climat/depression-charles-la-haute-corse-placee-en-vigilance-orange-aux-crues-jeudi-et-vendredi-20261112_YA4W4M6XMVGQ7G54J35OLS7DI4/",
+      "published_at": "2026-11-12T17:23:06+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Dépression Charles : la Haute-Corse placée en vigilance orange aux crues jeudi et vendredi » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "7586d0e355c9",
       "title": "Julien Pillot : \"Encadrer ou désigner les risques peut tranquilliser les investisseurs\"",
       "summary": "La start-up américaine Anthropic, conceptrice de l'assistant Claude, s'apprête à entrer en Bourse, et vise une valorisation jusqu’à 1 400 milliards de dollars. Avec Julien Pillot, économiste, spécialiste du numérique et enseignant-chercheur à l'INSEEC Lyon.",
       "source": "France Inter",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-un-jour-dans-le-monde/l-invite-d-un-jour-dans-le-monde-du-jeudi-12-novembre-2026-2860823",
       "published_at": "2026-11-12T17:23:05+00:00",
       "category": "Économie",
@@ -5210,7 +5361,7 @@
       "title": "Procès en appel de Gérard Depardieu : l'acteur se désiste, le jugement initial devrait s'appliquer",
       "summary": "Gérard Depardieu devait être jugé en appel du 16 au 20 novembre. Il est accusé d'avoir agressé sexuellement deux femmes sur le tournage des \"Volets verts\" en 2021. Le comédien avait été condamné en 2025, en première instance par le tribunal correctionnel de Paris à 18 mois de prison avec sursis.",
       "source": "France Inter",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/gerard-depardieu-renonce-a-son-proces-en-appel-2849195",
       "published_at": "2026-11-12T17:20:00+00:00",
       "category": "Société",
@@ -5234,150 +5385,6 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Pourquoi la candidature de Teddy Riner est-elle prise au sérieux ? ».",
       "coverage_sources": [
         "France Culture"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4755d6e3482b",
-      "title": "FIFA : épinglé pour une nouvelle affaire, Infantino bientôt hors-jeu ?",
-      "summary": "À quelques mois du congrès lors duquel il vise sa réélection, l’helvético-italo-libanais, patron de l’instance internationale du football touché par de nombreux scandales de corruption, est plus que jamais dans la tourmente. Malgré tout, Gianni Infantino continue coûte que coûte sa route pour arracher un quatrième mandat.",
-      "source": "L'Humanité",
-      "feed_rank": 8,
-      "url": "https://www.humanite.fr/sports/affaires/fifa-epingle-pour-une-nouvelle-affaire-infantino-bientot-hors-jeu",
-      "published_at": "2026-11-12T17:19:16+00:00",
-      "category": "Sport",
-      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « FIFA : épinglé pour une nouvelle affaire, Infantino bientôt hors-jeu ? ».",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "94fb7b7eb171",
-      "title": "2027 : Marine Le Pen, candidate à la plus forte stature présidentielle, selon un nouveau sondage",
-      "summary": "Selon le baromètre du Figaro Magazine, Marine Le Pen est la candidate qui incarne le mieux la stature présidentielle aux yeux des Français. Elle gagne des points sur la compétence et la capacité à décider, mais reste distancée chez les 18-24 ans.",
-      "source": "Le JDD",
-      "feed_rank": 8,
-      "url": "https://www.lejdd.fr/politique/2027-marine-le-pen-candidate-a-la-plus-forte-stature-presidentielle-selon-un-nouveau-sondage-188508",
-      "published_at": "2026-11-12T17:18:56+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « 2027 : Marine Le Pen, candidate à la plus forte stature présidentielle, selon un nouveau sondage ».",
-      "coverage_sources": [
-        "Le JDD"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "eb0e101e1875",
-      "title": "COP31: Le Népal, martyr du climat, en quête de réparations",
-      "summary": "Le Népal a subit 2 catastrophes climatiques juste avant la COP31 qui ont fait des milliers de morts et de disparus. Pour la première fois, le fond pertes et dommages a promis une aide d'urgence mais elle tarde à être versée et ne couvrirait qu'une infime part des besoins de reconstruction. Le sentiment d'injustice est grand pour le Népal qui ne…",
-      "source": "France 24",
-      "feed_rank": 14,
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261112-cop31-le-n%C3%A9pal-martyr-du-climat-en-qu%C3%AAte-de-r%C3%A9parations",
-      "published_at": "2026-11-12T17:18:34+00:00",
-      "category": "Environnement",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « COP31: Le Népal, martyr du climat, en quête de réparations ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ddb4f0241349",
-      "title": "Un Congolais \"chef de village\" au Canada ? Une rumeur alimentée par de faux contenus de France 24",
-      "summary": "La rumeur circule en ligne depuis début novembre : un Congolais installé au Canada se serait autoproclamé chef de village et aurait imposé sa loi pour vendre des terrains. L'histoire, inventée de toutes pièces, repose sur de faux contenus usurpant l'identité de France 24.",
-      "source": "France 24",
-      "feed_rank": 15,
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-un-congolais-chef-de-village-au-canada-une-rumeur-aliment%C3%A9e-par-de-faux-contenus-de-france-24",
-      "published_at": "2026-11-12T17:18:29+00:00",
-      "category": "Politique",
-      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Un Congolais \"chef de village\" au Canada ? Une rumeur alimentée par de faux contenus de France 24 ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bbd807d104c7",
-      "title": "À la COP31, l’enjeu épineux de la sortie des énergies fossiles",
-      "summary": "Alors que le monde est en proie à une crise énergétique et à un chaos climatique sans précédent, la Turquie et l’Australie, qui coorganisent la 31e conférence internationale pour le climat, veulent faire de l’électrification un signal politique fort, vers l’abandon du pétrole, du gaz et du charbon.",
-      "source": "Mediapart",
-      "feed_rank": 3,
-      "url": "https://www.mediapart.fr/journal/ecologie/121126/la-cop31-l-enjeu-epineux-de-la-sortie-des-energies-fossiles",
-      "published_at": "2026-11-12T17:17:18+00:00",
-      "category": "Politique",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « À la COP31, l’enjeu épineux de la sortie des énergies fossiles ».",
-      "coverage_sources": [
-        "Mediapart"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "80203f795e36",
-      "title": "Plus de 2.200 stations sans gazole ou sans essence : voici la carte des départements les plus touchés",
-      "summary": "Depuis plusieurs semaines, la France fait face à une pénurie partielle de carburant. En France, on estime que 2.200 stations-service étaient ainsi à l'arrêt, ce jeudi 12 novembre. Voici les départements français où ce fléau est le plus important. Dans certaines régions, le carburant se raréfie. Si 88% des pompes à essence continuent à fonctionner…",
-      "source": "CNews",
-      "feed_rank": 17,
-      "url": "https://www.cnews.fr/france/2026-11-12/plus-de-2200-stations-sans-gazole-ou-sans-essence-voici-la-carte-des-departements",
-      "published_at": "2026-11-12T17:17:11+00:00",
-      "category": "Économie",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Plus de 2.200 stations sans gazole ou sans essence : voici la carte des départements les plus touchés ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "596638b27797",
-      "title": "La mythique veste de Michael Jackson dans « Thriller » va être mise aux enchères",
-      "summary": "Avis aux fans du King of Pop et aux collectionneurs : une pièce mythique de l'histoire de la musique s'apprête à changer de propriétaire. La célèbre veste en cuir rouge et noire portée par Michael...",
-      "source": "Konbini",
-      "feed_rank": 1,
-      "url": "https://www.konbini.com/popculture/la-mythique-veste-de-michael-jackson-dans-thriller-va-etre-mise-aux-encheres/",
-      "published_at": "2026-11-12T17:16:51+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « La mythique veste de Michael Jackson dans « Thriller » va être mise aux enchères ».",
-      "coverage_sources": [
-        "Konbini"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4270c18ff1c3",
-      "title": "\"Une position extrêmement hostile\" : Jean-Luc Mélenchon déclaré persona non grata en Israël",
-      "summary": "Lors de son dernier grand meeting, le leader de la gauche radicale française et candidat à l'élection présidentielle a promis que, s'il était élu, des navires français escorteraient les flottilles humanitaires à destination de Gaza.",
-      "source": "Euronews",
-      "feed_rank": 10,
-      "url": "https://fr.euronews.com/2026/11/12/une-position-extremement-hostile-jean-luc-melenchon-declare-persona-non-grata-en-israel",
-      "published_at": "2026-11-12T17:16:14+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « \"Une position extrêmement hostile\" : Jean-Luc Mélenchon déclaré persona non grata en Israël ».",
-      "coverage_sources": [
-        "Euronews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2b749bac3af8",
-      "title": "« Si j’avais été sur les bulletins de vote, nous aurions gagné haut la main » : après la vague bleue, Trump mène toujours le bal",
-      "summary": "Même si les républicains ont perdu le Congrès et le Sénat, le président américain entend encore faire régner sa loi.",
-      "source": "Paris Match",
-      "feed_rank": 5,
-      "url": "https://www.parismatch.com/si-javais-ete-sur-bulletins-vote-nous-aurions-gagne-haut-main-apres-vague-bleue-trump-mene-toujours-bal-2KqNb8Nr8H9gP0xuICT8iZ",
-      "published_at": "2026-11-12T17:15:17+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Si j’avais été sur les bulletins de vote, nous aurions gagné haut la main » : après la vague bleue, Trump mène toujours le bal ».",
-      "coverage_sources": [
-        "Paris Match"
       ],
       "coverage_count": 1,
       "mention_count": 1
