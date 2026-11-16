@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-15T23:40:30.808048+00:00",
-  "last_attempt": "2026-11-15T23:40:30.808048+00:00",
+  "last_updated": "2026-11-16T02:20:40.807163+00:00",
+  "last_attempt": "2026-11-16T02:20:40.807163+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 907,
-  "unique_story_count": 799,
+  "raw_article_count": 908,
+  "unique_story_count": 795,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-16T23:40:30.808048+00:00",
-  "featured_window_end": "2026-11-15T23:40:30.808048+00:00",
-  "featured_pool_count": 905,
+  "featured_window_start": "2026-10-17T02:20:40.807163+00:00",
+  "featured_window_end": "2026-11-16T02:20:40.807163+00:00",
+  "featured_pool_count": 906,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "dddd818c8e0a",
-      "title": "France - Turquie. « Sur le contenu, on peut être perplexe » : Zidane et les Bleus entre satisfaction et soucis du détail",
-      "summary": "L’équipe de France a validé son billet pour les quarts de finale de la Ligue des nations en dominant poussivement la Turquie (2-1), ce dimanche 15 novembre 2026. Junior Kroupi a inscrit son tout premier but sous le maillot des Bleus, tandis que la défense s’est montrée un peu fébrile par moments. Voici les réactions des Français après la rencontre.",
-      "source": "Ouest-France",
-      "feed_rank": 1,
-      "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/france-turquie-sur-le-contenu-on-peut-etre-perplexe-zidane-et-les-bleus-entre-satisfaction-et-soucis-du-detail-0d0495a8-e14a-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-15T23:17:20+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « France - Turquie. « Sur le contenu, on peut être perplexe » : Zidane et les Bleus entre satisfaction et soucis du détail » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "82efb9b36a3d",
+      "title": "France-Turquie : les Bleus renouent avec la victoire, mais exposent une nouvelle fois leurs lacunes",
+      "summary": "Kylian Mbappé (à droite) dispute le ballon à l’attaquant turc Baris Alper Yilmaz lors du match de Ligue des nations de l’UEFA France-Turquie, au stade Atlantique de Bordeaux, le 15 novembre 2026.",
+      "source": "Le Monde",
+      "feed_rank": 5,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/16/france-turquie-les-bleus-renouent-avec-la-victoire-mais-exposent-une-nouvelle-fois-leurs-lacunes_6811138_3242.html",
+      "published_at": "2026-11-16T01:42:32+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Turquie : les Bleus renouent avec la victoire, mais exposent une nouvelle fois leurs lacunes ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -61,83 +61,29 @@
         "Paris Match",
         "Public Sénat",
         "Valeurs actuelles",
+        "Konbini",
         "Le Monde Informatique",
         "Next.ink"
       ],
-      "coverage_count": 33,
-      "mention_count": 180,
-      "importance_score": 35.632,
-      "latest_coverage_at": "2026-11-15T23:17:20+00:00"
+      "coverage_count": 34,
+      "mention_count": 205,
+      "importance_score": 36.073,
+      "latest_coverage_at": "2026-11-16T01:42:32+00:00"
     },
     {
-      "id": "3123f00458c9",
-      "title": "Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités",
-      "summary": "Face à la multiplication des blocages et des violences aux abords des établissements scolaires, la préfecture de police de Paris a pris un arrêté interdisant les rassemblements non déclarés dans un rayon de 100 mètres autour de dix lycées et cinq sites universitaires, du lundi 16 au vendredi 20 novembre inclus.",
-      "source": "Le Figaro",
-      "feed_rank": 4,
-      "url": "https://www.lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115",
-      "published_at": "2026-11-15T22:58:28+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Blocages à Paris : la préfecture durcit le ton et interdit les rassemblements autour de certains lycées et universités ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "Le Figaro",
-        "TF1 Info (TF1 / LCI)",
-        "BFMTV",
-        "L'Obs",
-        "Libération",
-        "20 Minutes",
-        "La Croix",
-        "La Dépêche du Midi",
-        "Le JDD"
-      ],
-      "coverage_count": 12,
-      "mention_count": 16,
-      "importance_score": 24.752,
-      "latest_coverage_at": "2026-11-15T22:58:28+00:00"
-    },
-    {
-      "id": "f6dcbc031e76",
-      "title": "REPLAY. Guerre en Ukraine : \"Tout acte hostile aura des conséquences...\" L'Estonie annonce la fermeture totale de sa frontière avec la Russie après une nouvelle \"opération de sabotage\"",
-      "summary": "Suivez l'actualité de la guerre en Ukraine, en direct toute la journée sur ladepeche.fr, ce dimanche 15 novembre 2026.",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 10,
-      "url": "https://www.ladepeche.fr/2026/11/15/direct-guerre-en-ukraine-pour-emmanuel-macron-emmanuel-macron-ceux-qui-veulent-rationner-laide-a-lukraine-veulent-lobliger-a-une-paix-injuste-13652719.php",
-      "published_at": "2026-11-15T21:48:22+00:00",
-      "category": "International",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « REPLAY. Guerre en Ukraine : \"Tout acte hostile aura des conséquences...\" L'Estonie annonce la fermeture totale de sa frontière avec la Russie après un ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "France 24",
-        "RFI",
-        "Euronews",
-        "L'Opinion",
-        "Sud Ouest",
-        "20 Minutes",
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 10,
-      "mention_count": 10,
-      "importance_score": 22.97,
-      "latest_coverage_at": "2026-11-15T21:48:22+00:00"
-    },
-    {
-      "id": "d29933969f38",
-      "title": "République tchèque: 400 000 manifestants à Prague contre la réforme de l'audiovisuel public",
-      "summary": "Une importante manifestation s'est tenue, dimanche 15 novembre à Prague, en République tchèque, contre le gouvernement du milliardaire Andrej Babis et son projet de suppression de la redevance audiovisuelle. Selon les organisateurs, environ 400 000 personnes ont participé au rassemblement, l'un des plus importants de ces dernières décennies dans le pays.",
-      "source": "RFI",
-      "feed_rank": 5,
-      "url": "https://www.rfi.fr/fr/europe/20261115-r%C3%A9publique-tch%C3%A8que-400-000-manifestants-%C3%A0-prague-contre-la-r%C3%A9forme-de-l-audiovisuel-public",
-      "published_at": "2026-11-15T20:42:41+00:00",
+      "id": "6882ce02fe4e",
+      "title": "Réforme du financement des médias publics : les Tchèques manifestent en masse",
+      "summary": "Des manifestants à perte de vue au parc Letna de Prague. Ce lieu de contestation historique de la capitale tchèque accueille, dimanche, son plus grand rassemblement depuis la Révolution de velours en 1989. Le motif : la défense de l'audiovisuel public. L'exécutif souhaite remplacer l'actuel système de redevance finançant la télévision et la radio…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-r%C3%A9forme-du-financement-des-m%C3%A9dias-publics-les-tch%C3%A8ques-manifestent-en-masse",
+      "published_at": "2026-11-16T02:09:48+00:00",
       "category": "Médias & communication",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « République tchèque: 400 000 manifestants à Prague contre la réforme de l'audiovisuel public ».",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Réforme du financement des médias publics : les Tchèques manifestent en masse ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
+        "France 24",
         "RFI",
         "Euronews",
         "France Culture",
@@ -146,23 +92,24 @@
         "Sud Ouest",
         "L'Humanité"
       ],
-      "coverage_count": 9,
-      "mention_count": 9,
-      "importance_score": 22.184,
-      "latest_coverage_at": "2026-11-15T20:42:41+00:00"
+      "coverage_count": 10,
+      "mention_count": 10,
+      "importance_score": 23.026,
+      "latest_coverage_at": "2026-11-16T02:09:48+00:00"
     },
     {
-      "id": "4093a97c2e63",
-      "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
-      "summary": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de relations extraconjugales qui ont provoqué sa chute.",
-      "source": "Le Monde",
-      "feed_rank": 11,
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
-      "published_at": "2026-11-15T23:22:46+00:00",
+      "id": "ee7ab55cb322",
+      "title": "Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia",
+      "summary": "Plusieurs patrons de la Silicon Valley, dont Elon Musk et Tim Sweeney, font partie des 157 000 signataires d'une lettre ouverte qui demande le retour de Jensen Huang à la tête de Nvidia, \"pendant qu'une enquête indépendante établit les faits\". Selon eux, il \"mérite une procédure équitable, pas un tribunal populaire\".",
+      "source": "France 24",
+      "feed_rank": 3,
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante",
+      "published_at": "2026-11-16T00:11:15+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité concerne des personnes et la relation entre une organisation et ses équipes. La communication interne doit être cohérente avec les décisions réelles, préciser le calendrier et les accompagnements prévus, et respecter la dignité des personnes concernées. Sujet suivi : « Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia ».",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia ».",
       "coverage_sources": [
         "Le Monde",
+        "France 24",
         "RFI",
         "Euronews",
         "L'Express",
@@ -171,10 +118,10 @@
         "Le Monde Informatique",
         "Next.ink"
       ],
-      "coverage_count": 8,
-      "mention_count": 12,
-      "importance_score": 21.798,
-      "latest_coverage_at": "2026-11-15T23:22:46+00:00"
+      "coverage_count": 9,
+      "mention_count": 13,
+      "importance_score": 22.65,
+      "latest_coverage_at": "2026-11-16T00:11:15+00:00"
     },
     {
       "id": "c3eb97ca849c",
@@ -198,7 +145,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.775,
+      "importance_score": 21.747,
       "latest_coverage_at": "2026-11-15T22:08:00+00:00"
     },
     {
@@ -223,7 +170,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 9,
-      "importance_score": 21.072,
+      "importance_score": 21.044,
       "latest_coverage_at": "2026-11-15T20:39:00+00:00"
     },
     {
@@ -231,7 +178,7 @@
       "title": "Gironde: une femme meurt après avoir été grièvement brûlée par son conjoint",
       "summary": "Une mère de famille est morte dans la nuit de samedi à dimanche. Elle a succombé à ses blessures après avoir été \"très grièvement brûlée\" par son conjoint, lui-même décédé dans l'incendie mardi dernier.",
       "source": "BFMTV",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.bfmtv.com/police-justice/gironde-une-femme-meurt-apres-avoir-ete-grievement-brulee-par-son-conjoint_AD-202611150431.html",
       "published_at": "2026-11-15T22:24:29+00:00",
       "category": "Société",
@@ -248,8 +195,56 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.033,
+      "importance_score": 21.009,
       "latest_coverage_at": "2026-11-15T22:24:29+00:00"
+    },
+    {
+      "id": "b6e41cdd15e8",
+      "title": "« Je vis en hypervigilance constante » : ciblée par l’auteur de l’attentat de Trappes, Sandrine Rousseau dénonce la responsabilité du gouvernement",
+      "summary": "Un Post-it avec une liste de quatre personnalités de gauche a été retrouvé chez Kevin T. lors de la perquisition de son domicile le 23 octobre. Parmi ces noms figure celui de la députée écologiste de Paris Sandrine Rousseau, qui confie en avoir été informée par la presse et met en cause la responsabilité du bloc central dans la banalisation de la menace…",
+      "source": "L'Humanité",
+      "feed_rank": 10,
+      "url": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/je-vis-en-hypervigilance-constante-ciblee-par-lauteur-de-lattentat-de-trappes-sandrine-rousseau-denonce-la-responsabilite-du-gouvernement",
+      "published_at": "2026-11-15T16:52:48+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « « Je vis en hypervigilance constante » : ciblée par l’auteur de l’attentat de Trappes, Sandrine Rousseau dénonce la responsabilité du gouvernement ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "L'Obs",
+        "Libération",
+        "L'Humanité",
+        "Le JDD",
+        "Reporterre"
+      ],
+      "coverage_count": 7,
+      "mention_count": 10,
+      "importance_score": 20.725,
+      "latest_coverage_at": "2026-11-15T18:02:53+00:00"
+    },
+    {
+      "id": "f0457366d60b",
+      "title": "Guadeloupe : Une fusillade lors d’une soirée privée fait un mort",
+      "summary": "<p>Une <a href=\"https://www.20minutes.fr/dossier/fusillade\">fusillade</a> a une nouvelle fois endeuillé ce week-end la <a href=\"https://www.20minutes.fr/france/guadeloupe/\">Guadeloupe</a>. Une personne a été tuée et trois ou quatre ont été blessées lors de tirs aux Abymes, en marge d’une soirée privée dans la nuit de samedi à dimanche.</p><p>La…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/faits_divers/4263008-20261116-guadeloupe-fusillade-lors-soiree-privee-fait-mort?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-16T01:27:15+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Guadeloupe : Une fusillade lors d’une soirée privée fait un mort » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Figaro",
+        "CNews",
+        "Libération",
+        "Ouest-France",
+        "20 Minutes"
+      ],
+      "coverage_count": 7,
+      "mention_count": 7,
+      "importance_score": 20.255,
+      "latest_coverage_at": "2026-11-16T01:27:15+00:00"
     },
     {
       "id": "c19a23dc0080",
@@ -271,61 +266,38 @@
       ],
       "coverage_count": 6,
       "mention_count": 10,
-      "importance_score": 19.916,
+      "importance_score": 19.858,
       "latest_coverage_at": "2026-11-15T19:44:28+00:00"
     },
     {
-      "id": "b6e41cdd15e8",
-      "title": "« Je vis en hypervigilance constante » : ciblée par l’auteur de l’attentat de Trappes, Sandrine Rousseau dénonce la responsabilité du gouvernement",
-      "summary": "Un Post-it avec une liste de quatre personnalités de gauche a été retrouvé chez Kevin T. lors de la perquisition de son domicile le 23 octobre. Parmi ces noms figure celui de la députée écologiste de Paris Sandrine Rousseau, qui confie en avoir été informée par la presse et met en cause la responsabilité du bloc central dans la banalisation de la menace…",
-      "source": "L'Humanité",
-      "feed_rank": 10,
-      "url": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/je-vis-en-hypervigilance-constante-ciblee-par-lauteur-de-lattentat-de-trappes-sandrine-rousseau-denonce-la-responsabilite-du-gouvernement",
-      "published_at": "2026-11-15T16:52:48+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « « Je vis en hypervigilance constante » : ciblée par l’auteur de l’attentat de Trappes, Sandrine Rousseau dénonce la responsabilité du gouvernement ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Libération",
-        "L'Humanité",
-        "Le JDD",
-        "Reporterre"
-      ],
-      "coverage_count": 6,
-      "mention_count": 9,
-      "importance_score": 19.667,
-      "latest_coverage_at": "2026-11-15T18:02:53+00:00"
-    },
-    {
-      "id": "a72e0fea1a1a",
-      "title": "\"Elle était dans un trou d'eau\" : les images du sauvetage d'une septuagénaire prise au piège par les intempéries dans l'Hérault",
-      "summary": "De violentes intempéries ont touché l'est du département de l'Hérault. Une femme de 73 ans a été retrouvée \"saine et sauve\" après avoir passé toute la nuit dans son véhicule. Les images de l'opération de sauvetage sont à retrouver dans la vidéo en tête de cet article.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 13,
-      "url": "https://www.tf1info.fr/meteo/reportage-elle-etait-dans-un-trou-d-eau-les-images-du-sauvetage-d-une-septuagenaire-prise-au-piege-par-les-intemperies-dans-l-herault-2475999.html",
-      "published_at": "2026-11-15T20:28:40+00:00",
+      "id": "f4de6c5c3304",
+      "title": "En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones",
+      "summary": "« Le cri de la terre et le cri des pauvres s’élèvent ensemble », a déclaré, dimanche, le souverain pontife, lors d’une nouvelle étape de sa tournée en Amérique latine. Il a notamment dénoncé « l’exploitation » des ressources et l’assassinat de chefs autochtones qui défendent leurs terres.",
+      "source": "Le Monde",
+      "feed_rank": 11,
+      "url": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html",
+      "published_at": "2026-11-16T01:23:44+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Elle était dans un trou d'eau\" : les images du sauvetage d'une septuagénaire prise au piège par les intempéries dans l'Hérault » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones ».",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "TF1 Info (TF1 / LCI)",
-        "France Inter",
-        "20 Minutes",
-        "Midi Libre"
+        "Le Monde",
+        "France 24",
+        "Le Figaro",
+        "Ouest-France",
+        "Sud Ouest",
+        "La Croix"
       ],
       "coverage_count": 6,
-      "mention_count": 7,
-      "importance_score": 19.139,
-      "latest_coverage_at": "2026-11-15T20:28:40+00:00"
+      "mention_count": 6,
+      "importance_score": 18.993,
+      "latest_coverage_at": "2026-11-16T01:23:44+00:00"
     },
     {
       "id": "2c606330db8b",
       "title": "Gaza : Royaume-Uni, Italie, Australie et Canada appellent Israël à permettre un accès humanitaire « immédiat » et « sans entrave » dans le territoire palestinien",
       "summary": "L’enclave a été frappée par des pluies diluviennes ayant entraîné l’inondation de milliers de tentes de personnes déplacées. Près de 150 000 tentes et autres fournitures vitales sont « bloquées » à la frontière, selon les chefs de la diplomatie des quatre pays occidentaux.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/international/article/2026/11/15/gaza-royaume-uni-italie-australie-et-canada-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-dans-le-territoire-palestinien_6811057_3210.html",
       "published_at": "2026-11-15T21:01:00+00:00",
       "category": "International",
@@ -340,7 +312,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.011,
+      "importance_score": 18.989,
       "latest_coverage_at": "2026-11-15T21:01:00+00:00"
     },
     {
@@ -362,30 +334,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.898,
+      "importance_score": 17.863,
       "latest_coverage_at": "2026-11-15T19:17:44+00:00"
-    },
-    {
-      "id": "4e97507f744e",
-      "title": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
-      "summary": "Le redéploiement des troupes gouvernementales de la région de Bab Al-Mandab vers la capitale provisoire va permettre aux houthistes de consolider leur contrôle du détroit stratégique de Bab Al-Mandab, qui relie l’Asie à l’Europe via le canal de Suez.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
-      "published_at": "2026-11-15T20:16:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "France 24",
-        "Libération"
-      ],
-      "coverage_count": 5,
-      "mention_count": 5,
-      "importance_score": 17.828,
-      "latest_coverage_at": "2026-11-15T20:16:11+00:00"
     },
     {
       "id": "152edd81c96c",
@@ -405,15 +355,36 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.783,
+      "importance_score": 16.776,
       "latest_coverage_at": "2026-11-15T21:49:51+00:00"
+    },
+    {
+      "id": "d2c3b2da1de4",
+      "title": "Aden, au Yémen, se barricade face à l'offensive des Houthis",
+      "summary": "Les rebelles Houthis revendiquent la prise de zones montagneuses, tout près du détroit stratégique de Bab el-Mandeb. Ils se trouvent à quelques dizaines de kilomètres de la ville d'Aden, faisant réagir les forces yéménites. Le camp gouvernemental redéploie des troupes dans le sud du pays, selon des sources militaires et gouvernementales dimanche à l'AFP.…",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-aden-au-y%C3%A9men-se-barricade-face-%C3%A0-l-offensive-des-houthis",
+      "published_at": "2026-11-16T02:06:20+00:00",
+      "category": "Société",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Aden, au Yémen, se barricade face à l'offensive des Houthis ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24",
+        "Libération"
+      ],
+      "coverage_count": 4,
+      "mention_count": 5,
+      "importance_score": 16.735,
+      "latest_coverage_at": "2026-11-16T02:06:20+00:00"
     },
     {
       "id": "ac1b7d749e1f",
       "title": "« Guillaume Pley agresseur »… Le spectacle du fondateur de Legend perturbé par des militantes féministes",
       "summary": "<p><a href=\"https://www.20minutes.fr/arts-stars/medias/4238689-20260811-affaire-guillaume-pley-nouveau-temoignage-met-cause-fondateur-media-legend\">« Guillaume Pley agresseur »</a>, ont scandé, dimanche soir, quelques militantes féministes lors de sa représentation du « Legend Tour », à l’Accor Arena. Elles ont pris à partie l’animateur, <a…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.20minutes.fr/societe/4262991-20261115-guillaume-pley-agresseur-spectacle-fondateur-legend-perturbe-militantes-feministes?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T21:00:48+00:00",
       "category": "Médias & communication",
@@ -426,8 +397,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.561,
+      "importance_score": 16.52,
       "latest_coverage_at": "2026-11-15T21:00:48+00:00"
+    },
+    {
+      "id": "0a27cc230197",
+      "title": "Mexique : « Le chef des chefs »… Décès du puissant baron de la drogue Félix Gallardo",
+      "summary": "<p>Il était l’un des chefs du <a href=\"https://www.20minutes.fr/dossier/narcotrafiquants\">narcotrafic</a> les plus puissants et une pièce maîtresse dans l’émergence des grands cartels au <a href=\"https://www.20minutes.fr/dossier/mexique\">Mexique</a>. Miguel Ángel Félix Gallardo est décédé dimanche à l’âge de 80 ans dans un hôpital à Guadalajara, ont…",
+      "source": "20 Minutes",
+      "feed_rank": 3,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4262996-20261116-mexique-chef-chefs-deces-puissant-baron-drogue-felix-gallardo?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-16T00:34:16+00:00",
+      "category": "Société",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Mexique : « Le chef des chefs »… Décès du puissant baron de la drogue Félix Gallardo ».",
+      "coverage_sources": [
+        "France 24",
+        "Sud Ouest",
+        "20 Minutes",
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.449,
+      "latest_coverage_at": "2026-11-16T00:34:16+00:00"
     },
     {
       "id": "fb42fb4faad5",
@@ -447,8 +439,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.451,
+      "importance_score": 16.444,
       "latest_coverage_at": "2026-11-15T18:24:44+00:00"
+    },
+    {
+      "id": "a72e0fea1a1a",
+      "title": "\"Elle était dans un trou d'eau\" : les images du sauvetage d'une septuagénaire prise au piège par les intempéries dans l'Hérault",
+      "summary": "De violentes intempéries ont touché l'est du département de l'Hérault. Une femme de 73 ans a été retrouvée \"saine et sauve\" après avoir passé toute la nuit dans son véhicule. Les images de l'opération de sauvetage sont à retrouver dans la vidéo en tête de cet article.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 13,
+      "url": "https://www.tf1info.fr/meteo/reportage-elle-etait-dans-un-trou-d-eau-les-images-du-sauvetage-d-une-septuagenaire-prise-au-piege-par-les-intemperies-dans-l-herault-2475999.html",
+      "published_at": "2026-11-15T20:28:40+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Elle était dans un trou d'eau\" : les images du sauvetage d'une septuagénaire prise au piège par les intempéries dans l'Hérault » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "TF1 Info (TF1 / LCI)",
+        "France Inter"
+      ],
+      "coverage_count": 4,
+      "mention_count": 5,
+      "importance_score": 16.435,
+      "latest_coverage_at": "2026-11-15T20:28:40+00:00"
     },
     {
       "id": "8a6f6b599292",
@@ -467,65 +480,273 @@
       ],
       "coverage_count": 3,
       "mention_count": 10,
-      "importance_score": 16.259,
+      "importance_score": 16.251,
       "latest_coverage_at": "2026-11-15T17:46:41+00:00"
     },
     {
-      "id": "e673ab962ace",
-      "title": "Guadeloupe : un mort et plusieurs blessés dans des tirs en marge d'une soirée",
-      "summary": "Une personne a été tuée et au moins trois autres ont été blessées dans la nuit du samedi 14 au dimanche 15 novembre 2026, aux Abymes, en Guadeloupe. Une soirée qui a viré au drame. Dans la nuit du 14 au 15 novembre, vers 3h du matin, heure locale, soit 8h à Paris, plusieurs coups de feu ont été tirés en marge d'une soirée privée organisée dans une villa…",
-      "source": "CNews",
-      "feed_rank": 6,
-      "url": "https://www.cnews.fr/france/2026-11-15/guadeloupe-un-mort-et-plusieurs-blesses-dans-des-tirs-en-marge-dune-soiree",
-      "published_at": "2026-11-15T21:32:00+00:00",
+      "id": "f8536aae1884",
+      "title": "Éditorial. Le pouvoir fou des « demi-dieux » de la tech",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "Sud Ouest",
+      "feed_rank": 5,
+      "url": "https://www.sudouest.fr/economie/economie-du-numerique/editorial-le-pouvoir-fou-des-demi-dieux-de-la-tech-31540735.php",
+      "published_at": "2026-11-15T20:10:17+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Guadeloupe : un mort et plusieurs blessés dans des tirs en marge d'une soirée » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Éditorial. Le pouvoir fou des « demi-dieux » de la tech » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "CNews",
-        "Libération"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.127,
-      "latest_coverage_at": "2026-11-15T21:32:00+00:00"
-    },
-    {
-      "id": "f89b5ac48262",
-      "title": "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine",
-      "summary": "RÉCIT - Après onze jours en Uruguay, en Argentine et au Pérou, où près de 10 millions de personnes sont venues l’acclamer, le pape repart ce lundi pour Rome.",
-      "source": "Le Figaro",
-      "feed_rank": 19,
-      "url": "https://www.lefigaro.fr/actualite-france/les-foules-et-la-liesse-le-recit-du-voyage-triomphal-de-leon-xiv-en-amerique-latine-20261115",
-      "published_at": "2026-11-15T19:53:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France 24",
-        "Le Figaro",
+        "France Inter",
         "Sud Ouest",
-        "La Croix"
+        "Alternatives économiques"
       ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.054,
-      "latest_coverage_at": "2026-11-15T19:53:11+00:00"
+      "coverage_count": 3,
+      "mention_count": 7,
+      "importance_score": 15.747,
+      "latest_coverage_at": "2026-11-15T20:10:17+00:00"
     }
   ],
   "articles": [
     {
-      "id": "4093a97c2e63",
-      "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
-      "summary": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face aux allégations de relations extraconjugales qui ont provoqué sa chute.",
-      "source": "Le Monde",
-      "feed_rank": 11,
-      "url": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
-      "published_at": "2026-11-15T23:22:46+00:00",
+      "id": "6882ce02fe4e",
+      "title": "Réforme du financement des médias publics : les Tchèques manifestent en masse",
+      "summary": "Des manifestants à perte de vue au parc Letna de Prague. Ce lieu de contestation historique de la capitale tchèque accueille, dimanche, son plus grand rassemblement depuis la Révolution de velours en 1989. Le motif : la défense de l'audiovisuel public. L'exécutif souhaite remplacer l'actuel système de redevance finançant la télévision et la radio…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-r%C3%A9forme-du-financement-des-m%C3%A9dias-publics-les-tch%C3%A8ques-manifestent-en-masse",
+      "published_at": "2026-11-16T02:09:48+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Réforme du financement des médias publics : les Tchèques manifestent en masse ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3
+    },
+    {
+      "id": "d2c3b2da1de4",
+      "title": "Aden, au Yémen, se barricade face à l'offensive des Houthis",
+      "summary": "Les rebelles Houthis revendiquent la prise de zones montagneuses, tout près du détroit stratégique de Bab el-Mandeb. Ils se trouvent à quelques dizaines de kilomètres de la ville d'Aden, faisant réagir les forces yéménites. Le camp gouvernemental redéploie des troupes dans le sud du pays, selon des sources militaires et gouvernementales dimanche à l'AFP.…",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-aden-au-y%C3%A9men-se-barricade-face-%C3%A0-l-offensive-des-houthis",
+      "published_at": "2026-11-16T02:06:20+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité concerne des personnes et la relation entre une organisation et ses équipes. La communication interne doit être cohérente avec les décisions réelles, préciser le calendrier et les accompagnements prévus, et respecter la dignité des personnes concernées. Sujet suivi : « Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia ».",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Aden, au Yémen, se barricade face à l'offensive des Houthis ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "82efb9b36a3d",
+      "title": "France-Turquie : les Bleus renouent avec la victoire, mais exposent une nouvelle fois leurs lacunes",
+      "summary": "Kylian Mbappé (à droite) dispute le ballon à l’attaquant turc Baris Alper Yilmaz lors du match de Ligue des nations de l’UEFA France-Turquie, au stade Atlantique de Bordeaux, le 15 novembre 2026.",
+      "source": "Le Monde",
+      "feed_rank": 5,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/16/france-turquie-les-bleus-renouent-avec-la-victoire-mais-exposent-une-nouvelle-fois-leurs-lacunes_6811138_3242.html",
+      "published_at": "2026-11-16T01:42:32+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Turquie : les Bleus renouent avec la victoire, mais exposent une nouvelle fois leurs lacunes ».",
       "coverage_sources": [
         "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f4de6c5c3304",
+      "title": "En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones",
+      "summary": "« Le cri de la terre et le cri des pauvres s’élèvent ensemble », a déclaré, dimanche, le souverain pontife, lors d’une nouvelle étape de sa tournée en Amérique latine. Il a notamment dénoncé « l’exploitation » des ressources et l’assassinat de chefs autochtones qui défendent leurs terres.",
+      "source": "Le Monde",
+      "feed_rank": 11,
+      "url": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html",
+      "published_at": "2026-11-16T01:23:44+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d89e73755bb6",
+      "title": "«Je vais l’attraper dans le vestiaire», Zidane a «haussé le ton», la joie touchante de Kroupi… Les réactions après France-Turquie",
+      "summary": "L’équipe de France s’est imposée sans briller face à la Turquie (2-1), ce dimanche à Bordeaux. Retrouvez les réactions des Bleus à l’issue de cette victoire, synonyme de qualification pour les quarts de finale de la Ligue des nations.",
+      "source": "Le Figaro",
+      "feed_rank": 14,
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-le-rappel-a-l-ordre-de-konate-la-joie-touchante-de-kroupi-toutes-les-reactions-des-bleus-20261116",
+      "published_at": "2026-11-16T01:20:14+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Je vais l’attraper dans le vestiaire», Zidane a «haussé le ton», la joie touchante de Kroupi… Les réactions après France-Turquie » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ec878a181f94",
+      "title": "La playlist soundsystem de Djubaka",
+      "summary": "La playlist de nouveautés de notre programmateur musical, Djubaka.",
+      "source": "France Inter",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-lundi-16-novembre-2026-6240011",
+      "published_at": "2026-11-16T01:03:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La playlist soundsystem de Djubaka » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "8e330d2de206",
+      "title": "En Amazonie, Léon XIV dénonce «l’abandon» des populations autochtones et lance une alerte pour la préservation de la nature",
+      "summary": "La dernière étape du pape au Pérou l’a conduit dimanche de Cusco, dans les Andes, à Pucallpa, en Amazonie péruvienne, une journée haute en couleurs marquée par de fortes prises de position.",
+      "source": "Le Figaro",
+      "feed_rank": 20,
+      "url": "https://www.lefigaro.fr/actualite-france/en-amazonie-leon-xiv-denonce-l-abandon-des-populations-autochtones-et-lance-une-alerte-pour-la-preservation-de-la-nature-20261116",
+      "published_at": "2026-11-16T01:00:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Amazonie, Léon XIV dénonce «l’abandon» des populations autochtones et lance une alerte pour la préservation de la nature » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0a27cc230197",
+      "title": "Mexique : « Le chef des chefs »… Décès du puissant baron de la drogue Félix Gallardo",
+      "summary": "<p>Il était l’un des chefs du <a href=\"https://www.20minutes.fr/dossier/narcotrafiquants\">narcotrafic</a> les plus puissants et une pièce maîtresse dans l’émergence des grands cartels au <a href=\"https://www.20minutes.fr/dossier/mexique\">Mexique</a>. Miguel Ángel Félix Gallardo est décédé dimanche à l’âge de 80 ans dans un hôpital à Guadalajara, ont…",
+      "source": "20 Minutes",
+      "feed_rank": 3,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4262996-20261116-mexique-chef-chefs-deces-puissant-baron-drogue-felix-gallardo?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-16T00:34:16+00:00",
+      "category": "Société",
+      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Mexique : « Le chef des chefs »… Décès du puissant baron de la drogue Félix Gallardo ».",
+      "coverage_sources": [
+        "France 24",
+        "Sud Ouest",
+        "20 Minutes",
+        "Le Dauphiné Libéré"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4
+    },
+    {
+      "id": "dc7505ceea6c",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
+      "summary": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du 1er décembre, après une nouvelle tentative de sabotage.",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
+      "published_at": "2026-11-16T00:20:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer histor ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ee7ab55cb322",
+      "title": "Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia",
+      "summary": "Plusieurs patrons de la Silicon Valley, dont Elon Musk et Tim Sweeney, font partie des 157 000 signataires d'une lettre ouverte qui demande le retour de Jensen Huang à la tête de Nvidia, \"pendant qu'une enquête indépendante établit les faits\". Selon eux, il \"mérite une procédure équitable, pas un tribunal populaire\".",
+      "source": "France 24",
+      "feed_rank": 3,
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante",
+      "published_at": "2026-11-16T00:11:15+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia ».",
+      "coverage_sources": [
+        "Le Monde",
+        "France 24"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "aca4f8deedaf",
+      "title": "Honduras : une caravane d'une centaine de personnes part vers les États-Unis",
+      "summary": "Les États-Unis maintiennent pour l’heure leur politique très ferme en matière d’immigration, malgré la victoire des démocrates dans les deux chambres législatives lors des élections de mi-mandat le 3 novembre.",
+      "source": "Le Figaro",
+      "feed_rank": 13,
+      "url": "https://www.lefigaro.fr/international/honduras-une-caravane-d-une-centaine-de-personnes-part-vers-les-etats-unis-20261116",
+      "published_at": "2026-11-16T00:08:06+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Honduras : une caravane d'une centaine de personnes part vers les États-Unis ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "0adde0e17fbb",
+      "title": "Paul Cézanne, la vérité à tout prix 10 : Cézanne \"père de la peinture moderne\", et après ?",
+      "summary": "Qui était Cézanne ? Derrière le \"père de la peinture moderne\", derrière le précurseur du cubisme et de l'art abstrait, cette émission réalisée en direct du colloque consacré au peintre à Aix-en-Provence, défend une approche d'un Cézanne différent. Ce débat est mené par Pierre Descargues en 1982.",
+      "source": "France Culture",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/cezanne-pere-de-la-peinture-moderne-et-apres-8790337",
+      "published_at": "2026-11-16T00:08:04+00:00",
+      "category": "Économie",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Paul Cézanne, la vérité à tout prix 10 : Cézanne \"père de la peinture moderne\", et après ? ».",
+      "coverage_sources": [
+        "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3c024b45e927",
+      "title": "Colère sociale : l'État dans l'impasse ? - 15/11",
+      "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-colere-sociale-l-etat-dans-l-impasse-15-11_VN-202611150461.html",
+      "published_at": "2026-11-15T23:31:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Colère sociale : l'État dans l'impasse ? - 15/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "151de01ce939",
+      "title": "Littérature: avec «La Vie brute», Joy Sorman part sur les traces de l'artiste Irène Gérard",
+      "summary": "Autrice d'une dizaine de romans, Joy Sorman explore l'art brut dans La Vie brute (Flammarion). Elle part sur les traces d'Irène Gérard, une artiste en marge des courants, et ouvre une autre temporalité, à rebours d'un monde qui va à toute vitesse. Un livre fait de silence, où la communication ne passe pas par le langage et où le fracas du monde se tait…",
+      "source": "RFI",
+      "feed_rank": 18,
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261115-litt%C3%A9rature-avec-la-vie-brute-joy-sorman-part-sur-les-traces-de-l-artiste-ir%C3%A8ne-g%C3%A9rard",
+      "published_at": "2026-11-15T23:29:24+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Littérature: avec «La Vie brute», Joy Sorman part sur les traces de l'artiste Irène Gérard ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f4b12c0e99ef",
+      "title": "Les Émirats arabes unis, plaque tournante de l'or exporté illégalement d'Afrique",
+      "summary": "C'est une étude qui montre l'ampleur de la contrebande de l'or africain. Plus de 450 tonnes d'or sorties illégalement des pays producteurs ont transité par les Émirats arabes unis en 2024, révèle l'enquête de l'ONG Swissaid.",
+      "source": "RFI",
+      "feed_rank": 11,
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261115-les-%C3%A9mirats-arabes-unis-plaque-tournante-de-l-or-export%C3%A9-ill%C3%A9galement-d-afrique",
+      "published_at": "2026-11-15T23:27:54+00:00",
+      "category": "International",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Les Émirats arabes unis, plaque tournante de l'or exporté illégalement d'Afrique ».",
+      "coverage_sources": [
+        "RFI"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -535,7 +756,7 @@
       "title": "France - Turquie. « Sur le contenu, on peut être perplexe » : Zidane et les Bleus entre satisfaction et soucis du détail",
       "summary": "L’équipe de France a validé son billet pour les quarts de finale de la Ligue des nations en dominant poussivement la Turquie (2-1), ce dimanche 15 novembre 2026. Junior Kroupi a inscrit son tout premier but sous le maillot des Bleus, tandis que la défense s’est montrée un peu fébrile par moments. Voici les réactions des Français après la rencontre.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/france-turquie-sur-le-contenu-on-peut-etre-perplexe-zidane-et-les-bleus-entre-satisfaction-et-soucis-du-detail-0d0495a8-e14a-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T23:17:20+00:00",
       "category": "Société",
@@ -551,7 +772,7 @@
       "title": "France - Turquie. Sorti à la pause, Mike Maignan est touché à la hanche et va passer des examens",
       "summary": "Après avoir perdu Désiré Doué avant la rencontre face à la Turquie en Ligue des nations, c’est Mike Maignan qui a cédé sa place à Guillaume Restes à la mi-temps du match à Bordeaux (2-1). Le gardien de l’AC Milan est touché à la hanche.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/france-turquie-sorti-a-la-pause-mike-maignan-est-touche-a-la-hanche-et-va-passer-des-examens-74dca208-e148-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T23:11:47+00:00",
       "category": "Sport",
@@ -567,7 +788,7 @@
       "title": "Paul Cézanne, la vérité à tout prix 9 : Sur les pas de Cézanne dans la campagne aixoise",
       "summary": "\"Moi vivant, aucun Cézanne n'entrera au musée !\" Quel est le regard posé sur Cézanne en 1982 ? Pierre Descargues, dans \"Les Après-midi de France Culture\" en direct d'Aix-en-Provence, revient sur la carrière et l'oeuvre du peintre à l'occasion d'une exposition et d'un colloque en son honneur.",
       "source": "France Culture",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/sur-les-pas-de-cezanne-dans-la-campagne-aixoise-5619636",
       "published_at": "2026-11-15T23:11:02+00:00",
       "category": "Économie",
@@ -583,7 +804,7 @@
       "title": "France-Turquie : poussifs mais qualifiés, les Bleus remplissent leur mission",
       "summary": "Dans un match pas toujours maîtrisé, l’équipe de France a dominé la Turquie (2-1) et validé sa qualification en quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
       "published_at": "2026-11-15T23:10:25+00:00",
       "category": "Sport",
@@ -595,27 +816,11 @@
       "mention_count": 1
     },
     {
-      "id": "d1752754a8a2",
-      "title": "Qualification, agacement et possibles retrouvailles avec l’Espagne : les vérités de Zidane après France-Turquie",
-      "summary": "Le sélectionneur de l’équipe de France, très pressé, a répondu aux questions des médias après la victoire contre la Turquie dimanche soir (2-1), synonyme de qualification en quart de finale de Ligue des nations.",
-      "source": "Le Figaro",
-      "feed_rank": 12,
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/qualification-agacement-et-possible-retrouvaille-avec-l-espagne-les-verites-de-zidane-apres-france-turquie-20261115",
-      "published_at": "2026-11-15T23:09:45+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Qualification, agacement et possibles retrouvailles avec l’Espagne : les vérités de Zidane après France-Turquie ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "3c2cbcc1c305",
       "title": "Les notes des Bleus face à la Turquie : Mbappé percutant, Da Cunha clairvoyant, Olise agaçant",
       "summary": "Découvrez les notes de l’équipe de France après la victoire contre la Turquie (2-1) dimanche soir lors de la 6e et dernière journée de Ligue des nations.",
       "source": "Le Figaro",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
       "published_at": "2026-11-15T23:09:43+00:00",
       "category": "Société",
@@ -643,11 +848,43 @@
       "mention_count": 1
     },
     {
+      "id": "c9ce43c5436c",
+      "title": "Au salon du Made in France, l'industrie française de l'habillement joue sa survie",
+      "summary": "La 14e édition du salon du Made in France a refermé ses portes, dimanche 15 novembre dans la soirée, à Paris. Un millier d'exposants y étaient présents, à cinq mois de la présidentielle et dans un contexte morose pour l'économie française et le pouvoir d'achat. Dans le secteur de l'habillement, en grande difficulté, les marques qui produisent en France…",
+      "source": "RFI",
+      "feed_rank": 8,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261115-au-salon-du-made-in-france-l-industrie-fran%C3%A7aise-de-l-habillement-joue-sa-survie",
+      "published_at": "2026-11-15T23:04:18+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Au salon du Made in France, l'industrie française de l'habillement joue sa survie ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1b74ff90556e",
+      "title": "Au Royaume-Uni, des archives inédites pour retrouver les ancêtres victimes de l'esclavage",
+      "summary": "À Londres, au Royaume-Uni, des universités ont compilé et mis en ligne des archives pour créer un registre des personnes réduites en esclavage par les Britanniques dans leurs colonies, jusqu'au XIXe siècle. Jusqu'à présent, les registres disponibles identifiaient les propriétaires de plantations et de personnes asservies. C'est la première fois que sont…",
+      "source": "RFI",
+      "feed_rank": 7,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261115-au-royaume-uni-des-archives-in%C3%A9dites-pour-retrouver-les-anc%C3%AAtres-victimes-de-l-esclavage",
+      "published_at": "2026-11-15T23:02:19+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Au Royaume-Uni, des archives inédites pour retrouver les ancêtres victimes de l'esclavage ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "829aba2495fb",
       "title": "Paul Cézanne, la vérité à tout prix 8 : Sacha Guitry rend hommage à Paul Cézanne",
       "summary": "Sacha Guitry évoque le portrait de Cézanne par lui-même, un tableau qu'il possède. Il le définit comme \"le plus peintre de tous les peintres\", et rappelle qu'il a subi des critiques très dures. Un épisode de l'émission \"Cent merveilles\", diffusé pour la première fois le 17 janvier 1955.",
       "source": "France Culture",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/sacha-guitry-rend-hommage-a-paul-cezanne-1952395",
       "published_at": "2026-11-15T23:02:00+00:00",
       "category": "Économie",
@@ -695,7 +932,7 @@
       "title": "Alpinisme : l'expédition du Jannu Est, \"un tournant\" pour Benjamin Védrines",
       "summary": "Après huit mois loin de la scène médiatique, l'alpiniste Benjamin Védrines fait son retour en cette fin 2026. Au côtés d'un autre alpinistre français Nicolas Jean, il vient de remporter le Piolet d'Or, l'une des plus hautes distinction de l'alpinisme. Ce trophée vient récompenser leur ascension du Jannu Est (7 468 m) au Népal, une première dans…",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-alpinisme-l-exp%C3%A9dition-du-jannu-est-un-tournant-pour-benjamin-v%C3%A9drines",
       "published_at": "2026-11-15T22:58:04+00:00",
       "category": "Société",
@@ -711,7 +948,7 @@
       "title": "Seine-Saint-Denis: trois personnes placées en garde à vue après la découverte du corps d'une femme dans un garage",
       "summary": "Un garagiste, sa femme et une autre personne ont été placés en garde à vue après la découverte du cadavre d'une femme dans une camionnette garée dans un garage. Une enquête ouverte a été ouverte pour \"homicide volontaire aggravé\" et confiée à la police judiciaire de Seine-Saint-Denis.",
       "source": "BFMTV",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.bfmtv.com/police-justice/seine-saint-denis-trois-personnes-placees-en-garde-a-vue-apres-la-decouverte-du-corps-d-une-femme-dans-un-garage_AD-202611150445.html",
       "published_at": "2026-11-15T22:55:52+00:00",
       "category": "Société",
@@ -749,36 +986,17 @@
       "category": "Culture",
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Ligue des nations : l'équipe de France tête de série, quand aura lieu le tirage au sort des quarts de finale ? ».",
       "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
-        "Ouest-France"
+        "TF1 Info (TF1 / LCI)"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
-      "id": "953fea3f37c3",
-      "title": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
-      "summary": "Considéré comme l'un des plus puissants chefs du narcotrafic, Miguel Ángel Félix Gallardo est décédé dimanche dans un hôpital, où il avait été transféré en urgence, rapportent les autorités. Depuis 1989, il purgeait deux peines totalisant 77 ans de prison.",
-      "source": "France 24",
-      "feed_rank": 2,
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
-      "published_at": "2026-11-15T22:42:26+00:00",
-      "category": "Société",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort ».",
-      "coverage_sources": [
-        "France 24",
-        "Sud Ouest",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "064dae77a065",
       "title": "Droite et centre : une primaire façon \"Koh-Lanta\" - 15/11",
       "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-droite-et-centre-une-primaire-facon-koh-lanta-15-11_VN-202611150441.html",
       "published_at": "2026-11-15T22:40:51+00:00",
       "category": "Société",
@@ -794,7 +1012,7 @@
       "title": "Mobilisation lycéenne: \"Ce que je refuse, dans la réponse apportée par le gouvernement, c'est le mensonge\", déclare Laurence Garnier, sénatrice LR et porte-parole de Bruno Retailleau",
       "summary": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon. Dans les rangs de la droite et du centre, l'épineuse question de la primaire n'est toujours pas tranchée. Édouard Philippe se refuse toujours à ce scrutin intermédiaire, tandis que ses trois adversaires se disent prêts à y participer.",
       "source": "BFMTV",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-mobilisation-lyceenne-ce-que-je-refuse-dans-la-reponse-apportee-par-le-gouvernement-c-est-le-mensonge-declare-laurence-garnier-senatrice-lr-et-porte-parole-de-bruno-retailleau_VN-202611150439.html",
       "published_at": "2026-11-15T22:39:40+00:00",
       "category": "Politique",
@@ -810,7 +1028,7 @@
       "title": "Pas de retour à la normale avant lundi dans le ciel américain",
       "summary": "Des perturbations persistent dans le ciel américain dimanche mais devraient se résorber d’ici lundi. Une panne pendant des travaux de modernisation sur des infrastructures vieillissantes a entraîné une suspension du trafic aérien juste avant le week-end.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/monde/etats-unis/pas-de-retour-a-la-normale-avant-lundi-dans-le-ciel-americain-c5f2b7e0-e13e-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T22:38:10+00:00",
       "category": "Société",
@@ -826,7 +1044,7 @@
       "title": "Masters WTA. À 19 ans Mirra Andreeva est sur le toit du tennis féminin en remportant sa finale face à Elina Svitolina",
       "summary": "Elle n’a que 19 ans, mais a déjà remporté le Masters WTA après sa finale face à Elina Svitolina, ce dimanche 15 novembre 2026. La Russe Mirra Andreeva s’adjuge le tournoi de fin de saison entre les meilleures joueuses de l’année.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/tennis/wta/masters-wta-a-19-ans-mirra-andreeva-est-sur-le-toit-du-tennis-feminin-en-remportant-sa-finale-face-a-elina-svitolina-c5f91e14-e143-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T22:33:02+00:00",
       "category": "Sport",
@@ -858,7 +1076,7 @@
       "title": "Yannick Jadot invité de BFMTV - 15/11",
       "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-yannick-jadot-invite-de-bfmtv-15-11_VN-202611150436.html",
       "published_at": "2026-11-15T22:29:41+00:00",
       "category": "Société",
@@ -886,43 +1104,11 @@
       "mention_count": 1
     },
     {
-      "id": "49f7a7aa137f",
-      "title": "France-Turquie : le résumé de la qualification laborieuse des Bleus en quarts de finale de la Ligue des nations de football",
-      "summary": "L’équipe de France de football a dominé la Turquie (2-1), dimanche à Bordeaux, pour s’adjuger la première place du groupe A. Les Bleus connaîtront leurs adversaires en quarts de finale, vendredi, lors du tirage au sort à Nyon (Suisse).",
-      "source": "Le Monde",
-      "feed_rank": 5,
-      "url": "https://www.lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
-      "published_at": "2026-11-15T22:24:18+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Turquie : le résumé de la qualification laborieuse des Bleus en quarts de finale de la Ligue des nations de football ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2e012ee32ffe",
-      "title": "«Nous n’avons pas été à la hauteur» : Amazon perd 40 satellites après une défaillance de la fusée Vulcan lors de son lancement",
-      "summary": "La fusée Vulcan, qui transportait la plus importante cargaison de satellites jamais envoyée par Amazon, a subi une anomalie dix minutes après son décollage de Floride.",
-      "source": "Le Figaro",
-      "feed_rank": 13,
-      "url": "https://www.lefigaro.fr/secteur/high-tech/nous-n-avons-pas-ete-a-la-hauteur-amazon-perd-40-satellites-apres-une-defaillance-de-la-fusee-vulcan-lors-de-son-lancement-20261115",
-      "published_at": "2026-11-15T22:23:57+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Nous n’avons pas été à la hauteur» : Amazon perd 40 satellites après une défaillance de la fusée Vulcan lors de son lancement » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "ebae669ae4c2",
       "title": "Ebola en RDC : 55 471 décès pour 11 197 cas cumulés ont été recensés en six mois",
       "summary": "En RD Congo, six mois que sévit l’épidémie d’Ebola. Déclarée officiellement le 15 mai dernier, cette 17ᵉ épidémie est devenue, en quelques mois, la plus meurtrière de l’histoire du pays, qui compte plus de 100 millions d’habitants. Selon le dernier bilan des autorités sanitaires, 5 471 décès pour 11 197 cas cumulés ont été recensés.",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261115-ebola-en-rdc-55-471-d%C3%A9c%C3%A8s-pour-11-197-cas-cumul%C3%A9s-ont-%C3%A9t%C3%A9-recens%C3%A9s-en-six-mois",
       "published_at": "2026-11-15T22:17:57+00:00",
       "category": "Société",
@@ -1034,30 +1220,11 @@
       "mention_count": 3
     },
     {
-      "id": "3a801db16061",
-      "title": "Paris : les rassemblements interdits \"dans un rayon de 100 mètres\" autour de plusieurs lycées et universités",
-      "summary": "La préfecture de police de Paris interdit les rassemblements autour de plusieurs lycées et sites universitaires de la capitale. L'interdiction entrera en vigueur lundi et se poursuivra jusqu'à vendredi inclus. La décision de la préfecture fait suite à de \"nombreux débordements et blocages\" aux abords des établissements dans le cadre du mouvement social.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
-      "url": "https://www.tf1info.fr/societe/paris-les-rassemblements-interdits-dans-un-rayon-de-100-metres-autour-de-plusieurs-lycees-et-universites-2476017.html",
-      "published_at": "2026-11-15T22:02:07+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Paris : les rassemblements interdits \"dans un rayon de 100 mètres\" autour de plusieurs lycées et universités ».",
-      "coverage_sources": [
-        "Le Monde",
-        "Le Figaro",
-        "TF1 Info (TF1 / LCI)",
-        "BFMTV"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4
-    },
-    {
       "id": "c58145bcdebe",
       "title": "Guerre en Ukraine: \"Si le président de la République n'avait pas ruiné notre pays en 10 ans, il resterait des marges de manœuvre pour continuer l'aide financière\", déclare Marine Le Pen, candidate RN à la présidentielle",
       "summary": "L'entourage du chef de l'État estime que la décision que pourrait prendre Marine Le Pen, si elle devenait présidente en 2027, de \"tout couper à l'Ukraine\" pourrait \"jouer contre la France\". Selon l'entourage d'Emmanuel Macron, \"aider l'Ukraine à se défendre, c'est protéger la France et les Français\".",
       "source": "BFMTV",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.bfmtv.com/politique/video-guerre-en-ukraine-si-le-president-de-la-republique-n-avait-pas-ruine-notre-pays-en-10-ans-il-resterait-des-marges-de-man-uvre-pour-continuer-l-aide-financiere-declare-marine-le-pen-candidate-rn-a-la-presidentielle_VN-202611150426.html",
       "published_at": "2026-11-15T21:58:20+00:00",
       "category": "Politique",
@@ -1089,7 +1256,7 @@
       "title": "Ligue des nations. La Belgique écrase l’Italie et prend rendez-vous avec les quarts de finale",
       "summary": "En dominant l’Italie (4-1) lors de cette 6e et dernière journée de phase de poule, ce dimanche 15 novembre 2026, la Belgique s’est qualifiée pour les quarts de finale de cette Ligue des nations, en mars prochain. Premiers avant cet ultime match, les Italiens terminent finalement 3es et ne joueront pas la phase finale.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-nations/ligue-des-nations-la-belgique-ecrase-litalie-et-prend-rendez-vous-avec-les-quarts-de-finale-d9c56fa2-e129-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T21:57:10+00:00",
       "category": "Sport",
@@ -1105,7 +1272,7 @@
       "title": "Franck Allisio : \"Gouverner, c'est résistay à la rue.\" - 15/11",
       "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-franck-allisio-gouverner-c-est-resistay-a-la-rue-15-11_VN-202611150425.html",
       "published_at": "2026-11-15T21:55:51+00:00",
       "category": "Société",
@@ -1121,7 +1288,7 @@
       "title": "ATP Finals. Arthur Fils cède dès le premier match contre un solide Ben Shelton",
       "summary": "Pourtant revenu à un set partout après une première manche décevante, Arthur Fils a fini par craquer face à Ben Shelton pour son premier match aux ATP Finals de Turin, ce dimanche 16 novembre (6-2, 3-6, 6-3). Le Français affrontera l’Espagnol Rafael Jodar mardi pour espérer se relancer.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/tennis/arthur-fils/atp-finals-arthur-fils-cede-des-le-premier-match-contre-un-solide-ben-shelton-e87b1f24-e13d-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T21:53:25+00:00",
       "category": "Sport",
@@ -1137,7 +1304,7 @@
       "title": "VIDÉO France - Turquie. Le Lorientais Junior Kroupi débloque son compteur et offre la victoire aux Bleus",
       "summary": "Pour sa deuxième sélection sous le maillot de l’équipe de France A et à seulement 20 ans, Junior Kroupi a déjà débloqué son compteur avec les Bleus. Il a inscrit le but du break face à la Turquie (2-0, 80’), ce dimanche 15 novembre 2026, et permis aux Français de l’emporter malgré la réduction de l’écart dans les derniers instants (2-1).",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/video-france-turquie-le-lorientais-junior-kroupi-debloque-son-compteur-et-offre-la-victoire-aux-bleus-bf6766ea-e13a-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T21:53:05+00:00",
       "category": "Société",
@@ -1172,7 +1339,7 @@
       "title": "France - Turquie. Les notes des Bleus : Jacquet impressionne, Da Cunha sur sa lancée, Mbappé manque de réussite",
       "summary": "L’équipe de France de football s’est imposée contre la Turquie ce dimanche 15 novembre à Bordeaux pour la 6e et dernière journée de Ligue des nations (2-1). Découvrez les notes des Bleus.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/france-turquie-les-notes-des-bleus-jacquet-impressionne-da-cunha-sur-sa-lancee-mbappe-manque-de-reussite-84197492-e127-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-15T21:51:32+00:00",
       "category": "Sport",
@@ -1188,7 +1355,7 @@
       "title": "Jordanie : Un nageur israélien tente de « s’infiltrer par la mer » dans le royaume",
       "summary": "<p>Une arrestation hors du commun. L’armée jordanienne a annoncé ce dimanche avoir l’<a href=\"https://www.20minutes.fr/monde/4247433-20260921-cisjordanie-vaste-operation-militaire-israelienne-apres-meurtre-colon-juif\">interpellation, la veille, d’un citoyen israélien</a> entré à la nage dans les eaux territoriales de la <a…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/monde/4262994-20261115-jordanie-nageur-israelien-tente-infiltrer-mer-royaume?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T21:49:35+00:00",
       "category": "Société",
@@ -1220,7 +1387,7 @@
       "title": "Présidentielle 2027 : un champion olympique à l'Elysée ?",
       "summary": "Au menu de Présidentielle 2027 : la candidature de Teddy Riner, Marine Le Pen toujours en tête des sondages, et pas de candidat unique pour la droite et le centre… Avec Emilie Zapalski, éditorialiste politique et conseillère en communication, et Mathieu Doiret, analyste à l'Institut Ipsos.",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-pr%C3%A9sidentielle-2027-un-champion-olympique-%C3%A0-l-elys%C3%A9e",
       "published_at": "2026-11-15T21:48:27+00:00",
       "category": "Médias & communication",
@@ -1252,7 +1419,7 @@
       "title": "France-Turquie : en vidéo, les deux buts des Bleus de Zidane qui ont libéré le Stade Atlantique de Bordeaux",
       "summary": "Les Bleus ont battu les Turcs (2-1), ce dimanche à Bordeaux, après leur lourde défaite en Italie, jeudi dernier. Ils décrochent leur billet pour les quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
       "published_at": "2026-11-15T21:47:11+00:00",
       "category": "Société",
@@ -1289,7 +1456,7 @@
       "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
       "summary": "L'équipe de France avait besoin d'un match nul contre la Turquie à Bordeaux, dimanche 15 novembre, pour s'assurer une place en quarts de finale de la Ligue des nations. Elle a fait mieux que ça avec une victoire 2-1. Tout n'a pas été parfait et les Bleus se sont fait quelques frayeurs, mais Zinédine Zidane et son groupe ont remporté leur premier match…",
       "source": "RFI",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations",
       "published_at": "2026-11-15T21:39:35+00:00",
       "category": "Sport",
@@ -1311,18 +1478,21 @@
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Guadeloupe : un mort et plusieurs blessés dans des tirs en marge d'une soirée » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
+        "Le Figaro",
         "CNews",
-        "Libération"
+        "Libération",
+        "Ouest-France",
+        "20 Minutes"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 5,
+      "mention_count": 5
     },
     {
       "id": "ccba682f93a4",
       "title": "Aux États-Unis, le secrétaire au Commerce pris à son tour dans la tempête Nvidia",
       "summary": "La polémique autour de Nvidia continue aux États-Unis. Le PDG de l'entreprise spécialisée dans les puces électroniques, Jensen Huang, a démissionné après des révélations sur ses liaisons extraconjugales, notamment avec une femme soupçonnée d'espionnage pour la Chine, grande concurrente de Washington dans la course à l'intelligence artificielle. Et après…",
       "source": "RFI",
-      "feed_rank": 3,
+      "feed_rank": 1,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-aux-%C3%A9tats-unis-le-secr%C3%A9taire-au-commerce-pris-%C3%A0-son-tour-dans-la-temp%C3%AAte-nvidia",
       "published_at": "2026-11-15T21:30:23+00:00",
       "category": "Politique",
@@ -1354,7 +1524,7 @@
       "title": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
       "summary": "Selon un reportage diffusé dimanche soir, le chef de cabinet du premier ministre sortant a transmis à la police, la veille des législatives, une plainte concernant des militants du parti arabe Raam qui s’est avérée infondée.",
       "source": "Le Monde",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
       "published_at": "2026-11-15T21:27:40+00:00",
       "category": "Politique",
@@ -1370,7 +1540,7 @@
       "title": "La brigade cybercriminalité saisie de l'enquête après l'attaque massive d'une filiale de La Poste",
       "summary": "L'enquête sur la cyberattaque massive visant Maileva, filiale du groupe La Poste, a été confiée à la brigade de lutte contre la cybercriminalité, a indiqué le parquet de Paris. Les coordonnées de 22 millions de personnes ont été volées.",
       "source": "BFMTV",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/police-justice/la-brigade-cybercriminalite-saisie-de-l-enquete-apres-l-attaque-massive-d-une-filiale-de-la-poste_AD-202611150406.html",
       "published_at": "2026-11-15T21:24:40+00:00",
       "category": "Société",
@@ -1387,7 +1557,7 @@
       "title": "Poutine peut-il encore faire confiance aux siens ? - 15/11",
       "summary": "Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-poutine-peut-il-encore-faire-confiance-aux-siens-15-11_VN-202611150408.html",
       "published_at": "2026-11-15T21:21:22+00:00",
       "category": "Société",
@@ -1397,22 +1567,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 2
-    },
-    {
-      "id": "9f2f7027c6fc",
-      "title": "VIDÉO France - Turquie. Les Bleus délivrés, but annulé pour les Turcs… La seconde mi-temps repart tambour battant",
-      "summary": "Après une première période infructueuse, l’équipe de France est parvenue à trouver la faille au retour des vestiaires face à la Turquie grâce à un but contre son camp du malheureux Emirhan Topcu. Les Turcs ont égalisé dans la foulée, avant que leur but ne soit annulé pour un hors jeu. Cette deuxième mi-temps de la 6e journée de Ligue des nations.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/equipe-de-france/video-france-turquie-les-bleus-delivres-but-annule-pour-les-turcs-la-seconde-mi-temps-repart-tambour-battant-6ab3e5d0-e129-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-15T21:19:22+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « VIDÉO France - Turquie. Les Bleus délivrés, but annulé pour les Turcs… La seconde mi-temps repart tambour battant » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
     },
     {
       "id": "5e1322b32be6",
@@ -1435,7 +1589,7 @@
       "title": "Donald Trump, Vladimir Poutine, Xi Jinping: \"Il n'y a plus d'ordre mondial accepté aujourd'hui, il n'y a plus de régulateur du monde\", observe Vincent Desportes, ancien directeur de l'École de guerre",
       "summary": "Vincent Desportes, ancien directeur de l'École de guerre, était l'invité de BFMTV ce dimanche 15 novembre",
       "source": "BFMTV",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.bfmtv.com/international/video-donald-trump-vladimir-poutine-xi-jinping-il-n-y-a-plus-d-ordre-mondial-accepte-aujourd-hui-il-n-y-a-plus-de-regulateur-du-monde-observe-vincent-desportes-ancien-directeur-de-l-ecole-de-guerre_VN-202611150402.html",
       "published_at": "2026-11-15T21:16:17+00:00",
       "category": "Société",
@@ -1499,7 +1653,7 @@
       "title": "Gaza : Royaume-Uni, Italie, Australie et Canada appellent Israël à permettre un accès humanitaire « immédiat » et « sans entrave » dans le territoire palestinien",
       "summary": "L’enclave a été frappée par des pluies diluviennes ayant entraîné l’inondation de milliers de tentes de personnes déplacées. Près de 150 000 tentes et autres fournitures vitales sont « bloquées » à la frontière, selon les chefs de la diplomatie des quatre pays occidentaux.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/international/article/2026/11/15/gaza-royaume-uni-italie-australie-et-canada-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-dans-le-territoire-palestinien_6811057_3210.html",
       "published_at": "2026-11-15T21:01:00+00:00",
       "category": "International",
@@ -1516,7 +1670,7 @@
       "title": "« Guillaume Pley agresseur »… Le spectacle du fondateur de Legend perturbé par des militantes féministes",
       "summary": "<p><a href=\"https://www.20minutes.fr/arts-stars/medias/4238689-20260811-affaire-guillaume-pley-nouveau-temoignage-met-cause-fondateur-media-legend\">« Guillaume Pley agresseur »</a>, ont scandé, dimanche soir, quelques militantes féministes lors de sa représentation du « Legend Tour », à l’Accor Arena. Elles ont pris à partie l’animateur, <a…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.20minutes.fr/societe/4262991-20261115-guillaume-pley-agresseur-spectacle-fondateur-legend-perturbe-militantes-feministes?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T21:00:48+00:00",
       "category": "Médias & communication",
@@ -1566,7 +1720,7 @@
       "title": "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, et des journalistes\"",
       "summary": "Parallèlement à sa guerre en Ukraine et ses attaques hybrides à l'encontre de nombreux pays européens, la Russie mène une guerre informationnelle. C'est dans ce contexte que s'inscrivent les dernières restrictions imposées par Moscou aux journalistes étrangers. Les derniers à en avoir fait les frais sont les journalistes français Ariane Chemin et Paul…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-ariane-chemin-ce-bannissement-c-est-m%C3%A9langer-une-influenceuse-propagandiste-et-des-journalistes",
       "published_at": "2026-11-15T20:50:09+00:00",
       "category": "Médias & communication",
@@ -1628,18 +1782,19 @@
     {
       "id": "a57a4df4fd62",
       "title": "José María Neves réélu président du Cap-Vert, selon des résultats provisoires",
-      "summary": "Favori du scrutin, le président sortant du Cap-Vert José María Neves a été réélu, dimanche, pour un second mandat dès le premier tour de la présidentielle avec 63,8 % des suffrages, selon les résultats provisoires annoncés par la Commission nationale électorale. Cet archipel d'Afrique de l'Ouest connaît une croissance dynamique mais peine à endiguer…",
+      "summary": "Favori du scrutin, le président sortant du Cap-Vert José María Neves a été réélu, dimanche, pour un second mandat dès le premier tour de la présidentielle avec 63,8 % des suffrages, selon les résultats provisoires annoncés par la Commission nationale électorale. Il a promis de continuer à \"promouvoir les libertés\" dans le pays et de travailler à une…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-d%C3%A9but-du-d%C3%A9pouillement-apr%C3%A8s-une-journ%C3%A9e-%C3%A9lectorale-calme",
       "published_at": "2026-11-15T20:45:32+00:00",
       "category": "Politique",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « José María Neves réélu président du Cap-Vert, selon des résultats provisoires ».",
       "coverage_sources": [
+        "Le Monde",
         "France 24"
       ],
-      "coverage_count": 1,
-      "mention_count": 1
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "b5ed4d76e28d",
@@ -1662,7 +1817,7 @@
       "title": "République tchèque: 400 000 manifestants à Prague contre la réforme de l'audiovisuel public",
       "summary": "Une importante manifestation s'est tenue, dimanche 15 novembre à Prague, en République tchèque, contre le gouvernement du milliardaire Andrej Babis et son projet de suppression de la redevance audiovisuelle. Selon les organisateurs, environ 400 000 personnes ont participé au rassemblement, l'un des plus importants de ces dernières décennies dans le pays.",
       "source": "RFI",
-      "feed_rank": 5,
+      "feed_rank": 4,
       "url": "https://www.rfi.fr/fr/europe/20261115-r%C3%A9publique-tch%C3%A8que-400-000-manifestants-%C3%A0-prague-contre-la-r%C3%A9forme-de-l-audiovisuel-public",
       "published_at": "2026-11-15T20:42:41+00:00",
       "category": "Médias & communication",
@@ -1711,7 +1866,7 @@
       "title": "Présidentielle 2027 : Sandrine Rousseau lâche sa patronne, Philippe refuse la primaire et déconvenues pour Teddy Riner",
       "summary": "<p>Vous avez passé un bon dimanche ? On se réjouit pour vous, nous, on a suivi les émissions politiques du jour, lu les pages politiques des quotidiens… Bref, on a scruté les petites phrases, les faits et les gestes de la <a href=\"https://www.20minutes.fr/elections/presidentielle/\">présidentielle 2027</a>. Voici ce qu’il faut retenir à 153 jours du 18…",
       "source": "20 Minutes",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.20minutes.fr/politique/4262990-20261115-presidentielle-2027-sandrine-rousseau-lache-patronne-philippe-refuse-primaire-deconvenues-teddy-riner?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T20:35:29+00:00",
       "category": "Culture",
@@ -1807,7 +1962,7 @@
       "title": "Fabio d'Andrea : \"les COP sont très importantes, l'accord de Paris à l'époque a été un pas énorme \"",
       "summary": "La COP 31 Se déroule depuis lundi à Antalya en Turquie. La co-présidence turque et australienne met l'accent cette année sur l'électrification comme levier d'action, avec pour objectif affiché de porter la part de l'électricité dans la consommation finale mondiale d'énergie à 35% en 2035 contre environ 23% aujourd'hui. Le climatologue Fabio d'andrea,…",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261115-fabio-d-andrea-les-cop-sont-tr%C3%A8s-importantes-l-accord-de-paris-%C3%A0-l-%C3%A9poque-a-%C3%A9t%C3%A9-un-pas-%C3%A9norme",
       "published_at": "2026-11-15T20:26:25+00:00",
       "category": "Économie",
@@ -1883,6 +2038,26 @@
       "mention_count": 1
     },
     {
+      "id": "0868c1406814",
+      "title": "Les rassemblements autour de certains lycées et universités interdits à Paris",
+      "summary": "Publié dimanche, un arrêté préfectoral prévoit l'interdiction de tout rassemblement ou cortège non déclaré \"dans un rayon de 100 mètres\" autour de dix lycées et cinq sites universitaires de Paris. La mesure, qui s'applique de lundi à vendredi inclus, est justifiée par \"les nombreux débordements et blocages\", assure le préfet de police Patrice Faure.",
+      "source": "France 24",
+      "feed_rank": 13,
+      "url": "https://www.france24.com/fr/france/20261115-les-rassemblements-autour-de-certains-lyc%C3%A9es-et-universit%C3%A9s-interdits-%C3%A0-paris",
+      "published_at": "2026-11-15T20:19:27+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Les rassemblements autour de certains lycées et universités interdits à Paris ».",
+      "coverage_sources": [
+        "Le Monde",
+        "France 24",
+        "Le Figaro",
+        "TF1 Info (TF1 / LCI)",
+        "BFMTV"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5
+    },
+    {
       "id": "0ee7bf409a09",
       "title": "Zinédine Zidane : \"A Bordeaux il y a eu Giresse, Battiston, Ferreri, mais il y a surtout eu Zizou...\" Le sélectionneur des Bleus revient là où tout a commencé, un coéquipier raconte",
       "summary": "Pour son sixième match en tant que sélectionneur de l'équipe de France, le premier à domicile hors de Paris, Zinédine Zidane est à Bordeaux pour affronter la Turquie en Ligue des nations. Joueur des Girondins entre...",
@@ -1894,22 +2069,6 @@
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Zinédine Zidane : \"A Bordeaux il y a eu Giresse, Battiston, Ferreri, mais il y a surtout eu Zizou...\" Le sélectionneur des Bleus revient là où tout a  ».",
       "coverage_sources": [
         "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "4e97507f744e",
-      "title": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
-      "summary": "Le redéploiement des troupes gouvernementales de la région de Bab Al-Mandab vers la capitale provisoire va permettre aux houthistes de consolider leur contrôle du détroit stratégique de Bab Al-Mandab, qui relie l’Asie à l’Europe via le canal de Suez.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
-      "published_at": "2026-11-15T20:16:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2031,7 +2190,7 @@
       "title": "La radio de Chloé",
       "summary": "Chloé, DJ et compositrice, a travaillé dans de nombreux clubs, et certains ont particulièrement compté comme le Pulp Pas Paris, le Robert Johnson à Francfort, ou encore le Panorama Bar à Berlin. Elle a sorti le 30 octobre son nouvel album : Shape of the Unknown. Ce soir, elle fait « sa radio de ».",
       "source": "France Inter",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/la-radio-de/la-radio-de-du-dimanche-15-novembre-2026-8123043",
       "published_at": "2026-11-15T20:04:40+00:00",
       "category": "Société",
@@ -2091,27 +2250,11 @@
       "mention_count": 1
     },
     {
-      "id": "f89b5ac48262",
-      "title": "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine",
-      "summary": "RÉCIT - Après onze jours en Uruguay, en Argentine et au Pérou, où près de 10 millions de personnes sont venues l’acclamer, le pape repart ce lundi pour Rome.",
-      "source": "Le Figaro",
-      "feed_rank": 19,
-      "url": "https://www.lefigaro.fr/actualite-france/les-foules-et-la-liesse-le-recit-du-voyage-triomphal-de-leon-xiv-en-amerique-latine-20261115",
-      "published_at": "2026-11-15T19:53:11+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "207b9674e858",
       "title": "Michel Drucker sur son émission \"Vivement dimanche\": \"Jean-Luc Mélenchon c'est un souvenir formidable\", raconte l'animateur et producteur de télévision",
       "summary": "Michel Drucker, animateur et producteur de télévision, était l'invité de BFMTV ce dimanche 15 novembre",
       "source": "BFMTV",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-michel-drucker-sur-son-emission-vivement-dimanche-jean-luc-melenchon-c-est-un-souvenir-formidable-raconte-l-animateur-et-producteur-de-television_VN-202611150388.html",
       "published_at": "2026-11-15T19:50:52+00:00",
       "category": "Société",
@@ -2120,7 +2263,7 @@
         "BFMTV"
       ],
       "coverage_count": 1,
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "id": "f5a7737c14a8",
@@ -2225,7 +2368,7 @@
       "title": "Yémen : les Houthis à 60 km d'Aden, le gouvernement place des renforts autour de la ville",
       "summary": "Après une avancée dans le gouvernorat de Lahj dans le sud du Yémen, les Houthis ne se trouvent plus qu'à 60 km environ d'Aden, siège du gouvernement. De son côté, l'armée yéménite a annoncé déployer des combattants supplémentaires autour de la capitale provisoire.",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville",
       "published_at": "2026-11-15T19:35:25+00:00",
       "category": "Politique",
@@ -2241,7 +2384,7 @@
       "title": "Un artisan de 55 ans poignardé à mort en Ardèche après un vol à l'arrachée",
       "summary": "Ce vendredi 13 novembre, Christophe B., artisan de 55 ans, a été poignardé à mort en pleine rue dans son village de Largentière, en Ardèche, alors qu’il essayait de rattraper un malfaiteur qui venait de voler un téléphone portable à l’arraché sur la voie publique. Le lendemain, un homme de 22 ans a été mis en examen et placé en détention provisoire.",
       "source": "BFMTV",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/police-justice/un-artisan-de-55-ans-poignarde-a-mort-en-ardeche-apres-un-vol-a-l-arrachee_AN-202611150385.html",
       "published_at": "2026-11-15T19:34:51+00:00",
       "category": "Société",
@@ -2264,6 +2407,22 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Cœur de ville en lumière\" attaqué, un tas de déchets géant, inquiétude pour l’Impérator : l’essentiel de l’actualité en région » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Midi Libre"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "534b28f07e05",
+      "title": "20H Haddad du dimanche 15 novembre 2026",
+      "summary": "Au sommaire : Primaire de la droite et du centre, aura-t-elle vraiment lieu ? Teddy Riner populaire mais pas présidentiable ? Hausse du SMIC, cela coûte un milliard d'euros à l'État.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 25,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-20h-haddad-du-dimanche-15-novembre-2026-2476021.html",
+      "published_at": "2026-11-15T19:27:31+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « 20H Haddad du dimanche 15 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2296,22 +2455,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Infections à pneumocoque : ces 4 signes qui doivent vous alerter » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b768d75b7dc6",
-      "title": "Le JT de 20 heures de TF1 du dimanche 15 novembre 2026",
-      "summary": "Retrouvez en replay l’émission « JT 20h WE » du dimanche 15 novembre 2026.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/replay-tf1/videos/video-le-jt-de-20-heures-de-tf1-du-dimanche-15-novembre-2026-2475994.html",
-      "published_at": "2026-11-15T19:24:44+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le JT de 20 heures de TF1 du dimanche 15 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2418,7 +2561,7 @@
       "title": "Pourquoi applaudit-on à la fin d'un spectacle ?",
       "summary": "\"Pourquoi à chaque fin de spectacle on applaudit ?\" se demande Charlotte. Agathe Sanjuan est historienne du théâtre, elle lui répond.",
       "source": "France Inter",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-dimanche-15-novembre-2026-7144203",
       "published_at": "2026-11-15T19:09:10+00:00",
       "category": "Culture",
@@ -2434,29 +2577,13 @@
       "title": "Pourquoi les champignons ne poussent-ils qu'en automne ?",
       "summary": "\"Pourquoi les champignons poussent qu'en automne ?\" se demande Isaure. Marc-André Selosse est biologiste. Plus précisément il est mycologue, en d'autres mots, un expert des champignons. Il répond.",
       "source": "France Inter",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-dimanche-15-novembre-2026-7682072",
       "published_at": "2026-11-15T19:05:40+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pourquoi les champignons ne poussent-ils qu'en automne ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Inter"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1fee38b3b0f6",
-      "title": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
-      "summary": "Le ministre des affaires étrangères estonien, Margus Tsahkna, a annoncé dimanche la fermeture de tous les postes-frontières avec la Russie à compter du 1er décembre. Il a déclaré détenir des « preuves manifestes » indiquant que le service de renseignement militaire russe a ordonné une « opération de sabotage » contre une entreprise estonienne du secteur…",
-      "source": "Le Monde",
-      "feed_rank": 7,
-      "url": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
-      "published_at": "2026-11-15T19:05:08+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermet ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2562,7 +2689,7 @@
       "title": "Tadeusz Kantor, portrait : La Chambre est le monde",
       "summary": "Plutôt que de dérouler chronologiquement la vie du metteur en scène polonais, figure majeure du théâtre européen du XXème siècle, La chambre est le monde compose, à partir de ses écrits théoriques, une œuvre poétique qui place d’abord le siècle au banc des accusés.",
       "source": "France Culture",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-theatre/tadeusz-kantor-portrait-la-chambre-est-le-monde-2348913",
       "published_at": "2026-11-15T19:01:00+00:00",
       "category": "Culture",
@@ -2643,7 +2770,7 @@
       "title": "Pays-Bas: des avions perdent le signal GPS dans le ciel, des bateaux russes en mer du Nord suspectés",
       "summary": "Que s'est-il passé, exactement, dans le ciel néerlandais, lundi 9 novembre ? Ce jour-là, des dizaines d'avion survolant les Pays-Bas ont perdu le signal GPS. Une perturbation des systèmes de navigation qui serait liée à la présence d'un navire russe dans les eaux de la mer du Nord.",
       "source": "RFI",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.rfi.fr/fr/europe/20261115-pays-bas-des-avions-perdent-le-signal-gps-dans-le-ciel-des-bateaux-russes-en-mer-du-nord-suspect%C3%A9s",
       "published_at": "2026-11-15T18:57:06+00:00",
       "category": "Société",
@@ -2675,7 +2802,7 @@
       "title": "Cher : Un maire se fait rappeler à l’ordre pour avoir refusé d’inscrire une fillette handicapée à la cantine",
       "summary": "<p>Dur combat d’une mère de famille pour faire admettre sa fille de 4 ans, en situation de handicap, à la cantine, rapporte <a href=\"https://unwall.app/actu.fr/faits-divers/le-maire-de-cette-commune-du-cher-refuse-d-inscrire-une-eleve-de-maternelle-a-la-cantine-il-se-fait-rappeler-a-l-ordre_65049414.html\">Actu Orléans</a>. Le maire de la commune d’Herry,…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/societe/4262952-20261115-cher-maire-fait-rappeler-ordre-avoir-refuse-inscrire-fillette-handicapee-cantine?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T18:54:06+00:00",
       "category": "Politique",
@@ -2852,7 +2979,7 @@
       "title": "Guerre en Ukraine : Une raffinerie russe bombardée par l’Ukraine et l'Estonie ferme ses frontières avec la Russie",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://http^://www.20minutes.fr/monde/ukraine\">guerre en Ukraine</a> ? 20 Minutes fait le point pour vous tous les soirs. Voici l’essentiel de ce dimanche 15 novembre 2026, au 1.725e jour du conflit.</p><h2>Le fait du jour</h2><p>Kiev a revendiqué ce dimanche des f<a…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.20minutes.fr/monde/ukraine/4262981-20261115-guerre-ukraine-raffinerie-russe-bombardee-ukraine-estonie-ferme-frontieres-russie?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T18:31:27+00:00",
       "category": "International",
@@ -2884,7 +3011,7 @@
       "title": "À Sainte-Soline, le collectif \"Bassines Non Merci\" appelle à un nouveau rassemblement le dimanche 29 novembre",
       "summary": "Le collectif \"Bassines Non Merci\" appelle à un nouveau rassemblement, dimanche 29 novembre, au départ d'Azay-le-Brûlé (Deux-Sèvres), pour rejoindre le site de Sainte-Soline. Une mobilisation après l'autorisation du gouvernement d'un nouveau remplissage de réserve d'eau au profit de 450 agriculteurs.",
       "source": "France Inter",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/asainte-soline-bassines-non-merci-appelle-a-un-nouveau-rassemblement-dimanche-29-novembre-5699887",
       "published_at": "2026-11-15T18:29:00+00:00",
       "category": "Politique",
@@ -2980,7 +3107,7 @@
       "title": "Le roman national",
       "summary": "À quelques mois de la présidentielle et alors que les candidats proposent, défendent chacun une certaine idée de la France, de leur France, comment raconter le roman national ? Qu’est-ce qui en fait l’histoire ?",
       "source": "France Inter",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-dimanche-15-novembre-2026-5243444",
       "published_at": "2026-11-15T18:22:40+00:00",
       "category": "Culture",
@@ -2996,17 +3123,18 @@
       "title": "Au Pérou, Léon XIV appelle à écouter le \"cri de la terre et le cri des pauvres\" en Amazonie",
       "summary": "Un mois après son opération pour un cancer du poumon, Léon XIV se rend dimanche dans les hautes Andes péruviennes, pour une étape particulièrement exigeante de sa tournée en Amérique du Sud. Lors d'un discours, le souverain pontife a dénoncé \"l'abandon\" par l'État des communautés autochtones du Pérou et la privation de leurs droits fondamentaux.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 15,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-p%C3%A9rou-l%C3%A9on-xiv-arrive-%C3%A0-cusco-%C3%A0-3-400-m-d-altitude-un-mois-apr%C3%A8s-son-op%C3%A9ration",
       "published_at": "2026-11-15T18:21:14+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Au Pérou, Léon XIV appelle à écouter le \"cri de la terre et le cri des pauvres\" en Amazonie ».",
       "coverage_sources": [
         "France 24",
+        "Ouest-France",
         "Sud Ouest"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 3,
+      "mention_count": 3
     },
     {
       "id": "b46d231d7632",
@@ -3111,7 +3239,7 @@
       "title": "France - Turquie : Direction le Final Four après cette petite victoire des Bleus... Revivez ce match avec nous",
       "summary": "<p>A VOIR</p><figure><iframe title=\"Equipe de France : Les enjeux du deuxième rassemblement de Zidane\" width=\"100%\" height=\"100%\" src=\"https://www.ultimedia.com/deliver/generic/iframe/mdtk/01357940/zone/1/src/3z8vzfq/showtitle/1/\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" hspace=\"0\" vspace=\"0\" webkitallowfullscreen=\"true\"…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/sport/football/ligue-nations/4262474-20261115-direct-france-turquie-retour-mbappe-bleus-quete-confiance-bordeaux?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T18:02:36+00:00",
       "category": "Sport",
@@ -3223,7 +3351,7 @@
       "title": "Éliminatoires de la CAN 2027 : qui peut se qualifier, qui est en danger ? Le point sur la 4e journée",
       "summary": "La quatrième journée des éliminatoires de la CAN 2027 se disputera les 16 et 17 novembre et pourrait déjà sceller les premières qualifications pour la compétition. Découvrez groupe par groupe les enjeux de cette nouvelle journée de confrontations sur le continent africain.",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 16,
       "url": "https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe",
       "published_at": "2026-11-15T18:00:30+00:00",
       "category": "Société",
@@ -3321,7 +3449,7 @@
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 14 et 15 novembre",
       "summary": "Un manifestant brandit une banderole lors du cinquième samedi de manifestations contre la vie chère, à Paris, le 14 novembre 2026.",
       "source": "Le Monde",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-14-et-15-novembre_6811043_4355770.html",
       "published_at": "2026-11-15T17:56:38+00:00",
       "category": "Société",
@@ -3347,23 +3475,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "31b8570abfb2",
-      "title": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
-      "summary": "Selon les critiques, cette réforme risque d'accroître la dépendance des médias publics à l'égard du pouvoir politique.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 15,
-      "url": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-15T17:54:41+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Les Tchèques manifestent en masse contre la réforme du financement des médias publics ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     },
     {
       "id": "a05d7cbacaaf",
@@ -3431,6 +3542,22 @@
       "mention_count": 1
     },
     {
+      "id": "76f159d239da",
+      "title": "Manifestations contre la vie chère, vol de données après le piratage d’une filiale de La Poste… Les cinq infos du week-end",
+      "summary": "Vous n’avez pas suivi l’actualité de ce week-end des 14 et 15 novembre ? « Le Nouvel Obs » vous a concocté une séance de rattrapage.",
+      "source": "L'Obs",
+      "feed_rank": 2,
+      "url": "https://www.nouvelobs.com/monde/20261115.OBS120169/manifestations-contre-la-vie-chere-vol-de-donnees-apres-le-piratage-d-une-filiale-de-la-poste-les-cinq-infos-du-week-end.html",
+      "published_at": "2026-11-15T17:45:01+00:00",
+      "category": "Société",
+      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Manifestations contre la vie chère, vol de données après le piratage d’une filiale de La Poste… Les cinq infos du week-end ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "a4dc26231324",
       "title": "146 kilos de cocaïne repêchés, plusieurs tonnes coulées, quatre suspects… voici ce que l’on sait du semi-submersible intercepté dans l’océan Atlantique",
       "summary": "La Marine nationale française a intercepté, ce jeudi, une embarcation semi-submersible transportant plusieurs tonnes de cocaïne dans l’océan Atlantique. Voici ce que l’on sait. Une grosse prise. Le ministère des Armées et la préfecture de la Martinique ont annoncé, ce dimanche 15 novembre, avoir intercepté un semi-submersible transportant plusieurs…",
@@ -3468,7 +3595,7 @@
       "title": "« Rien ne vaut la vie »… Lio se confie sur les circonstances du suicide de son fils Diego",
       "summary": "<p>Un an et demi après le <a href=\"https://www.20minutes.fr/arts-stars/people/4260355-20261104-lio-prendra-temps-afin-faire-deuil-fils-diego-apres-tournee\">terrible drame qui a frappé la chanteuse Lio</a> - le suicide de son fils Diego - celle-ci se confie, par bribes, au détour d’interviews, alors qu’elle <a…",
       "source": "20 Minutes",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.20minutes.fr/arts-stars/culture/4262976-20261115-rien-vaut-vie-lio-confie-circonstances-suicide-fils-diego?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T17:39:51+00:00",
       "category": "Société",
@@ -3500,7 +3627,7 @@
       "title": "En Israël, la formation d'un gouvernement piétine",
       "summary": "Les tractations s'intensifient en Israël pour tenter de former un nouveau gouvernement. Les équipes de négociation du Likoud et de Yashar se réunissent pour discuter des conditions d'un éventuel accord et des contours d'une future coalition. Explications d'Antoine Mariotti, chroniqueur international France 24.",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 17,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine",
       "published_at": "2026-11-15T17:31:25+00:00",
       "category": "Politique",
@@ -3548,7 +3675,7 @@
       "title": "Portrait de Christine Lagarde",
       "summary": "Le portrait de Paola Puerari ce soir, c’est une femme qui a occupé, l’un après l’autre, les postes les plus puissants de l’économie mondiale.",
       "source": "France Inter",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-paola-puerari/chronique-de-paola-puerari-du-dimanche-15-novembre-2026-6214802",
       "published_at": "2026-11-15T17:30:25+00:00",
       "category": "Société",
@@ -3628,7 +3755,7 @@
       "title": "L'Estonie va fermer sa frontière avec la Russie après une tentative de sabotage contre une usine de drones",
       "summary": "L'Estonie a annoncé, dimanche 15 novembre 2026, qu'elle allait entièrement fermer sa frontière avec la Russie après avoir déjoué in extremis une tentative d'incendie d'une usine de drones, orchestrée selon elle par le renseignement militaire russe GRU. La fermeture est prévue au 1er décembre.",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones",
       "published_at": "2026-11-15T17:25:04+00:00",
       "category": "Environnement",
@@ -3638,11 +3765,12 @@
         "Franceinfo (TV)",
         "RFI",
         "Euronews",
+        "L'Obs",
         "L'Opinion",
         "Sud Ouest"
       ],
-      "coverage_count": 6,
-      "mention_count": 6
+      "coverage_count": 7,
+      "mention_count": 7
     },
     {
       "id": "adf902b8bad9",
@@ -3665,7 +3793,7 @@
       "title": "Au Royaume-Uni, les discours du Premier ministre Andy Burnham, sont-ils rédigés par ChatGPT ?",
       "summary": "Downing Street a réagi ce dimanche après la publication de photos montrant l'un des collaborateurs du Premier ministre britannique Andy Burnham entrain d'avoir recours à l'intelligence artificielle pour un discours, assurant que ce dernier rédigeait lui-même \"la plupart\" de ses textes.",
       "source": "France Inter",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/au-royaume-uni-les-discours-du-premier-ministre-sont-ils-rediges-par-chatgpt-3622546",
       "published_at": "2026-11-15T17:22:00+00:00",
       "category": "Politique",
@@ -3681,7 +3809,7 @@
       "title": "Des centaines de milliers de personnes dans les rues de Prague contre la réforme du financement des médias publics",
       "summary": "Entre 350 000 et 450 000 tchèques sont descendus dans les rues à Prague pour lutter contre le projet du gouvernement nationaliste d'Andrej Babis de réformer le financement des médias publics, une initiative dénoncée par ses opposants comme une menace pour la liberté de la presse.",
       "source": "France Inter",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/des-milliers-de-personnes-dans-les-rues-de-prague-contre-la-reforme-du-financement-des-medias-publics-1420576",
       "published_at": "2026-11-15T17:21:00+00:00",
       "category": "Médias & communication",
@@ -3762,7 +3890,7 @@
       "title": "Ligue des champions féminine CAF: l'AS FAR remporte le titre et venge son équipe masculine contre le Mamelodi Sundowns",
       "summary": "L'AS FAR est officiellement le club le plus titré du continent africain chez les femmes. Avec un troisième titre remporté en Ligue des champions contre le Mamelodi Sundowns (3-1) ce dimanche 15 novembre, elle sont montées sur le toit du continent et ont vengé leurs homologues masculins.",
       "source": "RFI",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.rfi.fr/fr/afrique-foot/20261115-ligue-des-champions-f%C3%A9minine-caf-l-as-far-remporte-le-titre-et-venge-son-%C3%A9quipe-masculine-contre-le-mamelodi-sundowns",
       "published_at": "2026-11-15T17:18:06+00:00",
       "category": "Société",
@@ -3778,7 +3906,7 @@
       "title": "Le Liban se tourne vers le Qatar pour redresser et développer son secteur de l'énergie",
       "summary": "Le Premier ministre libanais, Nawaf Salam, est arrivé dimanche 15 novembre à Doha, accompagné du ministre de l'Énergie et de l'Eau, Joe Saddi, pour des discussions sur la coopération entre le Liban et le Qatar dans le secteur de l'électricité. En octobre 2026, l'émirat s'est engagé à contribuer au redressement et au développement du secteur énergétique…",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261115-le-liban-se-tourne-vers-le-qatar-pour-redresser-et-d%C3%A9velopper-son-secteur-de-l-%C3%A9nergie",
       "published_at": "2026-11-15T17:17:10+00:00",
       "category": "Politique",
@@ -3842,7 +3970,7 @@
       "title": "La grande détérioration du transport aérien",
       "summary": "Dans sa chronique, Frédéric Martel revient sur les déboires récents du transport aérien.",
       "source": "France Culture",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/regulations-numeriques/la-grande-deterioration-du-transport-aerien-8343487",
       "published_at": "2026-11-15T17:14:00+00:00",
       "category": "Société",
@@ -3858,7 +3986,7 @@
       "title": "MMA : Ciryl Gane conserve sa ceinture de champion des poids lourds de l'UFC",
       "summary": "Ciryl Gane a conservé son titre de champion incontesté des poids lourds de l'UFC après un combat très disputé face à l'Américain Josh Hokit au Madison Square Garden. Bousculé lors des premiers rounds, le Français a fait la différence en fin de combat pour s'imposer au terme de cinq reprises intenses. Une nouvelle victoire pour \"Bon Gamin\", figure de…",
       "source": "France 24",
-      "feed_rank": 14,
+      "feed_rank": 18,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-mma-ciryl-gane-conserve-sa-ceinture-de-champion-des-poids-lourds-de-l-ufc",
       "published_at": "2026-11-15T17:13:55+00:00",
       "category": "Société",
@@ -3906,7 +4034,7 @@
       "title": "L'Estonie accuse Moscou de tentative de sabotage et décide de fermer sa frontière",
       "summary": "⁠L'Estonie fermera tous ⁠ses postes-frontières avec ​la Russie à compter du 1ᵉʳ décembre, a déclaré ​dimanche le ministre estonien des Affaires étrangères, à la suite d'une tentative d'incendie d'une entreprise du secteur de la défense ​imputée ‌par Tallinn à Moscou.",
       "source": "France 24",
-      "feed_rank": 15,
+      "feed_rank": 19,
       "url": "https://www.france24.com/fr/europe/20261115-estonie-accuse-russie-tentative-sabotage-et-d%C3%A9cide-de-fermer-fronti%C3%A8re",
       "published_at": "2026-11-15T17:12:20+00:00",
       "category": "Politique",
@@ -3922,7 +4050,7 @@
       "title": "Adama Barrow brigue un troisième mandat face à quatre adversaires en Gambie",
       "summary": "La Gambie se prépare à une nouvelle élection présidentielle avec cinq candidats en lice. Le président sortant Adama Barrow brigue un troisième mandat, face à quatre adversaires qui espèrent lui ravir le pouvoir. Un scrutin suivi de près dans un pays encore marqué par les années de régime de Yahya Jammeh. Récit d'Olivia Bizot.",
       "source": "France 24",
-      "feed_rank": 16,
+      "feed_rank": 20,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-adama-barrow-brigue-un-troisi%C3%A8me-mandat-face-%C3%A0-quatre-adversaires-en-gambie",
       "published_at": "2026-11-15T17:11:04+00:00",
       "category": "Médias & communication",
@@ -3986,7 +4114,7 @@
       "title": "Les 80 ans du Centre National du Livre / Plantu, les 20 ans de \"Cartooning for peace\"",
       "summary": "À l'occasion des 80 ans du Centre National du Livre, Frédéric Martel reçoit sa présidente, Régine Hatchondo.",
       "source": "France Culture",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/soft-power/les-80-ans-du-centre-national-du-livre-plantu-les-20-ans-de-cartooning-for-peace-6676982",
       "published_at": "2026-11-15T17:10:00+00:00",
       "category": "Culture",
@@ -4114,7 +4242,7 @@
       "title": "MMA: Ciryl Gane s'est fait secouer mais s'est imposé comme un champion contre Hokit",
       "summary": "Grâce à sa victoire contre Josh Hokit, samedi 14 novembre à New York aux États-Unis, Ciryl Gane demeure le champion des poids lourds de l'Ultimate Fighting Championship (UFC), la ligue élite d'arts martiaux mixtes. Au Madison Square Garden, le Français a pourtant été bien secoué. Mais les épreuves traversées sur son chemin pour devenir champion l'ont…",
       "source": "RFI",
-      "feed_rank": 8,
+      "feed_rank": 12,
       "url": "https://www.rfi.fr/fr/sports/20261115-mma-ciryl-gane-s-est-fait-secouer-mais-s-est-impos%C3%A9-comme-un-champion",
       "published_at": "2026-11-15T17:04:27+00:00",
       "category": "International",
@@ -4130,7 +4258,7 @@
       "title": "Paris : Un policier municipal alcoolisé arrêté après avoir menacé de tuer des personnes racisées",
       "summary": "<p>Samedi matin, une intervention de la BRI a mis fin à plusieurs heures de tension, dans le 15e arrondissement de <a href=\"https://www.20minutes.fr/societe/4262946-20261115-manifestation-14-novembre-paris-centaine-gardes-vue-dont-38-mineurs\">Paris</a>. Un <a…",
       "source": "20 Minutes",
-      "feed_rank": 15,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/faits_divers/4262977-20261115-paris-policier-municipal-alcoolise-arrete-apres-avoir-menace-tuer-personnes-racisees?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T17:03:48+00:00",
       "category": "Société",
@@ -4194,7 +4322,7 @@
       "title": "Ligue des nations : revivez la victoire et la qualification des Bleus face à la Turquie",
       "summary": "L'équipe de France a dominé la Turquie (2-1) au terme d'un match âpre et disputé, dimanche 15 novembre en Ligue des nations. Grâce à un but contre son camp de Topcu et la première réalisation de Kroupi en sélection, les hommes de Zidane sont qualifiés en quarts de finale et terminent premiers de leur groupe. Revivez le match en direct commenté sur France 24.",
       "source": "France 24",
-      "feed_rank": 17,
+      "feed_rank": 21,
       "url": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
       "published_at": "2026-11-15T17:00:25+00:00",
       "category": "Sport",
@@ -4254,6 +4382,22 @@
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française ».",
       "coverage_sources": [
         "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "12470ee14db6",
+      "title": "« Dans la tête de Quentin Tarantino » : un homme dont la vie et les films ne font qu’un",
+      "summary": "Dans ce documentaire, France Swimberge explore la biographie secrète d’un cinéaste pudique qui se cache derrière les excès sanglants et l’humour débridé de ses films. Ce soir à 20h05 sur Arte.",
+      "source": "L'Obs",
+      "feed_rank": 3,
+      "url": "https://www.nouvelobs.com/teleobs/20261115.OBS120168/dans-la-tete-de-quentin-tarantino-un-homme-dont-la-vie-et-les-films-ne-font-qu-un.html",
+      "published_at": "2026-11-15T17:00:05+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « « Dans la tête de Quentin Tarantino » : un homme dont la vie et les films ne font qu’un ».",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4359,7 +4503,7 @@
       "title": "Un commandant du Hamas tué par un drone israélien dans le sud de Gaza",
       "summary": "Un commandant de la branche militaire du mouvement islamiste palestinien Hamas a été tué par Israël dans le sud de la bande de Gaza, a fait savoir l'armée israélienne dimanche. Les bombardements se sont intensifiés ces derniers jours dans le sud du territoire palestinien.",
       "source": "France 24",
-      "feed_rank": 18,
+      "feed_rank": 22,
       "url": "https://www.france24.com/fr/moyen-orient/20261115-commandant-hamas-tu%C3%A9-par-drone-israel-dans-sud-de-gaza",
       "published_at": "2026-11-15T16:53:10+00:00",
       "category": "International",
@@ -4439,7 +4583,7 @@
       "title": "La Poste : Millions de coordonnées volées, enquête… Le point sur la vaste cyberattaque qui a visé une de ses filiales",
       "summary": "<p><a href=\"https://www.20minutes.fr/societe/4262898-20261114-maileva-groupe-poste-touche-cyberattaque-22-millions-personnes-concernees\">Maileva, une filiale de La Poste</a>, a annoncé samedi avoir été touchée par une <a href=\"https://www.20minutes.fr/dossier/cyberattaque\">cyberattaque</a> de grande ampleur. Les coordonnées de 22 millions de personnes…",
       "source": "20 Minutes",
-      "feed_rank": 20,
+      "feed_rank": 22,
       "url": "https://www.20minutes.fr/societe/4262975-20261115-poste-millions-coordonnees-volees-enquete-point-vaste-cyberattaque-vise-filiales?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T16:47:01+00:00",
       "category": "Société",
@@ -4478,6 +4622,22 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Marine Le Pen est-elle éligible? La question suscite un débat inédit dans la magistrature ».",
       "coverage_sources": [
         "Mediapart"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ce3e183ca6c0",
+      "title": "« Antisémitisme, une haine toujours en mouvements » : un poison sans frontières",
+      "summary": "Ce documentaire en deux parties retrace l’histoire de ce phénomène et dresse un état des lieux inquiétant. Ce soir à 21 heures sur France 5.",
+      "source": "L'Obs",
+      "feed_rank": 4,
+      "url": "https://www.nouvelobs.com/teleobs/20261115.OBS120167/antisemitisme-une-haine-toujours-en-mouvements-un-poison-sans-frontieres.html",
+      "published_at": "2026-11-15T16:45:12+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Antisémitisme, une haine toujours en mouvements » : un poison sans frontières » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4733,13 +4893,45 @@
       "title": "Lyon : « Volonté de lynchage », aucune interpellation… Ce que l’on sait de l’agression des journalistes de BFMTV",
       "summary": "<p>Ce samedi, en marge de la <a href=\"https://www.20minutes.fr/societe/4262788-20261114-direct-manifestation-14-novembre-70-000-policiers-gendarmes-mobilises-acte-v-jusqu-60-000-manifestants-attendus-paris\">manifestation</a> lyonnaise pour l&#x27;acte V du mouvement social, <a…",
       "source": "20 Minutes",
-      "feed_rank": 9,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/faits_divers/4262973-20261115-lyon-volonte-lynchage-aucune-interpellation-sait-agression-journalistes-bfmtv?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T16:31:59+00:00",
       "category": "Médias & communication",
       "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Lyon : « Volonté de lynchage », aucune interpellation… Ce que l’on sait de l’agression des journalistes de BFMTV ».",
       "coverage_sources": [
         "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6f3327aeb888",
+      "title": "Ski, luge, astronomie… les nouvelles expériences à vivre après le coucher du soleil",
+      "summary": "Pourquoi rester chez soi quand la nuit tombe sur les sommets ? Cet hiver, les stations proposent des expériences à vivre sous les étoiles, en mode grandeur nature.",
+      "source": "L'Obs",
+      "feed_rank": 5,
+      "url": "https://www.nouvelobs.com/tendances/20261115.OBS120166/ski-luge-astronomie-les-nouvelles-experiences-a-vivre-apres-le-coucher-du-soleil.html",
+      "published_at": "2026-11-15T16:30:28+00:00",
+      "category": "Société",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Ski, luge, astronomie… les nouvelles expériences à vivre après le coucher du soleil ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "45a4c2901612",
+      "title": "« Police Flash 80 » : François Damiens irrésistible en Dirty Harry des années 1980",
+      "summary": "Fan de Michel Sardou et amateur de méthodes musclées, ce policier caricatural entraîne sa brigade dans une farce pleine d’ironie. Ce soir à 21h05 sur Canal+ et disponible à la demande sur myCANAL.",
+      "source": "L'Obs",
+      "feed_rank": 6,
+      "url": "https://www.nouvelobs.com/teleobs/20261115.OBS120165/police-flash-80-francois-damiens-irresistible-en-dirty-harry-des-annees-1980.html",
+      "published_at": "2026-11-15T16:30:21+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « « Police Flash 80 » : François Damiens irrésistible en Dirty Harry des années 1980 ».",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4781,7 +4973,7 @@
       "title": "Bordeaux : Son conjoint l’enferme dans la chambre avant d’y mettre le feu… Une mère de famille tuée par son compagnon",
       "summary": "<p>Le scénario est d’une perversité absolue. <a href=\"https://www.20minutes.fr/societe/4262285-20261112-gironde-femme-46-ans-entre-vie-mort-apres-mari-tente-tuer-incendiant-maison\">Une mère de famille, « très grièvement brûlée » après que son conjoint</a> a mis le feu à la chambre où il s’était enfermé avec elle, a succombé à ses blessures dans la nuit…",
       "source": "20 Minutes",
-      "feed_rank": 19,
+      "feed_rank": 21,
       "url": "https://www.20minutes.fr/faits_divers/faits-divers-bordeaux/4262972-20261115-bordeaux-conjoint-enferme-chambre-avant-mettre-feu-mere-famille-tuee-compagnon?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T16:12:04+00:00",
       "category": "Société",
@@ -4909,7 +5101,7 @@
       "title": "Avec Panayotis Pascot et Marina Rollman : \"Toutes les partouzes débutent avec des gens qui ne veulent pas jouer !\"",
       "summary": "Pour la sortie du film \"Camembert\", Panayotis Pascot er Marina Rollman viennent digresser avec la belle-famille.",
       "source": "France Inter",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/chez-la-belle-famille/chez-la-belle-famille-du-dimanche-15-novembre-2026-7060608",
       "published_at": "2026-11-15T16:04:40+00:00",
       "category": "Société",
@@ -5033,17 +5225,49 @@
       "mention_count": 1
     },
     {
+      "id": "029767bc8184",
+      "title": "Diam’s, Stromae, Angèle... Quand le succès devient trop lourd à porter",
+      "summary": "Ils ont vendu des cargaisons d’albums, enchaîné les tournées, trusté les médias, affolé les réseaux sociaux. Mais, de Diam’s à Stromae en passant par Angèle, qu’y ont-ils laissé de leur santé mentale ?",
+      "source": "L'Obs",
+      "feed_rank": 7,
+      "url": "https://www.nouvelobs.com/musique/20261115.OBS120164/diam-s-stromae-angele-quand-le-succes-devient-trop-lourd-a-porter.html",
+      "published_at": "2026-11-15T16:00:11+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Diam’s, Stromae, Angèle... Quand le succès devient trop lourd à porter ».",
+      "coverage_sources": [
+        "L'Obs"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "b5102ae894be",
       "title": "Incendie en Gironde : au Porge, où « personne n’est resté à la rue », des relogements temporaires et des inquiétudes sur la reconstruction",
       "summary": "Les quelque 250 foyers touchés par les feux de juillet ont pu retrouver un toit, notamment dans les meublés touristiques, d’où ils devront repartir avant l’été. De nombreux propriétaires attendent surtout de savoir dans quelles conditions ils pourront reconstruire.",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 13,
       "url": "https://www.lemonde.fr/societe/article/2026/11/15/incendie-en-gironde-au-porge-ou-personne-n-est-reste-a-la-rue-des-relogements-temporaires-et-des-inquietudes-sur-la-reconstruction_6811032_3224.html",
       "published_at": "2026-11-15T16:00:07+00:00",
       "category": "Environnement",
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Incendie en Gironde : au Porge, où « personne n’est resté à la rue », des relogements temporaires et des inquiétudes sur la reconstruction ».",
       "coverage_sources": [
         "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d1db911329fb",
+      "title": "Pourquoi n’ai-je pas lancé plus tôt un collectif de parents avec mes voisins ?",
+      "summary": "Cette semaine, notre journaliste s’interroge sur son initiative tardive de créer un groupe d’entraide parentale dans son immeuble.",
+      "source": "L'Obs",
+      "feed_rank": 8,
+      "url": "https://www.nouvelobs.com/opinions/20261115.OBS120163/pourquoi-n-ai-je-pas-lance-plus-tot-un-collectif-de-parents-avec-mes-voisins.html",
+      "published_at": "2026-11-15T16:00:03+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Pourquoi n’ai-je pas lancé plus tôt un collectif de parents avec mes voisins ? ».",
+      "coverage_sources": [
+        "L'Obs"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5085,7 +5309,7 @@
       "title": "Georges Kars (1882-1945), un peintre du monde d’hier",
       "summary": "À Paris, à Prague, les œuvres de Georges Kars ont figuré dans les expositions et les galeries à côté des génies de son temps. Méconnu, ce peintre de l’École de Paris ressurgit aujourd’hui, et avec lui l’écho d’un monde détruit par la guerre, la Shoah et l’oubli.",
       "source": "France Culture",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/georges-kars-1882-1945-un-peintre-du-monde-d-hier-4618060",
       "published_at": "2026-11-15T16:00:00+00:00",
       "category": "Culture",
@@ -5133,237 +5357,13 @@
       "title": "« Je n’en pense pas grand-chose », Victor Wembanyama pas franchement emballé par la candidature de Riner",
       "summary": "<p>Alors que le monde du sport a longuement réagi à l’annonce de la candidature de Teddy Riner à la prochaine élection présidentielle, en début de semaine, il en est un, et non des moindres, qui n’avait pas donné son avis jusque-là. Il s’agit de <a href=\"https://www.20minutes.fr/sport/victor-wembanyama/\">Victor Wembanyama</a>, qui n’hésite jamais à…",
       "source": "20 Minutes",
-      "feed_rank": 23,
+      "feed_rank": 25,
       "url": "https://www.20minutes.fr/sport/tennis/4262966-20261115-pense-grand-chose-victor-wembanyama-franchement-emballe-candidature-riner?at_medium=display&at_campaign=149",
       "published_at": "2026-11-15T15:57:40+00:00",
       "category": "Société",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « Je n’en pense pas grand-chose », Victor Wembanyama pas franchement emballé par la candidature de Riner ».",
       "coverage_sources": [
         "20 Minutes"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9b54ebfe2e12",
-      "title": "Trafic aérien à l’arrêt : au saut du lit, Donald Trump décide de blâmer... Joe Biden",
-      "summary": "Alors que le trafic aérien est perturbé aux États-Unis et s’est même retrouvé complètement à l’arrêt vendredi, Donald Trump a réagi ce dimanche, faisant retomber la faute sur Joe Biden.",
-      "source": "Paris Match",
-      "feed_rank": 6,
-      "url": "https://www.parismatch.com/trafic-aerien-larret-saut-lit-donald-trump-decide-blamer-joe-biden-7KHdKZRjJ7D9UjyIvOlW97",
-      "published_at": "2026-11-15T15:54:07+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Trafic aérien à l’arrêt : au saut du lit, Donald Trump décide de blâmer... Joe Biden ».",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "692c27aaba47",
-      "title": "Au Niger, la détention de Moussa Kaka inquiète les défenseurs des droits humains",
-      "summary": "Ancien correspondant de RFI au Niger, Moussa Kaka a été arrêté en août par les autorités militaires, qui n'ont officiellement annoncé sa détention qu'en octobre. Depuis plus de deux mois, plusieurs associations de défense des droits humains tentent d'alerter la communauté internationale sur sa situation, sans obtenir de réaction majeure à ce stade.…",
-      "source": "France 24",
-      "feed_rank": 19,
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-au-niger-la-d%C3%A9tention-de-moussa-kaka-inqui%C3%A8te-les-d%C3%A9fenseurs-des-droits-humains",
-      "published_at": "2026-11-15T15:49:32+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Au Niger, la détention de Moussa Kaka inquiète les défenseurs des droits humains ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9dda8cbffe41",
-      "title": "Présidentielle 2027 : discuter oui, mais pas plus… après l’appel de Gérard Larcher, Edouard Philippe renouvelle son refus d’une primaire",
-      "summary": "Edouard Philippe a pris la parole dans les colonnes du Parisien ce dimanche 15 novembre. Hier, le président du Sénat Gérard Larcher a appelé à une réunion des candidats du centre et de la droite \"dans les plus brefs...",
-      "source": "Midi Libre",
-      "feed_rank": 6,
-      "url": "https://www.midilibre.fr/2026/11/15/presidentielle-2027-discuter-oui-mais-pas-plus-apres-lappel-de-gerard-larcher-edouard-philippe-renouvelle-son-refus-dune-primaire-13653913.php",
-      "published_at": "2026-11-15T15:47:42+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : discuter oui, mais pas plus… après l’appel de Gérard Larcher, Edouard Philippe renouvelle son refus d’une primaire ».",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "473c90157a3b",
-      "title": "Guerre au Moyen-Orient : à Bahreïn, l’Iran reprend ses frappes contre les installations américaines",
-      "summary": "Les Gardiens de la révolution ont revendiqué, dimanche 15 novembre, deux attaques de drones contre des installations militaires américaines à Bahreïn en trois jours. Si les frappes n’ont causé aucun dommage, elles interviennent alors que Donald Trump multiplie les signaux contradictoires sur l’Iran.",
-      "source": "La Croix",
-      "feed_rank": 4,
-      "url": "https://www.la-croix.com/international/guerre-au-moyen-orient-a-bahrein-l-iran-reprend-ses-frappes-contre-les-installations-americaines-20261115",
-      "published_at": "2026-11-15T15:47:41+00:00",
-      "category": "International",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre au Moyen-Orient : à Bahreïn, l’Iran reprend ses frappes contre les installations américaines ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "a9b5bb1e9e8a",
-      "title": "« Face au fascisme, il faut s’inspirer de la manière dont Gramsci posait les problèmes » : entretien avec l’éditeur Manuel Esposito",
-      "summary": "En mai 2026, La Variation publiait « Que faire face au fascisme ? », un recueil de textes politiques et intimes d’Antonio Gramsci. Cette introduction à la pensée du philosophe qui co-fonda le Parti communiste italien (PCd’I) offre des pistes de réflexion pour lutter concrètement contre la montée de l’extrême droite.",
-      "source": "L'Humanité",
-      "feed_rank": 16,
-      "url": "https://www.humanite.fr/en-debat/antifascisme/face-au-fascisme-il-faut-sinspirer-de-la-maniere-dont-gramsci-posait-les-problemes-entretien-avec-lediteur-manuel-esposito",
-      "published_at": "2026-11-15T15:44:39+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « « Face au fascisme, il faut s’inspirer de la manière dont Gramsci posait les problèmes » : entretien avec l’éditeur Manuel Esposito » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bfc5063c4858",
-      "title": "\"Dans Gaza\" : le documentaire sur le travail des reporters palestiniens de l’AFP distingué au Canada",
-      "summary": "Réalisé par Hélène Lam Trong, \"Dans Gaza\" a remporté samedi le prix du meilleur documentaire au festival Cinemania de Montréal. Ce film de 72 minutes plonge dans le quotidien de quatre journalistes palestiniens de l'AFP, qui ont couvert les premiers mois de la guerre au péril de leur vie.",
-      "source": "Euronews",
-      "feed_rank": 9,
-      "url": "https://fr.euronews.com/2026/11/15/dans-gaza-le-documentaire-sur-le-travail-des-reporters-palestiniens-de-lafp-distingue-au-c",
-      "published_at": "2026-11-15T15:43:50+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « \"Dans Gaza\" : le documentaire sur le travail des reporters palestiniens de l’AFP distingué au Canada ».",
-      "coverage_sources": [
-        "Euronews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "11581da9b852",
-      "title": "Manifestations, blocages lycéens, vie chère : une nouvelle semaine de mobilisations s'annonce à Toulouse... Voici à quoi s'attendre",
-      "summary": "Manifestation intersyndicale, nouvel appel à l'acte VI contre la vie chère et blocages lycéens : la semaine du 16 au 22 novembre s'annonce une nouvelle fois chargée à Toulouse. Plusieurs mobilisations sont déjà...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 14,
-      "url": "https://www.ladepeche.fr/2026/11/15/manifestations-blocages-lyceens-vie-chere-une-nouvelle-semaine-de-mobilisations-sannonce-a-toulouse-voici-a-quoi-sattendre-13653953.php",
-      "published_at": "2026-11-15T15:39:27+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Manifestations, blocages lycéens, vie chère : une nouvelle semaine de mobilisations s'annonce à Toulouse... Voici à quoi s'attendre ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "03e77cff483c",
-      "title": "\"J'ai pété un câble\" : parti enterrer sa grand-mère, il se retrouve accusé d'avoir frappé un contrôleur SNCF et doit désormais vendre sa maison pour payer 148 000 euros",
-      "summary": "Alors qu'il se rend aux obsèques de sa grand-mère en 2021, Arnaud se fait contrôler à bord d'un TGV. Il bénéficie d'avantages car sa mère travaille à la SNCF, mais le contrôleur le verbalise. Le contrôle dérape et le...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 21,
-      "url": "https://www.ladepeche.fr/2026/11/15/jai-pete-un-cable-parti-enterrer-sa-grand-mere-il-se-retrouve-accuse-davoir-frappe-un-controleur-sncf-et-doit-desormais-vendre-sa-maison-pour-payer-13653762.php",
-      "published_at": "2026-11-15T15:37:00+00:00",
-      "category": "Économie",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « \"J'ai pété un câble\" : parti enterrer sa grand-mère, il se retrouve accusé d'avoir frappé un contrôleur SNCF et doit désormais vendre sa maison pour p ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "16227b3665e1",
-      "title": "«Ignoble» : le slogan ACAB scandé au Bataclan la veille de l’anniversaire des attentats",
-      "summary": "Une partie du public du concert d’Artemas a entonné un slogan hostile à la police dans la salle parisienne du Bataclan. L’épisode, survenu la veille de l’anniversaire des attentats de 2015, soulève un tollé.",
-      "source": "Le JDD",
-      "feed_rank": 5,
-      "url": "https://www.lejdd.fr/Societe/ignoble-le-slogan-acab-scande-au-bataclan-la-veille-de-lanniversaire-des-attentats-188787",
-      "published_at": "2026-11-15T15:36:20+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « «Ignoble» : le slogan ACAB scandé au Bataclan la veille de l’anniversaire des attentats ».",
-      "coverage_sources": [
-        "Le JDD"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "697f47d1e460",
-      "title": "\"Tout le monde a travaillé d'arrache-pied\": le lycée Nelson-Mandela à Nantes va rouvrir ses portes ce lundi après un incendie durant un blocage",
-      "summary": "Le lycée Nelson-Mandela va rouvrir ses portes ce lundi après avoir été en partie incendié le 1er octobre dernier. Comme il l'a déclaré ce dimanche sur RMC, le proviseur, Giovanni Colavecchi, espère désormais \"que tout le monde va comprendre les enjeux de premiers jours dans l'établissement dans des conditions au moins stables et sereines\".",
-      "source": "RMC",
-      "feed_rank": 2,
-      "url": "https://rmc.bfmtv.com/actualites/societe/education/tout-le-monde-a-travaille-d-arrache-pied-le-lycee-nelson-mandela-a-nantes-va-rouvrir-ses-portes-ce-lundi-apres-un-incendie-durant-un-blocage_AN-202611150295.html",
-      "published_at": "2026-11-15T15:36:05+00:00",
-      "category": "Environnement",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « \"Tout le monde a travaillé d'arrache-pied\": le lycée Nelson-Mandela à Nantes va rouvrir ses portes ce lundi après un incendie durant un blocage ».",
-      "coverage_sources": [
-        "RMC"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d89ef7b961ae",
-      "title": "Drôme. « Dès qu’il pleut, on est obligé de mettre des seaux » : au lycée du Dauphiné à Romans, les signalements d'élèves se multiplient",
-      "summary": "Du 5 au 23 octobre, les élèves de près de 3 000 lycées français étaient invités à signaler les difficultés rencontrées au quotidien sur la plateforme Agora. Cette consultation a été lancée par le ministère de l’Éducation nationale en réponse aux mouvements de mobilisation lycéenne. Dans la Drôme et en Ardèche, plusieurs établissements ont été épinglés,…",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 10,
-      "url": "https://www.ledauphine.com/education/2026/11/15/des-qu-il-pleut-on-est-oblige-de-mettre-des-seaux-au-lycee-du-dauphine-a-romans-les-signalements-d-eleves-se-multiplient",
-      "published_at": "2026-11-15T15:35:00+00:00",
-      "category": "Culture",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Drôme. « Dès qu’il pleut, on est obligé de mettre des seaux » : au lycée du Dauphiné à Romans, les signalements d'élèves se multiplient ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "093cc6a3aa16",
-      "title": "Présidentielle 2027 : « Cette primaire, je n’y participerai pas. Point. »… Edouard Philippe balaye (encore) cette idée",
-      "summary": "<p>Interview après interview, sa réponse est catégorique : <a href=\"https://www.20minutes.fr/politique/edouard-philippe/\">Edouard Philippe</a> refuse d’entendre parler d’une <a href=\"https://www.20minutes.fr/politique/4262516-20261112-presidentielle-2027-retailleau-insiste-primaire-philippe-redit-non\">primaire de la droite et du centre</a>. Dans une…",
-      "source": "20 Minutes",
-      "feed_rank": 21,
-      "url": "https://www.20minutes.fr/politique/4262961-20261115-presidentielle-2027-primaire-participerai-point-edouard-philippe-balaye-encore-idee?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-15T15:34:13+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : « Cette primaire, je n’y participerai pas. Point. »… Edouard Philippe balaye (encore) cette idée ».",
-      "coverage_sources": [
-        "20 Minutes"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "45ce4bef913c",
-      "title": "Théâtre : « La Seconde surprise de l’amour » de Marivaux, ou l’art de recommencer à aimer",
-      "summary": "Dans une mise en scène à la fois classique et fantaisiste du collectif Voix des Plumes, La Seconde surprise de l’amour explore avec ironie et délicatesse la renaissance inattendue de deux cœurs en peine.",
-      "source": "La Croix",
-      "feed_rank": 5,
-      "url": "https://www.la-croix.com/culture/theatre-la-seconde-surprise-de-l-amour-de-marivaux-ou-lart-de-recommencer-a-aimer-20261115",
-      "published_at": "2026-11-15T15:31:47+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Théâtre : « La Seconde surprise de l’amour » de Marivaux, ou l’art de recommencer à aimer » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "8f9177b1ea79",
-      "title": "Crise au Paraguay : les dix jours où le crash d’une banque a fait sauter le pays",
-      "summary": "La faillite de Ueno Bank, dont près de la moitié de la population était cliente, a provoqué la destitution du président conservateur, étroitement lié à l’établissement. Et chaque jour apporte de nouvelles révélations sur le scandale financier.",
-      "source": "Libération",
-      "feed_rank": 18,
-      "url": "https://www.liberation.fr/international/amerique/crise-au-paraguay-les-dix-jours-ou-le-crash-dune-banque-a-fait-sauter-le-pays-20261115_YNIWRBCUTBBGJEMDX5NQL7TBHM/",
-      "published_at": "2026-11-15T15:31:25+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Crise au Paraguay : les dix jours où le crash d’une banque a fait sauter le pays ».",
-      "coverage_sources": [
-        "Libération"
       ],
       "coverage_count": 1,
       "mention_count": 1
