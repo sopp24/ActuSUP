@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-17T22:15:24.284531+00:00",
-  "last_attempt": "2026-11-17T22:15:24.284531+00:00",
+  "last_updated": "2026-11-17T22:34:43.599575+00:00",
+  "last_attempt": "2026-11-17T22:34:43.599575+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 908,
-  "unique_story_count": 806,
+  "unique_story_count": 807,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-18T22:15:24.284531+00:00",
-  "featured_window_end": "2026-11-17T22:15:24.284531+00:00",
+  "featured_window_start": "2026-10-18T22:34:43.599575+00:00",
+  "featured_window_end": "2026-11-17T22:34:43.599575+00:00",
   "featured_pool_count": 906,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "8df3f1523c84",
-      "title": "\"Cette primaire, c'est un marché de dupes\" : sur LCI, Gérald Darmanin renouvelle son soutien à Édouard Philippe",
-      "summary": "Invité ce mardi soir sur LCI, Gérald Darmanin a réaffirmé son soutien envers Édouard Philippe. Interrogé sur la question d'une primaire, le ministre de la Justice a critiqué Gabriel Attal et Bruno Retailleau, qui devraient selon lui se rallier à l'ex-Premier ministre.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
-      "url": "https://www.tf1info.fr/politique/elections/presidentielle/video-replay-interview-darius-rochebin-cette-primaire-c-est-un-marche-de-dupes-sur-lci-gerald-darmanin-renouvelle-son-soutien-a-edouard-philippe-2476507.html",
-      "published_at": "2026-11-17T21:27:43+00:00",
-      "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « \"Cette primaire, c'est un marché de dupes\" : sur LCI, Gérald Darmanin renouvelle son soutien à Édouard Philippe ».",
+      "id": "ceb277f3b6a2",
+      "title": "FORUM BFMTV - Manifestations en France: \"Il faut condamner toutes les violences\", rappelle Yannis, employé polyvalent",
+      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-manifestations-en-france-il-faut-condamner-toutes-les-violences-rappelle-yannis-employe-polyvalent_VN-202611171000.html",
+      "published_at": "2026-11-17T22:28:27+00:00",
+      "category": "Société",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « FORUM BFMTV - Manifestations en France: \"Il faut condamner toutes les violences\", rappelle Yannis, employé polyvalent ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -48,7 +48,6 @@
         "L'Obs",
         "L'Opinion",
         "Libération",
-        "Ouest-France",
         "RMC",
         "Sud Ouest",
         "20 Minutes",
@@ -60,13 +59,12 @@
         "Le JDD",
         "Midi Libre",
         "Public Sénat",
-        "Valeurs actuelles",
-        "Next.ink"
+        "Valeurs actuelles"
       ],
-      "coverage_count": 32,
-      "mention_count": 159,
-      "importance_score": 35.185,
-      "latest_coverage_at": "2026-11-17T21:58:34+00:00"
+      "coverage_count": 30,
+      "mention_count": 164,
+      "importance_score": 34.846,
+      "latest_coverage_at": "2026-11-17T22:28:27+00:00"
     },
     {
       "id": "a31387cb71e6",
@@ -95,15 +93,15 @@
       ],
       "coverage_count": 13,
       "mention_count": 21,
-      "importance_score": 25.785,
-      "latest_coverage_at": "2026-11-17T21:44:54+00:00"
+      "importance_score": 25.78,
+      "latest_coverage_at": "2026-11-17T22:30:40+00:00"
     },
     {
       "id": "88ebfeb0105b",
       "title": "La mère et le père de la \"petite martyre de l'A10\" condamnés à 20 ans et 15 ans de réclusion criminelle au terme de deux semaines de procès",
       "summary": "Halima El Bakhti et Ahmed Touloub, les parents d'Inass, la \"petite martyre de l'A10\" retrouvée sans vie au bord de l'autoroute en 1987, étaient jugés depuis le 2 novembre à Blois (Loir-et-Cher) pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\" et \"complicité\" des mêmes faits.",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 13,
       "url": "https://www.bfmtv.com/police-justice/la-mere-et-le-pere-de-la-petite-martyre-de-l-a10-condamnes-a-20-ans-et-15-ans-de-reclusion-criminelle-au-terme-de-deux-semaines-de-proces_AN-202611170982.html",
       "published_at": "2026-11-17T21:49:24+00:00",
       "category": "Société",
@@ -125,8 +123,8 @@
       ],
       "coverage_count": 13,
       "mention_count": 16,
-      "importance_score": 25.544,
-      "latest_coverage_at": "2026-11-17T21:49:24+00:00"
+      "importance_score": 25.51,
+      "latest_coverage_at": "2026-11-17T22:13:04+00:00"
     },
     {
       "id": "d0827cda2c76",
@@ -151,7 +149,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 13,
-      "importance_score": 22.761,
+      "importance_score": 22.757,
       "latest_coverage_at": "2026-11-17T19:30:05+00:00"
     },
     {
@@ -176,7 +174,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 9,
-      "importance_score": 21.425,
+      "importance_score": 21.424,
       "latest_coverage_at": "2026-11-17T19:53:35+00:00"
     },
     {
@@ -201,8 +199,32 @@
       ],
       "coverage_count": 8,
       "mention_count": 10,
-      "importance_score": 21.261,
+      "importance_score": 21.251,
       "latest_coverage_at": "2026-11-17T17:28:36+00:00"
+    },
+    {
+      "id": "f1292e238b93",
+      "title": "Logement : l’Assemblée adopte un amendement RN supprimant les interdictions de louer des passoires thermiques",
+      "summary": "Les députés ont adopté mardi, par 108 voix contre 102, un amendement permettant aux propriétaires de logements considérés comme des passoires thermiques de les louer dans certains cas.",
+      "source": "Le Figaro",
+      "feed_rank": 18,
+      "url": "https://www.lefigaro.fr/actualite-france/logement-l-assemblee-adopte-un-amendement-rn-supprimant-les-interdictions-de-louer-des-passoires-thermiques-20261117",
+      "published_at": "2026-11-17T22:09:45+00:00",
+      "category": "Politique",
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Logement : l’Assemblée adopte un amendement RN supprimant les interdictions de louer des passoires thermiques ».",
+      "coverage_sources": [
+        "Le Monde",
+        "Le Figaro",
+        "20 Minutes",
+        "L'Humanité",
+        "La Croix",
+        "LCP",
+        "Reporterre"
+      ],
+      "coverage_count": 7,
+      "mention_count": 8,
+      "importance_score": 20.494,
+      "latest_coverage_at": "2026-11-17T22:09:45+00:00"
     },
     {
       "id": "b95d4641ea11",
@@ -225,7 +247,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.087,
+      "importance_score": 20.073,
       "latest_coverage_at": "2026-11-17T19:56:47+00:00"
     },
     {
@@ -233,7 +255,7 @@
       "title": "iCloud, App Store... Des \"pannes\" perturbent l'accès à plusieurs services d'Apple",
       "summary": "Des \"problèmes\" touchent notamment le service de stockage en ligne iCloud depuis mardi en fin d'après-midi. \"Ce service peut être lent ou indisponible\", rapporte l'entreprise, qui ne précise pas la cause de ces dysfonctionnements.",
       "source": "Franceinfo (TV)",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.franceinfo.fr/internet/icloud-appstore-des-pannes-perturbent-l-acces-a-plusieurs-services-d-apple_8287028.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-17T21:08:16+00:00",
       "category": "Économie",
@@ -248,7 +270,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 8,
-      "importance_score": 19.594,
+      "importance_score": 19.57,
       "latest_coverage_at": "2026-11-17T22:02:03+00:00"
     },
     {
@@ -275,29 +297,6 @@
       "latest_coverage_at": "2026-11-17T21:17:05+00:00"
     },
     {
-      "id": "0fcfdcaa375a",
-      "title": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
-      "summary": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en supprimant toutes les interdictions de louer liées au diagnostic de performance énergétique.",
-      "source": "Le Monde",
-      "feed_rank": 10,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
-      "published_at": "2026-11-17T20:46:06+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE ».",
-      "coverage_sources": [
-        "Le Monde",
-        "20 Minutes",
-        "L'Humanité",
-        "La Croix",
-        "LCP",
-        "Reporterre"
-      ],
-      "coverage_count": 6,
-      "mention_count": 7,
-      "importance_score": 19.452,
-      "latest_coverage_at": "2026-11-17T20:46:06+00:00"
-    },
-    {
       "id": "02083fed6a72",
       "title": "Allemagne : une fuite de documents embarrasse la Deutsche Bank, Berlin réclame la transparence",
       "summary": "Une fuite de plus de 15 millions de documents internes met en cause la Deutsche Bank, selon une enquête parue mardi 17 novembre. Le ministre des finances allemand Lars Klingbeil exige une transparence totale sur les défaillances de contrôle de la banque francfortoise.",
@@ -317,7 +316,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.231,
+      "importance_score": 19.23,
       "latest_coverage_at": "2026-11-17T21:30:00+00:00"
     },
     {
@@ -340,7 +339,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.16,
+      "importance_score": 19.129,
       "latest_coverage_at": "2026-11-17T20:59:04+00:00"
     },
     {
@@ -384,7 +383,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.794,
+      "importance_score": 17.756,
       "latest_coverage_at": "2026-11-17T19:50:34+00:00"
     },
     {
@@ -406,7 +405,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.707,
+      "importance_score": 17.67,
       "latest_coverage_at": "2026-11-17T18:29:00+00:00"
     },
     {
@@ -428,8 +427,30 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.632,
+      "importance_score": 17.622,
       "latest_coverage_at": "2026-11-17T17:43:17+00:00"
+    },
+    {
+      "id": "40be581e5eb1",
+      "title": "Emmanuel Macron assure avoir “fait de son mieux” malgré des \"erreurs\": “C'est bizarre comme justification, c’est crépusculaire”",
+      "summary": "À six mois de la fin de son second mandat et dix ans jour pour jour après l'annonce de sa première candidature, Emmanuel Macron a dressé son bilan sur X en concédant “parfois des erreurs”. Une prise de parole qui a immédiatement provoqué de vives réactions.",
+      "source": "RMC",
+      "feed_rank": 4,
+      "url": "https://rmc.bfmtv.com/actualites/politique/emmanuel-macron-assure-avoir-fait-de-son-mieux-malgre-des-erreurs-c-est-bizarre-comme-justification-c-est-crepusculaire_AV-202611170865.html",
+      "published_at": "2026-11-17T18:51:47+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Emmanuel Macron assure avoir “fait de son mieux” malgré des \"erreurs\": “C'est bizarre comme justification, c’est crépusculaire” » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France 24",
+        "France Culture",
+        "RMC",
+        "LCP",
+        "Next.ink"
+      ],
+      "coverage_count": 5,
+      "mention_count": 5,
+      "importance_score": 17.598,
+      "latest_coverage_at": "2026-11-17T18:51:47+00:00"
     },
     {
       "id": "1543cd646f9b",
@@ -450,7 +471,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.369,
+      "importance_score": 17.331,
       "latest_coverage_at": "2026-11-17T18:46:16+00:00"
     },
     {
@@ -472,7 +493,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.355,
+      "importance_score": 17.317,
       "latest_coverage_at": "2026-11-17T17:00:19+00:00"
     },
     {
@@ -493,38 +514,146 @@
       ],
       "coverage_count": 4,
       "mention_count": 7,
-      "importance_score": 16.867,
+      "importance_score": 16.84,
       "latest_coverage_at": "2026-11-17T18:07:52+00:00"
-    },
-    {
-      "id": "4bc176f0b0b5",
-      "title": "Au procès de l’agression de Michel Zecler, trois policiers, quelques excuses, mais surtout pas de racisme",
-      "summary": "Entre mea culpa et justification, les accusés ont été interrogés ce mardi 17 novembre par la cour criminelle départementale de Paris sur l’interpellation violente du producteur de musique. Ils répondront mercredi aux questions sur les faux procès-verbaux.",
-      "source": "Libération",
-      "feed_rank": 4,
-      "url": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-trois-policiers-quelques-excuses-mais-surtout-pas-de-racisme-20261117_NNQFLBRESBHF5LDTSVQRMQQPKM/",
-      "published_at": "2026-11-17T21:08:22+00:00",
-      "category": "Culture",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Au procès de l’agression de Michel Zecler, trois policiers, quelques excuses, mais surtout pas de racisme ».",
-      "coverage_sources": [
-        "Libération",
-        "Sud Ouest",
-        "L'Humanité",
-        "La Croix"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.475,
-      "latest_coverage_at": "2026-11-17T21:34:29+00:00"
     }
   ],
   "articles": [
     {
+      "id": "c0b7b7dbb722",
+      "title": "Ligue des Nations. La Norvège qualifiée in extremis pour les quarts de finale, le Portugal conserve sa première place",
+      "summary": "Face au Danemark, la Norvège a arraché le dernier ticket pour les quarts de finale (3-2) de la Ligue des nations, ce mardi 17 novembre. Erling Haaland, auteur de deux buts, a été décisif en transformant un penalty à la sixième minute du temps additionnel. Le Portugal a dominé le pays de Galles (3-2) et conserve sa première place.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/sport/football/ligue-des-nations/ligue-des-nations-la-norvege-qualifiee-in-extremis-pour-les-quarts-de-finale-le-portugal-conserve-sa-premiere-place-eaa6158e-e2cc-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-17T22:32:58+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des Nations. La Norvège qualifiée in extremis pour les quarts de finale, le Portugal conserve sa première place » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "573ac551a47d",
+      "title": "« C’est un rêve » : Lola remporte la finale de « Koh-Lanta : All Stars » au terme d’une soirée riche en suspense",
+      "summary": "La Une a diffusé l’ultime épisode de sa saison spéciale, rassemblant la crème de la crème des aventuriers des éditions précédentes, ce mardi 17 novembre 2026. Au terme d’une longue soirée, la candidate originaire du Nord l’a finalement emporté avec six votes, contre trois pour Freddy qui lui faisait face.",
+      "source": "Ouest-France",
+      "feed_rank": 2,
+      "url": "https://programmetv.ouest-france.fr/divers/telerealite/koh-lanta-m96969668/cest-un-reve-lola-remporte-la-finale-de-koh-lanta-all-stars-au-terme-dune-soiree-riche-en-suspense-bb4f4eea-e290-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-17T22:30:21+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « « C’est un rêve » : Lola remporte la finale de « Koh-Lanta : All Stars » au terme d’une soirée riche en suspense ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "fb3b20891ab0",
+      "title": "Koh-Lanta All Stars : Lola remporte l'épreuve des poteaux et gagne la finale face à Freddy",
+      "summary": "La finale de \"Koh-Lanta All Stars\" a été remportée par Lola mardi soir sur TF1. Elle avait déjà remportée l'épreuve mythique des poteaux. Les trois derniers aventuriers en finale étaient Lola, Christina et Freddy.",
+      "source": "La Dépêche du Midi",
+      "feed_rank": 5,
+      "url": "https://www.ladepeche.fr/2026/11/17/koh-lanta-all-stars-lola-remporte-lepreuve-des-poteaux-et-gagne-la-finale-face-a-freddy-13655253.php",
+      "published_at": "2026-11-17T22:30:08+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Koh-Lanta All Stars : Lola remporte l'épreuve des poteaux et gagne la finale face à Freddy » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "La Dépêche du Midi"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e4b0d28d9744",
+      "title": "À Nantes, le fiasco de la réouverture du lycée Nelson Mandela tourne au règlement de comptes politique",
+      "summary": "La maire de Nantes, Johanna Rolland saluant le ministre de l’Éducation nationale Édouard Geffray, devant le lycée Nelson Mandela, le 16 novembre 2026. Derrière eux, la présidente de la région des Pays de la Loire, Christelle Morançais, accueille le préfet de Loire-Atlantique, Laurent Hottiaux.",
+      "source": "Le Figaro",
+      "feed_rank": 16,
+      "url": "https://www.lefigaro.fr/nantes/a-nantes-le-fiasco-de-la-reouverture-du-lycee-nelson-mandela-tourne-au-reglement-de-comptes-politique-20261117",
+      "published_at": "2026-11-17T22:26:27+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « À Nantes, le fiasco de la réouverture du lycée Nelson Mandela tourne au règlement de comptes politique ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "9bc62d5b1fbd",
+      "title": "FORUM BFMTV - Police en manifestation: \"Il y a un ras-le-bol complet et en face de nous, il y a un gouvernement qui ferme les yeux\", note Jean-Christophe Couvy, secrétaire national du syndicat de police UN1TÉ",
+      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
+      "source": "BFMTV",
+      "feed_rank": 3,
+      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-police-en-manifestation-il-y-a-un-ras-le-bol-complet-et-en-face-de-nous-il-y-a-un-gouvernement-qui-ferme-les-yeux-note-jean-christophe-couvy-secretaire-national-du-syndicat-de-police-un1te_VN-202611170999.html",
+      "published_at": "2026-11-17T22:24:40+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « FORUM BFMTV - Police en manifestation: \"Il y a un ras-le-bol complet et en face de nous, il y a un gouvernement qui ferme les yeux\", note Jean-Christo ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 13
+    },
+    {
+      "id": "f9e1a0284cc3",
+      "title": "Des systèmes internes de la NSA, l'agence américaine de renseignement, \"affectés\" durant une opération de maintenance",
+      "summary": "La chaîne américaine CNN avait rapporté plus tôt mardi dans la journée que NSA Net, le réseau de communication interne utilisé par ses employés pour échanger des informations classifiées, était hors service.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 7,
+      "url": "https://www.franceinfo.fr/monde/usa/des-systemes-internes-de-la-nsa-l-agence-americaine-de-renseignement-affectes-durant-une-operation-de-maintenance_8287238.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-17T22:23:53+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Des systèmes internes de la NSA, l'agence américaine de renseignement, \"affectés\" durant une opération de maintenance » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
+      "id": "5260eb75fcb8",
+      "title": "\"Un défilé de perturbations\": la pluie va continuer de tomber partout en France jusqu'à la fin de la semaine",
+      "summary": "La pluie va tomber toute la semaine avec seulement une accalmie samedi, selon un bulletin publié par Météo-France mardi 17 novembre.",
+      "source": "BFMTV",
+      "feed_rank": 4,
+      "url": "https://www.bfmtv.com/meteo/un-defile-de-perturbations-la-pluie-va-continuer-de-tomber-partout-en-france-jusqu-a-la-fin-de-la-semaine_AN-202611170997.html",
+      "published_at": "2026-11-17T22:21:04+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"Un défilé de perturbations\": la pluie va continuer de tomber partout en France jusqu'à la fin de la semaine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e49209afc3d5",
+      "title": "Résultats EuroMillions: le tirage du mardi 17 novembre 2026",
+      "summary": "Ce mardi 17 novembre 2026 a eu lieu le premier tirage de l'EuroMillions de la semaine. Les joueurs peuvent consulter les 5 numéros et les 2 étoiles tirés au sort sur cette page.",
+      "source": "BFMTV",
+      "feed_rank": 5,
+      "url": "https://www.bfmtv.com/loto/resultats-euro-millions-le-tirage-du-mardi-17-novembre-2026_AN-202611170064.html",
+      "published_at": "2026-11-17T22:20:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Résultats EuroMillions: le tirage du mardi 17 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "12c4e1dcb22f",
       "title": "INFO BFMTV. \"Une balle pour te finir\": le député LFI Sébastien Delogu dépose plainte contre X pour menaces de mort et actes d'intimidation",
-      "summary": "Dans cette plainte, que nous avons pu consulter, l’élu marseillais vise plusieurs centaines de messages reçus par SMS, WhatsApp, courriers et appels \"comportant des menaces, des intimidations mais aussi des propos injurieux.",
+      "summary": "Dans cette plainte, que BFMTV a pu consulter, l’élu marseillais vise plusieurs centaines de messages reçus par SMS, WhatsApp, courriers et appels \"comportant des menaces, des intimidations mais aussi des propos injurieux\".",
       "source": "BFMTV",
-      "feed_rank": 1,
+      "feed_rank": 6,
       "url": "https://www.bfmtv.com/police-justice/info-bfmtv-une-balle-pour-te-finir-le-depute-lfi-sebastien-delogu-depose-plainte-contre-x-pour-menaces-de-mort-et-actes-d-intimidation_AN-202611170990.html",
       "published_at": "2026-11-17T22:07:14+00:00",
       "category": "Politique",
@@ -572,7 +701,7 @@
       "title": "\"C'est scandaleux\": le député Aymeric Caron rappelé à l'ordre après avoir quitté l'hémicyle, furieux d'avoir vu son micro coupé",
       "summary": "Le député apparenté LFI de Paris a vu son micro être coupé alors qu'il n'avait pas fini de poser sa question adressée ce mardi au ministre de l'Intérieur Laurent Nuñez. Sorti de l'hémicycle en furie, il a dénoncé un \"épisode absolument lamentable de la part de la macronie\".",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 8,
       "url": "https://www.bfmtv.com/politique/la-france-insoumise/c-est-scandaleux-le-depute-aymeric-caron-rappele-a-l-ordre-apres-avoir-quitte-l-hemicyle-furieux-d-avoir-vu-son-micro-coupe_AV-202611170989.html",
       "published_at": "2026-11-17T22:03:52+00:00",
       "category": "Politique",
@@ -588,7 +717,7 @@
       "title": "ATP Finals. Après sa victoire face à Shelton, Zverev assuré de rejoindre les demi-finales",
       "summary": "Après une première victoire face à Jodar dimanche 15 novembre, Alexander Zverev, le n° 1 mondial, a enchaîné un deuxième succès face à l’Américain Ben Shelton (4e) au Masters ATP ce mardi. Avant même son dernier match de groupe face à Arthur Fils, il a validé son billet pour les demi-finales.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/tennis/alexander-zverev/atp-finals-apres-sa-victoire-face-a-shelton-zverev-assure-de-rejoindre-les-demi-finales-422d3434-e2cf-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T22:02:51+00:00",
       "category": "Sport",
@@ -604,7 +733,7 @@
       "title": "Panne mondiale chez Apple : une mise à jour interne paralyse iCloud, l’App Store et les boutiques",
       "summary": "Apple écarte la piste d’une cyberattaque. L’entreprise affirme que de nombreux systèmes sont de nouveau en ligne, mais certains restaient perturbés mardi 17 novembre 2026.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/high-tech/apple/panne-mondiale-chez-apple-une-mise-a-jour-interne-paralyse-icloud-lapp-store-et-les-boutiques-dd818780-e2cc-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T22:02:03+00:00",
       "category": "Société",
@@ -620,7 +749,7 @@
       "title": "Éliminatoires CAN 2027. Le Sénégal qualifié, l’Algérie se rate, la Tunisie en danger… Le point de la 4e journée",
       "summary": "Après la quatrième journée des éliminatoires à la CAN 2027 disputée ce mardi 17 novembre, le Sénégal, le Maroc et les pays organisateurs sont les seules équipes fixées sur leur sort. L’Algérie, la Côte d’Ivoire ou la République démocratique du Congo devront attendre mars prochain pour s’assurer de leur qualification. La Tunisie, de son côté, voit ses…",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/coupe-d-afrique-des-nations/eliminatoires-can-2027-le-senegal-qualifie-lalgerie-se-rate-la-tunisie-en-danger-le-point-de-la-4e-journee-3bef9b4a-e2b9-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T22:01:59+00:00",
       "category": "Société",
@@ -636,7 +765,7 @@
       "title": "Ligue des nations : duel Mbappé/Haaland, retrouvailles avec l’Espagne… Découvrez les adversaires potentiels des Bleus en quarts de finale",
       "summary": "Les joueurs de Zinédine Zidane seront fixés sur leur sort vendredi, à partir de midi, lors du tirage des quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-duel-mbappe-haaland-retrouvailles-avec-l-espagne-decouvrez-les-adversaires-potentiels-des-bleus-en-quarts-de-finale-20261117",
       "published_at": "2026-11-17T21:50:20+00:00",
       "category": "Société",
@@ -700,13 +829,29 @@
       "title": "Ligue des nations : la Norvège de Haaland crucifie le Danemark et file en quarts, le Portugal gagne après la gifle",
       "summary": "Vainqueurs au Danemark grâce à un penalty d’Erling Haaland dans les arrêts de jeu, les Norvégiens accompagneront le Portugal, vainqueur au pays de Galles, en quarts de finale de la Ligue des nations.",
       "source": "Le Figaro",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-la-norvege-de-haaland-crucifie-le-danemark-et-file-en-quarts-le-portugal-gagne-apres-la-gifle-20261117",
       "published_at": "2026-11-17T21:46:54+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des nations : la Norvège de Haaland crucifie le Danemark et file en quarts, le Portugal gagne après la gifle » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1eb7e70df9e5",
+      "title": "Le directeur de la prison d'Aix-Luynes en garde à vue pour détention d'images pédopornographiques",
+      "summary": "Le directeur du centre pénitentiaire d'Aix-Luynes a été placé en garde à vue mardi 17 novembre pour détention et téléchargement d'images à caractère pédopornographique. D'après nos informations, il n'a pas contesté les faits reprochés.",
+      "source": "RMC",
+      "feed_rank": 1,
+      "url": "https://rmc.bfmtv.com/actualites/police-justice/faits-divers/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-pour-detention-d-images-pedopornographiques_AN-202611170979.html",
+      "published_at": "2026-11-17T21:46:44+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le directeur de la prison d'Aix-Luynes en garde à vue pour détention d'images pédopornographiques » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -764,7 +909,7 @@
       "title": "Marquinhos, Luis Fernandez, Raí… le top 5 des LÉGENDES du Paris Saint-Germain !",
       "summary": "Marquinhos, Luis Fernandez, Raí, Ousmane Dembélé et Pauleta : découvrez notre TOP 5 des plus grandes légendes de l’histoire du Paris Saint-Germain. Marquinhos occupe la première place de ce classement. Le défenseur brésilien a marqué l’histoire du PSG par sa longévité, son capitanat et son palmarès. Son attachement au club et son rôle dans les grandes…",
       "source": "BFMTV",
-      "feed_rank": 10,
+      "feed_rank": 15,
       "url": "https://rmcsport.bfmtv.com/replay-emissions/after-foot/video-marquinhos-luis-fernandez-rai-le-top-5-des-legendes-du-paris-saint-germain_VN-202611170984.html",
       "published_at": "2026-11-17T21:44:23+00:00",
       "category": "Médias & communication",
@@ -780,7 +925,7 @@
       "title": "L'IA s'installe dans les parcours clients - 17/11",
       "summary": "Ce mardi 17 novembre, Éric Dadian, président de l'AFRC, Isabelle Lafont, SVP Global Consumer Care & Consumer Experience (Lauréat 2026 Palme Expérience Client), Wassila Zitoune Dumontet, chief executive officer chez Orange Business France, et Idriss Khouader, fondateur Meteoria IA (Lauréat 2026 Palme Jeune Pousse), se sont penchés sur l'installation de…",
       "source": "BFMTV",
-      "feed_rank": 11,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-l-ia-s-installe-dans-les-parcours-clients-17-11_VN-202611170983.html",
       "published_at": "2026-11-17T21:41:13+00:00",
       "category": "Politique",
@@ -796,7 +941,7 @@
       "title": "Procès de « la martyre de l’A10 » : les parents condamnés pour actes de torture à 20 et 15 ans de réclusion criminelle",
       "summary": "À Blois, la cour d’assises a condamné la mère d’Inass, dont le corps avait été retrouvé le long d’une autoroute en 1987, à vingt ans de réclusion criminelle. Et le père à quinze ans pour complicité. Ils ont été envoyés en prison.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/societe/justice/proces-de-la-martyre-de-la10-les-parents-condamnes-pour-actes-de-torture-a-20-et-15-ans-de-reclusion-criminelle-1c219032-e28e-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T21:39:41+00:00",
       "category": "Société",
@@ -812,7 +957,7 @@
       "title": "CAN 2027. Les Tanzaniens forcés de chanter leur hymne a capella face au Nigeria",
       "summary": "Ce mardi 17 novembre, lors de la quatrième journée des éliminatoires de la CAN 2027, les Tanzaniens ont vécu un avant-match peu commun, face au Nigeria. Faute de sonorisation, ils ont dû chanter a capella leur hymne dans un stade à huis clos.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/equipe-tanzanie/can-2027-les-tanzaniens-forces-de-chanter-leur-hymne-a-capella-face-au-nigeria-9efeddc4-e2cb-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T21:38:55+00:00",
       "category": "Sport",
@@ -828,7 +973,7 @@
       "title": "Cyberattaque chez Maileva, filiale de La Poste - 17/11",
       "summary": "Ce mardi 17 novembre, Pascal Le Digol, directeur général France de WatchGuard Technologies, Michel Juvin, ecosystem advisor chez Alliancy, et Gérôme Billois, associé en cybersécurité et confiance numérique au sein du cabinet Wavestone, sont revenus sur les cyberattaques chez Maileva, filiale de La Poste, et chez Crédit Mutuel Arkéa, l’attaque de l’Iran…",
       "source": "BFMTV",
-      "feed_rank": 13,
+      "feed_rank": 18,
       "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-cyberattaque-chez-maileva-filiale-de-la-poste-17-11_VN-202611170981.html",
       "published_at": "2026-11-17T21:38:42+00:00",
       "category": "Sciences & tech",
@@ -903,7 +1048,7 @@
       "title": "Le gouvernement de Donald Trump réclame 50 milliards de dollars pour moderniser le trafic aérien",
       "summary": "Après une panne nationale qui a cloué des milliers d’avions au sol pendant plusieurs heures vendredi, le gouvernement américain demande ce mardi au Congrès de débloquer 50 milliards de dollars pour moderniser les infrastructures et les équipements de contrôle aérien.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/le-gouvernement-de-donald-trump-reclame-50-milliards-de-dollars-pour-moderniser-le-trafic-aerien-9ffbc628-e2cc-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T21:34:27+00:00",
       "category": "Politique",
@@ -913,6 +1058,24 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
+    },
+    {
+      "id": "de9013c6069d",
+      "title": "Émission du 17 novembre 2026",
+      "summary": "Ce mardi 17 novembre, Éric Dadian, président de l'AFRC, Isabelle Lafont, SVP Global Consumer Care & Consumer Experience (Lauréat 2026 Palme Expérience Client), Wassila Zitoune Dumontet, chief executive officer chez Orange Business France, et Idriss Khouader, fondateur Meteoria IA (Lauréat 2026 Palme Jeune Pousse), se sont penchés sur l'installation de…",
+      "source": "BFMTV",
+      "feed_rank": 20,
+      "url": "https://www.bfmtv.com/economie/replay-emissions/01-business/video-emission-du-17-novembre-2026_VN-202611171002.html",
+      "published_at": "2026-11-17T21:30:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Émission du 17 novembre 2026 ».",
+      "coverage_sources": [
+        "BFMTV",
+        "France Culture",
+        "France Inter"
+      ],
+      "coverage_count": 3,
+      "mention_count": 4
     },
     {
       "id": "02083fed6a72",
@@ -967,7 +1130,7 @@
       "title": "Cinq élèves légèrement blessés après des tirs de mortiers dans un lycée de l'Oise",
       "summary": "Des tirs de mortier au sein du lycée Mireille-Grenet de Compiègne ont blessé cinq élèves de Terminale, ce mardi 17 novembre. Les auteurs n'ont pour l'heure pas été identifiés et une enquête a été ouverte.",
       "source": "BFMTV",
-      "feed_rank": 16,
+      "feed_rank": 22,
       "url": "https://www.bfmtv.com/police-justice/cinq-lyceens-legerement-blesses-apres-des-tirs-de-mortiers-dans-un-lycee-de-l-oise_AD-202611170970.html",
       "published_at": "2026-11-17T21:26:59+00:00",
       "category": "Société",
@@ -990,12 +1153,13 @@
       "category": "Politique",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Israël: Matan Kahana, allié d'Eisenkot et opposant à Netanyahu, élu président de la Knesset ».",
       "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
         "France 24",
-        "Le Figaro",
         "RFI"
       ],
-      "coverage_count": 3,
-      "mention_count": 4
+      "coverage_count": 4,
+      "mention_count": 5
     },
     {
       "id": "7be7fc6a262e",
@@ -1084,7 +1248,7 @@
       "title": "Euroligue. L’Asvel corrigée par Fenerbahçe, troisième défaite d’affilée",
       "summary": "Face au Fenerbahçe, les joueurs de Tony Parker n’ont pas existé et ont concédé leur troisième défaite d’affilée en Euroligue (115-81). Ils tenteront de finir la semaine sur une bonne note ce vendredi 20 novembre, dans la salle de l’Efes Istanbul.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/basket/asvel-lyon-villeurbanne/euroligue-lasvel-corrigee-par-fenerbahce-ba3bdf10-e2c6-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-17T21:09:52+00:00",
       "category": "Société",
@@ -1116,7 +1280,7 @@
       "title": "iCloud, App Store... Des \"pannes\" perturbent l'accès à plusieurs services d'Apple",
       "summary": "Des \"problèmes\" touchent notamment le service de stockage en ligne iCloud depuis mardi en fin d'après-midi. \"Ce service peut être lent ou indisponible\", rapporte l'entreprise, qui ne précise pas la cause de ces dysfonctionnements.",
       "source": "Franceinfo (TV)",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.franceinfo.fr/internet/icloud-appstore-des-pannes-perturbent-l-acces-a-plusieurs-services-d-apple_8287028.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-17T21:08:16+00:00",
       "category": "Économie",
@@ -1191,23 +1355,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "66484b958b3a",
-      "title": "Un mannequin géant représentant Laurent Nuñez confisqué avant la manifestation à Strasbourg, le parquet saisi",
-      "summary": "La préfecture du Bas-Rhin a saisi ce mardi le parquet pour « injure publique envers un dépositaire de l’autorité publique », après la réalisation d’un mannequin géant représentant Laurent Nuñez par des étudiants de la Haute école des arts du Rhin. Le char a été confisqué par les forces de l’ordre avant le début de la manifestation.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/societe/manifestation/un-mannequin-geant-representant-laurent-nunez-confisque-avant-la-manifestation-a-strasbourg-le-parquet-saisi-84de23d0-e2c8-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-17T21:00:58+00:00",
-      "category": "Société",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Un mannequin géant représentant Laurent Nuñez confisqué avant la manifestation à Strasbourg, le parquet saisi ».",
-      "coverage_sources": [
-        "BFMTV",
-        "Ouest-France"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     },
     {
       "id": "de5a0fac0775",
@@ -1386,22 +1533,6 @@
       "mention_count": 1
     },
     {
-      "id": "2eee264666c1",
-      "title": "FORUM BFMTV - Courses: \"On lutte contre le gaspillage, ce produit aurait probablement fini à la poubelle ou aurait été détruit\", explique Clément Mery, cofondateur et CEO de Willy Anti-Gaspi",
-      "summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Colères, vie chère : la grande fracture”. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
-      "source": "BFMTV",
-      "feed_rank": 22,
-      "url": "https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-courses-on-lutte-contre-le-gaspillage-ce-produit-aurait-probablement-fini-a-la-poubelle-ou-aurait-ete-detruit-explique-clement-mery-cofondateur-et-ceo-de-willy-anti-gaspi_VN-202611170946.html",
-      "published_at": "2026-11-17T20:47:32+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « FORUM BFMTV - Courses: \"On lutte contre le gaspillage, ce produit aurait probablement fini à la poubelle ou aurait été détruit\", explique Clément Mery » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 14
-    },
-    {
       "id": "0fcfdcaa375a",
       "title": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
       "summary": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en supprimant toutes les interdictions de louer liées au diagnostic de performance énergétique.",
@@ -1450,22 +1581,6 @@
       "mention_count": 1
     },
     {
-      "id": "3eea3816d05e",
-      "title": "Apple sera jugé pour l'obsolescence programmée de ses iPhone en 2027",
-      "summary": "Apple doit être jugé en juin 2027 à Paris, soupçonné d'avoir organisé l'obsolescence programmée de différents modèles d'iPhone en empêchant leurs propriétaires de les réparer en dehors des boutiques officielles.",
-      "source": "BFMTV",
-      "feed_rank": 24,
-      "url": "https://www.bfmtv.com/police-justice/video-apple-sera-juge-pour-l-obsolescence-programmee-de-ses-i-phone-en-2027_VN-202611170942.html",
-      "published_at": "2026-11-17T20:43:45+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Apple sera jugé pour l'obsolescence programmée de ses iPhone en 2027 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "eeb79fa0c435",
       "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du mardi 17 novembre",
       "summary": "Vladimir Poutine est arrivé en Chine où il doit rencontrer ses homologues Donald Trump et Xi Jinping. Zelensky a qualifié d’« opération sans précédent » l’attaque contre le pont reliant la Russie à la péninsule de Crimée. Retrouvez l’actualité de la guerre en Ukraine, ce mardi 17 novembre.",
@@ -1477,22 +1592,6 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Guerre en Ukraine : ce qu’il faut retenir de la situation du mardi 17 novembre ».",
       "coverage_sources": [
         "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9ff35caf05ab",
-      "title": "Antoine Griezmann sacré « recrue de l’année 2026 en MLS », une première historique pour un Français",
-      "summary": "Quatre mois après son arrivée à Orlando City, Antoine Griezmann entre dans l’histoire en devenant « la recrue de l’année 2026 de la MLS ». La légende de l’Atlético de Madrid est le premier français à recevoir cette distinction.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/antoine-griezmann/antoine-griezmann-sacre-recrue-de-lannee-2026-en-mls-une-premiere-historique-pour-un-francais-b2e710a6-e292-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-17T20:39:53+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Antoine Griezmann sacré « recrue de l’année 2026 en MLS », une première historique pour un Français » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1582,7 +1681,7 @@
       "title": "Un rapport parlementaire sur la prostitution des mineurs appelle à \"renverser la charge de la preuve\" pour mieux lutter contre ce phénomène qui \"ne cesse d'augmenter\"",
       "summary": "Le texte de la Délégation aux droits des enfants suggère de modifier la loi afin que les clients aient à établir qu'ils ne connaissaient pas l'âge de la personne prostituée.",
       "source": "Franceinfo (TV)",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.franceinfo.fr/societe/prostitution/un-rapport-parlementaire-sur-la-prostitution-des-mineurs-appelle-a-renverser-la-charge-de-la-preuve-pour-mieux-lutter-contre-ce-phenomene-qui-ne-cesse-d-augmenter_8287169.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-17T20:35:15+00:00",
       "category": "Politique",
@@ -2370,7 +2469,7 @@
       "title": "Il avait mis le feu à la chambre après s'être enfermé avec sa conjointe pour qu'ils meurent ensemble : la mère de famille succombe à ses blessures plusieurs jours plus tard",
       "summary": "Près de Bordeaux, une mère de famille est décédée des suites de graves brûlures après que son conjoint a incendié leur chambre, où il s'était enfermé avec elle. L'enquête initiale pour \"tentative de féminicide\" est...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ladepeche.fr/2026/11/17/il-avait-mis-le-feu-a-la-chambre-apres-setre-enferme-avec-sa-conjointe-pour-quils-meurent-ensemble-la-mere-de-famille-succombe-a-ses-blessures-13657290.php",
       "published_at": "2026-11-17T19:36:02+00:00",
       "category": "Société",
@@ -2498,7 +2597,7 @@
       "title": "De l'arbalète au Moyen Âge aux drones autonomes: l'interdiction des armes de guerre, un combat vieux comme le monde",
       "summary": "Le secrétaire général de l’ONU monte au créneau pour interdire ou limiter l'usage des armes robotisées capables de tuer sans intervention humaine. Réunis cette semaine à Genève, 128 États se pencheront sur cette épineuse question, malgré les réticences des grandes puissances.",
       "source": "RMC",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://rmc.bfmtv.com/actualites/international/de-l-arbalete-au-moyen-age-aux-drones-autonomes-l-interdiction-des-armes-de-guerre-un-combat-vieux-comme-le-monde_AV-202611170686.html",
       "published_at": "2026-11-17T19:27:51+00:00",
       "category": "International",
@@ -2690,7 +2789,7 @@
       "title": "Guerre en Ukraine : la France n'est \"évidemment pas cobelligérante\" et n'a \"pas l'intention de l'être\", assure le ministre Jean-Noël Barrot",
       "summary": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France Télévisions.",
       "source": "Franceinfo (TV)",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-17T19:14:31+00:00",
       "category": "Politique",
@@ -3044,7 +3143,7 @@
       "title": "À 90 ans, elle roule à contresens sur l'autoroute pendant 35 kilomètres avant d'être interceptée par les gendarmes",
       "summary": "Dimanche 15 novembre en début de soirée, plusieurs automobilistes ont alerté les forces de l'ordre après avoir croisé un véhicule circulant à contresens sur l'autoroute A75. Grâce à un \"bouchon mobile\", les gendarmes...",
       "source": "La Dépêche du Midi",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ladepeche.fr/2026/11/17/a-90-ans-elle-roule-a-contresens-sur-lautoroute-pendant-35-kilometres-avant-detre-interceptee-par-les-gendarmes-13657601.php",
       "published_at": "2026-11-17T19:02:55+00:00",
       "category": "Société",
@@ -3140,7 +3239,7 @@
       "title": "\"J'ai du mépris pour les gens qui en portent en dehors de ceux qui le font pour le boulot...\"",
       "summary": "🧥 \"J'ai énormément de mépris pour les gens qui portent des doudounes sans manches en dehors de ceux qui le font pour le boulot. Quand tu bosses sur un marché, quand tu es agriculteur, tu as besoin d'avoir une aisance. En revanche, dans le commerce, tu vas voir le moindre commercial en bagnole, à partir du 1er novembre il sort sa doudoune et il fait :…",
       "source": "RMC",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://rmc.bfmtv.com/actualites/societe/video-j-ai-du-mepris-pour-les-gens-qui-en-portent-en-dehors-de-ceux-qui-le-font-pour-le-boulot_VN-202611170869.html",
       "published_at": "2026-11-17T19:00:04+00:00",
       "category": "Économie",
@@ -3380,7 +3479,7 @@
       "title": "Emmanuel Macron assure avoir “fait de son mieux” malgré des \"erreurs\": “C'est bizarre comme justification, c’est crépusculaire”",
       "summary": "À six mois de la fin de son second mandat et dix ans jour pour jour après l'annonce de sa première candidature, Emmanuel Macron a dressé son bilan sur X en concédant “parfois des erreurs”. Une prise de parole qui a immédiatement provoqué de vives réactions.",
       "source": "RMC",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://rmc.bfmtv.com/actualites/politique/emmanuel-macron-assure-avoir-fait-de-son-mieux-malgre-des-erreurs-c-est-bizarre-comme-justification-c-est-crepusculaire_AV-202611170865.html",
       "published_at": "2026-11-17T18:51:47+00:00",
       "category": "Société",
@@ -3508,7 +3607,7 @@
       "title": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine",
       "summary": "Radio France internationale a révélé l'existence d'un détachement de l'armée française sur le sol ukrainien. Le gouvernement français assure que ces militaires ne participent pas aux combats.",
       "source": "Franceinfo (TV)",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html#xtor=RSS-3-[lestitres]",
       "published_at": "2026-11-17T18:47:07+00:00",
       "category": "Politique",
@@ -3740,10 +3839,11 @@
       "category": "Politique",
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Logement : à l’Assemblée, le RN fait supprimer l’interdiction de louer des passoires thermiques » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
+        "Le Figaro",
         "La Croix"
       ],
-      "coverage_count": 1,
-      "mention_count": 1
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "0ecf45e3eb1e",
@@ -4586,7 +4686,7 @@
       "title": "INFO RMC. La préfecture de police de Paris ne contestera pas la suspension de son arrêté",
       "summary": "Alors que le tribunal administratif a suspendu l'arrêté de la préfecture de police de Paris interdisant les rassemblements autour des lycées et universités à Paris, l'autorité préfectorale indique à RMC qu'elle ne contestera pas cette décision.",
       "source": "RMC",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://rmc.bfmtv.com/actualites/police-justice/info-rmc-la-prefecture-de-police-de-paris-ne-contestera-pas-la-suspension-de-son-arrete_AN-202611170831.html",
       "published_at": "2026-11-17T17:58:12+00:00",
       "category": "Société",
@@ -4843,7 +4943,7 @@
       "title": "Les Français «ne sont pas cobelligérants en Ukraine» malgré la présence de soldats, martèle le gouvernement",
       "summary": "La ministre française déléguée auprès des Armées, Alice Rufo, a assuré, mardi 17 novembre, que les Français n'étaient « pas cobelligérants en Ukraine ». La veille, RFI avait révélé que des militaires français sont présents en Ukraine pour des missions de « formation » et de « maintenance ». La Russie a accusé la France de « participation directe à la…",
       "source": "RFI",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.rfi.fr/fr/france/20261117-les-fran%C3%A7ais-ne-sont-pas-cobellig%C3%A9rants-en-ukraine-malgr%C3%A9-la-pr%C3%A9sence-de-soldats-mart%C3%A8le-le-gouvernement",
       "published_at": "2026-11-17T17:47:27+00:00",
       "category": "Politique",
@@ -5195,12 +5295,12 @@
       "mention_count": 1
     },
     {
-      "id": "647747babbb5",
+      "id": "a3053e4e9cd9",
       "title": "La bande-annonce de la saison 6 d&#8217;Only Murders in the Building nous emmène à Londres !",
       "summary": "Depuis cinq ans, Mabel, Oliver et Charles (Selena Gomez, Martin Short et Steve Martin) enquêtent sur les meurtres commis dans leur immeuble de Manhattan, l'Arconia. En cinq saisons, Only Murders in the Building a eu...",
       "source": "Konbini",
       "feed_rank": 1,
-      "url": "https://www.konbini.com/popculture/la-bande-annonce-de-la-saison-6-donly-murders-in-the-building-nous-emmene-a-londres/",
+      "url": "http://www.konbini.com/popculture/la-bande-annonce-de-la-saison-6-donly-murders-in-the-building-nous-emmene-a-londres/",
       "published_at": "2026-11-17T17:31:09+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La bande-annonce de la saison 6 d’Only Murders in the Building nous emmène à Londres ! » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
@@ -5252,102 +5352,6 @@
       "published_at": "2026-11-17T17:30:55+00:00",
       "category": "Société",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « « Nous avons fabriqué une société incapable de supporter la frustration » ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "8cba2b9eda09",
-      "title": "Liberté de la presse: les indignations sélectives de Yaël Braun-Pivet",
-      "summary": "Muette sur les menaces proférées par Marine Le Pen contre «Mediapart» en plein Palais-Bourbon, la présidente de l’Assemblée nationale est montée au créneau pour défendre CNews, victime d’une main placée devant un de ses micros par une députée. Un signe de plus de la mansuétude dont elle fait régulièrement preuve vis-à-vis de l’extrême droite.",
-      "source": "Mediapart",
-      "feed_rank": 5,
-      "url": "https://www.mediapart.fr/journal/politique/171126/liberte-de-la-presse-les-indignations-selectives-de-yael-braun-pivet",
-      "published_at": "2026-11-17T17:30:16+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « Liberté de la presse: les indignations sélectives de Yaël Braun-Pivet ».",
-      "coverage_sources": [
-        "Mediapart"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3c1f5b81f57f",
-      "title": "Dissolution, 49.3, crise des Gilets jaunes... Les pires erreurs des 10 années Macron",
-      "summary": "La présidence d’Emmanuel Macron a été traversée par une série de défis et de crises majeures que le chef de l’Etat a dû affronter avec plus ou moins de réussite. Retour sur les erreurs les plus marquantes de cette décennie au pouvoir. Au crépuscule d’une présidence. A l’heure où l’Elysée se cherche un nouveau locataire, l’heure est au bilan pour celui en…",
-      "source": "CNews",
-      "feed_rank": 9,
-      "url": "https://www.cnews.fr/france/2026-11-17/dissolution-493-crise-des-gilets-jaunes-les-pires-erreurs-des-10-annees-macron",
-      "published_at": "2026-11-17T17:30:06+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Dissolution, 49.3, crise des Gilets jaunes... Les pires erreurs des 10 années Macron ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bf64ea1f09d1",
-      "title": "Black Friday 2026 : matelas, canapés, lits-coffres… déjà jusqu'à -50 % avant le jour J !",
-      "summary": "Le Black Friday 2026 tombe le vendredi 27 novembre, mais les offres de literie démarrent bien avant cette date. Matelas, lit-coffre, oreiller ou canapé : le mois de novembre ouvre une période de comparaison utile pour renouveler son équipement sans acheter dans l'urgence. Avec son Black Month, Morphea propose déjà des remises sur plusieurs références…",
-      "source": "CNews",
-      "feed_rank": 10,
-      "url": "https://www.cnews.fr/shopping-maison/2026-11-17/black-friday-2026-matelas-canapes-lits-coffres",
-      "published_at": "2026-11-17T17:30:00+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité demande de rendre un sujet technique compréhensible sans promettre davantage que ce que les faits établissent. Le communicant doit expliquer les usages, les limites et les questions éthiques. Pour travailler ce cas, partez du sujet précis — « Black Friday 2026 : matelas, canapés, lits-coffres… déjà jusqu'à -50 % avant le jour J ! » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "384dc74ecfa0",
-      "title": "Le RN présente enfin sa réforme des retraites : un projet tout en «tours de passe-passe»",
-      "summary": "Si le plan de Marine Le Pen continue de faire miroiter des départs dès 60 ans pour les plus jeunes travailleurs, il crée une nouvelle obligation : un nombre plancher de trimestres à valider, qui allongerait de nombreuses carrières.",
-      "source": "Libération",
-      "feed_rank": 19,
-      "url": "https://www.liberation.fr/politique/elections/le-rn-presente-enfin-sa-reforme-des-retraites-un-projet-tout-en-tours-de-passe-passe-20261117_MA72YG6BJBHVBI3DQSQZFEHSFE/",
-      "published_at": "2026-11-17T17:29:24+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le RN présente enfin sa réforme des retraites : un projet tout en «tours de passe-passe» » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "399d61457a90",
-      "title": "Présidentielle 2027 : Marine Le Pen tente de résoudre l’impossible équation des retraites",
-      "summary": "Son « Bonjour ! » enthousiaste retentit dans la pièce. Voici qu’apparaît, sous sa chevelure blond cendré, Marine Le Pen. Ce mardi 17 novembre, au siège du Rassemblement national, la candidate présente son projet pour « réparer le système de retraites ». Elle se sait attendue au coin du bois. Par les marchés financiers, cela va sans dire. Par ses…",
-      "source": "Valeurs actuelles",
-      "feed_rank": 6,
-      "url": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-marine-le-pen-tente-de-resoudre-limpossible-equation-des-retraites",
-      "published_at": "2026-11-17T17:29:06+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : Marine Le Pen tente de résoudre l’impossible équation des retraites ».",
-      "coverage_sources": [
-        "Valeurs actuelles"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "970a1ff2b265",
-      "title": "Transférer des migrants au Rwanda, cette idée honteuse que promeut l’Allemagne",
-      "summary": "L’ONU s’est inquiétée, mardi 17 novembre, du projet de cinq pays européens – Allemagne, Autriche, Danemark, Grèce, Pays-Bas – de transférer au Rwanda des migrants déboutés du droit d’asile. Cette initiative, choquante, est un cran supplémentaire dans la tentation d’ériger l’Europe en forteresse.",
-      "source": "La Croix",
-      "feed_rank": 19,
-      "url": "https://www.la-croix.com/international/transferer-des-migrants-au-rwanda-cette-idee-honteuse-que-promeut-l-allemagne-20261117",
-      "published_at": "2026-11-17T17:28:36+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Transférer des migrants au Rwanda, cette idée honteuse que promeut l’Allemagne » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "La Croix"
       ],
