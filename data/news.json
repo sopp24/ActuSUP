@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-19T03:45:48.522468+00:00",
-  "last_attempt": "2026-11-19T03:45:48.522468+00:00",
+  "last_updated": "2026-11-19T03:55:36.581872+00:00",
+  "last_attempt": "2026-11-19T03:55:36.581872+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 906,
-  "unique_story_count": 790,
+  "unique_story_count": 789,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-20T03:45:48.522468+00:00",
-  "featured_window_end": "2026-11-19T03:45:48.522468+00:00",
+  "featured_window_start": "2026-10-20T03:55:36.581872+00:00",
+  "featured_window_end": "2026-11-19T03:55:36.581872+00:00",
   "featured_pool_count": 904,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "9de96bb9859f",
-      "title": "EN DIRECT - À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent pour un face-à-face inédit",
-      "summary": "La photo s’annonce historique, mais les résultats restent incertains. Xi Jinping, Donald Trump et Vladimir Poutine se réunissent jeudi pour un sommet inédit dans le sud de la Chine, dans un contexte de crises multiples.",
-      "source": "Le Figaro",
+      "id": "dce6cbfb7e2d",
+      "title": "Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine",
+      "summary": "Les thèmes de discussions de la rencontre trilatérale à Shenzhen, historique, restent très flous. Donald Trump a annoncé qu'il voulait aborder la dénucléarisation (le traité New Start a expiré), quand la Chine a évoqué des discussions sur \"la paix dans le monde\". Il sera aussi question de l'Iran, soutenu par Pékin et Moscou, mais aussi de la guerre en…",
+      "source": "France 24",
       "feed_rank": 1,
-      "url": "https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119",
-      "published_at": "2026-11-19T03:45:02+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « EN DIRECT - À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent pour un face-à-face inédit ».",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-rencontre-trilat%C3%A9rale-%C3%A0-shenzhen-les-int%C3%A9r%C3%AAts-de-xi-trump-et-poutine",
+      "published_at": "2026-11-19T03:50:38+00:00",
+      "category": "Politique",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -72,7 +72,7 @@
       "coverage_count": 38,
       "mention_count": 228,
       "importance_score": 37.006,
-      "latest_coverage_at": "2026-11-19T03:45:02+00:00"
+      "latest_coverage_at": "2026-11-19T03:50:38+00:00"
     },
     {
       "id": "28cb969479da",
@@ -150,7 +150,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.287,
+      "importance_score": 20.286,
       "latest_coverage_at": "2026-11-18T18:37:37+00:00"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.245,
+      "importance_score": 20.244,
       "latest_coverage_at": "2026-11-18T20:52:41+00:00"
     },
     {
@@ -221,7 +221,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 7,
-      "importance_score": 19.241,
+      "importance_score": 19.24,
       "latest_coverage_at": "2026-11-18T16:23:08+00:00"
     },
     {
@@ -244,7 +244,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.964,
+      "importance_score": 18.963,
       "latest_coverage_at": "2026-11-18T18:52:03+00:00"
     },
     {
@@ -266,7 +266,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.959,
+      "importance_score": 17.949,
       "latest_coverage_at": "2026-11-19T01:30:33+00:00"
     },
     {
@@ -310,7 +310,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.862,
+      "importance_score": 17.853,
       "latest_coverage_at": "2026-11-18T20:22:13+00:00"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.574,
+      "importance_score": 17.573,
       "latest_coverage_at": "2026-11-18T22:01:53+00:00"
     },
     {
@@ -435,7 +435,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.37,
+      "importance_score": 14.369,
       "latest_coverage_at": "2026-11-18T21:23:00+00:00"
     },
     {
@@ -455,7 +455,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.327,
+      "importance_score": 14.326,
       "latest_coverage_at": "2026-11-18T16:52:45+00:00"
     },
     {
@@ -495,7 +495,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.277,
+      "importance_score": 14.276,
       "latest_coverage_at": "2026-11-18T20:51:19+00:00"
     }
   ],
@@ -617,7 +617,7 @@
       "title": "Shenzhen : une rencontre tripartite \"pas comparable avec Yalta\", selon Pascal Boniface",
       "summary": "Pour la première fois, Xi Jinping, Vladimir Poutine et Donald Trump seront ensemble. La comparaison avec Yalta est évidente : \"c'est le fait que ce sont les trois grands leaders qui se partagent le monde. Sauf que Yalta, on avait vraiment réglé les problèmes, ça a duré une semaine, là, je doute qu'il y ait des avancées fondamentales dans les dossiers au…",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-shenzhen-une-rencontre-tripartite-pas-comparable-avec-yalta-selon-pascal-boniface",
       "published_at": "2026-11-19T02:27:24+00:00",
       "category": "International",
@@ -776,6 +776,22 @@
       "mention_count": 1
     },
     {
+      "id": "999db4e68fed",
+      "title": "Football : le RC Strasbourg change de nouveau d’entraîneur avec l’arrivée de Vitor Matos à la place d’Hugo Oliveira",
+      "summary": "Le club alsacien, 13ᵉ de Ligue 1, a recruté de Swansea le technicien portugais de 38 ans pour succéder à son compatriote Hugo Oliveira, après un début de saison insatisfaisant au regard des ambitions du groupe propriétaire, BlueCo.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/football/article/2026/11/19/football-le-rc-strasbourg-change-de-nouveau-d-entraineur-avec-l-arrivee-de-vitor-matos-a-la-place-d-hugo-oliveira_6813216_1616938.html",
+      "published_at": "2026-11-19T00:23:17+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football : le RC Strasbourg change de nouveau d’entraîneur avec l’arrivée de Vitor Matos à la place d’Hugo Oliveira ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "c1bf89d9d44a",
       "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic valorisée 1 500 milliards de dollars à la veille de son entrée en Bourse",
       "summary": "Face à l’importance de la demande, le leader de l’intelligence artificielle a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir. La firme doit financer ses engagements à long terme, liés à la puissance de calcul et aux centres de données.",
@@ -860,7 +876,7 @@
       "title": "Apec : une réunion bilatérale entre Donald Trump et Xi Jinping, avant la rencontre tripartite",
       "summary": "Xi Jinping est venu accueillir en personne Donald Trump à son arrivée sur le sol chinois. \"Mais ces démonstrations d'affection ne cachent pas les points de tensions entre Washington et Pékin\" qui donne le ton de la réunion bilatérale qui aura lieu ce jeudi, explique Baptiste Fallevoz, le correspondant de France 24 à Shenzhen. Mais la plus attendue reste…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-apec-une-r%C3%A9union-bilat%C3%A9rale-entre-donald-trump-et-xi-jinping-avant-la-rencontre-tripartite",
       "published_at": "2026-11-18T23:56:49+00:00",
       "category": "International",
@@ -924,7 +940,7 @@
       "title": "\"Femmeblancherie\" : le procès de la haine des femmes",
       "summary": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram « Femmeblancherie » au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes, plusieurs dizaines d’abonnés sont accusés d’une trentaine de crimes et délits, dont « provocation publique à commettre un crime ». Un procès qui découle d’une…",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
       "published_at": "2026-11-18T23:18:12+00:00",
       "category": "Médias & communication",
@@ -1246,7 +1262,7 @@
         "L'Humanité"
       ],
       "coverage_count": 14,
-      "mention_count": 22
+      "mention_count": 23
     },
     {
       "id": "36cd029b1556",
@@ -1385,7 +1401,7 @@
       "title": "Pont de Crimée attaqué : vrais dégâts, fausses vidéos",
       "summary": "L’Ukraine a, par deux nuits consécutives de frappes, partiellement détruit le pont de Crimée, cet axe stratégique pour la Russie, qui relie au territoire russe la péninsule annexée par Moscou en 2014. Si l'édifice a effectivement été lourdement endommagé, plusieurs vidéos manipulatoires ont présenté des dégâts qui n'existaient pas.",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261118-pont-de-crim%C3%A9e-attaqu%C3%A9-vrais-d%C3%A9g%C3%A2ts-fausses-vid%C3%A9os",
       "published_at": "2026-11-18T22:03:19+00:00",
       "category": "International",
@@ -1736,7 +1752,7 @@
       "title": "Sénégal: le Pastef officialise le départ de ses rangs du président Bassirou Diomaye Faye",
       "summary": "Au Sénégal, le Pastef, le parti majoritaire dirigé par le président de l'Assemblée nationale Ousmane Sonko, a officialisé le départ du président Bassirou Diomaye Faye. Dernier épisode de ce divorce déjà très largement consommé avec son ancien Premier ministre, mais qui intervient en pleine crise économique.",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261118-s%C3%A9n%C3%A9gal-le-pastef-officialise-le-d%C3%A9part-de-ses-rangs-du-pr%C3%A9sident-bassirou-diomaye-faye",
       "published_at": "2026-11-18T21:27:11+00:00",
       "category": "Politique",
@@ -2874,22 +2890,6 @@
       "mention_count": 1
     },
     {
-      "id": "2b82145ae5ab",
-      "title": "« Aucune activité malveillante » derrière les pannes en série aux Etats-Unis, assurent trois hauts responsables américains",
-      "summary": "Le secrétaire à la sécurité intérieure, Markwayne Mullin (à gauche), et le directeur du renseignement national, Jay Clayton, devant la commission de la sécurité intérieure de la Chambre des représentants, à Washington, le 18 novembre 2026.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/international/article/2026/11/18/aucune-activite-malveillante-derriere-les-pannes-en-serie-aux-etats-unis-assurent-trois-hauts-responsables-americains_6813204_3210.html",
-      "published_at": "2026-11-18T19:45:09+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Aucune activité malveillante » derrière les pannes en série aux Etats-Unis, assurent trois hauts responsables américains ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "e30390f6d3fd",
       "title": "Espagne. Cet appartement est en vente à un prix dérisoire... mais un piège se cache dans les petites lignes",
       "summary": "Le logement est mis en vente presque deux fois moins cher que le prix du marché, à 2 179 euros le mètre carré au lieu de 4 000. En cause : une occupation illégale.",
@@ -2975,7 +2975,7 @@
       "title": "Trump ou Xi : qui dominera l'IA ?",
       "summary": "Donald Trump est arrivé à Shenzhen, où il a été accueilli à l’aéroport par Xi Jinping, à l’occasion du sommet de l’APEC, auquel participe également Vladimir Poutine. Un lieu symbolique, vitrine technologique de la Chine, alors que la rivalité entre Pékin et Washington dans le domaine de l’IA atteint son paroxysme. Une visite qui intervient quelques jours…",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261118-trump-ou-xi-qui-dominera-l-ia",
       "published_at": "2026-11-18T19:29:41+00:00",
       "category": "Sciences & tech",
@@ -5179,7 +5179,7 @@
       "title": "Greta Thunberg a-t-elle vraiment renié son engagement pour le climat ?",
       "summary": "Des internautes partagent un extrait d’un documentaire durant lequel Greta Thunberg semble se moquer des manifestations pour la défense du climat organisées par Fridays for Future, mouvement qu’elle a pourtant cofondé. Mais il s’agit d’un extrait présenté hors contexte et la militante soutient toujours la cause climatique.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/europe/20261118-greta-thunberg-a-t-elle-vraiment-reni%C3%A9-son-engagement-pour-le-climat",
       "published_at": "2026-11-18T17:32:10+00:00",
       "category": "Société",
