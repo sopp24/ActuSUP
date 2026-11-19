@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-19T03:18:09.895329+00:00",
-  "last_attempt": "2026-11-19T03:18:09.895329+00:00",
+  "last_updated": "2026-11-19T03:45:48.522468+00:00",
+  "last_attempt": "2026-11-19T03:45:48.522468+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 906,
-  "unique_story_count": 789,
+  "unique_story_count": 790,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-20T03:18:09.895329+00:00",
-  "featured_window_end": "2026-11-19T03:18:09.895329+00:00",
+  "featured_window_start": "2026-10-20T03:45:48.522468+00:00",
+  "featured_window_end": "2026-11-19T03:45:48.522468+00:00",
   "featured_pool_count": 904,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
@@ -26,7 +26,7 @@
       "source": "Le Figaro",
       "feed_rank": 1,
       "url": "https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119",
-      "published_at": "2026-11-19T03:08:02+00:00",
+      "published_at": "2026-11-19T03:45:02+00:00",
       "category": "International",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « EN DIRECT - À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent pour un face-à-face inédit ».",
       "coverage_sources": [
@@ -70,9 +70,9 @@
         "Creapills"
       ],
       "coverage_count": 38,
-      "mention_count": 227,
-      "importance_score": 37.002,
-      "latest_coverage_at": "2026-11-19T03:08:02+00:00"
+      "mention_count": 228,
+      "importance_score": 37.006,
+      "latest_coverage_at": "2026-11-19T03:45:02+00:00"
     },
     {
       "id": "28cb969479da",
@@ -101,7 +101,7 @@
       ],
       "coverage_count": 13,
       "mention_count": 15,
-      "importance_score": 25.076,
+      "importance_score": 25.075,
       "latest_coverage_at": "2026-11-18T21:34:40+00:00"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.129,
+      "importance_score": 21.128,
       "latest_coverage_at": "2026-11-18T19:23:34+00:00"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.288,
+      "importance_score": 20.287,
       "latest_coverage_at": "2026-11-18T18:37:37+00:00"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.246,
+      "importance_score": 20.245,
       "latest_coverage_at": "2026-11-18T20:52:41+00:00"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.047,
+      "importance_score": 20.045,
       "latest_coverage_at": "2026-11-18T22:11:46+00:00"
     },
     {
@@ -221,7 +221,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 7,
-      "importance_score": 19.242,
+      "importance_score": 19.241,
       "latest_coverage_at": "2026-11-18T16:23:08+00:00"
     },
     {
@@ -244,7 +244,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.965,
+      "importance_score": 18.964,
       "latest_coverage_at": "2026-11-18T18:52:03+00:00"
     },
     {
@@ -266,7 +266,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.97,
+      "importance_score": 17.959,
       "latest_coverage_at": "2026-11-19T01:30:33+00:00"
     },
     {
@@ -274,7 +274,7 @@
       "title": "Trains de nuit : l’État va louer 27 locomotives neuves et rénover 180 voitures Corail",
       "summary": "Pour relancer les trains de nuit, l’État a choisi de louer 27 locomotives neuves qui entreront en service à partir de 2030 et de rénover 180 anciennes voitures Corail de la SNCF. Un choix jugé « inquiétant » par le Réseau Action Climat, qui craint qu’il ne freine le développement de nouvelles lignes.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/economie/transports/train/trains-de-nuit-letat-va-louer-27-locomotives-neuves-et-renover-180-voitures-corail-155309a0-e39e-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T22:40:05+00:00",
       "category": "Environnement",
@@ -288,7 +288,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.897,
+      "importance_score": 17.887,
       "latest_coverage_at": "2026-11-18T22:40:05+00:00"
     },
     {
@@ -310,7 +310,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.864,
+      "importance_score": 17.862,
       "latest_coverage_at": "2026-11-18T20:22:13+00:00"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.575,
+      "importance_score": 17.574,
       "latest_coverage_at": "2026-11-18T22:01:53+00:00"
     },
     {
@@ -353,29 +353,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 9,
-      "importance_score": 17.4,
+      "importance_score": 17.398,
       "latest_coverage_at": "2026-11-18T17:24:22+00:00"
-    },
-    {
-      "id": "4ba7b7026742",
-      "title": "Espagne: le chanteur Julio Iglesias visé par une enquête pour agressions sexuelles",
-      "summary": "L'Audience nationale, la plus haute instance judiciaire espagnole, a annoncé, mercredi 18 novembre, l'ouverture d'une enquête pénale visant le chanteur Julio Iglesias, après des plaintes déposées par deux anciennes employées de ses résidences aux Caraïbes. Les deux femmes dénoncent des agressions sexuelles et des traitements humiliants et dégradants.…",
-      "source": "RFI",
-      "feed_rank": 3,
-      "url": "https://www.rfi.fr/fr/europe/20261118-espagne-le-chanteur-julio-iglesias-vis%C3%A9-par-une-enqu%C3%AAte-pour-agressions-sexuelles",
-      "published_at": "2026-11-18T21:20:10+00:00",
-      "category": "Culture",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Espagne: le chanteur Julio Iglesias visé par une enquête pour agressions sexuelles ».",
-      "coverage_sources": [
-        "RFI",
-        "CNews",
-        "Paris Match",
-        "Télérama"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.094,
-      "latest_coverage_at": "2026-11-18T21:20:10+00:00"
     },
     {
       "id": "813c64897bce",
@@ -395,15 +374,36 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.075,
+      "importance_score": 16.062,
       "latest_coverage_at": "2026-11-18T22:50:36+00:00"
+    },
+    {
+      "id": "4ba7b7026742",
+      "title": "Espagne: le chanteur Julio Iglesias visé par une enquête pour agressions sexuelles",
+      "summary": "L'Audience nationale, la plus haute instance judiciaire espagnole, a annoncé, mercredi 18 novembre, l'ouverture d'une enquête pénale visant le chanteur Julio Iglesias, après des plaintes déposées par deux anciennes employées de ses résidences aux Caraïbes. Les deux femmes dénoncent des agressions sexuelles et des traitements humiliants et dégradants.…",
+      "source": "RFI",
+      "feed_rank": 6,
+      "url": "https://www.rfi.fr/fr/europe/20261118-espagne-le-chanteur-julio-iglesias-vis%C3%A9-par-une-enqu%C3%AAte-pour-agressions-sexuelles",
+      "published_at": "2026-11-18T21:20:10+00:00",
+      "category": "Culture",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Espagne: le chanteur Julio Iglesias visé par une enquête pour agressions sexuelles ».",
+      "coverage_sources": [
+        "RFI",
+        "CNews",
+        "Paris Match",
+        "Télérama"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.058,
+      "latest_coverage_at": "2026-11-18T21:20:10+00:00"
     },
     {
       "id": "461f97eb04fe",
       "title": "Nvidia exclut un retour de Jensen Huang à la direction, malgré des résultats financiers exceptionnels",
       "summary": "Le géant américain des puces Nvidia a exclu, mardi 17 novembre, tout retour de son ancien directeur général Jensen Huang, malgré les soutiens de Donald Trump et d'Elon Musk entre autres. Empêtré dans un scandale mêlant adultère et contrebande de puces électroniques vers la Chine, l'ex-patron a démissionné le 12 novembre. Le groupe affiche néanmoins des…",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261118-nvidia-exclut-un-retour-de-jensen-huang-%C3%A0-la-direction-malgr%C3%A9-des-r%C3%A9sultats-financiers-exceptionnels",
       "published_at": "2026-11-18T16:48:49+00:00",
       "category": "International",
@@ -415,7 +415,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 7,
-      "importance_score": 15.564,
+      "importance_score": 15.543,
       "latest_coverage_at": "2026-11-18T16:48:49+00:00"
     },
     {
@@ -435,7 +435,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.371,
+      "importance_score": 14.37,
       "latest_coverage_at": "2026-11-18T21:23:00+00:00"
     },
     {
@@ -455,28 +455,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.328,
+      "importance_score": 14.327,
       "latest_coverage_at": "2026-11-18T16:52:45+00:00"
-    },
-    {
-      "id": "49905625d94c",
-      "title": "Professeur menacé de mort pendant un cours en ligne à Paris : le suspect s'est rendu à la police",
-      "summary": "L’individu suspecté d’avoir proféré des menaces de mort, vendredi 13 novembre, à l’encontre d’un professeur pendant un cours en ligne, s’est rendu à la police ce mercredi, a indiqué le parquet de Paris à CNEWS. Une enquête a été ouverte dimanche 15 novembre après le dépôt de plainte d’un professeur d’histoire-géographie du lycée Edgar Quinet, à Paris,…",
-      "source": "CNews",
-      "feed_rank": 6,
-      "url": "https://www.cnews.fr/faits-divers/2026-11-18/professeur-menace-de-mort-pendant-un-cours-en-ligne-paris-le-suspect-sest",
-      "published_at": "2026-11-18T19:54:54+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Professeur menacé de mort pendant un cours en ligne à Paris : le suspect s'est rendu à la police ».",
-      "coverage_sources": [
-        "Le Monde",
-        "CNews",
-        "Libération"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.306,
-      "latest_coverage_at": "2026-11-18T19:54:54+00:00"
     },
     {
       "id": "443b1ef4f3ac",
@@ -495,11 +475,95 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.281,
+      "importance_score": 14.28,
       "latest_coverage_at": "2026-11-18T16:36:05+00:00"
+    },
+    {
+      "id": "45a1de26d28e",
+      "title": "JO de Paris 2024 : un succès populaire mais un \"bilan mitigé\" à l'impact économique \"très limité\"",
+      "summary": "Dans un rapport qui doit être publié jeudi, les Sages de la rue de Cambon revoient en très légère hausse leur estimation de la facture publique de l'événement. Par ailleurs, les recettes fiscales attendues n'ont pas été au rendez-vous. Alors que durant l'événement, le phénomène \"d'éviction\" a poussé de nombreux touristes à se détourner de Paris.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 12,
+      "url": "https://www.tf1info.fr/jeux-olympiques/jo-de-paris-2024-un-succes-populaire-mais-un-bilan-mitige-a-l-impact-economique-tres-limite-2476750.html",
+      "published_at": "2026-11-18T20:51:19+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « JO de Paris 2024 : un succès populaire mais un \"bilan mitigé\" à l'impact économique \"très limité\" » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.277,
+      "latest_coverage_at": "2026-11-18T20:51:19+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "e1a5a7aeaaad",
+      "title": "Guyane : l’orpaillage illégal atteint un niveau record dans le Parc amazonien",
+      "summary": "L’exploitation clandestine de l’or continue de progresser en Guyane, portée notamment par la flambée des cours et les flux venus du Suriname.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/region-guyane/guyane-lorpaillage-illegal-atteint-un-niveau-record-dans-le-parc-amazonien-2887fcae-e3c8-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-19T03:28:14+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Guyane : l’orpaillage illégal atteint un niveau record dans le Parc amazonien » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "b81b57febe6d",
+      "title": "«Génocide» des Rohingya en Birmanie: une décision historique attendue de la Cour internationale de justice",
+      "summary": "La Cour internationale de justice (CIJ), plus haute instance judiciaire de l'ONU, doit rendre ce jeudi 19 novembre sa décision sur les accusations de « génocide » visant la Birmanie pour les atrocités commises contre la minorité musulmane des Rohingya en 2017. Un jugement particulièrement attendu, qui pourrait avoir des conséquences sur d'autres affaires…",
+      "source": "RFI",
+      "feed_rank": 3,
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-g%C3%A9nocide-des-rohingya-en-birmanie-une-d%C3%A9cision-historique-attendue-de-la-cour-internationale-de-justice",
+      "published_at": "2026-11-19T03:24:57+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « «Génocide» des Rohingya en Birmanie: une décision historique attendue de la Cour internationale de justice ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e8ec5c1d40c0",
+      "title": "Corée du Sud: la triche via les lunettes connectées perturbe l'examen d'entrée à l'université",
+      "summary": "Jeudi 19 novembre, plus de 550 000 lycéens sud-coréens passent leur examen d'entrée à l'université. Mais cette année, les lunettes connectées dotées d'intelligence artificielle (IA), capables d'afficher sur les verres les réponses du test, sèment la panique. Le risque de triche étant très important, le ministère de l'Éducation renforce sa surveillance…",
+      "source": "RFI",
+      "feed_rank": 4,
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-cor%C3%A9e-du-sud-la-triche-via-les-lunettes-connect%C3%A9es-perturbe-l-examen-d-entr%C3%A9e-%C3%A0-l-universit%C3%A9",
+      "published_at": "2026-11-19T03:24:51+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Corée du Sud: la triche via les lunettes connectées perturbe l'examen d'entrée à l'université ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "01bd3b6f338c",
+      "title": "Soudan: le chef des paramilitaires FSR de nouveau condamné à mort par contumace",
+      "summary": "Au Soudan, le tribunal antiterroriste de Port-Soudan a condamné par contumace à la peine capitale, ce mercredi 18 novembre, le chef des Forces de soutien rapide (FSR), Mohamed Hamdan Dagalo, dit Hemetti, ainsi que ses deux frères, Abdelrahim et Al-Kouni, et onze autres commandants. Au total, quatorze accusés ont été condamnés.",
+      "source": "RFI",
+      "feed_rank": 5,
+      "url": "https://www.rfi.fr/fr/afrique/20261119-soudan-le-chef-des-paramilitaires-fsr-de-nouveau-condamn%C3%A9-%C3%A0-mort-par-contumace",
+      "published_at": "2026-11-19T03:24:42+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Soudan: le chef des paramilitaires FSR de nouveau condamné à mort par contumace ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "22de09c406fe",
       "title": "Belgique : Tout juste condamné à treize ans de prison, le braqueur Antonio Ferrara libéré sous bracelet électronique",
@@ -732,7 +796,7 @@
       "title": "Donald sous le Préau",
       "summary": "C'est un véritable tremblement de terre dans la Cour de Récré du monde.",
       "source": "RFI",
-      "feed_rank": 20,
+      "feed_rank": 23,
       "url": "https://www.rfi.fr/fr/podcasts/chronique-de-mamane/20261119-donald-sous-le-pre%CC%81au",
       "published_at": "2026-11-19T00:12:55+00:00",
       "category": "International",
@@ -764,7 +828,7 @@
       "title": "Espagne: la forte demande des étudiants français en médecine favorise le marché des universités privées",
       "summary": "En Europe, de plus en plus d'étudiants des professions de santé partent à l'étranger pour décrocher leur diplôme. La Roumanie est une destination déjà connue. L'Espagne, elle, est en plein essor. Le pays accueille notamment chaque année quelque 15 700 Français, qui sont les plus nombreux après les Italiens. Les cursus les plus sollicités sont ceux…",
       "source": "RFI",
-      "feed_rank": 11,
+      "feed_rank": 14,
       "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261119-espagne-la-forte-demande-des-%C3%A9tudiants-en-sant%C3%A9-fran%C3%A7ais-favorise-le-march%C3%A9-des-universit%C3%A9s-priv%C3%A9es",
       "published_at": "2026-11-19T00:01:07+00:00",
       "category": "Société",
@@ -780,7 +844,7 @@
       "title": "«On veut juste gagner notre vie»: de nombreux jeunes se lancent comme conducteurs de tuk-tuk en Mauritanie",
       "summary": "En Mauritanie, le transport est devenu un levier majeur de l'économie nationale. Face à un chômage des jeunes, estimé à 11,97% au premier trimestre de l'année 2026 selon l'Agence nationale de la statistique et de l'analyse démographique et économique, de nombreux jeunes se lancent dans le transport pour survivre. Parmi eux, les conducteurs de tuk-tuk,…",
       "source": "RFI",
-      "feed_rank": 16,
+      "feed_rank": 19,
       "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261118-on-veut-juste-gagner-notre-vie-de-nombreux-jeunes-se-lancent-comme-conducteurs-de-tuk-tuk-en-mauritanie",
       "published_at": "2026-11-18T23:58:18+00:00",
       "category": "Économie",
@@ -812,7 +876,7 @@
       "title": "La Russie contrainte de réduire à nouveau son activité dans le diamant",
       "summary": "Le géant russe du diamant taille à nouveau dans sa production. Alrosa annonce suspendre l'exploitation de plusieurs gisements. Cela fait 18 mois que l'entreprise russe a commencé à réduire son activité.",
       "source": "RFI",
-      "feed_rank": 7,
+      "feed_rank": 10,
       "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261118-la-russie-contrainte-de-r%C3%A9duire-%C3%A0-nouveau-son-activit%C3%A9-dans-le-diamant",
       "published_at": "2026-11-18T23:34:54+00:00",
       "category": "Économie",
@@ -828,7 +892,7 @@
       "title": "Droits voisins : une loi pour contraindre les plateformes à mieux rémunérer la presse",
       "summary": "Le Sénat doit adopter définitivement jeudi 18 novembre une loi visant à mieux rémunérer les médias lorsque leurs contenus sont repris par des plateformes comme Google ou Meta. Le texte renforce notamment les pouvoirs de l’Arcom, qui pourra sanctionner les géants du numérique récalcitrants.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/high-tech/numerique/droits-voisins-une-loi-pour-contraindre-les-plateformes-a-mieux-remunerer-la-presse-01ff86b4-e3a1-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T23:31:01+00:00",
       "category": "Médias & communication",
@@ -844,7 +908,7 @@
       "title": "Sortie de GTA VI: «La subversion n'empêche pas d'incarner le système»",
       "summary": "GTA VI sort ce jeudi 19 novembre, précédé d'un concert de superlatifs. Mais pour Angelo Careri, auteur de Grand Theft Auto, crime et architecture (éditions Façonnage), la satire de l'Amérique signée du développeur Rockstar est un trompe-l'œil : derrière l'ironie et l'humour noir, la saga véhicule des valeurs masculinistes et consuméristes. L'humour noir…",
       "source": "RFI",
-      "feed_rank": 13,
+      "feed_rank": 16,
       "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261118-sortie-de-gta-vi-la-subversion-n-emp%C3%AAchent-pas-d-incarner-le-syst%C3%A8me",
       "published_at": "2026-11-18T23:27:48+00:00",
       "category": "Culture",
@@ -893,7 +957,7 @@
       "title": "Comment le pétrole fait flamber l’inflation… et l’électricité apparaît comme un bouclier",
       "summary": "L’inflation est dopée par la flambée des énergies fossiles, elles-mêmes tributaires de facteurs tels que les guerres, non maîtrisables depuis l’Europe. C’est ce que montre une étude réalisée pour Greenpeace qui chiffre l’intérêt économique de l’énergie électrique, mais aussi d’autres institutions.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/economie/energie/comment-le-petrole-fait-flamber-linflation-et-lelectricite-apparait-comme-un-bouclier-fbe63c86-e2a7-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T23:01:02+00:00",
       "category": "Économie",
@@ -1023,7 +1087,7 @@
       "title": "Trains de nuit : l’État va louer 27 locomotives neuves et rénover 180 voitures Corail",
       "summary": "Pour relancer les trains de nuit, l’État a choisi de louer 27 locomotives neuves qui entreront en service à partir de 2030 et de rénover 180 anciennes voitures Corail de la SNCF. Un choix jugé « inquiétant » par le Réseau Action Climat, qui craint qu’il ne freine le développement de nouvelles lignes.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/economie/transports/train/trains-de-nuit-letat-va-louer-27-locomotives-neuves-et-renover-180-voitures-corail-155309a0-e39e-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T22:40:05+00:00",
       "category": "Environnement",
@@ -1385,7 +1449,7 @@
       "title": "Cyclisme. TotalEnergies, nouveau sponsor de FDJ-United, se désengage de l’équipe Netcompany - Ineos",
       "summary": "Selon l’Équipe, le géant pétrolier Total Energies ne sera plus le sponsor de Netcompany-Ineos. Il s’engage dans une autre aventure en étant « co-partenaire titre principal » de l’équipe FDJ United-Suez.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/cyclisme/cyclisme-totalenergies-nouveau-sponsor-de-fdj-united-se-desengage-de-lequipe-netcompany-ineos-89c13a66-e392-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T21:47:54+00:00",
       "category": "Environnement",
@@ -1590,7 +1654,7 @@
       "title": "Ligue 1. Le Monégasque Coulibaly suspendu un match après avoir mimé un égorgement pour célébrer",
       "summary": "Face au Mans le 8 novembre, le joueur de l’ASM Mamadou Coulibaly avait mimé un égorgement lors d’une célébration. Pour ce geste, il écope d’un match de suspension, a indiqué la Ligue de football professionnel ce mercredi. Il manquera le match contre Lyon lors de la 12e journée de championnat.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/monaco/ligue-1-le-monegasque-coulibaly-suspendu-un-match-apres-sa-celebration-polemique-a1bb502e-e393-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T21:30:38+00:00",
       "category": "Sport",
@@ -1606,7 +1670,7 @@
       "title": "Revenantes de Syrie : jusqu’à 12 ans de prison pour trois femmes parties rejoindre l’EI",
       "summary": "Deux anciennes épouses du vétéran français du jihad Adrien Guihal ont été condamnées mercredi à des peines de prison ferme pour avoir rejoint les rangs de l’État islamique en Syrie. Une troisième accusée, ancienne militaire, a écopé de 12 ans de réclusion criminelle.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/terrorisme/etat-islamique/revenantes-de-syrie-jusqua-12-ans-de-prison-pour-trois-femmes-parties-rejoindre-lei-98ac5bf2-e395-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T21:30:31+00:00",
       "category": "Société",
@@ -1752,7 +1816,7 @@
       "title": "Espagne: le chanteur Julio Iglesias visé par une enquête pour agressions sexuelles",
       "summary": "L'Audience nationale, la plus haute instance judiciaire espagnole, a annoncé, mercredi 18 novembre, l'ouverture d'une enquête pénale visant le chanteur Julio Iglesias, après des plaintes déposées par deux anciennes employées de ses résidences aux Caraïbes. Les deux femmes dénoncent des agressions sexuelles et des traitements humiliants et dégradants.…",
       "source": "RFI",
-      "feed_rank": 3,
+      "feed_rank": 6,
       "url": "https://www.rfi.fr/fr/europe/20261118-espagne-le-chanteur-julio-iglesias-vis%C3%A9-par-une-enqu%C3%AAte-pour-agressions-sexuelles",
       "published_at": "2026-11-18T21:20:10+00:00",
       "category": "Culture",
@@ -1900,7 +1964,7 @@
       "title": "Ils avaient volé une caravane avant une course-poursuite avec le maire : jusqu’à un an de prison ferme",
       "summary": "Samedi 14 novembre 2026, deux hommes âgés d’une vingtaine d’années ont été interpellés par les gendarmes à Saint-Aubin-des-Coudrais (Sarthe), après le vol de la caravane du maire de Dollon. Ils comparaissaient ce mercredi 18 novembre 2026 devant le tribunal du Mans.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/societe/justice/ils-avaient-vole-une-caravane-avant-une-course-poursuite-avec-le-maire-jusqua-un-an-de-prison-ferme-b1781afc-e351-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T21:10:29+00:00",
       "category": "Politique",
@@ -1932,7 +1996,7 @@
       "title": "Formateur reconnu, expérience en Angleterre… Qui est Vitor Matos, le nouvel entraîneur du RC Strasbourg ?",
       "summary": "Le difficile début de saison du RC Strasbourg aura eu la peau d’Hugo Oliveira, limogé par sa direction ce mercredi 18 novembre. Les dirigeants alsaciens n’ont pas perdu de temps pour lui trouver un successeur avec Vitor Matos. Le Portugais de 38 ans arrive sur le banc avec une expérience encore limitée comme entraîneur principal mais avec un solide…",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/rc-strasbourg/formateur-reconnu-experience-en-angleterre-qui-est-vitor-matos-le-nouvel-entraineur-du-rc-strasbourg-7f079eb4-e29b-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-18T21:07:43+00:00",
       "category": "Société",
@@ -2019,22 +2083,6 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Retraite à 65 ans proposée par Édouard Philippe: \"Pour équilibrer le système (...) il va falloir travailler un peu plus\", explique Maël de Calan, prés » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5437420b08d7",
-      "title": "Deux blessés graves dans un accident de la route en Sarthe",
-      "summary": "Trois personnes ont été blessées, dont deux grièvement, dans un accident de la route entre deux véhicules ce mercredi 18 novembre 2026, à Saint-Gervais-de-Vic (Sarthe).",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/faits-divers/accidents/deux-blesses-graves-dans-un-accident-de-la-route-en-sarthe-bbb5794a-e38f-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-18T20:53:15+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Deux blessés graves dans un accident de la route en Sarthe » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2826,6 +2874,22 @@
       "mention_count": 1
     },
     {
+      "id": "2b82145ae5ab",
+      "title": "« Aucune activité malveillante » derrière les pannes en série aux Etats-Unis, assurent trois hauts responsables américains",
+      "summary": "Le secrétaire à la sécurité intérieure, Markwayne Mullin (à gauche), et le directeur du renseignement national, Jay Clayton, devant la commission de la sécurité intérieure de la Chambre des représentants, à Washington, le 18 novembre 2026.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/international/article/2026/11/18/aucune-activite-malveillante-derriere-les-pannes-en-serie-aux-etats-unis-assurent-trois-hauts-responsables-americains_6813204_3210.html",
+      "published_at": "2026-11-18T19:45:09+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Aucune activité malveillante » derrière les pannes en série aux Etats-Unis, assurent trois hauts responsables américains ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "e30390f6d3fd",
       "title": "Espagne. Cet appartement est en vente à un prix dérisoire... mais un piège se cache dans les petites lignes",
       "summary": "Le logement est mis en vente presque deux fois moins cher que le prix du marché, à 2 179 euros le mètre carré au lieu de 4 000. En cause : une occupation illégale.",
@@ -2998,7 +3062,7 @@
       "title": "Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI",
       "summary": "L’ancien premier ministre, à la peine dans les sondages, rêve toujours d’imposer son agenda. Sans dévoiler de nouvelles mesures, il a mis en scène la première partie de son projet tout en refusant à nouveau l’idée d’une primaire.",
       "source": "Le Monde",
-      "feed_rank": 1,
+      "feed_rank": 3,
       "url": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html",
       "published_at": "2026-11-18T19:21:15+00:00",
       "category": "Politique",
@@ -3142,7 +3206,7 @@
       "title": "La Macédoine du Nord dit avoir déjoué un assassinat «terroriste» lié à l'Iran en Grèce",
       "summary": "L'agence de sécurité de Macédoine du Nord a déclaré, mardi 17 novembre, avoir déjoué un projet d'assassinat « terroriste » visant une personne en Grèce voisine et démantelé un réseau lié à l'Iran. Selon des médias grecs, la cible serait un ressortissant israélien basé dans le pays. Six personnes ont été arrêtées. Téhéran a rejeté les accusations.",
       "source": "RFI",
-      "feed_rank": 12,
+      "feed_rank": 15,
       "url": "https://www.rfi.fr/fr/europe/20261118-la-mac%C3%A9doine-du-nord-dit-avoir-d%C3%A9jou%C3%A9-un-assassinat-terroriste-li%C3%A9-%C3%A0-l-iran-en-gr%C3%A8ce",
       "published_at": "2026-11-18T19:08:57+00:00",
       "category": "Médias & communication",
@@ -3508,23 +3572,6 @@
       "mention_count": 2
     },
     {
-      "id": "ecae7411688d",
-      "title": "« Je vais venir au lycée, je vais te tuer, je vais t’égorger à la Samuel Paty » : un professeur menacé de mort porte plainte ; le suspect s’est rendu au commissariat",
-      "summary": "Ce professeur d’histoire-géographie a porté plainte pour des menaces de mort proférées à son encontre durant un cours en ligne le vendredi. L’homme s’est introduit dans le cours virtuel sans être un élève.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/18/un-professeur-menace-de-mort-a-la-samuel-paty-l-auteur-s-est-rendu-au-commissariat_6813195_3224.html",
-      "published_at": "2026-11-18T18:45:49+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « « Je vais venir au lycée, je vais te tuer, je vais t’égorger à la Samuel Paty » : un professeur menacé de mort porte plainte ; le suspect s’est rendu  ».",
-      "coverage_sources": [
-        "Le Monde",
-        "Libération"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
       "id": "bbf9068c0429",
       "title": "Edouard Philippe et la primaire : l'épreuve de force",
       "summary": "Quand les partisans de la primaire accélèrent, le candidat Horizons refuse de s'y plier et maintient son cap contre vents et marées",
@@ -3584,6 +3631,22 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Braquages, fusillades, trafics et sexe : le jeu GTA 6 risque d’assécher le public de Netflix ».",
       "coverage_sources": [
         "Valeurs actuelles"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "addfa5979ae0",
+      "title": "Un professeur d’un lycée à Paris menacé de mort «à la Samuel Paty», le suspect s’est rendu",
+      "summary": "Un homme habitant dans l’Ain a menacé d’égorger un enseignant du lycée Edgar-Quinet à Paris, lors d’un cours en distanciel vendredi. Le parquet n’a pas encore communiqué sur ses motivations.",
+      "source": "Libération",
+      "feed_rank": 12,
+      "url": "https://www.liberation.fr/societe/police-justice/un-professeur-dun-lycee-a-paris-menace-de-mort-a-la-samuel-paty-le-suspect-sest-rendu-20261118_I6RBCGZ455H5FBM7PVSXAYHHB4/",
+      "published_at": "2026-11-18T18:39:29+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Un professeur d’un lycée à Paris menacé de mort «à la Samuel Paty», le suspect s’est rendu ».",
+      "coverage_sources": [
+        "Libération"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3897,7 +3960,7 @@
       "title": "Ukraine: quatre morts dans une attaque de drones russes sur le centre d'Odessa",
       "summary": "L'armée russe a lancé, mercredi 18 novembre, une attaque aérienne contre le centre d'Odessa, troisième ville d'Ukraine, située sur les bords de la mer Noire, alors que Vladimir Poutine rencontrait ce même jour ses homologues chinois et américain. Quatre Ukrainiens ont été tués par des drones suicides, selon un bilan provisoire. Neuf autres personnes,…",
       "source": "RFI",
-      "feed_rank": 10,
+      "feed_rank": 13,
       "url": "https://www.rfi.fr/fr/europe/20261118-ukraine-quatre-morts-dans-une-attaque-de-drones-russes-sur-le-centre-d-odessa",
       "published_at": "2026-11-18T18:24:45+00:00",
       "category": "International",
@@ -4794,7 +4857,7 @@
       "title": "À Shenzhen, le président russe Vladimir Poutine s'affiche au centre du jeu mondial",
       "summary": "C'est le temps fort attendu du sommet de l'Apec, à Shenzhen en Chine : la rencontre prévue jeudi 19 octobre entre Xi Jinping, Donald Trump et Vladimir Poutine, sur le thème de la paix mondiale. Un symbole important et l'occasion pour le président russe de s'afficher aux côtés des dirigeants des deux super-puissances, à rebours de l'idée selon laquelle il…",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 7,
       "url": "https://www.rfi.fr/fr/europe/20261118-%C3%A0-shenzhen-le-pr%C3%A9sident-russe-vladimir-poutine-s-affiche-au-centre-du-jeu-mondial",
       "published_at": "2026-11-18T17:53:44+00:00",
       "category": "Politique",
@@ -5301,70 +5364,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Attaque sous faux drapeau : la Pologne déjoue un complot russe aux allures de 1939 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d986b7c61a87",
-      "title": "Alice Ekman : \" La Russie et la Chine cherche à faire front commun contre les Etats-Unis\"",
-      "summary": "La rencontre très attendue entre les trois dirigeants a lieu ce jeudi à Shenzhen. Derrière l’agenda affiché de discussion pour la paix mondiale, quels sont les véritables enjeux de ce sommet ? Avec Alice Ekman, sinologue et directrice de la recherche à l'Institut d'études de sécurité de l'UE.",
-      "source": "France Inter",
-      "feed_rank": 12,
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-un-jour-dans-le-monde/l-invite-d-un-jour-dans-le-monde-du-mercredi-18-novembre-2026-2724323",
-      "published_at": "2026-11-18T17:23:05+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Alice Ekman : \" La Russie et la Chine cherche à faire front commun contre les Etats-Unis\" ».",
-      "coverage_sources": [
-        "France Inter"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "186ac0818cbd",
-      "title": "Montres, voitures, jetpacks... Ces gadgets de James Bond qui sont devenus des innovations bien réelles",
-      "summary": "Des montres connectées aux voitures autonomes en passant par les réacteurs dorsaux testés par l'armée britannique, les inventions loufoques de Q dans les films de James Bond ont souvent anticipé les véritables avancées technologiques. Retour sur ces gadgets iconiques qui ont fini par quitter le grand écran.",
-      "source": "RMC",
-      "feed_rank": 4,
-      "url": "https://rmc.bfmtv.com/actualites/tech/montres-voitures-jetpacks-ces-gadgets-de-james-bond-qui-sont-devenus-des-innovations-bien-reelles_AV-202611180733.html",
-      "published_at": "2026-11-18T17:23:01+00:00",
-      "category": "Culture",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Montres, voitures, jetpacks... Ces gadgets de James Bond qui sont devenus des innovations bien réelles ».",
-      "coverage_sources": [
-        "RMC"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "6c22fc736292",
-      "title": "Corée du Sud : après un cas de triche par IA, le « baccalauréat » sous haute surveillance",
-      "summary": "Jeudi 19 novembre, plus de 550 000 lycéens sud-coréens passent le Suneung, examen dont le résultat scellera leur avenir universitaire. L’édition 2027 est néanmoins marquée par la crainte de triche assistée par IA. Celle-ci relance le débat sur la forme même de l’exercice.",
-      "source": "La Croix",
-      "feed_rank": 12,
-      "url": "https://www.la-croix.com/international/coree-du-sud-apres-un-cas-de-triche-par-ia-le-baccalaureat-sous-haute-surveillance-20261118",
-      "published_at": "2026-11-18T17:22:59+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « Corée du Sud : après un cas de triche par IA, le « baccalauréat » sous haute surveillance ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d9feb27a8a06",
-      "title": "Religions du monde : derrière le monothéisme majoritaire, des évolutions importantes",
-      "summary": "L’étude démographique du centre de recherche américain Pew pronostique, pour les cinquante années à venir, une augmentation mondiale du monothéisme, l’islam devenant la première religion, et une baisse de la non-affiliation religieuse.",
-      "source": "La Croix",
-      "feed_rank": 13,
-      "url": "https://www.la-croix.com/a-vif/religions-du-monde-derriere-le-monotheisme-majoritaire-des-evolutions-importantes-20261118",
-      "published_at": "2026-11-18T17:20:21+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « Religions du monde : derrière le monothéisme majoritaire, des évolutions importantes ».",
-      "coverage_sources": [
-        "La Croix"
       ],
       "coverage_count": 1,
       "mention_count": 1
