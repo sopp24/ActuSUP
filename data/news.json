@@ -1,34 +1,35 @@
 {
-  "last_updated": "2026-11-20T02:47:14.930838+00:00",
-  "last_attempt": "2026-11-20T02:47:14.930838+00:00",
+  "last_updated": "2026-11-20T03:39:52.707517+00:00",
+  "last_attempt": "2026-11-20T03:39:52.707517+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 904,
-  "unique_story_count": 776,
+  "raw_article_count": 894,
+  "unique_story_count": 775,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
     "Les Échos",
     "La Voix du Nord",
+    "Le Dauphiné Libéré",
     "Le Point"
   ],
-  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-21T02:47:14.930838+00:00",
-  "featured_window_end": "2026-11-20T02:47:14.930838+00:00",
-  "featured_pool_count": 902,
+  "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Dauphiné Libéré, Le Point. La sélection peut donc être incomplète.",
+  "featured_window_start": "2026-10-21T03:39:52.707517+00:00",
+  "featured_window_end": "2026-11-20T03:39:52.707517+00:00",
+  "featured_pool_count": 892,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "850835623c38",
-      "title": "Le Rassemblement national au cœur d'une enquête autour de fuites impliquant un préfet",
-      "summary": "Le préfet du Loiret et de la région Centre-Val de Loire est soupçonné d'être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national. Les faits remontent à ses fonctions précédentes comme secrétaire général du ministère de l'Intérieur. Le haut fonctionnaire est convoqué ce vendredi par Laurent Nuñez.",
-      "source": "TF1 Info (TF1 / LCI)",
+      "id": "a9c324c797b4",
+      "title": "Spleen d’automne en campagne présidentielle",
+      "summary": "Dans sa chronique quotidienne, Alain Rémond regrette de voir la campagne présidentielle partir dans tous les sens, sans réussir à l’enthousiasmer autant qu’il voudrait.",
+      "source": "La Croix",
       "feed_rank": 1,
-      "url": "https://www.tf1info.fr/politique/le-rassemblement-national-au-coeur-d-une-enquete-autour-de-fuites-impliquant-un-prefet-hugues-moutouh-2477034.html",
-      "published_at": "2026-11-20T00:10:09+00:00",
+      "url": "https://www.la-croix.com/a-vif/spleen-d-automne-en-campagne-presidentielle-20261119",
+      "published_at": "2026-11-20T03:00:17+00:00",
       "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Le Rassemblement national au cœur d'une enquête autour de fuites impliquant un préfet ».",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Spleen d’automne en campagne présidentielle ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -69,16 +70,16 @@
         "Creapills"
       ],
       "coverage_count": 37,
-      "mention_count": 183,
-      "importance_score": 36.424,
-      "latest_coverage_at": "2026-11-20T00:10:09+00:00"
+      "mention_count": 194,
+      "importance_score": 36.52,
+      "latest_coverage_at": "2026-11-20T03:00:17+00:00"
     },
     {
       "id": "fed881c3b7ee",
       "title": "Une plainte pour violences sexuelles contre Gérard Depardieu et Michel Houellebecq lors du tournage du film « Thalasso »",
       "summary": "Une plainte a été déposée par une actrice en mai 2025 contre l’acteur Gérard Depardieu et l’écrivain Michel Houellebecq pour des violences sexuelles qui auraient eu lieu pendant le tournage d’une scène du film « Thalasso », tourné à Cabourg, en Normandie, en 2018, révèle « Mediapart ».",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/cinema/gerard-depardieu/une-plainte-pour-violences-sexuelles-contre-gerard-depardieu-et-michel-houellebecq-lors-du-tournage-du-film-thalasso-155c0230-e45c-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T22:19:01+00:00",
       "category": "Société",
@@ -101,35 +102,8 @@
       ],
       "coverage_count": 14,
       "mention_count": 18,
-      "importance_score": 25.942,
+      "importance_score": 25.904,
       "latest_coverage_at": "2026-11-19T22:19:01+00:00"
-    },
-    {
-      "id": "6559a3e38d41",
-      "title": "Présidentielle : l'Arcom va contrôler le respect du pluralisme politique des principaux créateurs de contenus",
-      "summary": "Les autorités veulent réduire le risque d’ingérences étrangères sur les plateformes et éviter un scénario similaire à l’élection présidentille roumaine de 2024. Le scrutin y avait été annulé à la suite d’une opération en ligne pour influencer le vote et soutenir le candidat d’extrême droite.",
-      "source": "Euronews",
-      "feed_rank": 3,
-      "url": "https://fr.euronews.com/2026/11/19/presidentielle-larcom-va-controler-le-respect-du-pluralisme-politique-des-principaux-creat",
-      "published_at": "2026-11-19T19:49:53+00:00",
-      "category": "Politique",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Présidentielle : l'Arcom va contrôler le respect du pluralisme politique des principaux créateurs de contenus ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "France 24",
-        "RFI",
-        "Euronews",
-        "France Inter",
-        "L'Opinion",
-        "Libération",
-        "Sud Ouest",
-        "La Croix"
-      ],
-      "coverage_count": 10,
-      "mention_count": 10,
-      "importance_score": 22.695,
-      "latest_coverage_at": "2026-11-19T19:49:53+00:00"
     },
     {
       "id": "84904c6c6c2e",
@@ -154,33 +128,55 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 22.183,
+      "importance_score": 22.176,
       "latest_coverage_at": "2026-11-19T19:56:21+00:00"
     },
     {
-      "id": "1245423c95da",
-      "title": "Le député David Habib, figure politique du Béarn, décède à 65 ans",
-      "summary": "Un « décès soudain ». Le député des Pyrénées-Atlantiques David Habib est décédé à 65 ans, a annoncé ce jeudi 19 novembre 2026 la présidente de l’Assemblée nationale, Yaël Braun-Pivet, dans l’hémicycle. Les députés ont observé une minute de silence.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/politique/le-depute-david-habib-figure-politique-du-bearn-decede-a-65-ans-b66cbfdc-e459-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-19T20:56:49+00:00",
+      "id": "d8d8c445503c",
+      "title": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
+      "summary": "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, Outre-mer et territoires.",
+      "source": "Le Monde",
+      "feed_rank": 13,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html",
+      "published_at": "2026-11-19T20:35:44+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Le député David Habib, figure politique du Béarn, décède à 65 ans » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Monde",
         "CNews",
         "Libération",
-        "Ouest-France",
         "Sud Ouest",
         "La Dépêche du Midi",
         "LCP",
         "Paris Match"
       ],
-      "coverage_count": 8,
-      "mention_count": 8,
-      "importance_score": 21.164,
-      "latest_coverage_at": "2026-11-19T20:56:49+00:00"
+      "coverage_count": 7,
+      "mention_count": 7,
+      "importance_score": 20.152,
+      "latest_coverage_at": "2026-11-19T20:35:44+00:00"
+    },
+    {
+      "id": "fe7f2eb8bc70",
+      "title": "GTA 6 : Des pics de trafic signalés chez des fournisseurs d’accès en France",
+      "summary": "<p>La sortie de <em><a href=\"https://www.20minutes.fr/dossier/gta\">GTA 6</a></em> se mesure déjà sur les réseaux Internet français. Ce jeudi, treize ans après le précédent volet de <em>Grand Theft Auto</em>, <a href=\"https://www.20minutes.fr/gaming/jeux_video/4263999-20261119-gta-6-apres-13-ans-attente-premiers-joueurs-conquis-nouvel-opus-saga\">les…",
+      "source": "20 Minutes",
+      "feed_rank": 17,
+      "url": "https://www.20minutes.fr/gaming/4264288-20261119-gta-6-pics-trafic-signales-chez-fournisseurs-acces-france?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-19T20:45:22+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « GTA 6 : Des pics de trafic signalés chez des fournisseurs d’accès en France » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RMC",
+        "Sud Ouest",
+        "20 Minutes",
+        "LCP",
+        "Konbini",
+        "Creapills"
+      ],
+      "coverage_count": 6,
+      "mention_count": 7,
+      "importance_score": 19.437,
+      "latest_coverage_at": "2026-11-19T20:45:22+00:00"
     },
     {
       "id": "ba755370adc3",
@@ -194,16 +190,15 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide ».",
       "coverage_sources": [
         "Le Monde",
-        "France 24",
         "RFI",
         "Courrier International",
         "France Culture",
         "Libération",
         "L'Humanité"
       ],
-      "coverage_count": 7,
-      "mention_count": 8,
-      "importance_score": 20.328,
+      "coverage_count": 6,
+      "mention_count": 7,
+      "importance_score": 19.304,
       "latest_coverage_at": "2026-11-19T20:06:18+00:00"
     },
     {
@@ -222,64 +217,19 @@
         "Le Monde",
         "Le Figaro",
         "TF1 Info (TF1 / LCI)",
-        "Sud Ouest",
-        "Le Dauphiné Libéré"
+        "Sud Ouest"
       ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.251,
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 19.14,
       "latest_coverage_at": "2026-11-20T00:28:01+00:00"
-    },
-    {
-      "id": "fe7f2eb8bc70",
-      "title": "GTA 6 : Des pics de trafic signalés chez des fournisseurs d’accès en France",
-      "summary": "<p>La sortie de <em><a href=\"https://www.20minutes.fr/dossier/gta\">GTA 6</a></em> se mesure déjà sur les réseaux Internet français. Ce jeudi, treize ans après le précédent volet de <em>Grand Theft Auto</em>, <a href=\"https://www.20minutes.fr/gaming/jeux_video/4263999-20261119-gta-6-apres-13-ans-attente-premiers-joueurs-conquis-nouvel-opus-saga\">les…",
-      "source": "20 Minutes",
-      "feed_rank": 17,
-      "url": "https://www.20minutes.fr/gaming/4264288-20261119-gta-6-pics-trafic-signales-chez-fournisseurs-acces-france?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-19T20:45:22+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « GTA 6 : Des pics de trafic signalés chez des fournisseurs d’accès en France » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Sud Ouest",
-        "20 Minutes",
-        "LCP",
-        "Konbini",
-        "Creapills"
-      ],
-      "coverage_count": 5,
-      "mention_count": 6,
-      "importance_score": 18.162,
-      "latest_coverage_at": "2026-11-19T20:45:22+00:00"
-    },
-    {
-      "id": "a9e2b5c65492",
-      "title": "Incendie dans un immeuble : un mort et des pompiers intoxiqués",
-      "summary": "Un incendie a fait un mort ce jeudi soir à Fontenay-sous-Bois, dans le Val-de-Marne. Le feu s'est déclaré vers 17 heures au onzième étage d'un immeuble, avant de se propager à d'autres étages. Les habitants des étages supérieurs sont restés confinés chez eux, pris au piège. Ceux des étages inférieurs ont été évacués. Il a fallu plus de trois heures, 130…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 19,
-      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-incendie-dans-un-immeuble-un-mort-et-des-pompiers-intoxiques-70973-2477012.html",
-      "published_at": "2026-11-19T20:55:17+00:00",
-      "category": "Environnement",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Incendie dans un immeuble : un mort et des pompiers intoxiqués ».",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
-        "CNews",
-        "Libération",
-        "Le Dauphiné Libéré",
-        "Midi Libre"
-      ],
-      "coverage_count": 5,
-      "mention_count": 6,
-      "importance_score": 18.002,
-      "latest_coverage_at": "2026-11-19T21:05:19+00:00"
     },
     {
       "id": "792e29fdc16d",
       "title": "Guerre au Moyen-Orient : coût du conflit en Iran ; incursion à Gaza… Le bilan du jeudi 19 novembre",
       "summary": "La guerre en Iran a coûté plus de 48 milliards de dollars aux États-Unis depuis février, selon un responsable du Pentagone. L’armée israélienne a opéré une incursion à Gaza dans une zone contrôlée par le Hamas, provoquant de nouveaux déplacements. Retrouvez l’actualité de la guerre au Moyen-Orient ce jeudi 19 novembre.",
       "source": "La Croix",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-265-moyen-orient-bilan-resume-aujourdhui-20261119",
       "published_at": "2026-11-19T20:48:58+00:00",
       "category": "International",
@@ -293,7 +243,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.875,
+      "importance_score": 17.855,
       "latest_coverage_at": "2026-11-19T20:48:58+00:00"
     },
     {
@@ -301,7 +251,7 @@
       "title": "ATP Finals. Malgré son élimination du Masters, Arthur Fils retiendra « une saison d’enfer »",
       "summary": "Éliminé du Masters de fin de saison à Turin après sa défaite face à Alexander Zverev ce jeudi 19 novembre, Arthur Fils ne veut garder que le positif de sa saison 2026, auréolée de deux succès (ATP 500 de Barcelone et Masters 1000 de Cincinnati.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/sport/tennis/arthur-fils/atp-finals-malgre-son-elimination-du-masters-arthur-fils-retiendra-une-saison-denfer-6cd3f2ee-e05a-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T22:53:58+00:00",
       "category": "Société",
@@ -315,7 +265,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.817,
+      "importance_score": 17.805,
       "latest_coverage_at": "2026-11-19T22:53:58+00:00"
     },
     {
@@ -337,30 +287,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.795,
+      "importance_score": 17.793,
       "latest_coverage_at": "2026-11-19T21:37:50+00:00"
-    },
-    {
-      "id": "22801381690d",
-      "title": "Enseignant menacé de mort \"à la Samuel Paty\" : le suspect de seize ans s'est rendu",
-      "summary": "Les faits très inquiétants sont survenus vendredi, dans un lycée parisien. Un professeur d'histoire-géographie, qui faisait cours en ligne, a été menacé de mort par un mystérieux correspondant. Le suspect est un mineur âgé de seize ans. Il habite à 500 kilomètres de là, dans l'Ain, et est de lui-même allé se dénoncer à la gendarmerie avant d'être placé…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 22,
-      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-enseignant-menace-de-mort-a-la-samuel-paty-le-suspect-de-seize-ans-s-est-rendu-28860-2477005.html",
-      "published_at": "2026-11-19T20:30:23+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Enseignant menacé de mort \"à la Samuel Paty\" : le suspect de seize ans s'est rendu ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "TF1 Info (TF1 / LCI)",
-        "L'Obs",
-        "Sud Ouest"
-      ],
-      "coverage_count": 5,
-      "mention_count": 6,
-      "importance_score": 17.736,
-      "latest_coverage_at": "2026-11-19T21:35:11+00:00"
     },
     {
       "id": "07bcde5a6952",
@@ -381,7 +309,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.597,
+      "importance_score": 17.585,
       "latest_coverage_at": "2026-11-19T19:33:33+00:00"
     },
     {
@@ -402,8 +330,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.712,
+      "importance_score": 16.71,
       "latest_coverage_at": "2026-11-19T21:17:37+00:00"
+    },
+    {
+      "id": "a9e2b5c65492",
+      "title": "Incendie dans un immeuble : un mort et des pompiers intoxiqués",
+      "summary": "Un incendie a fait un mort ce jeudi soir à Fontenay-sous-Bois, dans le Val-de-Marne. Le feu s'est déclaré vers 17 heures au onzième étage d'un immeuble, avant de se propager à d'autres étages. Les habitants des étages supérieurs sont restés confinés chez eux, pris au piège. Ceux des étages inférieurs ont été évacués. Il a fallu plus de trois heures, 130…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 19,
+      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-incendie-dans-un-immeuble-un-mort-et-des-pompiers-intoxiques-70973-2477012.html",
+      "published_at": "2026-11-19T20:55:17+00:00",
+      "category": "Environnement",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Incendie dans un immeuble : un mort et des pompiers intoxiqués ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)",
+        "CNews",
+        "Libération",
+        "Midi Libre"
+      ],
+      "coverage_count": 4,
+      "mention_count": 5,
+      "importance_score": 16.553,
+      "latest_coverage_at": "2026-11-19T21:05:19+00:00"
     },
     {
       "id": "250a6e33ce63",
@@ -423,29 +372,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.591,
+      "importance_score": 16.543,
       "latest_coverage_at": "2026-11-19T20:55:16+00:00"
-    },
-    {
-      "id": "5ed19ee63f33",
-      "title": "Un homme, soupçonné de 20 incendies cet été en Côte-d'Or, écroué",
-      "summary": "Le 16 novembre dernier, les forces de l’ordre ont interpellé un homme soupçonné d’être à l’origine d’une vingtaine d’incendies qui ont touché la Côte-d’Or, cet été. Le suspect sera jugé en janvier. L’été 2026 a vu nombre d’incendies se déclarer un peu partout en France. La saison s’est révélée particulièrement dévastatrice dans le département de la…",
-      "source": "CNews",
-      "feed_rank": 1,
-      "url": "https://www.cnews.fr/france/2026-11-19/un-homme-soupconne-de-20-incendies-cet-ete-en-cote-dor-ecroue-1957727",
-      "published_at": "2026-11-19T22:02:16+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Un homme, soupçonné de 20 incendies cet été en Côte-d'Or, écroué ».",
-      "coverage_sources": [
-        "CNews",
-        "20 Minutes",
-        "Le Dauphiné Libéré",
-        "Midi Libre"
-      ],
-      "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.475,
-      "latest_coverage_at": "2026-11-19T22:02:16+00:00"
     },
     {
       "id": "3beb39157d4f",
@@ -465,29 +393,29 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.335,
+      "importance_score": 16.321,
       "latest_coverage_at": "2026-11-20T01:06:41+00:00"
     },
     {
-      "id": "63f461ee10a6",
-      "title": "Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
-      "summary": "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants ».",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
-      "published_at": "2026-11-20T00:03:49+00:00",
-      "category": "Politique",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028 ».",
+      "id": "22801381690d",
+      "title": "Enseignant menacé de mort \"à la Samuel Paty\" : le suspect de seize ans s'est rendu",
+      "summary": "Les faits très inquiétants sont survenus vendredi, dans un lycée parisien. Un professeur d'histoire-géographie, qui faisait cours en ligne, a été menacé de mort par un mystérieux correspondant. Le suspect est un mineur âgé de seize ans. Il habite à 500 kilomètres de là, dans l'Ain, et est de lui-même allé se dénoncer à la gendarmerie avant d'être placé…",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 22,
+      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-enseignant-menace-de-mort-a-la-samuel-paty-le-suspect-de-seize-ans-s-est-rendu-28860-2477005.html",
+      "published_at": "2026-11-19T20:30:23+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Enseignant menacé de mort \"à la Samuel Paty\" : le suspect de seize ans s'est rendu ».",
       "coverage_sources": [
-        "Le Monde",
+        "France Info (Radio)",
+        "Franceinfo (TV)",
         "TF1 Info (TF1 / LCI)",
-        "20 Minutes",
-        "La Dépêche du Midi"
+        "L'Obs"
       ],
       "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.114,
-      "latest_coverage_at": "2026-11-20T00:03:49+00:00"
+      "mention_count": 5,
+      "importance_score": 16.27,
+      "latest_coverage_at": "2026-11-19T21:35:11+00:00"
     },
     {
       "id": "3fd4551a4486",
@@ -507,11 +435,135 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 15.952,
+      "importance_score": 15.949,
       "latest_coverage_at": "2026-11-19T19:07:33+00:00"
+    },
+    {
+      "id": "c72f62886825",
+      "title": "Les stars réagissent à l&#8217;annonce de Robert Pattinson en James Bond",
+      "summary": "On a tous notre avis sur le casting de Robert Pattinson dans le rôle de Bond, James Bond. Et, apparemment, les stars aussi avaient leurs petits paris et favoris. Depuis l'annonce de lundi, beaucoup ont...",
+      "source": "Konbini",
+      "feed_rank": 2,
+      "url": "https://www.konbini.com/popculture/les-stars-reagissent-a-lannonce-de-robert-pattinson-en-james-bond/",
+      "published_at": "2026-11-19T16:44:59+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les stars réagissent à l’annonce de Robert Pattinson en James Bond » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes",
+        "Konbini",
+        "Télérama"
+      ],
+      "coverage_count": 3,
+      "mention_count": 6,
+      "importance_score": 15.401,
+      "latest_coverage_at": "2026-11-19T16:44:59+00:00"
+    },
+    {
+      "id": "8a7e6f47963d",
+      "title": "Scandale Jensen Huang : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine",
+      "summary": "Le procureur général de Californie a ouvert jeudi une enquête sur Nvidia, soupçonné d’avoir dissimulé à ses investisseurs les risques de fuite de ses puces d’intelligence artificielle vers la Chine.",
+      "source": "Le Figaro",
+      "feed_rank": 20,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/scandale-jensen-huang-la-californie-ouvre-une-enquete-sur-nvidia-et-les-ventes-de-puces-a-la-chine-20261120",
+      "published_at": "2026-11-20T00:10:08+00:00",
+      "category": "International",
+      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Scandale Jensen Huang : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine ».",
+      "coverage_sources": [
+        "Le Figaro",
+        "L'Opinion",
+        "Le Monde Informatique"
+      ],
+      "coverage_count": 3,
+      "mention_count": 6,
+      "importance_score": 15.162,
+      "latest_coverage_at": "2026-11-20T00:10:08+00:00"
+    },
+    {
+      "id": "e446225d5cb4",
+      "title": "De Microsoft à la NSA, une cascade de pannes : ce que l’on sait du rôle de l’intelligence artificielle",
+      "summary": "Microsoft, Apple, plusieurs banques, la FAA et la NSA : les pannes se sont multipliées de manière alarmante en quelques jours. Si tout semble indiquer une suite de problèmes techniques indépendants, une autre explication se dessine en coulisses. Et elle pourrait bien annoncer une période...",
+      "source": "Futura",
+      "feed_rank": 12,
+      "url": "https://www.futura-sciences.com/tech/actualites/cybersecurite-microsoft-nsa-cascade-pannes-ce-on-sait-role-intelligence-artificielle-139452/#xtor%3DRSS-8",
+      "published_at": "2026-11-19T11:33:27+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « De Microsoft à la NSA, une cascade de pannes : ce que l’on sait du rôle de l’intelligence artificielle » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "L'Express",
+        "Futura",
+        "Le Monde Informatique"
+      ],
+      "coverage_count": 3,
+      "mention_count": 5,
+      "importance_score": 14.766,
+      "latest_coverage_at": "2026-11-19T11:33:27+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "e455d5151f5d",
+      "title": "Donald Trump limoge le directeur de la cybersécurité de la Maison Blanche",
+      "summary": "Le directeur de la cybersécurité de la Maison Blanche Sean Cairncross, jugé dépourvu des compétences nécessaires pour occuper ce poste, a été limogé jeudi, après des incidents techniques en série ces derniers jours aux États-Unis.",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261120-etats-unis-donald-trump-limoge-directeur-cybersecurite-maison-blanche",
+      "published_at": "2026-11-20T03:31:39+00:00",
+      "category": "Sciences & tech",
+      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Donald Trump limoge le directeur de la cybersécurité de la Maison Blanche ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2ba3c25692ba",
+      "title": "« Team du Château » : neuf mois de prison ferme requis contre l’influenceur Mounim Sabhi",
+      "summary": "Jugé à Blois pour des violences et humiliations sur des personnes vulnérables, diffusées en direct sur les réseaux sociaux, Mounim Sabhi risque 18 mois de prison, dont neuf avec sursis. La décision sera rendue le 17 décembre.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/societe/justice/team-du-chateau-neuf-mois-de-prison-ferme-requis-contre-linfluenceur-mounim-sabhi-e4205bac-e45c-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-20T03:31:01+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « « Team du Château » : neuf mois de prison ferme requis contre l’influenceur Mounim Sabhi ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "63a9e3814fb1",
+      "title": "Vidéo. Souvenons-nous, en 1945, le procès, visant à condamner les crimes nazis s’ouvrait à Nuremberg",
+      "summary": "ÉPHÉMÉRIDE DU 20 NOVEMBRE - Voici tout ce qu’il faut savoir pour bien commencer la journée… Aujourd’hui on fête les Edmond. Et aussi les Eddie, Eddy, Edmund, Octave…",
+      "source": "Sud Ouest",
+      "feed_rank": 1,
+      "url": "https://www.sudouest.fr/redaction/ephemeride/video-souvenons-nous-en-1945-le-proces-visant-a-condamner-les-crimes-nazis-s-ouvrait-a-nuremberg-31292003.php",
+      "published_at": "2026-11-20T03:30:00+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Vidéo. Souvenons-nous, en 1945, le procès, visant à condamner les crimes nazis s’ouvrait à Nuremberg ».",
+      "coverage_sources": [
+        "Sud Ouest"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a9c324c797b4",
+      "title": "Spleen d’automne en campagne présidentielle",
+      "summary": "Dans sa chronique quotidienne, Alain Rémond regrette de voir la campagne présidentielle partir dans tous les sens, sans réussir à l’enthousiasmer autant qu’il voudrait.",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/a-vif/spleen-d-automne-en-campagne-presidentielle-20261119",
+      "published_at": "2026-11-20T03:00:17+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Spleen d’automne en campagne présidentielle ».",
+      "coverage_sources": [
+        "La Croix"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "d9c8139101c8",
       "title": "Yémen : les houthistes affirment qu'un avion saoudien a touché un bateau civil, tuant 19 personnes à son bord",
@@ -549,7 +601,7 @@
       "title": "Outre-mer : le Parlement adopte définitivement des mesures pour favoriser la baisse des prix",
       "summary": "Le Parlement a définitivement adopté des mesures visant à faire baisser les prix en Outre-mer, où le coût de la vie reste particulièrement élevé.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/outre-mer/outre-mer-le-parlement-adopte-definitivement-des-mesures-pour-favoriser-la-baisse-des-prix-8f2ab73c-e46b-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-20T01:06:41+00:00",
       "category": "Politique",
@@ -622,11 +674,10 @@
         "France 24",
         "TF1 Info (TF1 / LCI)",
         "France Inter",
-        "La Croix",
-        "Le Dauphiné Libéré"
+        "La Croix"
       ],
-      "coverage_count": 5,
-      "mention_count": 5
+      "coverage_count": 4,
+      "mention_count": 4
     },
     {
       "id": "8a7e6f47963d",
@@ -659,23 +710,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "63f461ee10a6",
-      "title": "Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
-      "summary": "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants ».",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
-      "published_at": "2026-11-20T00:03:49+00:00",
-      "category": "Politique",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028 ».",
-      "coverage_sources": [
-        "Le Monde",
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     },
     {
       "id": "94470b43e70f",
@@ -850,12 +884,11 @@
         "La Croix",
         "La Dépêche du Midi",
         "LCP",
-        "Le Dauphiné Libéré",
         "Le JDD",
         "Public Sénat"
       ],
-      "coverage_count": 20,
-      "mention_count": 33
+      "coverage_count": 19,
+      "mention_count": 31
     },
     {
       "id": "4fdd049152c8",
@@ -894,7 +927,7 @@
       "title": "Montée de l'extrême droite en France : \"Les Allemands ont un regard extrêmement inquiet\"",
       "summary": "La progression de l’extrême droite en France et en Allemagne répond \"à des logiques similaires\", explique Hélène Miard-Delacroix, germaniste et historienne française. Retrouvez l'émission dans son intégralité ce samedi midi sur la chaîne YouTube de France 24.",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-mont%C3%A9e-de-l-extr%C3%AAme-droite-en-france-les-allemands-ont-un-regard-extr%C3%AAmement-inquiet",
       "published_at": "2026-11-19T23:03:14+00:00",
       "category": "Médias & communication",
@@ -1006,7 +1039,7 @@
       "title": "ATP Finals. Malgré son élimination du Masters, Arthur Fils retiendra « une saison d’enfer »",
       "summary": "Éliminé du Masters de fin de saison à Turin après sa défaite face à Alexander Zverev ce jeudi 19 novembre, Arthur Fils ne veut garder que le positif de sa saison 2026, auréolée de deux succès (ATP 500 de Barcelone et Masters 1000 de Cincinnati.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/sport/tennis/arthur-fils/atp-finals-malgre-son-elimination-du-masters-arthur-fils-retiendra-une-saison-denfer-6cd3f2ee-e05a-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T22:53:58+00:00",
       "category": "Société",
@@ -1087,7 +1120,7 @@
       "title": "La police d'Haïti dit avoir tué 34 membres de gang à Port-au-Prince",
       "summary": "Jeudi, une opération visant \"une base du chef de gang Ti Lapli\" à Port-au-Prince a permis de neutraliser 34 membres, a annoncé la police d'Haïti, alors que la capitale est depuis peu le théâtre d'un déploiement d'envergure de l'armée salvadorienne contre les bandes armées locales.",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261119-haiti-police-tue-34-membres-gang-port-au-prince-ti-lapli",
       "published_at": "2026-11-19T22:39:23+00:00",
       "category": "Société",
@@ -1184,7 +1217,7 @@
       "title": "Euroligue. Paris Basket signe sa sixième victoire consécutive, la troisième de suite grâce à Nadir Hifi",
       "summary": "Le Paris Basket marche sur l’eau en Euroligue, en ayant signé son sixième succès consécutif ce jeudi 19 novembre contre l’Hapoël Tel-Aviv (97-96). Pour la troisième fois consécutive et quasiment au buzzer encore, c’est Nadir Hifi qui a délivré le panier de la gagne…",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/basket/euroligue/euroligue-paris-basket-signe-sa-sixieme-victoire-consecutive-la-troisieme-de-suite-grace-a-nadir-hifi-67712326-e465-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T22:13:09+00:00",
       "category": "Sport",
@@ -1196,11 +1229,27 @@
       "mention_count": 1
     },
     {
+      "id": "38911bcaa49d",
+      "title": "Le Brésil reconnaît le territoire ancestral du chef indigène Raoni",
+      "summary": "Le président brésilien Lula (à gauche) et le chef autochtone et défenseur de l’environnement Raoni Metuktire, lors d’une visite à Peixoto de Azevedo, dans l’Etat du Mato Grosso (Brésil), le 19 novembre 2026.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/international/article/2026/11/19/le-bresil-reconnait-le-territoire-ancestral-du-chef-indigene-raoni_6813384_3210.html",
+      "published_at": "2026-11-19T22:12:26+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Le Brésil reconnaît le territoire ancestral du chef indigène Raoni ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "5c1071a67e0c",
       "title": "Handball. Le PSG débute le tour principal de la Ligue des champions par un succès",
       "summary": "Le Paris Saint-Germain Handball a démarré le tour principal de la Ligue des champions par un court mais précieux succès dans la salle des Allemands de Melsungen (33-35), jeudi 19 novembre, ce qui maintient sa dynamique en vue de la qualification.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/handball/handball-le-psg-debute-le-tour-principal-de-la-ligue-des-champions-par-un-succes-30892590-e463-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T22:03:34+00:00",
       "category": "Société",
@@ -1255,18 +1304,17 @@
       "category": "Sciences & tech",
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Un homme, soupçonné de 20 incendies cet été en Côte-d'Or, écroué ».",
       "coverage_sources": [
-        "CNews",
-        "Le Dauphiné Libéré"
+        "CNews"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "9a1c4ba7ae23",
       "title": "Primaire de la droite et du centre, Marine Tondelier tend la main à LFI",
       "summary": "La primaire de la droite et du centre aura-t-elle lieu ? Et quel en sera le périmètre ? La première réunion a eu lieu avec les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard mais sans Edouard Philippe qui continue à la refuser. A gauche, Marine Tondelier, la patronne des Verts, fait un pas vers Jean-Luc Mélenchon pour la présidentielle et…",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
       "published_at": "2026-11-19T21:59:10+00:00",
       "category": "Société",
@@ -1320,6 +1368,22 @@
       "published_at": "2026-11-19T21:53:28+00:00",
       "category": "Politique",
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Le Grand Entretien - François Hollande ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1b8fdf25a951",
+      "title": "\"Un bref entretien de courtoisie\" : Emmanuel Macron rencontre Kamala Harris ce vendredi à Paris",
+      "summary": "L'ancienne vice-présidente des États-Unis va être reçue à Paris ce vendredi par Emmanuel Macron. Cette visite consistera en \"un bref entretien de courtoisie en présence de son époux\", selon l'entourage du président.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 8,
+      "url": "https://www.tf1info.fr/international/video-un-bref-entretien-de-courtoisie-emmanuel-macron-rencontre-kamala-harris-ce-vendredi-a-paris-2477027.html",
+      "published_at": "2026-11-19T21:52:11+00:00",
+      "category": "Politique",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Un bref entretien de courtoisie\" : Emmanuel Macron rencontre Kamala Harris ce vendredi à Paris ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
       ],
@@ -1411,7 +1475,7 @@
       "title": "Top 14. Le troisième ligne international Anthony Jelonch prolonge jusqu’en 2030 avec le Stade Toulousain",
       "summary": "Le troisième ligne international Anthony Jelonch a prolongé de trois ans son contrat avec le Stade Toulousain, jusqu’en 2030, a annoncé le quadruple champion de France en titre jeudi 19 novembre sur ses réseaux sociaux.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/rugby/anthony-jelonch/top-14-le-troisieme-ligne-international-anthony-jelonch-prolonge-jusquen-2030-avec-le-stade-toulousain-0d1ddfcc-e460-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T21:38:54+00:00",
       "category": "Médias & communication",
@@ -1706,7 +1770,7 @@
       "title": "Ligue 1. Hors-jeu semi-automatique : une idée séduisante qui a fait ses preuves, mais coûteuse",
       "summary": "Déjà utilisé lors des deux dernières Coupes du monde, en Ligue des champions et dans le championnat d’Angleterre, le hors-jeu semi-automatique a séduit bon nombre d’arbitres, mais tarde à se faire une place en Ligue 1 pour des raisons essentiellement économiques.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-hors-jeu-semi-automatique-une-idee-seduisante-qui-a-fait-ses-preuves-mais-couteuse-4a596f4c-e45a-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T21:15:20+00:00",
       "category": "Économie",
@@ -1722,7 +1786,7 @@
       "title": "Procès du canal \"Femmeblancherie\" : de la prison ferme requise contre des masculinistes",
       "summary": "Jusqu'à deux ans de prison ferme ont été requis, jeudi à Paris, contre le fondateur du groupe Telegram \"femmeblancherie\" et six autres hommes, jugés pour des propos haineux visant notamment les femmes, dans le premier procès de la mouvance masculiniste en France.",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/france/20261119-proc%C3%A8s-canal-femmeblancherie-prison-ferme-requise-contre-masculinistes",
       "published_at": "2026-11-19T21:15:19+00:00",
       "category": "Société",
@@ -1787,7 +1851,7 @@
       "title": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
       "summary": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la fin théorique des négociations.",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-climat-%C3%A9nergies-fossiles-retir%C3%A9es-projet-d%C3%A9cision-finale",
       "published_at": "2026-11-19T21:06:06+00:00",
       "category": "Environnement",
@@ -1846,11 +1910,10 @@
         "Le Monde",
         "Le Figaro",
         "TF1 Info (TF1 / LCI)",
-        "Sud Ouest",
-        "Le Dauphiné Libéré"
+        "Sud Ouest"
       ],
-      "coverage_count": 7,
-      "mention_count": 7
+      "coverage_count": 6,
+      "mention_count": 6
     },
     {
       "id": "634fff13644f",
@@ -1905,7 +1968,7 @@
       "title": "Xi, Trump, Poutine : un Yalta 2.0 ?",
       "summary": "C’est peut-être l'image de l’année : Xi Jinping, Donald Trump et Vladimir Poutine réunis à Shenzhen en Chine. C’est la première fois que les présidents de ces trois puissances se rencontraient. Ils ont adopté une \"déclaration de paix\" et se sont engagés en faveur de la \"stabilité stratégique\". Au même moment, les Européens étaient réunis à Berlin : les…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-xi-trump-poutine-un-yalta-2-0",
       "published_at": "2026-11-19T21:00:32+00:00",
       "category": "Politique",
@@ -1953,7 +2016,7 @@
       "title": "Trop grandes, trop complexes… Les Cop environnementales sont-elles encore efficaces ?",
       "summary": "Depuis les années 1990, les pays du monde entier se réunissent annuellement autour des Cop, conférences des Nations unies sur le climat, pour échanger sur la crise climatique et trouver des solutions communes pour la ralentir. Mais ces grands rassemblements sont-ils encore pertinents ? Décriée pour son manque de fluidité et sa lenteur, la Cop divise. Ses…",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/leditiondusoir/2026-11-19/trop-grandes-trop-complexes-les-cop-environnementales-sont-elles-encore-efficaces-c13b4419-1af5-426e-9fdd-5c34bf8f8598?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-19T20:58:34+00:00",
       "category": "Sciences & tech",
@@ -1969,7 +2032,7 @@
       "title": "Corée du Sud : un examen crucial en plein scandale de triche à l’IA",
       "summary": "Les ​élèves sud-coréens ont passé jeudi 19 novembre le Suneung, le rigoureux examen national d'entrée à l'université, dans une ambiance tendue après un scandale de triche ​lié à l'intelligence artificielle il y a deux semaines.",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-cor%C3%A9e-du-sud-un-examen-crucial-en-plein-scandale-de-triche-%C3%A0-l-ia",
       "published_at": "2026-11-19T20:55:42+00:00",
       "category": "Sciences & tech",
@@ -2006,6 +2069,22 @@
       "published_at": "2026-11-19T20:55:16+00:00",
       "category": "Politique",
       "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Forces de l'ordre : la loi qui fait débat ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "5cfe7ce6c006",
+      "title": "Val-de-Marne : au moins un m0rt dans un incendie à Fontenay-sous-Bois",
+      "summary": "Au moins une personne est m0rte et plusieurs autres, dont des pompiers, ont été blessées dans un violent incendie d'habitation à Fontenay-sous-Bois (Val-de-Marne), ce jeudi.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 21,
+      "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-val-de-marne-au-moins-un-m0rt-dans-un-incendie-a-fontenay-sous-bois-80314-2477010.html",
+      "published_at": "2026-11-19T20:55:11+00:00",
+      "category": "Environnement",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Val-de-Marne : au moins un m0rt dans un incendie à Fontenay-sous-Bois ».",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
       ],
@@ -2065,7 +2144,7 @@
       "title": "Guerre au Moyen-Orient : coût du conflit en Iran ; incursion à Gaza… Le bilan du jeudi 19 novembre",
       "summary": "La guerre en Iran a coûté plus de 48 milliards de dollars aux États-Unis depuis février, selon un responsable du Pentagone. L’armée israélienne a opéré une incursion à Gaza dans une zone contrôlée par le Hamas, provoquant de nouveaux déplacements. Retrouvez l’actualité de la guerre au Moyen-Orient ce jeudi 19 novembre.",
       "source": "La Croix",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-265-moyen-orient-bilan-resume-aujourdhui-20261119",
       "published_at": "2026-11-19T20:48:58+00:00",
       "category": "International",
@@ -2081,7 +2160,7 @@
       "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du jeudi 19 novembre",
       "summary": "Le président français a appelé les alliés de Kiev à lui livrer « maintenant » les moyens de défense antiaériens. Le chancelier allemand Friedrich Merz a annoncé des discussions à venir entre Européens, Russes, Ukrainiens et Américains. Retrouvez l’actualité de la guerre en Ukraine ce jeudi 19 novembre.",
       "source": "La Croix",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.la-croix.com/international/ukraine-russie-jour-1730-point-conflit-ukrainien-poutine-aujourdhui-20261119",
       "published_at": "2026-11-19T20:46:35+00:00",
       "category": "Politique",
@@ -2210,7 +2289,7 @@
       "title": "\"GTA VI\" : prouesses techniques, budget, ventes... le jeu vidéo de tous les records",
       "summary": "Treize ans d'attente, un budget estimé à plus d'un milliard de dollars et des ventes déjà vertigineuses… \"GTA VI\" affole tous les compteurs. Mais ce nouvel épisode du célèbre jeu vidéo est-il à la hauteur des attentes ? Les premiers joueurs saluent le réalisme du jeu, la narration digne d'un film hollywoodien et le foisonnement de détails.",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261119-gta-vi-prouesses-techniques-budget-ventes-le-jeu-vid%C3%A9o-de-tous-les-records",
       "published_at": "2026-11-19T20:26:06+00:00",
       "category": "Économie",
@@ -2322,7 +2401,7 @@
       "title": "Vidéos. États-Unis : une tempête majeure inonde les rues de Los Angeles et San Francisco",
       "summary": "La Californie fait face à des pluies torrentielles et des inondations éclairs qui perturbent les transports et font craindre des coulées de boue",
       "source": "Sud Ouest",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.sudouest.fr/international/etats-unis/videos-etats-unis-une-tempete-majeure-inonde-les-rues-de-los-angeles-et-san-francisco-31590919.php",
       "published_at": "2026-11-19T20:19:07+00:00",
       "category": "Environnement",
@@ -2422,7 +2501,7 @@
       "title": "Vidéo. Un petit village de l’Aube frappé par une tornade, 60 habitations endommagées",
       "summary": "Une tornade a touché la commune de Bourguignons jeudi après-midi, provoquant d’importants dégâts matériels sur une soixantaine de maisons et nécessitant la mise en sécurité des habitants",
       "source": "Sud Ouest",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.sudouest.fr/environnement/meteo/un-petit-village-de-l-aube-frappe-par-une-tornade-60-habitations-endommagees-31590811.php",
       "published_at": "2026-11-19T20:05:58+00:00",
       "category": "Société",
@@ -2583,7 +2662,7 @@
       "title": "Macron demande aux alliés de l'Ukraine de \"rouvrir la question de son adhésion à l'Otan\"",
       "summary": "Appelant les alliés de Kiev réunis à Berlin, dont les États-Unis, à faire le \"maximum\" pour lui livrer \"maintenant\" les moyens de défense antiaériens dont elle a besoin, le président français a demandé jeudi à \"rouvrir la question de l'adhésion de l'Ukraine à l'Otan\".",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/europe/20261119-macron-demande-alli%C3%A9s-ukraine-rouvrir-question-son-adh%C3%A9sion-otan",
       "published_at": "2026-11-19T19:49:02+00:00",
       "category": "Politique",
@@ -2714,7 +2793,7 @@
       "title": "« GTA VI » : pour la sortie du jeu vidéo, les fournisseurs d’accès en France font état d’un « pic de trafic jamais atteint »",
       "summary": "Le téléchargement du jeu vidéo, vendu uniquement en version dématérialisée, a provoqué une consommation de données exceptionnelle sur les réseaux de Bouygues Telecom, Orange et Free dès son lancement",
       "source": "Sud Ouest",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.sudouest.fr/sciences-et-technologie/jeux-video/gta-vi-pour-la-sortie-du-jeu-video-les-fournisseurs-d-acces-en-france-font-etat-d-un-pic-de-trafic-jamais-atteint-31590468.php",
       "published_at": "2026-11-19T19:31:37+00:00",
       "category": "Économie",
@@ -2946,20 +3025,18 @@
       "category": "Politique",
       "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Fontenay-sous-Bois : un mort et au moins huit blessés dans le violent incendie d’un immeuble ».",
       "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
         "CNews",
-        "Libération",
-        "Le Dauphiné Libéré"
+        "Libération"
       ],
-      "coverage_count": 4,
-      "mention_count": 4
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "0bcd4ce11116",
       "title": "Anthropic fait son entréé en bourse",
       "summary": "Anthropic signe une entrée en Bourse historique. Le créateur de l’IA Claude a levé plus de 81 milliards de dollars, malgré les turbulences du secteur. Que révèle ce succès sur les attentes des investisseurs ? Cette opération ouvre-t-elle la voie à une future introduction en Bourse d’OpenAI ? Guillaume Grallet, rédacteur en chef tech et sciences au Point…",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261119-anthropic-fait-son-entr%C3%A9%C3%A9-en-bourse",
       "published_at": "2026-11-19T19:23:52+00:00",
       "category": "Économie",
@@ -3010,7 +3087,7 @@
       "title": "Coût du logement : l’encadrement des loyers prolongé, après une guerre de tranchées à l’Assemblée",
       "summary": "À quelques jours de la fin de l’expérimentation, et à l’issue d’une séance houleuse, le Parlement a prolongé jeudi 19 novembre l’encadrement des loyers de deux ans, par un dernier vote large de l’Assemblée nationale, malgré l’opposition de députés de l’alliance RN-UDR et du camp gouvernemental.",
       "source": "La Croix",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.la-croix.com/regularisation-de-travailleurs-sans-papiers-le-ps-et-glucksmann-mettent-un-coup-de-barre-a-gauche-20261118",
       "published_at": "2026-11-19T19:19:22+00:00",
       "category": "Politique",
@@ -3447,7 +3524,7 @@
       "title": "Souveraineté numérique : un rapport alerte sur le manque d’autonomie de la France et de l’Union européenne face aux géants américains et chinois",
       "summary": "Face aux risques de pannes et de hausses de prix, le Haut-commissariat à la Stratégie et au Plan préconise une stratégie ciblée pour réduire la dépendance technologique du pays",
       "source": "Sud Ouest",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.sudouest.fr/international/souverainete-numerique-un-rapport-alerte-sur-le-manque-d-autonomie-de-la-france-et-de-l-union-europeenne-face-aux-geants-americains-et-chinois-31590159.php",
       "published_at": "2026-11-19T18:54:24+00:00",
       "category": "Économie",
@@ -3608,7 +3685,7 @@
       "title": "À Berlin, les Européens tentent de montrer leur puissance aux « grands » de Shenzhen",
       "summary": "Réunis à Berlin ce jeudi 19 novembre pour dire leur détermination face à la Russie, les Européens voudraient signifier aux trois « grands » réunis à Shenzhen en Chine qu’ils auraient tort de les sous-estimer.",
       "source": "La Croix",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.la-croix.com/international/a-berlin-les-europeens-tentent-de-montrer-leur-puissance-aux-grands-de-shenzhen-20261119",
       "published_at": "2026-11-19T18:49:50+00:00",
       "category": "International",
@@ -3624,7 +3701,7 @@
       "title": "Les écologistes et la présidentielle : retour sur 50 ans de rendez-vous manqués",
       "summary": "Invitée au « 20 heures » de France 2, mercredi 18 novembre 2026, Marine Tondelier s’est dite prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon. Une position illustrant la difficulté pour Les Écologistes à peser sur la scène politique lors des scrutins présidentiels.",
       "source": "La Croix",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.la-croix.com/politique/les-ecologistes-et-la-presidentielle-retour-sur-50-ans-de-rendez-vous-manques-20261119",
       "published_at": "2026-11-19T18:47:28+00:00",
       "category": "Politique",
@@ -3672,7 +3749,7 @@
       "title": "Au procès Zecler, un réquisitoire sévère pour dénoncer une « trahison de l’ordre social »",
       "summary": "Retenant la circonstance aggravante de « racisme », l’avocate générale a réclamé, jeudi 19 novembre, des peines de six, cinq et quatre ans de prison ferme contre les trois policiers qui ont passé à tabac le producteur de musique Michel Zecler en 2020.",
       "source": "La Croix",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.la-croix.com/societe/au-proces-zecler-un-requisitoire-severe-pour-denoncer-une-trahison-de-l-ordre-social-20261119",
       "published_at": "2026-11-19T18:43:53+00:00",
       "category": "Société",
@@ -3688,7 +3765,7 @@
       "title": "COP31: l'avenir de l'agriculture en question",
       "summary": "Le réchauffement climatique est l'un des principaux facteurs d'aggravation de l'insécurité alimentaire dans le monde. L'agriculture mondiale est victime de ce phénomène mais l'aggrave aussi puisqu'elle est responsable de près d'un quart des émissions mondiales de gaz à effet de serre et contribue à affaiblir le puit carbone des sols. Pour la FAO…",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261119-cop31-l-avenir-de-l-agriculture-en-question",
       "published_at": "2026-11-19T18:43:38+00:00",
       "category": "Environnement",
@@ -3816,7 +3893,7 @@
       "title": "Décès du député David Habib : une vie politique consacrée au bassin industriel de Lacq",
       "summary": "Le député de la 3e circonscription des Pyrénées-Atlantiques est décédé dans la nuit du mercredi 18 au jeudi 19 novembre 2026, à 65 ans. Ancien maire de Mourenx et vice-président de l’Assemblée nationale,",
       "source": "Sud Ouest",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/bearn/deces-du-depute-david-habib-une-vie-politique-consacree-au-bassin-industriel-de-lacq-31588460.php",
       "published_at": "2026-11-19T18:34:05+00:00",
       "category": "Politique",
@@ -3848,7 +3925,7 @@
       "title": "Énergies renouvelables : l’Allemagne inaugure l’éolienne la plus haute au monde",
       "summary": "Mise en service jeudi 19 novembre 2026 dans le Brandebourg, l’éolienne la plus haute au monde, fabriquée en Allemagne, devrait permettre de doubler la production d’électricité sur des surfaces réduites et d’augmenter l’acceptation de la population. Un enjeu vital pour un pays en pleine transition énergétique.",
       "source": "La Croix",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.la-croix.com/economie/energies-renouvelables-l-allemagne-inaugure-leolienne-la-plus-haute-au-monde-20261119",
       "published_at": "2026-11-19T18:30:44+00:00",
       "category": "Environnement",
@@ -3876,22 +3953,6 @@
       "mention_count": 1
     },
     {
-      "id": "314eab7099ef",
-      "title": "Présidentielle 2027. Dominique de Villepin dans la course ? L'ex-Premier ministre doit annoncer sa candidature vendredi",
-      "summary": "L’ancien Premier ministre de Jacques Chirac devrait annoncer sa candidature à la présidentielle vendredi. L’aboutissement d’une démarche entamée il y a deux ans.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 20,
-      "url": "https://www.ledauphine.com/elections/2026/11/19/dominique-de-villepin-dans-la-course-l-ex-premier-ministre-doit-annoncer-sa-candidature-vendredi",
-      "published_at": "2026-11-19T18:30:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027. Dominique de Villepin dans la course ? L'ex-Premier ministre doit annoncer sa candidature vendredi ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "507f7333912f",
       "title": "Julien Clerc, une vie entière à chanter 4/5 : Utile à vivre et à chanter – Les à-côtés d’une carrière solo",
       "summary": "Même si Julien Clerc est essentiellement connu pour son parcours de chanteur de variétés, d’après une expression qu’il ne renie pas, il a aussi chanté au sein de troupes et travaillé comme acteur. On le retrouve aussi engagé auprès du HCR.",
@@ -3903,6 +3964,22 @@
       "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Julien Clerc, une vie entière à chanter 4/5 : Utile à vivre et à chanter – Les à-côtés d’une carrière solo ».",
       "coverage_sources": [
         "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "314eab7099ef",
+      "title": "Présidentielle 2027. Dominique de Villepin dans la course ? L'ex-Premier ministre doit annoncer sa candidature vendredi",
+      "summary": "L’ancien Premier ministre de Jacques Chirac devrait annoncer sa candidature à la présidentielle vendredi. L’aboutissement d’une démarche entamée il y a deux ans.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 20,
+      "url": "https://www.ledauphine.com/elections/2026/11/19/dominique-de-villepin-dans-la-course-l-ex-premier-ministre-doit-annoncer-sa-candidature-vendredi",
+      "published_at": "2026-11-19T18:30:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027. Dominique de Villepin dans la course ? L'ex-Premier ministre doit annoncer sa candidature vendredi ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4056,7 +4133,7 @@
       "title": "Titres-restaurant : le Sénat approuve la pérennisation des courses au supermarché avec un plafond différencié",
       "summary": "Les sénateurs ont soutenu à l’unanimité la possibilité d’utiliser durablement les tickets-restaurant pour faire ses courses alimentaires, tout en introduisant une distinction selon le type de produits",
       "source": "Sud Ouest",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.sudouest.fr/economie/titres-restaurant-le-senat-approuve-la-perennisation-des-courses-au-supermarche-avec-un-plafond-differencie-31589967.php",
       "published_at": "2026-11-19T18:15:36+00:00",
       "category": "Politique",
@@ -4072,7 +4149,7 @@
       "title": "Au procès Zecler, prison ferme requise contre les policiers, qui se défendent de tout racisme",
       "summary": "L'accusation a requis jeudi entre quatre et six ans de prison ferme contre les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020. La défense reconnait des \"violences inadmissibles\" mais conteste la lourdeur des peines requises et rejette toute dimension raciste.",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/france/20261119-au-proc%C3%A8s-zecler-prison-ferme-requise-contre-les-policiers-qui-se-d%C3%A9fendent-de-tout-racisme",
       "published_at": "2026-11-19T18:14:26+00:00",
       "category": "Société",
@@ -4132,11 +4209,27 @@
       "mention_count": 1
     },
     {
+      "id": "e8c20e5ab9fd",
+      "title": "Égalité salariale femmes-hommes: label, sanctions, revalorisation... Ce que proposent les candidats à la présidentielle",
+      "summary": "Alors que les femmes commencent symboliquement à travailler gratuitement jusqu'à la fin de l'année ce jeudi à 10h51, l'égalité salariale reste peu présente dans la campagne présidentielle. Tour d'horizon des pistes avancées par les candidats, entre incitations, pénalités et revalorisation des métiers.",
+      "source": "RMC",
+      "feed_rank": 2,
+      "url": "https://rmc.bfmtv.com/actualites/politique/egalite-salariale-femmes-hommes-label-sanctions-revalorisation-ce-que-proposent-les-candidats-a-la-presidentielle_AV-202611190811.html",
+      "published_at": "2026-11-19T18:10:49+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Égalité salariale femmes-hommes: label, sanctions, revalorisation... Ce que proposent les candidats à la présidentielle ».",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "960c12bdda26",
       "title": "Présidentielle 2027 : l’Arcom impose les mêmes règles aux créateurs de contenus qu’à la télévision et à la radio",
       "summary": "À l’approche de l’élection présidentielle, l’Autorité de régulation de la communication audiovisuelle et numérique (Arcom) a présenté, ce jeudi 19 novembre 2026, ses règles et préconisations pour les médias audiovisuels mais aussi les influenceurs.",
       "source": "La Croix",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.la-croix.com/culture/presidentielle-2027-l-arcom-impose-les-memes-regles-aux-createurs-de-contenus-qua-la-television-et-a-la-radio-20261119",
       "published_at": "2026-11-19T18:07:41+00:00",
       "category": "Médias & communication",
@@ -4308,6 +4401,22 @@
       "mention_count": 1
     },
     {
+      "id": "419fdacb482d",
+      "title": "INFO RMC. 77 jets de mortiers recensés en France ce jeudi (hors Paris), en hausse de 350% en 24h",
+      "summary": "Soixante-dix-sept jets de mortiers ont été recensés dans le cadre du mouvement lycéen ce jeudi 19 novembre, selon les informations de RMC. Un chiffre en hausse de 350% par rapport à la veille. Une pratique devenue virale dans les établissements scolaires, où les vidéos de tirs de mortiers au sein même des établissements se multiplient.",
+      "source": "RMC",
+      "feed_rank": 3,
+      "url": "https://rmc.bfmtv.com/actualites/police-justice/info-rmc-77-jets-de-mortiers-recenses-en-france-ce-jeudi-hors-paris-en-hausse-de-350-en-24h_AN-202611190875.html",
+      "published_at": "2026-11-19T18:01:23+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « INFO RMC. 77 jets de mortiers recensés en France ce jeudi (hors Paris), en hausse de 350% en 24h ».",
+      "coverage_sources": [
+        "RMC"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "f95a11f6d23c",
       "title": "Il quitte Intersport pour donner une seconde vie aux vélos électriques… à Montpellier, le pari de Joris Ferdinand, 39 ans, porte ses fruits",
       "summary": "Série Jeunes, boss et d’ici (2/22) – Joris Ferdinand, 39 ans, a lancé, à Montpellier, l’enseigne Infini Cycle, qui reconditionne les vélos électriques. Etudes, expériences professionnelles, envie de se lancer, on...",
@@ -4424,7 +4533,7 @@
       "title": "JOJ Dakar 2026 : à la rencontre de Nalorie Joelle, maquilleuse dans les coulisses",
       "summary": "Des études en sciences politiques aux coulisses des JOJ Dakar 2026 : Nalorie Joelle trace son chemin dans le maquillage artistique. Retour sur le parcours d'une jeune Sénégalaise qui a contribué à la magie de la cérémonie d'ouverture. Un reportage d'Alexandrine Holognon",
       "source": "France 24",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-joj-dakar-2026-%C3%A0-la-rencontre-de-nalorie-joelle-maquilleuse-dans-les-coulisses",
       "published_at": "2026-11-19T17:58:19+00:00",
       "category": "Politique",
@@ -4600,7 +4709,7 @@
       "title": "Un quart des enfants du monde vivent dans une zone de conflit, un record selon l’ONG Save The Childre",
       "summary": "Un rapport de l’ONG Save The Children révèle qu’un nombre record de 589 millions d’enfants étaient exposés aux combats en 2025, une situation particulièrement critique en Afrique et au Moyen-Orient",
       "source": "Sud Ouest",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.sudouest.fr/international/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-un-record-selon-l-ong-save-the-childre-31589564.php",
       "published_at": "2026-11-19T17:40:50+00:00",
       "category": "International",
@@ -4616,7 +4725,7 @@
       "title": "Menaces et violences contre les élus : les députés plus visés que les maires",
       "summary": "Près de 14 000 infractions à l’encontre des élus ont été enregistrées en France en 2023, selon une étude du ministère de l’intérieur publiée jeudi 19 novembre 2026. Les députés sont proportionnellement plus exposés que les élus locaux, notamment aux menaces.",
       "source": "La Croix",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.la-croix.com/politique/menaces-et-violences-contre-les-elus-les-deputes-plus-vises-que-les-maires-20261119",
       "published_at": "2026-11-19T17:40:41+00:00",
       "category": "Politique",
@@ -4696,7 +4805,7 @@
       "title": "Guerre au Moyen-Orient : le conflit en Iran a coûté plus de 48 milliards de dollars aux États-Unis",
       "summary": "Le Pentagone a dévoilé le coût financier des opérations militaires américaines menées en Iran depuis le début de l’année",
       "source": "Sud Ouest",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.sudouest.fr/international/iran/guerre-au-moyen-orient-le-conflit-en-iran-a-coute-plus-de-48-milliards-de-dollars-aux-etats-unis-31589563.php",
       "published_at": "2026-11-19T17:35:48+00:00",
       "category": "International",
@@ -4854,22 +4963,6 @@
       "mention_count": 1
     },
     {
-      "id": "761528d76640",
-      "title": "Isère. « On bloque les retraites et on augmente le prix des Ehpad ? » : ces retraités partis manifester à Paris pour défendre leurs droits",
-      "summary": "Jeudi 19 novembre, des retraités syndiqués du Nord-Isère ont pris le train depuis La Tour-du-Pin pour rejoindre la manifestation nationale à Paris. Entre hausse du coût de la vie, blocage des pensions et inégalités, ils dénoncent le mépris du gouvernement.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 5,
-      "url": "https://www.ledauphine.com/social/2026/11/19/on-bloque-les-retraites-et-on-augmente-le-prix-des-ehpad-ces-retraites-partis-manifester-a-paris-pour-defendre-leurs-droits",
-      "published_at": "2026-11-19T17:30:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Isère. « On bloque les retraites et on augmente le prix des Ehpad ? » : ces retraités partis manifester à Paris pour défendre leurs droits ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "0b7c0366d803",
       "title": "GTA 6 : l’autoradio, star discrète de \"Grand Theft Auto\"",
       "summary": "Plus qu’un fond sonore, les radios de \"Grand Theft Auto\" racontent Vice City ou Los Santos, caricaturent leurs habitants autant que la société, et font découvrir des genres musicaux à des millions de joueurs. Avec GTA 6, Rockstar change d’échelle, au risque de perdre un peu de son originalité.",
@@ -4881,6 +4974,22 @@
       "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « GTA 6 : l’autoradio, star discrète de \"Grand Theft Auto\" ».",
       "coverage_sources": [
         "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "761528d76640",
+      "title": "Isère. « On bloque les retraites et on augmente le prix des Ehpad ? » : ces retraités partis manifester à Paris pour défendre leurs droits",
+      "summary": "Jeudi 19 novembre, des retraités syndiqués du Nord-Isère ont pris le train depuis La Tour-du-Pin pour rejoindre la manifestation nationale à Paris. Entre hausse du coût de la vie, blocage des pensions et inégalités, ils dénoncent le mépris du gouvernement.",
+      "source": "Le Dauphiné Libéré",
+      "feed_rank": 5,
+      "url": "https://www.ledauphine.com/social/2026/11/19/on-bloque-les-retraites-et-on-augmente-le-prix-des-ehpad-ces-retraites-partis-manifester-a-paris-pour-defendre-leurs-droits",
+      "published_at": "2026-11-19T17:30:00+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette mobilisation révèle un écart possible entre le discours des organisations et l'expérience vécue par leurs publics. Elle demande d'écouter les revendications, de reconnaître les impacts concrets et d'éviter les formules toutes faites qui risquent d'envenimer le dialogue. Sujet suivi : « Isère. « On bloque les retraites et on augmente le prix des Ehpad ? » : ces retraités partis manifester à Paris pour défendre leurs droits ».",
+      "coverage_sources": [
+        "Le Dauphiné Libéré"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -4939,7 +5048,7 @@
       "title": "Au Soudan, les civils pris dans la tourmente de la guerre des drones",
       "summary": "Les lignes de front stabilisées, les belligérants soudanais utilisent massivement les drones pour frapper des cibles à des centaines de kilomètres de distance, sans mettre en danger leurs combattants. Des frappes aux impacts dévastateurs pour les civils.",
       "source": "La Croix",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.la-croix.com/international/au-soudan-les-civils-pris-dans-la-tourmente-de-la-guerre-des-drones-20261119",
       "published_at": "2026-11-19T17:25:36+00:00",
       "category": "International",
@@ -5035,7 +5144,7 @@
       "title": "34e dimanche du temps ordinaire : Notre Seigneur Jésus-Christ Roi de l’Univers – année A",
       "summary": "L’année liturgique se finit comme une pièce de théâtre. Même si nous avions tous les éléments, l’histoire connaît un ultime retournement. Romain Di Malta, laïque, formateur biblique à Montpellier, nous rend témoin de cette ultime Bonne Nouvelle.",
       "source": "La Croix",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.la-croix.com/religion/34e-dimanche-du-temps-ordinaire-notre-seigneur-jesus-christ-roi-de-l-univers-annee-a-20261119",
       "published_at": "2026-11-19T17:18:48+00:00",
       "category": "Culture",
@@ -5083,7 +5192,7 @@
       "title": "Danemark : la doyenne du pays dans la tourmente après des révélations sur son passé nazi",
       "summary": "Devenue une célébrité tardive, Kirsten Schwalbe voit sa biographie retirée de la vente après des révélations sur son rôle actif au sein du parti nazi pendant l’occupation",
       "source": "Sud Ouest",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.sudouest.fr/international/europe/danemark-la-doyenne-du-pays-dans-la-tourmente-apres-des-revelations-sur-son-passe-nazi-31588933.php",
       "published_at": "2026-11-19T17:14:21+00:00",
       "category": "Société",
@@ -5099,7 +5208,7 @@
       "title": "Éditorial. Présidentielle : les Écologistes en voie d’effacement",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "Sud Ouest",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.sudouest.fr/redaction/editorial/editorial-presidentielle-les-ecologistes-en-voie-d-effacement-31586891.php",
       "published_at": "2026-11-19T17:14:12+00:00",
       "category": "Société",
@@ -5115,7 +5224,7 @@
       "title": "France - Argentine : « Un courage énorme », le récit des quatre semaines qui ont permis à Matthieu Jalibert de démarrer en 10 avec les Bleus",
       "summary": "35 jours se sont écoulés entre la blessure de l’ouvreur de l’UBB et l’annonce de sa titularisation face à l’Argentine. Un laps de temps où il a déjoué les pronostics auprès de Jean-Georges Cellier, un",
       "source": "Sud Ouest",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.sudouest.fr/sport/rugby/matthieu-jalibert/france-argentine-un-courage-enorme-le-recit-des-quatre-semaines-qui-ont-permis-a-matthieu-jalibert-de-demarrer-en-10-avec-les-bleus-31582810.php",
       "published_at": "2026-11-19T17:14:00+00:00",
       "category": "Société",
@@ -5228,7 +5337,7 @@
       "title": "Inégalité salariale hommes-femmes : comment se situe la France par rapport aux autres pays ?",
       "summary": "C’est ce jeudi 19 novembre à 10 h 51 qu’est arrivé le moment symbolique où, selon les statistiques, les femmes commencent à travailler gratuitement en France. L’occasion de regarder où en est l’Hexagone par rapport aux autres pays européens.",
       "source": "La Croix",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.la-croix.com/societe/inegalite-salariale-hommes-femmes-comment-se-situe-la-france-par-rapport-aux-autres-pays-20261119",
       "published_at": "2026-11-19T17:04:50+00:00",
       "category": "Société",
@@ -5244,142 +5353,11 @@
       "title": "Polyclinique Pau Pyrénées : la fusion de Marzet et Navarre épinglée par la chambre régionale des comptes",
       "summary": "Placée en redressement judiciaire en avril, la polyclinique Pau Pyrénées voit sa période d’observation prolongée jusqu’au 14 avril 2027. Dans un rapport sévère, la chambre régionale des comptes de Nouvelle-Aquitaine",
       "source": "Sud Ouest",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.sudouest.fr/pyrenees-atlantiques/bearn/polyclinique-pau-pyrenees-la-fusion-de-marzet-et-navarre-epinglee-par-la-chambre-regionale-des-comptes-31588804.php",
       "published_at": "2026-11-19T17:04:46+00:00",
       "category": "Société",
       "communication_angle": "L'évolution de cette entreprise peut modifier son positionnement, ses attentes d'investisseurs ou la confiance de ses clients et salariés. Les communicants doivent relier les chiffres à une stratégie lisible, sans transformer une annonce ponctuelle en promesse excessive. Sujet suivi : « Polyclinique Pau Pyrénées : la fusion de Marzet et Navarre épinglée par la chambre régionale des comptes ».",
-      "coverage_sources": [
-        "Sud Ouest"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "262e1466683f",
-      "title": "Inde, Israël, États-Unis : ces gouvernements qui surfent sur la vague “GTA VI”",
-      "summary": "Alors que la sortie de “GTA VI”, ce jeudi 19 novembre, suscite un engouement planétaire et donne lieu à d’innombrables publications sur les réseaux sociaux, plusieurs dirigeants politiques à travers le monde tentent de s’emparer du phénomène. De l’Inde aux États-Unis en passant par Israël, les gouvernements surfent sur cet événement pour vanter leur…",
-      "source": "Courrier International",
-      "feed_rank": 5,
-      "url": "https://www.courrierinternational.com/article/politique-inde-israel-etats-unis-ces-gouvernements-qui-surfent-sur-la-vague-gta-vi_288697",
-      "published_at": "2026-11-19T17:04:31+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Inde, Israël, États-Unis : ces gouvernements qui surfent sur la vague “GTA VI” ».",
-      "coverage_sources": [
-        "Courrier International"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "607666bf474b",
-      "title": "SOS Chrétiens d’Orient : l’enquête pour crimes contre l’humanité en Syrie classée sans suite",
-      "summary": "Six ans après son ouverture, l’enquête visant l’association SOS Chrétiens d’Orient pour « complicité de crimes de guerre et de crimes contre l’humanité » en Syrie a été classée sans suite, a-t-on appris jeudi 19 novembre.",
-      "source": "La Croix",
-      "feed_rank": 18,
-      "url": "https://www.la-croix.com/international/crimes-contre-l-humanite-en-syrie-lenquete-visant-sos-chretiens-dorient-classee-20261119",
-      "published_at": "2026-11-19T17:04:27+00:00",
-      "category": "International",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « SOS Chrétiens d’Orient : l’enquête pour crimes contre l’humanité en Syrie classée sans suite ».",
-      "coverage_sources": [
-        "La Croix"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2d9c38685f14",
-      "title": "Soupçonné de détenir des images pédopornographiques, le directeur du centre pénitentiaire d’Aix-Luynes écroué",
-      "summary": "Dans un communiqué dévoilé ce jeudi 19 novembre, la procureure de la République de Nîmes, Cécile Gensac, a fait savoir que le directeur du centre pénitentiaire d’Aix-Luynes, soupçonné de détenir des images pédopornographiques, a été mis en examen et placé en détention provisoire. Des faits graves. Soupçonné de détenir des images pédopornographiques, le…",
-      "source": "CNews",
-      "feed_rank": 11,
-      "url": "https://www.cnews.fr/faits-divers/2026-11-19/soupconne-de-detenir-des-images-pedopornographiques-le-directeur-du-centre",
-      "published_at": "2026-11-19T17:04:16+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Soupçonné de détenir des images pédopornographiques, le directeur du centre pénitentiaire d’Aix-Luynes écroué » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9e62128c3fd6",
-      "title": "Depardieu et Houellebecq mis en cause pour viol en réunion sur le tournage d’un film de Guillaume Nicloux",
-      "summary": "France - 1h33 - sortie: 21 août 2019 - 2019 - Réalisateur-scénariste: Guillaume Nicloux - LEGENDE PHOTO: Michel Houellebecq - Gérard Depardieu - AVEC: Gérard Depardieu: Gérard Depardieu - Michel Houellebecq: Michel Houellebecq -",
-      "source": "Télérama",
-      "feed_rank": 3,
-      "url": "https://www.telerama.fr/debats-reportages/depardieu-et-houellebecq-mis-en-cause-pour-viol-en-reunion-sur-le-tournage-d-un-film-de-guillaume-nicloux-7033946.php",
-      "published_at": "2026-11-19T17:03:36+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Depardieu et Houellebecq mis en cause pour viol en réunion sur le tournage d’un film de Guillaume Nicloux ».",
-      "coverage_sources": [
-        "Télérama"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "234dd4108078",
-      "title": "🔴 Anthropic s'envole dès ses débuts et dépasse les 2 000 milliards de dollars de valorisation",
-      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
-      "source": "France 24",
-      "feed_rank": 17,
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
-      "published_at": "2026-11-19T17:02:51+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « 🔴 Anthropic s'envole dès ses débuts et dépasse les 2 000 milliards de dollars de valorisation ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "14d8f5af6116",
-      "title": "Trump, Poutine et Xi signent une déclaration de paix sans avancée sur l’Ukraine",
-      "summary": "Trump, Poutine et Xi signent en Chine une déclaration conjointe sans avancée sur l'Ukraine, des dirigeants européens rencontrent des envoyés américains à Berlin, les rivaux aux élections espagnoles débattent et les négociations de la COP31 entrent dans leur phase finale en Turquie.",
-      "source": "Euronews",
-      "feed_rank": 14,
-      "url": "https://fr.euronews.com/2026/11/19/trump-poutine-et-xi-signent-une-declaration-de-paix-sans-avancee-sur-lukraine",
-      "published_at": "2026-11-19T17:02:41+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Trump, Poutine et Xi signent une déclaration de paix sans avancée sur l’Ukraine ».",
-      "coverage_sources": [
-        "RFI",
-        "BFMTV",
-        "Euronews",
-        "Le JDD"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4
-    },
-    {
-      "id": "8b6c0261b9c1",
-      "title": "Sommet de Shenzhen, procès Zecler, perquisitions au RN… L’actu de ce jeudi 19 novembre",
-      "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "source": "Libération",
-      "feed_rank": 21,
-      "url": "https://www.liberation.fr/international/europe/sommet-de-shenzhen-proces-zecler-perquisitions-au-rn-lactu-de-ce-jeudi-19-novembre-20261119_N3E6UPBI5JEYXNZ3OX3R3Y3FXE/",
-      "published_at": "2026-11-19T17:02:32+00:00",
-      "category": "Société",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Sommet de Shenzhen, procès Zecler, perquisitions au RN… L’actu de ce jeudi 19 novembre ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3ecf080f65d1",
-      "title": "Un animateur périscolaire mis en examen pour agression sexuelle et corruption de mineur dans l’Oise",
-      "summary": "Un animateur intervenant dans une école élémentaire de l’Oise a été placé en détention provisoire après des signalements de comportements inadaptés sur des enfants",
-      "source": "Sud Ouest",
-      "feed_rank": 16,
-      "url": "https://www.sudouest.fr/faits-divers/un-animateur-periscolaire-mis-en-examen-pour-agression-sexuelle-et-corruption-de-mineur-dans-l-oise-31589057.php",
-      "published_at": "2026-11-19T17:02:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « Un animateur périscolaire mis en examen pour agression sexuelle et corruption de mineur dans l’Oise ».",
       "coverage_sources": [
         "Sud Ouest"
       ],
