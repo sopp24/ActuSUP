@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-22T01:50:39.646908+00:00",
-  "last_attempt": "2026-11-22T01:50:39.646908+00:00",
+  "last_updated": "2026-11-22T03:09:05.519185+00:00",
+  "last_attempt": "2026-11-22T03:09:05.519185+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 908,
-  "unique_story_count": 784,
+  "unique_story_count": 786,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-23T01:50:39.646908+00:00",
-  "featured_window_end": "2026-11-22T01:50:39.646908+00:00",
+  "featured_window_start": "2026-10-23T03:09:05.519185+00:00",
+  "featured_window_end": "2026-11-22T03:09:05.519185+00:00",
   "featured_pool_count": 906,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "1ddbcd0b4d66",
-      "title": "\"Le 2 mai est le pire scénario possible\": la secrétaire générale de la CFDT Marylise Léon demande à \"avancer d'une semaine\" la présidentielle",
-      "summary": "Dans un entretien accordé à La Tribune Dimanche, Marylise Léon demande à \"avancer d'une semaine\" le scrutin \"en raison du risque de vives tensions\". Elle appelle par ailleurs le gouvernement à prendre des mesures immédiates pour répondre à \"l'urgence sociale\".",
-      "source": "BFMTV",
+      "id": "d835476cf589",
+      "title": "Présidentielle 2027 : Lisnard tend la main à Retailleau et tourne le dos à Attal",
+      "summary": "<p>Une primaire de la droite et du centre va-t-elle avoir lieu ? Elle semble désormais de plus en plus hypothétique au regard notamment des exigences et <a href=\"https://www.20minutes.fr/politique/4263985-20261119-presidentielle-2027-longtemps-fervent-partisan-primaire-lisnard-semble-desormais-torpiller\">des dernières déclarations de David…",
+      "source": "20 Minutes",
       "feed_rank": 2,
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/le-2-mai-est-le-pire-scenario-possible-la-secretaire-generale-de-la-cfdt-marylise-leon-demande-a-avancer-d-une-semaine-la-presidentielle_AD-202611210490.html",
-      "published_at": "2026-11-21T22:59:13+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « \"Le 2 mai est le pire scénario possible\": la secrétaire générale de la CFDT Marylise Léon demande à \"avancer d'une semaine\" la présidentielle ».",
+      "url": "https://www.20minutes.fr/politique/4264727-20261122-presidentielle-2027-lisnard-tend-main-retailleau-tourne-dos-attal?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-22T01:44:16+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : Lisnard tend la main à Retailleau et tourne le dos à Attal ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -59,9 +59,9 @@
         "Reporterre"
       ],
       "coverage_count": 27,
-      "mention_count": 64,
-      "importance_score": 32.425,
-      "latest_coverage_at": "2026-11-21T22:59:13+00:00"
+      "mention_count": 65,
+      "importance_score": 32.458,
+      "latest_coverage_at": "2026-11-22T01:44:16+00:00"
     },
     {
       "id": "81f579e93ac3",
@@ -102,20 +102,20 @@
         "Creapills"
       ],
       "coverage_count": 26,
-      "mention_count": 48,
-      "importance_score": 31.702,
+      "mention_count": 47,
+      "importance_score": 31.661,
       "latest_coverage_at": "2026-11-21T23:17:35+00:00"
     },
     {
-      "id": "7d02f326edba",
-      "title": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
-      "summary": "Le préfet de la région Centre-Val de Loire a demandé sa mise en retrait après la révélation de soupçons le visant dans l’enquête sur les fuites d’informations confidentielles vers le Rassemblement national. D’après les informations du « Monde », les investigations ont été déclenchées après la découverte d’un courriel d’une fonctionnaire du ministère de…",
-      "source": "Le Monde",
+      "id": "7f1bed6a382e",
+      "title": "Suspecté de fuites pour le RN, le préfet Moutouh demande à partir",
+      "summary": "<p>Hugues Moutouh tente de se défendre <a href=\"https://www.20minutes.fr/politique/4264331-20261120-sait-prefet-hugues-moutouh-soupconne-etre-indic-rn\">face à la polémique qui le frappe</a>. Soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national, le préfet de la région Centre-Val-de-Loire a annoncé samedi…",
+      "source": "20 Minutes",
       "feed_rank": 1,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
-      "published_at": "2026-11-21T21:00:02+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’un ».",
+      "url": "https://www.20minutes.fr/politique/4264731-20261122-suspecte-fuites-rn-prefet-moutouh-demande-partir?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-22T03:01:46+00:00",
+      "category": "Société",
+      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Suspecté de fuites pour le RN, le préfet Moutouh demande à partir ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -129,6 +129,7 @@
         "Libération",
         "RMC",
         "Sud Ouest",
+        "20 Minutes",
         "La Dépêche du Midi",
         "LCP",
         "Le Dauphiné Libéré",
@@ -136,10 +137,10 @@
         "Midi Libre",
         "Public Sénat"
       ],
-      "coverage_count": 18,
-      "mention_count": 27,
-      "importance_score": 28.233,
-      "latest_coverage_at": "2026-11-21T23:12:01+00:00"
+      "coverage_count": 19,
+      "mention_count": 28,
+      "importance_score": 28.658,
+      "latest_coverage_at": "2026-11-22T03:01:46+00:00"
     },
     {
       "id": "c0d4563cdb82",
@@ -148,7 +149,7 @@
       "source": "Le Monde",
       "feed_rank": 4,
       "url": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
-      "published_at": "2026-11-22T01:42:59+00:00",
+      "published_at": "2026-11-22T01:42:54+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale ».",
       "coverage_sources": [
@@ -168,8 +169,8 @@
       ],
       "coverage_count": 13,
       "mention_count": 28,
-      "importance_score": 26.429,
-      "latest_coverage_at": "2026-11-22T01:42:59+00:00"
+      "importance_score": 26.406,
+      "latest_coverage_at": "2026-11-22T01:42:54+00:00"
     },
     {
       "id": "6de37b40b488",
@@ -196,7 +197,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 24,
-      "importance_score": 24.915,
+      "importance_score": 24.893,
       "latest_coverage_at": "2026-11-21T21:47:23+00:00"
     },
     {
@@ -224,7 +225,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.556,
+      "importance_score": 23.553,
       "latest_coverage_at": "2026-11-21T18:41:34+00:00"
     },
     {
@@ -251,7 +252,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 11,
-      "importance_score": 23.122,
+      "importance_score": 23.08,
       "latest_coverage_at": "2026-11-21T23:32:38+00:00"
     },
     {
@@ -276,7 +277,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 15,
-      "importance_score": 22.125,
+      "importance_score": 22.122,
       "latest_coverage_at": "2026-11-21T16:45:04+00:00"
     },
     {
@@ -301,7 +302,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.714,
+      "importance_score": 21.707,
       "latest_coverage_at": "2026-11-21T15:56:32+00:00"
     },
     {
@@ -325,7 +326,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.456,
+      "importance_score": 20.453,
       "latest_coverage_at": "2026-11-21T22:00:00+00:00"
     },
     {
@@ -349,32 +350,8 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.21,
+      "importance_score": 20.207,
       "latest_coverage_at": "2026-11-21T22:10:15+00:00"
-    },
-    {
-      "id": "72d3535e5387",
-      "title": "Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\"",
-      "summary": "Dans votre magazine : les réactions après le verdict rendu hier soir en France dans le procès du passage à tabac de Michel Zecler. De la prison ferme pour les trois policiers reconnus coupables de violences aggravées, et de faux en ​écriture ‌publique. La circonstance aggravante de racisme a été retenue. Maitre Seydi Ba était notre invité.",
-      "source": "France 24",
-      "feed_rank": 13,
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20261121-verdict-au-proc%C3%A8s-de-michel-zecler-l-espoir-d-une-jurisprudence",
-      "published_at": "2026-11-21T15:29:45+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\" ».",
-      "coverage_sources": [
-        "France 24",
-        "Courrier International",
-        "L'Obs",
-        "L'Opinion",
-        "RMC",
-        "20 Minutes",
-        "Télérama"
-      ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.013,
-      "latest_coverage_at": "2026-11-21T15:49:09+00:00"
     },
     {
       "id": "a0548ee81dfd",
@@ -396,7 +373,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.104,
+      "importance_score": 19.101,
       "latest_coverage_at": "2026-11-21T20:54:49+00:00"
     },
     {
@@ -419,8 +396,31 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.013,
+      "importance_score": 19.01,
       "latest_coverage_at": "2026-11-21T18:20:00+00:00"
+    },
+    {
+      "id": "72d3535e5387",
+      "title": "Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\"",
+      "summary": "Dans votre magazine : les réactions après le verdict rendu hier soir en France dans le procès du passage à tabac de Michel Zecler. De la prison ferme pour les trois policiers reconnus coupables de violences aggravées, et de faux en ​écriture ‌publique. La circonstance aggravante de racisme a été retenue. Maitre Seydi Ba était notre invité.",
+      "source": "France 24",
+      "feed_rank": 13,
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20261121-verdict-au-proc%C3%A8s-de-michel-zecler-l-espoir-d-une-jurisprudence",
+      "published_at": "2026-11-21T15:29:45+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\" ».",
+      "coverage_sources": [
+        "France 24",
+        "Courrier International",
+        "L'Obs",
+        "L'Opinion",
+        "RMC",
+        "Télérama"
+      ],
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 18.964,
+      "latest_coverage_at": "2026-11-21T15:49:09+00:00"
     },
     {
       "id": "09c1f4f5aae6",
@@ -442,7 +442,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.914,
+      "importance_score": 18.911,
       "latest_coverage_at": "2026-11-21T15:44:08+00:00"
     },
     {
@@ -464,7 +464,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.728,
+      "importance_score": 17.725,
       "latest_coverage_at": "2026-11-21T19:43:00+00:00"
     },
     {
@@ -485,7 +485,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.87,
+      "importance_score": 16.866,
       "latest_coverage_at": "2026-11-21T21:58:56+00:00"
     },
     {
@@ -506,7 +506,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.786,
+      "importance_score": 16.782,
       "latest_coverage_at": "2026-11-21T20:42:13+00:00"
     },
     {
@@ -514,7 +514,7 @@
       "title": "La France reste sous \"fortes tensions\" de la menace terroriste, selon le procureur antiterroriste",
       "summary": "Depuis le début de l'année, trois attentats et sept projets d'attentats ont été déjoués en France. Parmi ces menaces figure l'ultradroite radicale violente, quasi inexistante il y a dix ans. Mais aussi de nouvelles menaces liées à des mouvements d'origine anglo-saxonne ou masculinistes.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/justice-faits-divers/la-france-reste-sous-fortes-tensions-de-la-menace-terroriste-selon-le-procureur-antiterroriste-2477385.html",
       "published_at": "2026-11-21T22:12:04+00:00",
       "category": "Société",
@@ -527,7 +527,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.467,
+      "importance_score": 16.452,
       "latest_coverage_at": "2026-11-21T22:12:04+00:00"
     },
     {
@@ -548,11 +548,59 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.043,
+      "importance_score": 16.039,
       "latest_coverage_at": "2026-11-21T18:05:06+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "fe5639f2e49d",
+      "title": "Un homme, une ville - André Malraux : André Malraux : À Paris, le modèle culturel",
+      "summary": "De 1959 à 1969, André Malraux, ministre des Affaires culturelles du général de Gaulle, a voulu bâtir une démocratie autour de la Culture. Ses anciens collaborateurs racontent les Maisons de la Culture, le sauvetage du patrimoine, l’aide aux artistes et au cinéma, jusqu’aux secousses de Mai 68.",
+      "source": "France Culture",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/andre-malraux-a-paris-le-modele-culturel-4492436",
+      "published_at": "2026-11-22T02:17:26+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Un homme, une ville - André Malraux : André Malraux : À Paris, le modèle culturel ».",
+      "coverage_sources": [
+        "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f484fa1de4f1",
+      "title": "Comment le changement climatique augmente les mariages forcés de mineures",
+      "summary": "<p>Pêcheuse de crevettes, Rahima, la quarantaine, passe sa journée les jambes dans l’eau salée. Le soir, elle lave aussi la vaisselle ou les vêtements dans l’eau salée. À Ruhita, sur la côte sud du <a href=\"https://www.20minutes.fr/monde/4193655-20251230-khaleda-zia-premiere-femme-avoir-dirige-bangladesh-morte-80-ans\">Bangladesh</a>, la mer monte avec <a…",
+      "source": "20 Minutes",
+      "feed_rank": 3,
+      "url": "https://www.20minutes.fr/planete/cop/4263522-20261122-comment-changement-climatique-augmente-mariages-forces-mineures?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-22T02:02:37+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Comment le changement climatique augmente les mariages forcés de mineures » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d835476cf589",
+      "title": "Présidentielle 2027 : Lisnard tend la main à Retailleau et tourne le dos à Attal",
+      "summary": "<p>Une primaire de la droite et du centre va-t-elle avoir lieu ? Elle semble désormais de plus en plus hypothétique au regard notamment des exigences et <a href=\"https://www.20minutes.fr/politique/4263985-20261119-presidentielle-2027-longtemps-fervent-partisan-primaire-lisnard-semble-desormais-torpiller\">des dernières déclarations de David…",
+      "source": "20 Minutes",
+      "feed_rank": 2,
+      "url": "https://www.20minutes.fr/politique/4264727-20261122-presidentielle-2027-lisnard-tend-main-retailleau-tourne-dos-attal?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-22T01:44:16+00:00",
+      "category": "Société",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027 : Lisnard tend la main à Retailleau et tourne le dos à Attal ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "c0d4563cdb82",
       "title": "Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale",
@@ -560,7 +608,7 @@
       "source": "Le Monde",
       "feed_rank": 4,
       "url": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
-      "published_at": "2026-11-22T01:42:59+00:00",
+      "published_at": "2026-11-22T01:42:54+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale ».",
       "coverage_sources": [
@@ -590,7 +638,7 @@
       "title": "Malraux, ministre du Général 4 : \"Les années Malraux, les chefs-d’œuvre dans la maison : La Maison de la culture, c’est vous !\"",
       "summary": "André Malraux devient en 1959 le tout premier ministre d’État chargé des Affaires culturelles. Fascination pour les chefs-d’œuvre, défiance envers l’éducation, ignorance des pratiques amateur, rendez-vous manqué avec la musique, budgets trop faibles : témoins et acteurs évoquent son héritage.",
       "source": "France Culture",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/les-annees-malraux-les-chefs-d-oeuvre-dans-la-maison-la-maison-de-la-culture-c-est-vous-7456010",
       "published_at": "2026-11-22T01:14:46+00:00",
       "category": "Politique",
@@ -636,7 +684,7 @@
     {
       "id": "507447f015f5",
       "title": "Miss France 2027 : la candidate qui a eu la meilleure note au test de culture générale est…",
-      "summary": "Temps fort de leur voyage de préparation à Saint-Martin, dans les Caraïbes, les candidates à l'élection de Miss France 2027 ont passé le redouté test de culture générale. On connaît aujourd'hui les meilleures élèves de la promo.",
+      "summary": "Temps fort de leur voyage de préparation dans les Caraïbes, les candidates à l'élection de Miss France 2027 ont passé le test de culture générale. On connaît désormais les meilleures élèves de cette année... parmi lesquelles se glisse une Miss France !",
       "source": "Paris Match",
       "feed_rank": 1,
       "url": "https://www.parismatch.com/miss-france-2027-candidate-qui-eu-meilleure-note-test-culture-generale-est-4dHa29UCd10iAb4QzdzRIv",
@@ -774,6 +822,22 @@
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Colombie: les ravages d'El Niño et ses conséquences sur le café ».",
       "coverage_sources": [
         "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3906ecc4f745",
+      "title": "Nivat Soir du samedi 21 novembre 2026",
+      "summary": "Au sommaire : Kaliningrad attaquée par des drones ? Un préfet soupçonné d'avoir renseigné le RN. Chômage : Bruno Retailleau veut durcir les règles. Faut-il interdire ces robots capables de tuer ? Jérôme Fourquet est l'invité de LCI.",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 1,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-nivat-soir-du-samedi-21-novembre-2026-2477394.html",
+      "published_at": "2026-11-21T23:13:55+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette actualité concerne des personnes et la relation entre une organisation et ses équipes. La communication interne doit être cohérente avec les décisions réelles, préciser le calendrier et les accompagnements prévus, et respecter la dignité des personnes concernées. Sujet suivi : « Nivat Soir du samedi 21 novembre 2026 ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1055,7 +1119,7 @@
       "title": "Info/Infox : tourner le galet de compression suffirait-il à passer du mode été au mode hiver ?",
       "summary": "Les internautes ont découvert une toute petite pièce, le galet de compression, qui se trouve sur les fenêtres en PVC. Certains affirment qu'elle permettrait de passer en « mode hiver » et, donc, de faire baisser la facture de chauffage. Cette pièce ne sert pas du tout à régler vos fenêtres en fonction des saisons. Elle est destinée aux professionnels,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.tf1info.fr/immobilier/videos/video-info-infox-tourner-le-galet-de-compression-suffirait-il-a-passer-du-mode-ete-au-mode-hiver-26363-2477392.html",
       "published_at": "2026-11-21T22:25:15+00:00",
       "category": "Société",
@@ -1151,7 +1215,7 @@
       "title": "La France reste sous \"fortes tensions\" de la menace terroriste, selon le procureur antiterroriste",
       "summary": "Depuis le début de l'année, trois attentats et sept projets d'attentats ont été déjoués en France. Parmi ces menaces figure l'ultradroite radicale violente, quasi inexistante il y a dix ans. Mais aussi de nouvelles menaces liées à des mouvements d'origine anglo-saxonne ou masculinistes.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/justice-faits-divers/la-france-reste-sous-fortes-tensions-de-la-menace-terroriste-selon-le-procureur-antiterroriste-2477385.html",
       "published_at": "2026-11-21T22:12:04+00:00",
       "category": "Société",
@@ -1462,7 +1526,7 @@
       "title": "Rugby : les frères Lebrun, Manu Payet et Oli en soutien au XV de France qui affronte l'Argentine",
       "summary": "Rugby : les frères Lebrun, Manu Payet et Oli en soutien au XV de France qui affronte l'Argentine au Stade de France (Seine-Saint-Denis) dans le cadre du Championnat des nations.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/sport/videos/video-rugby-les-freres-lebrun-manu-payet-et-oli-en-soutien-au-xv-de-france-qui-affronte-l-argentine-79167-2477387.html",
       "published_at": "2026-11-21T21:30:11+00:00",
       "category": "Sport",
@@ -1527,7 +1591,7 @@
       "title": "Stations-essence : cette fraude qui siphonne votre compte bancaire",
       "summary": "En Alsace, des malfaiteurs ont piraté plusieurs terminaux de paiement dans des stations-service. En pensant simplement faire le plein, les victimes se sont vu débiter plusieurs centaines d'euros. Ce mode opératoire, baptisé « shimming », consiste pour les escrocs à installer un boîtier trafiqué sur le terminal afin de dérober les données bancaires,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-stations-essence-cette-fraude-qui-siphonne-votre-compte-bancaire-53080-2477384.html",
       "published_at": "2026-11-21T21:20:21+00:00",
       "category": "Économie",
@@ -1575,7 +1639,7 @@
       "title": "Partie de campagne, épisode 10 : présidentielle 2027, déjà une quarantaine de candidats",
       "summary": "À moins de six mois du premier tour de l'élection présidentielle, une quarantaine de candidats se sont déclarés ou sont recensés. Et si vous pensiez qu'il y avait beaucoup de prétendants pour 2027, cela a encore changé cette semaine. De retour, Dominique de Villepin a lui aussi officialisé vendredi sa candidature dans la course à l'Élysée à la Maison de…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.tf1info.fr/politique/videos/video-partie-de-campagne-episode-10-presidentielle-2027-deja-une-quarantaine-de-candidats-76479-2477381.html",
       "published_at": "2026-11-21T21:15:20+00:00",
       "category": "Politique",
@@ -1704,7 +1768,7 @@
       "title": "Boissons riches en fibres : vraiment bonnes pour la santé ?",
       "summary": "Nous avons besoin d'une alimentation saine et équilibrée. Les fibres sont notamment très utiles pour notre digestion. Les industriels ont récemment inventé une boisson qui en contient. Elle est censée rivaliser avec les sodas. La promesse est de prendre soin de son microbiote avec des fibres prébiotiques, sans pour autant changer ses habitudes. La santé,…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/conso/videos/video-boissons-riches-en-fibres-vraiment-bonnes-pour-la-sante-4457-2477377.html",
       "published_at": "2026-11-21T20:55:15+00:00",
       "category": "Société",
@@ -1757,7 +1821,7 @@
       "title": "\"Le 2 mai est le pire scénario possible\" : Marylise Léon appelle aussi à changer les dates de la présidentielle",
       "summary": "La secrétaire générale de la CFDT appelle, dans un entretien à La Tribune dimanche, le gouvernement à changer la date du second tour pour éviter qu'il arrive au lendemain des manifestations du 1ᵉʳ-Mai. Marylise Léon propose ainsi d'avancer l'élection présidentielle d'une semaine.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.tf1info.fr/politique/elections/presidentielle/le-2-mai-est-le-pire-scenario-possible-marylise-leon-appelle-a-changer-la-date-du-second-tour-de-la-presidentielle-2477374.html",
       "published_at": "2026-11-21T20:47:05+00:00",
       "category": "Politique",
@@ -1886,7 +1950,7 @@
       "title": "Pétrole au Texas : l'héritage impitoyable",
       "summary": "Au Texas, les puits de pétrole sont partout et personne n'ose dénoncer les conséquences de cette industrie. Un lac surnommé « la mer Morte du Texas » est un forage qui fuit depuis plus de 20 ans et crache une eau radioactive. Il est chargé de métaux lourds, d'arsenic et de gaz mortels. Fermer un puits abandonné coûte des dizaines de milliers de dollars.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.tf1info.fr/international/videos/video-petrole-au-texas-l-heritage-impitoyable-32873-2477373.html",
       "published_at": "2026-11-21T20:30:21+00:00",
       "category": "Économie",
@@ -1935,7 +1999,7 @@
       "title": "Ils préparent déjà vos cadeaux de Noël... pour 2027 !",
       "summary": "Cette semaine, le très sérieux secrétariat du père Noël a ouvert au centre de La Poste de Libourne, et sur les listes qui vont arriver par milliers, il y aura forcément des jouets qui seront bientôt en rupture de stock. Ces cadeaux qui vont sortir du lot ne sont pas le fruit du hasard. Les enseignes les recherchent des mois à l'avance. C'est au Salon du…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.tf1info.fr/conso/videos/video-ils-preparent-deja-vos-cadeaux-de-noel-pour-2027-47248-2477367.html",
       "published_at": "2026-11-21T20:25:17+00:00",
       "category": "Société",
@@ -1951,7 +2015,7 @@
       "title": "Le nouveau visage de nos prairies",
       "summary": "Face au dérèglement climatique, des milliers de chercheurs travaillent chaque jour à trouver des solutions. Certains se penchent notamment sur la prairie du futur en France. Plantain, betterave, chicorée… Selon leurs études, ces prés sont capables de mieux résister à la sécheresse tout en offrant davantage de nourriture aux élevages. Les premiers tests…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.tf1info.fr/environnement-ecologie/videos/video-le-nouveau-visage-de-nos-prairies-31331-2477371.html",
       "published_at": "2026-11-21T20:25:16+00:00",
       "category": "Environnement",
@@ -1967,7 +2031,7 @@
       "title": "Cargo échoué : remorquage à haut risque",
       "summary": "Le remorqueur Abeille Bretagne est attendu dans les Landes dans les heures qui viennent. Profitant de la marée haute, il doit tenter de tirer le cargo Miro G vers le large. Ce dernier, échoué depuis une quarantaine d'heures, risque de s'ensabler rapidement. Il faut aller vite. Dès mercredi, les coefficients de marée seront moins élevés. Le niveau d'eau…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-cargo-echoue-remorquage-a-haut-risque-75480-2477369.html",
       "published_at": "2026-11-21T20:25:15+00:00",
       "category": "Société",
@@ -1999,7 +2063,7 @@
       "title": "LCI Direct du samedi 21 novembre 2026",
       "summary": "Au sommaire : Travail, chômage : les grands travaux de Retailleau. Missiles en Pologne : l'OTAN sous pression russe. RN au pouvoir : des maires en \"résistance\" ? Présidentielle : la peur de parrainer ?",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.tf1info.fr/replay-lci/videos/video-lci-direct-du-samedi-21-novembre-2026-2477342.html",
       "published_at": "2026-11-21T20:24:00+00:00",
       "category": "Politique",
@@ -2015,7 +2079,7 @@
       "title": "Ralentisseurs hors-la-loi : bientôt tous dans le clous ?",
       "summary": "Dans l'Hexagone, neuf ralentisseurs sur dix seraient hors-la-loi. En plastique, en bitume ou en pavé, ils ne font pas l'unanimité. Trop hauts ou mal placés, ces dos-d'âne abîment parfois les voitures d'automobilistes qui finissent par porter plainte. Ils doivent mesurer moins de 10 cm de hauteur et 4 m de longueur. Ces recours coûtent très cher aux…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.tf1info.fr/societe/videos/video-ralentisseurs-hors-la-loi-bientot-tous-dans-le-clous-37343-2477363.html",
       "published_at": "2026-11-21T20:15:20+00:00",
       "category": "Politique",
@@ -2031,7 +2095,7 @@
       "title": "Menaces : qui en veut aux livreurs ?",
       "summary": "Le racisme s'exprime de plus en plus ouvertement sur les réseaux sociaux. Récemment, le parquet de Paris a ouvert une enquête après la diffusion de messages d'activistes appelant à l'agression de livreurs étrangers. Le ministre du Travail a condamné ces propos menaçants. Les plateformes appellent leurs livreurs à la plus grande vigilance. En 2025, plus…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-menaces-qui-en-veut-aux-livreurs-60459-2477361.html",
       "published_at": "2026-11-21T20:10:21+00:00",
       "category": "Médias & communication",
@@ -2192,7 +2256,7 @@
       "title": "Cerisier, prunier, noyer, érable : ces arbres que vous ne devez surtout pas tailler au mois de novembre, juste avant le début de l’hiver",
       "summary": "Pour préparer l’hiver, il est généralement recommandé de tailler les arbres dans votre jardin. Certaines espèces ne doivent toutefois pas être entretenues trop tard, au mois de novembre. Voici pourquoi certains arbres doivent être laissés au repos.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.tf1info.fr/environnement-ecologie/cerisier-prunier-noyer-erable-ces-arbres-que-vous-ne-devez-surtout-pas-tailler-au-mois-de-novembre-juste-avant-le-debut-de-l-hiver-2477182.html",
       "published_at": "2026-11-21T20:00:00+00:00",
       "category": "Société",
@@ -2208,7 +2272,7 @@
       "title": "Miss France 2027 - \"Les dimanches en pyjama, ce n'est vraiment pas mon truc !\" : l'interview décalée d'Emma Ninot, Miss Franche-Comté",
       "summary": "Emma Ninot, Miss Franche-Comté, est candidate à l'élection de Miss France 2027 qui aura lieu le 12 décembre à l'Arena Futuroscope. Pour TF1info, elle s'est prêtée à un portrait chinois remanié.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.tf1info.fr/culture/miss-france-2027-l-interview-decalee-d-emma-ninot-miss-franche-comte-les-dimanches-en-pyjama-ce-n-est-vraiment-pas-mon-truc-2469845.html",
       "published_at": "2026-11-21T20:00:00+00:00",
       "category": "Politique",
@@ -2274,7 +2338,7 @@
       "title": "Météo du 21 novembre 2026 : Prévisions météo à 20h50",
       "summary": "Météo du samedi 21 novembre 2026 à 20h50 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du samedi 21 novembre 2026 à 20h50 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-21-novembre-2026-previsions-meteo-a-20h50-2477358.html",
       "published_at": "2026-11-21T19:52:45+00:00",
       "category": "Société",
@@ -2290,7 +2354,7 @@
       "title": "220 000 paires de baskets volées : un réseau démantelé",
       "summary": "En Californie, aux États-Unis, la police vient de clore une enquête qui aura duré quatorze mois. Au total, quatorze personnes ont été interpellées, soupçonnées d'appartenir à ce que l'on a appelé le gang des trains. Ces membres auraient cambriolé pas moins d'une trentaine de convois de marchandises, et ils n'hésitaient pas à filmer leurs exploits. Leur…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.tf1info.fr/international/videos/video-220-000-paires-de-baskets-volees-un-reseau-demantele-45447-2477355.html",
       "published_at": "2026-11-21T19:50:22+00:00",
       "category": "Médias & communication",
@@ -2306,7 +2370,7 @@
       "title": "Inondations : ces quartiers dévastés",
       "summary": "À Ramecourt, les pluies ont transformé la rue principale en torrent. Le phénomène a été si fulgurant que les habitants n'ont rien pu protéger. Soutenue par ses amis, Virginie Ponsin découvrait pour la première fois sa maison depuis son évacuation. Aux côtés des sinistrés, une centaine de bénévoles, dont sept agriculteurs d'un village voisin. Il faut…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.tf1info.fr/meteo/videos/video-inondations-ces-quartiers-devastes-16028-2477353.html",
       "published_at": "2026-11-21T19:50:21+00:00",
       "category": "Environnement",
@@ -2322,7 +2386,7 @@
       "title": "Mobilisation en forte baisse",
       "summary": "La mobilisation est en nette baisse pour ce sixième samedi de manifestation. Un peu plus de 80 000 personnes ont défilé dans toute la France, selon le ministère de l’Intérieur, contre 150 000 d’après les organisateurs. Les revendications étaient diverses et portaient notamment sur les services publics, les conditions d’études dans les lycées et le…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/societe/videos/video-mobilisation-en-forte-baisse-91721-2477357.html",
       "published_at": "2026-11-21T19:50:20+00:00",
       "category": "Société",
@@ -2366,22 +2430,6 @@
       "mention_count": 1
     },
     {
-      "id": "a926c0034d2d",
-      "title": "Le JT de 20 heures de TF1 du samedi 21 novembre 2026",
-      "summary": "Retrouvez en replay l’émission « JT 20h WE » du samedi 21 novembre 2026.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/replay-tf1/videos/video-le-jt-de-20-heures-de-tf1-du-samedi-21-novembre-2026-2477359.html",
-      "published_at": "2026-11-21T19:40:06+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le JT de 20 heures de TF1 du samedi 21 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "3d9c1cab0e20",
       "title": "«On nous chie dessus, on ne nous écoute pas» : à Lyon, plusieurs milliers de personnes ont défilé",
       "summary": "Pour l’acte VI de la mobilisation contre la vie chère, plus de 4000 personnes ont déambulé dans la préfecture du Rhône, malgré l’interdiction de manifester qui concernait une large partie du centre-ville. Dans les cortèges, beaucoup se montrent inquiets quant à un tournant autoritaire du gouvernement.",
@@ -2418,7 +2466,7 @@
       "title": "Déraillement en Normandie : La SNCF défend ses agents après un premier point d’enquête",
       "summary": "<p>SNCF Voyageurs a défendu samedi les actions menées par la cheffe de bord et le conducteur après le déraillement d’un train régional en septembre en Normandie, au lendemain d’un point d’enquêteurs qui a souligné l’absence de signalement auprès du service de gestion des circulations.</p><p>L’accident s’était déroulé le 13 septembre, avec le déraillement…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 4,
       "url": "https://www.20minutes.fr/societe/4264706-20261121-deraillement-normandie-sncf-defend-agents-apres-premier-point-enquete?at_medium=display&at_campaign=149",
       "published_at": "2026-11-21T19:26:20+00:00",
       "category": "Société",
@@ -2479,12 +2527,13 @@
         "CNews",
         "Libération",
         "Sud Ouest",
+        "20 Minutes",
         "La Dépêche du Midi",
         "Le Dauphiné Libéré",
         "Midi Libre"
       ],
-      "coverage_count": 10,
-      "mention_count": 11
+      "coverage_count": 11,
+      "mention_count": 12
     },
     {
       "id": "9db4dbf2ce33",
@@ -2780,7 +2829,7 @@
       "title": "Le dimanche de la vie : rencontre avec Olivier Schrauwen",
       "summary": "Figure phare de la bande dessinée flamande, le dessinateur et scénariste Olivier Schrauwen publie un album fleuve sur la conscience et la vie.",
       "source": "France Culture",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/mauvais-genres/le-dimanche-de-la-vie-rencontre-avec-olivier-schrauwen-1526305",
       "published_at": "2026-11-21T19:00:00+00:00",
       "category": "Société",
@@ -2924,7 +2973,7 @@
       "title": "Marc Paquien : \"Le texte de Beckett me fait du bien\"",
       "summary": "Le metteur en scène Marc Paquien a fait appel au scénographe Richard Peduzzi pour sa nouvelle mise en scène de \"Oh les beaux jours\" de Samuel Beckett, quatorze ans après la première version. Catherine Frot reprend le rôle de Winnie.",
       "source": "France Culture",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/l-avant-scene/marc-paquien-le-texte-de-beckett-me-fait-du-bien-4078059",
       "published_at": "2026-11-21T18:46:00+00:00",
       "category": "Société",
@@ -3152,7 +3201,7 @@
       "source": "Le Monde",
       "feed_rank": 5,
       "url": "https://www.lemonde.fr/sciences/article/2026/11/21/les-mysteres-de-mercure-l-etrange-planete-du-systeme-solaire-que-la-mission-bepicolombo-devrait-lever_6814059_1650684.html",
-      "published_at": "2026-11-21T18:25:04+00:00",
+      "published_at": "2026-11-21T18:25:01+00:00",
       "category": "Sciences & tech",
       "communication_angle": "Cette évolution autour de l'énergie confronte innovation, coût, usages et impact écologique. Elle fournit un cas utile pour communiquer sur une transition sans simplifier les arbitrages, en présentant les bénéfices, les limites et les preuves disponibles. Sujet suivi : « Les mystères de Mercure, l’étrange planète du Système solaire, que la mission BepiColombo devrait lever ».",
       "coverage_sources": [
@@ -3373,15 +3422,15 @@
       "mention_count": 1
     },
     {
-      "id": "e1ec4873ac1e",
-      "title": "EN DIRECT France - Argentine : Les Bleus qualifiés pour la finale où ils retrouveront l'Afrique du Sud, miam miam... Suivez le match avec nous",
+      "id": "1389040d9527",
+      "title": "France - Argentine : Les Bleus qualifiés pour la finale où ils retrouveront l'Afrique du Sud, miam miam... Revivez le match avec nous",
       "summary": "Le XV de France s'est qualifié pour la finale du Championnat des nations en battant l'Argentine 45-17 ce samedi",
       "source": "20 Minutes",
-      "feed_rank": 2,
+      "feed_rank": 5,
       "url": "https://www.20minutes.fr/sport/rugby/4264159-20261121-direct-france-argentine-bleus-galerent-devant-encore-deux-essais-avoir-bonus-suivez-match?at_medium=display&at_campaign=149",
       "published_at": "2026-11-21T18:02:36+00:00",
       "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « EN DIRECT France - Argentine : Les Bleus qualifiés pour la finale où ils retrouveront l'Afrique du Sud, miam miam... Suivez le match avec nous ».",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France - Argentine : Les Bleus qualifiés pour la finale où ils retrouveront l'Afrique du Sud, miam miam... Revivez le match avec nous ».",
       "coverage_sources": [
         "20 Minutes"
       ],
@@ -3393,7 +3442,7 @@
       "title": "Guerre en Ukraine : L'Otan défendra « chaque pouce de territoire polonais »",
       "summary": "<p>Vous avez raté les derniers événements sur la <a href=\"https://www.20minutes.fr/monde/ukraine/\">guerre en Ukraine</a> ? <em>20 Minutes</em> fait le point pour vous tous les soirs. Voici l’essentiel de ce samedi 21 novembre 2026, au 1.731e jour du conflit.</p><h2>Le fait du jour</h2><p>Samedi matin, la Finlande a détecté une attaque de drone contre le…",
       "source": "20 Minutes",
-      "feed_rank": 7,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/monde/ukraine/4264699-20261121-guerre-ukraine-otan-defendra-chaque-pouce-territoire-polonais?at_medium=display&at_campaign=149",
       "published_at": "2026-11-21T18:02:11+00:00",
       "category": "International",
@@ -3448,6 +3497,22 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Suicide de Camélia : les proches de la jeune fille de 17 ans déposent plainte avec constitution de partie civile » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "CNews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "c767301dcadd",
+      "title": "Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle",
+      "summary": "Ce beau roman de l’écrivaine libyenne revient sur la question douloureuse de l’esclavage en Libye aux XIXᵉ et XXᵉsiècle, en suivant une fille d’esclave en quête de ses origines.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html",
+      "published_at": "2026-11-21T18:00:02+00:00",
+      "category": "Culture",
+      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle ».",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -3538,7 +3603,7 @@
       "title": "Losc - OL : Lyon s'impose à Lille pour les débuts de Carlos Vicens...",
       "summary": "L'Olympique Lyonnais s'est imposé par la plus petite marge (1-0) à Lille à l'occasion de la 11e journée de Ligue 1, grâce à un but de Bidstrup. Débuts réussis pour Carlos Vicens sur le banc de l'OL",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 7,
       "url": "https://www.20minutes.fr/sport/football/ligue-1/4264231-20261121-direct-losc-ol-premiere-perilleuse-carlos-vicens-banc-lyonnais-suivez-match?at_medium=display&at_campaign=149",
       "published_at": "2026-11-21T17:47:36+00:00",
       "category": "Sport",
@@ -3665,7 +3730,7 @@
       "title": "En apesanteur avec le pianiste Gael Rakotondrabe",
       "summary": "Le pianiste Gael Rakotondrabe interprète deux morceaux de sa composition en public à l'Auditorium du musée d'Orsay.",
       "source": "France Culture",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi-le-live/en-apesanteur-avec-le-pianiste-gael-rakotondrabe-2083180",
       "published_at": "2026-11-21T17:43:00+00:00",
       "category": "Culture",
@@ -3827,7 +3892,7 @@
       "title": "« Mascarade » sur Prime Video : On vous explique le jeu de cache-cache des stars de Loris Giuliano",
       "summary": "<p>Imaginez une fête d’anniversaire où vous ne reconnaissez aucun de vos invités. C’est le point de départ de « Mascarade », disponible depuis le 20 novembre<a href=\"https://www.20minutes.fr/arts-stars/culture/amazon-prime-video/\"> sur Prime Video</a>. Le vidéaste Loris Giuliano, connu pour ses caméras cachées sur YouTube, y reçoit huit convives au…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/arts-stars/television/4264697-20261121-mascarade-prime-video-explique-jeu-cache-cache-stars-loris-giuliano?at_medium=display&at_campaign=149",
       "published_at": "2026-11-21T17:30:29+00:00",
       "category": "Culture",
@@ -4020,7 +4085,7 @@
       "title": "Comme un samedi avec Richard Peduzzi",
       "summary": "Carte blanche au scénographe Richard Peduzzi à l'occasion de l'exposition \"Vertige. Richard Peduzzi à Orsay\" programmée dans le cadre des 40 ans du Musée d'Orsay.",
       "source": "France Culture",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi/comme-un-samedi-avec-richard-peduzzi-3480842",
       "published_at": "2026-11-21T17:10:00+00:00",
       "category": "Culture",
@@ -4230,7 +4295,7 @@
       "source": "Le Monde",
       "feed_rank": 6,
       "url": "https://www.lemonde.fr/intimites/article/2026/11/21/faire-l-amour-en-se-faisant-la-guerre-comment-les-adeptes-du-hate-sex-lient-colere-et-coit_6814049_6190330.html",
-      "published_at": "2026-11-21T17:00:13+00:00",
+      "published_at": "2026-11-21T17:00:07+00:00",
       "category": "Culture",
       "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Faire l’amour en se faisant la guerre : comment les adeptes du « hate sex » lient colère et coït ».",
       "coverage_sources": [
@@ -4266,11 +4331,10 @@
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Le 18/20 du samedi du samedi 21 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "France Culture",
         "France Inter"
       ],
-      "coverage_count": 2,
-      "mention_count": 3
+      "coverage_count": 1,
+      "mention_count": 2
     },
     {
       "id": "7602954f2d23",
@@ -4341,7 +4405,7 @@
       "title": "Cortèges plus clairsemés et revendications sur le logement pour \"l'Acte VI\" des mobilisations contre la vie chère",
       "summary": "La préfecture de police a dénombré 24.000 manifestants en France, quatre fois moins que les deux semaines passées.",
       "source": "France Culture",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/corteges-plus-clairsemes-et-revendications-sur-le-logement-pour-l-acte-vi-des-mobilisations-contre-la-vie-chere-1116514",
       "published_at": "2026-11-21T17:00:00+00:00",
       "category": "Société",
@@ -4970,22 +5034,6 @@
       "mention_count": 1
     },
     {
-      "id": "dba99666dc83",
-      "title": "En Ligue 1, des entraîneurs plus interchangeables que jamais",
-      "summary": "Alors que l’été avait déjà été riche en remaniements sur les bancs du championnat de France, quatre clubs reprennent, après la trêve internationale, avec un nouvel entraîneur. Des changements à Lens, Strasbourg, Le Havre et Lyon, symboles d’une grande instabilité.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/sport/article/2026/11/21/football-des-entraineurs-plus-interchangeables-que-jamais-en-ligue-1_6814046_3242.html",
-      "published_at": "2026-11-21T16:12:17+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « En Ligue 1, des entraîneurs plus interchangeables que jamais ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "c46bdd9bcb1a",
       "title": "« Rail des dépressions », « rivière atmosphérique »… Pourquoi les perturbations s’enchaînent-elles en France en ce moment ?",
       "summary": "Les perturbations pluvieuses s’enchaînent sur la France et ce n’est pas fini. Le responsable ? Le « rail de dépressions », un puissant courant d’altitude qui propulse les tempêtes vers nos côtes, nous",
@@ -5263,7 +5311,7 @@
       "title": "Colère sociale : Syndicats, jeunesse et gilets jaunes dans la rue pour le sixième samedi consécutif",
       "summary": "<p>Nouvelle <a href=\"https://www.20minutes.fr/societe/4264342-20261121-entrave-liberte-perpignan-manifestants-interdits-centre-ville-depuis-plus-mois\">journée de mobilisation</a> ce samedi, pour la sixième semaine consécutive. <a href=\"https://www.20minutes.fr/politique/4263836-20261118-marre-fait-policiers-colere-manifestent-devant-beauvau\">Les…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 8,
       "url": "https://www.20minutes.fr/societe/4264676-20261121-colere-sociale-syndicats-jeunesse-gilets-jaunes-rue-sixieme-samedi-consecutif?at_medium=display&at_campaign=149",
       "published_at": "2026-11-21T15:52:00+00:00",
       "category": "Société",
@@ -5369,54 +5417,6 @@
       "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget UE: plus de 200 milliards d'euros d'économies proposées, Paris et Berlin font la moue ».",
       "coverage_sources": [
         "RFI"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "62b2a7c85e01",
-      "title": "« Comment retrouver espoir ? » : les larmes aux yeux, Kate Middleton se livre comme jamais sur la vie après le cancer",
-      "summary": "Près de deux ans après avoir vaincu le cancer, Kate Middleton s'apprête à évoquer sa guérison à cœur ouvert, dans un documentaire l'ayant suivi au cours du « Three Peaks Challenge », au mois de juin.",
-      "source": "Paris Match",
-      "feed_rank": 13,
-      "url": "https://www.parismatch.com/comment-retrouver-espoir-larmes-aux-yeux-kate-middleton-se-livre-comme-jamais-sur-vie-apres-cancer-5k9FQvEqYbGA5kPSqx6GM5",
-      "published_at": "2026-11-21T15:43:36+00:00",
-      "category": "Culture",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « « Comment retrouver espoir ? » : les larmes aux yeux, Kate Middleton se livre comme jamais sur la vie après le cancer ».",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "741fdab668c6",
-      "title": "\"On roule trop vite ici, le radar n'y change rien\", dans cette commune du sud de Toulouse, un conducteur de 18 ans grièvement blessé après avoir percuté un platane",
-      "summary": "Un jeune automobiliste de Castanet-Tolosan a été hospitalisé en urgence absolue vendredi 20 novembre au matin après une sortie de route à Clermont-le-Fort, au sud de Toulouse. Sa voiture a heurté un platane à quelques...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 11,
-      "url": "https://www.ladepeche.fr/2026/11/21/on-roule-trop-vite-ici-le-radar-ny-change-rien-dans-cette-commune-du-sud-de-toulouse-un-conducteur-de-18-ans-grievement-blesse-apres-avoir-percute-un-13664710.php",
-      "published_at": "2026-11-21T15:42:05+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"On roule trop vite ici, le radar n'y change rien\", dans cette commune du sud de Toulouse, un conducteur de 18 ans grièvement blessé après avoir percu » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "ed64644878b9",
-      "title": "Génocide des Rohingyas : après la décision historique de la CIJ, les réactions internationales s’enchaînent",
-      "summary": "L’organe judiciaire des Nations unies a jugé jeudi 19 novembre que la Birmanie avait bien commis un génocide contre la minorité musulmane en 2017. Tandis que l’ONU appelle Naypyidaw à permettre le retour des réfugiés, l’UE s’est contentée de «prendre note» de la décision.",
-      "source": "Libération",
-      "feed_rank": 16,
-      "url": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-apres-la-decision-historique-de-la-cij-les-reactions-internationales-senchainent-20261120_T6GQJ2LXAJGFJOENXUVFY55D6M/",
-      "published_at": "2026-11-21T15:38:48+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Génocide des Rohingyas : après la décision historique de la CIJ, les réactions internationales s’enchaînent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Libération"
       ],
       "coverage_count": 1,
       "mention_count": 1
