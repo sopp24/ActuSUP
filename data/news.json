@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-22T00:35:44.358459+00:00",
-  "last_attempt": "2026-11-22T00:35:44.358459+00:00",
+  "last_updated": "2026-11-22T01:50:39.646908+00:00",
+  "last_attempt": "2026-11-22T01:50:39.646908+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 906,
-  "unique_story_count": 782,
+  "raw_article_count": 908,
+  "unique_story_count": 784,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,9 +13,9 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-23T00:35:44.358459+00:00",
-  "featured_window_end": "2026-11-22T00:35:44.358459+00:00",
-  "featured_pool_count": 904,
+  "featured_window_start": "2026-10-23T01:50:39.646908+00:00",
+  "featured_window_end": "2026-11-22T01:50:39.646908+00:00",
+  "featured_pool_count": 906,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
@@ -60,7 +60,7 @@
       ],
       "coverage_count": 27,
       "mention_count": 64,
-      "importance_score": 32.431,
+      "importance_score": 32.425,
       "latest_coverage_at": "2026-11-21T22:59:13+00:00"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "coverage_count": 26,
       "mention_count": 48,
-      "importance_score": 31.715,
+      "importance_score": 31.702,
       "latest_coverage_at": "2026-11-21T23:17:35+00:00"
     },
     {
@@ -124,7 +124,6 @@
         "RFI",
         "BFMTV",
         "CNews",
-        "France Inter",
         "L'Express",
         "L'Opinion",
         "Libération",
@@ -137,21 +136,21 @@
         "Midi Libre",
         "Public Sénat"
       ],
-      "coverage_count": 19,
-      "mention_count": 28,
-      "importance_score": 28.63,
+      "coverage_count": 18,
+      "mention_count": 27,
+      "importance_score": 28.233,
       "latest_coverage_at": "2026-11-21T23:12:01+00:00"
     },
     {
-      "id": "d92ac2011c0b",
-      "title": "France - Argentine : \"Un exploit digne de ce nom, à ne pas banaliser et que je ne banaliserai pas\", savoure Fabien Galthié avant de retrouver l'Afrique du Sud en finale du Championnat des nations",
-      "summary": "Quelques minutes après le succès de son équipe lors de la sixième journée du Championnat des nations, face à l'Argentine au Stade de France (45-17), le sélectionneur du XV de France ne boudait pas son plaisir de voir...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 5,
-      "url": "https://www.ladepeche.fr/2026/11/22/france-argentine-un-exploit-digne-de-ce-nom-a-ne-pas-banaliser-et-que-je-ne-banaliserai-pas-savoure-fabien-galthie-avant-de-retrouver-lafrique-du-sud-13665108.php",
-      "published_at": "2026-11-22T00:18:31+00:00",
+      "id": "c0d4563cdb82",
+      "title": "Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale",
+      "summary": "Les joueurs de Fabien Galthié ont souffert avant de surclasser (45-17) les Pumas, samedi, au Stade de France. Deux semaines après les avoir battus, les Bleus affronteront les Sud-Africains en finale de la compétition, dimanche 29 novembre, à Londres.",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
+      "published_at": "2026-11-22T01:42:59+00:00",
       "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France - Argentine : \"Un exploit digne de ce nom, à ne pas banaliser et que je ne banaliserai pas\", savoure Fabien Galthié avant de retrouver l'Afriqu ».",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -168,9 +167,9 @@
         "Midi Libre"
       ],
       "coverage_count": 13,
-      "mention_count": 23,
-      "importance_score": 26.113,
-      "latest_coverage_at": "2026-11-22T00:18:31+00:00"
+      "mention_count": 28,
+      "importance_score": 26.429,
+      "latest_coverage_at": "2026-11-22T01:42:59+00:00"
     },
     {
       "id": "6de37b40b488",
@@ -197,7 +196,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 24,
-      "importance_score": 24.919,
+      "importance_score": 24.915,
       "latest_coverage_at": "2026-11-21T21:47:23+00:00"
     },
     {
@@ -225,7 +224,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.564,
+      "importance_score": 23.556,
       "latest_coverage_at": "2026-11-21T18:41:34+00:00"
     },
     {
@@ -252,7 +251,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 11,
-      "importance_score": 23.125,
+      "importance_score": 23.122,
       "latest_coverage_at": "2026-11-21T23:32:38+00:00"
     },
     {
@@ -277,7 +276,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 15,
-      "importance_score": 22.129,
+      "importance_score": 22.125,
       "latest_coverage_at": "2026-11-21T16:45:04+00:00"
     },
     {
@@ -302,7 +301,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 11,
-      "importance_score": 21.726,
+      "importance_score": 21.714,
       "latest_coverage_at": "2026-11-21T15:56:32+00:00"
     },
     {
@@ -326,7 +325,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.465,
+      "importance_score": 20.456,
       "latest_coverage_at": "2026-11-21T22:00:00+00:00"
     },
     {
@@ -350,7 +349,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 8,
-      "importance_score": 20.214,
+      "importance_score": 20.21,
       "latest_coverage_at": "2026-11-21T22:10:15+00:00"
     },
     {
@@ -358,7 +357,7 @@
       "title": "Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\"",
       "summary": "Dans votre magazine : les réactions après le verdict rendu hier soir en France dans le procès du passage à tabac de Michel Zecler. De la prison ferme pour les trois policiers reconnus coupables de violences aggravées, et de faux en ​écriture ‌publique. La circonstance aggravante de racisme a été retenue. Maitre Seydi Ba était notre invité.",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20261121-verdict-au-proc%C3%A8s-de-michel-zecler-l-espoir-d-une-jurisprudence",
       "published_at": "2026-11-21T15:29:45+00:00",
       "category": "Société",
@@ -374,7 +373,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 7,
-      "importance_score": 20.023,
+      "importance_score": 20.013,
       "latest_coverage_at": "2026-11-21T15:49:09+00:00"
     },
     {
@@ -397,7 +396,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.108,
+      "importance_score": 19.104,
       "latest_coverage_at": "2026-11-21T20:54:49+00:00"
     },
     {
@@ -420,7 +419,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.024,
+      "importance_score": 19.013,
       "latest_coverage_at": "2026-11-21T18:20:00+00:00"
     },
     {
@@ -443,7 +442,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.918,
+      "importance_score": 18.914,
       "latest_coverage_at": "2026-11-21T15:44:08+00:00"
     },
     {
@@ -465,7 +464,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.732,
+      "importance_score": 17.728,
       "latest_coverage_at": "2026-11-21T19:43:00+00:00"
     },
     {
@@ -486,7 +485,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 6,
-      "importance_score": 16.873,
+      "importance_score": 16.87,
       "latest_coverage_at": "2026-11-21T21:58:56+00:00"
     },
     {
@@ -507,7 +506,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.789,
+      "importance_score": 16.786,
       "latest_coverage_at": "2026-11-21T20:42:13+00:00"
     },
     {
@@ -528,7 +527,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.47,
+      "importance_score": 16.467,
       "latest_coverage_at": "2026-11-21T22:12:04+00:00"
     },
     {
@@ -549,11 +548,91 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.046,
+      "importance_score": 16.043,
       "latest_coverage_at": "2026-11-21T18:05:06+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "c0d4563cdb82",
+      "title": "Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale",
+      "summary": "Les joueurs de Fabien Galthié ont souffert avant de surclasser (45-17) les Pumas, samedi, au Stade de France. Deux semaines après les avoir battus, les Bleus affronteront les Sud-Africains en finale de la compétition, dimanche 29 novembre, à Londres.",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
+      "published_at": "2026-11-22T01:42:59+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "356e59196b6d",
+      "title": "Foot : Boca Juniors remporte la Copa Sudamericana",
+      "summary": "C’est la troisième fois que le club de Buenos Aires s’impose dans cette compétition (après 2004 et 2005), dont la finale s’est jouée dans la ville colombienne de Barranquilla.",
+      "source": "Le Figaro",
+      "feed_rank": 12,
+      "url": "https://www.lefigaro.fr/sports/foot-boca-juniors-remporte-la-copa-sudamericana-20261122",
+      "published_at": "2026-11-22T01:42:39+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Foot : Boca Juniors remporte la Copa Sudamericana » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2e0b27b0b258",
+      "title": "Malraux, ministre du Général 4 : \"Les années Malraux, les chefs-d’œuvre dans la maison : La Maison de la culture, c’est vous !\"",
+      "summary": "André Malraux devient en 1959 le tout premier ministre d’État chargé des Affaires culturelles. Fascination pour les chefs-d’œuvre, défiance envers l’éducation, ignorance des pratiques amateur, rendez-vous manqué avec la musique, budgets trop faibles : témoins et acteurs évoquent son héritage.",
+      "source": "France Culture",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/les-annees-malraux-les-chefs-d-oeuvre-dans-la-maison-la-maison-de-la-culture-c-est-vous-7456010",
+      "published_at": "2026-11-22T01:14:46+00:00",
+      "category": "Politique",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Malraux, ministre du Général 4 : \"Les années Malraux, les chefs-d’œuvre dans la maison : La Maison de la culture, c’est vous !\" ».",
+      "coverage_sources": [
+        "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 4
+    },
+    {
+      "id": "da126d680c18",
+      "title": "La playlist soundsystem de Thierry Dupin",
+      "summary": "La playlist de nouveautés de notre programmateur musical, Thierry Dupin.",
+      "source": "France Inter",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-dimanche-22-novembre-2026-3309474",
+      "published_at": "2026-11-22T01:03:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La playlist soundsystem de Thierry Dupin » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e8f373da67ff",
+      "title": "Les notes des Bleus après France-Argentine : Gourgues éclatant, Capilla épatant, Dupont dynamitant",
+      "summary": "Après la victoire tricolore sur les Pumas argentins (45-17), synonyme de finale dans le Championnat des nations, découvrez les notes des joueurs français attribuées par nos spécialistes rugby.",
+      "source": "Le Figaro",
+      "feed_rank": 15,
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-argentine-gourgues-eclatant-capilla-epatant-dupont-dynamitant-20261121",
+      "published_at": "2026-11-22T00:59:03+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Les notes des Bleus après France-Argentine : Gourgues éclatant, Capilla épatant, Dupont dynamitant ».",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "507447f015f5",
       "title": "Miss France 2027 : la candidate qui a eu la meilleure note au test de culture générale est…",
@@ -572,20 +651,20 @@
       "mention_count": 2
     },
     {
-      "id": "fa1bdb56fd98",
-      "title": "Malraux, ministre du Général 3 : Malraux, ministre de la Culture : la culture pour tous",
-      "summary": "En 1959, le Général de Gaulle confie à André Malraux un ministère inédit, celui des Affaires culturelles. Quatre témoins de l'époque retracent dix ans d'une aventure contrariée par le manque de moyens : culture pour tous, Maisons de la Culture, liberté des créateurs, jusqu'au désarroi de Mai 68.",
-      "source": "France Culture",
-      "feed_rank": 1,
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/malraux-ministre-de-la-culture-la-culture-pour-tous-7746281",
-      "published_at": "2026-11-22T00:10:28+00:00",
+      "id": "205d7c29dd19",
+      "title": "Liberia: arrivée d'une nouvelle vague de 25 migrants expulsés des États-Unis",
+      "summary": "Ces expulsions se déroulent dans le cadre du programme controversé du président Donald Trump de refoulement de ressortissants étrangers en situation irrégulière aux États-Unis vers des pays tiers.",
+      "source": "Le Figaro",
+      "feed_rank": 13,
+      "url": "https://www.lefigaro.fr/international/liberia-arrivee-d-une-nouvelle-vague-de-25-migrants-expulses-des-etats-unis-20261122",
+      "published_at": "2026-11-22T00:05:47+00:00",
       "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Malraux, ministre du Général 3 : Malraux, ministre de la Culture : la culture pour tous » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Liberia: arrivée d'une nouvelle vague de 25 migrants expulsés des États-Unis ».",
       "coverage_sources": [
-        "France Culture"
+        "Le Figaro"
       ],
       "coverage_count": 1,
-      "mention_count": 3
+      "mention_count": 1
     },
     {
       "id": "888fd1a77af0",
@@ -796,27 +875,11 @@
       "mention_count": 1
     },
     {
-      "id": "f5e5aa3fa0af",
-      "title": "Liga : malgré un énorme loupé de Mbappé, le Real Madrid s’en sort de justesse face au Celta Vigo",
-      "summary": "Le Real Madrid a eu toutes les peines du monde à s’imposer face au Celta (2-1), samedi soir au Bernabéu, lors de la 13e journée de Liga.",
-      "source": "Le Figaro",
-      "feed_rank": 14,
-      "url": "https://www.lefigaro.fr/sports/football/espagne/liga-malgre-un-enorme-loupe-de-mbappe-le-real-madrid-s-en-sort-de-justesse-face-au-celta-vigo-au-bernabeu-20261121",
-      "published_at": "2026-11-21T23:01:00+00:00",
-      "category": "International",
-      "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Liga : malgré un énorme loupé de Mbappé, le Real Madrid s’en sort de justesse face au Celta Vigo » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "dfb2a6280ee8",
       "title": "France-Argentine : les Bleus (re)donnent rendez-vous aux Springboks en finale",
       "summary": "Larges vainqueurs de l’Argentine (45-17) ce samedi soir, Dupont et ses partenaires terminent premiers de la poule Nord. Ils retrouveront l’Afrique du Sud en finale du Championnat des nations, dimanche prochain à Twickenham.",
       "source": "Le Figaro",
-      "feed_rank": 15,
+      "feed_rank": 17,
       "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/la-france-punit-l-argentine-et-retrouvera-l-afrique-du-sud-en-finale-du-championnat-des-nations-20261121",
       "published_at": "2026-11-21T22:53:51+00:00",
       "category": "Sport",
@@ -839,6 +902,22 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Constitution : règle d'or budgétaire, ça change quoi ? - 21/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "97de57052507",
+      "title": "France - Argentine : en vidéo, le résumé de la victoire fleuve des Bleus",
+      "summary": "Retrouvez en vidéo les meilleurs moments du choc à Saint-Denis entre le XV de France et les Pumas.",
+      "source": "Le Figaro",
+      "feed_rank": 14,
+      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-argentine-en-video-le-resume-de-la-victoire-fleuve-des-bleus-20261121",
+      "published_at": "2026-11-21T22:52:29+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « France - Argentine : en vidéo, le résumé de la victoire fleuve des Bleus » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -956,38 +1035,6 @@
       "mention_count": 1
     },
     {
-      "id": "e8f373da67ff",
-      "title": "Les notes des Bleus après France-Argentine : Gourgues éclatant, Capilla épatant, Dupont dynamitant",
-      "summary": "Après la victoire tricolore sur les Pumas argentins (45-17), synonyme de finale dans le Championnat des nations, découvrez les notes des joueurs français attribuées par nos spécialistes rugby.",
-      "source": "Le Figaro",
-      "feed_rank": 12,
-      "url": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-argentine-gourgues-eclatant-capilla-epatant-dupont-dynamitant-20261121",
-      "published_at": "2026-11-21T22:30:10+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Les notes des Bleus après France-Argentine : Gourgues éclatant, Capilla épatant, Dupont dynamitant ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2bb929e5179d",
-      "title": "France-Argentine : les Bleus balaient les Pumas et retrouveront l’Afrique du Sud en finale du Championnat des nations rugby",
-      "summary": "Le XV de France s’est largement imposé, samedi au Stade de France, face aux Argentins (45-17). Les Français retrouveront les Springboks, dans une semaine à Twickenham, en finale de la compétition entre les deux hémisphères du rugby.",
-      "source": "Le Monde",
-      "feed_rank": 4,
-      "url": "https://www.lemonde.fr/sport/article/2026/11/21/france-argentine-les-bleus-balaient-les-pumas-et-retrouveront-l-afrique-du-sud-en-finale-du-championnat-des-nations-rugby_6814070_3242.html",
-      "published_at": "2026-11-21T22:27:08+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « France-Argentine : les Bleus balaient les Pumas et retrouveront l’Afrique du Sud en finale du Championnat des nations rugby ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "a3d36e0341a1",
       "title": "Le gendarme boursier américain va enquêter sur les pratiques comptables de Nvidia",
       "summary": "Selon les médias américains, le régulateur boursier américain a lancé une enquête sur Nvidia. Elle concerne les pratiques comptables de la société, sans que l’on sache si l’enquête est liée aux récents déboires de son ex-patron Jensen Huang.",
@@ -1024,7 +1071,7 @@
       "title": "Championnat des nations : découvrez le classement final à l’issue de la 6e et dernière journée",
       "summary": "À l’issue de la victoire des Bleus sur les Pumas argentins (45-17), découvrez le classement final du Championnat des nations, avant les matches de classement du week-end prochain.",
       "source": "Le Figaro",
-      "feed_rank": 13,
+      "feed_rank": 16,
       "url": "https://www.lefigaro.fr/sports/rugby/championnat-des-nations-decouvrez-le-classement-final-a-l-issue-de-la-6e-et-derniere-journee-20261121",
       "published_at": "2026-11-21T22:22:19+00:00",
       "category": "Sport",
@@ -1183,6 +1230,22 @@
       ],
       "coverage_count": 6,
       "mention_count": 6
+    },
+    {
+      "id": "557ed08ff75f",
+      "title": "Conflit au Tigré: 700.000 déplacés suite aux affrontements en régions Somali et Oromia",
+      "summary": "En Ethiopie près de 700.000 personnes ont été déplacées par des affrontements entre forces armées des régions Somali et de l'Oromia qui font rage depuis près d'un mois dans le sud de l'Éthiopie, a annoncé jeudi l'ONG britannique Islamic Relief. Mais alors que les combats font rage au Tigré, 5000 étudiants de cette région ont demandé au ministère de…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261121-conflit-au-tigr%C3%A9-700-000-d%C3%A9plac%C3%A9s-suite-aux-affrontements-en-r%C3%A9gions-somali-et-oromia",
+      "published_at": "2026-11-21T22:04:01+00:00",
+      "category": "Société",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Conflit au Tigré: 700.000 déplacés suite aux affrontements en régions Somali et Oromia ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "8c6955f0fb91",
@@ -1839,7 +1902,7 @@
       "title": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
       "summary": "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le parti du premier ministre sortant, Benyamin Netanyahu à des pourparlers en vue d’une éventuelle coalition, a annoncé, samedi, son parti.",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
       "published_at": "2026-11-21T20:29:02+00:00",
       "category": "Politique",
@@ -2032,7 +2095,7 @@
       "title": "Le premier album de Véronique Sanson, libre et amoureuse",
       "summary": "Sorti en 1972 et certifié double disque d'or, cet album marque la première collaboration de Véronique Sanson avec Michel Berger, son compagnon d'alors. Enregistré en seulement deux jours, ce chef-d'œuvre porté par « Besoin de personne » et « Bahia » a durablement marqué la pop française.",
       "source": "France Inter",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/et-je-remets-l-album/et-je-remets-l-album-du-samedi-21-novembre-2026-3768790",
       "published_at": "2026-11-21T20:04:40+00:00",
       "category": "Médias & communication",
@@ -2589,7 +2652,7 @@
       "title": "Pourquoi les raquettes de ping-pong ont un côté rouge et un côté noir ?",
       "summary": "Lors d'une partie de ping-pong, on est tellement concentré sur la petite balle blanche qu'on en oublierait presque de regarder la raquette. Apolline, 12 ans, s'est demandé à quoi rimait le côté rouge et le côté noir de la tête de raquette.",
       "source": "France Inter",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-samedi-21-novembre-2026-2041681",
       "published_at": "2026-11-21T19:04:40+00:00",
       "category": "Société",
@@ -2717,7 +2780,7 @@
       "title": "Le dimanche de la vie : rencontre avec Olivier Schrauwen",
       "summary": "Figure phare de la bande dessinée flamande, le dessinateur et scénariste Olivier Schrauwen publie un album fleuve sur la conscience et la vie.",
       "source": "France Culture",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/mauvais-genres/le-dimanche-de-la-vie-rencontre-avec-olivier-schrauwen-1526305",
       "published_at": "2026-11-21T19:00:00+00:00",
       "category": "Société",
@@ -2829,7 +2892,7 @@
       "title": "Présidentielle 2027 : en meeting à Toulon, Éric Zemmour cherche un élan en «candidat de la liberté»",
       "summary": "REPORTAGE - Loin des liesses de 2022, Éric Zemmour, de nouveau en course pour l’Élysée, a posé des bases programmatiques plus larges que le seul thème de l’immigration, tout en défendant une primaire «de droite».",
       "source": "Le Figaro",
-      "feed_rank": 18,
+      "feed_rank": 20,
       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-meeting-a-toulon-eric-zemmour-cherche-un-elan-en-candidat-de-la-liberte-20261121",
       "published_at": "2026-11-21T18:46:24+00:00",
       "category": "Société",
@@ -2861,7 +2924,7 @@
       "title": "Marc Paquien : \"Le texte de Beckett me fait du bien\"",
       "summary": "Le metteur en scène Marc Paquien a fait appel au scénographe Richard Peduzzi pour sa nouvelle mise en scène de \"Oh les beaux jours\" de Samuel Beckett, quatorze ans après la première version. Catherine Frot reprend le rôle de Winnie.",
       "source": "France Culture",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/l-avant-scene/marc-paquien-le-texte-de-beckett-me-fait-du-bien-4078059",
       "published_at": "2026-11-21T18:46:00+00:00",
       "category": "Société",
@@ -3184,7 +3247,7 @@
       "title": "L'auteur Franck Thilliez, pour la publication d'une édition collector de \"L’autre moi\" aux éditions Fleuve",
       "summary": "Qu’est-ce qu’un bon polar et comment comprendre ce plaisir de la peur, le plaisir qui nous fait tourner les pages en même temps qu’on se jure de refermer le livre ? Ses romans traduits dans le monde entier sont parmi les plus lus en France, Franck Thilliez est notre invité.",
       "source": "France Inter",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-samedi-21-novembre-2026-8363532",
       "published_at": "2026-11-21T18:17:40+00:00",
       "category": "Culture",
@@ -3390,22 +3453,6 @@
       "mention_count": 1
     },
     {
-      "id": "c767301dcadd",
-      "title": "Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle",
-      "summary": "Ce beau roman de l’écrivaine libyenne revient sur la question douloureuse de l’esclavage en Libye aux XIXᵉ et XXᵉsiècle, en suivant une fille d’esclave en quête de ses origines.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html",
-      "published_at": "2026-11-21T18:00:02+00:00",
-      "category": "Culture",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "7c784b986f6a",
       "title": "Vous avez déjà vu toute la saga “Hunger Games” ? Huit films et séries à découvrir pour rester dans l’ambiance",
       "summary": "Prod DB © Lionsgate - Color Force / DR HUNGER GAMES: L'EMBRASEMENT (THE HUNGER GAMES: CATCHING FIRE) de Francis Lawrence 2013 USA avec Jennifer Lawrence saga, suite, sequelle, science fiction, anticipation d'apres le roman de Suzanne Collins \"Catching Fire\"",
@@ -3507,7 +3554,7 @@
       "title": "Un cauchemar très bénéfique",
       "summary": "Aujourd’hui, Jean-Baptiste Toussaint, nous raconte l’histoire de cette franchise qui a généré plus de 2 milliards de dollars grâce à un cauchemar.",
       "source": "France Inter",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/la-chronique-de-jean-baptiste-toussaint/chronique-de-jean-baptiste-toussaint-du-samedi-21-novembre-2026-2382395",
       "published_at": "2026-11-21T17:46:40+00:00",
       "category": "Société",
@@ -3618,7 +3665,7 @@
       "title": "En apesanteur avec le pianiste Gael Rakotondrabe",
       "summary": "Le pianiste Gael Rakotondrabe interprète deux morceaux de sa composition en public à l'Auditorium du musée d'Orsay.",
       "source": "France Culture",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi-le-live/en-apesanteur-avec-le-pianiste-gael-rakotondrabe-2083180",
       "published_at": "2026-11-21T17:43:00+00:00",
       "category": "Culture",
@@ -3812,7 +3859,7 @@
       "title": "Comment les musées se réinventent-ils ? Avec Bénédicte Savoy",
       "summary": "Bénédicte Savoy est professeure, elle publie \"1815 le temps du retour\", un essai pour comprendre la matrice des restitutions de l’art en France après la chute de l’Empire napoléonien.",
       "source": "France Inter",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/15-de-plus/15-de-plus-du-samedi-21-novembre-2026-9234789",
       "published_at": "2026-11-21T17:28:10+00:00",
       "category": "Culture",
@@ -3876,7 +3923,7 @@
       "title": "Il y a 100 ans, Agatha Christie disparaissait",
       "summary": "Il y a 100 ans, Agatha Christie disparaissait, au sens propre. Elle s’est volatilisée pendant onze jours avant de réapparaître dans le nord de l’Angleterre. Alix Van Pée en profite pour nous parler d’un détail, d’un de ses romans.",
       "source": "France Inter",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/dans-le-detail/alix-van-pee-dans-le-detail-du-samedi-21-novembre-2026-3093913",
       "published_at": "2026-11-21T17:21:40+00:00",
       "category": "Culture",
@@ -3957,7 +4004,7 @@
       "title": "La COP 31",
       "summary": "LA COP 31 devait s’achever hier soir à Antalya en Turquie, mais faute d’accord, elle s’est prolongée aujourd’hui, on l’entendait avec le secrétaire général de l’ONU Antonio Guterres les objectifs affichés à l’ouverture de la COP - de sortie des énergies fossiles - semblent hors d’atteinte.",
       "source": "France Inter",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/conversation/la-conversation-du-samedi-21-novembre-2026-8512798",
       "published_at": "2026-11-21T17:12:10+00:00",
       "category": "Environnement",
@@ -3973,7 +4020,7 @@
       "title": "Comme un samedi avec Richard Peduzzi",
       "summary": "Carte blanche au scénographe Richard Peduzzi à l'occasion de l'exposition \"Vertige. Richard Peduzzi à Orsay\" programmée dans le cadre des 40 ans du Musée d'Orsay.",
       "source": "France Culture",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/comme-un-samedi/comme-un-samedi-avec-richard-peduzzi-3480842",
       "published_at": "2026-11-21T17:10:00+00:00",
       "category": "Culture",
@@ -3989,7 +4036,7 @@
       "title": "🔴 En direct : 82 500 personnes ont manifesté en France selon Beauvau, 150 000 d'après la CGT",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
       "published_at": "2026-11-21T17:07:06+00:00",
       "category": "Société",
@@ -4037,7 +4084,7 @@
       "title": "Guerre en Ukraine : deux personnes tuées à Kryvyï Rih",
       "summary": "La Russie a ⁠de nouveau frappé ​dans la nuit de vendredi à samedi 21 novembre des cibles civiles dans la ville industrielle de Kryvyï Rih, ville natale du président Volodymyr Zelensky, où au moins deux personnes ont été tuées, dont un garçon de sept ans.",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-guerre-en-ukraine-deux-personnes-tu%C3%A9es-%C3%A0-kryvy%C3%AF-rih",
       "published_at": "2026-11-21T17:04:30+00:00",
       "category": "Politique",
@@ -4101,7 +4148,7 @@
       "title": "COP31 à Antalya : bras de fer autour des énergies fossiles et des financements",
       "summary": "La 31e ⁠conférence des Nations unies sur ​les changements climatiques (COP31) aboutira soit à un accord satisfaisant, soit à aucun accord, a déclaré samedi 21 novembre le haut responsable de l'Union européenne chargé du climat, alors que les négociations se prolongeaient bien au-delà ​de l'échéance prévue. Nous en parlons avec notre correspondante Jenna…",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-cop31-%C3%A0-antalya-bras-de-fer-autour-des-%C3%A9nergies-fossiles-et-des-financements",
       "published_at": "2026-11-21T17:02:33+00:00",
       "category": "Environnement",
@@ -4213,7 +4260,7 @@
       "title": "Le 18/20 du samedi du samedi 21 novembre 2026",
       "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
       "source": "France Inter",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-18-20/le-18-20-du-samedi-du-samedi-21-novembre-2026-4511068",
       "published_at": "2026-11-21T17:00:00+00:00",
       "category": "Société",
@@ -4294,7 +4341,7 @@
       "title": "Cortèges plus clairsemés et revendications sur le logement pour \"l'Acte VI\" des mobilisations contre la vie chère",
       "summary": "La préfecture de police a dénombré 24.000 manifestants en France, quatre fois moins que les deux semaines passées.",
       "source": "France Culture",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/corteges-plus-clairsemes-et-revendications-sur-le-logement-pour-l-acte-vi-des-mobilisations-contre-la-vie-chere-1116514",
       "published_at": "2026-11-21T17:00:00+00:00",
       "category": "Société",
@@ -4422,7 +4469,7 @@
       "title": "Dakar : la Biennale des arts contemporains ouvre ses portes",
       "summary": "C'est parti pour la 16e édition de la Biennale de Dakar ! Le rendez-vous des arts contemporains a ouvert ses portes jeudi 19 novembre dans la capitale sénégalaise. Au programme de l'exposition principale, le IN : 79 artistes du continent et de ses diasporas qui explorent notamment les thèmes de la résilience et de la transformation.",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-dakar-la-biennale-des-arts-contemporains-ouvre-ses-portes",
       "published_at": "2026-11-21T16:51:24+00:00",
       "category": "Culture",
@@ -4454,7 +4501,7 @@
       "title": "RD Congo : les combats se poursuivent dans le Sud-Kivu",
       "summary": "Dans l'est de la RD Congo, les combats se poursuivent dans la province du Sud-Kivu. L'armée congolaise, appuyée par les combattants wazalendo et l'armée burundaise, mène des offensives contre les Twirwaneho, alliés au Front pour la refondation de la nation (FRN), le mouvement politico-militaire dirigé par l'ancien président Joseph Kabila. Ces…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-rd-congo-les-combats-se-poursuivent-dans-le-sud-kivu",
       "published_at": "2026-11-21T16:50:27+00:00",
       "category": "Politique",
@@ -4487,7 +4534,7 @@
       "title": "Guinée - Burkina Faso : pourquoi les tensions montent",
       "summary": "Les tensions montent entre la Guinée et le Burkina Faso. Conakry vient de couper le signal de la RTB, la télévision publique burkinabè. En cause : un éditorial critique, accompagné d'une caricature du président Mamadi Doumbouya. Mais l'affaire va bien au-delà de la télévision : elle éclate en pleine répression contre l'orpaillage illégal en Guinée, qui a…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-guin%C3%A9e-burkina-faso-pourquoi-les-tensions-montent",
       "published_at": "2026-11-21T16:48:27+00:00",
       "category": "Politique",
@@ -4503,7 +4550,7 @@
       "title": "Manifestation à Paris : le cortège est arrivé à Nation \"sans débordement\"",
       "summary": "La mobilisation continue en France ce samedi 21 novembre. Nos journalistes Valentine Erba et Sylvain Rousseau étaient en direct du cortège parisien à son arrivée à Nation. \"On peut tirer le bilan d'une journée extrêmement calme\", rapporte-t-il.",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestation-%C3%A0-paris-le-cort%C3%A8ge-est-arriv%C3%A9-%C3%A0-nation-sans-d%C3%A9bordement",
       "published_at": "2026-11-21T16:46:55+00:00",
       "category": "Médias & communication",
@@ -4620,7 +4667,7 @@
       "title": "Climat : les négociations s'enlisent à la COP31, sans compromis en vue",
       "summary": "Certains ministres sont déjà partis, les tractations se poursuivent, mais toujours pas de terrain d'entente : la COP sur le climat traîne en longueur samedi en Turquie, où 200 pays tentent encore de trouver un accord, malgré leurs différends sur les énergies fossiles et les financements. Nous en parlons avec notre journaliste Anne Corpet.",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-climat-les-n%C3%A9gociations-s-enlisent-%C3%A0-la-cop31-sans-compromis-en-vue",
       "published_at": "2026-11-21T16:36:13+00:00",
       "category": "Médias & communication",
@@ -4669,7 +4716,7 @@
       "title": "Manifestation à Paris : un cortège \"finalement assez fourni\"",
       "summary": "Ce samedi 21 novembre marque le sixième acte de la colère sociale en France. Des manifestations se tiennent dans de nombreuses villes à travers le pays. Notre journaliste Sylvain Rousseau suit le cortège parisien, qui est \"finalement beaucoup plus fourni que ce l'on pensait au début\", remarque-t-il.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestation-%C3%A0-paris-un-cort%C3%A8ge-finalement-assez-fourni",
       "published_at": "2026-11-21T16:33:53+00:00",
       "category": "Médias & communication",
@@ -4923,6 +4970,22 @@
       "mention_count": 1
     },
     {
+      "id": "dba99666dc83",
+      "title": "En Ligue 1, des entraîneurs plus interchangeables que jamais",
+      "summary": "Alors que l’été avait déjà été riche en remaniements sur les bancs du championnat de France, quatre clubs reprennent, après la trêve internationale, avec un nouvel entraîneur. Des changements à Lens, Strasbourg, Le Havre et Lyon, symboles d’une grande instabilité.",
+      "source": "Le Monde",
+      "feed_rank": 15,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/21/football-des-entraineurs-plus-interchangeables-que-jamais-en-ligue-1_6814046_3242.html",
+      "published_at": "2026-11-21T16:12:17+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « En Ligue 1, des entraîneurs plus interchangeables que jamais ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "c46bdd9bcb1a",
       "title": "« Rail des dépressions », « rivière atmosphérique »… Pourquoi les perturbations s’enchaînent-elles en France en ce moment ?",
       "summary": "Les perturbations pluvieuses s’enchaînent sur la France et ce n’est pas fini. Le responsable ? Le « rail de dépressions », un puissant courant d’altitude qui propulse les tempêtes vers nos côtes, nous",
@@ -4991,7 +5054,7 @@
       "title": "Charline à Montilly-sur-Noireau 4/4 : Dans l'Orne avec Gaspard Kœnig, philosophe et écrivain",
       "summary": "Pour ce nouvel épisode, Charline et son équipe partent dans l’Orne, le seul département de Normandie qui n’a pas accès à la mer, pour rejoindre l’écrivain philosophe Gaspard Koenig à Montilly-sur-Noireau. Il a généreusement ouvert les portes de ses voisins agriculteurs et amis du bocage.",
       "source": "France Inter",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/c-est-loin-mais-c-est-beau/c-est-loin-mais-c-est-beau-du-samedi-21-novembre-2026-3156583",
       "published_at": "2026-11-21T16:04:40+00:00",
       "category": "Société",
@@ -5354,70 +5417,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Génocide des Rohingyas : après la décision historique de la CIJ, les réactions internationales s’enchaînent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "410c3ceab828",
-      "title": "Attaqué par des drones, un cargo russe a dérivé dans les eaux territoriales finlandaises",
-      "summary": "Le navire, identifié comme le “Sparta II”, utilisé selon les services de renseignement ukrainiens pour transporter du matériel militaire russe, aurait été ciblé par des drones dans le golfe de Finlande. L’attaque n’a pas été revendiquée, mais le Premier ministre finlandais a très vite réaffirmé le droit, pour l’Ukraine, “de se défendre contre son…",
-      "source": "Courrier International",
-      "feed_rank": 4,
-      "url": "https://www.courrierinternational.com/article/geopolitique-attaque-par-des-drones-un-cargo-russe-a-derive-dans-les-eaux-territoriales-finlandaises_289050",
-      "published_at": "2026-11-21T15:38:27+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Attaqué par des drones, un cargo russe a dérivé dans les eaux territoriales finlandaises ».",
-      "coverage_sources": [
-        "Courrier International"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "8de933fc6697",
-      "title": "«Maisons moches» : des façades d’habitations vandalisées avec des tags dans les Côtes-d’Armor",
-      "summary": "Dans les Côtes-d'Armor, trois maisons ont été vandalisées aux alentours du 11 novembre avec des tags «Maison moche.» Ces inscriptions n'ont pas été revendiquées. Une situation qui interroge. À Plevenon, dans les Côtes-d'Armor, trois maisons ont été vandalisées avec des tags «Maison moche.» Les faits se seraient déroulés aux alentours du 11 novembre.…",
-      "source": "CNews",
-      "feed_rank": 23,
-      "url": "https://www.cnews.fr/france/2026-11-21/maisons-moches-des-facades-dhabitations-vandalisees-avec-des-tags-dans-les-cotes",
-      "published_at": "2026-11-21T15:31:20+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « «Maisons moches» : des façades d’habitations vandalisées avec des tags dans les Côtes-d’Armor » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "1b94a6818018",
-      "title": "Un joggeur tué par balles à Pointe-à-Pitre, deux hommes interpellés",
-      "summary": "\"Un homme a été abattu par balles ce matin dans sa voiture à Bergevin, alors qu’il s’y rendait pour faire son jogging\", a indiqué à l’AFP la procureure de Pointe-à-Pitre.",
-      "source": "Paris Match",
-      "feed_rank": 15,
-      "url": "https://www.parismatch.com/joggeur-tue-par-balles-pointe-a-pitre-5dC0btWCGTkd7SNumNWIWL",
-      "published_at": "2026-11-21T15:31:16+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Un joggeur tué par balles à Pointe-à-Pitre, deux hommes interpellés » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bb35e4e4f85e",
-      "title": "“Aller voir la terre”, de Marion Lagardère : journal de bord d’une maçonne intérimaire",
-      "summary": "Elle a longtemps tendu son micro aux autres. Puis, la journaliste à Radio France s’est bâti une nouvelle vie en restaurant des maisons dans le Berry. Elle en livre un récit d’apprentissage intime, où la matière vibre comme une géographie de la vie.",
-      "source": "Télérama",
-      "feed_rank": 10,
-      "url": "https://www.telerama.fr/livre/aller-voir-la-terre-de-marion-lagardere-journal-de-bord-d-une-maconne-interimaire_cri-7046958.php",
-      "published_at": "2026-11-21T15:30:04+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « “Aller voir la terre”, de Marion Lagardère : journal de bord d’une maçonne intérimaire ».",
-      "coverage_sources": [
-        "Télérama"
       ],
       "coverage_count": 1,
       "mention_count": 1
