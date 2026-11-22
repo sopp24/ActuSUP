@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T22:41:55.512709+00:00",
-  "last_attempt": "2026-11-22T22:41:55.512709+00:00",
+  "last_updated": "2026-11-22T23:02:49.841784+00:00",
+  "last_attempt": "2026-11-22T23:02:49.841784+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 908,
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-23T22:41:55.512709+00:00",
-  "featured_window_end": "2026-11-22T22:41:55.512709+00:00",
+  "featured_window_start": "2026-10-23T23:02:49.841784+00:00",
+  "featured_window_end": "2026-11-22T23:02:49.841784+00:00",
   "featured_pool_count": 906,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "85203144dbf9",
-      "title": "Primaire de la droite et du centre: sans Édouard Philippe, \"ça n'aurait pas de sens\", estime Hervé Morin, président de la région Normandie",
-      "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.",
-      "source": "BFMTV",
-      "feed_rank": 2,
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-de-la-droite-et-du-centre-sans-edouard-philippe-ca-n-aurait-pas-de-sens-estime-herve-morin-president-de-la-region-normandie_VN-202611220454.html",
-      "published_at": "2026-11-22T22:14:36+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Primaire de la droite et du centre: sans Édouard Philippe, \"ça n'aurait pas de sens\", estime Hervé Morin, président de la région Normandie ».",
+      "id": "e5e0e044dfd9",
+      "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+      "summary": "Sur cette image satellite fournie par Vantor, on aperçoit la corvette « Merkury » de la marine russe, chavirée à la suite d’une frappe présumée de drone, dans une base navale de Benghazi, en Libye, dimanche 22 novembre 2026.",
+      "source": "Le Monde",
+      "feed_rank": 3,
+      "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
+      "published_at": "2026-11-22T22:57:04+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -70,9 +70,9 @@
         "INA – La Revue des médias"
       ],
       "coverage_count": 38,
-      "mention_count": 198,
-      "importance_score": 36.735,
-      "latest_coverage_at": "2026-11-22T22:14:36+00:00"
+      "mention_count": 199,
+      "importance_score": 36.745,
+      "latest_coverage_at": "2026-11-22T23:02:00+00:00"
     },
     {
       "id": "7abed5074a2e",
@@ -102,36 +102,8 @@
       ],
       "coverage_count": 14,
       "mention_count": 15,
-      "importance_score": 25.66,
+      "importance_score": 25.656,
       "latest_coverage_at": "2026-11-22T20:37:24+00:00"
-    },
-    {
-      "id": "abd5b3a83ff8",
-      "title": "Football : Désiré Doué victime d'une tentative de cambriolage à son domicile",
-      "summary": "Victime d'un grave blessure contre l'OGC Nice ce samedi 21 novembre, l'attaquant du Paris Saint-Germain a également été la cible d'une tentative de cambriolage à son domicile d'Orgeval (Yvelines) dans la même soirée. La loi des séries s'abat sur Désiré Doué. Après le déchaussement d'une incisive contre l'Italie et une rupture du ligament croisé antérieur…",
-      "source": "CNews",
-      "feed_rank": 1,
-      "url": "https://www.cnews.fr/sport/2026-11-22/football-desire-doue-victime-dune-tentative-de-cambriolage-son-domicile-1959392",
-      "published_at": "2026-11-22T22:07:59+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Football : Désiré Doué victime d'une tentative de cambriolage à son domicile ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Figaro",
-        "RFI",
-        "BFMTV",
-        "CNews",
-        "Libération",
-        "Ouest-France",
-        "La Dépêche du Midi",
-        "Le Dauphiné Libéré",
-        "Midi Libre"
-      ],
-      "coverage_count": 11,
-      "mention_count": 13,
-      "importance_score": 23.775,
-      "latest_coverage_at": "2026-11-22T22:07:59+00:00"
     },
     {
       "id": "8a2a167491b5",
@@ -156,8 +128,35 @@
       ],
       "coverage_count": 9,
       "mention_count": 17,
-      "importance_score": 23.227,
+      "importance_score": 23.218,
       "latest_coverage_at": "2026-11-22T21:33:29+00:00"
+    },
+    {
+      "id": "abd5b3a83ff8",
+      "title": "Football : Désiré Doué victime d'une tentative de cambriolage à son domicile",
+      "summary": "Victime d'un grave blessure contre l'OGC Nice ce samedi 21 novembre, l'attaquant du Paris Saint-Germain a également été la cible d'une tentative de cambriolage à son domicile d'Orgeval (Yvelines) dans la même soirée. La loi des séries s'abat sur Désiré Doué. Après le déchaussement d'une incisive contre l'Italie et une rupture du ligament croisé antérieur…",
+      "source": "CNews",
+      "feed_rank": 1,
+      "url": "https://www.cnews.fr/sport/2026-11-22/football-desire-doue-victime-dune-tentative-de-cambriolage-son-domicile-1959392",
+      "published_at": "2026-11-22T22:07:59+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Football : Désiré Doué victime d'une tentative de cambriolage à son domicile ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Figaro",
+        "RFI",
+        "CNews",
+        "Libération",
+        "Ouest-France",
+        "La Dépêche du Midi",
+        "Le Dauphiné Libéré",
+        "Midi Libre"
+      ],
+      "coverage_count": 10,
+      "mention_count": 12,
+      "importance_score": 23.084,
+      "latest_coverage_at": "2026-11-22T22:07:59+00:00"
     },
     {
       "id": "47444ac661c4",
@@ -180,7 +179,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 9,
-      "importance_score": 20.736,
+      "importance_score": 20.73,
       "latest_coverage_at": "2026-11-22T19:58:34+00:00"
     },
     {
@@ -203,7 +202,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.332,
+      "importance_score": 19.323,
       "latest_coverage_at": "2026-11-22T22:31:01+00:00"
     },
     {
@@ -226,7 +225,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.234,
+      "importance_score": 19.225,
       "latest_coverage_at": "2026-11-22T20:23:02+00:00"
     },
     {
@@ -249,7 +248,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 8,
-      "importance_score": 19.119,
+      "importance_score": 19.118,
       "latest_coverage_at": "2026-11-20T15:00:03+00:00"
     },
     {
@@ -272,30 +271,8 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.051,
+      "importance_score": 19.05,
       "latest_coverage_at": "2026-11-22T20:30:18+00:00"
-    },
-    {
-      "id": "d1d04a2d6f6f",
-      "title": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ?",
-      "summary": "De nouvelles alertes inondations ont été émises pour l'Ain et le Jura, tandis que la Corse est également sur ses gardes en raison de vents violents accompagnés de fortes précipitations. Du côté du Pas-de-Calais, la situation n'est toujours pas stabilisée, dimanche 22 novembre, alors que 850 logements ont été inondés. La répétition de ces épisodes pousse…",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 3,
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-22T21:46:09+00:00",
-      "category": "Société",
-      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « \"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ? ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "CNews",
-        "Sud Ouest"
-      ],
-      "coverage_count": 5,
-      "mention_count": 7,
-      "importance_score": 18.256,
-      "latest_coverage_at": "2026-11-22T21:46:09+00:00"
     },
     {
       "id": "e09789312469",
@@ -315,7 +292,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 11,
-      "importance_score": 18.069,
+      "importance_score": 18.064,
       "latest_coverage_at": "2026-11-22T20:24:00+00:00"
     },
     {
@@ -337,7 +314,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 17.957,
+      "importance_score": 17.956,
       "latest_coverage_at": "2026-11-22T19:54:12+00:00"
     },
     {
@@ -359,8 +336,71 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.768,
+      "importance_score": 17.758,
       "latest_coverage_at": "2026-11-22T21:02:33+00:00"
+    },
+    {
+      "id": "d1d04a2d6f6f",
+      "title": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ?",
+      "summary": "De nouvelles alertes inondations ont été émises pour l'Ain et le Jura, tandis que la Corse est également sur ses gardes en raison de vents violents accompagnés de fortes précipitations. Du côté du Pas-de-Calais, la situation n'est toujours pas stabilisée, dimanche 22 novembre, alors que 850 logements ont été inondés. La répétition de ces épisodes pousse…",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 3,
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-22T21:46:09+00:00",
+      "category": "Société",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « \"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ? ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "CNews",
+        "Sud Ouest"
+      ],
+      "coverage_count": 4,
+      "mention_count": 6,
+      "importance_score": 16.839,
+      "latest_coverage_at": "2026-11-22T21:46:09+00:00"
+    },
+    {
+      "id": "d5ab4b4120de",
+      "title": "Sublime en Louis Vuitton, Cate Blanchett illumine les Champs-Elysées en majesté",
+      "summary": "EN IMAGES. L'actrice Cate Blanchett a donné le coup d'envoi des illuminations des Champs-Elysées, avant un concert du groupe Feu ! Chatterton.",
+      "source": "Paris Match",
+      "feed_rank": 1,
+      "url": "https://www.parismatch.com/sublime-en-louis-vuitton-cate-blanchett-illumine-champs-elysees-en-majeste-2oyDVl5B79prSeoF9ctXQx",
+      "published_at": "2026-11-22T22:47:34+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Sublime en Louis Vuitton, Cate Blanchett illumine les Champs-Elysées en majesté ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)",
+        "BFMTV",
+        "RMC",
+        "Paris Match"
+      ],
+      "coverage_count": 4,
+      "mention_count": 5,
+      "importance_score": 16.524,
+      "latest_coverage_at": "2026-11-22T22:47:34+00:00"
+    },
+    {
+      "id": "dc4bfe3626cb",
+      "title": "Espagne: à une semaine des législatives anticipées, la campagne redouble d'intensité",
+      "summary": "À une semaine des élections législatives anticipées en Espagne, les deux favoris dans les sondages, Alberto Feijoo, le conservateur du Partido Popular (PP), en tête, et Pedro Sanchez, chef du gouvernement espagnol, socialiste, ont enchaîné les meetings ce week-end. L'écart entre les deux formations se resserre dans les sondages et la campagne redouble…",
+      "source": "RFI",
+      "feed_rank": 10,
+      "url": "https://www.rfi.fr/fr/europe/20261122-espagne-%C3%A0-une-semaine-des-l%C3%A9gislatives-anticip%C3%A9es-la-campagne-redouble-d-intensit%C3%A9",
+      "published_at": "2026-11-22T22:58:39+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Espagne: à une semaine des législatives anticipées, la campagne redouble d'intensité ».",
+      "coverage_sources": [
+        "RFI",
+        "Libération",
+        "LCP",
+        "Public Sénat"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4,
+      "importance_score": 16.465,
+      "latest_coverage_at": "2026-11-22T22:58:39+00:00"
     },
     {
       "id": "9395845ca7be",
@@ -380,7 +420,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.339,
+      "importance_score": 16.338,
       "latest_coverage_at": "2026-11-22T22:27:57+00:00"
     },
     {
@@ -420,7 +460,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 5,
-      "importance_score": 15.179,
+      "importance_score": 15.178,
       "latest_coverage_at": "2026-11-22T16:38:24+00:00"
     },
     {
@@ -440,81 +480,185 @@
       ],
       "coverage_count": 3,
       "mention_count": 6,
-      "importance_score": 15.165,
+      "importance_score": 15.164,
       "latest_coverage_at": "2026-11-21T08:27:42+00:00"
     },
     {
-      "id": "d96e57627997",
-      "title": "\"Je suis profondément honorée d'être ici\": Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées",
-      "summary": "Ce dimanche 22 novembre, Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées. Cette année signe aussi le retour du marché de Noël en bas de l'avenue, près de la place de la Concorde.",
+      "id": "715dc714ba43",
+      "title": "\"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent",
+      "summary": "Dans un entretien fleuve accordé à nos confrères de Libération les deux sœurs, Ritsia et Tiffany Brou, de Pengo Bossio Wangi, 26 ans, mort dans l'attentat raciste de Trappes, témoignent de leur sidération et de leur crainte de voir le racisme monter en France.",
       "source": "BFMTV",
-      "feed_rank": 12,
-      "url": "https://www.bfmtv.com/culture/video-je-suis-profondement-honoree-d-etre-ici-cate-blanchett-a-inaugure-les-illuminations-de-noel-sur-les-champs-elysees_VN-202611220431.html",
-      "published_at": "2026-11-22T21:03:40+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « \"Je suis profondément honorée d'être ici\": Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "feed_rank": 5,
+      "url": "https://www.bfmtv.com/societe/j-ai-senti-les-francais-unis-les-s-urs-de-pengo-bossio-wangi-tue-dans-l-attentat-raciste-de-trappes-temoignent_AN-202611220464.html",
+      "published_at": "2026-11-22T22:48:01+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
+        "Le Monde",
         "BFMTV",
-        "RMC"
+        "Libération"
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.692,
-      "latest_coverage_at": "2026-11-22T21:03:40+00:00"
-    },
-    {
-      "id": "7ecfe602a143",
-      "title": "Législatives espagnoles : Vox, l’extrême droite en campagne contre «l’invasion migratoire»",
-      "summary": "En meeting ce dimanche 22 novembre à Saragosse, le chef du parti d’extrême droite, Santiago Abascal, a multiplié les saillies contre les étrangers. Et capitalise sur les faiblesses des partis traditionnels.",
-      "source": "Libération",
-      "feed_rank": 9,
-      "url": "https://www.liberation.fr/international/europe/legislatives-espagnoles-vox-lextreme-droite-en-campagne-contre-linvasion-migratoire-20261122_3NKCB75PWFGJZC2K2QKXSPJYVE/",
-      "published_at": "2026-11-22T17:37:02+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Législatives espagnoles : Vox, l’extrême droite en campagne contre «l’invasion migratoire» ».",
-      "coverage_sources": [
-        "Libération",
-        "LCP",
-        "Public Sénat"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3,
-      "importance_score": 14.633,
-      "latest_coverage_at": "2026-11-22T17:37:02+00:00"
-    },
-    {
-      "id": "3e39c2ba44ad",
-      "title": "De « Hunger Games » à « Harry Potter »… C’est quand le bon moment pour réveiller une saga endormie ?",
-      "summary": "<p>« Il faut un motif pour refaire »… Une préquelle de « <a href=\"https://www.20minutes.fr/dossier/hunger_games\">Hunger Games</a> » s’installe en salles, quatorze ans après le lancement de la saga qui a révélé <a href=\"https://www.20minutes.fr/dossier/jennifer_lawrence\">Jennifer Lawrence</a><em>.</em> Une saga qui a déjà connu une première préquelle il y…",
-      "source": "20 Minutes",
-      "feed_rank": 3,
-      "url": "https://www.20minutes.fr/arts-stars/culture/4263833-20261122-hunger-games-harry-potter-quand-bon-moment-reveiller-saga-endormie?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-22T09:32:36+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « De « Hunger Games » à « Harry Potter »… C’est quand le bon moment pour réveiller une saga endormie ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "20 Minutes",
-        "Konbini",
-        "Télérama"
-      ],
-      "coverage_count": 3,
-      "mention_count": 4,
-      "importance_score": 14.625,
-      "latest_coverage_at": "2026-11-22T09:32:36+00:00"
+      "importance_score": 14.947,
+      "latest_coverage_at": "2026-11-22T22:48:01+00:00"
     }
   ],
   "articles": [
     {
-      "id": "34e7a94340a3",
-      "title": "Au Maroc, un parc de sculptures surréalistes fait basculer le monde",
-      "summary": "Une maison à l'envers, des meubles géants et des figures à tête de légumes attendent les visiteurs à Ramakech, parc de sculptures de 11 hectares près de Marrakech, où l'artiste français Jean-François Fourtou transforme ses souvenirs d'enfance en installations monumentales.",
+      "id": "268ebdaee8ef",
+      "title": "Journal de Paris - L'édition Brockhaus-Plon du manuscrit original des \"Mémoires de Casanova\" (1ère diffusion : 23/11/1960 France I Paris-Inter)",
+      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
+      "source": "France Culture",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/journal-de-paris-l-edition-brockhaus-plon-du-manuscrit-original-des-memoires-de-casanova-1ere-diffusion-23-11-1960-france-i-paris-inter-3503300",
+      "published_at": "2026-11-22T23:02:00+00:00",
+      "category": "Société",
+      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Journal de Paris - L'édition Brockhaus-Plon du manuscrit original des \"Mémoires de Casanova\" (1ère diffusion : 23/11/1960 France I Paris-Inter) ».",
+      "coverage_sources": [
+        "France Culture"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d8df7d16f17e",
+      "title": "Après l'euphorie, retour à la réalité: l'OM s'est-il vu trop beau?",
+      "summary": "Après cinq victoires d'affilée en Ligue 1, la série de l'OM s'est achevée ce dimanche soir au Vélodrome, sur la victoire renversante du Mans (3-2) en clôture de la 11e journée de championnat. Comme un brutal retour sur terre pour une équipe retombée dans ses travers du début de saison.",
+      "source": "BFMTV",
+      "feed_rank": 1,
+      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/apres-l-euphorie-retour-a-la-realite-l-om-s-est-il-vu-trop-beau_AV-202611220471.html",
+      "published_at": "2026-11-22T22:59:54+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Après l'euphorie, retour à la réalité: l'OM s'est-il vu trop beau? ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "dc4bfe3626cb",
+      "title": "Espagne: à une semaine des législatives anticipées, la campagne redouble d'intensité",
+      "summary": "À une semaine des élections législatives anticipées en Espagne, les deux favoris dans les sondages, Alberto Feijoo, le conservateur du Partido Popular (PP), en tête, et Pedro Sanchez, chef du gouvernement espagnol, socialiste, ont enchaîné les meetings ce week-end. L'écart entre les deux formations se resserre dans les sondages et la campagne redouble…",
+      "source": "RFI",
+      "feed_rank": 10,
+      "url": "https://www.rfi.fr/fr/europe/20261122-espagne-%C3%A0-une-semaine-des-l%C3%A9gislatives-anticip%C3%A9es-la-campagne-redouble-d-intensit%C3%A9",
+      "published_at": "2026-11-22T22:58:39+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Espagne: à une semaine des législatives anticipées, la campagne redouble d'intensité ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f2de246010c1",
+      "title": "\"On a senti l’équipe se liquéfier\": les explications de Bruno Genesio sur l’effondrement de l’OM face au Mans",
+      "summary": "Après avoir mené 2-0 à la pause, l’OM s’est fait renverser par Le Mans devant son public, ce dimanche, en clôture de la 11e journée de Ligue 1 (2-3). Un revers difficile à avaler pour Bruno Genesio, qui a vu son équipe perdre totalement pied en fin de match sur la pelouse du Vélodrome.",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/on-a-senti-l-equipe-se-liquefier-les-explications-de-bruno-genesio-sur-l-effondrement-de-l-om-face-au-mans_AV-202611220468.html",
+      "published_at": "2026-11-22T22:53:28+00:00",
+      "category": "Sport",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « \"On a senti l’équipe se liquéfier\": les explications de Bruno Genesio sur l’effondrement de l’OM face au Mans ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "914e9ed6410d",
+      "title": "Tondelier, Ruffin : la gauche capitule face à Mélenchon ? - 22/11",
+      "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
+      "source": "BFMTV",
+      "feed_rank": 4,
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-tondelier-ruffin-la-gauche-capitule-face-a-melenchon-22-11_VN-202611220469.html",
+      "published_at": "2026-11-22T22:51:54+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Tondelier, Ruffin : la gauche capitule face à Mélenchon ? - 22/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 3
+    },
+    {
+      "id": "715dc714ba43",
+      "title": "\"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent",
+      "summary": "Dans un entretien fleuve accordé à nos confrères de Libération les deux sœurs, Ritsia et Tiffany Brou, de Pengo Bossio Wangi, 26 ans, mort dans l'attentat raciste de Trappes, témoignent de leur sidération et de leur crainte de voir le racisme monter en France.",
+      "source": "BFMTV",
+      "feed_rank": 5,
+      "url": "https://www.bfmtv.com/societe/j-ai-senti-les-francais-unis-les-s-urs-de-pengo-bossio-wangi-tue-dans-l-attentat-raciste-de-trappes-temoignent_AN-202611220464.html",
+      "published_at": "2026-11-22T22:48:01+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « \"J’ai senti les Français unis\": les sœurs de Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes, témoignent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "d5ab4b4120de",
+      "title": "Sublime en Louis Vuitton, Cate Blanchett illumine les Champs-Elysées en majesté",
+      "summary": "EN IMAGES. L'actrice Cate Blanchett a donné le coup d'envoi des illuminations des Champs-Elysées, avant un concert du groupe Feu ! Chatterton.",
+      "source": "Paris Match",
+      "feed_rank": 1,
+      "url": "https://www.parismatch.com/sublime-en-louis-vuitton-cate-blanchett-illumine-champs-elysees-en-majeste-2oyDVl5B79prSeoF9ctXQx",
+      "published_at": "2026-11-22T22:47:34+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Sublime en Louis Vuitton, Cate Blanchett illumine les Champs-Elysées en majesté ».",
+      "coverage_sources": [
+        "Paris Match"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "13009594803e",
+      "title": "A Angers, militants identitaires et antifascistes se toisent en marge d’un rassemblement interdit contre le « racisme anti-Blancs »",
+      "summary": "L’agression de trois étudiants, le 2 octobre sur la terrasse d’un bar à Angers, a mobilisé, dimanche, 200 activistes de l’ultradroite identitaire.",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html",
+      "published_at": "2026-11-22T22:42:42+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « A Angers, militants identitaires et antifascistes se toisent en marge d’un rassemblement interdit contre le « racisme anti-Blancs » ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1de8ef90ccaf",
+      "title": "Retrait de la candidature de François Ruffin à l'élection présidentielle: \"Il a été extrêmement responsable\", déclare Léa Balage El Mariky, députée Les Écologistes",
+      "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.",
+      "source": "BFMTV",
+      "feed_rank": 7,
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-retrait-de-la-candidature-de-francois-ruffin-a-l-election-presidentielle-il-a-ete-extremement-responsable-declare-lea-balage-el-mariky-deputee-les-ecologistes_VN-202611220460.html",
+      "published_at": "2026-11-22T22:41:42+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Retrait de la candidature de François Ruffin à l'élection présidentielle: \"Il a été extrêmement responsable\", déclare Léa Balage El Mariky, députée Le ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 5
+    },
+    {
+      "id": "3c8559951e94",
+      "title": "Au Maroc, un artiste français transforme ses souvenirs en sculptures géantes",
+      "summary": "À proximité de Marrakech, le parc Ramakech expose sur onze hectares les œuvres insolites de l’artiste français Jean-François Fourtou, inspirées de ses souvenirs d’enfance. Maison renversée, mobilier géant et personnages à tête de légumes composent ce parcours sculptural ouvert aux visiteurs.",
       "source": "Euronews",
       "feed_rank": 1,
       "url": "https://fr.euronews.com/video/2026/11/22/au-maroc-un-parc-de-sculptures-surrealistes-fait-basculer-le-monde",
       "published_at": "2026-11-22T22:35:54+00:00",
       "category": "Culture",
-      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Au Maroc, un parc de sculptures surréalistes fait basculer le monde » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Au Maroc, un artiste français transforme ses souvenirs en sculptures géantes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Euronews"
       ],
@@ -579,7 +723,7 @@
       "title": "Nigeria: des dizaines de Peuls tués dans des représailles après une attaque de «bandits»",
       "summary": "Au moins 35 Peuls ont été tués dans des attaques de représailles dans le centre-ouest du Nigeria, après un raid mené samedi par des « bandits » présumés qui avait fait 11 morts, selon un rapport de sécurité et des sources locales citées par l'AFP. Le bilan définitif devrait plus que doubler et des tueries sont toujours en cours, selon les mêmes sources.",
       "source": "RFI",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.rfi.fr/fr/afrique/20261122-nigeria-des-dizaines-de-peuls-tu%C3%A9s-dans-des-repr%C3%A9sailles-apr%C3%A8s-une-attaque-de-bandits",
       "published_at": "2026-11-22T22:16:04+00:00",
       "category": "Société",
@@ -595,7 +739,7 @@
       "title": "Primaire de la droite et du centre: sans Édouard Philippe, \"ça n'aurait pas de sens\", estime Hervé Morin, président de la région Normandie",
       "summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte de l'impasse\" de sa candidature pour 2027 et se retirer de la course à l'Élysée.",
       "source": "BFMTV",
-      "feed_rank": 2,
+      "feed_rank": 11,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-de-la-droite-et-du-centre-sans-edouard-philippe-ca-n-aurait-pas-de-sens-estime-herve-morin-president-de-la-region-normandie_VN-202611220454.html",
       "published_at": "2026-11-22T22:14:36+00:00",
       "category": "Politique",
@@ -611,7 +755,7 @@
       "title": "Fonctionnaires : faut-il « sabrer » dans les dépenses ? - 22/11",
       "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 12,
       "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-fonctionnaires-faut-il-sabrer-dans-les-depenses-22-11_VN-202611220453.html",
       "published_at": "2026-11-22T22:10:22+00:00",
       "category": "Société",
@@ -822,7 +966,7 @@
       "title": "\"C'est de l'ordre de l'évidence\": après son retrait de la course à l'Élysée, François Ruffin souhaite \"bon courage\" aux candidats de gauche",
       "summary": "Au lendemain du retrait de sa candidature de la campagne présidentielle, François Ruffin se confie à BFMTV. Pour l'heure il ne soutient personne, mais espère que \"les faits électoraux\" mèneront Jean-Luc Mélenchon \"à la victoire\".",
       "source": "BFMTV",
-      "feed_rank": 6,
+      "feed_rank": 15,
       "url": "https://www.bfmtv.com/politique/elections/presidentielle/c-est-de-l-ordre-de-l-evidence-apres-son-retrait-de-la-course-a-l-elysee-francois-ruffin-souhaite-bon-courage-aux-candidats-de-gauche_AN-202611220444.html",
       "published_at": "2026-11-22T21:39:45+00:00",
       "category": "Politique",
@@ -854,7 +998,7 @@
       "title": "6% des Français sont encore préoccupés par la guerre en Ukraine selon un sondage Ipsos",
       "summary": "6% des Français sont encore préoccupés par la guerre en Ukraine selon un sondage Ipsos. À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur. À gauche, l'ex-insoumis François Ruffin a déclaré prendre \"acte…",
       "source": "BFMTV",
-      "feed_rank": 7,
+      "feed_rank": 16,
       "url": "https://www.bfmtv.com/societe/video-6-des-francais-sont-encore-preoccupes-par-la-guerre-en-ukraine-selon-un-sondage-ipsos_VN-202611220442.html",
       "published_at": "2026-11-22T21:33:26+00:00",
       "category": "Politique",
@@ -870,7 +1014,7 @@
       "title": "Sur ses réseaux sociaux, Donald Trump publie une photo de Vladimir Poutine avec comme légende \"mon ami\"",
       "summary": "Sur ses réseaux sociaux, Donald Trump publie une photo de Vladimir Poutine avec comme légende \"mon ami\"",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 17,
       "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-sur-ses-reseaux-sociaux-donald-trump-publie-une-photo-de-vladimir-poutine-avec-comme-legende-mon-ami_VN-202611220440.html",
       "published_at": "2026-11-22T21:30:17+00:00",
       "category": "Médias & communication",
@@ -910,6 +1054,22 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Immigration clandestine : comment fonctionne la surveillance par drone, une méthode «extrêmement précieuse» pour les autorités ? ».",
       "coverage_sources": [
         "CNews"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6384986bfae7",
+      "title": "Emmanuel Macron \"n'a pas aimé la France et les Français\", estime Didier Barbelivien, auteur, compositeur, et interprète",
+      "summary": "Didier Barbelivien, auteur, compositeur, et interprète, était l'invité de BFMTV ce 22 novembre",
+      "source": "BFMTV",
+      "feed_rank": 18,
+      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-emmanuel-macron-n-a-pas-aime-la-france-et-les-francais-estime-didier-barbelivien-auteur-compositeur-et-interprete_VN-202611220438.html",
+      "published_at": "2026-11-22T21:27:23+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Emmanuel Macron \"n'a pas aimé la France et les Français\", estime Didier Barbelivien, auteur, compositeur, et interprète » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "BFMTV"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1012,24 +1172,6 @@
       "mention_count": 1
     },
     {
-      "id": "01a0584525a8",
-      "title": "Libye : deux navires attaqués par des drones maritimes, dont un bateau russe",
-      "summary": "Un incendie s'est déclaré dimanche après une explosion à bord d'un navire russe dans la base navale de Benghazi, en Libye. Le ministère de la Santé des autorités de l'Est a indiqué que le bateau avait été \"ciblé par des drones maritimes\". Dans la soirée, un deuxième bateau, dont le pavillon n'a pas été communiqué, a été attaqué dans le même port.",
-      "source": "France 24",
-      "feed_rank": 2,
-      "url": "https://www.france24.com/fr/afrique/20261122-libye-drones-maritimes-attaqu%C3%A9-deux-navires-bateau-russe-guerre",
-      "published_at": "2026-11-22T21:05:53+00:00",
-      "category": "Société",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « Libye : deux navires attaqués par des drones maritimes, dont un bateau russe ».",
-      "coverage_sources": [
-        "Le Monde",
-        "France 24",
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 3,
-      "mention_count": 3
-    },
-    {
       "id": "4f8e8f4fafc9",
       "title": "Présidentielle 2027 : « Route Nationale » avec Bruno Retailleau",
       "summary": "Ce dimanche 22 novembre, le 20H de TF1 propose un nouveau numéro de « Route Nationale ». Anne-Claire Coudray prend la route avec Bruno Retailleau, candidat Les Républicains à l'élection présidentielle. Dans les Yvelines et le Val-d'Oise, il part à la rencontre des Français qui en ont parfois gros sur le cœur. Sur le chemin, Bruno Retailleau revient sur…",
@@ -1050,7 +1192,7 @@
       "title": "\"Je suis profondément honorée d'être ici\": Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées",
       "summary": "Ce dimanche 22 novembre, Cate Blanchett a inauguré les illuminations de Noël sur les Champs-Élysées. Cette année signe aussi le retour du marché de Noël en bas de l'avenue, près de la place de la Concorde.",
       "source": "BFMTV",
-      "feed_rank": 12,
+      "feed_rank": 21,
       "url": "https://www.bfmtv.com/culture/video-je-suis-profondement-honoree-d-etre-ici-cate-blanchett-a-inaugure-les-illuminations-de-noel-sur-les-champs-elysees_VN-202611220431.html",
       "published_at": "2026-11-22T21:03:40+00:00",
       "category": "Politique",
@@ -1076,7 +1218,7 @@
         "Sud Ouest"
       ],
       "coverage_count": 2,
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "946def843634",
@@ -1194,22 +1336,6 @@
       "mention_count": 1
     },
     {
-      "id": "33f3d854ee50",
-      "title": "François Ruffin : \"Je sais le risque qui est devant nous\" - 22/11",
-      "summary": "Chaque week-end, Léopold Audebert vous accompagne de 21h à 00h dans BFM Grand Soir.",
-      "source": "BFMTV",
-      "feed_rank": 15,
-      "url": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-francois-ruffin-je-sais-le-risque-qui-est-devant-nous-22-11_VN-202611220432.html",
-      "published_at": "2026-11-22T20:48:23+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « François Ruffin : \"Je sais le risque qui est devant nous\" - 22/11 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "0d2946f889f8",
       "title": "VIDÉO. « Arrêtez un peu, protégez les joueurs » : Pablo Pagis s’en prend aux arbitres après des tacles à répétition",
       "summary": "Lassé de subir des tacles à répétition, Pablo Pagis a haussé le ton envers les arbitres lors de Paris FC - Angers, ce dimanche 22 novembre 2026. Il les a notamment appelé à « protéger les joueurs ».",
@@ -1272,22 +1398,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "7af43ca2ba35",
-      "title": "\"Je n'ai pas d'adversaires à gauche, j'ai un adversaire, c'est Marine Le Pen\", affirme François Ruffin, ancien candidat à l'élection présidentielle",
-      "summary": "Dans son communiqué publié ce samedi 21 novembre, le député ex-insoumis n'apporte son soutien à aucun candidat et souhaite \"bon courage et bonne campagne\" aux \"candidats de gauche encore en lice\", sans les citer.",
-      "source": "BFMTV",
-      "feed_rank": 19,
-      "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-n-ai-pas-d-adversaires-a-gauche-j-ai-un-adversaire-c-est-marine-le-pen-affirme-francois-ruffin-ancien-candidat-a-l-election-presidentielle_VN-202611220418.html",
-      "published_at": "2026-11-22T20:34:08+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « \"Je n'ai pas d'adversaires à gauche, j'ai un adversaire, c'est Marine Le Pen\", affirme François Ruffin, ancien candidat à l'élection présidentielle ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 6
     },
     {
       "id": "969348964f51",
@@ -1519,22 +1629,6 @@
       "mention_count": 1
     },
     {
-      "id": "0c6f4f95a3c4",
-      "title": "Y a-t-il un lien entre le problème de dents de Désiré Doué et sa rupture du ligament croisé du genou?",
-      "summary": "Quelques minutes après avoir marqué le deuxième but parisien hier face à Nice, Désiré Doué s’est rompu le ligament croisé antérieur du genou droit. Une blessure qui intervient dix jours après sa luxation dentaire lors du match face à l’Italie avec les Bleus. Des spécialistes contactés par RMC Sport nous éclairent sur un éventuel lien entre ces deux…",
-      "source": "BFMTV",
-      "feed_rank": 22,
-      "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/y-a-t-il-un-lien-entre-la-luxation-dentaire-de-desire-doue-et-sa-rupture-du-ligament-croise-du-genou_AV-202611220413.html",
-      "published_at": "2026-11-22T20:10:05+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Y a-t-il un lien entre le problème de dents de Désiré Doué et sa rupture du ligament croisé du genou? ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "28094f797d03",
       "title": "Montélimar. « Ils ont entendu des cris de singe » : le FCM regrette des provocations racistes lors d’un match de football",
       "summary": "Alors que le Football club Montélimar (FCM) recevait l’USVO Grenoble, samedi 21 novembre, au stade Bagatelle, des joueurs isérois auraient été les cibles de provocations à caractère raciste. Des actes que « condamne fermement » le club de quartier, attaché aux valeurs de respect, de tolérance et de vivre-ensemble.",
@@ -1683,7 +1777,7 @@
       "title": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
       "summary": "La manifestation a été organisée à l’appel du principal parti d’opposition de Turquie, le Yeni Parti (« Nouveau Parti »), après que la chaîne d’opposition Sözcü TV a vu ses bureaux perquisitionnés, mardi, plusieurs de ses dirigeants arrêtés, et un administrateur nommé à sa tête par le gouvernement.",
       "source": "Le Monde",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
       "published_at": "2026-11-22T19:58:35+00:00",
       "category": "Médias & communication",
@@ -1737,11 +1831,10 @@
       "category": "Politique",
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « L'antisémitisme ne doit pas devenir un «thème de bataille électorale», prévient Laurent Nuñez » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
-        "BFMTV",
         "CNews"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "76aea7bcba18",
@@ -1860,22 +1953,6 @@
       "mention_count": 2
     },
     {
-      "id": "8e6cc54d4a1e",
-      "title": "\"Les politiques ont perdu tout humour\", dénonce Didier Barbelivien, auteur, compositeur, et interprète",
-      "summary": "Didier Barbelivien, auteur, compositeur, et interprète, était l'invité de BFMTV ce dimanche 22 novembre",
-      "source": "BFMTV",
-      "feed_rank": 24,
-      "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-les-politiques-ont-perdu-tout-humour-denonce-didier-barbelivien-auteur-compositeur-et-interprete_VN-202611220411.html",
-      "published_at": "2026-11-22T19:43:54+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « \"Les politiques ont perdu tout humour\", dénonce Didier Barbelivien, auteur, compositeur, et interprète » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 2
-    },
-    {
       "id": "517c2739366a",
       "title": "Le JT de 20 heures de TF1 du dimanche 22 novembre 2026",
       "summary": "Retrouvez en replay l’émission « JT 20h WE » du dimanche 22 novembre 2026.",
@@ -1941,22 +2018,6 @@
       "mention_count": 1
     },
     {
-      "id": "cf28a6900ad6",
-      "title": "Les habitants de La Garnache ont tranché, le carillon de leur église continuera à sonner tous les quarts d'heure la nuit",
-      "summary": "Les habitants de cette commune de Vendée étaient appelés ce dimanche à dire s'ils souhaitaient ou non que le carillon de leur église arrête de sonner tous les quarts d'heure de 22h à 7h du matin. Le \"non\" l'a largement emporté.",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://www.bfmtv.com/societe/les-habitants-de-la-garnache-ont-tranche-le-carillon-de-leur-eglise-continuera-a-sonner-tous-les-quarts-d-heure-la-nuit_AN-202611220405.html",
-      "published_at": "2026-11-22T19:36:26+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les habitants de La Garnache ont tranché, le carillon de leur église continuera à sonner tous les quarts d'heure la nuit » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "99c778de0413",
       "title": "Russie. Déclarée morte mais bien vivante à la morgue : un médecin accusé de l’avoir tuée pour dissimuler son erreur",
       "summary": "En Russie, une femme de 73 ans a été déclarée morte avant d'être retrouvée bien vivante à la morgue. Un médecin réanimateur est aujourd'hui accusé de l'avoir finalement tuée, pour camoufler son erreur initiaile lorsqu'il avait - à tort - prononcé le décès.",
@@ -1990,6 +2051,25 @@
       "mention_count": 1
     },
     {
+      "id": "f3a16c25676d",
+      "title": "Est de la Libye: deux navires, dont un russe, attaqués près de Benghazi",
+      "summary": "Dans l’Est de la Libye les habitants de Benghazi ont été réveillés dimanche à l’aube par une forte explosion provenant du port. Au moins dix personnes, parmi lesquelles des ressortissants russes et libyens, ont été blessées, selon des sources médicales citées par l’agence Reuters, suite à l’attaque par drone d'un navire de guerre russe dans la base…",
+      "source": "RFI",
+      "feed_rank": 9,
+      "url": "https://www.rfi.fr/fr/afrique/20261122-libye-deux-navires-dont-un-russe-attaqu%C3%A9s-pr%C3%A8s-de-benghazi",
+      "published_at": "2026-11-22T19:32:31+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Est de la Libye: deux navires, dont un russe, attaqués près de Benghazi ».",
+      "coverage_sources": [
+        "Le Monde",
+        "France 24",
+        "RFI",
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 4,
+      "mention_count": 4
+    },
+    {
       "id": "14606b3a5407",
       "title": "Ukraine : la guerre gagne le nord de l'Europe",
       "summary": "Le conflit entre l’Ukraine et la Russie est-il en train de déborder sur le nord de l’Europe ? La Finlande a signalé une attaque contre un cargo russe en mer Baltique, avant de détecter la présence d’un hélicoptère russe sur son territoire. Ces dernières heures, l’enclave russe de Kaliningrad, située entre la Pologne et les États baltes, aurait également…",
@@ -2010,7 +2090,7 @@
       "title": "Au festival Entrevues, à Belfort, le docufiction « I Plant My Hand in the Garden » récompensé par le Grand Prix Janine Bazin",
       "summary": "La 41ᵉ édition, qui s’est achevée dimanche 22 novembre, a été marquée par de nombreux récits inventifs, autour de la migration.",
       "source": "Le Monde",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/culture/article/2026/11/22/au-festival-entrevues-a-belfort-le-docufiction-i-plant-my-hand-in-the-garden-recompense-par-le-grand-prix-janine-bazin_6814244_3246.html",
       "published_at": "2026-11-22T19:30:04+00:00",
       "category": "Économie",
@@ -2094,7 +2174,7 @@
       "title": "Isère. Une violente collision fait quatre blessés, dont un enfant de 12 ans, à Saint-Étienne-de-Crossey",
       "summary": "Trois adultes et un enfant de 12 ans ont été victimes d’un accident impliquant deux voitures, ce dimanche 22 novembre peu après 17 heures.",
       "source": "Le Dauphiné Libéré",
-      "feed_rank": 3,
+      "feed_rank": 2,
       "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/22/une-violente-collision-fait-quatre-blesses-dont-un-enfant-de-12-ans-a-saint-etienne-de-crossey",
       "published_at": "2026-11-22T19:26:00+00:00",
       "category": "Société",
@@ -2194,7 +2274,7 @@
       "title": "A la COP31, la communauté internationale s’est fracturée sur la sortie des énergies fossiles et le financement de l’adaptation",
       "summary": "Chris Bowen, président des négociations de la COP31 et ministre australien du changement climatique et de l’énergie (à gauche), le président de la COP31, Murat Kurum, et Simon Stiell, responsable du climat aux Nations unies, lors de la séance de clôture de la conférence des Nations unies sur le climat, à Antalya, en Turquie, le 22 novembre 2026.",
       "source": "Le Monde",
-      "feed_rank": 2,
+      "feed_rank": 1,
       "url": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
       "published_at": "2026-11-22T19:08:00+00:00",
       "category": "Environnement",
@@ -2290,7 +2370,7 @@
       "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
       "summary": "Devant le dérapage des finances publiques et de l’endettement, le chef de l’Etat évoque l’idée d’une mesure contraignante dans la Constitution. Le Rassemblement national, favorable au principe, devrait jouer les arbitres sur les modalités.",
       "source": "Le Monde",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
       "published_at": "2026-11-22T18:53:29+00:00",
       "category": "Société",
@@ -2322,7 +2402,7 @@
       "title": "« J’ai eu envie de partir mais je savais qu’il me retrouverait » : le témoignage de Jennifer, victime de violences par son ex-mari polygame",
       "summary": "Pendant 20 ans, Jennifer a subi les violences physiques, psychologiques et les viols de son ex-mari, Jérôme P., qui avait également imposé d'accueillir ses deux autres compagnes dans le foyer. Ce dimanche 22 novembre, la victime témoigne face caméra, dans l'émission Sept à huit.",
       "source": "Paris Match",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.parismatch.com/jai-eu-envie-partir-mais-je-savais-quil-me-retrouverait-temoignage-jennifer-victime-violences-par-son-ex-mari-polygame-3OXqukAm27gExHkDr5x6Ny",
       "published_at": "2026-11-22T18:47:44+00:00",
       "category": "Société",
@@ -2338,7 +2418,7 @@
       "title": "Intelligence artificielle: les fabricants de serveurs augmentent les prix jusqu'à 45%",
       "summary": "L'intelligence artificielle est de plus en plus chère à produire. En cause : le coût des infrastructures nécessaires à son développement, en particulier celui des serveurs. Avec l'explosion de la demande, leurs composants sont de plus en plus difficiles à obtenir et les prix augmentent mécaniquement.",
       "source": "RFI",
-      "feed_rank": 19,
+      "feed_rank": 21,
       "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261122-intelligence-artificielle-les-fabricants-de-serveurs-augmentent-les-prix-jusqu-%C3%A0-45",
       "published_at": "2026-11-22T18:46:09+00:00",
       "category": "Économie",
@@ -2403,7 +2483,7 @@
       "title": "États-Unis: l'ICE à nouveau sous le feu des critiques après une arrestation musclée à Seattle",
       "summary": "Aux États-Unis, la police de l’immigration continue de faire polémique entre les opérations musclées et les rapports révélant des failles de gestion au sein de l’agence fédérale. Ce week-end, les agents de l’ICE sont vivement critiqués pour des arrestations à l’aéroport de Seattle. Le gouverneur de Washington parle d’une police « hors de contrôle ».",
       "source": "RFI",
-      "feed_rank": 17,
+      "feed_rank": 19,
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261122-%C3%A9tats-unis-l-ice-%C3%A0-nouveau-sous-le-feu-des-critiques-apr%C3%A8s-une-arrestation-muscl%C3%A9e-%C3%A0-seattle",
       "published_at": "2026-11-22T18:42:32+00:00",
       "category": "Société",
@@ -2419,7 +2499,7 @@
       "title": "Choose France : 273 projets industriels seront présentés lors de ce sommet dévolu aux entreprises tricolores",
       "summary": "Cette édition, réservée aux entreprises françaises qui investissent dans le pays, décompte 14,9 milliards d’euros d’investissements nouveaux, soit 81 projets inédits, notamment dans les secteurs de la santé, de la cosmétique, ou des biocarburants.",
       "source": "Le Monde",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html",
       "published_at": "2026-11-22T18:42:12+00:00",
       "category": "Économie",
@@ -2472,7 +2552,7 @@
       "title": "Orient Express Corinthian : Et vogue le palace !",
       "summary": "Après le rail, l’océan. Orient Express a lancé le « Corinthian », le plus luxueux des voiliers. Nous avons embarqué pour sa première croisière transatlantique.",
       "source": "Paris Match",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.parismatch.com/orient-express-corinthian-vogue-palace-4z1tUVvRz5oANUm5KE1eqB",
       "published_at": "2026-11-22T18:39:49+00:00",
       "category": "Société",
@@ -2488,7 +2568,7 @@
       "title": "Découvrez la bibliothèque de FOG",
       "summary": "Avec « Histoire intime de mes chefs-d’œuvre préférés », Franz-Olivier Giesbert raconte les ouvrages qui l’ont construit. Passionnant.",
       "source": "Paris Match",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.parismatch.com/decouvrez-bibliotheque-fog-1l4IghjEsv9nEzbRJtF2dM",
       "published_at": "2026-11-22T18:39:13+00:00",
       "category": "Société",
@@ -2536,7 +2616,7 @@
       "title": "EN DIRECT - Présidentielle 2027 : David Lisnard assure qu’il ne gouvernera pas avec le RN et qu’il n’a pas «voulu devenir ministre macroniste»",
       "summary": "Le maire de Cannes dit combattre «depuis toujours le social-étatisme», dont Marine Le Pen serait, selon lui, «une version».",
       "source": "Le Figaro",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes-20261122",
       "published_at": "2026-11-22T18:33:03+00:00",
       "category": "Politique",
@@ -2632,7 +2712,7 @@
       "title": "« Une bonne âme » : En Guadeloupe, le choc après le meurtre par arme à feu d’un père de famille",
       "summary": "Père de deux petites filles, Alexis Gabriele a été \"abattu par balles\" dans sa voiture, très tôt samedi matin, alors qu’il allait faire son jogging. Deux suspects ont été interpellés, selon une source policière.",
       "source": "Paris Match",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.parismatch.com/bonne-ame-en-guadeloupe-choc-apres-meurtre-par-arme-feu-dun-pere-famille-2yKbdpHZXd9OJWwPOgow2q",
       "published_at": "2026-11-22T18:28:52+00:00",
       "category": "Société",
@@ -2653,6 +2733,22 @@
       "published_at": "2026-11-22T18:28:49+00:00",
       "category": "Société",
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Mexique : quatre policiers et sept criminels tués lors de l’arrestation de « Chapo Isidro, baron de la drogue recherchés par le FBI ».",
+      "coverage_sources": [
+        "Sud Ouest"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "3b2abcf4686d",
+      "title": "Pluie et vent violent : la Corse, l’Ain, le Jura et le Pas de Calais en vigilance orange ce lundi",
+      "summary": "Des vents violents et de fortes pluies sont attendus ce lundi du sud au nord de la France, tandis que certaines régions restent inondées",
+      "source": "Sud Ouest",
+      "feed_rank": 8,
+      "url": "https://www.sudouest.fr/environnement/meteo/pluie-et-vent-violent-la-corse-l-ain-le-jura-et-le-pas-de-calais-en-vigilance-orange-ce-lundi-31614807.php",
+      "published_at": "2026-11-22T18:26:04+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Pluie et vent violent : la Corse, l’Ain, le Jura et le Pas de Calais en vigilance orange ce lundi » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Sud Ouest"
       ],
@@ -2907,7 +3003,7 @@
       "title": "Ce que le numérique fait à notre santé : de l'addiction aux réseaux sociaux aux nouvelles menaces de l'IA",
       "summary": "Comment le numérique et l'intelligence artificielle transforment-ils notre santé ? Le médecin Damien Mascré, la pédiatre Sylvie Dieu-Ozika, l'ophtalmologue Esther Blumen et le psychologue Émeric Languerand débattent des opportunités et des risques de ces technologies.",
       "source": "France Culture",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/classe-creative-le-manager-de-la-semaine/classe-creative-managers-d-aujourd-hui-du-dimanche-22-novembre-2026-8246266",
       "published_at": "2026-11-22T18:12:00+00:00",
       "category": "Médias & communication",
@@ -2917,23 +3013,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "91b693ee7428",
-      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations",
-      "summary": "Des pointes jusqu’à 170 km/h seront possibles dans la péninsule du Cap-Corse, lundi, alors que des cumuls de pluie exceptionnels sont attendus sur le Haut-Jura et les plateaux, dimanche. Dans le Pas-de-Calais, la vigilance orange est maintenue pour la Canche.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/climat/article/2026/11/22/la-corse-placee-en-vigilance-orange-pour-des-vents-violents-a-partir-de-lundi-l-ain-et-le-jura-touches-par-de-fortes-pluies-et-face-a-des-risques-d-inondations_6814193_1652613.html",
-      "published_at": "2026-11-22T18:09:17+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’ » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde",
-        "Sud Ouest"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     },
     {
       "id": "a97d56449dc4",
@@ -2972,7 +3051,7 @@
       "title": "Soudan: frappes de drones à Khartoum sur des habitations et un bâtiment de l'ONU",
       "summary": "Khartoum, la capitale soudanaise, a été frappée dimanche 22 novembre avant l’aube par de violentes attaques de drones. Aucun bilan disponible mais plusieurs bâtiments ont été touchés. Plus de trois ans et demi maintenant que le pays est ravagé par la guerre qui oppose les forces loyalistes du général Al-Burhan aux paramilitaires conduits par son rival,…",
       "source": "RFI",
-      "feed_rank": 12,
+      "feed_rank": 14,
       "url": "https://www.rfi.fr/fr/afrique/20261122-soudan-frappes-de-drones-%C3%A0-khartoum-sur-des-habitations-et-un-b%C3%A2timent-de-l-onu",
       "published_at": "2026-11-22T18:04:10+00:00",
       "category": "International",
@@ -3244,7 +3323,7 @@
       "title": "L'influence par la norme. Olivier Peyrat, P-DG de l'AFNOR.",
       "summary": "Comment les normes internationales façonnent-elles le monde ? Olivier Peyrat, directeur général du groupe AFNOR, détaille le rôle de cette organisation dans l'interopérabilité mondiale.",
       "source": "France Culture",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nouveaux-influenceurs/les-nouveaux-influenceurs-chronique-du-dimanche-22-novembre-2026-5379500",
       "published_at": "2026-11-22T17:50:00+00:00",
       "category": "International",
@@ -3276,7 +3355,7 @@
       "title": "Pierre Perret : « On aurait pu penser que Macron allait montrer qu'il était là sur l'éducation… mais non »",
       "summary": "Pierre Perret estime, dans un grand entretien à Paris Match, que le président de la République n'a pas été à la hauteur des enjeux en matière d'éducation lors de ses deux quinquennats.",
       "source": "Paris Match",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.parismatch.com/pierre-perret-on-aurait-pu-penser-que-macron-allait-montrer-quil-etait-sur-leducation-mais-non-342AwWZBLDZB0VXmOUVP4x",
       "published_at": "2026-11-22T17:48:50+00:00",
       "category": "Politique",
@@ -3564,7 +3643,7 @@
       "title": "L’Angola veut acquérir 10% du géant du diamant De Beers",
       "summary": "L'Angola veut entrer au capital du géant du diamant De Beers et acquérir 10 %. Pour cela, il est prêt à débourser une grosse somme, 180 millions d'euros. Une décision qui peut paraître surprenante alors que le marché du diamant rencontre des difficultés. Cependant, le pays a l'ambition de devenir un des plus grands producteurs de diamants au monde d'ici…",
       "source": "RFI",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.rfi.fr/fr/afrique/20261122-l-angola-veut-acqu%C3%A9rir-10-du-g%C3%A9ant-du-diamant-de-beers",
       "published_at": "2026-11-22T17:24:16+00:00",
       "category": "Économie",
@@ -3580,7 +3659,7 @@
       "title": "OM-Le Mans: scénario renversant au Vélodrome, fin de l'euphorie pour les Marseillais",
       "summary": "La 11e journée de Ligue 1 s'est conclue sur un scénario renversant ce dimanche. Après avoir mené 2-0 face au Mans, l'OM s'est littéralement sabordé et s'incline 2-3 face au promu sarthois dans les ultimes secondes de la rencontre. Si les hommes de Bruno Genesio peuvent nourrir des regrets, les joueurs de Patrick Videira ont fait une très belle impression…",
       "source": "BFMTV",
-      "feed_rank": 1,
+      "feed_rank": 9,
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-om-le-mans-marseille-vise-le-podium-suivez-le-dernier-match-de-la-11e-journee-de-ligue-1-en-live_LS-202611220354.html",
       "published_at": "2026-11-22T17:18:04+00:00",
       "category": "Sport",
@@ -3628,7 +3707,7 @@
       "title": "La grande détérioration des hôtels ACCOR",
       "summary": "Alors que le P-DG du groupe hôtelier ACCOR pourrait être sur le départ, Frédéric Martel revient sur la dégradation de l'expérience client dans les hôtels.",
       "source": "France Culture",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/regulations-numeriques/regulations-numeriques-chronique-du-dimanche-22-novembre-2026-4776156",
       "published_at": "2026-11-22T17:14:00+00:00",
       "category": "Société",
@@ -3660,7 +3739,7 @@
       "title": "Mauritanie: saisie record de 1,7 tonne de cocaïne dans l'est du pays",
       "summary": "La police mauritanienne a réalisé récemment une saisie record de 1,7 tonne de cocaïne dans l'est du pays, lors d'une opération qui a permis l'arrestation de deux étrangers, selon un communiqué publié sur ses réseaux sociaux.",
       "source": "RFI",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.rfi.fr/fr/afrique/20261122-mauritanie-saisie-record-de-1-7-tonne-de-coca%C3%AFne-dans-l-est-du-pays",
       "published_at": "2026-11-22T17:12:45+00:00",
       "category": "Médias & communication",
@@ -3708,7 +3787,7 @@
       "title": "Ce que le numérique fait à notre santé / À quoi servent les normes ?",
       "summary": "Trois spécialistes de la santé se réunissent pour évoquer les effets du numérique sur les corps et les esprits.",
       "source": "France Culture",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/soft-power/ce-que-le-numerique-fait-a-notre-sante-a-quoi-servent-les-normes-3806365",
       "published_at": "2026-11-22T17:10:00+00:00",
       "category": "Société",
@@ -3788,7 +3867,7 @@
       "title": "Leclerc, Hamilton, Vasseur… les 3 décisions à prendre pour que Ferrari retrouve les sommets de la Formule 1 en 2027",
       "summary": "BILLET – À Las Vegas, Ferrari a une nouvelle fois étalé ses faiblesses et ses errements. Entre rivalité des pilotes, manque de performance et erreurs stratégiques, la Scuderia doit faire sa révolution pour espérer rebondir.",
       "source": "Paris Match",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.parismatch.com/leclerc-hamilton-vasseur-trois-decisions-prendre-pour-que-ferrari-retrouve-sommets-formule-1-en-2027-5osJmuAocBlpkx7qxah8vG",
       "published_at": "2026-11-22T17:02:44+00:00",
       "category": "Sport",
@@ -3820,7 +3899,7 @@
       "title": "Football: rupture du ligament du genou pour Désiré Doué, le PSG devra s'activer pendant le mercato",
       "summary": "Le Paris Saint-Germain a confirmé dimanche 22 novembre la gravité de la blessure de son attaquant Désiré Doué, sorti sur civière lors du match contre Nice samedi. Victime d'une rupture du ligament du genou droit, il sera indisponible plusieurs mois et va obliger le club parisien à recruter en urgence lors du mercato hivernal. L'équipe de France devrait…",
       "source": "RFI",
-      "feed_rank": 9,
+      "feed_rank": 12,
       "url": "https://www.rfi.fr/fr/sports/20261122-football-rupture-du-ligament-pour-d%C3%A9sir%C3%A9-dou%C3%A9-le-psg-devra-s-activer-pendant-le-mercato",
       "published_at": "2026-11-22T17:00:38+00:00",
       "category": "Sport",
@@ -3852,7 +3931,7 @@
       "title": "En Martinique, tous les chemins mènent au rhum",
       "summary": "En obtenant son appellation d’origine contrôlée il y a trente ans, le rhum produit sur l’île antillaise a fait du passage dans les distilleries une étape incontournable pour les touristes. Un engouement qui profite à tous les établissements, des plus connus aux plus confidentiels.",
       "source": "Le Monde",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.lemonde.fr/m-styles/article/2026/11/22/en-martinique-tous-les-chemins-menent-au-rhum_6814232_4497319.html",
       "published_at": "2026-11-22T17:00:11+00:00",
       "category": "Société",
@@ -3948,7 +4027,7 @@
       "title": "La COP31 subit un échec historique, le tandem Turquie-Australie critiqué",
       "summary": "Pas d'accord entre les différentes parties à la COP31, une première depuis 2009. Nous reviendrons sur la position de l'Europe, la première à enterrer le texte... Sans lui avoir donné toutes les chances de réussite.",
       "source": "France Culture",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-dimanche-22-novembre-2026-6901000",
       "published_at": "2026-11-22T17:00:00+00:00",
       "category": "International",
@@ -4236,7 +4315,7 @@
       "title": "Lauriane Miara: « La poésie peut nous transposer dans un avenir plus désirable ».",
       "summary": "FIFAV 2026. L’illustratrice Lauriane Miara peint les montagnes alpines et les grands espaces froids avec passion. Le festival lui a consacré une exposition qui reprend les aquarelles de son dernier livre, \"Groenland, échos arctiques\". Rencontre avec l'auteur.",
       "source": "Paris Match",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.parismatch.com/lauriane-miara-poesie-peut-nous-transposer-dans-avenir-plus-desirable-LNSfUIjgsvU1znCl7hlwV",
       "published_at": "2026-11-22T16:40:20+00:00",
       "category": "Sciences & tech",
@@ -4397,7 +4476,7 @@
       "title": "EXCLUSIF. Sacs mortuaires, chambres blindées, multiples issues de secours : plongée dans l'un des bunkers les mieux protégés de l'État",
       "summary": "À l'occasion de la sortie du film « Jupiter », Paris Match vous propose de plonger dans l'un des bunkers les mieux protégés de la République : celui enfoui sous le ministère de l'Économie et des Finances.",
       "source": "Paris Match",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.parismatch.com/exclusif-sacs-mortuaires-chambres-blindees-multiples-issues-secours-plongee-dans-lun-bunkers-mieux-proteges-letat-7qC8u8Qk3vEGfAuVTbWWco",
       "published_at": "2026-11-22T16:34:12+00:00",
       "category": "Économie",
@@ -4814,7 +4893,7 @@
       "title": "Bangladesh: la filière textile estime à 428 millions de dollars le coût des grèves pour les salaires",
       "summary": "La mobilisation des ouvriers du textile du Bangladesh pour obtenir de meilleurs salaires a déjà coûté au moins 428 millions de dollars (environ 390 millions d'euros) à la filière, a déclaré dimanche 22 novembre la principale association patronale du secteur, en appelant à un retour à la normale.",
       "source": "RFI",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.rfi.fr/fr/asie-pacifique/20261122-bangladesh-la-fili%C3%A8re-textile-estime-%C3%A0-428-millions-de-dollars-le-co%C3%BBt-des-gr%C3%A8ves-pour-les-salaires",
       "published_at": "2026-11-22T16:04:13+00:00",
       "category": "Économie",
@@ -4958,7 +5037,7 @@
       "title": "Aux Etats-Unis, Melat Kiros, 29 ans, démocrate, socialiste et première femme de la génération Z à entrer au Congrès",
       "summary": "Née en Ethiopie et élue à la Chambre des représentants lors des midterms dans le Colorado, cette ex-avocate incarne une jeune génération de parlementaires qui renouvellent aussi bien la forme que le fond de leurs messages.",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-melat-kiros-29-ans-democrate-socialiste-et-premiere-femme-de-la-generation-z-a-entrer-au-congres_6814225_3210.html",
       "published_at": "2026-11-22T16:00:02+00:00",
       "category": "International",
@@ -5006,7 +5085,7 @@
       "title": "Louise Weber, dite La Goulue (1866-1929), du cancan et des fauves",
       "summary": "Au-delà de la mythique affiche de Toulouse-Lautrec représentant La Goulue dansant au Moulin Rouge, que sait-on de cette artiste dont la vie riche en rebondissements ne se cantonna pas au cancan ? Retour sur son parcours, entre bals et fêtes foraines.",
       "source": "France Culture",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/louise-weber-dite-la-goulue-1866-1929-du-cancan-et-des-fauves-2826254",
       "published_at": "2026-11-22T16:00:00+00:00",
       "category": "Culture",
@@ -5270,86 +5349,6 @@
       "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Moins de Wi-Fi, plus de liberté : B&YOU propose 100 Go à 13,99 € ».",
       "coverage_sources": [
         "Futura"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "3749d689177d",
-      "title": "Justice. Affaire Moutouh-RN : un mail au cœur des soupçons, Marine Le Pen nie avoir reçu des informations confidentielles",
-      "summary": "Marine Le Pen s’est défendue ce dimanche d’avoir reçu des informations confidentielles de la part d’un haut fonctionnaire du ministère de l’intérieur, au centre d’une enquête pour fuite de documents au profit du RN.",
-      "source": "Le Dauphiné Libéré",
-      "feed_rank": 10,
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/22/fuites-a-beauvau-un-mail-decouvert-chez-frederic-chatillon-proche-de-marine-le-pen-a-l-origine-de-l-enquete",
-      "published_at": "2026-11-22T15:40:00+00:00",
-      "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Justice. Affaire Moutouh-RN : un mail au cœur des soupçons, Marine Le Pen nie avoir reçu des informations confidentielles ».",
-      "coverage_sources": [
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "0633a4b6867d",
-      "title": "Marion Cotillard, Gilles Lellouche, Tilda Swinton... à Marrakech, les stars face au frère de Mohammed VI",
-      "summary": "Alors que le Festival du film de Marrakech vient de s'ouvrir, la présidente et son jury ont pu saluer le Moulay Rachid, venu les accueillir au nom de son frère.",
-      "source": "Paris Match",
-      "feed_rank": 10,
-      "url": "https://www.parismatch.com/marion-cotillard-gilles-lellouche-tilda-swinton-marrakech-stars-face-frere-mohammed-vi-3cgKDkkyjKtyVlJ0A2H2x8",
-      "published_at": "2026-11-22T15:39:14+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Marion Cotillard, Gilles Lellouche, Tilda Swinton... à Marrakech, les stars face au frère de Mohammed VI ».",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "7add674d29a2",
-      "title": "«C’est pour avoir du buzz?»: la candidature de Teddy Riner laisse les primo-votants perplexes",
-      "summary": "«Mediapart» suit chaque mois sept jeunes de Seine-et-Marne en âge de voter pour la première fois à une présidentielle. Dans ce deuxième épisode, l’irruption du judoka dans la course électorale, les blocages des lycées et le spectre de l’attentat de Trappes.",
-      "source": "Mediapart",
-      "feed_rank": 4,
-      "url": "https://www.mediapart.fr/journal/politique/221126/c-est-pour-avoir-du-buzz-la-candidature-de-teddy-riner-laisse-les-primo-votants-perplexes",
-      "published_at": "2026-11-22T15:36:18+00:00",
-      "category": "Société",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « «C’est pour avoir du buzz?»: la candidature de Teddy Riner laisse les primo-votants perplexes ».",
-      "coverage_sources": [
-        "Mediapart"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "65649e547a48",
-      "title": "Abigail Disney, l’héritière qui veut taxer les grandes fortunes : «Les ultrariches sont convaincus que seuls les imbéciles paient des impôts»",
-      "summary": "Elle compte parmi les héritiers d’un empire hollywoodien, mais elle est aussi membre d’un mouvement pour la taxation des grandes fortunes. La petite-nièce de Walt Disney explique son engagement pour dépasser la philanthropie.",
-      "source": "Libération",
-      "feed_rank": 18,
-      "url": "https://www.liberation.fr/economie/abigail-disney-heritiere-les-ultrariches-sont-convaincus-que-seuls-les-imbeciles-paient-des-impots-20261122_X7TXCNR3PNG4DPZVOVM4GDA6KQ/",
-      "published_at": "2026-11-22T15:34:58+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Abigail Disney, l’héritière qui veut taxer les grandes fortunes : «Les ultrariches sont convaincus que seuls les imbéciles paient des impôts» ».",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "bc60e1e9bffe",
-      "title": "«Je n’imagine pas un PSG qui ne soit pas élégant» : Javier Pastore se confie sur son amour de Paris",
-      "summary": "EXCLUSIF. Première star du PSG version qatarie, Javier Pastore n’a rien perdu de son attachement à Paris. L’ancien milieu argentin se confie sur ses souvenirs, son amour des supporters et l’équipe de Luis Enrique, dont il salue l’élégance, la simplicité et le sens du collectif.",
-      "source": "Le JDD",
-      "feed_rank": 9,
-      "url": "https://www.lejdd.fr/sport/je-nimagine-pas-un-psg-qui-ne-soit-pas-elegant-javier-pastore-se-confie-sur-son-amour-de-paris-189300",
-      "published_at": "2026-11-22T15:33:04+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Je n’imagine pas un PSG qui ne soit pas élégant» : Javier Pastore se confie sur son amour de Paris » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le JDD"
       ],
       "coverage_count": 1,
       "mention_count": 1
