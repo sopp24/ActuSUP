@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-24T02:30:19.069777+00:00",
-  "last_attempt": "2026-11-24T02:30:19.069777+00:00",
+  "last_updated": "2026-11-24T03:12:16.099198+00:00",
+  "last_attempt": "2026-11-24T03:12:16.099198+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 907,
-  "unique_story_count": 790,
+  "unique_story_count": 791,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-25T02:30:19.069777+00:00",
-  "featured_window_end": "2026-11-24T02:30:19.069777+00:00",
+  "featured_window_start": "2026-10-25T03:12:16.099198+00:00",
+  "featured_window_end": "2026-11-24T03:12:16.099198+00:00",
   "featured_pool_count": 905,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
@@ -65,51 +65,8 @@
       ],
       "coverage_count": 32,
       "mention_count": 119,
-      "importance_score": 34.611,
+      "importance_score": 34.607,
       "latest_coverage_at": "2026-11-23T23:58:55+00:00"
-    },
-    {
-      "id": "0fed6b138ab9",
-      "title": "EN DIRECT - Retour surprise de Huang à la tête de Nvidia : Washington place sur liste noire l’entreprise singapourienne au cœur du scandale",
-      "summary": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande.",
-      "source": "Le Figaro",
-      "feed_rank": 18,
-      "url": "https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123",
-      "published_at": "2026-11-24T00:50:03+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « EN DIRECT - Retour surprise de Huang à la tête de Nvidia : Washington place sur liste noire l’entreprise singapourienne au cœur du scandale ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "France 24",
-        "Le Figaro",
-        "Mediapart",
-        "RFI",
-        "TF1 Info (TF1 / LCI)",
-        "CNews",
-        "Courrier International",
-        "Euronews",
-        "France Culture",
-        "France Inter",
-        "L'Express",
-        "L'Obs",
-        "L'Opinion",
-        "Libération",
-        "Sud Ouest",
-        "20 Minutes",
-        "Alternatives économiques",
-        "L'Humanité",
-        "La Croix",
-        "Paris Match",
-        "Public Sénat",
-        "Le Monde Informatique",
-        "Next.ink"
-      ],
-      "coverage_count": 26,
-      "mention_count": 62,
-      "importance_score": 32.043,
-      "latest_coverage_at": "2026-11-24T00:50:03+00:00"
     },
     {
       "id": "a166a8f4087c",
@@ -152,8 +109,50 @@
       ],
       "coverage_count": 27,
       "mention_count": 46,
-      "importance_score": 31.811,
+      "importance_score": 31.806,
       "latest_coverage_at": "2026-11-24T00:45:34+00:00"
+    },
+    {
+      "id": "0fed6b138ab9",
+      "title": "EN DIRECT - Retour surprise de Huang à la tête de Nvidia : Washington place sur liste noire l’entreprise singapourienne au cœur du scandale",
+      "summary": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant adultère, espionnage et contrebande.",
+      "source": "Le Figaro",
+      "feed_rank": 18,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123",
+      "published_at": "2026-11-24T00:50:03+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « EN DIRECT - Retour surprise de Huang à la tête de Nvidia : Washington place sur liste noire l’entreprise singapourienne au cœur du scandale ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "France 24",
+        "Le Figaro",
+        "Mediapart",
+        "RFI",
+        "TF1 Info (TF1 / LCI)",
+        "CNews",
+        "Courrier International",
+        "Euronews",
+        "France Culture",
+        "France Inter",
+        "L'Express",
+        "L'Obs",
+        "L'Opinion",
+        "Libération",
+        "Sud Ouest",
+        "20 Minutes",
+        "Alternatives économiques",
+        "L'Humanité",
+        "Paris Match",
+        "Public Sénat",
+        "Le Monde Informatique",
+        "Next.ink"
+      ],
+      "coverage_count": 25,
+      "mention_count": 61,
+      "importance_score": 31.775,
+      "latest_coverage_at": "2026-11-24T00:50:03+00:00"
     },
     {
       "id": "40353d4e7508",
@@ -180,7 +179,7 @@
       ],
       "coverage_count": 11,
       "mention_count": 11,
-      "importance_score": 23.409,
+      "importance_score": 23.407,
       "latest_coverage_at": "2026-11-23T23:13:21+00:00"
     },
     {
@@ -206,7 +205,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 11,
-      "importance_score": 22.32,
+      "importance_score": 22.318,
       "latest_coverage_at": "2026-11-23T19:54:33+00:00"
     },
     {
@@ -230,7 +229,7 @@
       ],
       "coverage_count": 7,
       "mention_count": 9,
-      "importance_score": 20.461,
+      "importance_score": 20.459,
       "latest_coverage_at": "2026-11-23T21:58:15+00:00"
     },
     {
@@ -253,7 +252,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.135,
+      "importance_score": 19.133,
       "latest_coverage_at": "2026-11-24T00:09:13+00:00"
     },
     {
@@ -276,7 +275,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.11,
+      "importance_score": 19.1,
       "latest_coverage_at": "2026-11-23T23:29:58+00:00"
     },
     {
@@ -299,7 +298,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.081,
+      "importance_score": 19.079,
       "latest_coverage_at": "2026-11-23T18:37:31+00:00"
     },
     {
@@ -322,7 +321,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.877,
+      "importance_score": 18.875,
       "latest_coverage_at": "2026-11-23T16:49:09+00:00"
     },
     {
@@ -345,7 +344,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.741,
+      "importance_score": 18.732,
       "latest_coverage_at": "2026-11-23T20:04:50+00:00"
     },
     {
@@ -367,7 +366,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.119,
+      "importance_score": 18.117,
       "latest_coverage_at": "2026-11-23T18:52:54+00:00"
     },
     {
@@ -389,7 +388,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.999,
+      "importance_score": 17.997,
       "latest_coverage_at": "2026-11-23T22:01:33+00:00"
     },
     {
@@ -411,7 +410,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.629,
+      "importance_score": 17.627,
       "latest_coverage_at": "2026-11-23T17:33:09+00:00"
     },
     {
@@ -433,7 +432,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.591,
+      "importance_score": 17.589,
       "latest_coverage_at": "2026-11-23T20:28:05+00:00"
     },
     {
@@ -454,7 +453,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.757,
+      "importance_score": 16.755,
       "latest_coverage_at": "2026-11-24T00:18:02+00:00"
     },
     {
@@ -475,7 +474,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.639,
+      "importance_score": 16.637,
       "latest_coverage_at": "2026-11-23T22:59:02+00:00"
     },
     {
@@ -496,7 +495,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.339,
+      "importance_score": 16.325,
       "latest_coverage_at": "2026-11-23T22:09:13+00:00"
     },
     {
@@ -504,7 +503,7 @@
       "title": "60 millions de consommateurs : accord de reprise par Xavier Niel",
       "summary": "Le ministère de l’économie a annoncé lundi 23 juin l’acceptation de l’offre de Xavier Niel pour reprendre 60 millions de consommateurs, via sa holding NJJ Médias.",
       "source": "La Croix",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.la-croix.com/60-millions-de-consommateurs-accord-de-reprise-par-xavier-niel-20261123",
       "published_at": "2026-11-23T21:30:10+00:00",
       "category": "Médias & communication",
@@ -517,7 +516,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.303,
+      "importance_score": 16.289,
       "latest_coverage_at": "2026-11-23T21:30:10+00:00"
     },
     {
@@ -538,11 +537,27 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.188,
+      "importance_score": 16.187,
       "latest_coverage_at": "2026-11-23T17:30:03+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "8bf575b61988",
+      "title": "Sur nos écrans, un feu éternel",
+      "summary": "Dans sa chronique, Alain Rémond contemple l’absurdité métaphysique à laquelle nous confrontent les écrans qui diffusent des images de cheminées au feu de bois.",
+      "source": "La Croix",
+      "feed_rank": 1,
+      "url": "https://www.la-croix.com/a-vif/sur-nos-ecrans-un-feu-eternel-20261123",
+      "published_at": "2026-11-24T03:00:06+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Sur nos écrans, un feu éternel » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "La Croix"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "fec29f3a96a5",
       "title": "Après le Crédit Mutuel Arkéa, la banque Delubac victime d’une cyberattaque",
@@ -652,22 +667,6 @@
       "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Violences économiques : «Il faut traiter le problème dans sa globalité» » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "64a58532eb74",
-      "title": "Donald Trump demande au ministère de la justice de requérir la peine de mort pour les meurtriers d’enfants",
-      "summary": "La requête du président américain concerne également les violeurs et trafiquants d’êtres humains ayant tué leurs victimes. Il a, en outre, annoncé avoir demandé à « accélérer l’exécution des condamnations à mort fédérales ».",
-      "source": "Le Monde",
-      "feed_rank": 14,
-      "url": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html",
-      "published_at": "2026-11-24T01:31:59+00:00",
-      "category": "Politique",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Donald Trump demande au ministère de la justice de requérir la peine de mort pour les meurtriers d’enfants ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1439,7 +1438,7 @@
       "title": "Jordan Bardella déplore la « faute » de la députée RN Laure Lavalette, accusée d’avoir cautionné des écrits antisémites dans les années 1990",
       "summary": "Jordan Bardella, président du Rassemblement national (RN), lors d’un rassemblement politique marquant le lancement de la campagne présidentielle, à Orléans, le 25 octobre 2026.",
       "source": "Le Monde",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/politique/article/2026/11/23/jordan-bardella-deplore-la-faute-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_6814453_823448.html",
       "published_at": "2026-11-23T21:51:35+00:00",
       "category": "Politique",
@@ -2264,7 +2263,7 @@
       "title": "Guerre au Moyen-Orient : frappes meurtrières au Yémen… Le bilan du lundi 23 novembre",
       "summary": "La chaîne des houthistes du Yémen a affirmé que des frappes saoudiennes avaient fait 17 morts à Hodeïda. L’Iran a dévoilé un nouveau lanceur de missiles, un geste de défi envers les États-Unis. Suivez l’actualité de la guerre au Moyen-Orient ce lundi 23 novembre.",
       "source": "La Croix",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-269-moyen-orient-bilan-resume-aujourdhui-20261123",
       "published_at": "2026-11-23T20:25:45+00:00",
       "category": "International",
@@ -2280,7 +2279,7 @@
       "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du lundi 23 novembre",
       "summary": "Le président ukrainien Volodymyr Zelensky a revendiqué deux attaques contre des navires russes menées au large de la Libye. Au moins 14 personnes ont été tuées lors de frappes russes dans la région de Kiev. Retrouvez l’actualité de la guerre en Ukraine, ce lundi 23 novembre.",
       "source": "La Croix",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.la-croix.com/international/ukraine-russie-jour-1734-point-conflit-ukrainien-poutine-aujourdhui-20261123",
       "published_at": "2026-11-23T20:25:06+00:00",
       "category": "Politique",
@@ -2954,12 +2953,12 @@
       "mention_count": 1
     },
     {
-      "id": "d3e4b10b6b7a",
+      "id": "4b4142d7d867",
       "title": "Le palmarès du Fooding 2027 est enfin là et il y a du très beau monde au menu",
       "summary": "Vous ne savez jamais où aller dîner ? Le Fooding a peut-être la solution. Le célèbre guide gastronomique vient de dévoiler son palmarès 2027, et il y a de quoi remplir son carnet d'adresses. Au...",
       "source": "Konbini",
       "feed_rank": 1,
-      "url": "https://www.konbini.com/lifestyle/le-palmares-du-fooding-2027-est-enfin-la-et-il-y-a-du-tres-beau-monde-au-menu/",
+      "url": "http://www.konbini.com/lifestyle/le-palmares-du-fooding-2027-est-enfin-la-et-il-y-a-du-tres-beau-monde-au-menu/",
       "published_at": "2026-11-23T19:35:15+00:00",
       "category": "International",
       "communication_angle": "Le contexte international change la manière dont un événement est interprété selon les pays et les publics. Les communicants doivent vérifier les faits, donner les repères utiles et tenir compte des sensibilités locales. Pour travailler ce cas, partez du sujet précis — « Le palmarès du Fooding 2027 est enfin là et il y a du très beau monde au menu » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
@@ -3439,7 +3438,7 @@
       "title": "Procès Zecler : ces affaires où des policiers ont été condamnés pour des actes racistes",
       "summary": "La cour criminelle de Paris a condamné vendredi 20 novembre trois policiers dans l’affaire Michel Zecler, et retenu la circonstance aggravante de racisme. Ce verdict s’ajoute à plusieurs affaires qui ont conduit à la condamnation de forces de l’ordre pour des faits à caractère raciste.",
       "source": "La Croix",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.la-croix.com/societe/proces-zecler-ces-affaires-ou-la-police-a-ete-condamnee-pour-des-actes-racistes-20261123",
       "published_at": "2026-11-23T19:02:41+00:00",
       "category": "Société",
@@ -3715,7 +3714,7 @@
       "title": "Sécheresse : l’assurance prairie déclenchée dans 78 % des communes herbagères",
       "summary": "Le ministère de l’agriculture a annoncé lundi 23 novembre que le mécanisme d’assurance visant à indemniser les pertes de prairie pour les agriculteurs sera déclenché dans 78 % des communes herbagères.",
       "source": "La Croix",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.la-croix.com/economie/secheresse-l-assurance-prairie-declenchee-dans-78-des-communes-herbageres-20261123",
       "published_at": "2026-11-23T18:46:36+00:00",
       "category": "Environnement",
@@ -3749,7 +3748,7 @@
       "title": "Gaza : un territoire contaminé à plus de 99 % après trois ans de guerre, selon Oxfam",
       "summary": "À partir de prélèvements et de modélisations fondées sur des images satellites, l’Observatoire des conflits et de l’environnement (CEOBS) et l’ONG Oxfam ont dévoilé, lundi 23 novembre, un rapport qui documente le niveau de contamination de Gaza en raison de la guerre.",
       "source": "La Croix",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.la-croix.com/international/gaza-un-territoire-contamine-a-plus-de-99-apres-trois-ans-de-guerre-selon-oxfam-20261123",
       "published_at": "2026-11-23T18:46:03+00:00",
       "category": "International",
@@ -4101,7 +4100,7 @@
       "title": "Arrestation de « Chapo Isidro » : au Mexique, la traque des narcos s’intensifie avec l’aide active des États-Unis",
       "summary": "L’un des barons mexicains de la drogue, Fausto Isidro Meza, a été arrêté vendredi 20 novembre 2026 avec l’aide du renseignement américain. Connu sous le nom de « Chapo Isidro », il figurait dans la liste des dix criminels les plus recherchés par le FBI.",
       "source": "La Croix",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.la-croix.com/international/arrestation-de-chapo-isidro-au-mexique-la-traque-des-narcos-s-intensifie-avec-laide-active-des-etats-unis-20261123",
       "published_at": "2026-11-23T18:34:34+00:00",
       "category": "Sciences & tech",
@@ -4534,7 +4533,7 @@
       "title": "Valérie Masson-Delmotte : « Contre l’obscurantisme, une coalition des volontaires pour le climat »",
       "summary": "La COP31 s’est achevée le dimanche 23 novembre à Antalya sans position commune. Pour la climatologue et ex-coprésidente d’un groupe de scientifiques du Giec (1), cet échec ne remet pas en cause le bien-fondé de ces rendez-vous mais illustre la nécessité d’une nouvelle gouvernance du climat.",
       "source": "La Croix",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.la-croix.com/planete/valerie-masson-delmotte-contre-l-obscurantisme-une-coalition-des-volontaires-pour-le-climat-20261123",
       "published_at": "2026-11-23T18:15:23+00:00",
       "category": "Sciences & tech",
@@ -4890,7 +4889,7 @@
       "title": "En Israël, l’émoi après la détention sans charges d’un étudiant palestinien pour la paix",
       "summary": "Mahdi Tunsi, 26 ans, a été arrêté début novembre à l’université hébraïque de Jérusalem. Faute de mobile précis, une ordonnance de détention administrative a été rendue. Lundi 22 novembre 2026, 200 étudiants et professeurs ont manifesté pour exiger sa libération.",
       "source": "La Croix",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.la-croix.com/international/en-israel-l-emoi-apres-la-detention-sans-charges-dun-etudiant-palestinien-pour-la-paix-20261123",
       "published_at": "2026-11-23T17:58:44+00:00",
       "category": "Société",
@@ -5105,7 +5104,7 @@
       "title": "« Notre responsabilité, humaine et chrétienne, est d’accompagner les personnes étrangères à la rue »",
       "summary": "Maraudes, cours de français, médiation sociale : l’association « Aux captifs, la libération » témoigne de son accompagnement des personnes étrangères en situation de rue ou de prostitution, et ouvre le débat lors d’une table ronde, mercredi 25 novembre 2026, à Paris.",
       "source": "La Croix",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.la-croix.com/a-vif/notre-responsabilite-humaine-et-chretienne-est-d-accompagner-les-personnes-etrangeres-a-la-rue-20261123",
       "published_at": "2026-11-23T17:40:23+00:00",
       "category": "Société",
@@ -5281,7 +5280,7 @@
       "title": "Glyphosate : la cancérogénicité de l’herbicide de Bayer reconnue par une institution scientifique majeure aux Etats-Unis",
       "summary": "L’Institut de recherche fédéral sur la santé environnementale a publié, vendredi, une large réévaluation de la cancérogénicité du glyphosate. Un document sans conséquence à ce stade sur les contraintes réglementaires encadrant l’herbicide outre-Atlantique.",
       "source": "Le Monde",
-      "feed_rank": 16,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/planete/article/2026/11/23/glyphosate-la-cancerogenicite-de-l-herbicide-de-bayer-reconnue-par-une-institution-scientifique-majeure-aux-etats-unis_6814434_3244.html",
       "published_at": "2026-11-23T17:31:35+00:00",
       "category": "Société",
