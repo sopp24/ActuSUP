@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-24T23:36:15.792068+00:00",
-  "last_attempt": "2026-11-24T23:36:15.792068+00:00",
+  "last_updated": "2026-11-24T23:42:57.361241+00:00",
+  "last_attempt": "2026-11-24T23:42:57.361241+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 904,
-  "unique_story_count": 795,
+  "unique_story_count": 799,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,8 +13,8 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-25T23:36:15.792068+00:00",
-  "featured_window_end": "2026-11-24T23:36:15.792068+00:00",
+  "featured_window_start": "2026-10-25T23:42:57.361241+00:00",
+  "featured_window_end": "2026-11-24T23:42:57.361241+00:00",
   "featured_pool_count": 902,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
@@ -63,8 +63,8 @@
         "CB News"
       ],
       "coverage_count": 31,
-      "mention_count": 116,
-      "importance_score": 34.39,
+      "mention_count": 114,
+      "importance_score": 34.354,
       "latest_coverage_at": "2026-11-24T23:33:25+00:00"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "coverage_count": 18,
       "mention_count": 25,
-      "importance_score": 28.117,
+      "importance_score": 28.084,
       "latest_coverage_at": "2026-11-24T22:53:32+00:00"
     },
     {
@@ -121,6 +121,7 @@
         "Euronews",
         "France Culture",
         "France Inter",
+        "RMC",
         "20 Minutes",
         "L'Humanité",
         "Le JDD",
@@ -128,9 +129,9 @@
         "Public Sénat",
         "Konbini"
       ],
-      "coverage_count": 14,
-      "mention_count": 25,
-      "importance_score": 26.459,
+      "coverage_count": 15,
+      "mention_count": 26,
+      "importance_score": 26.947,
       "latest_coverage_at": "2026-11-24T23:16:34+00:00"
     },
     {
@@ -149,8 +150,6 @@
         "France 24",
         "RFI",
         "TF1 Info (TF1 / LCI)",
-        "Euronews",
-        "France Inter",
         "L'Obs",
         "Libération",
         "RMC",
@@ -158,9 +157,9 @@
         "Le Dauphiné Libéré",
         "Le JDD"
       ],
-      "coverage_count": 13,
-      "mention_count": 22,
-      "importance_score": 25.783,
+      "coverage_count": 11,
+      "mention_count": 12,
+      "importance_score": 23.577,
       "latest_coverage_at": "2026-11-24T20:16:54+00:00"
     },
     {
@@ -183,12 +182,11 @@
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
         "CNews",
-        "Ouest-France",
-        "RMC"
+        "Ouest-France"
       ],
-      "coverage_count": 11,
-      "mention_count": 16,
-      "importance_score": 24.322,
+      "coverage_count": 10,
+      "mention_count": 13,
+      "importance_score": 23.396,
       "latest_coverage_at": "2026-11-24T22:55:55+00:00"
     },
     {
@@ -215,7 +213,7 @@
       ],
       "coverage_count": 10,
       "mention_count": 11,
-      "importance_score": 22.961,
+      "importance_score": 22.96,
       "latest_coverage_at": "2026-11-24T20:22:45+00:00"
     },
     {
@@ -223,7 +221,7 @@
       "title": "Manifestation du 17 octobre : une enquête ouverte à Paris pour « tentative de meurtre » sur un adolescent blessé",
       "summary": "Un adolescent qui manifestait le 17 octobre lors du premier samedi de mobilisation sociale contre la vie chère avait été blessé au thorax, selon « Mediapart ». Une enquête est en cours, elle a été ouverte pour « tentative de meurtre sur un adolescent de 15 ans », a indiqué ce mardi 24 novembre le parquet de Paris à l’Agence France Presse.",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/societe/manifestation/manifestation-du-17-octobre-une-enquete-ouverte-a-paris-pour-tentative-de-meurtre-sur-un-adolescent-blesse-94493bde-e84f-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T21:51:18+00:00",
       "category": "Société",
@@ -241,8 +239,32 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 22.177,
+      "importance_score": 22.172,
       "latest_coverage_at": "2026-11-24T21:51:18+00:00"
+    },
+    {
+      "id": "8592cbc52074",
+      "title": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ?",
+      "summary": "Onze personnes sont renvoyées devant le tribunal correctionnel pour leur implication dans l'opération \"Sauver Sarko\". L'ancien chef de l'Etat et son épouse sont poursuivis pour \"association de malfaiteurs en vue de commettre une escroquerie en bande organisée\" et \"recel de subornation de témoin\".",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 1,
+      "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-24T18:10:39+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ? ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24",
+        "RFI",
+        "Euronews",
+        "France Inter",
+        "L'Obs"
+      ],
+      "coverage_count": 7,
+      "mention_count": 9,
+      "importance_score": 20.54,
+      "latest_coverage_at": "2026-11-24T18:10:39+00:00"
     },
     {
       "id": "0ea825cef073",
@@ -269,29 +291,6 @@
       "latest_coverage_at": "2026-11-24T20:56:00+00:00"
     },
     {
-      "id": "5e757b8f4b8d",
-      "title": "1 femme est tuée par un proche toutes les 11 minutes",
-      "summary": "Ce mercredi marque la journée internationale pour l’élimination de la violence à l’égard des femmes. Malgré des progrès importants au cours des 30 dernières années, les stéréotypes restent profondément ancrés. Dans certains pays, les lois reculent et souvent les ressources sont insuffisantes pour venir en aide aux filles et aux femmes. Ces violences…",
-      "source": "France 24",
-      "feed_rank": 1,
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261124-1-femme-est-tu%C3%A9e-par-un-proche-toutes-les-11-minutes",
-      "published_at": "2026-11-24T23:31:50+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « 1 femme est tuée par un proche toutes les 11 minutes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "France 24",
-        "Ouest-France",
-        "L'Humanité",
-        "Futura"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 19.087,
-      "latest_coverage_at": "2026-11-24T23:31:50+00:00"
-    },
-    {
       "id": "c32478bf36c6",
       "title": "Décryptage. La « règle d'or » budgétaire envisagée par Emmanuel Macron est-elle vraiment possible ?",
       "summary": "En exhumant un projet de révision constitutionnelle de 2011, Emmanuel Macron a suscité des débats sur l'orthodoxie budgétaire. Mais pourra-t-il arriver à ses fins ? Et est-ce vraiment souhaitable ?",
@@ -311,8 +310,31 @@
       ],
       "coverage_count": 6,
       "mention_count": 7,
-      "importance_score": 19.083,
+      "importance_score": 19.082,
       "latest_coverage_at": "2026-11-24T19:00:00+00:00"
+    },
+    {
+      "id": "5e757b8f4b8d",
+      "title": "1 femme est tuée par un proche toutes les 11 minutes",
+      "summary": "Ce mercredi marque la journée internationale pour l’élimination de la violence à l’égard des femmes. Malgré des progrès importants au cours des 30 dernières années, les stéréotypes restent profondément ancrés. Dans certains pays, les lois reculent et souvent les ressources sont insuffisantes pour venir en aide aux filles et aux femmes. Ces violences…",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261124-1-femme-est-tu%C3%A9e-par-un-proche-toutes-les-11-minutes",
+      "published_at": "2026-11-24T23:31:50+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « 1 femme est tuée par un proche toutes les 11 minutes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "France 24",
+        "Ouest-France",
+        "L'Humanité",
+        "Futura"
+      ],
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 19.079,
+      "latest_coverage_at": "2026-11-24T23:31:50+00:00"
     },
     {
       "id": "4268b0848ccb",
@@ -363,7 +385,7 @@
       "title": "La Marine française saisit plus de 3,3 tonnes de méthamphétamine dans le Pacifique",
       "summary": "Suivi depuis plusieurs semaines par la Marine française en raison de ses activités suspectes, un navire de narcotrafiquants avec plus de 3,3 tonnes de méthamphétamine a été arraisonné dans le Pacifique.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/societe/drogue/la-marine-francaise-saisit-plus-de-3-3-tonnes-de-methamphetamine-dans-le-pacifique-33c0d976-e84e-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T22:02:34+00:00",
       "category": "Société",
@@ -377,7 +399,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.863,
+      "importance_score": 17.854,
       "latest_coverage_at": "2026-11-24T23:02:50+00:00"
     },
     {
@@ -399,7 +421,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.825,
+      "importance_score": 17.824,
       "latest_coverage_at": "2026-11-24T19:06:29+00:00"
     },
     {
@@ -421,7 +443,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.795,
+      "importance_score": 17.794,
       "latest_coverage_at": "2026-11-24T21:30:12+00:00"
     },
     {
@@ -465,7 +487,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.699,
+      "importance_score": 17.698,
       "latest_coverage_at": "2026-11-24T23:20:22+00:00"
     },
     {
@@ -473,7 +495,7 @@
       "title": "Le constructeur automobile chinois BYD va s’implanter en France",
       "summary": "Le groupe a annoncé, mardi 24 novembre, son projet de rachat d’une usine à Hambach, en Moselle. Il cherche depuis un an à produire ses véhicules en Europe pour contourner les droits de douane.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/economie/article/2026/11/24/le-constructeur-automobile-chinois-byd-va-s-implanter-en-france_6814850_3234.html",
       "published_at": "2026-11-24T20:35:09+00:00",
       "category": "International",
@@ -487,7 +509,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.691,
+      "importance_score": 17.618,
       "latest_coverage_at": "2026-11-24T20:35:09+00:00"
     },
     {
@@ -510,30 +532,25 @@
       "mention_count": 6,
       "importance_score": 17.019,
       "latest_coverage_at": "2026-11-24T18:41:42+00:00"
-    },
-    {
-      "id": "c53968dd058f",
-      "title": "Miss France 2027 - \"Je rêve d'être juge\" : l'interview décalée de Léane Froment, Miss Lorraine",
-      "summary": "Léane Froment, Miss Lorraine, est candidate à l'élection de Miss France 2027 qui aura lieu le 12 décembre à l'Arena Futuroscope. Pour TF1info, elle s'est prêtée à un portrait chinois remanié.",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/culture/miss-france-2027-l-interview-decalee-de-leane-froment-miss-lorraine-je-reve-d-etre-juge-2469890.html",
-      "published_at": "2026-11-24T20:00:00+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Miss France 2027 - \"Je rêve d'être juge\" : l'interview décalée de Léane Froment, Miss Lorraine ».",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)",
-        "L'Express",
-        "20 Minutes",
-        "Le Dauphiné Libéré"
-      ],
-      "coverage_count": 4,
-      "mention_count": 5,
-      "importance_score": 16.433,
-      "latest_coverage_at": "2026-11-24T20:00:00+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "39c3ebfeb7db",
+      "title": "Plus de quatre tonnes de matériel explosif bientôt détruites dans une usine de l’armée américaine",
+      "summary": "L’armée américaine va procéder ce mercredi dans une usine de munitions de l’IOWA à la destruction de près de cinq tonnes d’azoture de plomb, instables et dégradées, réparties dans 68 fûts.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/etats-unis/plus-de-quatre-tonnes-de-materiel-explosif-bientot-detruites-dans-une-usine-de-larmee-americaine-1032b8e0-e85c-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-24T23:39:16+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Plus de quatre tonnes de matériel explosif bientôt détruites dans une usine de l’armée américaine » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
     {
       "id": "cc15574f4862",
       "title": "«Un désaccord manifeste sur la ligne politique» : plutôt qu’une primaire, Édouard Philippe propose un débat à David Lisnard",
@@ -587,7 +604,7 @@
       "title": "Un homme tue son épouse en Guadeloupe et met ensuite fin à ses jours",
       "summary": "Quelques jours après que le couple a décidé de se séparer, un homme d’une soixantaine d’années a tué son épouse, avant de se suicider.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/region-guadeloupe/un-homme-tue-son-epouse-en-guadeloupe-et-met-ensuite-fin-a-ses-jours-e2a2478a-e859-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T23:08:01+00:00",
       "category": "Société",
@@ -716,7 +733,7 @@
       "title": "La CIA et la direction du renseignement américain victimes d’un piratage",
       "summary": "La CIA et le renseignement américain ont découvert que certaines de leurs informations non classifiées avaient été mises à jour, à la suite d’une faille de leur cybersécurité.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/monde/etats-unis/la-cia-et-la-direction-du-renseignement-americain-victimes-dun-piratage-01d01ffa-e856-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T22:47:14+00:00",
       "category": "Sciences & tech",
@@ -748,7 +765,7 @@
       "title": "Euroligue. Battue à domicile par l’Olimpia Milan, l’Asvel enregistre une cinquième défaite consécutive en Europe",
       "summary": "La mauvaise série continue pour l’Asvel, qui s’est inclinée à domicile face à l’Olimpia Milan (91-95), ce mardi 24 novembre. Les Rhodaniens ont perdu leurs sept derniers matches toutes compétitions confondues, les cinq derniers sur la scène européenne.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/basket/asvel-lyon-villeurbanne/euroligue-battue-a-domicile-par-lolimpia-milan-lasvel-enregistre-une-cinquieme-defaite-consecutive-en-europe-03fce852-e857-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T22:44:16+00:00",
       "category": "Culture",
@@ -812,7 +829,7 @@
       "title": "Leipzig-Lens : les Sang et Or une nouvelle fois défaits en Ligue des champions",
       "summary": "Le RC Lens a concédé une nouvelle défaite en Ligue des champions face au RB Leipzig (1-3), mardi, et voit ses espoirs de qualification pour les seizièmes de finale s’éloigner dangereusement.",
       "source": "Le Monde",
-      "feed_rank": 15,
+      "feed_rank": 7,
       "url": "https://www.lemonde.fr/sport/article/2026/11/24/leipzig-lens-les-sang-et-or-une-nouvelle-fois-defaits-en-ligue-des-champions_6814868_3242.html",
       "published_at": "2026-11-24T22:31:21+00:00",
       "category": "Société",
@@ -908,7 +925,7 @@
       "title": "Volley-ball. Coupe de France : une défaite avec les honneurs pour le REC face à Toulouse",
       "summary": "Le REC Volley (Ligue B) s’est incliné face aux Spacer’s de Toulouse (Ligue A), en huitièmes de finale de la Coupe de France, dans un match d’une haute intensité où les spectateurs de la salle Colette Besson auront vibré (1-3), mardi 24 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/volley/rec-volley/volley-ball-coupe-de-france-une-defaite-avec-les-honneurs-pour-le-rec-face-a-toulouse-ef69392e-e84f-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T22:18:38+00:00",
       "category": "Sport",
@@ -924,7 +941,7 @@
       "title": "Ligue des champions. Mbappé et le Real régalent, Cherki sauve City… Que retenir de la soirée du mardi 24 novembre",
       "summary": "La cinquième journée de la phase de ligue de la Ligue des champions débutait ce mardi 24 novembre. Si Lens a une nouvelle fois perdu, plusieurs internationaux français ont brillé sur les pelouses européennes. Rayan Cherki a notamment évité la défaite à un Manchester City décevant.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-mbappe-et-le-real-regalent-cherki-sauve-city-que-retenir-de-la-soiree-du-mardi-24-novembre-1d88d2e2-e846-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T22:12:14+00:00",
       "category": "International",
@@ -989,7 +1006,7 @@
       "title": "VIDÉO. Le but incroyable de Jude Bellingham en Ligue des champions avec le Real Madrid d’une volée après avoir jonglé",
       "summary": "L’international anglais Jude Bellingham a marqué un but splendide, ce mardi 24 novembre face au PSV Eindhoven en Ligue des champions. D’une volée de l’extérieur du droit depuis l’extérieur de la surface, après s’être levé lui-même le ballon, le Madrilène a fait se lever le Stade Bernabeu.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/ligue-des-champions/video-le-but-incroyable-de-jude-bellingham-en-ligue-des-champions-avec-le-real-madrid-dune-volee-apres-avoir-jongle-9d41bf9e-e850-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T22:07:23+00:00",
       "category": "Médias & communication",
@@ -1086,7 +1103,7 @@
       "title": "Basket - NM1. Après Challans, l’Aurore Vitré s’offre Angers et fait le plein de confiance avant le derby contre Rennes",
       "summary": "Ce mardi 24 novembre, L’Aurore Vitré a mis un terme à la belle série de victoire angevine en s’imposant en force à la Poultière (81-69). De bon augure alors que les Vitréens reçoivent l’URB le 4 décembre.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/basket/aurore-vitre/basket-nm1-apres-challans-laurore-vitre-soffre-angers-et-fait-le-plein-de-confiance-avant-le-derby-contre-rennes-374d5786-e84e-11f1-b706-1d273d1ab155?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-24T21:55:24+00:00",
       "category": "Culture",
@@ -1295,22 +1312,6 @@
       ],
       "coverage_count": 5,
       "mention_count": 5
-    },
-    {
-      "id": "184695dae6a1",
-      "title": "Au Niger, 11 militaires tués dans une attaque de Boko Haram dans le sud-est du pays",
-      "summary": "Onze militaires nigériens ont été tués et cinq autres blessés mardi 24 novembre dans l’attaque de leur patrouille par des jihadistes de Boko Haram dans le sud-est du pays, près du Nigeria, a annoncé le ministère de la Défense dans un communiqué.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/monde/niger/au-niger-11-militaires-tues-dans-une-attaque-de-boko-haram-dans-le-sud-est-du-pays-292c59c8-e84d-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-24T21:35:51+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Au Niger, 11 militaires tués dans une attaque de Boko Haram dans le sud-est du pays ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
     },
     {
       "id": "3d2702f1ea6a",
@@ -1879,7 +1880,7 @@
       "title": "Le constructeur automobile chinois BYD va s’implanter en France",
       "summary": "Le groupe a annoncé, mardi 24 novembre, son projet de rachat d’une usine à Hambach, en Moselle. Il cherche depuis un an à produire ses véhicules en Europe pour contourner les droits de douane.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 15,
       "url": "https://www.lemonde.fr/economie/article/2026/11/24/le-constructeur-automobile-chinois-byd-va-s-implanter-en-france_6814850_3234.html",
       "published_at": "2026-11-24T20:35:09+00:00",
       "category": "International",
@@ -4923,11 +4924,10 @@
       "category": "Politique",
       "communication_angle": "Cette controverse ou mise en cause se joue aussi sur le terrain de la confiance. Pour les communicants, le travail consiste à distinguer les faits confirmés des réactions, préparer une réponse vérifiable et éviter une prise de parole défensive qui aggraverait la crise. Sujet suivi : « Nouvelle mobilisation, devant le Parlement européen, contre la levée des normes de certains pesticides ».",
       "coverage_sources": [
-        "RFI",
-        "RMC"
+        "RFI"
       ],
-      "coverage_count": 2,
-      "mention_count": 2
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "1670302659e8",
@@ -5022,22 +5022,6 @@
       "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Logitech G RS50 System : le Direct Drive de milieu de gamme qui met tout le monde d'accord ».",
       "coverage_sources": [
         "Futura"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "578e8f7938d3",
-      "title": "Office Depot ferme définitivement ses 27 magasins et son site Internet en France, faute d’avoir trouvé un repreneur",
-      "summary": "L’entreprise avait été placée début octobre en liquidation judiciaire, avec poursuite d’activité afin de permettre la recherche d’un repreneur. Les 185 salariés feront l’objet d’une procédure légale de licenciement économique.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/economie/article/2026/11/24/office-depot-ferme-definitivement-ses-27-magasins-et-son-site-internet-en-france-faute-d-avoir-trouve-un-repreneur_6814829_3234.html",
-      "published_at": "2026-11-24T17:29:19+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette actualité concerne des personnes et la relation entre une organisation et ses équipes. La communication interne doit être cohérente avec les décisions réelles, préciser le calendrier et les accompagnements prévus, et respecter la dignité des personnes concernées. Sujet suivi : « Office Depot ferme définitivement ses 27 magasins et son site Internet en France, faute d’avoir trouvé un repreneur ».",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5379,6 +5363,22 @@
       ],
       "coverage_count": 2,
       "mention_count": 2
+    },
+    {
+      "id": "63df86ec5aa8",
+      "title": "Budget : Bruxelles adresse à la France un bon point en trompe-l’œil",
+      "summary": "La Commission européenne estime que le pays est dans les clous de sa trajectoire de réduction de déficit",
+      "source": "L'Opinion",
+      "feed_rank": 8,
+      "url": "https://www.lopinion.fr/international/budget-bruxelles-adresse-a-la-france-un-bon-point-en-trompe-lœil",
+      "published_at": "2026-11-24T17:13:31+00:00",
+      "category": "Économie",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget : Bruxelles adresse à la France un bon point en trompe-l’œil ».",
+      "coverage_sources": [
+        "L'Opinion"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
     }
   ]
 }
