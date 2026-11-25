@@ -1,30 +1,40 @@
 #!/usr/bin/env python3
 """Collecte des flux RSS de médias francophones et génération de data/news.json."""
 from __future__ import annotations
+import calendar
 import hashlib
 import json
+import os
 import re
 import time
 import html
-import math
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlparse
 
 import feedparser
 import requests
 
+import story_ranking
+from story_ranking import SOURCE_PRIORITY, STOPWORDS as STORY_STOPWORDS
+
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "data" / "news.json"
+ARCHIVE = ROOT / "data" / "story_archive.json"
 MAX_PER_SOURCE = 25
 MAX_TOTAL = 300
-FEATURED_LIMIT = 20
-FEATURED_DAYS = 30
-TIMEOUT = 20
+FEATURED_LIMIT = story_ranking.FEATURED_LIMIT
+FEATURED_DAYS = story_ranking.WINDOW_DAYS
+TIMEOUT = (10, 20)            # connexion, lecture
+FEED_DEADLINE = 45            # durée maximale (s) pour télécharger un flux, même s'il répond au goutte-à-goutte
+MAX_FEED_BYTES = 8 * 1024 * 1024
+FETCH_ATTEMPTS = 2
 USER_AGENT = "ActuSUP-NewsReader/1.0 (+https://github.com/; educational project)"
+# Les images des flux RSS pointent vers les serveurs des éditeurs : leur affichage déclenche des
+# requêtes tierces. Elles ne sont donc collectées que sur demande explicite (ACTUSUP_COLLECT_IMAGES=1).
+COLLECT_IMAGES = os.environ.get("ACTUSUP_COLLECT_IMAGES", "").strip() == "1"
 
 # Les URL de flux peuvent évoluer ; une source en erreur n'empêche pas les autres de fonctionner.
 FEEDS = [
@@ -82,15 +92,15 @@ FEEDS = [
 ]
 
 CATEGORY_RULES = [
-    ("Médias & communication", ["communication", "publicité", "publicitaire", "média", "medias", "journaliste", "journalisme", "réseaux sociaux", "influenceur", "influenceuse", "tiktok", "instagram", "youtube", "meta", "marketing", "marque", "audiovisuel", "désinformation", "fake news", "plateforme numérique"]),
-    ("Politique", ["président", "gouvernement", "ministre", "assemblée nationale", "sénat", "député", "élection", "élections", "parlement", "parti politique", "elysée", "élysée", "loi", "vote", "maire", "politique"]),
-    ("Économie", ["économie", "économique", "inflation", "emploi", "emplois", "chômage", "entreprise", "entreprises", "bourse", "banque", "budget", "croissance", "prix", "carburant", "pouvoir d'achat", "consommation", "commerce", "industrie", "impôt", "taxe", "euro"]),
-    ("Société", ["société", "éducation", "école", "étudiant", "étudiants", "santé", "hôpital", "justice", "police", "violence", "logement", "famille", "retraite", "manifestation", "social", "inégalité", "immigration"]),
-    ("Sciences & tech", ["science", "scientifique", "recherche", "intelligence artificielle", " ia ", "technologie", "numérique", "cyber", "cybersécurité", "espace", "nasa", "robot", "découverte", "médecine", "vaccin", "santé numérique"]),
-    ("Culture", ["culture", "cinéma", "film", "série", "musique", "livre", "roman", "littérature", "exposition", "musée", "théâtre", "artiste", "festival", "goncourt", "prix littéraire", "jeu vidéo"]),
-    ("Sport", ["sport", "sports", "football", "rugby", "tennis", "basket", "olympique", "olympisme", "formule 1", "f1", "tour de france", "ligue 1", "championnat", "match", "athlète"]),
-    ("Environnement", ["climat", "environnement", "écologie", "écologique", "biodiversité", "pollution", "réchauffement", "énergie", "énergies", "sécheresse", "inondation", "forêt", "incendie", "transition énergétique"]),
-    ("International", ["international", "monde", "ukraine", "russie", "états-unis", "états unis", "chine", "iran", "israël", "gaza", "palestine", "onu", "otan", "afrique", "europe", "union européenne", "guerre", "diplomatie", "brésil"]),
+    ("Médias & communication", ["communication", "publicité", "publicitaire", "média", "medias", "journaliste", "journalisme", "réseaux sociaux", "influenceur", "influenceuse", "tiktok", "instagram", "youtube", "meta", "marketing", "marque", "audiovisuel", "désinformation", "fake news", "plateforme numérique", "pétition", "chaîne d'information", "cnews", "bfmtv", "arcom"]),
+    ("Politique", ["président", "présidentielle", "présidentiel", "gouvernement", "ministre", "premier ministre", "matignon", "assemblée nationale", "sénat", "député", "sénateur", "élection", "élections", "législatives", "municipales", "scrutin", "candidat", "candidate", "candidature", "primaire", "campagne électorale", "parlement", "parti politique", "elysée", "élysée", "loi", "vote", "maire", "mairie", "préfet", "politique", "rn", "lfi", "extrême droite", "motion de censure", "démission"]),
+    ("Économie", ["économie", "économique", "inflation", "emploi", "emplois", "chômage", "entreprise", "entreprises", "bourse", "banque", "budget", "croissance", "prix", "carburant", "pouvoir d'achat", "consommation", "commerce", "industrie", "impôt", "taxe", "euro", "milliard", "milliards", "investissement", "usine", "automobile", "faillite", "licenciement", "salarié", "dette", "déficit", "marché", "actionnaire", "résultats trimestriels"]),
+    ("Société", ["société", "éducation", "école", "étudiant", "étudiants", "santé", "hôpital", "justice", "police", "policier", "violence", "logement", "famille", "retraite", "manifestation", "social", "inégalité", "immigration", "procès", "tribunal", "meurtre", "agression", "accident", "drame", "enquête", "garde à vue", "femme", "enfant", "enfants"]),
+    ("Sciences & tech", ["science", "scientifique", "recherche", "intelligence artificielle", " ia ", "technologie", "numérique", "cyber", "cybersécurité", "cyberattaque", "piratage", "espace", "nasa", "robot", "découverte scientifique", "médecine", "vaccin", "santé numérique", "nvidia", "openai", "anthropic", "chatgpt", "semi-conducteur", "logiciel", "ordinateur", "mathématicien", "mathématiques"]),
+    ("Culture", ["culture", "cinéma", "film", "série", "musique", "livre", "roman", "littérature", "exposition", "musée", "théâtre", "artiste", "festival", "goncourt", "prix littéraire", "jeu vidéo", "documentaire", "concert", "album", "chanteur", "télévision"]),
+    ("Sport", ["sport", "sports", "football", "rugby", "tennis", "basket", "olympique", "olympisme", "formule 1", "f1", "tour de france", "ligue 1", "ligue des champions", "championnat", "match", "athlète", "xv de france", "coupe du monde", "masters", "joueur", "entraîneur", "médaille", "stade"]),
+    ("Environnement", ["climat", "environnement", "écologie", "écologique", "biodiversité", "pollution", "réchauffement", "énergie", "énergies", "sécheresse", "inondation", "forêt", "incendie", "transition énergétique", "cop31", "tempête", "crue", "catastrophe naturelle", "vigilance orange", "pluie", "canicule"]),
+    ("International", ["international", "monde", "ukraine", "russie", "états-unis", "états unis", "chine", "iran", "israël", "gaza", "palestine", "onu", "otan", "afrique", "europe", "union européenne", "guerre", "diplomatie", "brésil", "pentagone", "missile", "frappe", "armée", "otage", "moyen-orient", "washington", "moscou", "pékin", "kiev", "hamas", "liban", "syrie", "yémen", "taïwan", "royaume-uni", "ormuz"]),
 ]
 
 # Normalisation commune : les mots-clés doivent correspondre à des mots entiers,
@@ -200,32 +210,54 @@ def clean_text(value: str) -> str:
     value = html.unescape(re.sub(r"<[^>]+>", " ", value or ""))
     return re.sub(r"\s+", " ", value).strip()
 
-def parse_date(entry):
+def parse_date(entry, now: datetime | None = None):
+    """Date de publication en ISO 8601 UTC, ou None si elle est absente, illisible ou dans le futur.
+
+    Les dates sans fuseau sont lues comme UTC. Une date postérieure de plus de 10 minutes à l'heure
+    de collecte (horloge d'éditeur erronée) est ignorée : elle fausserait le tri et le classement.
+    """
+    now = now or datetime.now(timezone.utc)
+    candidates = []
     for key in ("published", "updated", "created"):
         value = entry.get(key)
         if value:
             try:
                 dt = parsedate_to_datetime(value)
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt.astimezone(timezone.utc).isoformat()
-            except Exception:
-                pass
-    for key in ("published_parsed", "updated_parsed"):
+            except (TypeError, ValueError, IndexError):
+                dt = parse_iso_datetime(value)
+            if dt is not None:
+                candidates.append(dt)
+    for key in ("published_parsed", "updated_parsed", "created_parsed"):
         value = entry.get(key)
         if value:
             try:
-                return datetime.fromtimestamp(time.mktime(value), timezone.utc).isoformat()
-            except Exception:
+                # feedparser fournit un struct_time déjà en UTC : timegm évite le décalage de mktime.
+                candidates.append(datetime.fromtimestamp(calendar.timegm(value), timezone.utc))
+            except (TypeError, ValueError, OverflowError):
                 pass
+    for dt in candidates:
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        dt = dt.astimezone(timezone.utc)
+        if dt <= now + timedelta(minutes=10):
+            return dt.isoformat()
     return None
 
-def categorize(text: str) -> str:
-    normalized = f" {normalize_keyword_text(text)} "
+def categorize(text: str, title: str = "") -> str:
+    """Catégorie la mieux représentée par les mots-clés ; le titre compte double.
+
+    En cas d'égalité, l'ordre de ``CATEGORY_RULES`` départage. Sans aucun mot-clé : « Société ».
+    """
+    body = f" {normalize_keyword_text(text)} "
+    head = f" {normalize_keyword_text(title)} " if title else ""
+    best_category, best_score = "Société", 0
     for category, keywords in NORMALIZED_CATEGORY_RULES:
-        if any(f" {keyword} " in normalized for keyword in keywords):
-            return category
-    return "Société"
+        score = sum(1 for keyword in keywords if f" {keyword} " in body)
+        if head:
+            score += sum(1 for keyword in keywords if f" {keyword} " in head)
+        if score > best_score:
+            best_category, best_score = category, score
+    return best_category
 
 def short_summary(entry) -> str:
     """Retient l'extrait RSS le plus riche sans récupérer ni reproduire l'article complet."""
@@ -246,27 +278,6 @@ def short_summary(entry) -> str:
     if len(text) > 360:
         text = text[:357].rsplit(" ", 1)[0] + "…"
     return text or "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour."
-
-# Mots fonctionnels et termes trop génériques pour rapprocher deux actualités.
-STORY_STOPWORDS = set("""
-a au aux avec ce ces dans de des du elle elles en et eux il ils je la le les leur leurs lui ma mais me meme memes mes moi mon ne nos notre nous on ou par pas pour qu que quelle quelles quel quels qui sa sans se ses si son sont sous sur ta te tes toi ton toutes tout tres tu un une vos votre vous cela cette cet donc apres avant aussi alors ainsi autour autre autres avoir etre fait font faire fois selon entre depuis pendant durant chez via vers ici encore quand comme plus moins peu peut peuvent doit doivent apres annonce annoncent annoncee annoncees question questions sujet sujets actualite actualites information informations derniere dernier aujourd hui lundi mardi mercredi jeudi vendredi samedi dimanche france francais francaise francaises francais monde national nationale nationales europe europeen europeenne grande grands grand nouvelles nouvelle nouveaux nouveau premier premiere premiers premieres plusieurs chaque tout toute toutes certains certaines notamment notamment deja serait seraient devrait pourraient etre ete faire faire leurs alors ainsi autant notamment contre autre autres alors bref video videos direct directes suivi suivent revenir revient voir voici voila apres suite cours jour jours semaine semaines lundi mardi mercredi jeudi vendredi samedi dimanche matin soir nuit heures heure parmi partie parties ville villes pays presse media medias source sources article articles selon apres depeche depêche ce lundi ce mardi francais francaise francaises franceinfo monde monde entier
-""".split())
-SOURCE_PRIORITY = {
-    "Franceinfo (TV)": 9, "France Info (Radio)": 9, "Le Monde": 9, "Le Figaro": 8,
-    "Mediapart": 8, "TF1 Info (TF1 / LCI)": 8, "France 24": 8, "RFI": 8,
-    "BFMTV": 7, "CNews": 7, "L'Opinion": 7, "Libération": 7,
-    "Les Échos": 7, "Le Point": 7, "L'Express": 7, "L'Obs": 7,
-    "Sud Ouest": 7, "La Voix du Nord": 7, "Ouest-France": 7,
-    "Courrier International": 7, "Euronews": 7, "France Inter": 7,
-    "France Culture": 7, "RMC": 7, "L'Humanité": 6, "La Croix": 6,
-    "20 Minutes": 6, "Le Dauphiné Libéré": 6, "La Dépêche du Midi": 6,
-    "Midi Libre": 6, "Le JDD": 6, "Alternatives économiques": 6,
-    "Paris Match": 6, "Valeurs actuelles": 6, "Public Sénat": 6,
-    "LCP": 6, "Konbini": 5, "Actu.fr": 5, "Next.ink": 5,
-    "Le Monde Informatique": 5, "Futura": 5, "Reporterre": 5,
-    "Télérama": 5, "CB News": 4, "Creapills": 4,
-    "INA – La Revue des médias": 4,
-}
 
 def story_tokens(text: str) -> set[str]:
     normalized = unicodedata.normalize("NFKD", clean_text(text)).encode("ascii", "ignore").decode("ascii").lower()
@@ -293,152 +304,122 @@ def parse_iso_datetime(value):
     except (TypeError, ValueError):
         return None
 
-def build_featured_stories(articles: list[dict], now: datetime):
-    """Classe 20 sujets de la fenêtre glissante de 30 jours selon la couverture croisée.
+FEATURED_RANKING_METHOD = (
+    "importance sur 30 jours : médias distincts (pondérés) qui relaient la même histoire, persistance sur plusieurs jours, "
+    "volume d'articles, présence en tête des flux, signaux éditoriaux, fraîcheur douce ; "
+    "contenus de confort ou promotionnels écartés et diversité des sujets imposée"
+)
 
-    Les articles proches sont regroupés à partir du chevauchement pondéré des termes
-    de leurs titres et résumés. Le score combine diversité des médias, volume d'articles
-    associés et fraîcheur. C'est un indicateur transparent de couverture, pas un modèle
-    éditorial capable de juger le fond ou de vérifier les faits.
+
+def build_featured_stories(articles: list[dict], now: datetime, archive: list[dict] | None = None):
+    """Classe les 20 actualités les plus importantes de la fenêtre glissante de 30 jours.
+
+    Les articles sont regroupés par sujet (même histoire racontée par plusieurs médias, voir
+    ``story_ranking``) puis notés selon l'étendue de la couverture (médias distincts pondérés),
+    la persistance sur plusieurs jours, le volume, la présence en tête des flux, des signaux
+    éditoriaux et une fraîcheur douce ; une sélection gloutonne impose la diversité des
+    sujets. ``archive`` contient les sujets déjà suivis lors des collectes précédentes.
+
+    Retourne ``(20 sujets, début de fenêtre, nombre d'articles analysés, nombre de médias,
+    archive mise à jour, nombre de sujets suivis)``.
     """
     window_start = now - timedelta(days=FEATURED_DAYS)
-    recent = []
-    for article in articles:
-        published = parse_iso_datetime(article.get("published_at"))
-        if published and window_start <= published <= now + timedelta(minutes=10):
-            item = dict(article)
-            item["_published_dt"] = published
-            item["_title_terms"] = story_tokens(item.get("title", ""))
-            item["_all_terms"] = story_tokens((item.get("title", "") + " " + (item.get("summary", "") or "")[:500]))
-            recent.append(item)
-    if not recent:
-        return [], window_start, len(recent), 0
+    in_window = [
+        a for a in articles
+        if (published := parse_iso_datetime(a.get("published_at"))) and window_start <= published <= now + timedelta(minutes=10)
+    ]
+    stories = story_ranking.update_stories(archive or [], in_window, now)
+    featured = story_ranking.build_monthly_top(stories, now, FEATURED_LIMIT)
+    for item in featured:
+        item["communication_angle"] = communication_angle_for(item["title"], item.get("summary", ""), item["category"])
+    stories = story_ranking.prune_archive(stories, now)
+    sources = {name for story in stories for name in story.get("o", [])}
+    confirmed = sum(1 for story in stories if len(story.get("o", [])) >= 2)
+    return featured, window_start, len(in_window), len(sources), stories, confirmed
 
-    # IDF réduit le poids des mots omniprésents dans le corpus du mois.
-    doc_frequency = {}
-    for item in recent:
-        for term in item["_all_terms"]:
-            doc_frequency[term] = doc_frequency.get(term, 0) + 1
-    n_docs = len(recent)
-    idf = {term: math.log(1 + (n_docs + 1) / (freq + 1)) for term, freq in doc_frequency.items()}
+def download_feed(url: str) -> bytes:
+    """Télécharge un flux avec délai global, taille maximale et une nouvelle tentative."""
+    last_error = None
+    for attempt in range(FETCH_ATTEMPTS):
+        try:
+            started = time.monotonic()
+            with requests.get(url, headers={"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.5"},
+                              timeout=TIMEOUT, stream=True) as response:
+                response.raise_for_status()
+                chunks, size = [], 0
+                for chunk in response.iter_content(chunk_size=65536):
+                    size += len(chunk)
+                    if size > MAX_FEED_BYTES:
+                        raise ValueError("flux trop volumineux")
+                    if time.monotonic() - started > FEED_DEADLINE:
+                        raise TimeoutError("téléchargement trop lent")
+                    chunks.append(chunk)
+                return b"".join(chunks)
+        except (requests.RequestException, ValueError, TimeoutError) as exc:
+            last_error = exc
+            if attempt + 1 < FETCH_ATTEMPTS:
+                time.sleep(2)
+    raise last_error
 
-    def term_weight(terms):
-        return sum(idf.get(term, 1.0) for term in terms)
 
-    def related(a, b):
-        shared_title = a["_title_terms"] & b["_title_terms"]
-        title_min = min(term_weight(a["_title_terms"]), term_weight(b["_title_terms"]))
-        title_overlap = (term_weight(shared_title) / title_min) if title_min else 0.0
-        if len(shared_title) >= 2 and title_overlap >= 0.30:
-            return True
-        shared_all = a["_all_terms"] & b["_all_terms"]
-        if len(shared_all) < 3:
-            return False
-        min_weight = min(term_weight(a["_all_terms"]), term_weight(b["_all_terms"]))
-        if not min_weight:
-            return False
-        containment = term_weight(shared_all) / min_weight
-        union = a["_all_terms"] | b["_all_terms"]
-        jaccard = term_weight(shared_all) / max(term_weight(union), 1e-9)
-        return containment >= 0.34 and jaccard >= 0.10
+def entry_image(entry) -> str | None:
+    """Première image https déclarée par l'entrée RSS (media:content, media:thumbnail, enclosure)."""
+    urls = []
+    for key in ("media_content", "media_thumbnail"):
+        for item in entry.get(key, []) or []:
+            if isinstance(item, dict) and item.get("url"):
+                urls.append(item["url"])
+    for item in entry.get("enclosures", []) or []:
+        if isinstance(item, dict) and item.get("href") and str(item.get("type", "image/")).startswith("image/"):
+            urls.append(item["href"])
+    for url in urls:
+        if isinstance(url, str) and url.startswith("https://") and len(url) <= 600:
+            return url
+    return None
 
-    # Union-find : chaque composante devient un sujet, potentiellement cité par plusieurs médias.
-    parents = list(range(n_docs))
-    def find(x):
-        while parents[x] != x:
-            parents[x] = parents[parents[x]]
-            x = parents[x]
-        return x
-    def union(x, y):
-        rx, ry = find(x), find(y)
-        if rx != ry:
-            parents[ry] = rx
-
-    for i in range(n_docs):
-        for j in range(i + 1, n_docs):
-            if related(recent[i], recent[j]):
-                union(i, j)
-
-    clusters = {}
-    for index, article in enumerate(recent):
-        clusters.setdefault(find(index), []).append(article)
-
-    stories = []
-    for group in clusters.values():
-        unique_sources = sorted(
-            {safe for safe in (x.get("source", "") for x in group) if safe},
-            key=lambda name: (-SOURCE_PRIORITY.get(name, 0), name.lower())
-        )
-        newest = max(x["_published_dt"] for x in group)
-        age_hours = max(0.0, (now - newest).total_seconds() / 3600)
-        freshness = max(0.0, 1.0 - age_hours / (FEATURED_DAYS * 24))
-        # La diversité des médias pèse davantage qu'une répétition par une seule source.
-        feed_positions = [max(0.0, 1.0 - ((min(int(x.get("feed_rank", MAX_PER_SOURCE)), MAX_PER_SOURCE) - 1) / max(1, MAX_PER_SOURCE - 1))) for x in group]
-        feed_prominence = sum(feed_positions) / len(feed_positions) if feed_positions else 0.0
-        score = (4.5 * math.log2(len(unique_sources) + 1)
-                 + 1.35 * math.log2(len(group) + 1)
-                 + 2.0 * freshness
-                 + 1.1 * feed_prominence)
-        # Favoriser un titre récent, avec un extrait lisible et provenant d'une source suivie.
-        representative = max(group, key=lambda x: (
-            x["_published_dt"].timestamp() / 86400
-            + min(len(x.get("summary", "")), 260) / 260 * 0.15
-            + SOURCE_PRIORITY.get(x.get("source", ""), 0) / 100
-        ))
-        story = {k: v for k, v in representative.items() if not k.startswith("_")}
-        story.update({
-            "coverage_sources": unique_sources,
-            "coverage_count": len(unique_sources),
-            "mention_count": len(group),
-            "importance_score": round(score, 3),
-            "latest_coverage_at": newest.isoformat(),
-        })
-        stories.append(story)
-
-    stories.sort(key=lambda x: (x["importance_score"], x.get("published_at") or ""), reverse=True)
-    distinct_sources = len({x.get("source") for x in recent if x.get("source")})
-    return stories[:FEATURED_LIMIT], window_start, len(recent), distinct_sources
 
 def fetch_feed_articles(feed: dict):
     """Récupère un flux indépendamment ; une source en panne n'arrête pas les autres."""
     try:
-        response = requests.get(
-            feed["url"],
-            headers={"User-Agent": USER_AGENT},
-            timeout=TIMEOUT,
-        )
-        response.raise_for_status()
-        parsed = feedparser.parse(response.content)
+        parsed = feedparser.parse(download_feed(feed["url"]))
         if not parsed.entries:
             return feed["name"], [], "flux vide ou format non reconnu"
 
+        now = datetime.now(timezone.utc)
         collected = []
         for feed_rank, entry in enumerate(parsed.entries, start=1):
             if feed_rank > MAX_PER_SOURCE:
                 break
-            title = clean_text(entry.get("title", ""))
-            url = entry.get("link", "")
-            if not title or not url.startswith(("http://", "https://")):
-                continue
-            normalized_url = url.split("#", 1)[0].split("?", 1)[0].rstrip("/")
-            fingerprint = hashlib.sha256(
-                (title.lower() + "|" + normalized_url).encode()
-            ).hexdigest()
-            published = parse_date(entry)
-            raw_summary = clean_text(entry.get("summary", ""))
-            summary = short_summary(entry)
-            category = categorize(title + " " + raw_summary)
-            collected.append({
-                "id": fingerprint[:12],
-                "title": title[:240],
-                "summary": summary,
-                "source": feed["name"],
-                "feed_rank": feed_rank,
-                "url": url,
-                "published_at": published,
-                "category": category,
-                "communication_angle": communication_angle_for(title, summary, category),
-            })
+            try:
+                title = clean_text(entry.get("title", ""))
+                url = str(entry.get("link", "") or "").strip()
+                if not title or not url.startswith(("http://", "https://")):
+                    continue
+                normalized_url = url.split("#", 1)[0].split("?", 1)[0].rstrip("/")
+                fingerprint = hashlib.sha256(
+                    (title.lower() + "|" + normalized_url).encode()
+                ).hexdigest()
+                published = parse_date(entry, now)
+                raw_summary = clean_text(entry.get("summary", ""))
+                summary = short_summary(entry)
+                category = categorize(title + " " + raw_summary, title)
+                article = {
+                    "id": fingerprint[:12],
+                    "title": title[:240],
+                    "summary": summary,
+                    "source": feed["name"],
+                    "feed_rank": feed_rank,
+                    "url": url,
+                    "published_at": published,
+                    "category": category,
+                    "communication_angle": communication_angle_for(title, summary, category),
+                }
+                image = entry_image(entry) if COLLECT_IMAGES else None
+                if image:
+                    article["image"] = image
+                collected.append(article)
+            except Exception as exc:  # une entrée mal formée ne doit pas faire perdre le reste du flux
+                print(f"[WARN] Entrée ignorée ({feed['name']}) : {type(exc).__name__}: {exc}")
         if not collected:
             return feed["name"], [], "aucun article avec titre et lien exploitable"
         return feed["name"], collected, None
@@ -581,6 +562,31 @@ def deduplicate_articles(articles: list[dict], max_age_hours: int = 72) -> list[
     return deduplicated
 
 
+def write_json_atomic(path: Path, data, **dump_options) -> None:
+    """Écrit le JSON dans un fichier temporaire puis le renomme : jamais de fichier tronqué."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_name(path.name + ".tmp")
+    try:
+        temporary.write_text(json.dumps(data, ensure_ascii=False, **dump_options), encoding="utf-8")
+        os.replace(temporary, path)
+    finally:
+        if temporary.exists():
+            temporary.unlink()
+
+
+def load_archive() -> list[dict]:
+    """Sujets suivis lors des collectes précédentes ; liste vide si le fichier manque ou est illisible."""
+    try:
+        data = json.loads(ARCHIVE.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return []
+    except (OSError, json.JSONDecodeError) as exc:
+        print(f"[WARN] Archive des sujets illisible, elle sera reconstruite : {type(exc).__name__}: {exc}")
+        return []
+    stories = data.get("stories") if isinstance(data, dict) else None
+    return [s for s in stories if isinstance(s, dict)] if isinstance(stories, list) else []
+
+
 def main():
     OUT.parent.mkdir(parents=True, exist_ok=True)
     articles, errors = [], []
@@ -608,7 +614,7 @@ def main():
             return
         previous_data["note"] = "La collecte a échoué pour tous les flux. Les articles affichés proviennent de la dernière collecte réussie."
         previous_data["last_attempt"] = now_dt.isoformat()
-        OUT.write_text(json.dumps(previous_data, ensure_ascii=False, indent=2), encoding="utf-8")
+        write_json_atomic(OUT, previous_data, indent=2)
         print("Aucun flux récupéré : les données précédentes sont conservées.")
         return
 
@@ -645,9 +651,27 @@ def main():
     unique_articles = deduplicate_articles(all_fetched_articles)
     articles = unique_articles[:MAX_TOTAL]
     now = now_dt.isoformat()
-    # Le baromètre continue d'examiner les articles de tous les médias, avant dédoublonnage,
-    # afin de mesurer correctement la couverture d'un même sujet par plusieurs rédactions.
-    featured_news, window_start, featured_pool_count, featured_sources_count = build_featured_stories(all_fetched_articles, now_dt)
+
+    # Le classement du mois examine les articles de tous les médias, avant dédoublonnage, afin de
+    # mesurer la couverture d'un même sujet par plusieurs rédactions. Les sujets déjà suivis
+    # (data/story_archive.json) apportent la persistance sur 30 jours ; à défaut d'archive, la
+    # collecte précédente sert d'amorce. Une erreur de classement ne doit jamais bloquer la collecte.
+    archive = load_archive()
+    pool = all_fetched_articles
+    if not archive and isinstance(previous_data.get("articles"), list):
+        pool = all_fetched_articles + [a for a in previous_data["articles"] if isinstance(a, dict)]
+    story_archive = None
+    try:
+        featured_news, window_start, featured_pool_count, featured_sources_count, story_archive, featured_story_count = (
+            build_featured_stories(pool, now_dt, archive)
+        )
+    except Exception as exc:
+        print(f"[WARN] Classement du mois indisponible, dernier classement conservé : {type(exc).__name__}: {exc}")
+        featured_news = previous_data.get("featured_news") if isinstance(previous_data.get("featured_news"), list) else []
+        window_start = now_dt - timedelta(days=FEATURED_DAYS)
+        featured_pool_count = int(previous_data.get("featured_pool_count") or 0)
+        featured_sources_count = int(previous_data.get("featured_sources_count") or 0)
+        featured_story_count = int(previous_data.get("featured_story_count") or 0)
     data = {
         "last_updated": now,
         "last_attempt": now,
@@ -661,13 +685,17 @@ def main():
         "featured_window_start": window_start.isoformat(),
         "featured_window_end": now,
         "featured_pool_count": featured_pool_count,
+        "featured_story_count": featured_story_count,
         "featured_sources_count": featured_sources_count,
-        "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
+        "featured_ranking_method": FEATURED_RANKING_METHOD,
         "featured_news": featured_news,
         "articles": articles,
     }
-    OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Collecte terminée : {len(articles)} articles, {len(featured_news)} sujets mis en avant sur 30 jours, {len(errors)} flux en erreur.")
+    # Écritures atomiques : d'abord l'archive (si elle a été recalculée), puis le fichier publié.
+    if story_archive is not None:
+        write_json_atomic(ARCHIVE, {"version": 1, "updated_at": now, "stories": story_archive}, separators=(",", ":"))
+    write_json_atomic(OUT, data, indent=2)
+    print(f"Collecte terminée : {len(articles)} articles, {len(featured_news)} actualités du mois sélectionnées, {len(errors)} flux en erreur.")
 
 if __name__ == "__main__":
     main()
