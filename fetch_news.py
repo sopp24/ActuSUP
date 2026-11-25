@@ -106,7 +106,8 @@ CATEGORY_RULES = [
 # Normalisation commune : les mots-clés doivent correspondre à des mots entiers,
 # pas à de simples sous-chaînes (ex. « loi » ne doit pas classer « emploi » en politique).
 def normalize_keyword_text(value: str) -> str:
-    normalized = unicodedata.normalize("NFKD", str(value or "")).encode("ascii", "ignore").decode("ascii").lower()
+    # Apostrophes typographiques (’) = apostrophe droite, sinon « pouvoir d’achat » ne correspond pas à « pouvoir d'achat ».
+    normalized = unicodedata.normalize("NFKD", str(value or "").translate(story_ranking._APOSTROPHES)).encode("ascii", "ignore").decode("ascii").lower()
     tokens = re.sub(r"[^a-z0-9]+", " ", normalized).split()
     # Réduire quelques pluriels français réguliers sans confondre des sous-chaînes.
     singularized = []
@@ -280,7 +281,7 @@ def short_summary(entry) -> str:
     return text or "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour."
 
 def story_tokens(text: str) -> set[str]:
-    normalized = unicodedata.normalize("NFKD", clean_text(text)).encode("ascii", "ignore").decode("ascii").lower()
+    normalized = story_ranking.fold(clean_text(text))
     tokens = set(re.findall(r"[a-z0-9]{3,}", normalized))
     result = set()
     for token in tokens:
@@ -311,10 +312,10 @@ FEATURED_RANKING_METHOD = (
 )
 
 
-def build_featured_stories(articles: list[dict], now: datetime, archive: list[dict] | None = None):
+def build_featured_stories(articles: list[dict], now: datetime, archive: dict | None = None):
     """Classe les 20 actualités les plus importantes de la fenêtre glissante de 30 jours.
 
-    Les articles sont regroupés par sujet (même histoire racontée par plusieurs médias, voir
+    Les articles sont regroupés par histoire (même sujet raconté par plusieurs médias, voir
     ``story_ranking``) puis notés selon l'étendue de la couverture (médias distincts pondérés),
     la persistance sur plusieurs jours, le volume, la présence en tête des flux, des signaux
     éditoriaux et une fraîcheur douce ; une sélection gloutonne impose la diversité des
@@ -328,14 +329,15 @@ def build_featured_stories(articles: list[dict], now: datetime, archive: list[di
         a for a in articles
         if (published := parse_iso_datetime(a.get("published_at"))) and window_start <= published <= now + timedelta(minutes=10)
     ]
-    stories = story_ranking.update_stories(archive or [], in_window, now)
+    updated = story_ranking.update_archive(archive, in_window, now)
+    stories = updated["stories"]
     featured = story_ranking.build_monthly_top(stories, now, FEATURED_LIMIT)
     for item in featured:
         item["communication_angle"] = communication_angle_for(item["title"], item.get("summary", ""), item["category"])
-    stories = story_ranking.prune_archive(stories, now)
     sources = {name for story in stories for name in story.get("o", [])}
     confirmed = sum(1 for story in stories if len(story.get("o", [])) >= 2)
-    return featured, window_start, len(in_window), len(sources), stories, confirmed
+    return featured, window_start, len(in_window), len(sources), updated, confirmed
+
 
 def download_feed(url: str) -> bytes:
     """Télécharge un flux avec délai global, taille maximale et une nouvelle tentative."""
@@ -574,17 +576,16 @@ def write_json_atomic(path: Path, data, **dump_options) -> None:
             temporary.unlink()
 
 
-def load_archive() -> list[dict]:
-    """Sujets suivis lors des collectes précédentes ; liste vide si le fichier manque ou est illisible."""
+def load_archive() -> dict:
+    """Archive des sujets suivis lors des collectes précédentes ; vide si absente ou illisible."""
     try:
         data = json.loads(ARCHIVE.read_text(encoding="utf-8"))
     except FileNotFoundError:
-        return []
+        return {}
     except (OSError, json.JSONDecodeError) as exc:
         print(f"[WARN] Archive des sujets illisible, elle sera reconstruite : {type(exc).__name__}: {exc}")
-        return []
-    stories = data.get("stories") if isinstance(data, dict) else None
-    return [s for s in stories if isinstance(s, dict)] if isinstance(stories, list) else []
+        return {}
+    return data if isinstance(data, dict) and isinstance(data.get("stories"), list) else {}
 
 
 def main():
@@ -658,7 +659,7 @@ def main():
     # collecte précédente sert d'amorce. Une erreur de classement ne doit jamais bloquer la collecte.
     archive = load_archive()
     pool = all_fetched_articles
-    if not archive and isinstance(previous_data.get("articles"), list):
+    if not archive.get("stories") and isinstance(previous_data.get("articles"), list):
         pool = all_fetched_articles + [a for a in previous_data["articles"] if isinstance(a, dict)]
     story_archive = None
     try:
@@ -693,7 +694,7 @@ def main():
     }
     # Écritures atomiques : d'abord l'archive (si elle a été recalculée), puis le fichier publié.
     if story_archive is not None:
-        write_json_atomic(ARCHIVE, {"version": 1, "updated_at": now, "stories": story_archive}, separators=(",", ":"))
+        write_json_atomic(ARCHIVE, story_archive, separators=(",", ":"))
     write_json_atomic(OUT, data, indent=2)
     print(f"Collecte terminée : {len(articles)} articles, {len(featured_news)} actualités du mois sélectionnées, {len(errors)} flux en erreur.")
 

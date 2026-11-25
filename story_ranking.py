@@ -45,12 +45,13 @@ JOIN_GROWTH = 0.04
 JOIN_THRESHOLD = 0.36       # similarité cosinus minimale pour rattacher un article à un sujet
 MIN_SHARED_TERMS = 3
 ENTITY_BOOST = 1.6
-TITLE_WEIGHT = 2.0
+TITLE_WEIGHT = 2
 SUMMARY_CHARS = 320
-CENTROID_TERMS = 28
+CENTROID_TERMS = 22
 CORE_TERMS = 14
-IDS_KEPT = 60
-FRESH_HOURS = 8             # un article isolé n'est conservé que 8 h, le temps qu'un second média le rejoigne
+FRESH_HOURS = 4             # un article isolé n'est conservé que 4 h, le temps qu'un second média le rejoigne
+SEEN_HOURS = 12             # identifiants d'articles mémorisés : évite de compter deux fois un article revu
+SINCE_MARGIN_HOURS = 6      # à chaque collecte, seuls les articles publiés depuis la précédente (- 6 h) sont examinés
 
 # Mots fonctionnels et termes trop génériques pour rapprocher deux actualités.
 STOPWORDS = set("""
@@ -112,8 +113,12 @@ CATEGORIES_NEUTRAL = "Société"
 # --------------------------------------------------------------------------- texte
 
 
+_APOSTROPHES = str.maketrans({"’": "'", "‘": "'", "ʼ": "'", "´": "'", "`": "'"})
+
+
 def fold(text: str) -> str:
-    return unicodedata.normalize("NFKD", str(text or "")).encode("ascii", "ignore").decode("ascii").lower()
+    """Minuscules sans accents ; les apostrophes typographiques valent l'apostrophe droite (l’Élysée = l'Élysée)."""
+    return unicodedata.normalize("NFKD", str(text or "").translate(_APOSTROPHES)).encode("ascii", "ignore").decode("ascii").lower()
 
 
 def stem(token: str) -> str:
@@ -127,14 +132,25 @@ def stem(token: str) -> str:
     return token
 
 
+_ACRONYM_RE = re.compile(r"(?<![A-Za-zÀ-ÿ0-9])[A-Z]{2}(?![A-Za-zÀ-ÿ0-9])")
+
+
 def tokenize(text: str) -> list[str]:
-    """Termes significatifs (ASCII, minuscules, sans mots vides ni nombres)."""
+    """Termes significatifs (ASCII, minuscules, sans mots vides ni nombres).
+
+    Les sigles de deux lettres écrits en capitales (RN, UE, PS, LR…) sont conservés : ils désignent
+    souvent l'acteur central d'une actualité politique.
+    """
     out = []
     for token in re.findall(r"[a-z0-9]{3,}", fold(text)):
         if token.isdigit():
             continue
         token = stem(token)
         if len(token) >= 3 and token not in STOPWORDS:
+            out.append(token)
+    for acronym in _ACRONYM_RE.findall(str(text or "")):
+        token = acronym.lower()
+        if token not in STOPWORDS:
             out.append(token)
     return out
 
@@ -214,11 +230,11 @@ def article_features(article: dict) -> dict | None:
     source = str(article.get("source") or "").strip()
     if not title or not published or not source:
         return None
-    tf: dict[str, float] = {}
+    tf: dict[str, int] = {}
     for token in tokenize(title):
-        tf[token] = tf.get(token, 0.0) + TITLE_WEIGHT
+        tf[token] = tf.get(token, 0) + TITLE_WEIGHT
     for token in tokenize(str(article.get("summary") or "")[:SUMMARY_CHARS]):
-        tf[token] = tf.get(token, 0.0) + 1.0
+        tf[token] = tf.get(token, 0) + 1
     if not tf:
         return None
     return {
@@ -295,7 +311,7 @@ def _rep_record(article: dict, quality: float) -> dict:
     return {
         "id": str(article.get("id") or ""),
         "title": str(article.get("title") or "")[:240],
-        "summary": str(article.get("summary") or "")[:240],
+        "summary": str(article.get("summary") or "")[:200],
         "source": str(article.get("source") or ""),
         "feed_rank": article.get("feed_rank"),
         "url": str(article.get("url") or ""),
@@ -320,7 +336,6 @@ def _new_story(feat: dict, similarity: float = 1.0) -> dict:
         "c": {},
         "hs": 0,
         "ls": 0,
-        "ids": [],
         "rep": _rep_record(article, -9.0),
     }
     return story
@@ -329,9 +344,9 @@ def _new_story(feat: dict, similarity: float = 1.0) -> dict:
 def _absorb(story: dict, feat: dict, similarity: float) -> None:
     article = feat["article"]
     for term, weight in feat["tf"].items():
-        story["k"][term] = round(story["k"].get(term, 0.0) + weight, 1)
+        story["k"][term] = story["k"].get(term, 0) + weight
     story["e"] = sorted(set(story["e"]) | feat["ent"])
-    if len(story["k"]) > CENTROID_TERMS + 12:
+    if len(story["k"]) > CENTROID_TERMS + 8:
         keep = sorted(story["k"].items(), key=lambda kv: (-kv[1], kv[0]))[:CENTROID_TERMS]
         story["k"] = dict(keep)
         story["e"] = [term for term in story["e"] if term in story["k"]]
@@ -348,9 +363,6 @@ def _absorb(story: dict, feat: dict, similarity: float) -> None:
     story["c"][category] = story["c"].get(category, 0) + 1
     story["hs"] += 1 if has_term(feat["folded"], HARD_NEWS_TERMS) else 0
     story["ls"] += 1 if (has_term(feat["folded"], LOW_SIGNAL_TERMS) or RECURRING_DATE_RE.search(feat["folded"])) else 0
-    article_id = str(article.get("id") or "")
-    if article_id:
-        story["ids"] = (story["ids"] + [article_id])[-IDS_KEPT:]
     quality = representative_quality(feat, similarity)
     if quality > story["rep"].get("q", -9.0):
         story["rep"] = _rep_record(article, quality)
@@ -361,11 +373,14 @@ def join_threshold(story: dict) -> float:
     return JOIN_THRESHOLD + JOIN_GROWTH * math.log2(1.0 + int(story.get("m") or 1) / 10.0)
 
 
-def update_stories(stories: list[dict], articles: list[dict], now: datetime) -> list[dict]:
+def update_stories(stories: list[dict], articles: list[dict], now: datetime,
+                   skip_ids: set | None = None, since: datetime | None = None) -> list[dict]:
     """Rattache ``articles`` aux ``stories`` existantes (ou en crée) et retire celles de plus de 30 jours.
 
-    La fonction est déterministe et idempotente : réinjecter un article déjà connu (même ``id``)
-    ne change ni le nombre de mentions ni le score.
+    ``skip_ids`` : identifiants d'articles déjà comptés (collectes précédentes) ; ``since`` : les
+    articles publiés avant cette date ont déjà été examinés. La fonction est déterministe ; un
+    article présent deux fois dans le lot (même ``id``) n'est compté qu'une fois, ses médias
+    supplémentaires étant fusionnés.
     """
     window_start = now - timedelta(days=WINDOW_DAYS)
     stories = [dict(story) for story in stories if isinstance(story, dict) and story.get("k")]
@@ -380,26 +395,23 @@ def update_stories(stories: list[dict], articles: list[dict], now: datetime) -> 
         if not isinstance(article, dict):
             continue
         feat = article_features(article)
-        if feat and window_start <= feat["dt"] <= now + timedelta(minutes=10):
+        if feat and window_start <= feat["dt"] <= now + timedelta(minutes=10) and (since is None or feat["dt"] >= since):
             feats.append(feat)
     feats.sort(key=lambda f: (f["dt"], str(f["article"].get("id") or "")))
 
-    # Un article déjà vu (collecte précédente) ou présent deux fois dans le lot (même titre et même URL
-    # dans deux flux) n'est compté qu'une fois ; son éventuel média supplémentaire est simplement ajouté.
-    known = {i: n for n, story in enumerate(stories) for i in story.get("ids", [])}
+    skip_ids = skip_ids or set()
     batch: dict[str, dict] = {}
     unique = []
     for feat in feats:
         article_id = str(feat["article"].get("id") or "")
-        if article_id and article_id in known:
-            owner = stories[known[article_id]]
-            owner["o"] = sorted(set(owner["o"]) | feat["outlets"])
-        elif article_id and article_id in batch:
+        if article_id and article_id in skip_ids:
+            continue
+        if article_id and article_id in batch:
             batch[article_id]["outlets"] = batch[article_id]["outlets"] | feat["outlets"]
-        else:
-            if article_id:
-                batch[article_id] = feat
-            unique.append(feat)
+            continue
+        if article_id:
+            batch[article_id] = feat
+        unique.append(feat)
     feats = unique
     if not feats:
         return stories
@@ -451,6 +463,42 @@ def update_stories(stories: list[dict], articles: list[dict], now: datetime) -> 
             _absorb(stories[-1], feat, 0.5)  # le premier article ne « ressemble » pas encore au sujet
             index_story(len(stories) - 1)
     return stories
+
+
+# --------------------------------------------------------------------------- archive
+
+
+def update_archive(archive: dict | None, articles: list[dict], now: datetime) -> dict:
+    """Met à jour l'archive ``{"updated_at", "seen" (id -> minute de publication), "stories"}`` avec les articles d'une collecte.
+
+    Sans archive, tous les articles de la fenêtre de 30 jours sont examinés. Avec une archive, seuls
+    ceux publiés depuis la collecte précédente (moins ``SINCE_MARGIN_HOURS``) le sont, et ``seen``
+    mémorise les identifiants des 12 dernières heures pour ne compter chaque article qu'une fois.
+    """
+    archive = archive if isinstance(archive, dict) else {}
+    previous = parse_dt(archive.get("updated_at"))
+    since = previous - timedelta(hours=SINCE_MARGIN_HOURS) if previous and previous <= now else None
+    # On garde les identifiants au moins aussi loin que « since », sinon un article publié entre
+    # « since » et « maintenant - 12 h » (collecte précédente très ancienne) serait recompté.
+    horizon = min(now - timedelta(hours=SEEN_HOURS), since or now)
+    cutoff_minute = int(horizon.timestamp() // 60)
+    seen = {
+        str(i): int(minute) for i, minute in (archive.get("seen") or {}).items()
+        if isinstance(minute, (int, float)) and minute >= cutoff_minute
+    } if isinstance(archive.get("seen"), dict) else {}
+    stories = update_stories(archive.get("stories") or [], articles, now, skip_ids=set(seen), since=since)
+    for article in articles:
+        if not isinstance(article, dict) or not article.get("id"):
+            continue
+        published = parse_dt(article.get("published_at"))
+        if published and int(published.timestamp() // 60) >= cutoff_minute:
+            seen[str(article["id"])] = int(published.timestamp() // 60)
+    return {
+        "version": 1,
+        "updated_at": now.isoformat(),
+        "seen": dict(sorted(seen.items())),
+        "stories": prune_archive(stories, now),
+    }
 
 
 # --------------------------------------------------------------------------- score
@@ -528,7 +576,11 @@ def select_top_stories(stories: list[dict], now: datetime, limit: int = FEATURED
             if value > best_value:
                 best, best_value = p, value
         if best is None:
-            break
+            # Plus aucun sujet « dans les clous » : on relâche le plafond de catégorie pour atteindre 20.
+            relaxed = [p for p in remaining if not chosen or max(_cosine(p["vec"], c["vec"])[0] for c in chosen) < 0.55]
+            if not relaxed:
+                break
+            best = max(relaxed, key=lambda p: (p["score"] * (category_penalty ** counts.get(p["category"], 0)), p["story"].get("id", "")))
         chosen.append(best)
         counts[best["category"]] = counts.get(best["category"], 0) + 1
         remaining.remove(best)
@@ -558,7 +610,7 @@ def build_monthly_top(stories: list[dict], now: datetime, limit: int = FEATURED_
     return [story_to_featured(s) for s in select_top_stories(stories, now, limit)]
 
 
-def prune_archive(stories: list[dict], now: datetime, max_stories: int = 500) -> list[dict]:
+def prune_archive(stories: list[dict], now: datetime, max_stories: int = 360) -> list[dict]:
     """Réduit l'archive aux sujets utiles pour le classement du mois.
 
     Sont conservés : les ``max_stories`` sujets recoupés par au moins deux médias ayant le meilleur
@@ -577,6 +629,6 @@ def prune_archive(stories: list[dict], now: datetime, max_stories: int = 500) ->
         elif last >= fresh_cut:
             fresh.append(story)
     confirmed.sort(key=lambda s: (-score_story(s, now), s.get("id", "")))
-    kept = confirmed[:max_stories] + fresh[:400]
+    kept = confirmed[:max_stories] + fresh[:200]
     kept.sort(key=lambda s: s.get("id", ""))
     return kept
