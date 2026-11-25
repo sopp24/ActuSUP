@@ -93,13 +93,12 @@ HARD_NEWS_TERMS = [
 ]
 LOW_SIGNAL_TERMS = [
     "horoscope", "recette", "bon plan", "jeu concours", "quiz", "idee cadeau", "code promo", "promo", "soldes",
-    "black friday", "test", "tuto", "astuce", "que voir", "a voir", "ou regarder", "meilleurs", "meilleures",
-    "selection", "classement des", "top 10", "top 5", "people", "telerealite", "koh lanta", "star academy",
-    "meteo du jour", "tirage", "loto", "euromillions", "mot fleche", "sudoku", "newsletter", "podcast",
-    "decouvrez", "on vous dit tout", "notre avis", "critique", "serie a regarder", "ce week end", "sortie ciné",
-    "bien etre", "mode", "beaute", "deco", "voyage", "jardinage", "shopping", "partenariat", "sponsorise",
-    "edito", "editorial", "tribune", "chronique", "revue de presse", "l info du jour", "l expresso", "top ou stop",
-    "c est deja demain", "bonjour", "invite de", "temoignage",
+    "black friday", "tuto", "astuce", "que voir", "a voir", "ou regarder", "meilleurs", "meilleures",
+    "top 10", "top 5", "people", "telerealite", "koh lanta", "star academy", "meteo du jour", "loto",
+    "euromillions", "mot fleche", "sudoku", "newsletter", "podcast", "decouvrez", "on vous dit tout",
+    "notre avis", "serie a regarder", "sortie cine", "bien etre", "beaute", "jardinage", "shopping",
+    "partenariat", "sponsorise", "edito", "editorial", "tribune", "chronique", "revue de presse",
+    "l info du jour", "l expresso", "top ou stop", "c est deja demain",
 ]
 # Rubriques récurrentes datées (« du jeudi 19 novembre 2026 ») : contenu de flux, pas un événement.
 RECURRING_DATE_RE = re.compile(
@@ -324,7 +323,7 @@ def _rep_record(article: dict, quality: float) -> dict:
 def _new_story(feat: dict, similarity: float = 1.0) -> dict:
     article = feat["article"]
     story = {
-        "id": hashlib.sha1(str(article.get("id") or article.get("url") or article.get("title")).encode()).hexdigest()[:12],
+        "id": str(article.get("id") or "") or hashlib.sha1(str(article.get("url") or article.get("title")).encode()).hexdigest()[:12],
         "k": {},
         "e": [],
         "o": [],
