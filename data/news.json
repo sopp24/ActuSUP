@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-26T01:23:51.087600+00:00",
-  "last_attempt": "2026-11-26T01:23:51.087600+00:00",
+  "last_updated": "2026-11-26T02:59:27.187321+00:00",
+  "last_attempt": "2026-11-26T02:59:27.187321+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
-  "raw_article_count": 908,
+  "raw_article_count": 907,
   "unique_story_count": 801,
   "sources_configured": 46,
   "sources_with_errors": [
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-27T01:23:51.087600+00:00",
-  "featured_window_end": "2026-11-26T01:23:51.087600+00:00",
-  "featured_pool_count": 906,
+  "featured_window_start": "2026-10-27T02:59:27.187321+00:00",
+  "featured_window_end": "2026-11-26T02:59:27.187321+00:00",
+  "featured_pool_count": 904,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "03d528ad0b85",
-      "title": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
-      "summary": "Menés (0-1) après une terne première période, les Lillois ont bien réagi, mercredi 25 novembre, pour remporter une victoire cruciale (2-1) et de prestige face aux Bavarois. Vingt-neuvièmes au classement avec quatre points, ils conservent leurs chances d’accrocher une place de barragistes.",
-      "source": "Le Monde",
-      "feed_rank": 3,
-      "url": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
-      "published_at": "2026-11-26T00:15:53+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "id": "4d03f78ef325",
+      "title": "Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages",
+      "summary": "C'est l'un des grands enjeux pour les candidats à la présidentielle française de 2027 : obtenir les fameux 500 parrainages d'élus de maires, députés, conseillers départementaux et régionaux. À chaque élection, certains ratent cette étape incontournable et sont donc contraints d'abandonner la course. En cause notamment : la réticence des maires. Près d'un…",
+      "source": "RFI",
+      "feed_rank": 1,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261125-pr%C3%A9sidentielle-2027-pour-les-candidats-comme-pour-les-maires-la-gal%C3%A8re-des-parrainages",
+      "published_at": "2026-11-25T23:06:58+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -46,7 +46,6 @@
         "L'Obs",
         "L'Opinion",
         "Libération",
-        "Ouest-France",
         "RMC",
         "Sud Ouest",
         "20 Minutes",
@@ -62,10 +61,42 @@
         "Valeurs actuelles",
         "Télérama"
       ],
-      "coverage_count": 31,
-      "mention_count": 165,
-      "importance_score": 35.08,
-      "latest_coverage_at": "2026-11-26T01:21:24+00:00"
+      "coverage_count": 30,
+      "mention_count": 137,
+      "importance_score": 34.47,
+      "latest_coverage_at": "2026-11-25T23:15:03+00:00"
+    },
+    {
+      "id": "637a54c6706c",
+      "title": "Ligue des champions : le PSG tenu en échec par l’AS Roma après une prestation poussive qui met en lumière l’absence de Doué et de « Kvara »",
+      "summary": "Le double champion d’Europe a été tenu en échec sur sa pelouse (2-2), mercredi, par de valeureux Italiens. Alors que le forfait de longue durée de ses deux attaquants majeurs s’est fait ressentir, le club doit trancher la question d’une éventuelle recrue.",
+      "source": "Le Monde",
+      "feed_rank": 3,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-psg-tenu-en-echec-par-l-as-roma-apres-une-prestation-poussive-qui-met-en-lumiere-l-absence-de-doue-et-de-kvara_6815333_3242.html",
+      "published_at": "2026-11-26T02:08:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : le PSG tenu en échec par l’AS Roma après une prestation poussive qui met en lumière l’absence de Doué et de « Kvara » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "France 24",
+        "Le Figaro",
+        "RFI",
+        "TF1 Info (TF1 / LCI)",
+        "BFMTV",
+        "CNews",
+        "Libération",
+        "Ouest-France",
+        "Sud Ouest",
+        "20 Minutes",
+        "La Croix",
+        "Midi Libre"
+      ],
+      "coverage_count": 15,
+      "mention_count": 25,
+      "importance_score": 27.143,
+      "latest_coverage_at": "2026-11-26T02:08:03+00:00"
     },
     {
       "id": "61e144af1b3e",
@@ -85,30 +116,28 @@
         "France Inter",
         "L'Express",
         "Sud Ouest",
-        "20 Minutes",
         "Le Dauphiné Libéré",
         "Télérama"
       ],
-      "coverage_count": 10,
-      "mention_count": 13,
-      "importance_score": 23.279,
+      "coverage_count": 9,
+      "mention_count": 12,
+      "importance_score": 22.552,
       "latest_coverage_at": "2026-11-25T23:02:00+00:00"
     },
     {
-      "id": "c16a27cd9ae6",
-      "title": "Droits de douane : les arguments déroutants de Donald Trump pour relancer son offensive commerciale",
-      "summary": "DÉCRYPTAGE - Chine, Suisse, Japon, Europe... L’Administration Trump brandit de nouveaux prétextes pour surtaxer ses principaux partenaires économiques. Une multitude de pratiques « déloyales » nuisent à l’économie américaine, juge le département au Commerce.",
-      "source": "Le Figaro",
-      "feed_rank": 20,
-      "url": "https://www.lefigaro.fr/conjoncture/droits-de-douane-les-arguments-deroutants-de-donald-trump-pour-relancer-son-offensive-commerciale-20261125",
-      "published_at": "2026-11-25T19:15:00+00:00",
-      "category": "Économie",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Droits de douane : les arguments déroutants de Donald Trump pour relancer son offensive commerciale ».",
+      "id": "bc7be9bc9674",
+      "title": "Après la débâcle des midterms, Donald Trump acte le retour de sa politique de droits de douane",
+      "summary": "Neuf mois après avoir été désavoué par la Cour suprême états-unienne, Donald Trump réinstaure sa politique douanière à l’égard des principaux partenaires commerciaux de Washington. Une stratégie qui illustre sa détermination à réaffirmer sa logique de rapport de force à l’intérieur comme à l’extérieur.",
+      "source": "Mediapart",
+      "feed_rank": 4,
+      "url": "https://www.mediapart.fr/journal/international/251126/apres-la-debacle-des-midterms-donald-trump-acte-le-retour-de-sa-politique-de-droits-de-douane",
+      "published_at": "2026-11-25T18:13:25+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Après la débâcle des midterms, Donald Trump acte le retour de sa politique de droits de douane » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
         "Le Monde",
-        "Le Figaro",
         "Mediapart",
         "RFI",
         "Euronews",
@@ -116,34 +145,10 @@
         "L'Humanité",
         "La Croix"
       ],
-      "coverage_count": 10,
-      "mention_count": 10,
-      "importance_score": 22.771,
-      "latest_coverage_at": "2026-11-25T19:15:00+00:00"
-    },
-    {
-      "id": "141f208b509d",
-      "title": "64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation",
-      "summary": "64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation 64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation thierry.wojciak mer 25/11/2026 - 20:16 Etudes",
-      "source": "CB News",
-      "feed_rank": 1,
-      "url": "https://www.cbnews.fr/etudes/64-professionnels-communication-du-marketing-medias-ont-deploye-ia-leur-organisation",
-      "published_at": "2026-11-25T19:16:25+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « 64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation ».",
-      "coverage_sources": [
-        "L'Express",
-        "L'Obs",
-        "Paris Match",
-        "Le Monde Informatique",
-        "Next.ink",
-        "CB News",
-        "Creapills"
-      ],
-      "coverage_count": 7,
-      "mention_count": 16,
-      "importance_score": 21.829,
-      "latest_coverage_at": "2026-11-25T19:16:25+00:00"
+      "coverage_count": 9,
+      "mention_count": 9,
+      "importance_score": 21.995,
+      "latest_coverage_at": "2026-11-25T18:13:25+00:00"
     },
     {
       "id": "a1f3dbc79c6f",
@@ -167,7 +172,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.333,
+      "importance_score": 21.323,
       "latest_coverage_at": "2026-11-26T00:50:04+00:00"
     },
     {
@@ -175,7 +180,7 @@
       "title": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
       "summary": "Le sinistre s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur un axe très fréquenté, selon les médias d’Etat. Le ministère de la santé égyptien a également fait état d’au moins 15 blessés, dont quatre dans un état critique.",
       "source": "Le Monde",
-      "feed_rank": 13,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/afrique/article/2026/11/26/en-egypte-un-incendie-meurtrier-sur-une-autoroute-de-l-agglomeration-du-caire-fait-une-trentaine-de-victimes_6815263_3212.html",
       "published_at": "2026-11-26T00:32:36+00:00",
       "category": "Médias & communication",
@@ -192,7 +197,7 @@
       ],
       "coverage_count": 8,
       "mention_count": 8,
-      "importance_score": 21.258,
+      "importance_score": 21.236,
       "latest_coverage_at": "2026-11-26T00:32:36+00:00"
     },
     {
@@ -215,32 +220,30 @@
       ],
       "coverage_count": 6,
       "mention_count": 11,
-      "importance_score": 20.19,
+      "importance_score": 20.186,
       "latest_coverage_at": "2026-11-25T21:14:10+00:00"
     },
     {
-      "id": "5af27d5807d1",
-      "title": "Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire",
-      "summary": "Devant la commission d'enquête de l'Assemblée nationale, le maire de Marseille Benoît Payan a déclaré mercredi que la police municipale avait reçu l'ordre de relâcher des pillards interpellés lors des violences du 17 octobre. L'édile s'étonne par ailleurs du \"très faible nombre de gardes à vue\".",
-      "source": "France 24",
-      "feed_rank": 2,
-      "url": "https://www.france24.com/fr/france/20261125-france-violences-17-octobre-marseille-ordres-donnes-relacher-casseurs-maire-benoit-payan",
-      "published_at": "2026-11-25T22:36:14+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire ».",
+      "id": "141f208b509d",
+      "title": "64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation",
+      "summary": "64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation 64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation thierry.wojciak mer 25/11/2026 - 20:16 Etudes",
+      "source": "CB News",
+      "feed_rank": 1,
+      "url": "https://www.cbnews.fr/etudes/64-professionnels-communication-du-marketing-medias-ont-deploye-ia-leur-organisation",
+      "published_at": "2026-11-25T19:16:25+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « 64% des professionnels de la communication, du marketing et des médias ont déployé de l'IA dans leur organisation ».",
       "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "France 24",
-        "Le Figaro",
-        "BFMTV",
-        "20 Minutes"
+        "L'Express",
+        "L'Obs",
+        "Paris Match",
+        "CB News",
+        "Creapills"
       ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.113,
-      "latest_coverage_at": "2026-11-25T23:01:53+00:00"
+      "coverage_count": 5,
+      "mention_count": 14,
+      "importance_score": 19.697,
+      "latest_coverage_at": "2026-11-25T19:16:25+00:00"
     },
     {
       "id": "3e5785c17e03",
@@ -262,8 +265,31 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.063,
+      "importance_score": 19.059,
       "latest_coverage_at": "2026-11-25T19:26:07+00:00"
+    },
+    {
+      "id": "5af27d5807d1",
+      "title": "Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire",
+      "summary": "Devant la commission d'enquête de l'Assemblée nationale, le maire de Marseille Benoît Payan a déclaré mercredi que la police municipale avait reçu l'ordre de relâcher des pillards interpellés lors des violences du 17 octobre. L'édile s'étonne par ailleurs du \"très faible nombre de gardes à vue\".",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/france/20261125-france-violences-17-octobre-marseille-ordres-donnes-relacher-casseurs-maire-benoit-payan",
+      "published_at": "2026-11-25T22:36:14+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "France 24",
+        "BFMTV",
+        "20 Minutes"
+      ],
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 18.977,
+      "latest_coverage_at": "2026-11-25T23:01:53+00:00"
     },
     {
       "id": "f59a41c89123",
@@ -284,7 +310,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.226,
+      "importance_score": 18.222,
       "latest_coverage_at": "2026-11-25T20:35:11+00:00"
     },
     {
@@ -306,7 +332,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 18.175,
+      "importance_score": 18.17,
       "latest_coverage_at": "2026-11-25T18:30:03+00:00"
     },
     {
@@ -314,7 +340,7 @@
       "title": "L'Australie adopte une loi imposant aux réseaux sociaux de permettre de désactiver les algorithmes",
       "summary": "Les plateformes s’exposeront à de lourdes amendes en cas de manquement à leurs obligations de protection des mineurs.",
       "source": "Le Figaro",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.lefigaro.fr/secteur/high-tech/l-australie-adopte-une-loi-imposant-aux-reseaux-sociaux-de-permettre-de-desactiver-les-algorithmes-20261126",
       "published_at": "2026-11-26T00:42:17+00:00",
       "category": "Médias & communication",
@@ -328,7 +354,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 6,
-      "importance_score": 17.932,
+      "importance_score": 17.92,
       "latest_coverage_at": "2026-11-26T00:42:17+00:00"
     },
     {
@@ -350,7 +376,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.728,
+      "importance_score": 17.723,
       "latest_coverage_at": "2026-11-25T22:23:22+00:00"
     },
     {
@@ -372,7 +398,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.718,
+      "importance_score": 17.714,
       "latest_coverage_at": "2026-11-25T15:42:08+00:00"
     },
     {
@@ -393,7 +419,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 7,
-      "importance_score": 16.987,
+      "importance_score": 16.982,
       "latest_coverage_at": "2026-11-25T21:53:30+00:00"
     },
     {
@@ -414,7 +440,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.42,
+      "importance_score": 16.415,
       "latest_coverage_at": "2026-11-25T20:25:08+00:00"
     },
     {
@@ -435,7 +461,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.41,
+      "importance_score": 16.397,
       "latest_coverage_at": "2026-11-25T20:27:00+00:00"
     },
     {
@@ -456,7 +482,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.124,
+      "importance_score": 16.062,
       "latest_coverage_at": "2026-11-25T18:00:00+00:00"
     },
     {
@@ -477,44 +503,103 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 15.927,
+      "importance_score": 15.922,
       "latest_coverage_at": "2026-11-25T17:00:57+00:00"
-    },
-    {
-      "id": "fec0f4206b67",
-      "title": "Une commission d'enquête sur les cyberattaques et les fuites de données va être lancée au Sénat",
-      "summary": "La commission d'enquête pourra démarrer avant la fin de l'année et durera six mois. Son rapport est attendu en avril ou en mai 2027.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 15,
-      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-commission-d-enquete-sur-la-cyberattaques-et-les-fuites-de-donnees-va-etre-lancee-au-senat_8300160.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-25T18:11:04+00:00",
-      "category": "Politique",
-      "communication_angle": "Au-delà de l'incident technique, une cyberattaque devient un test de confiance. La communication doit expliquer ce qui est établi, ce qui est encore vérifié, qui est concerné et quelles mesures sont prises, avec des mises à jour régulières plutôt que des assurances prématurées. Sujet suivi : « Une commission d'enquête sur les cyberattaques et les fuites de données va être lancée au Sénat ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Sud Ouest",
-        "Le Monde Informatique"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 15.85,
-      "latest_coverage_at": "2026-11-25T18:11:04+00:00"
     }
   ],
   "articles": [
     {
-      "id": "436342e8d784",
-      "title": "Ligue des champions : sans Doué ni Kvaratskhelia, le PSG cale contre l’AS Rome au Parc des Princes",
-      "summary": "Les joueurs de Luis Enrique perdent la tête au classement de Ligue des champions au profit du Real Madrid, après leur nul face à l’AS Rome (2-2), mercredi, au Parc des Princes.",
+      "id": "4efe5df67536",
+      "title": "Violences du 17 octobre: à Marseille, des casseurs interpellés et aussitôt relâchés, selon le maire Benoît Payan",
+      "summary": "Par Maxence Kagni , le Jeudi 26 novembre 2026 à 22:45 Le maire de Marseille, Benoît Payan, a été auditionné, ce mercredi 25 novembre au soir, par la commission d'enquête de l'Assemblée nationale sur les événements du 17 octobre. Il a dénoncé une \"désorganisation\" des forces de l'ordre \"sous-dimensionnées\" et évoqué devant les députés de nombreux…",
+      "source": "LCP",
+      "feed_rank": 1,
+      "url": "https://lcp.fr/actualites/violences-du-17-octobre-a-marseille-des-casseurs-interpelles-et-aussitot-relaches-selon",
+      "published_at": "2026-11-26T21:45:30+00:00",
+      "category": "Politique",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Violences du 17 octobre: à Marseille, des casseurs interpellés et aussitôt relâchés, selon le maire Benoît Payan ».",
+      "coverage_sources": [
+        "LCP"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2c774b176be3",
+      "title": "«Nous ne devrions jamais sacrifier l’autodétermination» : le patron d’Anthropic défend le libre arbitre humain face à l’IA",
+      "summary": "Pris à partie par plusieurs figures de la Silicon Valley, Dario Amodei juge «absurde» de lui prêter la volonté de voir l’humanité renoncer à son libre arbitre au profit de l’intelligence artificielle.",
       "source": "Le Figaro",
-      "feed_rank": 10,
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-sans-doue-ni-kvaratskhelia-le-psg-cale-contre-l-as-rome-au-parc-des-princes-20261125",
-      "published_at": "2026-11-26T01:21:24+00:00",
+      "feed_rank": 14,
+      "url": "https://www.lefigaro.fr/secteur/high-tech/nous-ne-devrions-jamais-sacrifier-l-autodetermination-le-patron-d-anthropic-defend-le-libre-arbitre-humain-face-a-l-ia-20261126",
+      "published_at": "2026-11-26T02:22:57+00:00",
       "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : sans Doué ni Kvaratskhelia, le PSG cale contre l’AS Rome au Parc des Princes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « «Nous ne devrions jamais sacrifier l’autodétermination» : le patron d’Anthropic défend le libre arbitre humain face à l’IA » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "1bd259539a06",
+      "title": "Bernard Arnault va pouvoir contrôler LVMH jusqu’à ses 95 ans",
+      "summary": "<p>L’heure n’est pas du tout à la retraite pour <a href=\"https://www.20minutes.fr/dossier/bernard_arnault\">Bernard Arnault</a>. Âgé de 77 ans, il pourra rester à la tête du numéro un mondial du luxe <a href=\"https://www.20minutes.fr/economie/lvmh/\">LVMH</a> jusqu’à ses 95 ans, l’âge limite du gérant dans la nouvelle structure de contrôle du groupe,…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/economie/4265839-20261126-bernard-arnault-va-pouvoir-controler-lvmh-jusqu-95-ans?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-26T02:16:05+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Bernard Arnault va pouvoir contrôler LVMH jusqu’à ses 95 ans » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ec99b2b348ee",
+      "title": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
+      "summary": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les maisons proches de l’océan. L’amplitude de ces marées est accentuée par le réchauffement climatique et par un épisode d’El Niño très intense, cette année.",
+      "source": "Le Monde",
+      "feed_rank": 13,
+      "url": "https://www.lemonde.fr/planete/article/2026/11/26/des-grandes-marees-historiques-inondent-le-littoral-californien-san-francisco-evite-les-devastations-redoutees_6815334_3244.html",
+      "published_at": "2026-11-26T02:11:54+00:00",
+      "category": "Environnement",
+      "communication_angle": "L'événement rend un enjeu environnemental concret pour les territoires et les publics. Les communicants doivent privilégier des données attribuées, expliquer l'impact local et relier les engagements écologiques à des actions mesurables afin d'éviter le greenwashing. Sujet suivi : « Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "637a54c6706c",
+      "title": "Ligue des champions : le PSG tenu en échec par l’AS Roma après une prestation poussive qui met en lumière l’absence de Doué et de « Kvara »",
+      "summary": "Le double champion d’Europe a été tenu en échec sur sa pelouse (2-2), mercredi, par de valeureux Italiens. Alors que le forfait de longue durée de ses deux attaquants majeurs s’est fait ressentir, le club doit trancher la question d’une éventuelle recrue.",
+      "source": "Le Monde",
+      "feed_rank": 3,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-psg-tenu-en-echec-par-l-as-roma-apres-une-prestation-poussive-qui-met-en-lumiere-l-absence-de-doue-et-de-kvara_6815333_3242.html",
+      "published_at": "2026-11-26T02:08:03+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : le PSG tenu en échec par l’AS Roma après une prestation poussive qui met en lumière l’absence de Doué et de « Kvara » » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a5a450ef29a3",
+      "title": "Theodore Zeldin, le plus francophile des historiens britanniques, est mort",
+      "summary": "L’auteur d’une monumentale « Histoire des passions françaises » publiée en cinq volumes est décédé le 13 novembre, à l’âge de 93 ans.",
+      "source": "Le Monde",
+      "feed_rank": 10,
+      "url": "https://www.lemonde.fr/disparitions/article/2026/11/26/theodore-zeldin-le-plus-francophile-des-historiens-britanniques-est-mort_6815330_3382.html",
+      "published_at": "2026-11-26T01:44:39+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Theodore Zeldin, le plus francophile des historiens britanniques, est mort » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -526,9 +611,57 @@
       "source": "Le Figaro",
       "feed_rank": 12,
       "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/les-notes-du-psg-contre-l-as-rome-zabarnyi-souverain-vitinha-fautif-akliouche-et-torres-discrets-20261125",
-      "published_at": "2026-11-26T01:15:52+00:00",
+      "published_at": "2026-11-26T01:43:16+00:00",
       "category": "Société",
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les notes du PSG contre l’AS Rome : Zabarnyi souverain, Vitinha fautif, Akliouche et Torres (très) discrets » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Figaro"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "ca09af5af8b0",
+      "title": "Etats-Unis : La grande parade de Thanksgiving de New York décalée en raison d’une tempête",
+      "summary": "<p>La grande parade de <a href=\"https://www.20minutes.fr/tempo/escapade/4063281-20231123-pourquoi-thanksgiving-si-important-americains\">Thanksgiving</a> organisée par Macy’s dans les rues de Manhattan aura finalement lieu samedi. Les grands magasins new-yorkais ont annoncé leur décision mercredi, à la veille de la fête, alors qu’une tempête est attendue…",
+      "source": "20 Minutes",
+      "feed_rank": 5,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4265837-20261126-etats-unis-grande-parade-thanksgiving-new-york-decalee-raison-tempete?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-26T01:31:40+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Etats-Unis : La grande parade de Thanksgiving de New York décalée en raison d’une tempête ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6e298df6088c",
+      "title": "Fin du combat judiciaire entre Brad Pitt et Angelina Jolie sur un domaine viticole français",
+      "summary": "<p>C’est la fin d’une longue bataille judiciaire entre <a href=\"https://www.20minutes.fr/people/brad_pitt/\">Brad Pitt</a> et <a href=\"https://www.20minutes.fr/people/angelina_jolie/\">Angelina Jolie</a>. Les stars du cinéma ont réglé leur âpre différend autour de la vente d’un domaine viticole français qu’ils avaient acquis ensemble, a annoncé mercredi…",
+      "source": "20 Minutes",
+      "feed_rank": 3,
+      "url": "https://www.20minutes.fr/arts-stars/people/4265835-20261126-fin-combat-judiciaire-entre-brad-pitt-angelina-jolie-domaine-viticole-francais?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-26T01:26:04+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité culturelle montre comment une œuvre se construit une place dans l'attention collective. Les communicants peuvent observer le rôle de la bande-annonce, du bouche-à-oreille, des communautés de fans et du calendrier de sortie dans la visibilité d'un lancement. Sujet suivi : « Fin du combat judiciaire entre Brad Pitt et Angelina Jolie sur un domaine viticole français ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "436342e8d784",
+      "title": "Ligue des champions : sans Doué ni Kvaratskhelia, le PSG cale contre l’AS Rome au Parc des Princes",
+      "summary": "Les joueurs de Luis Enrique perdent la tête au classement de Ligue des champions au profit du Real Madrid, après leur nul face à l’AS Rome (2-2), mercredi, au Parc des Princes.",
+      "source": "Le Figaro",
+      "feed_rank": 10,
+      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-sans-doue-ni-kvaratskhelia-le-psg-cale-contre-l-as-rome-au-parc-des-princes-20261125",
+      "published_at": "2026-11-26T01:25:09+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : sans Doué ni Kvaratskhelia, le PSG cale contre l’AS Rome au Parc des Princes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
       ],
@@ -540,7 +673,7 @@
       "title": "Les États-Unis approuvent la vente de matériel pour la maintenance des F-16 ukrainiens",
       "summary": "Début octobre, le journal américain Wall Street Journal avait affirmé que la «majeure partie» des F-16 ukrainiens utilisés face aux attaques aériennes russes étaient hors service pour une question d’inspection obligatoire.",
       "source": "Le Figaro",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.lefigaro.fr/international/les-etats-unis-approuvent-la-vente-de-materiel-pour-la-maintenance-des-f-16-ukrainiens-20261126",
       "published_at": "2026-11-26T01:06:47+00:00",
       "category": "International",
@@ -568,11 +701,27 @@
       "mention_count": 1
     },
     {
+      "id": "a1a29b9eead5",
+      "title": "Etats-Unis : Six membres d’une famille meurent dans le crash d’un Cessna au large du Mississippi",
+      "summary": "<p>Parti de La Nouvelle-Orléans à destination de Fort Myers, en <a href=\"https://www.20minutes.fr/dossier/floride\">Floride</a>, un Cessna 210 s’est abîmé en mer près de Horn Island, au large du Mississippi, hier mardi. Les six personnes à bord, dont trois enfants, ont perdu la vie, rapporte <a…",
+      "source": "20 Minutes",
+      "feed_rank": 18,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4265834-20261126-etats-unis-six-membres-famille-meurent-crash-cessna-large-mississippi?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-26T01:02:57+00:00",
+      "category": "Société",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Etats-Unis : Six membres d’une famille meurent dans le crash d’un Cessna au large du Mississippi ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "ccee41ceef10",
       "title": "Andy Taylor, guitariste emblématique de Duran Duran, est mort à 65 ans",
       "summary": "<p>Les fans de Duran Duran sont en deuil. Andy Taylor, ancien guitariste du groupe britannique, est décédé des suites d’un cancer de la prostate, ont annoncé mercredi sa famille et la formation phare de la <a href=\"https://www.20minutes.fr/arts-stars/culture/musique/\">new wave</a> des années 1980. Il avait 65 ans.</p><p>« Andy s’est éteint paisiblement…",
       "source": "20 Minutes",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.20minutes.fr/arts-stars/culture/musique/4265813-20261126-andy-taylor-guitariste-emblematique-duran-duran-mort-65-ans?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T00:50:04+00:00",
       "category": "Société",
@@ -595,7 +744,7 @@
       "title": "L'Australie adopte une loi imposant aux réseaux sociaux de permettre de désactiver les algorithmes",
       "summary": "Les plateformes s’exposeront à de lourdes amendes en cas de manquement à leurs obligations de protection des mineurs.",
       "source": "Le Figaro",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.lefigaro.fr/secteur/high-tech/l-australie-adopte-une-loi-imposant-aux-reseaux-sociaux-de-permettre-de-desactiver-les-algorithmes-20261126",
       "published_at": "2026-11-26T00:42:17+00:00",
       "category": "Médias & communication",
@@ -611,7 +760,7 @@
       "title": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
       "summary": "Le sinistre s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur un axe très fréquenté, selon les médias d’Etat. Le ministère de la santé égyptien a également fait état d’au moins 15 blessés, dont quatre dans un état critique.",
       "source": "Le Monde",
-      "feed_rank": 13,
+      "feed_rank": 16,
       "url": "https://www.lemonde.fr/afrique/article/2026/11/26/en-egypte-un-incendie-meurtrier-sur-une-autoroute-de-l-agglomeration-du-caire-fait-une-trentaine-de-victimes_6815263_3212.html",
       "published_at": "2026-11-26T00:32:36+00:00",
       "category": "Médias & communication",
@@ -641,22 +790,6 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Les notes des Lillois face au Bayern : Ueda tueur à gages, André infatigable, Mbappé en clair-obscur » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "03d528ad0b85",
-      "title": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
-      "summary": "Menés (0-1) après une terne première période, les Lillois ont bien réagi, mercredi 25 novembre, pour remporter une victoire cruciale (2-1) et de prestige face aux Bavarois. Vingt-neuvièmes au classement avec quatre points, ils conservent leurs chances d’accrocher une place de barragistes.",
-      "source": "Le Monde",
-      "feed_rank": 3,
-      "url": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
-      "published_at": "2026-11-26T00:15:53+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -792,22 +925,6 @@
       "mention_count": 1
     },
     {
-      "id": "7f65d8d82d87",
-      "title": "PSG-AS Rome : : «Le match le plus dur de la saison», Luis Enrique «satisfait» du nul",
-      "summary": "Le technicien espagnol a fait le point en conférence de presse après le nul contre la Roma (2-2) mercredi, en Ligue des champions.",
-      "source": "Le Figaro",
-      "feed_rank": 19,
-      "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-as-rome-le-match-le-plus-dur-de-la-saison-luis-enrique-satisfait-du-nul-20261126",
-      "published_at": "2026-11-25T23:10:19+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « PSG-AS Rome : : «Le match le plus dur de la saison», Luis Enrique «satisfait» du nul ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "4d03f78ef325",
       "title": "Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages",
       "summary": "C'est l'un des grands enjeux pour les candidats à la présidentielle française de 2027 : obtenir les fameux 500 parrainages d'élus de maires, députés, conseillers départementaux et régionaux. À chaque élection, certains ratent cette étape incontournable et sont donc contraints d'abandonner la course. En cause notamment : la réticence des maires. Près d'un…",
@@ -819,11 +936,10 @@
       "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: pour les candidats comme pour les maires, la galère des parrainages ».",
       "coverage_sources": [
         "RFI",
-        "20 Minutes",
         "LCP"
       ],
-      "coverage_count": 3,
-      "mention_count": 4
+      "coverage_count": 2,
+      "mention_count": 3
     },
     {
       "id": "f724c46b2d45",
@@ -862,7 +978,7 @@
       "title": "Violences du 17 octobre à Marseille : Des ordres donnés pour « relâcher » les casseurs, accuse le maire Benoît Payan",
       "summary": "<p><a href=\"https://www.20minutes.fr/marseille/benoit-payan/\">Benoît Payan</a> dit avoir vu sur les écrans de <a href=\"https://www.20minutes.fr/dossier/videosurveillance\">vidéosurveillance</a> de Marseille des policiers municipaux interpeller des personnes à la sortie de commerces le 17 octobre. La scène s’est répétée à plusieurs reprises, a-t-il…",
       "source": "20 Minutes",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.20minutes.fr/societe/4265809-20261126-violences-17-octobre-marseille-ordres-donnes-relacher-casseurs-accuse-maire-benoit-payan?at_medium=display&at_campaign=149",
       "published_at": "2026-11-25T23:01:53+00:00",
       "category": "Politique",
@@ -916,7 +1032,7 @@
       "title": "« C’est de la folie ! » : les surprenantes découvertes d’une sonde européenne sur l’astéroïde dévié par Dart, la « fléchette » de la Nasa",
       "summary": "RÉCIT - Quatre ans après l’impact à 20 000 km/h de la sonde américaine, la mission de l’ESA étudie de près les conséquences de cette déviation réussie.",
       "source": "Le Figaro",
-      "feed_rank": 14,
+      "feed_rank": 16,
       "url": "https://www.lefigaro.fr/sciences/c-est-de-la-folie-les-surprenantes-decouvertes-d-une-sonde-europeenne-sur-l-asteroide-devie-par-dart-la-flechette-de-la-nasa-20261125",
       "published_at": "2026-11-25T22:55:46+00:00",
       "category": "Sciences & tech",
@@ -1133,10 +1249,11 @@
       "category": "Sciences & tech",
       "communication_angle": "La difficulté ici est de rendre un résultat complexe accessible sans le sur-vendre. Un communicant doit distinguer une piste de recherche d'une application confirmée, expliquer ce qui a réellement été démontré et citer l'équipe ou la publication à l'origine du résultat. Sujet suivi : « SpaceX pourra lancer un million de satellites pour ses centres de données dans l'espace ».",
       "coverage_sources": [
+        "Le Monde",
         "France 24"
       ],
-      "coverage_count": 1,
-      "mention_count": 1
+      "coverage_count": 2,
+      "mention_count": 2
     },
     {
       "id": "6e893599c619",
@@ -1868,22 +1985,6 @@
       "mention_count": 1
     },
     {
-      "id": "a3db24757029",
-      "title": "Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan",
-      "summary": "Le maire de Marseille a dénoncé «l’impunité» qui aurait caractérisé le 17 octobre et affirmé devant la commission d’enquête parlementaire qu’à plusieurs reprises, la police municipale a interpellé des pilleurs dans des commerces à Marseille qu’elle a dû libérer sur ordre de la police nationale.",
-      "source": "Le Figaro",
-      "feed_rank": 16,
-      "url": "https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125",
-      "published_at": "2026-11-25T21:03:53+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "f9896c2dfdb0",
       "title": "Politique familiale : de la natalité à la lutte contre la pauvreté, un virage assumé par la Cour des comptes",
       "summary": "La Cour des comptes ne cache pas l’orientation de la politique familiale des dernières années : « initialement fondée sur la volonté de soutenir la natalité et les familles nombreuses, [elle] s’est réorientée pour cibler davantage les familles vulnérables, marquées par la pauvreté ou la monoparentalité » . Deuxième objectif : « faciliter la conciliation…",
@@ -2017,7 +2118,7 @@
       "title": "Esclavage et traite négrière: les députés font un premier pas vers des réparations financières",
       "summary": "Par Soizic BONVARLET , le Mercredi 25 novembre 2026 à 21:52 Les députés ont adopté en commission, ce mercredi 25 novembre, la proposition de loi \"visant à la réparation des préjudices résultant de la traite et de l’esclavage\". À l'ordre du jour de la \"niche\" du groupe Écologiste et social qui aura lieu dans l'hémicycle le 3 décembre prochain, le texte…",
       "source": "LCP",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://lcp.fr/actualites/esclavage-et-traite-negriere-les-deputes-font-un-premier-pas-vers-des-reparations",
       "published_at": "2026-11-25T20:52:18+00:00",
       "category": "Médias & communication",
@@ -2129,7 +2230,7 @@
       "title": "« Tu n’es pas surchargée de travail »… Les propos d’Estelle Denis sur les secrétaires de mairie font réagir les élus",
       "summary": "<p>Une phrase au micro, et les mairies de France sur le pied de guerre. Jeudi 19 novembre, <a href=\"https://actu.fr/politique/je-linvite-a-venir-en-stage-un-elu-de-la-manche-repond-a-estelle-denis-sur-les-secretaires-de-mairie_65091694.html\">dans « Estelle Midi »</a> sur <a href=\"https://www.20minutes.fr/dossier/rmc\">RMC</a>, Estelle Denis a lancé : «…",
       "source": "20 Minutes",
-      "feed_rank": 21,
+      "feed_rank": 25,
       "url": "https://www.20minutes.fr/societe/4265803-20261125-surchargee-travail-propos-estelle-denis-secretaires-mairie-font-reagir-elus?at_medium=display&at_campaign=149",
       "published_at": "2026-11-25T20:30:00+00:00",
       "category": "Société",
@@ -2389,7 +2490,7 @@
       "title": "Périscolaire à Paris : Un animateur poursuivi pour agressions sexuelles remis en liberté sous bracelet électronique",
       "summary": "<p>À <a href=\"https://www.20minutes.fr/paris/\">Paris</a>, l’un des deux animateurs mis en examen dans l’enquête sur <a href=\"https://www.20minutes.fr/societe/4264436-20261120-periscolaire-paris-centre-inedit-familles-ebranlees-violences-sexuelles\">les violences sexuelles en périscolaire</a> a quitté la détention provisoire hier mardi. Ce quadragénaire,…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 11,
       "url": "https://www.20minutes.fr/justice/4265801-20261125-periscolaire-paris-animateur-poursuivi-agressions-sexuelles-remis-liberte-sous-bracelet-electronique?at_medium=display&at_campaign=149",
       "published_at": "2026-11-25T20:08:06+00:00",
       "category": "Société",
@@ -2837,7 +2938,7 @@
       "title": "Landes : « Une erreur de navigation »… Ouverture d’une enquête sur l’échouement du Miro G",
       "summary": "<p>Un vraquier de 169 mètres qui fonce vers la côte sans jamais lancer d’appel de détresse : l’image intrigue les autorités. Mercredi, la préfecture maritime de l’<a href=\"https://www.20minutes.fr/monde/ocean-atlantique/\">Atlantique</a> a annoncé l’ouverture d’une enquête judiciaire à <a href=\"https://www.20minutes.fr/bordeaux/\">Bordeaux</a> après l’<a…",
       "source": "20 Minutes",
-      "feed_rank": 8,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/justice/4265799-20261125-landes-erreur-navigation-ouverture-enquete-echouement-miro-g?at_medium=display&at_campaign=149",
       "published_at": "2026-11-25T19:26:15+00:00",
       "category": "Société",
@@ -3089,22 +3190,6 @@
       "mention_count": 1
     },
     {
-      "id": "c16a27cd9ae6",
-      "title": "Droits de douane : les arguments déroutants de Donald Trump pour relancer son offensive commerciale",
-      "summary": "DÉCRYPTAGE - Chine, Suisse, Japon, Europe... L’Administration Trump brandit de nouveaux prétextes pour surtaxer ses principaux partenaires économiques. Une multitude de pratiques « déloyales » nuisent à l’économie américaine, juge le département au Commerce.",
-      "source": "Le Figaro",
-      "feed_rank": 20,
-      "url": "https://www.lefigaro.fr/conjoncture/droits-de-douane-les-arguments-deroutants-de-donald-trump-pour-relancer-son-offensive-commerciale-20261125",
-      "published_at": "2026-11-25T19:15:00+00:00",
-      "category": "Économie",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Droits de douane : les arguments déroutants de Donald Trump pour relancer son offensive commerciale ».",
-      "coverage_sources": [
-        "Le Figaro"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "42111e2481ae",
       "title": "Stellantis France confie le marketing local de six de ses marques à adcleek",
       "summary": "Stellantis France confie le marketing local de six de ses marques à adcleek Stellantis France confie le marketing local de six de ses marques à adcleek thierry.wojciak mer 25/11/2026 - 20:14 Conseil",
@@ -3173,7 +3258,7 @@
       "title": "Présidentielle 2027 : « Je suis fan et je vais le parrainer »… Comment les candidats tentent de séduire les maires",
       "summary": "<p>Aucun n’assume de venir à la pêche aux parrainages, mais tous assurent comprendre les problématiques rencontrées par les municipalités. Au Congrès et au Salon des maires de France, dans le sud-ouest de <a href=\"https://www.20minutes.fr/paris/\">Paris</a>, les candidats à <a href=\"https://www.20minutes.fr/elections/presidentielle/\">la présidentielle…",
       "source": "20 Minutes",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.20minutes.fr/politique/4265748-20261125-presidentielle-2027-fan-vais-parrainer-comment-candidats-tentent-seduire-maires?at_medium=display&at_campaign=149",
       "published_at": "2026-11-25T19:13:17+00:00",
       "category": "Politique",
@@ -3653,7 +3738,7 @@
       "title": "Présidentielle 2027: l'Ukraine \"ce n'est pas notre guerre\", déclare Teddy Riner",
       "summary": "Par Anne-Charlotte Dusseaulx , le Mercredi 25 novembre 2026 à 19:40 En visite au Salon des maires à Paris dans le cadre de sa campagne pour l'élection présidentielle, Teddy Riner, a évoqué le conflit en Ukraine, déclenché par la Russie, estimant que \"ce n'est pas notre guerre\". C'est une petite phrase qui fait réagir. Interrogé au Salon des maires, qui…",
       "source": "LCP",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://lcp.fr/actualites/presidentielle-2027-l-ukraine-ce-n-est-pas-notre-guerre-declare-teddy-riner-445612",
       "published_at": "2026-11-25T18:40:29+00:00",
       "category": "Médias & communication",
@@ -4435,22 +4520,6 @@
       "mention_count": 1
     },
     {
-      "id": "6a1fea4ecceb",
-      "title": "La nouvelle traduction des « Mots de la tribu » ravive la saveur orale de ce grand roman autobiographique de Natalia Ginzburg",
-      "summary": "Retour sur ce chef-d’œuvre de l’écrivaine italienne, morte en 1991, publié aujourd’hui sous le titre « Lexique familial », qui raconte la vie d’une famille antifasciste dans les années 1920 à 1940 à Turin.",
-      "source": "Le Monde",
-      "feed_rank": 10,
-      "url": "https://www.lemonde.fr/livres/article/2026/11/25/la-nouvelle-traduction-des-mots-de-la-tribu-ravive-la-saveur-orale-de-ce-grand-roman-autobiographique-de-natalia-ginzburg_6815160_3260.html",
-      "published_at": "2026-11-25T18:00:09+00:00",
-      "category": "Société",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « La nouvelle traduction des « Mots de la tribu » ravive la saveur orale de ce grand roman autobiographique de Natalia Ginzburg ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "6c700f4f0c1f",
       "title": "“Bienvenidos a El Bulli” : l’ancien meilleur restaurant du monde a sa série",
       "summary": "Sur Netflix depuis le 20 novembre, “Bienvenidos a El Bulli” raconte l’histoire de Ferran Adrià, ce chef catalan à la tête du restaurant El Bulli. C’est là, de la fin des années 1980 à 2011, qu’il a fait de la Catalogne l’épicentre de la gastronomie mondiale. La presse espagnole s’en délecte, avec certaines réserves.",
@@ -4948,23 +5017,6 @@
       "mention_count": 1
     },
     {
-      "id": "d2a0e24c66ec",
-      "title": "La grippe s’installe en France, où la majorité des régions de l’Hexagone sont passées en pré-épidémie",
-      "summary": "La circulation des virus grippaux s’intensifie et les recours aux soins apparaissent globalement « à des niveaux toujours supérieurs à ceux de l’année précédente à la même période », constate Santé publique France.",
-      "source": "Le Monde",
-      "feed_rank": 14,
-      "url": "https://www.lemonde.fr/societe/article/2026/11/25/la-grippe-s-installe-en-france-ou-la-majorite-des-regions-de-l-hexagone-sont-passees-en-pre-epidemie_6815156_3224.html",
-      "published_at": "2026-11-25T17:33:07+00:00",
-      "category": "Société",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « La grippe s’installe en France, où la majorité des régions de l’Hexagone sont passées en pré-épidémie ».",
-      "coverage_sources": [
-        "Le Monde",
-        "Sud Ouest"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
-    },
-    {
       "id": "cf6720ee88d9",
       "title": "Vol d'une mini-pelle mécanique près de Toulouse, rodéo, vandalisme : trois adolescents mis en cause, qui va payer les 100 000 euros de dégâts ?",
       "summary": "Les deux adolescents qui avaient fui à l'arrivée des gendarmes, samedi, vers 4 heures du matin, suite aux 100 000 euros de dégâts commis sur des équipements municipaux de Launaguet, près de Toulouse, ont été...",
@@ -5065,7 +5117,7 @@
       "title": "Grippe : Sept régions de l’Hexagone désormais en pré-épidémie",
       "summary": "<p>Le <a href=\"https://www.20minutes.fr/dossier/virus\">virus</a> avance plus vite que prévu. Selon <a href=\"https://www.santepubliquefrance.fr/infections-respiratoires-aigues/grippe/bulletin-national/infections-respiratoires-aigues-grippe-bronchiolite-covid-19-bulletin-du-25-novembre-2026\">le bulletin hebdomadaire</a> de Santé publique France (SPF)…",
       "source": "20 Minutes",
-      "feed_rank": 15,
+      "feed_rank": 22,
       "url": "https://www.20minutes.fr/sante/4265772-20261125-grippe-sept-regions-hexagone-desormais-pre-epidemie?at_medium=display&at_campaign=149",
       "published_at": "2026-11-25T17:28:14+00:00",
       "category": "Société",
@@ -5299,55 +5351,6 @@
       ],
       "coverage_count": 1,
       "mention_count": 1
-    },
-    {
-      "id": "a6c88dd8148e",
-      "title": "Défense : la grande peur du réarmement allemand",
-      "summary": "Une armée allemande puissante semblait relever des livres d’histoire. La question s’invite pourtant dans le débat français, et avec elle des interrogations. Faut-il laisser faire Berlin ?",
-      "source": "Le JDD",
-      "feed_rank": 1,
-      "url": "https://www.lejdd.fr/International/defense-la-grande-peur-du-rearmement-allemand-189702",
-      "published_at": "2026-11-25T17:19:28+00:00",
-      "category": "Culture",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Défense : la grande peur du réarmement allemand ».",
-      "coverage_sources": [
-        "Le JDD"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "267755c123e7",
-      "title": "L' édito de Dov Alfon du mercredi 25 novembre 2026",
-      "summary": "Consultez l’article original pour retrouver le contexte, les détails et les éventuelles mises à jour.",
-      "source": "France Inter",
-      "feed_rank": 12,
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-edito-de-dov-alfon/l-edito-de-dov-alfon-du-mercredi-25-novembre-2026-5079027",
-      "published_at": "2026-11-25T17:19:05+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « L' édito de Dov Alfon du mercredi 25 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "France Inter"
-      ],
-      "coverage_count": 1,
-      "mention_count": 3
-    },
-    {
-      "id": "b7e54d03c885",
-      "title": "L'AP-HP envisage d'interdire les soirées d'internes dans les hôpitaux après une enquête pour viol visant un chirurgien",
-      "summary": "Un chef de service à l'hôpital Bichat à Paris est soupçonné d'avoir violé une pharmacienne lors d'une soirée, organisé dans un établissement de l'AP-HP. Une réflexion est en cours pour interdire ce type d'événement.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 14,
-      "url": "https://www.franceinfo.fr/sante/info-radio-france-l-ap-hp-envisage-d-interdire-les-soirees-festives-dans-les-hopitaux-apres-une-enquete-pour-viol-visant-un-chirurgien_8300109.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-25T17:18:12+00:00",
-      "category": "Société",
-      "communication_angle": "Sur un sujet de santé, la clarté et la prudence sont essentielles : un message imprécis peut créer de l'inquiétude ou de fausses attentes. Les communicants doivent s'appuyer sur des sources médicales fiables, expliquer les incertitudes et adapter le niveau de détail au public. Sujet suivi : « L'AP-HP envisage d'interdire les soirées d'internes dans les hôpitaux après une enquête pour viol visant un chirurgien ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)"
-      ],
-      "coverage_count": 2,
-      "mention_count": 2
     }
   ]
 }
