@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-26T23:47:42.066599+00:00",
-  "last_attempt": "2026-11-26T23:47:42.066599+00:00",
+  "last_updated": "2026-11-27T02:37:26.491026+00:00",
+  "last_attempt": "2026-11-27T02:37:26.491026+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 908,
-  "unique_story_count": 809,
+  "unique_story_count": 807,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-27T23:47:42.066599+00:00",
-  "featured_window_end": "2026-11-26T23:47:42.066599+00:00",
+  "featured_window_start": "2026-10-28T02:37:26.491026+00:00",
+  "featured_window_end": "2026-11-27T02:37:26.491026+00:00",
   "featured_pool_count": 905,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "1be99d414086",
-      "title": "Biathlon. À quelle heure et sur quelle chaîne TV suivre l’individuel femmes de la Coupe du monde à Kontiolahti ?",
-      "summary": "La saison de biathlon reprend. Ce 27 novembre à Kontiolahti (Finlande) place à l’individuel femmes où les Françaises tenteront de briller pour donner le ton à nouvelle saison. Découvrez à quelle heure et sur quelle chaîne vous pourrez suivre cette deuxième épreuve à Kontiolahti.",
-      "source": "Ouest-France",
-      "feed_rank": 2,
-      "url": "https://www.ouest-france.fr/sport/biathlon/biathlon-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-lindividuel-femmes-de-la-coupe-du-monde-a-kontiolahti-c479abb4-e9ed-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-26T23:15:53+00:00",
-      "category": "International",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Biathlon. À quelle heure et sur quelle chaîne TV suivre l’individuel femmes de la Coupe du monde à Kontiolahti ? ».",
+      "id": "f8428ac499ee",
+      "title": "Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête",
+      "summary": "Les affrontements survenus avant la rencontre de Ligue Europa entre l’Olympique de Marseille et le Levski Sofia, jeudi, au Stade-Vélodrome, ont fait une douzaine de blessés parmi les supporteurs bulgares, selon la préfecture de police des Bouches-du-Rhône.",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+      "published_at": "2026-11-27T02:27:04+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -67,9 +67,9 @@
         "Télérama"
       ],
       "coverage_count": 35,
-      "mention_count": 176,
-      "importance_score": 36.003,
-      "latest_coverage_at": "2026-11-26T23:15:53+00:00"
+      "mention_count": 180,
+      "importance_score": 36.053,
+      "latest_coverage_at": "2026-11-27T02:27:04+00:00"
     },
     {
       "id": "fdcf18de7da7",
@@ -105,43 +105,48 @@
         "Public Sénat"
       ],
       "coverage_count": 21,
-      "mention_count": 32,
-      "importance_score": 29.554,
+      "mention_count": 30,
+      "importance_score": 29.444,
       "latest_coverage_at": "2026-11-26T21:52:20+00:00"
     },
     {
-      "id": "97065c9e8652",
-      "title": "\"Que plus aucun match de Coupe d’Europe ne soit disputé dans ce stade\": le Levski Sofia demande une lourde sanction contre l'OM après les incidents au Vélodrome",
-      "summary": "Jeudi soir, le match de la 5e journée de Ligue Europa entre l'OM et le Levski Sofia (1-0) a été émaillé par de violents incidents entre supporters en tribune. Daniel Borimirov, directeur exécutif du club bulgare, a réclamé des sanctions contre les Marseillais.",
-      "source": "BFMTV",
-      "feed_rank": 8,
-      "url": "https://rmcsport.bfmtv.com/football/europa-league/que-plus-aucun-match-de-coupe-d-europe-ne-soit-dispute-dans-ce-stade-le-levski-sofia-demande-une-lourde-sanction-contre-l-om-apres-les-incidents-au-velodrome_AV-202611261037.html",
-      "published_at": "2026-11-26T22:43:11+00:00",
-      "category": "Sport",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « \"Que plus aucun match de Coupe d’Europe ne soit disputé dans ce stade\": le Levski Sofia demande une lourde sanction contre l'OM après les incidents au ».",
+      "id": "4ff0e745b5f8",
+      "title": "Donald Trump souhaite que Vladimir Poutine « mette fin à toute agression militaire » en Europe",
+      "summary": "Soufflant le chaud et le froid, Donald Trump a affirmé jeudi 26 novembre 2026 qu’il souhaitait que Vladimir Poutine « mette fin à toute agression militaire » en Europe.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-3f0589d6-ea00-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-27T02:01:14+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Donald Trump souhaite que Vladimir Poutine « mette fin à toute agression militaire » en Europe ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
+        "Le Monde",
+        "France 24",
         "Le Figaro",
         "TF1 Info (TF1 / LCI)",
-        "BFMTV",
-        "CNews",
+        "France Culture",
+        "L'Express",
+        "L'Obs",
         "Ouest-France",
+        "Sud Ouest",
         "20 Minutes",
-        "Le Dauphiné Libéré",
-        "Midi Libre"
+        "La Croix",
+        "La Dépêche du Midi",
+        "Paris Match"
       ],
-      "coverage_count": 10,
+      "coverage_count": 15,
       "mention_count": 19,
-      "importance_score": 24.137,
-      "latest_coverage_at": "2026-11-26T23:24:00+00:00"
+      "importance_score": 26.513,
+      "latest_coverage_at": "2026-11-27T02:01:14+00:00"
     },
     {
       "id": "1105301ba4df",
       "title": "Féminicide en Savoie : l'ex-époux de la policière assassinée à la machette condamné à la perpétuité",
       "summary": "Un sexagénaire a été condamné ce jeudi à la réclusion criminelle à perpétuité pour l'assassinat de son ex-femme, policière à Chambéry, dont il était séparé depuis six ans. Le 31 août 2023, elle avait été tuée à coups de machette en pleine rue devant son fils de trois ans. En 2025, 111 femmes ont été tuées par leur conjoint ou ex-conjoint en France.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.tf1info.fr/justice-faits-divers/feminicide-en-savoie-l-ex-epoux-de-la-policiere-assassinee-a-la-machette-condamne-a-la-perpetuite-2478428.html",
       "published_at": "2026-11-26T21:34:48+00:00",
       "category": "Société",
@@ -149,7 +154,6 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
-        "RFI",
         "TF1 Info (TF1 / LCI)",
         "CNews",
         "Libération",
@@ -158,9 +162,9 @@
         "L'Humanité",
         "Le Dauphiné Libéré"
       ],
-      "coverage_count": 10,
-      "mention_count": 10,
-      "importance_score": 22.846,
+      "coverage_count": 9,
+      "mention_count": 9,
+      "importance_score": 22.046,
       "latest_coverage_at": "2026-11-26T21:34:48+00:00"
     },
     {
@@ -168,7 +172,7 @@
       "title": "\"On espère qu'il n'y aura pas de conséquences\" : le naufrage d'un pétrolier au large d'Ibiza fait craindre une marée noire",
       "summary": "Ce jeudi, un pétrolier long de 120 mètres s'est retourné à une cinquantaine de kilomètres d'Ibiza. À son bord, 7.000 tonnes de carburant qui menacent de se déverser dans la mer. Un navire spécialisé dans la lutte contre la pollution marine a été déployé sur place.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/international/reportage-video-on-espere-qu-il-n-y-aura-pas-de-consequences-le-naufrage-d-un-petrolier-au-large-d-ibiza-fait-craindre-une-maree-noire-2478414.html",
       "published_at": "2026-11-26T21:01:59+00:00",
       "category": "Économie",
@@ -184,8 +188,8 @@
         "Paris Match"
       ],
       "coverage_count": 8,
-      "mention_count": 10,
-      "importance_score": 21.427,
+      "mention_count": 9,
+      "importance_score": 21.243,
       "latest_coverage_at": "2026-11-26T21:01:59+00:00"
     },
     {
@@ -193,7 +197,7 @@
       "title": "L'Agence France-Presse victime d'une cyberattaque, l'une de ses plateformes temporairement inaccessible",
       "summary": "L'AFP a été la cible d'une cyberattaque dans la nuit de mercredi à jeudi. L'AFP Forum, l'un de ses principaux sites, était toujours inaccessible ce jeudi soir. L'agence a dit ne disposer, à ce stade, \"d'aucun élément sur l'identité des auteurs de cette attaque\".",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/justice-faits-divers/l-agence-france-presse-victime-d-une-cyberattaque-l-une-de-ses-plateformes-temporairement-inaccessible-2478443.html",
       "published_at": "2026-11-26T22:14:59+00:00",
       "category": "Société",
@@ -209,32 +213,8 @@
       ],
       "coverage_count": 7,
       "mention_count": 9,
-      "importance_score": 20.632,
+      "importance_score": 20.619,
       "latest_coverage_at": "2026-11-26T22:14:59+00:00"
-    },
-    {
-      "id": "62585ec635ac",
-      "title": "Avec l’arrivée de l’Espagnol Pablo Hernandez de Cos à sa tête, toute la direction de la BCE va changer",
-      "summary": "L’ancien gouverneur de la Banque d’Espagne Pablo Hernandez de Cos, 55 ans, succédera à la Française Christine Lagarde après son départ de la Banque centrale européenne (BCE), le 7 février 2027.",
-      "source": "La Croix",
-      "feed_rank": 11,
-      "url": "https://www.la-croix.com/economie/avec-l-arrivee-de-lespagnol-pablo-hernandez-de-cos-a-sa-tete-toute-la-direction-de-la-bce-va-changer-20261126",
-      "published_at": "2026-11-26T18:12:34+00:00",
-      "category": "Économie",
-      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Avec l’arrivée de l’Espagnol Pablo Hernandez de Cos à sa tête, toute la direction de la BCE va changer » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "RFI",
-        "Euronews",
-        "L'Express",
-        "L'Opinion",
-        "La Croix",
-        "La Dépêche du Midi",
-        "Le JDD"
-      ],
-      "coverage_count": 7,
-      "mention_count": 7,
-      "importance_score": 20.13,
-      "latest_coverage_at": "2026-11-26T18:12:34+00:00"
     },
     {
       "id": "4adadb8f65ad",
@@ -256,7 +236,7 @@
       ],
       "coverage_count": 6,
       "mention_count": 8,
-      "importance_score": 19.513,
+      "importance_score": 19.477,
       "latest_coverage_at": "2026-11-26T17:16:41+00:00"
     },
     {
@@ -279,8 +259,29 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 18.981,
+      "importance_score": 18.942,
       "latest_coverage_at": "2026-11-26T21:00:09+00:00"
+    },
+    {
+      "id": "fed382bc391e",
+      "title": "Le Forum BFMTV – Impôts, argent public : le grand gâchis",
+      "summary": "Revoir notre grande émission spéciale \"Forum BFMTV – Impôts, argent public : le grand gâchis\" présentée par Maxime Switek ce jeudi 26 novembre 2026 sur BFMTV. À moins de cinq mois de l'élection présidentielle, les invités y ont exposé leurs points de vue sur les impôts et les services publics.",
+      "source": "BFMTV",
+      "feed_rank": 2,
+      "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-le-forum-bfmtv-impots-argent-public-le-grand-gachis_VN-202611261063.html",
+      "published_at": "2026-11-26T23:45:22+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Le Forum BFMTV – Impôts, argent public : le grand gâchis ».",
+      "coverage_sources": [
+        "BFMTV",
+        "France Inter",
+        "RMC",
+        "Public Sénat"
+      ],
+      "coverage_count": 4,
+      "mention_count": 16,
+      "importance_score": 18.535,
+      "latest_coverage_at": "2026-11-27T01:03:00+00:00"
     },
     {
       "id": "d8dc40d61319",
@@ -301,7 +302,7 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.899,
+      "importance_score": 17.882,
       "latest_coverage_at": "2026-11-26T19:37:00+00:00"
     },
     {
@@ -309,7 +310,7 @@
       "title": "Israël: Gadi Eisenkot et le parti de gauche nouent un accord de coalition",
       "summary": "Le parti Yashar de Gadi Eisenkot, chargé de former un nouveau gouvernement en Israël, a conclu jeudi 26 novembre un accord de coalition avec son partenaire de gauche, les Démocrates, faisant un pas de plus vers la formation d'un cabinet.",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261126-isra%C3%ABl-gadi-eisenkot-et-le-parti-de-gauche-nouent-un-accord-de-coalition",
       "published_at": "2026-11-26T17:21:38+00:00",
       "category": "Politique",
@@ -323,28 +324,8 @@
       ],
       "coverage_count": 5,
       "mention_count": 5,
-      "importance_score": 17.535,
+      "importance_score": 17.509,
       "latest_coverage_at": "2026-11-26T17:26:48+00:00"
-    },
-    {
-      "id": "a824987e9567",
-      "title": "Superprofits: \"En tant qu'employé, on ne reçoit rien ou très peu\", témoigne ce salarié chez Amazon",
-      "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat,…",
-      "source": "BFMTV",
-      "feed_rank": 4,
-      "url": "https://www.bfmtv.com/societe/video-superprofits-en-tant-qu-employe-on-ne-recoit-rien-ou-tres-peu-temoigne-ce-salarie-chez-amazon_VN-202611261041.html",
-      "published_at": "2026-11-26T22:58:40+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Superprofits: \"En tant qu'employé, on ne reçoit rien ou très peu\", témoigne ce salarié chez Amazon ».",
-      "coverage_sources": [
-        "BFMTV",
-        "RMC",
-        "Public Sénat"
-      ],
-      "coverage_count": 3,
-      "mention_count": 14,
-      "importance_score": 16.779,
-      "latest_coverage_at": "2026-11-26T22:58:40+00:00"
     },
     {
       "id": "aabee9eacdb5",
@@ -364,7 +345,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.372,
+      "importance_score": 16.364,
       "latest_coverage_at": "2026-11-26T23:03:14+00:00"
     },
     {
@@ -372,7 +353,7 @@
       "title": "Football: des violences en Géorgie contre des supporters turcs tournent à l'incident diplomatique",
       "summary": "La Fédération turque de football a dénoncé, jeudi 26 novembre, des actes « inqualifiables » visant des supporters du club de Besiktas. Ceux-ci avaient déployé une banderole pro-palestinienne lors d'un match de Ligue Europa délocalisé à Batoumi, en Géorgie, contre le club israélien de l'Hapoel Beer-Sheva. Le Besiktas Istanbul accuse la police géorgienne…",
       "source": "RFI",
-      "feed_rank": 2,
+      "feed_rank": 1,
       "url": "https://www.rfi.fr/fr/europe/20261126-football-en-g%C3%A9orgie-le-match-entre-besiktas-et-l-hapoel-beer-sheva-terni-par-des-violences",
       "published_at": "2026-11-26T21:28:47+00:00",
       "category": "Société",
@@ -385,7 +366,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.092,
+      "importance_score": 16.096,
       "latest_coverage_at": "2026-11-26T21:28:47+00:00"
     },
     {
@@ -406,7 +387,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.002,
+      "importance_score": 15.994,
       "latest_coverage_at": "2026-11-26T17:49:16+00:00"
     },
     {
@@ -426,7 +407,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 5,
-      "importance_score": 15.25,
+      "importance_score": 15.206,
       "latest_coverage_at": "2026-11-26T23:46:19+00:00"
     },
     {
@@ -446,19 +427,19 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.53,
+      "importance_score": 14.507,
       "latest_coverage_at": "2026-11-26T20:16:15+00:00"
     },
     {
-      "id": "2a4dd65b0181",
-      "title": "“Interpol : une police hors de contrôle ?”, un “Complément d’enquête” accablant sur les dérives de la prestigieuse agence",
-      "summary": "An Interpol employee stands at the headquarters in Lyon. Interpol is the world's largest police organization. PRODUCTION - 05 February 2026, France, Lyon. Photo by Rachel Sommer/dpa/ABACAPRESS.COM",
-      "source": "Télérama",
-      "feed_rank": 21,
-      "url": "https://www.telerama.fr/television/interpol-une-police-hors-de-controle-un-complement-d-enquete-accablant-sur-les-derives-de-la-prestigieuse-agence_cri-7047034.php",
-      "published_at": "2026-11-26T13:32:09+00:00",
+      "id": "16b1666f1fb0",
+      "title": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "summary": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 3,
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-26T23:54:29+00:00",
       "category": "Société",
-      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « “Interpol : une police hors de contrôle ?”, un “Complément d’enquête” accablant sur les dérives de la prestigieuse agence ».",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ? ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -466,8 +447,8 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.405,
-      "latest_coverage_at": "2026-11-26T13:32:09+00:00"
+      "importance_score": 14.426,
+      "latest_coverage_at": "2026-11-26T23:54:29+00:00"
     },
     {
       "id": "9132a1459484",
@@ -486,7 +467,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.311,
+      "importance_score": 14.303,
       "latest_coverage_at": "2026-11-26T18:13:44+00:00"
     },
     {
@@ -506,11 +487,224 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.267,
+      "importance_score": 14.259,
       "latest_coverage_at": "2026-11-26T19:00:15+00:00"
+    },
+    {
+      "id": "e5e1c33efd01",
+      "title": "Qui est Simon Abkarian qui va succéder à Ariane Mnouchkine à la tête du Théâtre du Soleil ?",
+      "summary": "A 64 ans, l’interprète du général de Gaulle dans le diptyque à succès d’Antonin Baudry a été désigné pour reprendre les rênes de cette institution du théâtre. Il prendra ses fonctions en septembre 2027.",
+      "source": "L'Obs",
+      "feed_rank": 4,
+      "url": "https://www.nouvelobs.com/culture/20261126.OBS120466/qui-est-simon-abkarian-qui-va-succeder-a-ariane-mnouchkine-a-la-tete-du-theatre-du-soleil.html",
+      "published_at": "2026-11-26T17:30:15+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Qui est Simon Abkarian qui va succéder à Ariane Mnouchkine à la tête du Théâtre du Soleil ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Culture",
+        "L'Obs",
+        "La Croix"
+      ],
+      "coverage_count": 3,
+      "mention_count": 3,
+      "importance_score": 14.164,
+      "latest_coverage_at": "2026-11-26T17:30:15+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "f8428ac499ee",
+      "title": "Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête",
+      "summary": "Les affrontements survenus avant la rencontre de Ligue Europa entre l’Olympique de Marseille et le Levski Sofia, jeudi, au Stade-Vélodrome, ont fait une douzaine de blessés parmi les supporteurs bulgares, selon la préfecture de police des Bouches-du-Rhône.",
+      "source": "Le Monde",
+      "feed_rank": 7,
+      "url": "https://www.lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+      "published_at": "2026-11-27T02:27:04+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Football : Emmanuel Macron condamne fermement les violences contre des supporteurs bulgares à Marseille, Sofia réclame une enquête ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "4ff0e745b5f8",
+      "title": "Donald Trump souhaite que Vladimir Poutine « mette fin à toute agression militaire » en Europe",
+      "summary": "Soufflant le chaud et le froid, Donald Trump a affirmé jeudi 26 novembre 2026 qu’il souhaitait que Vladimir Poutine « mette fin à toute agression militaire » en Europe.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-3f0589d6-ea00-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-27T02:01:14+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Donald Trump souhaite que Vladimir Poutine « mette fin à toute agression militaire » en Europe ».",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "297636f20531",
+      "title": "Etats-Unis : Le PDG de Nvidia n’est pas une menace pour la sécurité selon Trump",
+      "summary": "<p>Trois jours après le retour de Jensen Huang à la tête de Nvidia, <a href=\"https://www.20minutes.fr/dossier/donald_trump\">Donald Trump</a> a affirmé jeudi que le dirigeant ne représentait, à ses yeux, aucune menace pour la sécurité nationale. « Je pense qu&#x27;il n&#x27;a absolument rien à craindre », a déclaré le président américain dans sa résidence…",
+      "source": "20 Minutes",
+      "feed_rank": 4,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4266164-20261127-etats-unis-pdg-nvidia-menace-securite-selon-trump?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-27T01:51:45+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Etats-Unis : Le PDG de Nvidia n’est pas une menace pour la sécurité selon Trump ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "f889ca7484bb",
+      "title": "Ligue Europa : « Inadmissible »… Colère de la présidente bulgare après les violences lors du match à Marseille",
+      "summary": "<p>La présidente bulgare est furieuse et a tenu à faire passer le message à Emmanuel Macron. <a href=\"https://www.20minutes.fr/monde/ukraine/4259403-20261102-favorable-dialogue-moscou-iliana-iotova-elue-presidente-bulgarie\">Iliana Iotova</a> a en effet dénoncé une violence « inadmissible » et demandé jeudi soir aux autorités françaises de faire la…",
+      "source": "20 Minutes",
+      "feed_rank": 6,
+      "url": "https://www.20minutes.fr/sport/football/4266166-20261127-ligue-europa-inadmissible-colere-presidente-bulgare-apres-violences-lors-match-marseille?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-27T01:31:02+00:00",
+      "category": "Société",
+      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue Europa : « Inadmissible »… Colère de la présidente bulgare après les violences lors du match à Marseille ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "a5a711e51e9b",
+      "title": "La playlist soundsystem de Jean-Baptiste Audibert",
+      "summary": "La playlist de nouveautés de notre programmateur musical, Jean-Baptiste Audibert.",
+      "source": "France Inter",
+      "feed_rank": 1,
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/la-playlist-sound-system/playlist-sound-system-du-vendredi-27-novembre-2026-3653020",
+      "published_at": "2026-11-27T01:03:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « La playlist soundsystem de Jean-Baptiste Audibert » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Inter"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "2bbae36e3a8f",
+      "title": "Milei snobé par Lula… La brouille se poursuit entre le Brésil et l’Argentine",
+      "summary": "<p>La tension ne retombe pas entre Javier Milei et Lula. Le président argentin ne sera en effet pas invité à la cérémonie d’investiture de son homologue le 5 janvier au <a href=\"https://www.20minutes.fr/dossier/bresil\">Brésil</a>, a indiqué jeudi une source du gouvernement brésilien.</p><h2>Milei qualifie Lula de « voleur »</h2><p>Le président brésilien…",
+      "source": "20 Minutes",
+      "feed_rank": 3,
+      "url": "https://www.20minutes.fr/monde/bresil/4266150-20261127-milei-snobe-lula-brouille-poursuit-entre-bresil-argentine?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-27T00:41:37+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Milei snobé par Lula… La brouille se poursuit entre le Brésil et l’Argentine ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "74605e4861b6",
+      "title": "Etats-Unis : Tempête, déluge, neige… L’enfer de Thanksgiving pour des millions d’Américains",
+      "summary": "<p>Une dinde à cuire sans électricité, des vols retardés ou des ponts et des routes fermés… La <a href=\"https://www.20minutes.fr/dossier/tempete\">tempête</a> qui touche la côte est des <a href=\"https://www.20minutes.fr/monde/etats-unis/\">Etats-Unis</a> est en train de transformer Thankgiving en cauchemar pour des millions d’Américains ce jeudi. Plus de…",
+      "source": "20 Minutes",
+      "feed_rank": 1,
+      "url": "https://www.20minutes.fr/monde/etats-unis/4266148-20261127-etats-unis-tempete-deluge-neige-enfer-thanksgiving-millions-americains?at_medium=display&at_campaign=149",
+      "published_at": "2026-11-27T00:38:59+00:00",
+      "category": "International",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Etats-Unis : Tempête, déluge, neige… L’enfer de Thanksgiving pour des millions d’Américains ».",
+      "coverage_sources": [
+        "20 Minutes"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "cfe3312868d3",
+      "title": "Thanksgiving : ce que Friends ne raconte pas",
+      "summary": "Aux États-Unis, ce jeudi, c’est Thanksgiving. Des millions d’Américains prennent la route pour se retrouver autour d'une énorme dinde, c'est la tradition. Mais derrière ce repas copieux et les récits populaires qui en découlent, notamment dans les films et séries, se cache une réalité historique tragique.",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261127-thanksgiving-ce-que-friends-ne-raconte-pas",
+      "published_at": "2026-11-27T00:22:09+00:00",
+      "category": "Culture",
+      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Thanksgiving : ce que Friends ne raconte pas ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "5164d1b8b49f",
+      "title": "Théâtre: dans la pièce «Nocturne (Parade)», les marionnettes de Phia Ménard dansent avec le vent",
+      "summary": "Le vent est le chef d'orchestre de la dernière pièce de Phia Ménard. Ses objets marionnettes faits de plastique fin s'envolent dans une chorégraphie aléatoire et nous emmènent aux tréfonds de la nuit, là où se trouvent les forces du mal. Face aux êtres malfaisants se dressent des vies fragiles qui s'élèvent et résistent avec grâce. Phia Ménard vient du…",
+      "source": "RFI",
+      "feed_rank": 18,
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261127-th%C3%A9%C3%A2tre-dans-la-pi%C3%A8ce-nocturne-parade-les-marionnettes-de-phia-m%C3%A9nard-dansent-avec-le-vent",
+      "published_at": "2026-11-27T00:15:14+00:00",
+      "category": "Culture",
+      "communication_angle": "Cette actualité participe aux références et conversations culturelles du moment. Elle peut inspirer une campagne, à condition de comprendre le contexte de l'œuvre et de ne pas instrumentaliser les communautés qu'elle mobilise. Pour travailler ce cas, partez du sujet précis — « Théâtre: dans la pièce «Nocturne (Parade)», les marionnettes de Phia Ménard dansent avec le vent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "682f3af6578e",
+      "title": "Le marché mondial va t-il bientôt devoir se priver de riz indien?",
+      "summary": "La production de riz du premier exportateur mondial, l'Inde, devrait baisser pour la première fois depuis dix ans. Certaines variétés ont été très affectées par le manque de précipitations, en raison du phénomène climatique El Niño. Les prix s'en ressentent : ils sont en hausse.",
+      "source": "RFI",
+      "feed_rank": 7,
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261127-le-march%C3%A9-mondial-va-t-il-bient%C3%B4t-devoir-se-priver-de-riz-indien",
+      "published_at": "2026-11-27T00:11:56+00:00",
+      "category": "Économie",
+      "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Le marché mondial va t-il bientôt devoir se priver de riz indien? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "6ad613ebe9ed",
+      "title": "Irak: la loi jafarite légalise les mariages précoces et forcés",
+      "summary": "En Irak, l'amendement de la loi qui régit les normes familiales est entré en vigueur depuis un an. Il permet aux familles chiites d'appliquer des règles issues du droit musulman chiite jafarite. Le code jafarite, adopté en août 2025, définit l'âge auquel une fille est considérée comme pubère, donc en âge d'être mariée : 9 ans. Cela complique la garde des…",
+      "source": "RFI",
+      "feed_rank": 4,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261127-irak-la-loi-jafarite-l%C3%A9galise-les-mariages-pr%C3%A9coces-et-forc%C3%A9s",
+      "published_at": "2026-11-27T00:07:21+00:00",
+      "category": "Politique",
+      "communication_angle": "L'évolution juridique peut modifier les pratiques des entreprises, des médias ou des institutions. Les communicants doivent traduire les règles en consignes compréhensibles, distinguer ce qui est déjà applicable de ce qui reste proposé, et éviter les annonces prématurées. Sujet suivi : « Irak: la loi jafarite légalise les mariages précoces et forcés ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "16b1666f1fb0",
+      "title": "Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ?",
+      "summary": "Détournement de ses outils par des régimes autoritaires, corruption interne, données insuffisamment protégées... \"Complément d’enquête\" met au jour une série de failles aux lourdes conséquences au sein de l’organisation internationale.",
+      "source": "Franceinfo (TV)",
+      "feed_rank": 3,
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-interpol-une-police-hors-de-controle_8270150.html#xtor=RSS-3-[lestitres]",
+      "published_at": "2026-11-26T23:54:29+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Regardez le replay de \"Complément d'enquête\". Interpol : une police hors de contrôle ? ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
     {
       "id": "f1e54846e432",
       "title": "NEC Nimègue-Rennes: la colère des supporters bretons, qui jettent des gobelets contre leurs joueurs",
@@ -523,6 +717,38 @@
       "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « NEC Nimègue-Rennes: la colère des supporters bretons, qui jettent des gobelets contre leurs joueurs » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "946e0fcbc5f0",
+      "title": "Royaume-Uni: la petite ville de Battle surfe sur la Bayeux-mania",
+      "summary": "À Londres, l'engouement autour de la tapisserie de Bayeux ne faiblit pas. Depuis la mi-septembre, elle s'expose au British Museum. La tapisserie de Bayeux, 70 mètres de long et vieille de presque un millénaire, représente un moment fondateur de l'histoire anglaise : la bataille d'Hastings, qui marque la conquête de l'Angleterre par Guillaume et…",
+      "source": "RFI",
+      "feed_rank": 6,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261126-royaume-uni-la-petite-ville-de-battle-surfe-sur-la-bayeux-mania",
+      "published_at": "2026-11-26T23:45:48+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "Cette actualité touche à la diffusion des messages et à la confiance dans les canaux. Elle invite à penser transparence, responsabilité éditoriale et adéquation entre canal, message et public. Pour travailler ce cas, partez du sujet précis — « Royaume-Uni: la petite ville de Battle surfe sur la Bayeux-mania » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "cab7d336e27d",
+      "title": "EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne",
+      "summary": "Andrii Sybiha dit avoir expliqué à son homologue libyen, Taher Al-Baour, « qu’aucune des actions de l’Ukraine n’a jamais été dirigée contre la Libye ou le peuple libyen, uniquement contre des objets militaires russes servant directement à la guerre de la Russie contre l’Ukraine ». Kiev a revendiqué lundi des frappes contre deux navires russes, près de…",
+      "source": "Le Monde",
+      "feed_rank": 4,
+      "url": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-kiev-n-a-aucune-intention-d-etendre-la-guerre-a-la-libye-assure-le-chef-de-la-diplomatie-ukrainienne_6814183_3210.html",
+      "published_at": "2026-11-26T23:45:02+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : Kiev n’a « aucune intention d’étendre la guerre à la Libye », assure le chef de la diplomatie ukrainienne ».",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -548,7 +774,7 @@
       "title": "Biathlon. À quelle heure et sur quelle chaîne TV suivre l’individuel femmes de la Coupe du monde à Kontiolahti ?",
       "summary": "La saison de biathlon reprend. Ce 27 novembre à Kontiolahti (Finlande) place à l’individuel femmes où les Françaises tenteront de briller pour donner le ton à nouvelle saison. Découvrez à quelle heure et sur quelle chaîne vous pourrez suivre cette deuxième épreuve à Kontiolahti.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 4,
       "url": "https://www.ouest-france.fr/sport/biathlon/biathlon-a-quelle-heure-et-sur-quelle-chaine-tv-suivre-lindividuel-femmes-de-la-coupe-du-monde-a-kontiolahti-c479abb4-e9ed-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-26T23:15:53+00:00",
       "category": "International",
@@ -560,11 +786,43 @@
       "mention_count": 1
     },
     {
+      "id": "574b70e5bbf1",
+      "title": "Les évolutions de la littérature jeunesse, reflets de la société",
+      "summary": "C'est le rendez-vous annuel des enfants, des ados, et de celles et ceux qui leur racontent des histoires et leur font découvrir le monde : le Salon du livre et de la presse jeunesse à Montreuil. La littérature jeunesse bouge avec son temps. Elle a beaucoup évolué, en laissant une plus grande place aux sujets de société, tels que les questions d'identité,…",
+      "source": "RFI",
+      "feed_rank": 10,
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261126-les-%C3%A9volutions-de-la-litt%C3%A9rature-jeunesse-reflets-de-la-soci%C3%A9t%C3%A9",
+      "published_at": "2026-11-26T23:15:49+00:00",
+      "category": "Société",
+      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Les évolutions de la littérature jeunesse, reflets de la société ».",
+      "coverage_sources": [
+        "RFI"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "e9d2be784077",
+      "title": "Rochebin Soir du jeudi 26 novembre 2026",
+      "summary": "Au sommaire : Sondage 2027, Lisnard creuse l'écart sur Philippe. \"Zéro impôt pour les jeunes\", la mesure choc du RN. Nucléaire, l'appel qui a retenu Poutine de frapper. Un million de satellites, Musk colonise l'espace ?",
+      "source": "TF1 Info (TF1 / LCI)",
+      "feed_rank": 1,
+      "url": "https://www.tf1info.fr/replay-lci/videos/video-rochebin-soir-du-jeudi-26-novembre-2026-2478447.html",
+      "published_at": "2026-11-26T23:14:59+00:00",
+      "category": "Économie",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Rochebin Soir du jeudi 26 novembre 2026 ».",
+      "coverage_sources": [
+        "TF1 Info (TF1 / LCI)"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "b0c96e1f389f",
       "title": "OM - Levski Sofia. La présidente Iliana Iotova dénonce des « agressions contre les supporters bulgares » et demande des comptes à l’UEFA",
       "summary": "La présidente bulgare Iliana Iotova a réagi aux différents affrontements entre les supporters avant le coup d’envoi de la rencontre entre l’Olympique de Marseille et le Levski Sofia. Onze supporters bulgares ont été blessés.",
       "source": "Ouest-France",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/football/olympique-de-marseille/om-levski-sofia-la-presidente-de-la-bulgarie-regrette-une-violence-inadmissible-entre-les-supporters-a-marseille-9d1de504-e9ec-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-26T23:08:31+00:00",
       "category": "Société",
@@ -580,7 +838,7 @@
       "title": "OM-Levski Sofia: un supporter bulgare filmé en train d'effectuer un salut nazi",
       "summary": "Alors que l'avant-match de Ligue Europa entre l'OM et le Levski Sofia a été marqué par de violents incidents en tribunes, jeudi soir (1-0), un supporter du club bulgare a également été filmé en train d'effectuer un salut nazi.",
       "source": "BFMTV",
-      "feed_rank": 3,
+      "feed_rank": 5,
       "url": "https://rmcsport.bfmtv.com/football/europa-league/om-levski-sofia-un-supporter-bulgare-filme-en-train-d-effectuer-un-salut-nazi_AV-202611261045.html",
       "published_at": "2026-11-26T23:06:26+00:00",
       "category": "Médias & communication",
@@ -624,6 +882,23 @@
       "mention_count": 1
     },
     {
+      "id": "6050d391461f",
+      "title": "Massacre de Shakahola au Kenya: le gourou de la secte, son épouse et son bras droit reconnus coupables de terrorisme",
+      "summary": "Nouveau chapitre judiciaire dans l'affaire du massacre de Shakahola, au Kenya. Le pasteur autoproclamé Paul Mackenzie a été reconnu coupable de radicalisation et de terrorisme, jeudi 26 novembre, par le tribunal de Shanzu, à Mombasa. C'est la troisième condamnation du pasteur dans cette affaire. Début novembre, il avait déjà été condamné à 200 ans de…",
+      "source": "RFI",
+      "feed_rank": 8,
+      "url": "https://www.rfi.fr/fr/afrique/20261126-massacre-de-shakahola-au-kenya-le-gourou-de-la-secte-son-%C3%A9pouse-et-son-bras-droit-reconnus-coupables-de-terrorisme",
+      "published_at": "2026-11-26T22:56:19+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Massacre de Shakahola au Kenya: le gourou de la secte, son épouse et son bras droit reconnus coupables de terrorisme ».",
+      "coverage_sources": [
+        "RFI",
+        "Ouest-France"
+      ],
+      "coverage_count": 2,
+      "mention_count": 2
+    },
+    {
       "id": "ce2b7a0ddb15",
       "title": "Ligue Europa : plusieurs supporters bulgares blessés et évacués à l’hôpital… Soirée chaotique à Marseille",
       "summary": "Des supporters ont été évacués à l’hôpital après les affrontements entre les supporters marseillais et bulgares, ce jeudi, en amont du match de Ligue Europa.",
@@ -660,7 +935,7 @@
       "title": "\"Que plus aucun match de Coupe d’Europe ne soit disputé dans ce stade\": le Levski Sofia demande une lourde sanction contre l'OM après les incidents au Vélodrome",
       "summary": "Jeudi soir, le match de la 5e journée de Ligue Europa entre l'OM et le Levski Sofia (1-0) a été émaillé par de violents incidents entre supporters en tribune. Daniel Borimirov, directeur exécutif du club bulgare, a réclamé des sanctions contre les Marseillais.",
       "source": "BFMTV",
-      "feed_rank": 8,
+      "feed_rank": 10,
       "url": "https://rmcsport.bfmtv.com/football/europa-league/que-plus-aucun-match-de-coupe-d-europe-ne-soit-dispute-dans-ce-stade-le-levski-sofia-demande-une-lourde-sanction-contre-l-om-apres-les-incidents-au-velodrome_AV-202611261037.html",
       "published_at": "2026-11-26T22:43:11+00:00",
       "category": "Sport",
@@ -676,7 +951,7 @@
       "title": "A Nice, dix membres d’un groupe « anticasseurs » devant la justice : « On était là pour les commerçants »",
       "summary": "Dix membres présumés d’un « groupe d’autodéfense » constitué face aux manifestations de l’automne, soupçonnés d’être proches de l’ultradroite locale, comparaissaient jeudi 26 octobre devant le tribunal correctionnel de Nice pour association de malfaiteurs et transport d’armes.",
       "source": "Le Monde",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.lemonde.fr/societe/article/2026/11/26/a-nice-dix-membres-d-un-groupe-anticasseurs-devant-la-justice-on-etait-la-pour-les-commercants_6815626_3224.html",
       "published_at": "2026-11-26T22:43:09+00:00",
       "category": "Société",
@@ -692,7 +967,7 @@
       "title": "Handball. À domicile, le PSG se contente du match nul face à Plock en Ligue des champions",
       "summary": "Le Paris Saint-Germain Handball a concédé le match nul en toute fin de match ce jeudi 26 novembre face au club polonais de Plock lors de la deuxième journée de Ligue des champions.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/handball/handball-a-domicile-le-psg-se-contente-du-match-nul-face-a-plock-en-ligue-des-champions-866cb18e-e9e5-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-26T22:39:16+00:00",
       "category": "Sport",
@@ -704,11 +979,27 @@
       "mention_count": 1
     },
     {
+      "id": "f66b6a753fd7",
+      "title": "Élections en Espagne : les socialistes de Pedro Sanchez orchestrent-ils une \"fraude massive\" ?",
+      "summary": "À quelques jours d’élections législatives anticipées cruciales pour le Premier ministre socialiste Pedro Sánchez, les accusations de fraude électorale se multiplient en Espagne. Détournement d'identité numérique, vote par correspondance truqué ou encore migrants rajoutés dans des listes : les intox s'empilent pour tenter de jeter le discrédit sur le scrutin.",
+      "source": "France 24",
+      "feed_rank": 2,
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261126-%C3%A9lections-en-espagne-les-socialistes-de-pedro-sanchez-orchestrent-ils-une-fraude-massive",
+      "published_at": "2026-11-26T22:37:44+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Élections en Espagne : les socialistes de Pedro Sanchez orchestrent-ils une \"fraude massive\" ? ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "18592bc5ba90",
       "title": "NEC 3 - 1 Rennes : \"Il y a un problème qui est plus profond dans ce club\"",
       "summary": "Invaincu en Ligue Europa depuis le début de la phase de ligue, le Stade rennais se déplace ce jeudi 26 novembre au Goffertstadion pour affronter le NEC Nimègue dans le cadre de la 5e journée. 17e au classement, les Rennais cherchent à enfin se relancer face aux Néerlandais classés 12e, mais en vain. L'After tape du poing sur la table.",
       "source": "BFMTV",
-      "feed_rank": 10,
+      "feed_rank": 12,
       "url": "https://rmcsport.bfmtv.com/replay-emissions/after-foot/video-nec-3-1-rennes-il-y-a-un-probleme-qui-est-plus-profond-dans-ce-club_VN-202611261035.html",
       "published_at": "2026-11-26T22:34:10+00:00",
       "category": "Société",
@@ -724,7 +1015,7 @@
       "title": "Éric Zemmour annonce que 2027 sera sa “dernière campagne” à l’élection présidentielle",
       "summary": "Le candidat d'extrême droite a annoncé que la présidentielle 2027 sera sa dernière course à l'Élysée. Il a notamment affirmé que sa compagne Sarah Knafo pourrait \"sans doute\" se présenter en 2032.",
       "source": "BFMTV",
-      "feed_rank": 11,
+      "feed_rank": 13,
       "url": "https://www.bfmtv.com/politique/reconquete/eric-zemmour-annonce-que-2027-sera-sa-derniere-campagne-a-l-election-presidentielle_AD-202611261033.html",
       "published_at": "2026-11-26T22:32:28+00:00",
       "category": "Politique",
@@ -740,7 +1031,7 @@
       "title": "OM - Levski Sofia. « À sa place, je n’aurais pas tenté ça à ce moment-là, mais si ça réussit… » : Genesio réagit au penalty manqué de Gouiri",
       "summary": "Après la victoire face au Levski Sofia, l’entraîneur de l’OM s’est montré très satisfait de la victoire. Bruno Genesio a toutefois eu un mot pour Amine Gouri, buteur mais auteur d’une Panenka ratée.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/olympique-de-marseille/om-levski-sofia-a-sa-place-je-naurais-pas-tente-ca-a-ce-moment-la-mais-si-ca-reussit-genesio-reagi-au-penalty-manque-de-gouiri-c04b2e9e-e9e5-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-26T22:30:29+00:00",
       "category": "Société",
@@ -788,7 +1079,7 @@
       "title": "\"C'est un investissement cher\": trois statues géantes de la Nativité voulues par la mairie RN de Perpignan font polémique",
       "summary": "À Perpignan, la mairie RN a souhaité installer des statues de la Nativité en lien avec les fêtes de Noël sur la place de la République. Une décision qui fait polémique.",
       "source": "BFMTV",
-      "feed_rank": 13,
+      "feed_rank": 15,
       "url": "https://www.bfmtv.com/societe/c-est-un-investissement-cher-trois-statues-geantes-de-la-nativite-voulues-par-la-mairie-rn-de-perpignan-font-polemique_AD-202611261028.html",
       "published_at": "2026-11-26T22:19:06+00:00",
       "category": "Société",
@@ -804,7 +1095,7 @@
       "title": "L'Agence France-Presse victime d'une cyberattaque, l'une de ses plateformes temporairement inaccessible",
       "summary": "L'AFP a été la cible d'une cyberattaque dans la nuit de mercredi à jeudi. L'AFP Forum, l'un de ses principaux sites, était toujours inaccessible ce jeudi soir. L'agence a dit ne disposer, à ce stade, \"d'aucun élément sur l'identité des auteurs de cette attaque\".",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.tf1info.fr/justice-faits-divers/l-agence-france-presse-victime-d-une-cyberattaque-l-une-de-ses-plateformes-temporairement-inaccessible-2478443.html",
       "published_at": "2026-11-26T22:14:59+00:00",
       "category": "Société",
@@ -838,13 +1129,29 @@
       "title": "Ligue Europa. L’OL se contente d’un triste match nul sur sa pelouse face à Lillestrom et avance au ralenti",
       "summary": "À domicile, l’Olympique Lyonnais n’a réussi à faire mieux que le match nul (0-0) face à Lillestrom lors de cette cinquième journée de Ligue Europa et reste coincé dans le ventre mou.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/olympique-lyonnais/ligue-europa-lol-se-contente-dun-triste-match-nul-sur-sa-pelouse-face-a-lillestrom-et-avance-au-ralenti-a98bcbe4-e9e2-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-26T22:07:11+00:00",
       "category": "Sport",
       "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue Europa. L’OL se contente d’un triste match nul sur sa pelouse face à Lillestrom et avance au ralenti ».",
       "coverage_sources": [
         "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "73ad653299de",
+      "title": "Vladimir Poutine, Benjamin Netanyahu... \"Tous ces gens-là se retrouveront au tribunal\" (Plantu)",
+      "summary": "Le dessinateur Plantu est revenu pour nous sur ses plus célèbres dessins d'actualité. Parmi eux, une scène de jugement à la CPI, la Cour pénale internationale. L'émission est à retrouver dans son intégralité ce samedi midi sur la chaîne YouTube de France 24.",
+      "source": "France 24",
+      "feed_rank": 3,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-vladimir-poutine-benjamin-netanyahu-tous-ces-gens-l%C3%A0-se-retrouveront-au-tribunal-plantu",
+      "published_at": "2026-11-26T22:06:26+00:00",
+      "category": "Médias & communication",
+      "communication_angle": "L'actualité touche aux canaux par lesquels les publics découvrent et commentent les messages. Elle invite à revoir le choix des plateformes, les règles de modération et les indicateurs d'engagement, sans confondre visibilité algorithmique et adhésion réelle. Sujet suivi : « Vladimir Poutine, Benjamin Netanyahu... \"Tous ces gens-là se retrouveront au tribunal\" (Plantu) ».",
+      "coverage_sources": [
+        "France 24"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -886,7 +1193,7 @@
       "title": "« Arrogance », « basses manœuvres »… Passe d’armes entre Macron et Le Pen sur le budget de l’UE",
       "summary": "<p>« Déjà en charge du destin de la France. » C’est ainsi qu’<a href=\"https://www.20minutes.fr/politique/emmanuel-macron/\">Emmanuel Macron</a> a décrit jeudi à Bruxelles la posture de <a href=\"https://www.20minutes.fr/politique/marine-le-pen/\">Marine Le Pen</a> dans les négociations sur le budget de l’<a href=\"https://www.20minutes.fr/dossier/ue\">Union…",
       "source": "20 Minutes",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.20minutes.fr/politique/4266147-20261126-arrogance-basses-manoeuvres-passe-armes-entre-macron-pen-budget-ue?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T22:02:17+00:00",
       "category": "Économie",
@@ -913,6 +1220,22 @@
       ],
       "coverage_count": 2,
       "mention_count": 2
+    },
+    {
+      "id": "a2788bb2a5c8",
+      "title": "Cyril Ramaphosa évite la destitution",
+      "summary": "Dans l'édition du jour, Cyril Ramaphosa écarte la procédure de destitution qui aurait pu mettre un terme à sa présidence. Le chef de l'État sud-africain a été accusé d'avoir caché à la police et au fisc un cambriolage en 2020 dans sa ferme luxueuse de Phala Phala.",
+      "source": "France 24",
+      "feed_rank": 4,
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-cyril-ramaphosa-%C3%A9vite-la-destitution",
+      "published_at": "2026-11-26T22:00:05+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Cyril Ramaphosa évite la destitution ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
     },
     {
       "id": "157df39816f1",
@@ -1017,7 +1340,7 @@
       "title": "Ligue Europa : incidents entre supporters marseillais et bulgares au stade Vélodrome",
       "summary": "Une dizaine de minutes avant le coup d'envoi du match opposant l'OM au Levski Sofia ce jeudi à Marseille, plusieurs incidents ont éclaté entre les supporters des deux équipes au sein du stade Vélodrome. Cinq personnes ont été évacuées à l'hôpital et six autres ont été soignées sur place, a indiqué la préfecture, précisant que toutes les victimes sont des…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.tf1info.fr/justice-faits-divers/ligue-europa-incidents-entre-supporters-marseillais-et-bulgares-au-stade-velodrome-2478444.html",
       "published_at": "2026-11-26T21:53:22+00:00",
       "category": "Société",
@@ -1099,7 +1422,7 @@
       "title": "Foot. Lionel Messi et Cristiano Ronaldo bientôt réunis pour un jubilé ?",
       "summary": "Un jubilé se jouera le 20 décembre prochain en Argentine, en l’honneur de Carlos Tevez. Ce jeudi 26 novembre, l’ancien attaquant a laissé entendre que Lionel Messi et Cristiano Ronaldo pourraient être réunis dans la même équipe, lui qui a joué avec les deux hommes. Gianluigi Buffon, Juan Riquelme et Rio Ferdinand seront de la partie.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/foot-lionel-messi-et-cristiano-ronaldo-bientot-reunis-pour-un-jubile-109599f8-e9e0-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-26T21:44:33+00:00",
       "category": "Société",
@@ -1131,7 +1454,7 @@
       "title": "Budget de l'UE : Emmanuel Macron critique la \"drôle d'arrogance\" de Marine Le Pen",
       "summary": "Marine Le Pen fait preuve \"d'une drôle d'arrogance\", a estimé ce jeudi le président Emmanuel Macron, après les propos critiques de la candidate RN qui avait dénoncé \"de basses manœuvres politiciennes\" à propos des négociations budgétaires de l'UE. En l'absence d'un accord au 31 décembre, Emmanuel Macron a prévenu que les discussions reprendront au…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.tf1info.fr/politique/elections/presidentielle/budget-de-l-ue-emmanuel-macron-critique-la-drole-d-arrogance-de-marine-le-pen-2478441.html",
       "published_at": "2026-11-26T21:40:07+00:00",
       "category": "Politique",
@@ -1183,11 +1506,27 @@
       "mention_count": 4
     },
     {
+      "id": "089d5dfcf782",
+      "title": "FORUM BFMTV - Services publics: \"Dans chaque salle, il y a une prise électrique pour 36 ordinateurs\", note Jean-Baptiste, professeur d'histoire-géographie en lycée public",
+      "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat,…",
+      "source": "BFMTV",
+      "feed_rank": 22,
+      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-services-publics-dans-chaque-salle-il-y-a-une-prise-electrique-pour-36-ordinateurs-note-jean-baptiste-professeur-d-histoire-geographie-en-lycee-public_VN-202611261017.html",
+      "published_at": "2026-11-26T21:28:56+00:00",
+      "category": "Économie",
+      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « FORUM BFMTV - Services publics: \"Dans chaque salle, il y a une prise électrique pour 36 ordinateurs\", note Jean-Baptiste, professeur d'histoire-géogra ».",
+      "coverage_sources": [
+        "BFMTV"
+      ],
+      "coverage_count": 1,
+      "mention_count": 13
+    },
+    {
       "id": "1a5566873267",
       "title": "Football: des violences en Géorgie contre des supporters turcs tournent à l'incident diplomatique",
       "summary": "La Fédération turque de football a dénoncé, jeudi 26 novembre, des actes « inqualifiables » visant des supporters du club de Besiktas. Ceux-ci avaient déployé une banderole pro-palestinienne lors d'un match de Ligue Europa délocalisé à Batoumi, en Géorgie, contre le club israélien de l'Hapoel Beer-Sheva. Le Besiktas Istanbul accuse la police géorgienne…",
       "source": "RFI",
-      "feed_rank": 2,
+      "feed_rank": 1,
       "url": "https://www.rfi.fr/fr/europe/20261126-football-en-g%C3%A9orgie-le-match-entre-besiktas-et-l-hapoel-beer-sheva-terni-par-des-violences",
       "published_at": "2026-11-26T21:28:47+00:00",
       "category": "Société",
@@ -1203,45 +1542,13 @@
       "title": "Au premier jour du procès d'Émilie König, le parcours de la propagandiste acharnée de l'État islamique retracé",
       "summary": "Jeudi 26 novembre, le procès d'Émilie König s'ouvrait aux assises de Paris. Son parcours, de la Bretagne aux rangs de Daesh, a été minutieusement retracé.",
       "source": "BFMTV",
-      "feed_rank": 22,
+      "feed_rank": 24,
       "url": "https://www.bfmtv.com/police-justice/proces/au-premier-jour-du-proces-d-emilie-konig-le-parcours-de-la-propagandiste-acharnee-de-l-etat-islamique-retrace_AD-202611261014.html",
       "published_at": "2026-11-26T21:24:46+00:00",
       "category": "Société",
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Au premier jour du procès d'Émilie König, le parcours de la propagandiste acharnée de l'État islamique retracé ».",
       "coverage_sources": [
         "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "6c61ff677887",
-      "title": "« Une géante du mouvement olympique » : la militante en faveur du sport féminin Anita DeFrantz est morte",
-      "summary": "Anita DeFrantz, médaillée de bronze olympique en aviron devenue une membre pionnière du Comité international olympique, est décédée à l’âge de 74 ans, a annoncé jeudi 26 novembre 2026 le CIO.",
-      "source": "Ouest-France",
-      "feed_rank": 9,
-      "url": "https://www.ouest-france.fr/jeux-olympiques/une-geante-du-mouvement-olympique-la-militante-en-faveur-du-sport-feminin-anita-defrantz-est-morte-ba9678f2-e9de-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-26T21:24:35+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « « Une géante du mouvement olympique » : la militante en faveur du sport féminin Anita DeFrantz est morte ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2a1c5e9cd2a0",
-      "title": "Ligue Europa. Mouvement de foule, jets de projectiles… Scènes de violence avant OM - Levski Sofia, des supporters bulgares à l’hôpital",
-      "summary": "L’avant-match de Ligue Europa entre l’OM et le Levski Sofia, jeudi 26 novembre, à Marseille, a été marqué par des incidents en tribunes entre supporters des deux équipes, avec des jets de projectiles et de fumigènes.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/football/olympique-de-marseille/ligue-europa-mouvement-de-foule-jets-de-projectiles-scenes-de-violence-entre-supporters-de-lom-et-du-levski-sofia-254beb46-e9c6-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-26T21:24:10+00:00",
-      "category": "Médias & communication",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Ligue Europa. Mouvement de foule, jets de projectiles… Scènes de violence avant OM - Levski Sofia, des supporters bulgares à l’hôpital ».",
-      "coverage_sources": [
-        "Ouest-France"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -1283,7 +1590,7 @@
       "title": "Une jatte-téton commandée pour Marie-Antoinette vendue près de 3 millions d'euros aux enchères à Paris",
       "summary": "L'objet historique commandé par Louis XVI pour la laiterie de Marie-Antoinette à Rambouillet était considéré comme le quatrième et dernier exemplaire de cette célèbre pièce de la manufacture de Sèvres.",
       "source": "BFMTV",
-      "feed_rank": 23,
+      "feed_rank": 25,
       "url": "https://www.bfmtv.com/societe/une-jatte-teton-commandee-pour-marie-antoinette-vendue-pres-de-3-millions-d-euros-aux-encheres-a-paris_AD-202611261011.html",
       "published_at": "2026-11-26T21:22:59+00:00",
       "category": "Économie",
@@ -1295,27 +1602,11 @@
       "mention_count": 1
     },
     {
-      "id": "84f9cd6961d3",
-      "title": "FORUM BFMTV - Services publics: \"Ce que l'on propose pour avoir moins de fonctionnaires, c'est d'avoir moins de normes\", déclare Jonas Haddad, porte-parole du parti \"Les Républicains\"",
-      "summary": "Ce jeudi soir à 21h, BFMTV propose un nouveau numéro du FORUM BFMTV : « Impôts, argent public : le grand gâchis » présenté par Maxime Switek. Entre fiscalité, dépenses publiques et dette, BFMTV consacre une soirée aux enjeux du financement et de la gestion des finances publiques. Cette semaine, BFMTV choisit de réunir : Professeur, infirmier, avocat,…",
-      "source": "BFMTV",
-      "feed_rank": 24,
-      "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-services-publics-ce-que-l-on-propose-pour-avoir-moins-de-fonctionnaires-c-est-d-avoir-moins-de-normes-declare-jonas-haddad-porte-parole-du-parti-les-republicains_VN-202611261012.html",
-      "published_at": "2026-11-26T21:20:10+00:00",
-      "category": "Économie",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « FORUM BFMTV - Services publics: \"Ce que l'on propose pour avoir moins de fonctionnaires, c'est d'avoir moins de normes\", déclare Jonas Haddad, porte-p ».",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 12
-    },
-    {
       "id": "093c4523be52",
       "title": "Soupçons de fuites au profit du RN : Le magistrat surpris au siège du parti a admis qu’il connaissait le dossier",
       "summary": "<p>Christian de Rocquigny a reconnu devant la procureure générale de Paris qu’il avait eu connaissance dès la fin juillet du dossier des fuites présumées au profit du <a href=\"https://www.20minutes.fr/politique/rassemblement-national/\">Rassemblement national</a>. Le procureur adjoint avait alors transmis à sa hiérarchie, sous sa signature, un rapport…",
       "source": "20 Minutes",
-      "feed_rank": 4,
+      "feed_rank": 14,
       "url": "https://www.20minutes.fr/politique/4266146-20261126-soupcons-fuites-profit-rn-magistrat-surpris-siege-parti-admis-connaissait-dossier?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T21:16:28+00:00",
       "category": "Société",
@@ -1347,22 +1638,6 @@
       "mention_count": 2
     },
     {
-      "id": "3e2d98dc0c33",
-      "title": "OM-Levski Sofia: Genesio n'a pas aimé la panenka ratée par Gouiri",
-      "summary": "Si Marseille a décroché un succès important ce jeudi face au Levski Sofia (1-0) en Ligue Europa, Bruno Genesio n'a pas franchement apprécié la panenka tentée par Amine Gouiri en seconde période.",
-      "source": "BFMTV",
-      "feed_rank": 25,
-      "url": "https://rmcsport.bfmtv.com/football/europa-league/om-levski-sofia-genesio-n-a-pas-aime-la-panenka-ratee-par-gouiri_AV-202611261005.html",
-      "published_at": "2026-11-26T21:13:03+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « OM-Levski Sofia: Genesio n'a pas aimé la panenka ratée par Gouiri » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "BFMTV"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "f1cf72f5ab8e",
       "title": "\"C'est pas le psy qui va faire pousser de l'herbe\" : après le suicide d'un agriculteur, sa famille témoigne",
       "summary": "À 18 ans, Gabin Bréhaut a repris l'exploitation familiale après le suicide de son père, agriculteur dans le Maine-et-Loire. Épuisé par les conséquences de la sécheresse et des fortes chaleurs sur son troupeau, Jean-François Bréhaut avait perdu huit vaches sur 65. Un drame qui illustre les difficultés croissantes du monde agricole face au réchauffement…",
@@ -1384,7 +1659,7 @@
       "title": "À l'Institut du monde arabe, une soirée dédiée aux \"voix iraniennes\" perturbée par des monarchistes",
       "summary": "Une soirée dédiée aux \"voix iraniennes\" organisée mercredi à l'Institut du monde arabe (IMA) à Paris a été perturbée par des militants pahlavistes, soutiens du fils du chah déchu en exil. Un signe de la fracture qui parcourt la diaspora iranienne en France.",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 5,
       "url": "https://www.france24.com/fr/france/20261126-institut-monde-arabe-soir%C3%A9e-d%C3%A9di%C3%A9e-voix-iraniennes-perturb%C3%A9e-monarchistes-chah-pahlavi",
       "published_at": "2026-11-26T21:08:23+00:00",
       "category": "International",
@@ -1400,7 +1675,7 @@
       "title": "Karim Leklou, à l'affiche de \"Eldorado\" sur Arte et \"Quasimodo, l'âme de Paris\" sur Netflix",
       "summary": "Césarisé en 2025 pour « Le Roman de Jim », Karim Leklou multiplie les rôles au cinéma et à la télévision. Il est à l’affiche de « Quasimodo » sur Netflix et de la série « Eldorado » sur Arte.",
       "source": "France Inter",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/a-la-reguliere/a-la-reguliere-du-jeudi-26-novembre-2026-3610665",
       "published_at": "2026-11-26T21:04:50+00:00",
       "category": "Culture",
@@ -1416,7 +1691,7 @@
       "title": "\"On espère qu'il n'y aura pas de conséquences\" : le naufrage d'un pétrolier au large d'Ibiza fait craindre une marée noire",
       "summary": "Ce jeudi, un pétrolier long de 120 mètres s'est retourné à une cinquantaine de kilomètres d'Ibiza. À son bord, 7.000 tonnes de carburant qui menacent de se déverser dans la mer. Un navire spécialisé dans la lutte contre la pollution marine a été déployé sur place.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.tf1info.fr/international/reportage-video-on-espere-qu-il-n-y-aura-pas-de-consequences-le-naufrage-d-un-petrolier-au-large-d-ibiza-fait-craindre-une-maree-noire-2478414.html",
       "published_at": "2026-11-26T21:01:59+00:00",
       "category": "Économie",
@@ -1432,7 +1707,7 @@
       "title": "Les \"parents hélicoptères\" partagent ces traits de personnalité et ce type de blessures psychologiques, selon une psychologue",
       "summary": "Les parents hélicoptères, par leur surveillance excessive, freinent l'autonomie des enfants. Ces comportements découlent souvent de blessures d'enfance. Un enfant a besoin de rencontrer quelques obstacles adaptés à son âge pour développer confiance et autonomie.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.tf1info.fr/societe/les-parents-helicopteres-partagent-ces-traits-de-personnalite-et-ce-type-de-blessures-psychologiques-selon-une-psychologue-2411778.html",
       "published_at": "2026-11-26T21:00:29+00:00",
       "category": "Société",
@@ -1464,7 +1739,7 @@
       "title": "Policiers blessés : la lente reconstruction",
       "summary": "Au sein de la police nationale, un service discret accompagne les policiers blessés. Une quinzaine d'agents les contactent après leur blessure. La mission d'accompagnement prend ensuite le relais pour les soutenir dans leurs démarches administratives, parfois jusqu'au procès. Chaque année, ce service accompagne environ 1 600 agents blessés. Il organise…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-policiers-blesses-la-lente-reconstruction-74581-2478440.html",
       "published_at": "2026-11-26T20:55:11+00:00",
       "category": "Société",
@@ -1627,7 +1902,7 @@
       "title": "Grand Nord : la conquête de l’Arctique",
       "summary": "C'est l'un des endroits les plus convoités du monde. Le Grand Nord canadien est un immense territoire, grand comme six fois la France. Depuis quelques années, la fonte accélérée de la banquise permet le passage de navires de très grande taille, y compris militaires. Deux pays voisins, la Russie et les États-Unis, acceptent mal d'être tenus à l'écart.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.tf1info.fr/international/videos/video-grand-nord-la-conquete-de-l-arctique-35621-2478438.html",
       "published_at": "2026-11-26T20:35:13+00:00",
       "category": "International",
@@ -1643,7 +1918,7 @@
       "title": "Chantiers de l'Atlantique : TF1 à bord du paquebot",
       "summary": "Plus long que la tour Eiffel, beaucoup plus haut que l'Arc de Triomphe, World Asia entre dans le cercle très fermé des plus grands paquebots de croisière du monde. Construite en France, à Saint-Nazaire, cette ville flottante pourra accueillir 6 700 passagers. Environ 500 entreprises françaises ont participé à sa construction. Notre équipe a pu embarquer…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.tf1info.fr/economie/videos/video-chantiers-de-l-atlantique-tf1-a-bord-du-paquebot-50569-2478434.html",
       "published_at": "2026-11-26T20:35:12+00:00",
       "category": "Économie",
@@ -1659,7 +1934,7 @@
       "title": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
       "summary": "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a accusé jeudi la France d'avoir maltraité un agent consulaire détenu depuis 2025 dans l'Hexagone et mis en examen dans le cadre de l'enlèvement de l'influenceur algérien Amir Boukhors. L'affaire avait aggravé les tensions diplomatiques déjà vives entre les deux pays et conduit à l'expulsion…",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
       "published_at": "2026-11-26T20:34:36+00:00",
       "category": "Médias & communication",
@@ -1756,7 +2031,7 @@
       "title": "L'IA peut-elle vraiment remplacer les professionnels ?",
       "summary": "Mal à la tête, la gorge qui gratte... Près d'un Français sur deux a déjà interrogé une intelligence artificielle pour obtenir des conseils de santé. L'agence du médicament vient de lancer une alerte après plusieurs cas de surdosage et d'erreurs liés à l'usage de l'IA, qui se trompe souvent. Récemment, aux États-Unis, une femme de 31 ans est décédée après…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.tf1info.fr/high-tech/videos/video-l-ia-peut-elle-vraiment-remplacer-les-professionnels-65248-2478430.html",
       "published_at": "2026-11-26T20:25:12+00:00",
       "category": "Société",
@@ -1772,7 +2047,7 @@
       "title": "Prix en rayon : gare aux écarts du ticket de caisse !",
       "summary": "La Répression des fraudes a infligé de lourdes amendes à deux supermarchés du Nord pour des écarts de prix. En 2024, sur 5 600 établissements contrôlés, des erreurs ont été constatées dans près de la moitié d'entre eux. Dans la majorité des cas, c'est involontaire. Que faire si cela vous arrive ? Si vous êtes à la caisse, le remboursement est immédiat.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.tf1info.fr/conso/videos/video-prix-en-rayon-gare-aux-ecarts-du-ticket-de-caisse-95819-2478432.html",
       "published_at": "2026-11-26T20:25:11+00:00",
       "category": "Économie",
@@ -1821,7 +2096,7 @@
       "title": "GRAND REPORTAGE - \"Ce sont des exercices d'assaut\" : comment le Canada tente de réaffirmer sa souveraineté dans l'Arctique convoité",
       "summary": "C'est une terre hostile où le thermomètre peut descendre jusqu'à moins 60°C, à laquelle pendant des siècles, seuls les Inuits ont réussi à s'acclimater. Une zone, aussi, sur laquelle la pression monte à mesure que la banquise recule : les Etats-Unis et la Russie rêvent d'y faire passer leurs navires, mais le Canada ne compte pas se laisser faire.…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.tf1info.fr/international/reportage-exceptionnel-dans-le-grand-nord-ce-sont-des-exercices-d-assaut-comment-le-canada-tente-de-reaffirmer-sa-souverainete-dans-l-arctique-face-aux-etats-unis-de-trump-et-a-la-russie-2478373.html",
       "published_at": "2026-11-26T20:23:11+00:00",
       "category": "International",
@@ -2016,7 +2291,7 @@
       "title": "Steven Wilson (Porcupine Tree) : un concert idéal",
       "summary": "Ce soir, après son interview, Michka Assayas consacre un concert idéal à Steven Wilson, membre émérite de formations cultes du rock dit progressif, comme Porcupine Tree.",
       "source": "France Inter",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/very-good-trip/very-good-trip-du-jeudi-26-novembre-2026-9125808",
       "published_at": "2026-11-26T20:04:50+00:00",
       "category": "Société",
@@ -2032,7 +2307,7 @@
       "title": "«Une mare de sang le long de mon corps»: la létalité des grenades de la police française en question",
       "summary": "Depuis le début de la mobilisation sociale en France, des centaines de personnes ont été blessées – des jeunes, des personnels de l'éducation ou encore des forces de l'ordre. Certains manifestants ont été blessés par des grenades lancées par la police. Le gouvernement l'assure : les grenades assourdissantes ou de désencerclement ne sont pas des armes…",
       "source": "RFI",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.rfi.fr/fr/france/20261126-une-mare-de-sang-le-long-de-mon-corps-la-l%C3%A9talit%C3%A9-des-grenades-de-la-police-fran%C3%A7aise-en-question",
       "published_at": "2026-11-26T20:04:27+00:00",
       "category": "Politique",
@@ -2081,7 +2356,7 @@
       "title": "Une jatte en forme de téton commandée par Marie-Antoinette adjugée à 2,9 millions d’euros",
       "summary": "<p>Un coup de marteau pour clore deux siècles de silence. Ce jeudi, à Paris, une jatte-téton de la manufacture de Sèvres, imaginée pour Marie-Antoinette, a été adjugée 2,9 millions d’euros sous les ors de l’hôtel Drouot. Un prix qui constitue un record mondial pour une porcelaine de Sèvres vendue aux enchères.</p><p>L’acquéreur n’a pas été dévoilé.…",
       "source": "20 Minutes",
-      "feed_rank": 10,
+      "feed_rank": 18,
       "url": "https://www.20minutes.fr/arts-stars/culture/4266138-20261126-jatte-forme-teton-commandee-marie-antoinette-adjugee-2-9-millions-euros?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T20:01:19+00:00",
       "category": "Société",
@@ -2114,7 +2389,7 @@
       "title": "Pourquoi Stellantis traverse une période difficile",
       "summary": "Que se passe-t-il chez Stellantis ? Le groupe automobile, qui produit notamment des Peugeot et des Citroën, va mettre plusieurs de ses usines à l'arrêt pendant trois jours. Sochaux, Rennes et Mulhouse sont concernés. Les voitures produites en France subissent de plein fouet la concurrence chinoise très agressive. Les sites européens du groupe ne tournent…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.tf1info.fr/economie/videos/video-pourquoi-stellantis-traverse-une-periode-difficile-12022-2478426.html",
       "published_at": "2026-11-26T20:00:19+00:00",
       "category": "Société",
@@ -2130,7 +2405,7 @@
       "title": "Grippe : pourquoi davantage de maladies cette année ?",
       "summary": "Avec le retour du froid, c'est aussi celui de la grippe. Plus de la moitié des régions sont déjà en phase de pré-épidémie. Chez les généralistes et à l'hôpital, les consultations sont reparties à la hausse. À l'approche des fêtes, il est encore temps de se faire vacciner. En cette année 2026, le vaccin semble être particulièrement efficace. Pourtant, en…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.tf1info.fr/sante/videos/video-grippe-pourquoi-davantage-de-maladies-cette-annee-51769-2478423.html",
       "published_at": "2026-11-26T20:00:18+00:00",
       "category": "Société",
@@ -2146,7 +2421,7 @@
       "title": "Frayeur dans un refuge du Lot-et-Garonne : un cochon vietnamien malvoyant, porté disparu pendant 24 heures",
       "summary": "Dans la nuit du 24 au 25 novembre 2026, Lulu, cochon vietnamien femelle malvoyante, a disparu de son refuge du Lot-et-Garonne. Des sangliers auraient réussi à forcer son enclos. Après vingt-quatre heures de disparition, elle est revenue auprès de sa propriétaire, choquée.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.tf1info.fr/societe/frayeur-dans-un-refuge-du-lot-et-garonne-un-cochon-vietnamien-malvoyant-porte-disparu-pendant-24-heures-2478335.html",
       "published_at": "2026-11-26T20:00:10+00:00",
       "category": "Société",
@@ -2194,7 +2469,7 @@
       "title": "Miss France 2027 - \"L'idée de partir à la découverte de l'espace me fascine\" : l'interview décalée de Shana Mendes, Miss Nord-Pas-de-Calais",
       "summary": "Shana Mendes, Miss Nord-Pas-de-Calais, est candidate à l'élection de Miss France 2027 qui aura lieu le 12 décembre à l'Arena Futuroscope. Pour TF1info, elle s'est prêtée à un portrait chinois remanié.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.tf1info.fr/culture/miss-france-2027-l-interview-decalee-de-shana-mendes-miss-nord-pas-de-calais-l-idee-de-partir-a-la-decouverte-de-l-espace-me-fascine-2474359.html",
       "published_at": "2026-11-26T20:00:00+00:00",
       "category": "Politique",
@@ -2210,7 +2485,7 @@
       "title": "Météo du 26 novembre 2026 : Prévisions météo à 20h57",
       "summary": "Météo du jeudi 26 novembre 2026 à 20h57 sur TF1 présentée par Tatiana Silva ou Evelyne Dheliat. Consultez sans plus attendre les prévisions météorologiques du jeudi 26 novembre 2026 à 20h57 et découvrez les températures du jour, du lendemain et des prochains jours en France métropolitaine et en Corse.",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-meteo-du-26-novembre-2026-previsions-meteo-a-20h57-2478427.html",
       "published_at": "2026-11-26T19:59:38+00:00",
       "category": "Société",
@@ -2242,7 +2517,7 @@
       "title": "Espagne : L'extrême-droite aux portes du pouvoir ?",
       "summary": "Les Espagnols se rendent aux urnes dimanche pour des élections législatives anticipées. Porté par une dynamique favorable, Vox, le parti d’extrême droite a le vent en poupe et pourrait jouer les faiseurs de roi en rejoignant une coalition de droite avec le parti conservateur. Une telle alliance marquerait le retour de l’extrême droite au pouvoir dans le…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261126-espagne-l-extr%C3%AAme-droite-aux-portes-du-pouvoir",
       "published_at": "2026-11-26T19:56:29+00:00",
       "category": "Politique",
@@ -2258,7 +2533,7 @@
       "title": "Coup de chaud sur la facture d'électricité",
       "summary": "Ce jeudi marque le premier jour rouge pour les 900 000 foyers ayant souscrit une offre Tempo chez EDF. Le principe est simple : en échange d'une électricité moins chère la majeure partie de l'année, vous acceptez de la payer beaucoup plus cher pendant 22 jours. Si vous êtes concerné, soyez vigilant : entre 6 h et 22 h, le prix de l'électricité augmente…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 22,
+      "feed_rank": 23,
       "url": "https://www.tf1info.fr/conso/videos/video-coup-de-chaud-sur-la-facture-d-electricite-91893-2478421.html",
       "published_at": "2026-11-26T19:55:11+00:00",
       "category": "Médias & communication",
@@ -2355,7 +2630,7 @@
       "title": "LCI Direct du jeudi 26 novembre 2026",
       "summary": "Au sommaire : Lecornu-Lisnard-Larcher, débat à suivre sur LCI. \"L'Ukraine n'est pas notre guerre\" (Teddy Riner).",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.tf1info.fr/replay-lci/videos/video-lci-direct-du-jeudi-26-novembre-2026-2478413.html",
       "published_at": "2026-11-26T19:43:02+00:00",
       "category": "International",
@@ -2419,27 +2694,11 @@
       "title": "Le JT de 20 heures de TF1 du jeudi 26 novembre 2026",
       "summary": "« JT 20h Semaine » du jeudi 26 novembre 2026 à 19h57. Grand rendez-vous de l'actualité, le « LE 20H » est le journal diffusé chaque jour en direct à 19h58 sur TF1. Présenté par Gilles Bouleau, Jean-Baptiste Boursier, Anne-Claire Coudray ou encore Audrey Crespo-Mara, le JT de 20h met en lumière de nombreux reportages, documentaires et duplex informant les…",
       "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.tf1info.fr/replay-tf1/videos/video-le-jt-de-20-heures-de-tf1-du-jeudi-26-novembre-2026-2478424.html",
       "published_at": "2026-11-26T19:40:44+00:00",
       "category": "Économie",
       "communication_angle": "Cette évolution peut modifier les comportements d'achat ou les décisions des organisations. Elle invite à réévaluer les messages sur le prix, la valeur et les conséquences concrètes pour les publics concernés. Pour travailler ce cas, partez du sujet précis — « Le JT de 20 heures de TF1 du jeudi 26 novembre 2026 » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "TF1 Info (TF1 / LCI)"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5276f003cd30",
-      "title": "Risque de marée noire : comment la France protège nos côtes",
-      "summary": "Le naufrage en Méditerranée survient quelques jours seulement après celui d'un autre navire, lui aussi battant pavillon maltais, sur une plage des Landes. Comment nos 5 500 kilomètres de côte sont-ils surveillés ? Quelles sont les procédures pour repérer les bateaux en détresse et réduire les risques de marée noire ? Une équipe de TF1 a…",
-      "source": "TF1 Info (TF1 / LCI)",
-      "feed_rank": 25,
-      "url": "https://www.tf1info.fr/environnement-ecologie/videos/video-risque-de-maree-noire-comment-la-france-protege-nos-cotes-64050-2478417.html",
-      "published_at": "2026-11-26T19:40:15+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Risque de marée noire : comment la France protège nos côtes » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "TF1 Info (TF1 / LCI)"
       ],
@@ -2499,7 +2758,7 @@
       "title": "Policière tuée à la machette : l’ex-époux condamné à la perpétuité",
       "summary": "<p>L’ex-époux d’une policière a été condamné à la réclusion criminelle à perpétuité, assortie d’une peine de sûreté de dix-huit ans, par la cour d’assises de <a href=\"https://www.20minutes.fr/societe/savoie/\">Savoie</a>. Il l’avait tuée à coups de machette, en pleine rue, devant son fils de 3 ans en 2023.</p><p>La peine infligée à Georges Damiano est…",
       "source": "20 Minutes",
-      "feed_rank": 14,
+      "feed_rank": 21,
       "url": "https://www.20minutes.fr/justice/4266141-20261126-policiere-tuee-machette-ex-epoux-condamne-perpetuite?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T19:36:52+00:00",
       "category": "Société",
@@ -2644,22 +2903,6 @@
       "mention_count": 1
     },
     {
-      "id": "056f3df72972",
-      "title": "EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Kouban",
-      "summary": "« De graves incendies se sont déclarés dans les installations endommagées. De plus, les dommages causés aux réservoirs de stockage du pétrole ont entraîné des déversements », selon l’exploitant Slaviansk ECO.",
-      "source": "Le Monde",
-      "feed_rank": 4,
-      "url": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-les-services-de-renseignement-militaires-ukrainiens-ont-revendique-l-attaque-de-la-raffinerie-russe-de-slaviansk-sur-kouban_6814183_3210.html",
-      "published_at": "2026-11-26T19:25:06+00:00",
-      "category": "Environnement",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « EN DIRECT, guerre en Ukraine : les services de renseignement militaires ukrainiens ont revendiqué l’attaque de la raffinerie russe de Slaviansk-sur-Ko ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "5a42ad72ac61",
       "title": "Nouvelles révélations sur Jordan Bardella : la fable de la banalisation du RN",
       "summary": "Les informations publiées, ce jeudi, sur les propos de jeunesse de l’actuel président du parti d’extrême droite, prouvent qu’avoir renommé le Front national en Rassemblement ne suffit pas à effacer le passé.",
@@ -2728,7 +2971,7 @@
       "title": "Navires russes ciblés en Libye : l'Algérie \"n'accepte pas\" que la guerre \"s'étende\" au Maghreb",
       "summary": "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a déclaré jeudi qu'Alger \"n'acceptait pas que la guerre entre la Russie et l'Ukraine s'étende\" au Maghreb après les attaques revendiquées lundi par Kiev contre deux navires russes menées la veille au large de la Libye.",
       "source": "France 24",
-      "feed_rank": 4,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/afrique/20261126-navires-russes-cibl%C3%A9s-libye-alg%C3%A9rie-n-accepte-pas-guerre-s-%C3%A9tende-maghreb",
       "published_at": "2026-11-26T19:18:32+00:00",
       "category": "Politique",
@@ -2760,7 +3003,7 @@
       "title": "A Paris, des lycéens et étudiants toujours mobilisés qui récusent tout « retour à la normale »",
       "summary": "Quelques milliers de jeunes ont manifesté dans la capitale, jeudi 26 novembre, entre volonté de ne rien lâcher sur les revendications et doutes sur les conséquences de la mobilisation sur leur année scolaire et universitaire.",
       "source": "Le Monde",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.lemonde.fr/campus/article/2026/11/26/a-paris-des-lyceens-et-etudiants-toujours-mobilises-qui-recusent-tout-retour-a-la-normale_6815594_4401467.html",
       "published_at": "2026-11-26T19:09:13+00:00",
       "category": "Société",
@@ -2776,7 +3019,7 @@
       "title": "Amélie Nothomb",
       "summary": "Réglée comme un métronome, elle ajoute chaque année une pierre à l'édifice d'une oeuvre singulière, construite par ses livres autant que son allure, ses fétiches, ses géniales bizzareries. Cette année, c'est “L’Adolescence du perroquet” qu'Amélie Nothomb nous offre chez Albin Michel.",
       "source": "France Inter",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/rien-ne-s-oppose-a-la-nuit/rien-ne-s-oppose-a-la-nuit-du-jeudi-26-novembre-2026-4485290",
       "published_at": "2026-11-26T19:09:11+00:00",
       "category": "Culture",
@@ -2842,7 +3085,7 @@
       "title": "L'orpaillage illégal atteint des niveaux record en Guyane française",
       "summary": "Jamais il n'y avait eu autant de site d'orpaillage illégal en Guyane. 239 ont été recensés lors du dernier survol du département en août. La faute aux cours de l'or. Le prix du gramme a été multiplié par 3 en quelques années. Les dégâts sur l'environnement et la santé des Guyanais sont considérables et les autorités ne parviennent pas à endiguer le…",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261126-l-orpaillage-ill%C3%A9gal-atteint-des-niveaux-record-en-guyane-fran%C3%A7aise",
       "published_at": "2026-11-26T19:07:19+00:00",
       "category": "Économie",
@@ -2874,7 +3117,7 @@
       "title": "Est-ce que c'est bien votre vie ?",
       "summary": "Marius, 8 ans, voudrait savoir \"si c'est bien votre vie\". Si la question s'adresse à Camille Crosnier, elle répond que \"oui, sa vie est bien\". Mais pour avoir un éclairage philosophique, elle a fait appel à Marianne Chaillan.",
       "source": "France Inter",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/les-p-tits-bateaux/les-p-tits-bateaux-du-jeudi-26-novembre-2026-1251634",
       "published_at": "2026-11-26T19:05:40+00:00",
       "category": "Société",
@@ -2954,7 +3197,7 @@
       "title": "Bukele assoit sa popularité en Haïti",
       "summary": "En Haïti, le gouvernement fait appel au Salvador pour lutter contre les gangs. Plus de 2 000 soldats salvadoriens ont été déployés à Port-au-Prince, mais cet accord suscite des inquiétudes sur le respect des droits humains. Cette coopération peut-elle rétablir la sécurité sans aggraver les violences ? Roméo Langlois, grand reporter à France 24, et…",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti",
       "published_at": "2026-11-26T19:02:23+00:00",
       "category": "Politique",
@@ -2970,7 +3213,7 @@
       "title": "Navires russes ciblés en Libye : que sait-on des drones navals utilisés par l'armée ukrainienne ?",
       "summary": "Lundi, le président ukrainien Volodymyr Zelensky a revendiqué l'attaque de deux navires russes le long des côtes libyennes avec des drones navals. Ces modèles de drones ont été utilisés à plusieurs reprises ces derniers mois par l'armée ukrainienne.",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne",
       "published_at": "2026-11-26T19:01:04+00:00",
       "category": "Politique",
@@ -3130,7 +3373,7 @@
       "title": "Le procès d'une Germano-Ukrainienne, accusée d'espionner pour la Russie, s'ouvre à Berlin",
       "summary": "Espionnage, actes de sabotage, cyberattaques ou encore campagnes de désinformation : l'Allemagne, premier soutien de l'Ukraine, est régulièrement visée par des opérations menées par la Russie. Le procès qui s'est ouvert jeudi 26 novembre contre Ilona Wiener, une femme d'affaires accusée d'avoir espionné pour Moscou, illustre la recrudescence de ces…",
       "source": "RFI",
-      "feed_rank": 5,
+      "feed_rank": 11,
       "url": "https://www.rfi.fr/fr/europe/20261126-le-proc%C3%A8s-d-une-germano-ukrainienne-accus%C3%A9e-d-espionner-pour-la-russie-s-ouvre-%C3%A0-berlin",
       "published_at": "2026-11-26T18:49:30+00:00",
       "category": "Médias & communication",
@@ -3162,7 +3405,7 @@
       "title": "Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable",
       "summary": "Alors que les députés et les sénateurs, réunis en commission mixte paritaire, n’ont pas réussi à s’entendre, jeudi, sur une version commune du texte, le premier ministre, Sébastien Lecornu, a déclaré que le « travail » se poursuivait pour essayer de rapprocher les positions.",
       "source": "Le Monde",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html",
       "published_at": "2026-11-26T18:49:08+00:00",
       "category": "Politique",
@@ -3290,7 +3533,7 @@
       "title": "Programmation XXL pour la 20e édition du Hellfest, avec Evanescence, Mötley Crüe et Gojira",
       "summary": "<p>Les amplis chauffent déjà pour juin. Pour fêter ses 20 ans, le <a href=\"https://www.20minutes.fr/dossier/hellfest\">Hellfest</a> a dévoilé, jeudi, une affiche XXL de plus de 300 groupes, répartis sur dix scènes à Clisson (<a href=\"https://www.20minutes.fr/societe/loire-atlantique/\">Loire-Atlantique</a>), du 17 au 20 juin 2027. Blink-182, Mötley Crüe,…",
       "source": "20 Minutes",
-      "feed_rank": 15,
+      "feed_rank": 22,
       "url": "https://www.20minutes.fr/arts-stars/culture/musique/4266117-20261126-programmation-xxl-20e-edition-hellfest-evanescence-motley-crue-gojira?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T18:42:39+00:00",
       "category": "Société",
@@ -3418,7 +3661,7 @@
       "title": "David Lisnard et sa position face au RN, propos de Teddy Riner sur l'Ukraine",
       "summary": "La présidentielle est dans cinq mois et un candidat monte dans les sondages : le maire de Cannes, David Lisnard. Est-il ambigu vis-à-vis de l'extrême droite comme l'accusent ses opposants ? Autre sujet : l'actualité à gauche avec François Hollande qui avance ses pions et la polémique créée par Teddy Riner et ses propos sur l'Ukraine. Il est aussi…",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261126-david-lisnard-et-sa-position-face-au-rn-propos-de-teddy-riner-sur-l-ukraine",
       "published_at": "2026-11-26T18:36:31+00:00",
       "category": "Politique",
@@ -3530,7 +3773,7 @@
       "title": "Bardella, Lavalette… la dédiabolisation du RN à l’épreuve des affaires d’antisémitisme",
       "summary": "De nouvelles accusations sur les écrits antisémites de jeunesse de Jordan Bardella ont été publiées jeudi, quelques jours seulement après d’autres révélations concernant Laure Lavalette, porte-parole de Marine Le Pen. Même si ces accusations n’ont jusqu’ici pas eu d’impact sur les intentions de vote, elles replongent le Rassemblement national dans l’œil…",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/france/20261126-france-jordan-bardella-laure-lavalette-dediabolisation-rassemblement-national-epreuve-affaires-antisemitisme",
       "published_at": "2026-11-26T18:29:20+00:00",
       "category": "Politique",
@@ -3803,7 +4046,7 @@
       "title": "Débroussaillement : l’été se prépare dès aujourd’hui !",
       "summary": "Alors que 100 000 hectares de végétation ont brûlé cet été en France, la nouvelle campagne gouvernementale de sensibilisation aux obligations légales de débroussaillement (OLD) vient d'être lancée par le gouvernement. Pourquoi commencer maintenant ? Qui doit débroussailler ? Comment s'y prendre ?",
       "source": "France Inter",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-jeudi-26-novembre-2026-8910537",
       "published_at": "2026-11-26T18:19:00+00:00",
       "category": "Politique",
@@ -4027,7 +4270,7 @@
       "title": "PFAS : des polluants éternels retrouvés dans sept laits infantiles sur 25 testés en France",
       "summary": "Des résidus de polluants éternels ont été identifiés dans plusieurs laits infantiles commercialisés en France. L'association Génération Futur appelle à un renforcement des contrôles et des réglementations.",
       "source": "France Inter",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/pfas-9669648",
       "published_at": "2026-11-26T18:10:00+00:00",
       "category": "Société",
@@ -4139,7 +4382,7 @@
       "title": "OL - Lillestrøm : Incroyable, Openda se fait voler un penalty sur le gong et Lyon concède un nul lunaire… Revivez ce live norvégien « WTF » avec nous",
       "summary": "<p><strong>À VOIR</strong></p><figure><iframe title=\"Notre classement des humiliations françaises en Coupe d’Europe\" width=\"100%\" height=\"100%\" src=\"https://www.ultimedia.com/deliver/generic/iframe/mdtk/01357940/zone/1/src/3p385q5/showtitle/1/\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" hspace=\"0\" vspace=\"0\"…",
       "source": "20 Minutes",
-      "feed_rank": 6,
+      "feed_rank": 12,
       "url": "https://www.20minutes.fr/sport/football/ligue_europa/4265490-20261126-direct-ol-lillestr-lyon-pense-sauter-inconnu-agit-losc-norvegien-face-embarquez-live-wtf?at_medium=display&at_campaign=149",
       "published_at": "2026-11-26T18:02:36+00:00",
       "category": "Société",
@@ -4148,7 +4391,7 @@
         "20 Minutes"
       ],
       "coverage_count": 1,
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "e3382b69cc62",
@@ -4256,22 +4499,6 @@
       "published_at": "2026-11-26T18:00:14+00:00",
       "category": "Médias & communication",
       "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « RTL : les journalistes dénoncent le management de la direction de la rédaction sur fond d’inquiétudes sur la baisse des moyens alloués ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "03fe017447bc",
-      "title": "En Turquie, le maréchal Haftar concrétise son rapprochement avec Recep Tayyip Erdogan",
-      "summary": "La visite officielle de l’« homme fort » de la Cyrénaïque à Ankara, mercredi 25 novembre, constitue une étape décisive du rapprochement entre les autorités turques et l’Est libyen. La Turquie dispose déjà d’une présence militaire importante dans l’ouest du pays.",
-      "source": "Le Monde",
-      "feed_rank": 12,
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/26/en-turquie-le-marechal-haftar-concretise-son-rapprochement-avec-recep-tayyip-erdogan_6815587_3212.html",
-      "published_at": "2026-11-26T18:00:01+00:00",
-      "category": "Société",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « En Turquie, le maréchal Haftar concrétise son rapprochement avec Recep Tayyip Erdogan ».",
       "coverage_sources": [
         "Le Monde"
       ],
@@ -4427,7 +4654,7 @@
       "title": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ?",
       "summary": "Après la spectaculaire attaque de l'Ukraine dimanche contre deux navires russes en Libye, les autorités de l'est du pays ont dénoncé une violation de la souveraineté libyenne et promis une réponse à cette offensive qui a causé la mort de deux de leurs soldats. L'Ukraine était-elle dans son bon droit en orchestrant une telle attaque aussi loin de la ligne…",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
       "published_at": "2026-11-26T17:56:11+00:00",
       "category": "International",
@@ -4573,7 +4800,7 @@
       "title": "Au Soudan du Sud, \"Avant, on ne pêchait pas tous les jours\"",
       "summary": "Le changement climatique est tout aussi dévastateur que la guerre qui n’en finit pas. A chaque saison des pluies, les eaux montent et ne redescendent plus. A Paguer, dans l’état de Jonglei, les pâturages disparaissent. Un reportage réalisé avec le soutien du Pulitzer Center.",
       "source": "France Inter",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-jeudi-26-novembre-2026-9848013",
       "published_at": "2026-11-26T17:41:26+00:00",
       "category": "International",
@@ -4605,7 +4832,7 @@
       "title": "De l’Ukraine à la Corée au Nord : le camp Songdowon mêlé au scandale des enfants déportés",
       "summary": "La Corée du Nord a expulsé l’attaché diplomatique suisse à Pyongyang en réponse à la décision de Berne de sanctionner un camp pour enfants accusé d’aider la Russie dans son programme de déportation et de rééducation forcée d’enfants ukrainiens. L’UE et le Royaume-Uni ont également pris des sanctions contre ce centre géré par le régime nord-coréen, l'un…",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 15,
       "url": "https://www.france24.com/fr/asie-pacifique/20261126-de-l-ukraine-a-la-coree-au-nord-le-camp-songdowon-m%C3%AAl%C3%A9-au-scandale-des-enfants-deportes",
       "published_at": "2026-11-26T17:38:11+00:00",
       "category": "International",
@@ -4941,7 +5168,7 @@
       "title": "Corentin Sellin \" Beaucoup de Démocrates rêvent de trouver un nouvel Obama\"",
       "summary": "Cap sur la présidentielle américaine de 2028 : réunis les 12 et 13 novembre dernier à Denver, une quinzaine de candidats démocrates potentiels lancent déjà la course. Porté par une base en quête de renouvellement, le parti a annoncé douze débats dès juin 2027 pour désigner son futur champion.",
       "source": "France Inter",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-d-un-jour-dans-le-monde/l-invite-d-un-jour-dans-le-monde-du-jeudi-26-novembre-2026-9423043",
       "published_at": "2026-11-26T17:23:05+00:00",
       "category": "Société",
@@ -5007,7 +5234,7 @@
       "title": "Israël: Gadi Eisenkot et le parti de gauche nouent un accord de coalition",
       "summary": "Le parti Yashar de Gadi Eisenkot, chargé de former un nouveau gouvernement en Israël, a conclu jeudi 26 novembre un accord de coalition avec son partenaire de gauche, les Démocrates, faisant un pas de plus vers la formation d'un cabinet.",
       "source": "RFI",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.rfi.fr/fr/moyen-orient/20261126-isra%C3%ABl-gadi-eisenkot-et-le-parti-de-gauche-nouent-un-accord-de-coalition",
       "published_at": "2026-11-26T17:21:38+00:00",
       "category": "Politique",
@@ -5131,230 +5358,6 @@
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Loto : \"On dirait que sa chance l'a abandonné...\" Il pose tout sourire avec son chèque d'un million de dollars, la police de l'immigration l'arrête et ».",
       "coverage_sources": [
         "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "d6fe49aa4105",
-      "title": "Thanksgiving sous la tempête : 70 millions d’Américains en alerte, l’État de New York en état d’urgence",
-      "summary": "Vents violents, fortes pluies, risque de tornade… La côte est des États-Unis se prépare à des perturbations majeures.",
-      "source": "Paris Match",
-      "feed_rank": 11,
-      "url": "https://www.parismatch.com/thanksgiving-sous-tempete-70-millions-damericains-en-alerte-letat-new-york-en-etat-durgence-4ruGCJbKzsDdKTHSW9ipZT",
-      "published_at": "2026-11-26T17:15:55+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Thanksgiving sous la tempête : 70 millions d’Américains en alerte, l’État de New York en état d’urgence ».",
-      "coverage_sources": [
-        "Paris Match"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "cc0f5c36e13a",
-      "title": "«Un projet ambitieux» : plusieurs députés LR annoncent rallier David Lisnard",
-      "summary": "Huit députés du groupe Les Républicains publient une tribune dans « Paris Match » pour annoncer leur soutien au maire de Cannes en vue de l’élection présidentielle. Ils estiment qu'il s'agit du candidat le mieux placé pour rassembler la droite en 2027.",
-      "source": "Le JDD",
-      "feed_rank": 1,
-      "url": "https://www.lejdd.fr/politique/un-projet-ambitieux-plusieurs-deputes-lr-annoncent-rallier-david-lisnard-189780",
-      "published_at": "2026-11-26T17:15:39+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « «Un projet ambitieux» : plusieurs députés LR annoncent rallier David Lisnard ».",
-      "coverage_sources": [
-        "Le JDD"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "554136192bcd",
-      "title": "En Haïti, “les gangs ont peur” face aux troupes salvadoriennes",
-      "summary": "Déployées en Haïti fin octobre à l’initiative de Nayib Bukele, les troupes salvadoriennes sont accueillies favorablement à Port-au-Prince. Les habitants interrogés par notre rédaction y voient un nouvel espoir face aux violences des gangs qui ravagent le pays depuis plusieurs années. Ils estiment que les gangs sont en difficulté, comme en témoigne la…",
-      "source": "France 24",
-      "feed_rank": 12,
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261126-en-ha%C3%AFti-les-gangs-ont-peur-face-aux-troupes-salvadoriennes",
-      "published_at": "2026-11-26T17:15:29+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité touche à la fabrication et à la circulation de l'information. Les communicants doivent connaître le rôle des rédactions, vérifier l'origine des chiffres et images, et distinguer relation presse, communication institutionnelle et travail journalistique indépendant. Sujet suivi : « En Haïti, “les gangs ont peur” face aux troupes salvadoriennes ».",
-      "coverage_sources": [
-        "France 24"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "2bebe76ae2a7",
-      "title": "Le Royaume-Uni a écrit à environ 100.000 réservistes en vue d’un éventuel rappel en cas de conflit armé, une première depuis la Guerre Froide",
-      "summary": "Le ministère britannique de la Défense a adressé un courrier à près de 100.000 anciens militaires susceptibles d’être rappelés en cas de guerre, selon le Jerusalem Post. Le ministre de la Défense, Wes Streeting, a confirmé l’envoi des lettres jeudi 26 novembre sur Sky News. Pour la première fois depuis la guerre froide, selon les informations du…",
-      "source": "CNews",
-      "feed_rank": 12,
-      "url": "https://www.cnews.fr/monde/2026-11-26/le-royaume-uni-ecrit-environ-100000-reservistes-en-vue-dun-eventuel-rappel-en-cas",
-      "published_at": "2026-11-26T17:13:33+00:00",
-      "category": "Politique",
-      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Le Royaume-Uni a écrit à environ 100.000 réservistes en vue d’un éventuel rappel en cas de conflit armé, une première depuis la Guerre Froide ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "53cb0f77d68d",
-      "title": "“Blue Velvet”, de David Lynch : un cauchemar langoureux aux faux airs de thriller",
-      "summary": "Polar vénéneux bercé par la musique hypnotique de Badalamenti et illuminé par une fleur carnivore (Isabella Rossellini).",
-      "source": "Télérama",
-      "feed_rank": 1,
-      "url": "https://www.telerama.fr/cinema/blue-velvet-de-david-lynch-un-cauchemar-langoureux-aux-faux-airs-de-thriller-1226_cri-7046981.php",
-      "published_at": "2026-11-26T17:12:26+00:00",
-      "category": "Culture",
-      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « “Blue Velvet”, de David Lynch : un cauchemar langoureux aux faux airs de thriller ».",
-      "coverage_sources": [
-        "Télérama"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "f2ef9910ff1c",
-      "title": "860 tentatives pour se garer : en pleine nuit une voiture électrique autonome manœuvre inlassablement",
-      "summary": "En Chine, dans la province de l’Anhui, une voiture électrique a tenté de se garer seule dans un parking, réalisant 860 manœuvres sans conducteur dans la nuit. Le ballet nocturne a été capté par une caméra de...",
-      "source": "Midi Libre",
-      "feed_rank": 21,
-      "url": "https://www.midilibre.fr/2026/11/26/860-tentatives-pour-se-garer-en-pleine-nuit-une-voiture-electrique-autonome-manoeuvre-inlassablement-13672331.php",
-      "published_at": "2026-11-26T17:11:41+00:00",
-      "category": "International",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « 860 tentatives pour se garer : en pleine nuit une voiture électrique autonome manœuvre inlassablement ».",
-      "coverage_sources": [
-        "Midi Libre"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "864c909df140",
-      "title": "« Vive le shah d'Iran », « vive Israël », « traîtres », « fils de pute » : comment une soirée d’hommage aux femmes iraniennes a viré au pugilat",
-      "summary": "Ce mercredi 25 novembre, plusieurs dizaines de militants iraniens monarchistes ont perturbé la soirée « Voix iraniennes », organisée à l’Institut du Monde arabe à l’initiative du Quai-d’Orsay, en présence du ministre Jean-Noël Barrot, semant la zizanie et provoquant l’exfiltration de plusieurs intervenants. « Le Nouvel Obs » y était.",
-      "source": "L'Obs",
-      "feed_rank": 5,
-      "url": "https://www.nouvelobs.com/monde/20261126.OBS120465/vive-le-shah-d-iran-vive-israel-traitres-fils-de-pute-comment-une-soiree-d-hommage-aux-femmes-iraniennes-a-vire-au-pugilat.html",
-      "published_at": "2026-11-26T17:11:13+00:00",
-      "category": "Politique",
-      "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « « Vive le shah d'Iran », « vive Israël », « traîtres », « fils de pute » : comment une soirée d’hommage aux femmes iraniennes a viré au pugilat ».",
-      "coverage_sources": [
-        "L'Obs"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "553e67644af1",
-      "title": "Présidentielle : « J’ai mon plan qui est prévu depuis le départ, de façon minutieuse », défend David Lisnard",
-      "summary": "Que retenir du 108 e congrès de l’Association des maires de France (AMF), qui s’est conclu ce 26 novembre par une table ronde réunissant le Premier ministre, le président du Sénat et le maire de Cannes Nouvelle Énergie, réélu à plus de 72 % des voix à la tête de l’association ? David Lisnard relève que le message porté par l’AMF depuis plusieurs années a…",
-      "source": "Public Sénat",
-      "feed_rank": 4,
-      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-jai-mon-plan-qui-est-prevu-depuis-le-depart-de-facon-minutieuse-defend-david-lisnard",
-      "published_at": "2026-11-26T17:09:24+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle : « J’ai mon plan qui est prévu depuis le départ, de façon minutieuse », défend David Lisnard ».",
-      "coverage_sources": [
-        "Public Sénat"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "59c9be9a152d",
-      "title": "Accord de sécurité avec l’Australie : les îles Salomon au cœur de la bataille géopolitique du Pacifique",
-      "summary": "Après avoir conclu un premier traité de sécurité avec Pékin en 2022, qui en avait fait un de ses bastions dans la région, l’archipel a renversé la table pour renouer avec Canberra.",
-      "source": "Libération",
-      "feed_rank": 23,
-      "url": "https://www.liberation.fr/international/asie-pacifique/accord-de-securite-avec-laustralie-les-iles-salomon-au-coeur-de-la-bataille-geopolitique-du-pacifique-20261126_7PFPZ4WBLVENDLJEQUBZCRPBHM/",
-      "published_at": "2026-11-26T17:08:51+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Accord de sécurité avec l’Australie : les îles Salomon au cœur de la bataille géopolitique du Pacifique » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Libération"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "725a6c2eb432",
-      "title": "Football : un ancien joueur de l’OM victime d’un accident de la route en Espagne",
-      "summary": "L’attaquant Pierre-Emerick Aubameyang, ancien joueur de l’OM aujourd’hui à La Corogne, est entré en collision avec un autre véhicule en se rendant à l’entraînement de son club espagnol ce jeudi. Plus de peur que de mal. Pierre-Emerick Aubameyang a eu un accident de la route en se rendant ce jeudi matin au centre d’entraînement de La Corogne, situé dans…",
-      "source": "CNews",
-      "feed_rank": 13,
-      "url": "https://www.cnews.fr/sport/2026-11-26/football-un-ancien-joueur-de-lom-victime-dun-accident-de-la-route-en-espagne",
-      "published_at": "2026-11-26T17:07:23+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Football : un ancien joueur de l’OM victime d’un accident de la route en Espagne ».",
-      "coverage_sources": [
-        "CNews"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "dd6c31b063b0",
-      "title": "En Russie, la chaîne Russia Today ressuscite l'écrivain Fiodor Dostoïevski grâce à l'IA pour diffuser la propagande du Kremlin et défendre Vladimir Poutine",
-      "summary": "Mort depuis 1881, Fiodor Dostoïevski fait pourtant son retour à l'écran sur Russia Today, chaîne interdite de diffusion en France et dans l'Union européenne. Grâce à l'intelligence artificielle, l'écrivain russe est...",
-      "source": "La Dépêche du Midi",
-      "feed_rank": 16,
-      "url": "https://www.ladepeche.fr/2026/11/26/en-russie-la-chaine-russia-today-ressuscite-lecrivain-fiodor-dostoievski-grace-a-lia-pour-diffuser-la-propagande-du-kremlin-et-defendre-vladimir-13673022.php",
-      "published_at": "2026-11-26T17:07:14+00:00",
-      "category": "Sciences & tech",
-      "communication_angle": "Cette actualité liée à l'IA pose une question très concrète aux communicants : comment gagner en rapidité sans sacrifier l'exactitude, la transparence ni le ton de marque ? Elle invite à définir ce qui peut être automatisé et ce qui doit rester validé par un humain. Sujet suivi : « En Russie, la chaîne Russia Today ressuscite l'écrivain Fiodor Dostoïevski grâce à l'IA pour diffuser la propagande du Kremlin et défendre Vladimir Po ».",
-      "coverage_sources": [
-        "La Dépêche du Midi"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "5a94472a5903",
-      "title": "« Des cercueils flottants » : Comment fonctionnent les « narcos sous-marins » interceptés par la marine nationale ?",
-      "summary": "<p>Coup double en cinq jours dans l’Atlantique. Mercredi, le <a href=\"https://www.20minutes.fr/justice/4192934-20260105-meurtres-trafic-drogue-blanchiment-defis-pnaco-nouveau-parquet-contre-criminalite-organisee\">Parquet national anticriminalité organisé</a> (PNACO) a annoncé l’interception, le 17 novembre, d’un semi-submersible de 22 mètres sans…",
-      "source": "20 Minutes",
-      "feed_rank": 3,
-      "url": "https://www.20minutes.fr/faits_divers/4266061-20261126-cercueils-flottants-comment-fonctionnent-narcos-sous-marins-interceptes-marine-nationale?at_medium=display&at_campaign=149",
-      "published_at": "2026-11-26T17:07:05+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « « Des cercueils flottants » : Comment fonctionnent les « narcos sous-marins » interceptés par la marine nationale ? » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "20 Minutes"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "eb3894adce81",
-      "title": "Budget 2027 : « Il n’est pas question de prélever plus de 2,5 milliards d’euros sur les collectivités », prévient Gérard Larcher",
-      "summary": "Après une table ronde, avec le premier ministre, Sébastien Lecornu, et le président de l’Association des maires de France, David Lisnard , Gérard Larcher s’est rendu sur le plateau de Public Sénat, ce jeudi, pour la clôture du 108 e congrès de l’AMF. Face à un « pays divisé, fracturé » et « extrêmement tendu », Gérard Larcher appelle à être « attentif »…",
-      "source": "Public Sénat",
-      "feed_rank": 5,
-      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-il-nest-pas-question-de-prelever-plus-de-25-milliards-deuros-sur-les-collectivites-previent-gerard-larcher",
-      "published_at": "2026-11-26T17:07:05+00:00",
-      "category": "Politique",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Budget 2027 : « Il n’est pas question de prélever plus de 2,5 milliards d’euros sur les collectivités », prévient Gérard Larcher ».",
-      "coverage_sources": [
-        "Public Sénat"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "9b0384609754",
-      "title": "« Mes parents sont présents dans nos conversations » : Louane, maman orpheline, se confie sur sa fille Esmée, 6 ans",
-      "summary": "Parmi les multiples facettes qui composent son quotidien, son rôle de maman demeure sa préférée. Jeudi, la chanteuse Louane Emera s'est confiée sur le fait d'être devenue mère, et sur ce qu'elle faisait différemment de l'éducation qu'elle avait reçue.",
-      "source": "Paris Match",
-      "feed_rank": 12,
-      "url": "https://www.parismatch.com/mes-parents-sont-presents-dans-nos-conversations-louane-maman-orpheline-se-confie-sur-sa-fille-esmee-6-ans-MTpazHWAn1nNRkmVj5RaH",
-      "published_at": "2026-11-26T17:06:59+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité met en jeu les attentes des jeunes, des familles et des équipes éducatives. Elle éclaire la communication des établissements : expliquer les décisions, s'adresser aux publics concernés avec le bon ton et ne pas réduire une expérience diverse à un seul récit. Sujet suivi : « « Mes parents sont présents dans nos conversations » : Louane, maman orpheline, se confie sur sa fille Esmée, 6 ans ».",
-      "coverage_sources": [
-        "Paris Match"
       ],
       "coverage_count": 1,
       "mention_count": 1
