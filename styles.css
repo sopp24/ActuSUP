@@ -189,3 +189,8 @@ body{padding-bottom:92px}
 @media(prefers-reduced-motion:reduce){
   .news-card,.read-link,.category-chip{transition:none!important}
 }
+
+
+/* ActuSUP — derniers ajustements iOS */
+.category-chip{min-height:44px}
+.refresh-button,.read-link,.top-stories-toggle{min-height:44px}
