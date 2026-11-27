@@ -194,3 +194,7 @@ body{padding-bottom:92px}
 /* ActuSUP — derniers ajustements iOS */
 .category-chip{min-height:44px}
 .refresh-button,.read-link,.top-stories-toggle{min-height:44px}
+
+
+/* ActuSUP — le tri natif iOS conserve une taille de texte confortable */
+@media(max-width:760px){.controls select{min-height:44px;font-size:16px}}
