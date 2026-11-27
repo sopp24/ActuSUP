@@ -146,3 +146,46 @@ main{max-width:1200px;margin:auto;padding:0 28px}.hero{min-height:370px;backgrou
 .category-tag[data-category="Environnement"],.top-story-category[data-category="Environnement"]{background:#e6f3df;border:1px solid #cde5c3;color:#37682d}
 
 body{padding-bottom:92px}
+
+/* ActuSUP — confort de lecture, filtres et navigation éditoriale */
+.site-header{position:sticky;top:0;z-index:50}
+.header-inner{width:min(100%,1360px);padding-inline:clamp(14px,3vw,34px)}
+.header-inner .brand{min-width:0}
+.header-meta{font-size:12px}
+.controls{gap:10px}
+.search-box input{min-height:46px;font-size:16px}
+.sort-label,.category-chip{font-size:12px}
+.category-chip{min-height:40px;padding:8px 13px}
+.refresh-button{min-height:44px;padding-inline:15px}
+.news-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,310px),1fr));align-items:stretch}
+.news-card{height:100%;display:flex;flex-direction:column}
+.news-card .card-footer{margin-top:auto}
+.news-title{font-size:clamp(18px,1.35vw,22px);line-height:1.2}
+.news-summary,.angle-copy{font-size:14px;line-height:1.65}
+.communication-angle{margin-top:auto}
+.source-name{font-size:11px}
+.read-link{display:inline-flex;min-height:42px;align-items:center;font-size:12px}
+.method-section{padding-inline:clamp(18px,3vw,38px)}
+@media(max-width:760px){
+  .header-inner{flex-wrap:wrap;gap:10px}
+  .header-meta{margin-left:auto}
+  .hero{grid-template-columns:minmax(0,1fr);gap:20px}
+  .hero-art{max-width:520px;width:100%;margin-inline:auto}
+  .controls{align-items:stretch}
+  .search-box{flex:1 1 100%;min-width:0}
+  .search-box input{width:100%;font-size:16px}
+  .category-list{display:flex;max-width:100%;overflow-x:auto;flex-wrap:nowrap;padding:3px 1px 9px;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+  .category-chip{flex:0 0 auto;white-space:nowrap}
+  .news-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+}
+@media(max-width:560px){
+  .news-grid{grid-template-columns:minmax(0,1fr)}
+  .news-card{min-height:0}
+  .news-card .card-footer{gap:12px;flex-wrap:wrap}
+  .read-link{min-height:44px}
+  .method-section{grid-template-columns:minmax(0,1fr);gap:16px}
+  .site-footer{padding-bottom:calc(22px + env(safe-area-inset-bottom))}
+}
+@media(prefers-reduced-motion:reduce){
+  .news-card,.read-link,.category-chip{transition:none!important}
+}
