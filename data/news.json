@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-28T01:55:29.159066+00:00",
-  "last_attempt": "2026-11-28T01:55:29.159066+00:00",
+  "last_updated": "2026-11-28T03:01:28.673682+00:00",
+  "last_attempt": "2026-11-28T03:01:28.673682+00:00",
   "timezone": "UTC; affichage en heure de Paris dans le navigateur",
   "article_count": 300,
   "raw_article_count": 905,
-  "unique_story_count": 823,
+  "unique_story_count": 824,
   "sources_configured": 46,
   "sources_with_errors": [
     "Actu.fr",
@@ -13,22 +13,22 @@
     "Le Point"
   ],
   "note": "Certains flux n’ont pas répondu lors de cette collecte : Actu.fr, Les Échos, La Voix du Nord, Le Point. La sélection peut donc être incomplète.",
-  "featured_window_start": "2026-10-29T01:55:29.159066+00:00",
-  "featured_window_end": "2026-11-28T01:55:29.159066+00:00",
+  "featured_window_start": "2026-10-29T03:01:28.673682+00:00",
+  "featured_window_end": "2026-11-28T03:01:28.673682+00:00",
   "featured_pool_count": 903,
   "featured_sources_count": 42,
   "featured_ranking_method": "diversité des médias, volume d'articles liés, position dans les flux RSS et fraîcheur sur 30 jours",
   "featured_news": [
     {
-      "id": "34600e8e992d",
-      "title": "Législatives en Espagne: le vote des jeunes penche de plus en plus à droite",
-      "summary": "Nous sommes à la veille d'élections législatives en Espagne, prévues ce dimanche 29 novembre 2026. Le Parti populaire, de droite, est donné favori dans les sondages, juste devant le Parti socialiste du Premier ministre Pedro Sanchez. En troisième position : le parti d'extrême droite Vox, crédité de près de 20% des intentions de vote. Mais chez les…",
-      "source": "RFI",
-      "feed_rank": 3,
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261127-l%C3%A9gislatives-en-espagne-le-vote-des-jeunes-de-plus-en-plus-%C3%A0-droite",
-      "published_at": "2026-11-27T23:21:42+00:00",
+      "id": "a8f4223ff876",
+      "title": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+      "summary": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en Sciences politiques, le candidat de Nouvelle Energie bénéficie d'un \"effet de nouveauté\" et n'est pas associé au bilan d'Emmanuel Macron.",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
+      "published_at": "2026-11-27T23:42:44+00:00",
       "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Législatives en Espagne: le vote des jeunes penche de plus en plus à droite ».",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: la dynamique David Lisnard à la loupe ».",
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
@@ -66,9 +66,9 @@
         "Télérama"
       ],
       "coverage_count": 34,
-      "mention_count": 141,
-      "importance_score": 35.307,
-      "latest_coverage_at": "2026-11-27T23:21:42+00:00"
+      "mention_count": 140,
+      "importance_score": 35.299,
+      "latest_coverage_at": "2026-11-27T23:42:44+00:00"
     },
     {
       "id": "9b7c80d54d45",
@@ -101,7 +101,7 @@
       ],
       "coverage_count": 17,
       "mention_count": 24,
-      "importance_score": 27.769,
+      "importance_score": 27.762,
       "latest_coverage_at": "2026-11-27T22:16:56+00:00"
     },
     {
@@ -117,6 +117,7 @@
       "coverage_sources": [
         "France Info (Radio)",
         "Franceinfo (TV)",
+        "Le Monde",
         "TF1 Info (TF1 / LCI)",
         "BFMTV",
         "CNews",
@@ -131,9 +132,9 @@
         "Le Dauphiné Libéré",
         "Midi Libre"
       ],
-      "coverage_count": 15,
-      "mention_count": 23,
-      "importance_score": 26.89,
+      "coverage_count": 16,
+      "mention_count": 24,
+      "importance_score": 27.336,
       "latest_coverage_at": "2026-11-27T21:55:52+00:00"
     },
     {
@@ -161,8 +162,8 @@
         "Creapills"
       ],
       "coverage_count": 12,
-      "mention_count": 39,
-      "importance_score": 26.37,
+      "mention_count": 38,
+      "importance_score": 26.313,
       "latest_coverage_at": "2026-11-27T20:45:15+00:00"
     },
     {
@@ -170,7 +171,7 @@
       "title": "Ecrits antisémites : la défense de Jordan Bardella patine, Marine Le Pen maintient timidement sa confiance",
       "summary": "Interrogé sur le contenu de la plainte du président du RN contre « Mediapart » pour « faux et usage de faux », son avocat a évoqué des courriels périphériques aux échanges incriminés.",
       "source": "Le Monde",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-la-defense-de-jordan-bardella-patine-marine-le-pen-maintient-timidement-sa-confiance_6815931_823448.html",
       "published_at": "2026-11-27T20:14:22+00:00",
       "category": "Politique",
@@ -192,7 +193,7 @@
       ],
       "coverage_count": 13,
       "mention_count": 13,
-      "importance_score": 24.952,
+      "importance_score": 24.942,
       "latest_coverage_at": "2026-11-27T20:14:22+00:00"
     },
     {
@@ -218,7 +219,7 @@
       ],
       "coverage_count": 9,
       "mention_count": 9,
-      "importance_score": 22.156,
+      "importance_score": 22.143,
       "latest_coverage_at": "2026-11-28T00:05:59+00:00"
     },
     {
@@ -226,7 +227,7 @@
       "title": "Essor des data centers : faut-il débrancher l'IA?",
       "summary": "Cette semaine Elon Musk a obtenu le feu vert pour envoyer des data centers dans l'espace ! Jusqu'où ira la course à l'intelligence artificielle? Pour le président de la plateforme Café IA, Gilles Babinet, la logique actuelle \"est plutôt une logique d'accélération\".",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
       "published_at": "2026-11-27T23:27:59+00:00",
       "category": "Politique",
@@ -243,31 +244,8 @@
       ],
       "coverage_count": 8,
       "mention_count": 10,
-      "importance_score": 21.322,
+      "importance_score": 21.31,
       "latest_coverage_at": "2026-11-27T23:27:59+00:00"
-    },
-    {
-      "id": "234b0b4db4d0",
-      "title": "Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
-      "summary": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultra-droite déjà connue des services de l’Etat.",
-      "source": "Le Monde",
-      "feed_rank": 9,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html",
-      "published_at": "2026-11-27T22:55:01+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Le Monde",
-        "Le Dauphiné Libéré",
-        "Paris Match",
-        "Télérama"
-      ],
-      "coverage_count": 6,
-      "mention_count": 6,
-      "importance_score": 19.056,
-      "latest_coverage_at": "2026-11-27T22:55:01+00:00"
     },
     {
       "id": "83c6d87e613b",
@@ -289,8 +267,54 @@
       ],
       "coverage_count": 6,
       "mention_count": 6,
-      "importance_score": 19.046,
+      "importance_score": 19.043,
       "latest_coverage_at": "2026-11-27T21:53:57+00:00"
+    },
+    {
+      "id": "234b0b4db4d0",
+      "title": "Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
+      "summary": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultra-droite déjà connue des services de l’Etat.",
+      "source": "Le Monde",
+      "feed_rank": 11,
+      "url": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html",
+      "published_at": "2026-11-27T22:55:01+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité musicale illustre la construction d'une communauté autour d'un artiste ou d'un événement. Les équipes de communication peuvent observer l'articulation entre identité visuelle, réseaux sociaux, expérience en direct et relais des fans. Sujet suivi : « Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère ».",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Le Monde",
+        "Le Dauphiné Libéré",
+        "Paris Match",
+        "Télérama"
+      ],
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 19.038,
+      "latest_coverage_at": "2026-11-27T22:55:01+00:00"
+    },
+    {
+      "id": "4f8278159af0",
+      "title": "En Espagne, au moins 14 migrants retrouvés morts au large des Canaries et plus de 84 autres secourus",
+      "summary": "L’île d’El Hierro, la plus petite des îles de l’archipel des Canaries est confrontée depuis plusieurs semaines à un important afflux de personnes migrantes, mettant les autorités espagnols sous pression.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/migrants/en-espagne-au-moins-14-migrants-retrouves-morts-au-large-des-canaries-et-plus-de-84-autres-secourus-bd1b489e-ead0-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-28T02:54:53+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Espagne, au moins 14 migrants retrouvés morts au large des Canaries et plus de 84 autres secourus » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "France Info (Radio)",
+        "Franceinfo (TV)",
+        "Ouest-France",
+        "Sud Ouest",
+        "20 Minutes",
+        "La Croix"
+      ],
+      "coverage_count": 6,
+      "mention_count": 6,
+      "importance_score": 19.034,
+      "latest_coverage_at": "2026-11-28T02:54:53+00:00"
     },
     {
       "id": "9be4df6cf185",
@@ -310,7 +334,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 5,
-      "importance_score": 16.573,
+      "importance_score": 16.57,
       "latest_coverage_at": "2026-11-27T20:01:30+00:00"
     },
     {
@@ -318,7 +342,7 @@
       "title": "OpenAI, le créateur de ChatGPT et son concurrent Apple s’accusent mutuellement de vol, sur fond de course aux objets connectés",
       "summary": "OpenAI, le créateur de ChatGPT, a contre-attaqué vendredi 27 novembre 2026 en justice face à Apple, l’accusant à son tour de lui avoir dérobé des secrets industriels et de faire pression sur des fournisseurs communs, afin de freiner son entrée sur le marché convoité des objets connectés.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/high-tech/apple/openai-le-createur-de-chatgpt-et-son-concurrent-apple-saccusent-mutuellement-de-vol-sur-fond-de-course-aux-objets-connectes-d22853e6-eabf-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-28T01:42:32+00:00",
       "category": "Société",
@@ -331,7 +355,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.465,
+      "importance_score": 16.428,
       "latest_coverage_at": "2026-11-28T01:42:32+00:00"
     },
     {
@@ -352,29 +376,8 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.316,
+      "importance_score": 16.313,
       "latest_coverage_at": "2026-11-27T21:35:52+00:00"
-    },
-    {
-      "id": "a0d84472d72e",
-      "title": "Le bateau naufragé au large d'Ibiza sera remorqué vers le port espagnol de Carthagène",
-      "summary": "Le carburant est, pour l'heure, contenu et le navire a été stabilisé en pleine mer. Les autorités font face à une opération de sauvetage complexe, dans un contexte de crainte d'une pollution majeure.",
-      "source": "Franceinfo (TV)",
-      "feed_rank": 11,
-      "url": "https://www.franceinfo.fr/monde/espagne/le-bateau-naufrage-au-large-d-ibiza-sera-remorque-vers-le-port-espagnol-de-carthagene_8303865.html#xtor=RSS-3-[lestitres]",
-      "published_at": "2026-11-27T22:56:50+00:00",
-      "category": "Économie",
-      "communication_angle": "Les tensions énergétiques peuvent peser sur les coûts, les déplacements et les décisions de consommation. Pour les communicants, l'enjeu est d'expliquer les conséquences concrètes, de sourcer les données et de ne pas attribuer à une seule cause une évolution multifactorielle. Sujet suivi : « Le bateau naufragé au large d'Ibiza sera remorqué vers le port espagnol de Carthagène ».",
-      "coverage_sources": [
-        "France Info (Radio)",
-        "Franceinfo (TV)",
-        "Sud Ouest",
-        "20 Minutes"
-      ],
-      "coverage_count": 4,
-      "mention_count": 4,
-      "importance_score": 16.079,
-      "latest_coverage_at": "2026-11-27T22:56:50+00:00"
     },
     {
       "id": "47a0d779f860",
@@ -394,7 +397,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 16.023,
+      "importance_score": 16.008,
       "latest_coverage_at": "2026-11-27T19:09:00+00:00"
     },
     {
@@ -415,7 +418,7 @@
       ],
       "coverage_count": 4,
       "mention_count": 4,
-      "importance_score": 15.867,
+      "importance_score": 15.864,
       "latest_coverage_at": "2026-11-27T20:43:21+00:00"
     },
     {
@@ -435,7 +438,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 5,
-      "importance_score": 15.344,
+      "importance_score": 15.341,
       "latest_coverage_at": "2026-11-27T23:20:46+00:00"
     },
     {
@@ -443,7 +446,7 @@
       "title": "Stade Brestois. « Je suis fier d’être leur coach » : Julien Lachuer admiratif après la victoire contre le Paris FC",
       "summary": "Le Stade Brestois a signé une quatrième victoire de rang, toujours sans prendre de but, en faisant tomber le Paris FC (1-0), ce vendredi 27 novembre. Le club finistérien est provisoirement sur le podium de la Ligue 1.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-je-suis-fier-detre-leur-coach-julien-lachuer-admiratif-apres-la-victoire-contre-le-paris-fc-9b1dbd5c-eab8-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T23:29:06+00:00",
       "category": "Sport",
@@ -455,7 +458,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 4,
-      "importance_score": 14.873,
+      "importance_score": 14.847,
       "latest_coverage_at": "2026-11-27T23:29:06+00:00"
     },
     {
@@ -475,7 +478,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.371,
+      "importance_score": 14.368,
       "latest_coverage_at": "2026-11-27T20:00:26+00:00"
     },
     {
@@ -495,7 +498,7 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.327,
+      "importance_score": 14.324,
       "latest_coverage_at": "2026-11-27T20:37:06+00:00"
     },
     {
@@ -515,17 +518,65 @@
       ],
       "coverage_count": 3,
       "mention_count": 3,
-      "importance_score": 14.319,
+      "importance_score": 14.316,
       "latest_coverage_at": "2026-11-27T23:15:48+00:00"
     }
   ],
   "articles": [
     {
+      "id": "4f8278159af0",
+      "title": "En Espagne, au moins 14 migrants retrouvés morts au large des Canaries et plus de 84 autres secourus",
+      "summary": "L’île d’El Hierro, la plus petite des îles de l’archipel des Canaries est confrontée depuis plusieurs semaines à un important afflux de personnes migrantes, mettant les autorités espagnols sous pression.",
+      "source": "Ouest-France",
+      "feed_rank": 1,
+      "url": "https://www.ouest-france.fr/monde/migrants/en-espagne-au-moins-14-migrants-retrouves-morts-au-large-des-canaries-et-plus-de-84-autres-secourus-bd1b489e-ead0-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+      "published_at": "2026-11-28T02:54:53+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « En Espagne, au moins 14 migrants retrouvés morts au large des Canaries et plus de 84 autres secourus » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Ouest-France"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "dfd22d045701",
+      "title": "Chez Daniel de Roulet, des anars suisses, il y en a bien «Trois» sur cent",
+      "summary": "L’écrivain helvète traverse soixante ans d’histoire mondiale et de luttes d’extrême gauche à travers la vie, les idées et les doutes de «Trois Garçons» anarcho-autonomes.",
+      "source": "Libération",
+      "feed_rank": 1,
+      "url": "https://www.liberation.fr/culture/livres/chez-daniel-de-roulet-des-anars-suisses-il-y-en-a-bien-trois-sur-cent-20261128_4SAG24QWHFGSFBLPIWY4WIOYJQ/",
+      "published_at": "2026-11-28T02:53:00+00:00",
+      "category": "Société",
+      "communication_angle": "Cette actualité révèle une attente ou une tension vécue par une partie de la population. Elle invite à écouter les personnes concernées, éviter les généralisations et choisir des formulations empathiques et précises. Pour travailler ce cas, partez du sujet précis — « Chez Daniel de Roulet, des anars suisses, il y en a bien «Trois» sur cent » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Libération"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "7eac513679ff",
+      "title": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »",
+      "summary": "L’ONG s’est dite « bouleversée et révoltée par le meurtre » des deux gardiens travaillant dans une de ses cliniques frappée par les forces armées israéliennes, qui les accusent de leur côté d’être des membres du Hamas.",
+      "source": "Le Monde",
+      "feed_rank": 8,
+      "url": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
+      "published_at": "2026-11-28T02:30:39+00:00",
+      "category": "International",
+      "communication_angle": "Dans un contexte de conflit, les images et les récits circulent vite et peuvent être instrumentalisés. Les communicants doivent vérifier l'origine des contenus, dater les informations, contextualiser les chiffres et éviter de relayer des images choquantes ou non authentifiées. Sujet suivi : « Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes » ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "20b5451fabd8",
       "title": "OpenAI, le créateur de ChatGPT et son concurrent Apple s’accusent mutuellement de vol, sur fond de course aux objets connectés",
       "summary": "OpenAI, le créateur de ChatGPT, a contre-attaqué vendredi 27 novembre 2026 en justice face à Apple, l’accusant à son tour de lui avoir dérobé des secrets industriels et de faire pression sur des fournisseurs communs, afin de freiner son entrée sur le marché convoité des objets connectés.",
       "source": "Ouest-France",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.ouest-france.fr/high-tech/apple/openai-le-createur-de-chatgpt-et-son-concurrent-apple-saccusent-mutuellement-de-vol-sur-fond-de-course-aux-objets-connectes-d22853e6-eabf-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-28T01:42:32+00:00",
       "category": "Société",
@@ -539,11 +590,27 @@
       "mention_count": 3
     },
     {
+      "id": "c24c854f1bb8",
+      "title": "Trois policiers de la BAC devant le tribunal de Bobigny pour des violences aggravées contre un Algérien",
+      "summary": "De la prison ferme a été requise contre les prévenus, accusés d’avoir, en mars 2025, passé à tabac, volé et arbitrairement détenu à l’intérieur de leur véhicule Samir T., un SDF de 34 ans qui s’adonnait selon eux au trafic de cigarettes.",
+      "source": "Le Monde",
+      "feed_rank": 10,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/28/trois-policiers-de-la-bac-devant-le-tribunal-de-bobigny-pour-des-violences-aggravees-contre-un-algerien_6815989_3224.html",
+      "published_at": "2026-11-28T01:34:43+00:00",
+      "category": "Société",
+      "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Trois policiers de la BAC devant le tribunal de Bobigny pour des violences aggravées contre un Algérien ».",
+      "coverage_sources": [
+        "Le Monde"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "5ee06c738d4e",
       "title": "À Taïwan, le spectre des interférences chinoise pèse sur les élections locales",
       "summary": "Les Taïwanais sont appelés aux urnes samedi 28 novembre 2026 pour les élections locales qui se tiennent tous les quatre ans après que le gouvernement a mis en garde contre un risque d’interférences de la Chine.",
       "source": "Ouest-France",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.ouest-france.fr/monde/taiwan/a-taiwan-le-spectre-des-interferences-chinoise-pese-sur-les-elections-locales-c44082e0-eab4-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-28T01:11:01+00:00",
       "category": "Politique",
@@ -591,7 +658,7 @@
       "title": "Canada : 25 ans de prison requis contre Kenneth Law pour la vente de « kits de suicide » dans une quarantaine de pays",
       "summary": "Ce Canadien de 61 ans trouvait ses victimes sur des forums en ligne d’aide au suicide et leur envoyait du nitrite de sodium, une substance mortelle à forte dose. Il est jugé pour la mort de quatorze personnes au Canada mais il a envoyé des centaines de colis dans le monde entier.",
       "source": "Le Monde",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
       "published_at": "2026-11-28T00:23:03+00:00",
       "category": "International",
@@ -637,6 +704,22 @@
       "mention_count": 1
     },
     {
+      "id": "a8f4223ff876",
+      "title": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+      "summary": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en Sciences politiques, le candidat de Nouvelle Energie bénéficie d'un \"effet de nouveauté\" et n'est pas associé au bilan d'Emmanuel Macron.",
+      "source": "France 24",
+      "feed_rank": 1,
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
+      "published_at": "2026-11-27T23:42:44+00:00",
+      "category": "Politique",
+      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Présidentielle 2027: la dynamique David Lisnard à la loupe ».",
+      "coverage_sources": [
+        "France 24"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
       "id": "4764ad50551e",
       "title": "Armée de l’air, FBI, CIA… Aux États-Unis, les cyberattaques s’accumulent contre les secteurs stratégiques",
       "summary": "L’armée de l’air américaine a été victime d’une attaque informatique ciblant sa plateforme «Cloud One», qui centralise des données sensibles.",
@@ -657,7 +740,7 @@
       "title": "Stade Brestois. « Je suis fier d’être leur coach » : Julien Lachuer admiratif après la victoire contre le Paris FC",
       "summary": "Le Stade Brestois a signé une quatrième victoire de rang, toujours sans prendre de but, en faisant tomber le Paris FC (1-0), ce vendredi 27 novembre. Le club finistérien est provisoirement sur le podium de la Ligue 1.",
       "source": "Ouest-France",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-je-suis-fier-detre-leur-coach-julien-lachuer-admiratif-apres-la-victoire-contre-le-paris-fc-9b1dbd5c-eab8-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T23:29:06+00:00",
       "category": "Sport",
@@ -673,7 +756,7 @@
       "title": "Essor des data centers : faut-il débrancher l'IA?",
       "summary": "Cette semaine Elon Musk a obtenu le feu vert pour envoyer des data centers dans l'espace ! Jusqu'où ira la course à l'intelligence artificielle? Pour le président de la plateforme Café IA, Gilles Babinet, la logique actuelle \"est plutôt une logique d'accélération\".",
       "source": "France 24",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
       "published_at": "2026-11-27T23:27:59+00:00",
       "category": "Politique",
@@ -689,7 +772,7 @@
       "title": "Insubmersible, inarrêtable, le Stade Brestois s’invite sur le podium après sa victoire héroïque contre le Paris FC",
       "summary": "Inarrêtable, le Stade Brestois s’est offert un quatrième succès consécutif contre le Paris FC, dauphin du PSG, ce vendredi 27 novembre. Toujours sans prendre de but (1-0). Les Ti-Zefs sont virtuellement sur le podium.",
       "source": "Ouest-France",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-paris-fc-inarretable-et-magnifique-brest-sinvite-sur-le-podium-a4ef8e00-ea95-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T23:27:22+00:00",
       "category": "Société",
@@ -898,7 +981,7 @@
       "title": "Ligue 1. L’affaire de l’arbitre Abdelatif Kherradji classé sans suite par la commission supérieure d’appel de la FFF",
       "summary": "L’arbitre de Ligue 1 Abdelatif Kherradji a été condamné le 19 août 2026 à six mois de prison avec sursis pour violences conjugales, sans inscription sur son casier judiciaire. Selon L’Équipe, la commission supérieure d’appel de la FFF a classé l’affaire sans suite, le 19 novembre.",
       "source": "Ouest-France",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.ouest-france.fr/sport/football/ligue-1/ligue-1-laffaire-de-larbitre-abdelatif-kherradji-classe-sans-suite-par-la-commission-superieure-dappel-de-la-fff-7989f72a-eaa7-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T22:56:27+00:00",
       "category": "Société",
@@ -914,7 +997,7 @@
       "title": "Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
       "summary": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultra-droite déjà connue des services de l’Etat.",
       "source": "Le Monde",
-      "feed_rank": 9,
+      "feed_rank": 11,
       "url": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html",
       "published_at": "2026-11-27T22:55:01+00:00",
       "category": "Société",
@@ -930,7 +1013,7 @@
       "title": "Premier League. Sixième défaite en douze journées, Wesley Fofana fautif et hué : la nouvelle soirée cauchemar de Chelsea à Nottingham Forest",
       "summary": "Dépassé, Chelsea a sombré sur le terrain de Nottingham Forest (3-2), ce vendredi 27 novembre en ouverture de la 12e journée de Premier League. Avec six défaites, les Blues restent englués dans le ventre mou alors que le Français Wesley Fofana, pris pour cible par ses supporters, a vécu une soirée cauchemar.",
       "source": "Ouest-France",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.ouest-france.fr/sport/football/angleterre/premier-league-sixieme-defaite-en-douze-journees-wesley-fofana-fautif-et-hue-la-nouvelle-soiree-cauchemar-de-chelsea-a-nottingham-forest-639f8fe4-eab4-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T22:52:41+00:00",
       "category": "Société",
@@ -978,7 +1061,7 @@
       "title": "Paris SG - FC Lorient. Luis Enrique va devoir se passer d’un nouveau cadre : Nuno Mendes forfait pour la réception des Merlus",
       "summary": "Victime d’une gêne musculaire à la cuisse gauche, Nuno Mendes est forfait pour la réception de Lorient, ce samedi 28 novembre 2026 (20 h 45), dans le cadre de la 12e journée de la Ligue 1. Une perte de plus pour le Paris Saint-Germain, après les forfaits longue durée de Khvicha Kvaratskhelia et Désiré Doué.",
       "source": "Ouest-France",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.ouest-france.fr/sport/football/paris-sg/paris-sg-fc-lorient-luis-enrique-va-devoir-se-passer-dun-nouveau-cadre-nuno-mendes-forfait-pour-la-reception-des-merlus-0626c31c-eab1-11f1-8e4e-f44a9b15a834?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T22:44:37+00:00",
       "category": "Sport",
@@ -1011,7 +1094,7 @@
       "title": "Coupe de France. « Faute professionnelle » d’un côté, « chose incommensurable » de l’autre : les réactions après Saint-Omer - SM Caen",
       "summary": "Visage fermé d’un côté, sourire jusqu’aux oreilles de l’autre… Vive la magie du sport mais surtout de la Coupe de France. Au 8e tour de la compétition, vendredi 27 novembre 2026, Saint-Omer (Régional 1) s’est offert le SM Caen (Ligue 3) au bout du suspense, avec un but dans le temps réglementaire (1-0). Les deux entraîneurs font le point de cette soirée…",
       "source": "Ouest-France",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.ouest-france.fr/sport/football/sm-caen/coupe-de-france-faute-professionnelle-dun-cote-chose-incommensurable-de-lautre-les-reactions-apres-saint-omer-sm-caen-00237d14-eaae-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
       "published_at": "2026-11-27T22:42:21+00:00",
       "category": "Sport",
@@ -1039,27 +1122,11 @@
       "mention_count": 1
     },
     {
-      "id": "02a08d207bde",
-      "title": "Championnat des nations. L’Irlande remporte largement son match contre l’Australie et termine 5e au classement",
-      "summary": "Les Irlandais se sont imposés facilement contre l’Australie (38-14), ce vendredi 27 novembre à Twickenham, en Angleterre, pour leur dernier match du Championnat des nations. Ils obtiennent ainsi un point pour l’hémisphère nord et se classent 5e au classement tandis que l’Australie, l’hôte du mondial 2027, ne se rassure pas.",
-      "source": "Ouest-France",
-      "feed_rank": 10,
-      "url": "https://www.ouest-france.fr/sport/rugby/championnat-des-nations/championnat-des-nations-lirlande-remporte-largement-son-match-contre-laustralie-et-termine-5e-au-classement-0c66578a-eaaf-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-      "published_at": "2026-11-27T22:35:07+00:00",
-      "category": "Sport",
-      "communication_angle": "Le sport associe performance, émotion collective et exposition médiatique. Cette actualité permet d'analyser la réputation d'un athlète ou d'un club, la communication des sponsors et la nécessité de réagir vite sans commenter à chaud des informations non vérifiées. Sujet suivi : « Championnat des nations. L’Irlande remporte largement son match contre l’Australie et termine 5e au classement ».",
-      "coverage_sources": [
-        "Ouest-France"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "2ad6c36d116d",
       "title": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
       "summary": "Les djihadistes du Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali… C’est l’installation depuis quelques semaines dans cette ville située dans la région de Tombouctou d’un détachement des forces russes d’Africa Corps et de l’armée malienne qui suscite l’ire…",
       "source": "France 24",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
       "published_at": "2026-11-27T22:30:34+00:00",
       "category": "Société",
@@ -1157,7 +1224,7 @@
       "title": "Le prince Harry et Meghan Markle filmés en pleine dispute devant leur fille Lilibet ?",
       "summary": "Une séquence virale prétend montrer le prince Harry attraper Meghan Markle par le cou avant de la repousser violemment, sous les yeux de leur enfant de 5 ans Lilibet. La raison, selon ces publications aux millions de vues : l'actrice aurait contacté une agence de mannequinat pour obtenir des contrats publicitaires pour sa fille... En réalité, ces images…",
       "source": "France 24",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261127-le-prince-harry-et-meghan-markle-film%C3%A9s-en-pleine-dispute-devant-leur-fille-lilibet",
       "published_at": "2026-11-27T22:20:50+00:00",
       "category": "Médias & communication",
@@ -1273,7 +1340,7 @@
       "title": "Marguerite Thiam, le saut dans l’avenir",
       "summary": "La chanteuse, actrice et réalisatrice, donne de nouvelles tonalités à son rap mélancolique et règle ses comptes avec une adolescence douloureuse.",
       "source": "Libération",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "url": "https://www.liberation.fr/culture/musique/marguerite-thiam-le-saut-dans-lavenir-20261127_TKBNRB4PWVG5VECLAN2B2FFB4Y/",
       "published_at": "2026-11-27T21:59:00+00:00",
       "category": "Société",
@@ -1370,7 +1437,7 @@
       "title": "Dans les Aravis, le VTT électrique prend la pente",
       "summary": "Au Grand-Bornand, un couple de passionnés proposent des balades en VTT à assistance électrique sur les chemins skiables.",
       "source": "Libération",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "url": "https://www.liberation.fr/forums/dans-les-aravis-le-vtt-electrique-prend-la-pente-20261127_NRCCXLLRVFEKLBXHNGVZJ3SIFM/",
       "published_at": "2026-11-27T21:46:00+00:00",
       "category": "Société",
@@ -1748,7 +1815,7 @@
       "title": "Pour reprendre le BHV, le «serial repreneur» de Duralex et de Tupperware sur les rangs",
       "summary": "A l’audience qui s’est tenue ce vendredi 27 novembre, deux projets de reprise partielle ont été présentés pour le grand magasin de la rue de Rivoli placé en redressement judiciaire depuis fin octobre. Sans véritablement convaincre les salariés.",
       "source": "Libération",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "url": "https://www.liberation.fr/economie/social/le-serial-repreneur-de-duralex-et-de-tupperware-sur-les-rangs-pour-reprendre-le-bhv-20261127_ZM64IJYNINCBXFSHCJQDLI4E6I/",
       "published_at": "2026-11-27T20:58:48+00:00",
       "category": "Société",
@@ -1812,7 +1879,7 @@
       "title": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
       "summary": "Volodymyr Zelensky a critiqué vendredi Donald Trump pour avoir qualifié Vladimir Poutine d'\"ami\", comparant le dirigeant russe à Adolf Hitler, lors d'un entretien accordé à la BBC. \"Il s'agit d'un agresseur et d'un tueur... il ne peut pas être considéré comme un ami\", a souligné le président ukrainien.",
       "source": "France 24",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
       "published_at": "2026-11-27T20:52:06+00:00",
       "category": "Politique",
@@ -1968,6 +2035,22 @@
       "communication_angle": "Un dossier judiciaire exige une grande rigueur de formulation : présomption d'innocence, faits établis et déclarations doivent être distingués. Pour une organisation, une prise de parole mal calibrée peut créer un risque juridique et amplifier l'atteinte à la réputation. Sujet suivi : « Crise du cognac : viticulteurs et négociants dénoncent « l’inaction » du gouvernement et menacent de poursuivre l’État en justice ».",
       "coverage_sources": [
         "Sud Ouest"
+      ],
+      "coverage_count": 1,
+      "mention_count": 1
+    },
+    {
+      "id": "fb8cd8874e7b",
+      "title": "Mathilde Panot et trois autres députés « insoumis » visés par des menaces de mort provenant d’une adresse e-mail reprenant le nom de l’auteur de l’attentat raciste de Trappes",
+      "summary": "Dans son courrier envoyé à Laure Beccuau, la procureure de Paris, Mathilde Panot évoque des e-mails provenant de l’adresse « kevintessierleheros@outlook.fr » et également envoyés aux députés Danièle Obono, Manuel Bompard et Aly Diouara.",
+      "source": "Le Monde",
+      "feed_rank": 16,
+      "url": "https://www.lemonde.fr/societe/article/2026/11/27/mathilde-panot-et-trois-autres-deputes-insoumis-vises-par-des-menaces-de-mort-provenant-d-une-adresse-e-mail-reprenant-le-nom-de-l-auteur-de-l-attentat-raciste-de-trappes_6815932_3224.html",
+      "published_at": "2026-11-27T20:40:43+00:00",
+      "category": "Politique",
+      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Mathilde Panot et trois autres députés « insoumis » visés par des menaces de mort provenant d’une adresse e-mail reprenant le nom de l’auteur de l’att » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
+      "coverage_sources": [
+        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -2267,7 +2350,7 @@
       "title": "Ecrits antisémites : la défense de Jordan Bardella patine, Marine Le Pen maintient timidement sa confiance",
       "summary": "Interrogé sur le contenu de la plainte du président du RN contre « Mediapart » pour « faux et usage de faux », son avocat a évoqué des courriels périphériques aux échanges incriminés.",
       "source": "Le Monde",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "url": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-la-defense-de-jordan-bardella-patine-marine-le-pen-maintient-timidement-sa-confiance_6815931_823448.html",
       "published_at": "2026-11-27T20:14:22+00:00",
       "category": "Politique",
@@ -2283,7 +2366,7 @@
       "title": "A Béziers, Teddy Riner, toujours en panne d’idées, fait du lèche-vitrine",
       "summary": "Le judoka, désormais candidat à la présidentielle, s’est rendu, vendredi 27 novembre, dans l’une des villes les plus pauvres de France, guidé par son maire, Robert Ménard. Mais sa visite de la cité héraultaise s’est limitée à sa prison, une cave coopérative flambant neuve et son palais des sports. Il a surtout enchaîné les banalités.",
       "source": "Libération",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.liberation.fr/politique/elections/a-beziers-teddy-riner-toujours-en-panne-didees-fait-du-leche-vitrine-20261127_3UT4HCLVPFDLPPTZL24OKI4XMU/",
       "published_at": "2026-11-27T20:14:04+00:00",
       "category": "Politique",
@@ -2493,7 +2576,7 @@
       "title": "Tennis : deux Français doivent participer à un événement ce week-end en Russie, pourtant boycottée par les instances mondiales du sport",
       "summary": "Adrian Mannarino et Corentin Moutet sont attendus au Northern Palmyra Trophies, à Saint-Pétersbourg, exhibition créée en 2022 pour pallier l’annulation toute compétition internationale dans le pays à cause de l’invasion de l’Ukraine.",
       "source": "Libération",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.liberation.fr/sports/tennis/tennis-deux-francais-doivent-participer-a-un-evenement-ce-week-end-en-russie-pourtant-boycottee-par-les-instances-mondiales-du-sport-20261127_PVVAHD7QYRBMNE2VG67YNVOBAQ/",
       "published_at": "2026-11-27T19:58:13+00:00",
       "category": "Sport",
@@ -2557,7 +2640,7 @@
       "title": "Législatives en Espagne : et si ça (re)passait pour la gauche ?",
       "summary": "Prête à s’allier à une extrême droite au plus haut, la droite est donnée favorite aux élections législatives de ce dimanche. Une victoire qui représenterait un mouvement tectonique d’ampleur en Europe. Mais la performance de l’ex-maire de Barcelone Ada Colau lors du dernier débat a laissé percer un frémissement en faveur de la gauche. De quoi changer la…",
       "source": "Libération",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.liberation.fr/idees-et-debats/editorial/legislatives-en-espagne-et-si-ca-repassait-pour-la-gauche-20261127_QPUVKXMZMNDSFNUQKSZCY3H2IY/",
       "published_at": "2026-11-27T19:56:49+00:00",
       "category": "Politique",
@@ -2653,7 +2736,7 @@
       "title": "Guerre en Ukraine, Nvidia, législatives en Espagne, verdict de la CAN",
       "summary": "Au sommaire de l'émission cette semaine : l'extension de la guerre russo-ukrainienne et l'échec de l'Union européenne à s'accorder sur un nouveau prêt pour l'Ukraine ; le retour de Jensen Huang à la tête de l'entreprise Nvidia, orchestré par Donald Trump ; les élections législatives anticipées en Espagne et le verdict du Tribunal Arbitral du Sport qui…",
       "source": "France 24",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261127-guerre-en-ukraine-nvidia-l%C3%A9gislatives-en-espagne-verdict-de-la-can",
       "published_at": "2026-11-27T19:49:29+00:00",
       "category": "Politique",
@@ -2751,7 +2834,7 @@
       "title": "Iran : le coscénariste du film «Un simple accident», palme d’or de Jafar Panahi à Cannes, a été arrêté",
       "summary": "Des organisations de défense des droits humains ont annoncé ce vendredi 27 novembre l’arrestation du journaliste iranien pour avoir signalé l’exécution imminente de deux manifestants. Elles dénoncent des actes de torture à son encontre.",
       "source": "Libération",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.liberation.fr/international/moyen-orient/iran-le-coscenariste-du-film-un-simple-accident-palme-dor-de-jafar-panahi-a-cannes-a-ete-arrete-20261127_66CAY6DAPNAO3BGZJLOEZPFBKY/",
       "published_at": "2026-11-27T19:42:21+00:00",
       "category": "Médias & communication",
@@ -2767,7 +2850,7 @@
       "title": "En bombardant le pont de Crimée, l’Ukraine veut définitivement couper la péninsule de la Russie",
       "summary": "Gravement endommagée, la structure qui traverse le détroit de Kertch pourrait s’écrouler entièrement à la prochaine frappe ukrainienne. Le résultat d’une stratégie délibérée et patiente de Kyiv visant à étrangler la péninsule annexée et la vider de ses habitants.",
       "source": "Libération",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.liberation.fr/international/europe/lukraine-veut-definitivement-couper-le-pont-entre-la-crimee-et-la-russie-20261127_RROWZBUDJJHHNDNAQHXPPAZA5M/",
       "published_at": "2026-11-27T19:39:46+00:00",
       "category": "International",
@@ -2783,7 +2866,7 @@
       "title": "Fuite d’infos du ministère de l’Intérieur vers le RN : Ambroise de Rancourt, responsable du programme du parti, soupçonné d’être le principal destinataire",
       "summary": "«Le Monde» affirme ce vendredi 27 novembre que le bureau et le domicile personnel du cadre du parti d’extrême droite ont été perquisitionnés par l’Inspection générale de la police nationale.",
       "source": "Libération",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.liberation.fr/politique/fuite-dinfos-du-ministere-de-linterieur-vers-le-rn-ambroise-de-rancourt-responsable-du-programme-du-parti-soupconne-detre-le-principal-destinataire-20261127_EUCHKEJEYNGQFF4CHZADDU7HCQ/",
       "published_at": "2026-11-27T19:36:32+00:00",
       "category": "Société",
@@ -2898,7 +2981,7 @@
       "title": "En Cisjordanie occupée, la lente asphyxie du système de santé palestinien",
       "summary": "A Naplouse, alors que les checkpoints et les attaques de colons entravent l’accès aux soins des malades et le travail des urgentistes, les impayés de l’Autorité palestinienne fragilisent l’ensemble du maillage sanitaire du territoire.",
       "source": "Le Monde",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "url": "https://www.lemonde.fr/international/article/2026/11/27/en-cisjordanie-occupee-la-lente-asphyxie-du-systeme-de-sante-palestinien_6815929_3210.html",
       "published_at": "2026-11-27T19:30:04+00:00",
       "category": "Société",
@@ -2979,7 +3062,7 @@
       "title": "Au procès de Bernard Pallot, jugé pour avoir tué sa compagne malade : «Il n’y avait aucune solution douce et rapide pour elle»",
       "summary": "L’homme de 80 ans, accusé d’avoir assassiné son épouse, à sa demande en 2021, comparaît en appel devant la cour d’assises des Ardennes depuis jeudi 26 novembre. Ce vendredi, l’ancien médecin de Vincent Lambert, Eric Kariger, et la militante Claude Hury, ont témoigné. Deux prises de parole au cœur du débat sur le droit à mourir dans la dignité.",
       "source": "Libération",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.liberation.fr/societe/sante/au-proces-de-bernard-pallot-juge-pour-avoir-tue-sa-compagne-malade-il-ny-avait-aucune-solution-douce-et-rapide-pour-elle-20261127_K433S4UNC5BOXMECOPMHWXCBHI/",
       "published_at": "2026-11-27T19:26:45+00:00",
       "category": "Société",
@@ -3011,7 +3094,7 @@
       "title": "Que sait-on du voyage en Israël de plusieurs influenceurs d’extrême droite, dont Mila et Adrien J., l’homme qui a menacé Rima Hassan ?",
       "summary": "Quatre influenceurs proches de l’extrême droite française ont passé quelques jours dans le pays hébreu, où ils se sont notamment mis en scène près de la bande de Gaza aux côtés de militaires, en tenue de combat et aux commandes de drones thermiques. Un séjour organisé par un ancien militant de la Ligue de défense juive et par un mystérieux «Comité Trump…",
       "source": "Libération",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.liberation.fr/checknews/que-sait-on-du-voyage-en-israel-de-plusieurs-influenceurs-dextreme-droite-dont-mila-et-adrien-j-lhomme-qui-a-menace-rima-hassan-20261127_PNWD65K5RFB4LO3VSX3LHFSWVU/",
       "published_at": "2026-11-27T19:22:21+00:00",
       "category": "Médias & communication",
@@ -3059,7 +3142,7 @@
       "title": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
       "summary": "Plus de 200 communes du département ont été touchées par la montée des eaux de la rivière Canche. Alors que la décrue s’amorce, les habitants cherchent des responsables et redoutent la suite de l’hiver.",
       "source": "Le Monde",
-      "feed_rank": 6,
+      "feed_rank": 5,
       "url": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
       "published_at": "2026-11-27T19:15:54+00:00",
       "category": "Société",
@@ -3091,7 +3174,7 @@
       "title": "L'IA, atout ou menace pour le travail des femmes ?",
       "summary": "L'intelligence artificielle bouleverse notre monde et la façon dont nous travaillons. Elle peut libérer du temps sur certaines tâches mais aussi remplacer purement et simplement les personnes qui travaillent. Dans une société où le genre détermine bien des aspects de nos vies, l'IA ne présente pas le même risque pour les emplois occupés majoritairement…",
       "source": "France 24",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261127-l-ia-atout-ou-menace-pour-le-travail-des-femmes",
       "published_at": "2026-11-27T19:15:12+00:00",
       "category": "Économie",
@@ -3123,7 +3206,7 @@
       "title": "Guinée-Bissau : pour l’anniversaire du coup d’Etat, les militaires au pouvoir s’offrent une rallonge de deux ans",
       "summary": "Dix jours avant la date annoncée du scrutin, le général Horta N’Tam, qui semble avoir rompu son alliance avec l’ancien président Umaro Sissoco Embaló, a repoussé les élections à décembre 2028.",
       "source": "Libération",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.liberation.fr/international/afrique/guinee-bissau-pour-lanniversaire-du-coup-detat-les-militaires-au-pouvoir-soffrent-une-rallonge-de-deux-ans-20261127_WOJP2OXVEBDF7ENM3PFD3JRQ4A/",
       "published_at": "2026-11-27T19:14:19+00:00",
       "category": "Politique",
@@ -3139,7 +3222,7 @@
       "title": "Procès d’Emilie König : «d’influenceuse jihad à repentie star», l’itinéraire énigmatique de l’accusée",
       "summary": "Au deuxième jour du procès de la figure du terrorisme français, ce vendredi 27 novembre, les témoins ont fait un pas dans le sens du récit de sa déradicalisation, dont elle doit convaincre la cour d’assises spéciale de Paris.",
       "source": "Libération",
-      "feed_rank": 16,
+      "feed_rank": 17,
       "url": "https://www.liberation.fr/societe/police-justice/proces-demilie-konig-dinfluenceuse-jihad-a-repentie-star-litineraire-enigmatique-de-laccusee-20261127_JQGMAS42S5BQVKPFBGXQKFWVJQ/",
       "published_at": "2026-11-27T19:13:55+00:00",
       "category": "Société",
@@ -3155,7 +3238,7 @@
       "title": "Côte d'Ivoire : 234 détenus en marge de la présidentielle de 2025 libérés",
       "summary": "🇨🇮 En Côte d’Ivoire, 234 personnes arrêtées en marge de la présidentielle d’octobre 2025 ont été libérées. Elles étaient notamment soupçonnées de troubles à l’ordre public. Les juges ont estimé les charges insuffisantes pour justifier des poursuites, selon le gouvernement.",
       "source": "France 24",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-c%C3%B4te-d-ivoire-234-d%C3%A9tenus-en-marge-de-la-pr%C3%A9sidentielle-de-2025-lib%C3%A9r%C3%A9s",
       "published_at": "2026-11-27T19:13:40+00:00",
       "category": "Politique",
@@ -3559,7 +3642,7 @@
       "title": "Arancha Gonzalez Laya : \"Poutine fait peur aux Européens, pour qu'on arrête de financer l'Ukraine\"",
       "summary": "Notre invitée est la doyenne de l'École des affaires internationales de Sciences Po Paris, Arancha Gonzalez Laya. Ancienne ministre des Affaires étrangères du gouvernement du Premier ministre espagnol Pedro Sanchez, son parcours l'a aussi menée aux Nations unies et à l'Organisation mondiale du commerce (OMC).",
       "source": "France 24",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261127-arancha-gonzalez-laya-poutine-fait-peur-aux-europ%C3%A9ens-pour-qu-on-arr%C3%AAte-de-financer-l-ukraine",
       "published_at": "2026-11-27T18:42:50+00:00",
       "category": "Politique",
@@ -3687,7 +3770,7 @@
       "title": "Salim Cevik, politiste : en Turquie, « les Kurdes ne négocient plus vraiment, ils subissent une sorte de diktat de la part du gouvernement d’Erdogan »",
       "summary": "Dans un entretien au « Monde », le chercheur explique que la loi, votée en août, permettant le retour des combattants du PKK à la vie civile n’a pas changé le rapport de force favorable à Ankara. Affaiblis militairement et politiquement, les Kurdes n’ont que très peu de marge de manœuvre dans ces négociations, qui permettent au président turc de…",
       "source": "Le Monde",
-      "feed_rank": 4,
+      "feed_rank": 3,
       "url": "https://www.lemonde.fr/international/article/2026/11/27/salim-cevik-politiste-en-turquie-les-kurdes-ne-negocient-plus-vraiment-ils-subissent-une-sorte-de-diktat-de-la-part-du-gouvernement-d-erdogan_6815922_3210.html",
       "published_at": "2026-11-27T18:30:02+00:00",
       "category": "Politique",
@@ -3827,27 +3910,11 @@
       "mention_count": 1
     },
     {
-      "id": "3d194b3e7e42",
-      "title": "Comment BYD a remporté la bataille entre constructeurs chinois pour racheter l’usine d’Ineos Automotive en Moselle",
-      "summary": "Le groupe prévoit de produire dès 2027 un SUV hybride sur le site d’Hambach, et de multiplier ses volumes par dix d’ici 2030. Il a annoncé aux salariés d’importants investissements et des recrutements.",
-      "source": "Le Monde",
-      "feed_rank": 16,
-      "url": "https://www.lemonde.fr/economie/article/2026/11/27/comment-byd-a-remporte-la-bataille-entre-constructeurs-chinois-pour-racheter-l-usine-d-ineos-automotive-en-moselle_6815921_3234.html",
-      "published_at": "2026-11-27T18:22:02+00:00",
-      "category": "Société",
-      "communication_angle": "Cette actualité concerne des personnes et la relation entre une organisation et ses équipes. La communication interne doit être cohérente avec les décisions réelles, préciser le calendrier et les accompagnements prévus, et respecter la dignité des personnes concernées. Sujet suivi : « Comment BYD a remporté la bataille entre constructeurs chinois pour racheter l’usine d’Ineos Automotive en Moselle ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
       "id": "05717399085e",
       "title": "A Chamonix, un menuisier fait ski de tout bois",
       "summary": "Peter Steltzner vend chaque année une soixantaine de skis en frêne, ne retenant que des arbres sélectionnés drastiquement.",
       "source": "Libération",
-      "feed_rank": 17,
+      "feed_rank": 18,
       "url": "https://www.liberation.fr/forums/a-chamonix-un-menuisier-fait-ski-de-tout-bois-20261127_6UDQREDY7VD3HGXCQV7WRTBYQA/",
       "published_at": "2026-11-27T18:22:00+00:00",
       "category": "Société",
@@ -3863,7 +3930,7 @@
       "title": "Mort de l’arrangeur Jean-Claude Vannier, artisan invisible du sublime comme de l’ordinaire",
       "summary": "Trop souvent réduit à sa collaboration avec Serge Gainsbourg sur le culte «l’Histoire de Melody Nelson», le musicien qui a mis son éventail de talents au service des grands noms de la chanson française laisse derrière lui un corpus faramineux. Il est mort jeudi 26 novembre à 83 ans.",
       "source": "Libération",
-      "feed_rank": 18,
+      "feed_rank": 19,
       "url": "https://www.liberation.fr/culture/musique/mort-de-jean-claude-vannier-arrangeur-historique-de-serge-gainsbourg-20261127_XCWLPFFNIRHQZINVDIFL23IP6I/",
       "published_at": "2026-11-27T18:20:24+00:00",
       "category": "Société",
@@ -3975,7 +4042,7 @@
       "title": "Réindustrialisation : le \"Made in France\" sous tension",
       "summary": "Les sommets \"Choose France\" sont emblématiques des deux quinquennats d'Emmanuel Macron. Ce lundi s'est tenue la deuxième édition consacrée aux entreprises tricolores qui investissent dans l'Hexagone. Mais derrière la vitrine, que reste-t-il du \"Made in France\" ? Des usines ferment, la croissance recule et la France est techniquement en récession. Quel…",
       "source": "France 24",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261127-r%C3%A9industrialisation-le-made-in-france-sous-tension",
       "published_at": "2026-11-27T18:15:30+00:00",
       "category": "Économie",
@@ -4023,7 +4090,7 @@
       "title": "Afrique du Sud : Cyril Ramaphosa évite la destitution dans \"l'affaire Phala Phala\"",
       "summary": "🇿🇦 Cyril Ramaphosa échappe à une procédure de destitution liée au scandale de Phala Phala. Accusé d’avoir dissimulé un cambriolage survenu en 2020 dans sa ferme, le président sud-africain reste sous pression. L’affaire est loin d’être close.",
       "source": "France 24",
-      "feed_rank": 11,
+      "feed_rank": 12,
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-afrique-du-sud-cyril-ramaphosa-%C3%A9vite-la-destitution-dans-l-affaire-phala-phala",
       "published_at": "2026-11-27T18:14:03+00:00",
       "category": "Politique",
@@ -4217,7 +4284,7 @@
       "title": "Charlotte Dipanda, reine africaine",
       "summary": "Rendez-vous avec la chanteuse, autrice, compositrice et musicienne camerounaise Charlotte Dipanda. Dans cet épisode, la diva revient sur son enfance à Mbouda et Douala, ses débuts dans les cabarets à l’âge de 15 ans, son arrivée à Paris pour devenir choristes de Manu Dibango, Axelle Red et Youssou Ndour. Dans l’émission, la chanteuse développe sa…",
       "source": "France 24",
-      "feed_rank": 12,
+      "feed_rank": 13,
       "url": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261127-charlotte-dipanda-reine-africaine",
       "published_at": "2026-11-27T18:00:46+00:00",
       "category": "Société",
@@ -4233,7 +4300,7 @@
       "title": "«Une nouvelle tentative d’intimidation des journalistes et de leurs sources» : Marine Le Pen attaque la presse et suscite un tollé",
       "summary": "La candidate RN, en répondant aux polémiques Bardella et Moutouh ce vendredi 27 novembre, a menacé les médias d’alourdir les peines existantes pour «recels de violation du secret de l’enquête et de l’instruction» si elle était élue.",
       "source": "Libération",
-      "feed_rank": 19,
+      "feed_rank": 20,
       "url": "https://www.liberation.fr/politique/elections/une-nouvelle-tentative-dintimidation-des-journalistes-et-de-leurs-sources-marine-le-pen-attaque-la-presse-et-suscite-un-tolle-20261127_UORSBR67GFCKFHVJSUH4O2XH6Q/",
       "published_at": "2026-11-27T18:00:37+00:00",
       "category": "Médias & communication",
@@ -4521,7 +4588,7 @@
       "title": "RD Congo : le ton monte entre Kinshasa et l'armée ougandaise, déployée dans l'Est",
       "summary": "L'armée ougandaise a déclaré vendredi qu'elle prévoyait de se retirer de la ville de Lubero, dans l'est de la République démocratique du Congo, et a accusé des milices proches de Kinshasa de multiplier les exactions dans la région.",
       "source": "France 24",
-      "feed_rank": 13,
+      "feed_rank": 14,
       "url": "https://www.france24.com/fr/afrique/20261127-rd-congo-ton-monte-entre-kinshasa-arm%C3%A9e-ougandaise-d%C3%A9ploy%C3%A9e-est-lubero-nord-kivu",
       "published_at": "2026-11-27T17:34:49+00:00",
       "category": "Société",
@@ -4811,7 +4878,7 @@
       "title": "Kanal à Bruxelles : le nouveau musée qui veut rivaliser avec les grands noms de l’art mondial",
       "summary": "À Bruxelles, le musée Kanal ouvre ses portes dans un ancien garage Citroën des années 1930, avec l’ambition de s’imposer comme un haut lieu de l’art contemporain international. Au programme également : retour sur un moment historique pour le hip-hop, qui vise une reconnaissance au patrimoine culturel immatériel de l’Unesco, et une rencontre…",
       "source": "France 24",
-      "feed_rank": 14,
+      "feed_rank": 15,
       "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261127-kanal-%C3%A0-bruxelles-le-nouveau-mus%C3%A9e-qui-veut-rivaliser-avec-les-grands-noms-de-l-art-mondial",
       "published_at": "2026-11-27T17:17:49+00:00",
       "category": "Culture",
@@ -4859,7 +4926,7 @@
       "title": "Hommage national pour l’attentat de Trappes et de La Verrière, la France en récession, l’ex-mari de Chahinez Daoud condamné en appel… L’actu de ce vendredi 27 novembre",
       "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du 27 novembre.",
       "source": "Libération",
-      "feed_rank": 20,
+      "feed_rank": 21,
       "url": "https://www.liberation.fr/international/europe/hommage-national-pour-lattentat-de-trappes-et-de-la-verriere-la-france-en-recession-lex-mari-de-chahinez-daoud-condamne-en-appel-lactu-de-ce-vendredi-27-novembre-20261127_WYFUJWJMVNH6NGX3FQEXUROOVU/",
       "published_at": "2026-11-27T17:14:32+00:00",
       "category": "Société",
@@ -4907,7 +4974,7 @@
       "title": "«L’Ukraine, c’est pas notre guerre» : Teddy Riner et les faux-monnayeurs, par Daniel Schneidermann",
       "summary": "Après la séquence du judoka candidat au congrès des maires de France, sa petite phrase choc balancée dans la cohue devient pensée mûrement construite : une vraie-fausse monnaie politique.",
       "source": "Libération",
-      "feed_rank": 21,
+      "feed_rank": 22,
       "url": "https://www.liberation.fr/idees-et-debats/opinions/lukraine-cest-pas-notre-guerre-teddy-riner-et-les-faux-monnayeurs-par-daniel-schneidermann-20261127_JVFRUTAQUVGUTMGYJLSM3MKE64/",
       "published_at": "2026-11-27T17:12:15+00:00",
       "category": "Politique",
@@ -4987,7 +5054,7 @@
       "title": "En Espagne, comment fonctionnent les élections législatives ?",
       "summary": "Convoquées de façon anticipée sur fond de crise du logement, les élections législatives se tiennent ce dimanche 29 novembre en Espagne. «Libé» vous explique le processus électoral.",
       "source": "Libération",
-      "feed_rank": 23,
+      "feed_rank": 24,
       "url": "https://www.liberation.fr/international/europe/en-espagne-comment-fonctionnent-les-elections-legislatives-20261127_WAEAXIN4ZBHY5KZVBQ7DL62G64/",
       "published_at": "2026-11-27T17:06:00+00:00",
       "category": "Politique",
@@ -5003,7 +5070,7 @@
       "title": "Manifestations à Nantes : quatre syndicats réunis portent plainte pour violences policières",
       "summary": "Plusieurs organisations de Loire-Atlantique ont déposé plainte ensemble contre X pour des violences commises les 5 et 17 novembre sur des «camions et militants syndicaux clairement identifiés».",
       "source": "Libération",
-      "feed_rank": 24,
+      "feed_rank": 25,
       "url": "https://www.liberation.fr/societe/police-justice/manifestations-a-nantes-quatre-syndicats-reunis-portent-plainte-pour-violences-policieres-20261127_WJGWBNJL3BDUNPC5MF6OKONC7E/",
       "published_at": "2026-11-27T17:05:11+00:00",
       "category": "Société",
@@ -5083,7 +5150,7 @@
       "title": "Data centers en Europe : opportunité ou danger ?",
       "summary": "Dans de nombreux pays européens, la colère des citoyens gronde face à la prolifération des data centers. Indispensables au développement accéléré de l'intelligence artificielle, ils consomment cependant de nombreuses ressources, notamment en électricité, en eau ou en terrains fonciers. Ils émettent aussi une quantité importante de gaz à effet de serre :…",
       "source": "France 24",
-      "feed_rank": 15,
+      "feed_rank": 16,
       "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261127-data-centers-en-europe-opportunit%C3%A9-ou-danger",
       "published_at": "2026-11-27T17:00:46+00:00",
       "category": "Sciences & tech",
@@ -5187,38 +5254,6 @@
       "communication_angle": "Cet événement international peut déplacer les alliances, les sensibilités et les perceptions d'un pays ou d'une organisation. En communication, il faut adapter les références au contexte local, surveiller les réactions des différentes parties et ne pas plaquer une lecture nationale unique. Sujet suivi : « Nicolas Cage et Christian Bale transfigurés dans “Madden”, biopic minable sur une légende du foot US ».",
       "coverage_sources": [
         "Télérama"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "14f42110e8fa",
-      "title": "Un apéro avec l’écrivaine Louise Chennevière : « C’est fou, le nombre de femmes qui m’écrivent pour me dire que c’est leur histoire »",
-      "summary": "Chaque semaine, « L’Epoque » paie son coup. Dans « Faire la peau », son quatrième livre, celle qui navigue entre littérature et musique explore sans fard les blessures d’une relation mère-fille et la nécessité de s’en affranchir.",
-      "source": "Le Monde",
-      "feed_rank": 12,
-      "url": "https://www.lemonde.fr/m-perso/article/2026/11/27/un-apero-avec-l-ecrivaine-louise-chenneviere-c-est-fou-le-nombre-de-femmes-qui-m-ecrivent-pour-me-dire-que-c-est-leur-histoire_6815907_4497916.html",
-      "published_at": "2026-11-27T17:00:05+00:00",
-      "category": "Culture",
-      "communication_angle": "Un sujet littéraire est aussi une histoire de prescription et de conversation culturelle. Il permet d'étudier comment critiques, prix, libraires et communautés contribuent à la visibilité d'une œuvre, sans réduire sa valeur au seul nombre de ventes. Sujet suivi : « Un apéro avec l’écrivaine Louise Chennevière : « C’est fou, le nombre de femmes qui m’écrivent pour me dire que c’est leur histoire » ».",
-      "coverage_sources": [
-        "Le Monde"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "6d89716755b6",
-      "title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
-      "summary": "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations.",
-      "source": "Le Monde",
-      "feed_rank": 15,
-      "url": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
-      "published_at": "2026-11-27T17:00:05+00:00",
-      "category": "Politique",
-      "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
-      "coverage_sources": [
-        "Le Monde"
       ],
       "coverage_count": 1,
       "mention_count": 1
@@ -5331,38 +5366,6 @@
       "communication_angle": "Cette décision ou prise de position influe sur le débat public. Le communicant doit identifier les publics touchés, séparer annonce et mesure effective et anticiper les questions qui pourraient émerger. Pour travailler ce cas, partez du sujet précis — « Ce scénario pourrait plonger le monde dans une famine sans précédent : pourquoi un scientifique tire la sonnette d'alarme » — puis identifiez les publics concernés, le message à adapter et les preuves nécessaires avant de communiquer.",
       "coverage_sources": [
         "Futura"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "390edb0c134c",
-      "title": "Après dix ans de macronisme, la France entre en récession",
-      "summary": "Le PIB français a reculé de 0,2 % au troisième trimestre. Cela fait entrer, officiellement, l’économie française en récession technique. Pour la gauche, cet échec est le résultat logique des politiques macronistes qui ont tout misé sur les baisses de fiscalité du capital.",
-      "source": "L'Humanité",
-      "feed_rank": 4,
-      "url": "https://www.humanite.fr/politique/croissance/apres-dix-ans-de-macronisme-la-france-entre-en-recession",
-      "published_at": "2026-11-27T16:59:14+00:00",
-      "category": "Politique",
-      "communication_angle": "Un arbitrage budgétaire transforme des chiffres abstraits en choix qui touchent des publics précis. Les communicants institutionnels doivent rendre les conséquences compréhensibles, expliciter les compromis et anticiper les questions des bénéficiaires, contribuables ou partenaires. Sujet suivi : « Après dix ans de macronisme, la France entre en récession ».",
-      "coverage_sources": [
-        "L'Humanité"
-      ],
-      "coverage_count": 1,
-      "mention_count": 1
-    },
-    {
-      "id": "b32dc441fe85",
-      "title": "Election présidentielle en Serbie : Radomir Saicic, un chimiste sans expérience politique pour représenter la Liste étudiante",
-      "summary": "Un mois après son triomphe lors des élections législatives, le mouvement étudiant a décidé ce vendredi 27 novembre de soutenir au scrutin présidentiel du 27 décembre la candidature de l’universitaire de 65 ans, fervent soutien depuis le début des manifestations en 2024.",
-      "source": "Libération",
-      "feed_rank": 25,
-      "url": "https://www.liberation.fr/international/europe/election-presidentielle-en-serbie-radomir-saicic-un-chimiste-sans-experience-politique-pour-representer-la-liste-etudiante-20261127_JRCOVHQ7O5CNPNENC3ORY3TCGY/",
-      "published_at": "2026-11-27T16:57:49+00:00",
-      "category": "Politique",
-      "communication_angle": "Le résultat et la campagne se lisent aussi à travers les récits, les symboles et les publics mobilisés. Pour les communicants, c'est un cas d'école de segmentation des audiences, de cadrage des messages et de vérification des chiffres ou sondages avant toute reprise. Sujet suivi : « Election présidentielle en Serbie : Radomir Saicic, un chimiste sans expérience politique pour représenter la Liste étudiante ».",
-      "coverage_sources": [
-        "Libération"
       ],
       "coverage_count": 1,
       "mention_count": 1
